@@ -1,0 +1,21 @@
+title: Isle of Wight Story Notes
+author: Tony Hirst
+copyright: "2022" 
+only_build_toc_files: true
+
+repository:
+  url: https://github.com/psychemedia/island-storynotes
+  path_to_book: .
+  branch: main
+
+html:
+  use_repository_button: true
+
+
+sphinx:
+  config:
+    html_copy_source: false
+    html_theme: sphinx_book_theme
+
+  extra_extensions:
+    - sphinx_togglebutton
