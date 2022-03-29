@@ -1,6 +1,6 @@
 # Abraham Elder and The Pied Piper of Newtown
 
-You will have heard, no doubt, of the strange tale of the Pied Piper of Hamelin? Yes? No? No matter either way, for here is an equally curious tale of another piper, another *pied* paper, or perhaps it was the same one, who visited the then prosperous harbour town of Newtown on the Isle of Wight back in the days of once.
+You will have heard, no doubt, of the strange tale of the Pied Piper of Hamelin? Yes? No? No matter either way, for here is an equally curious tale of another piper, another *pied* paper, or perhaps it was the *same* piper, who visited the then prosperous harbour town of Newtown on the Isle of Wight back in the days of once.
 
 Oh, what a prosperous place it was. The names the tell us so live on today — Silver Street and Gold Street – even if the town does not. But what of the *story*? What of the story that is claimed to be older in the telling that even the Hamelin tale? And what of its origins?
 
