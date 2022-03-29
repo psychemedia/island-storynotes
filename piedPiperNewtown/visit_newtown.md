@@ -1,6 +1,6 @@
 # A Visit to Newtown
 
-What, then, is the town of Newtown, or *was* the town of Francheville like, and what of its history?
+What, then, is the town of Newtown, or *was* the town of Francheville, like? And what of its history?
 
 Here are two accounts from a hundred years or so ago, the second of which also includes a brief retelling of the localised piper tale.
 
