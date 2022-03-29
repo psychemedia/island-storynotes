@@ -67,9 +67,9 @@ This correspondent then also goes into the publication history of Elder's work a
 >
 > [Mr. Long’s letter reached us too late for insertion in our last issue, in which, it will be remembered, it was asserted on the authority of Mr. W. W. Osborne that the author of the book in question was the Hon. A. Moreton.—ED. *I.W.C.P.*]
 
-If we go with W.W. Osbourne's opinion, a suggestion mildly supported by W. H. Long's suggestion of possible names, then what evidence can we find of the honourable gentlemen on the island?
+If we go with W.W. Osbourne's opinion that Arbarham Elder was, in fact, the Hon. Augustus Moreton, M.P, a claim mildly supported by W. H. Long's suggestion of possible names, then what evidence can we find of the honourable gentlemen on the island?
 
-From the [local records](https://www.british-history.ac.uk/vch/hants/vol5/pp156-170), we can probabl vouch that his uncle did indeed live on the Island:
+From the [local records](https://www.british-history.ac.uk/vch/hants/vol5/pp156-170), we can probably vouch that his uncle did indeed live on the Island:
 
 > Bembridge.
 >
