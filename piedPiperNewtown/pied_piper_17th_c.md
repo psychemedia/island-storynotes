@@ -11,9 +11,9 @@ kernelspec:
   language: python
   name: python3
 ---
-# The Hamelin Tale in the Seventeenth Century
+# Seventeenth Century English Language Tellings of the Hamelin Tale
 
-Poking around the archives, we find that several seventeenth century accounts of the tale are readily available to us, for the most part set in the town we are perhaps most familiar with when it comes to pied piper legends: Hamelin.
+Poking around the archives, we find that several seventeenth century accounts of the tale are readily available to us, in for the most part set in the town we are perhaps most familiar with when it comes to pied piper legends: Hamelin.
 
 ## Verstegan's Account in *Restitution of decayed intelligence*, 1624
 
