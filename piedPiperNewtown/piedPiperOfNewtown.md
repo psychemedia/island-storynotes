@@ -182,7 +182,7 @@ Regarding "legitimate" origins for the tales he has included, Jacobs is perhaps 
 
 > The truth is, my folk-lore friends and my Saturday Reviewer differ with me on the important problem of the origin of folk-tales. They think that a tale probably originated where it is found. They therefore attribute more importance than I to the exact form in which it is found and restrict it to the locality of birth. I consider the probability to lie in an origin elsewhere : I think it more likely than not that any tale found in a place was rather brought there than born there. I have discussed this matter elsewhere `[See " The Science of Folk Tales and the Problem of Diffusion " in *Transactions of the International Folk-Lore Congress*, 1891. Mr. Lang has honoured me with a rejoinder, which I regard as a palinode, in his Preface to Miss Roalfe Cox's volume of variants of *Cinderella*, (Folk-Lore Society, 1892).]` with all the solemnity its importance deserves, and cannot attempt further to defend my position here.
 
-This perhaps explains why Jacobs does not find it inappropriate to include Elder's version of the Pied Piper tale despite the moot nature of its folk origins:
+This perhaps explains why Jacobs does not find it inappropriate to include Elder's version of the Pied Piper tale despite the moot nature of its local traditional folk origins:
 
 > But even the reader innocent of folk-lore can see that, holding these views, I do not attribute much anthropological value to tales whose origin is probably foreign, and am certainly not likely to make a hard-and- fast division between tales of the North Countrie and those told across the Border.
 
