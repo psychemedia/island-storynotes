@@ -271,7 +271,7 @@ As well as the best known location for the tale, Hamelin, Jacobs also notes a va
 > There firm and instant closed the greedy Womb,  
 > Where wide-born Thousands met a common Tomb.
 
-Gutch's comments are remarked upon again, (I will include the whole paper laer in this note, but it really is an overlong and not wholly illuminating paper).
+Gutch's comments are remarked upon again, (I will include the whole paper later in this note, but it really is an overlong and not wholly illuminating paper).
 
 > Remarks. Mr. Baring-Gould, in his *Curious Myths of the Middle Ages*, has explained the Pied Piper as a wind myth ; Mrs. Gutch is inclined to think there may be a substratum of fact at the root of the legend, basing her conclusions on a pamphlet of Dr. Meinardus, *Der historische Kern*, which I have not seen. She does not, however, give any well-authenticated historical event at Hameln in the thirteenth century which could have plausibly given rise to the legend, nor can I find any in the *Urkundenbuch* of Hameln (Luneberg, 1883).
 
