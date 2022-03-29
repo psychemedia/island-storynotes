@@ -1,5 +1,17 @@
-
-# The Tale in the Seventeenth Century
+---
+jupytext:
+  formats: ipynb,md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+# The Hamelin Tale in the Seventeenth Century
 
 Poking around the archives, we find that several seventeenth century accounts of the tale are readily available to us, for the most part set in the town we are perhaps most familiar with when it comes to pied piper legends: Hamelin.
 
@@ -33,8 +45,9 @@ The citations in the work are to several earlier versions of the story.
 
 ## Schott's Physica Curiosa, 1662
 
-Let's pick up on one of those references from Wanley, *Physica curiosa, t.1](https://archive.org/details/chepfl-lipr-AXB32_01/page/n591/mode/2up) by Kaspar Schott, dated 1662, pp.519-520, albeit in Latin:
+_Schot. phys. curios._ sounds... curious... So where does that reference take us?
 
+To [*Physica curiosa*, t.1](https://archive.org/details/chepfl-lipr-AXB32_01/page/n591/mode/2up) by Kaspar Schott, dated 1662, pp.519-520, that's where, albeit in the original Latin:
 
 ```{admonition} Schott's Version, in *Physica Curiosa*
 :class: dropdown
@@ -68,7 +81,7 @@ The translation according to Google Translate is as follows:
 
 ## Howell's Account in *Epistolae Ho-Elianae*, 1643
 
-Another account, [*Epistolae Ho-Elianae*](https://archive.org/details/epistolaehoelian01howeiala/page/356/mode/2up?q=piper), _"the familiar letters of James Howell, Historiagraher Royal to Charles II"_, p357, dated 1st October, 1643, and in edited from Jospeh Jacobs in 1892, published by David Nutt, provides a slightly different take on mass child abductions at p357:
+Another account, [*Epistolae Ho-Elianae*](https://archive.org/details/epistolaehoelian01howeiala/page/356/mode/2up?q=piper), _"the familiar letters of James Howell, Historiagraher Royal to Charles II"_, p357, dated 1st October, 1643, and in edited from Jospeh Jacobs in 1892, published by David Nutt, provides a slightly different take on mass child abductions, at p357:
 
 ```{admonition} Howell's Account in *Epistolae Ho-Elianae*
 :class: dropdown
@@ -85,3 +98,29 @@ Another account, [*Epistolae Ho-Elianae*](https://archive.org/details/epistolaeh
 >
 > Fleet, 1 Oct. 1643.
 ```
+
+## The Deeper History of the Pied Piper Tale
+
+For a quick history of the original tale of the Pied Pipe of Hamelin, WIkipedia is a good a place as any to start: [The Pied Piper of Hamelin (Wikipedia)](https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin).
+
+If you'd rather *listen* to various accounts of the history, here are a couple to get you started.
+
+First, an informal account:
+
+```{code-cell}
+:tags: [remove-input]
+from IPython.display import YouTubeVideo
+
+YouTubeVideo("obIAwAAcAAg")
+
+```
+
+And then something a little more formal from an independent scholar:
+
+```{code-cell}
+:tags: [remove-input]
+
+YouTubeVideo("RUY5v67eUP8")
+```
+
+For various retellings of the *Pied Piper of Hamelin* story, including Grimms' account, see Ashliman's [The Pied Piper of Hameln and related legends from other towns](https://sites.pitt.edu/~dash/hameln.html).

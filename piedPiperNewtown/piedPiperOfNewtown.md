@@ -34,7 +34,7 @@ At pp.156-171, the travellers are in the north side of the island:
 
 > In the morning we started, and when we had got a few miles along the road, Mr. Winterblossom said, "Down here on the right is a narrow inlet of the sea, at present nearly choked with mud, called Newtown Harbour. There, there was once a flourishing town, anciently called Franchville. It was burnt and destroyed by the French in one of their raids in the island. It was afterwards rebuilt, and took the name of Newtown. A solitary cottage is pow left there, though its streets still remain in the shape of green lanes : and it is singular that they yet retain the same names as when they were inhabited. The two principal ones are still called Gold street and Silver street. I forget the names of the others, or indeed whether they are at this moment remembered."
 
-If you visit Newtown today, the streetnames and green lanes are still there, as are several boardwalks leading out across the mud flats to the site of the old harbour.
+If you visit Newtown today, the streetnames and green lanes are still there, as are several boardwalks leading out across the mud flats.
 
 > I remarked, " Is it not very curious that these names should be still known after the houses have so long disappeared?'
 >
@@ -85,7 +85,9 @@ Buildings, however, were again erected there, and fresh inhabitants came: and th
 
 ```
 
-Abraham Elder's response to the story, as narrator, is then provided:
+*The attack of the French on the Island, and the destruction of Francheville, is a historical fact, and dates to 1377.*
+
+Following the relating of the ale, Abraham Elder's response to the story, as narrator, is then provided:
 
 > " Pray, Mr. Winterblossom," said I, when he had concluded his tale, " what do you consider this story to be ? for it can hardly be supposed really to have happened in the manner you relate it. Do you suppose it to be the invention of some story-teller — a mere
 fable ? — or do you think it was founded upon some event that occurred at Newtown ?"
@@ -119,6 +121,20 @@ And what does this have to do with the Pied Piper legend, you might wonder?
 > " So then you really consider the Pied Piper to be a Babylonian, or perhaps an ante-diluvian rat-catcher?"
 >
 > " I consider no such thing," said the antiquary rather sharply, for I fancy that he thought I was quizzing him ; "I do not believe that there ever was any such person as the Pied Piper in existence at any time. The story was probably a mystery; the meaning of which was known to the learned, though it was perhaps taken literally by the vulgar. It might, for instance, have been a mystery of the confusion of tongues and the dispersion of the tower builders from Babel."
+
+```{admonition} No Mention By The British Archaological Society, 1855
+:class: dropdown
+
+An announcement in the *Morning Post* of [Monday 13 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18550813/016/0003), p3, tells of the forthcoming _"twelfth annual meeting of [the British Achaeological Asscoiation, which] will commence in the Isle of Wight on Monday next"_.
+
+Related papers can be found in the *Journal of the British Archaeological Association*, [Vol. XI](https://archive.org/details/journalbritisha26unkngoog/page/n8/mode/2up), 1855.
+
+In particular, we might note in the *proceedings of the Twelfth Annual Meeting, Isle of Wight, 1855, August 20th to 25th inclusive*, pp.267-276, p314-343, a report of an excursion made to Newtown on the afternoon of Tuesday, August 21st, which makes no mention of the piper legend.
+
+> Having examined this structure under the kind conduct of the rev. Thomas Cottle, the Association proceeded to Newtown, a small and very insignificant place, consisting only of a few cottages and the ruins of a church ; but, prior to the passing of the reform bill, returning two members to parliament. Newtown is interesting to us as a borough of royal foundation, and it still retains its corporate privileges. It was the ancient Francheville ; and the charters kindly sent by sir John Simeon, bart., for the inspection of the Association, were of considerable interest, and ably read and descanted upon by Mr. Black, in the room in which formerly the members of parliament were returned, and regarded as the town hall, but now generally employed as a schoolroom. Here the party assembled, and examined also the regalia belonging to the borough. There was an exceedingly interesting silver mace, having the seal of Edward IV. This, during examination, fell out, and exposed to view, on the reverse, the arms of the commonwealth, which had, therefore, to save expense, been engraved upon it, and at the period of the restoration turned back again, and the original of Edward IV brought into use.
+
+
+```
 
 So if not a factual account, what might be the original nature, or purposes, or story behind the story be, at least according to Elder's antiquary?
 
@@ -179,7 +195,6 @@ As to the wider source of the tales he saw fit to include:
 > In compiling the present collection I have drawn on the store of 140 tales with which I originally started ; some of the best of these I reserved for this when making up the former one. ... Other friends have been equally kind, especially Mr. Alfred Nutt, who has helped by adapting some of the book versions, and by reading the proofs, ...
 
 So here, then, is "The Pied Piper", as (re)told by Joseph Jacobs.
-
 
 ```{admonition} "The Pied Piper" in  Joseph Jacobs' *More English Fairy Tales*, 1894
 :class: dropdown
@@ -267,3 +282,59 @@ So according to Jacobs, did Elder's variant derive from the Hamelin "original"?
 Jacobs, then, sees Verstegan as Elder's likely source. But what of the Irish variant?
 
 > There still remains the curious parallel from Belfast to which Mrs. Gutch has drawn attention. Magic pipers are not unknown to English folk-lore, as in the Percy ballad of *The Frere and the Boy*, or in the nursery rhyme of Tom Piperson in its more extended form. But beguiling into a mountain is not known elsewhere except at Hameln, which was made widely known in England by Verstegan's and Howell's accounts, so that the Belfast variant is also probably to be traced to the *Rattenfänger*. Here again, as in the case of Beddgellert (*Celtic Fairy Tales*, Nos. lxi, lxxxi.), the Blinded Giant and the Pedlar of Swaffham (*infra*, Nos. Ixi., Ixiii.), we have an imported legend adapted to local conditions.
+
+## Reactions to Jacobs' Retelling
+
+Following the publication of Jacobs' *More English Fairy Tales*, and the telling of the tale of the Pied Piper of Newtown, a response appeared in the *Isle of Wight County Press and South of England Reporter* of [Saturday 09 December, 1893](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18931209/126/0010), p10:
+
+> THE PIED PIPER AT NEWTOWN.
+>
+> *To the Editor of the Isle of Wight County Press.*
+>
+> Sir, —Mr. Joseph Jacobs commences his volume of "More English Fairy Tales," recently published by David Nutt, with an account of the doings of the Pied Piper of Newtown. Thanks to Browning, we are all of us familiar with what transpired on the Piper’s visit to Hamelin, but his connection with Newtown is not so generally known. The story has hitherto, so far as I am aware, only been told at length in a scarce book "Talas and Legends of the Isle of Wight" by Abraham Elder (London, 1839) and in a small volume of verse published by Beata Elizabeth Macaulay in 1869. It is from Elder's book that Mr. Jacobs has obtained the tale, though it has been abridged and partly rewritten for him by Mr. Nutt. In his notes on the legend (pp. 218—220) Mr. Jacobs doubts whether it is a genuine Isle of Wight story and inclines to tha belief that, in order to fill up his volume, Elder localised at Newtown version of the Hamelin legend. Mr. Jacobs's remarks are as follows:  "Before Browning it (the Hamelin story) had been told in English in books well known Verstegan's 'Restitution of Decayed Intelligence, 1606,' Howell's 'Familiar Letters,' and Wanley's 'Wonders of the Little World.' Browning is said to have taken it from the last source, though there are touches which seem to to come from Howell, while it is not impossible he may have come across Elder's book, which was illustrated by Cruikshank. ... The chief question of interest attaching to the English form of the legend given in 1839 by Elder is whether it is independent of the German myth. It does not occur in any of the local histories of the Isle of Wight which I have been able to consult of a date previous to Elder's book, e.g., J. Hassell, 'Tour of the Isle of Wight, 1790.' Mr. Shore, in his 'History of Hampshire, 1891,' p. 185, refers the legend, but evidently bases his reference on Elder, and so with all the modern references I have seen. Now Elder himself quotes Verstegan in his comments on the legend, pp. 168-9 and note, and it is impossible to avoid conjecturing that he adapted Verstegan to the locality. . . . Newtown had been a populous town before the French invasion of the Island of *temp.* Richard II. It is just possible that there may have been a local legend to account for the depopulation by an exodus of children. But the expression 'pied piper' which Elder uses clearly came from Verstegan, and until evidence is shown to the contrary the whole of the legend was adapted from him." The story is not mentioned either by Worsley or Albin, though if it existed in their day they may have considered it beneath the "dignity of history." Inquiries on the spot, from old inhabitants of Newtown and its neighbourhood, ought to be able to clear the matter up. If it turns out that the legend is current in the locality and that old people say they heard it as children from the lips of their mothers and grandmothers, then we may fairly say that Elder has detailed a genuine Isle of Wight story; otherwise we must conclude, with Mr. Jacobs, that he has fathered on Newtown a version of the German myth. The matter is one of considerable interest, and there must be many among your readers who are in position to make the necessary inquiries at Newtown, and I sincerely trust that some of them will do so and will record the result in your columns. If the story turns out to be a genuine Isle Wight one, it would be very interesting to have the exact form in which it is told, preserving, if possible, the dialect, if the person from whose lips it is taken down uses it.— Yours obediently,
+>
+> William Self Weeks.
+>
+> Clitheroe, Dec. 4th, 1893.
+
+The original letter itself prompted two further reactions a week later, in the edition of [Saturday 16 December 1893](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18931216/025/0002), p2.
+
+The first is in no doubt that Elders' telling is a fiction of his own, rather than a well established, historically rooted local legend:
+
+>THE PIED PIPER OF NEWTOWN
+>
+> *To the Editor of the Isle of Wight County Press.*
+>
+> Sir, — I think I can assure Mr. W. S. Weeks that there is no foundation, legendary or otherwise, to Abraham Elder's story of the Newtown Piper. To judge by its situation, Newtown would be no doubt a happy hunting gruond for rats, both English and Hanoverian, though, unfortunately, I have found but few traces anywhere in the Isle of Wight of the English rat. The whole legend, including its adaptation. localisation, and publication, may be set down to the fertile brain Abraham Elder.
+
+The correspondent then reviews the publication history of Elders' work:
+
+> Mr. Weeks speaks of the "Tales and Legends of the Isle of Wight" by Abraham Elder, London. 1839. Abraham Elder produced in that year two issues of his "Tales and Legends." The first issue was a small book of 196 pages with only four illustrations, drawn, I conjecture, by Abraham Elder himself. The illustration for page 4 has the curious blunder of the number 116 being substituted for 4. This smaller issue is called on the title page "Part the first." This issue has a value of its own, as it contains as a frontispiece a view of the Needles, showing the original needle rock. This frontispiece may have been meant by Abraham Elder to be included amongst the legends of the Isle of Wight. In the same year came out the issue of the "Tales and Legends." This issue is a much larger volume, it contains 336 pages, with 14 large and 11 small woodcuts by Robert Cruikshank. The illustration of page 4 of the first issue is reproduced as a vignette on page 8 of this second issue, otherwise the 25 illustrations are entirely different from the illustrations of the first issue. Of this second issue a second edition appeared in 1843, but in no way differing from first edition.
+
+In closing, the intriguing question of the real identity of Abraham Elder is then raised:
+
+> I have tried to find out the real name of Abraham Elder. I have learned that he either was native of, or lived in, Shanklin and that to his parents he owed the name of Clayton, but I have not yet been able to find out what name was given him by his godfather and godmother. I should be much obliged to any of yours readers who would give me this information. —Yours obediently, R. G. D.
+
+The second response comes from elderly resident of Newtown who claims to have first learned of the story from a visit to the island by the Hampshire Field Club "some time back" (the date of the visit was, in fact, July 1890, as we shall see in the next chapter).
+
+> *To the Editor of the Isle of Wight County Press.*
+>
+> Sir,— Seeing in your paper of the 9th inst. a letter by Mr, W. Self Weeks, who wants to know if ever the Pied Piper was in existence at Newtown, I, as one of the oldest inhabitants of the place, can only say that the first I ever heard of his existence was in a paper read by Mr. Colenutt, of the Hampshire Field Club, on the occasion of the Club's visit to Newtown some time back. The address was recorded in the County Press.
+
+The story as recorded in the newspaper report is then restated:
+
+> The part concerning the Pied Pier was as follows: "At Newtown we have an example of the Pied Piper legend, and in the Island town of Francheville this itinerant musician seems to have created quite as much dismay and destruction among its peaceable but money-loving inhabitants as he did on the occasion of his visit to Hamelin. At this place the children are said to have ben lead down into the Solent, detail which I believe usually takes a local turn in examples of this legend."
+
+The correspondent then puts forth their own opinion on the matter and the evidence of their neighbours:
+
+> It appears by this record that he did visit Newtown or Francheville, which will take you back to 1377, whan Newtown was known Francheville. As to what became of him I cannot say. Probably, if got making noise in the place at that period, the French most likely would take him as a spy in the garb of minstrel. There are but three families besides my own in modern Newtown who were in the place 50 years ago. I have made inquiries of them concerning the Pied Piper, and they know nothing of the legend.
+
+We are then teased with a "however":
+
+> I have in my possession an octagonal metal button, about the size of penny-piece, which was dug at Newtown, but whether it belonged to the Pied Piper’s coat I cannot say.
+
+The letter closes with a reference to the correspondents own work on the local history of the place:
+
+> If this information, which I have extracted from my little work "Historical Gleanings of Newtown," is of any use to your correspondent, he is welcome to it with my compliments.— I am, Sir, your obedient servant, J. H. Woolgar.
+>
+> Newtown, Dec. 1 1893.

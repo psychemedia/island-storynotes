@@ -4,4 +4,7 @@ parts:
 - caption: The Pied Pipe of Newtown
   chapters:
   - file: piedPiperNewtown/piedPiperOfNewtown
+  - file: piedPiperNewtown/visit_newtown
   - file: piedPiperNewtown/pied_piper_17th_c
+  - file: piedPiperNewtown/identity_of_abraham_elder
+  - file: piedPiperNewtown/IWCP-newtown-piper-elder
