@@ -6,7 +6,7 @@ This section contains additional notes and full-length original reports not incl
 It includes:
 
 - full length report of visit of Hampshire Field Club to Newtown
-- Robert Browning's poem _"The Pipe Piper of Hamelin_"
+- Robert Browning's poem _"The Pied Piper of Hamelin_"
 - Eliza Gutch's “The Pied Piper of Hamelin”, Folk-Lore, 1892
 - Archaeological and Political History of Newtown, including notes from an *Extensive Urban Survey - Hampshire and the Isle of Wight* by Hampshire County Council and English Heritage.
 
@@ -74,13 +74,13 @@ https://www.sunsigns.org/famousbirthdays/d/profile/john-venn/
 
 ```
 
-## Robert Browning, The Pipe Piper of Hamelin
+## Robert Browning, The Pied Piper of Hamelin
 
 This poem, first published in *Dramatic Lyrics* in 1842, can be found in volume II of *The Poetic and Dramatic Works of Robert Browning in Six Volumes*, [*Dramatic Lyrics*](https://archive.org/details/in.ernet.dli.2015.168490/page/n293/mode/2up?q=piper), pp281-88, 1887.
 
 *I haven't seen evidence either way to suggest that Browning was familiar with Elder's version of the tale, which was first published three years earlier in 1839.*
 
-```{admonition} Robert Browning, "The Pipe Piper of Hamelin", 1842
+```{admonition} Robert Browning, "The Pied Piper of Hamelin", 1842
 :class: dropdown
 
 THE PIED PIPER OF HAMELIN; A child's story.  
