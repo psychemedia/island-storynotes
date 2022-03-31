@@ -423,7 +423,7 @@ But how or why, they don't understand.
 
 This paper appeared in [*Folk-Lore*], the "Quartertly Review of Myth, Tradition, Institution, & Custom", [Vol. III, 1892](https://archive.org/details/folklore04britgoog/page/226/mode/2up?q=Folklore+gutch+pied+piper), p227-252, published in London by David Nutt, 270, Strand.
 
-*I intend to do an annotated version of this story at some point...*
+*I intend to do an annotated version of Gutch's article at some point...*
 
 ````{admonition} Eliza Gutch's "The Pied Piper of Hamelin", Folk-Lote, 1892
 :class: dropdown
