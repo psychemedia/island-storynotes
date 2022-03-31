@@ -741,7 +741,7 @@ Sawyer, P.H. [Ed] 1968 Anglo-Saxon Charters Royal Historical Society London
 
 The strategy document also includes a brief review of the history of Newtown.
 
-```{admonition} Newtown strategy - historic Newtown
+```{admonition} Extensive Urban Survey — Newtown strategy - historic Newtown
 :class: dropdown
 
 Historic Newtown
