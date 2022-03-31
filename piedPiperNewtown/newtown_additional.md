@@ -425,7 +425,7 @@ This paper appeared in [*Folk-Lore*], the "Quartertly Review of Myth, Tradition,
 
 *I intend to do an annotated version of Gutch's article at some point...*
 
-````{admonition} Eliza Gutch's "The Pied Piper of Hamelin", Folk-Lote, 1892
+````{admonition} Eliza Gutch's "The Pied Piper of Hamelin", Folk-Lore, 1892
 :class: dropdown
 
 THE PIED PIPER OF HAMELIN.
