@@ -665,8 +665,8 @@ Ridge and Furrow B11
 There are extensive remains of ridge and furrow in many of the fields surrounding the town. In some closes the ridge and furrow appears to encroach into areas that are thought to have formed part of the area of burgage plots. 
 ```
 
-
 ```{admonition} Extensive Urban Survey - Potential of Newtown
+:class: dropdown
 
 THE POTENTIAL OF NEWTOWN
 
