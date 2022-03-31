@@ -1,5 +1,5 @@
 
-# Addtional Notes — Pied Piper of Newtown Piper
+# Additional Notes — Pied Piper of Newtown Piper
 
 This section contains additional notes and full-length original reports not included (so far) in the main narrative.
 
