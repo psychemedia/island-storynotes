@@ -1,7 +1,7 @@
 
-# Addtional Notes — Pied Piper of Newtown Piper
+# Original Sources
 
-Various newspaper articles and reports relating to Newtwon, with loose connections to its history and the tale of the Pied Piper of Newtown.
+
 
 ---
 
