@@ -5,14 +5,14 @@ This section contains additional notes and full-length original reports not incl
 
 It includes:
 
-- full length report of visit of Hampshore Field Club to Newtown
+- full length report of visit of Hampshire Field Club to Newtown
 - Robert Browning's poem _"The Pipe Piper of Hamelin_"
 - Eliza Gutch's “The Pied Piper of Hamelin”, Folk-Lore, 1892
 - Archaeological and Political History of Newtown
 
 ## The Hampshire Field Club in the Island
 
-Th complete article describing the visit of the Hampshore Field Club to the Isle of Wight, *Isle of Wight County Press and South of England Reporter*, [Saturday 26 July 1890](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18900726/114/0008), p8
+Th complete article describing the visit of the Hampshire Field Club to the Isle of Wight, *Isle of Wight County Press and South of England Reporter*, [Saturday 26 July 1890](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18900726/114/0008), p8
 
 ```{admonition} The Hampshire Field Club in the Island, 1890
 :class: dropdown
