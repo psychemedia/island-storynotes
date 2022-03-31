@@ -92,8 +92,7 @@ By famous Hanover city ;
 The river Weser, deep and wide,  
 Washes its wall on the southern side ;  
 A pleasanter spot you never spied ;  
-
-But, wlien begins my ditty,  
+But, when begins my ditty,  
 Almost five hundred years ago,  
 To see the townsfolk suffer so  
 From vermin, was a pity.
