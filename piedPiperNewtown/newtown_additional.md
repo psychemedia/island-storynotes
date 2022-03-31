@@ -761,7 +761,7 @@ Historic Newtown
 5.7 By the sixteenth century it was said that there were no good houses standing and no market in the town. In the late seventeenth century there were only eleven houses in the borough but it was at that time that the Town Hall, where the town’s two Members of Parliament were elected, was rebuilt. Newtown returned two MPs from 1584 until 1832 when it was disfranchised as a 'rotten borough' in The Reform Act.
 ```
 
-For issues associated with the creation of new towns at the time, see for example [*Florilegium Urbanum*, "Planning a new town: personnel, process, and product"](http://users.trytel.com/~tristan/towns/florilegium/community/cmfabr28.html) describing the foundation of Winchelsea. THe article has this to say regarding Newtown:
+For issues associated with the creation of new towns at the time, see for example [*Florilegium Urbanum*, "Planning a new town: personnel, process, and product"](http://users.trytel.com/~tristan/towns/florilegium/community/cmfabr28.html) describing the foundation of Winchelsea. The article has this to say regarding Newtown:
 
 ```{admonition} Creating a new town
 :class: seealso dropdown
