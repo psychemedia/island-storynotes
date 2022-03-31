@@ -1,5 +1,5 @@
 
-# Additional Notes — Pied Piper of Newtown Piper
+# Additional Notes — Pied Piper of Newtown
 
 This section contains additional notes and full-length original reports not included (so far) in the main narrative.
 
@@ -8,7 +8,7 @@ It includes:
 - full length report of visit of Hampshire Field Club to Newtown
 - Robert Browning's poem _"The Pipe Piper of Hamelin_"
 - Eliza Gutch's “The Pied Piper of Hamelin”, Folk-Lore, 1892
-- Archaeological and Political History of Newtown
+- Archaeological and Political History of Newtown, including notes from an *Extensive Urban Survey - Hampshire and the Isle of Wight* by Hampshire County Council and English Heritage.
 
 ## The Hampshire Field Club in the Island
 
@@ -544,7 +544,7 @@ Eliza Gutch.
 
 Newtown was originally created as a new town by the Bishop of Winchester in 1254.
 
-An archaeological survey of Newtown was produced by the *Extensive Urban Survey - Hampshire and the Isle of Wight*, Dave Hopkins, 2004, [https://doi.org/10.5284/1000227](https://archaeologydataservice.ac.uk/archives/view/hampshire_eus_2003/) [Newtown specifics](https://archaeologydataservice.ac.uk/archives/view/hampshire_eus_2003/downloads.cfm?REDSQUIDARCHIVES_a4d34cc3-1b46-45fd-8730-d8b590a8a137_0&area1=isle_of_wight&area2=newtown).
+An archaeological survey of Newtown was produced by Hampshire County Council and English Heritage and published as *Extensive Urban Survey - Hampshire and the Isle of Wight*, Dave Hopkins, 2004, [https://doi.org/10.5284/1000227](https://archaeologydataservice.ac.uk/archives/view/hampshire_eus_2003/) [Newtown specifics](https://archaeologydataservice.ac.uk/archives/view/hampshire_eus_2003/downloads.cfm?REDSQUIDARCHIVES_a4d34cc3-1b46-45fd-8730-d8b590a8a137_0&area1=isle_of_wight&area2=newtown).
 
 ```{admonition} Extensive Urban Survey - Location & History, Newtown
 :class: dropdown
