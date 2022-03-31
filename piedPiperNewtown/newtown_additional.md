@@ -424,7 +424,9 @@ This paper appeared in [*Folk-Lore*], the "Quartertly Review of Myth, Tradition,
 
 *I intend to do an annotated version of this story at some point...*
 
-```{admonition} Eliza Gutch's "The Pied Piper of Hamelin", Folk-Lote, 1892
+````{admonition} Eliza Gutch's "The Pied Piper of Hamelin", Folk-Lote, 1892
+:class: dropdown
+
 THE PIED PIPER OF HAMELIN.
 
 FIVE years ago, "as I walk'd through the wilderness of this world. I h'ghted on a certain place" called Hanover, and tarried there awhile. Encouraged by the assurance of Browning, that —
@@ -534,7 +536,7 @@ One word in conclusion : I have made great inroad on the reader's patience, thou
 
 Eliza Gutch.
 
-```
+````
 
 
 ## Archaeological and Political History of Newtown
