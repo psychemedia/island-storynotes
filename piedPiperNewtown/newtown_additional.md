@@ -131,11 +131,11 @@ IV.
 An hour they sat in council ;  
 At length the Mayor broke silence :  
 " For a guilder I'd my ermine gown sell,  
-I wish I were a mile hence !
+I wish I were a mile hence !  
 It's easy to bid one rack one's brain —  
 I'm sure my poor head aches again,  
 I've scratched it so, and all in vain.  
-Oh for a trap, a trap, a trap ! " 
+Oh for a trap, a trap, a trap ! "  
 Just as he said this, what should hap  
 At the chamber-door but a gentle tap ?  
 "Bless us," cried the Mayor, " what's that?"  
@@ -194,7 +194,7 @@ I eased in Asia the Nizam
 Of a monstrous brood of vampire-bats :  
 And as for what your brain bewilders,  
 If I can rid your town of rats  
-Will you give me a thousand guilders ? "
+Will you give me a thousand guilders ? "  
 " One ? fifty thousand ! " — was the exclamation  
 Of the astonished Mayor and Corporation.
 
@@ -245,7 +245,7 @@ Breakfast, supper, dinner, luncheon ! ’
 And just as a bulky sugar-puncheon.  
 All ready staved, like a great sun shone  
 Glorious scarce an inch before me,  
-Just as methought it said, ' Come, bore me ! ' 
+Just as methought it said, ' Come, bore me ! '  
 — I found the Weser rolling o’er me."
 
 VIII.  
@@ -338,7 +338,7 @@ And after him the childreu pressed ;
 Great was the joy in every breast.  
 He never can cross that mighty top !  
 He's forced to let the piping drop,  
-And we shall see our children stop ! " 
+And we shall see our children stop ! "  
 When, lo, as they reached the mountain-side,  
 A wondrous portal opened wide,  
 As if a cavern was suddenly hollowed ;  
