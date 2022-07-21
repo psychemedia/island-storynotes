@@ -13,10 +13,12 @@ But this story is not those stories, although it is a story of another Lord of C
 I'm sure you've all heard of him? From the later 1400s, the time of the War of the Roses?
 
 If not, you'll have heard of his sister. Or at least, her sons, Edward's nephews: the Princes in the Tower, killed by Richard III to shore up his claim to throne.
- 
-Edward's sister's story is an interesting one too: after a marriage that ended with the untimely of her husband, a supporter of the House of York, Elizabeth Woodville, Edward's sister, had secretly the married the Yorkist Edward IV. As well as the princes, Elizabeth had several other children: the short lived King Edward V, and a daughter called Elizabeth, Elizabeth of York, Edward's niece. That Elizabeth, Elizabeth of York, went on to marry the Lancastrian Henry Tudor — Henry VII. This makes Edward's niece the daughter of Edward IV, the brother of Edward V, the niece of Richard III, incidentally the mother of two queen's by marriage: Margaret, Queen of Scotland, and Mary, Queen of France; and also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
 
-But this story isn't about her. It's about Edward.
+Oher members of Edward's family have interesting stories too: for example, after a marriage that ended with the untimely of her husband, a supporter of the House of York, Elizabeth Woodville, Edward's sister, had secretly the married the Yorkist Edward IV. As well as the princes, Elizabeth had several other children: the short lived King Edward V, and a daughter called Elizabeth, Elizabeth of York, Edward's niece.
+
+That Elizabeth, Elizabeth of York, went on to marry the Lancastrian Henry Tudor — Henry VII. This makes Edward's niece the daughter of Edward IV, the brother of Edward V, the niece of Richard III, incidentally the mother of two queen's by marriage: Margaret, Queen of Scotland, and Mary, Queen of France; and also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
+
+But this story isn't about them. It's about Edward.
 
 Edward: one time drinking buddy of the King Edward IV and now called up to court to be invested in the order of the Garter by Henry VII. It's 1488, and waiting outside are two emissaries from Bittany, When Henry had been exile, he'd been protected by Brittany, although it was France that helped him take the English thrown. Brittany and France were, at that time, two separate kingdoms.
 
