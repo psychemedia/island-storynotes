@@ -11,6 +11,9 @@ parts:
 - caption: Godshill
   chapters:
   - file: godshill
+- caption: "Carisbrooke Castle: Residents' Tales"
+  chapters:
+  - file: edward-woodville
 - caption: Appendix — Original Tellings
   chapters:
   - file: elder-godshill
