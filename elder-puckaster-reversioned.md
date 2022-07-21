@@ -1,4 +1,4 @@
-# A Tale of Puckaster Cove
+# Puckaster Cove Fairy Tale
 
 *This is another tale of Abraham Elder's, a fairy tale, which appeared in Bentley's Miscellany. If you go round the coast from Ventnor toward's St Catherine's Point, you'll come to Binnel Bay, and Puckaster Cove. Now as I'm sure you all know, Puck, or pooka, is an old English word meaning "goblin" or perhaps, fairy. And that gives a clue as to the nature of this tale. Now, back in the twelfth century, there were no real roads around that part of the island, but there were footpaths, parts of which remain to this day. Pilgrims would land at Puckaster Bay and make their way up the cliff and along the Cripple Path, pass by Niton and go up to the holy well at Whitwell; and then they'd return along St Radegund's path, back to Puckaster Cove. A twelfth century circular walk, if you will.*
 
