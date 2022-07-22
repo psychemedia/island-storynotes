@@ -11,6 +11,10 @@ parts:
 - caption: Godshill
   chapters:
   - file: godshill
+- caption: The Pepperpot
+  chapters:
+  - file: history_of_the_pepperpot
+  - file: walter_de_godeton_and_the_shipwrecked_wine
 - caption: "Carisbrooke Castle: Residents' Tales"
   chapters:
   - file: edward-woodville
