@@ -40,7 +40,7 @@ The Bishop looked on in wonder, and called for the whole party to return to the 
 
 The final proof would surely be if the coin and the mason's tools were to be be found under the foundation stone. And so it was lifted, and there, there beneath the stone, was: a miracle. A relic. A holy relic. A thumbnail. And the monks began to chant and sing, and praise the holy lord and the masses that were said that day, and the processions they made, well, you'd think it was a relic of the Holy Lord Jesus himself. And perhaps it was.
 
-By now, it was obvious that Go'ds work was afoot, and that the top of the hill was surely the right place for the Church. And so another consecration ceremony was held, but this time on the top of the hill. And there the Church was built; and there it still stands today.
+By now, it was obvious that God's work was afoot, and that the top of the hill was surely the right place for the Church. And so another consecration ceremony was held, but this time on the top of the hill. And there the Church was built; and there it still stands today.
 
 And at the bottom of the hill, what of the franklin who lived there? Well, his mortal sins had been absolved the first time around, and he continued to work that land till the day he died. And if either of the two watchmen from that earlier night were to ever pass by his way, well, he'd invite them in and they'd share an ale or two and they'd retell the tale of what happened on that miraculous night, just as I've told you, and as you can tell others.
 
