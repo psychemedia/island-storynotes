@@ -255,7 +255,7 @@ In *Legends and Lays of the Wight* first published in 1912, Percy G. Stone lifts
 > So the masons hewed stones and then set them in
 place,  
 > Chipping hard till the daylight had sped.  
-> Then gathering their tools, with a sigh of content
+> Then gathering their tools, with a sigh of content  
 > At the work they had done, gaily homewards they went  
 > To supper, and after to bed.  
 >  
@@ -266,8 +266,8 @@ place,
 > They were all laid atop of the hill.  
 >  
 > 'Here, bother it all!' the head mason exclaimed  
-> 'Who's been playing the fool with this job?'
-> 'If I catch him.mark well' — and he doubled his fist,  
+> 'Who's been playing the fool with this job?'  
+> 'If I catch him, mark well' — and he doubled his fist,  
 > With a look that I wouldn't for money have missed,  
 > "I'll trounce him right soundly begob!"  
 >  
@@ -314,7 +314,7 @@ place,
 > It 's a miracle, easy to see."  
 >  
 > 'You scorned the advice of a credited saint'  
-> — Here his stature a full cubit rose  —
+> — Here his stature a full cubit rose —  
 > 'Who was never convicted of being a liar,  
 > And hung on the words of this sham shaven friar,  
 > Who led all you fools by the nose.'  
@@ -334,7 +334,7 @@ place,
 > Whereat the parishioners fell on their knees  
 > And lauded the Saint to the sky.  
 > So Boniface blessed them in orthodox way.  
-> Then, looking around him, proceeded to say,
+> Then, looking around him, proceeded to say,  
 > 'This humility's mostly my eye.  
 >  
 > 'Next time don't be led by a plausible rogue  
