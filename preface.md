@@ -10,3 +10,4 @@ Many of the texts can be found on the Internet Archive. Whilst text versions of 
 
 *Collection initiated: March, 2022.*
 
+[__Please support this and other related Storynotes initiatives via Patreon.__](https://www.patreon.com/bePatron?u=3266916)
