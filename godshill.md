@@ -229,7 +229,7 @@ In *Legends and Lays of the Wight* first published in 1912, Percy G. Stone lifts
 > Below's the most practical site.'  
 >  
 > 'The holy monk's right,' shouted those who agreed  
-> To the vale scheme. Beelzebub lied.
+> To the vale scheme. Beelzebub lied.  
 > As he always can do, with such hearty good will  
 > That most of the folk who'd declared for the hill  
 > Turned about and came over his side.  
