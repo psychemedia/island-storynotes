@@ -26,3 +26,5 @@ parts:
   chapters:
   - file: elder-godshill-reversioned
   - file: elder-puckaster-reversioned
+- caption: Appendix — Resources
+  - file: other-wight-storynotes
