@@ -18,7 +18,7 @@ It seems the question went unanswered, as the correspondent reiterated the query
 
 So let us put our detective caps on, and see what we might learn.
 
-Various stories authored under that name started to appear in *Bentley's Miscellany* in 1839 [?CHECK], the same year that *Tales and Legends of the Isle of Wight* appeared. Indeed, several of the stories included in the book first appeared in the pages of Bentley's magazine.
+Various stories authored under that name started to appear in *Bentley's Miscellany* in 1839, the same year that the original edition of *Tales and Legends of the Isle of Wight* appeared. As we shall learn, they later appeared in an extended, reissued version of *Tales and Legends of the Isle of Wight* first published in 1841, which went to a second edition in 1843. The stories that appeared in *Bentley's Miscellany* were unillustrated, but the 1841 and 1843 book editions, neither of which I have yet seen copies, or scans, of, apparently included _"fourteen etchings, of very careless and indifferent character"_ ([*George Cruikshank: The Artist, the Humourist, and the Man*](https://archive.org/details/georgecruikshank00bate/page/64/mode/2up?q=elder), William Bates, 1878, p64).
 
 Correspondent *R.G.D*'s own researches led him to believe that:
 
