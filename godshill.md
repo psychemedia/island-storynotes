@@ -379,19 +379,17 @@ place,
 
 Over the years, the church was rebuilt - the current church was perhaps started in the early 1400s, with the top part of the tower being rebuilt in the 16th century and later repaired following a lightning strike of 1778 - and the Church became a regular stopping off point for tourists and visitors alike, though perhaps today's visitors prefer the tea rooms and the chocolate shop and the model village to the Church.
 
-If you do go up to the Church, and look on the noticeboards, you're as likely as not to see a poster for a flower festival, or a jumble sale, perhaps, as well as sundry other church notices. 
+If you do go up to the Church, and look on the noticeboards, you're as likely as not to see a poster for a flower festival, or a jumble sale, perhaps, as well as sundry other church notices.
 
 But for one visitor, John Hassell, writing in volume two of his two volume work, *Tour of the Isle of Wight*, published in 1790, and which you can find nowadays [via Google Books](https://www.google.co.uk/books/edition/Tour_of_the_Isle_of_Wight/SYUuAAAAMAAJ?hl=en&gbpv=0), there was something rather more unusual posted there. After noting damage to two of the gable ends resulting from the 1178 lightning strike, Hassell recounts his experience of entering the Church (p.88): *[u]pon our entering the porch we observed abstracts from several acts of parliament fixed against the door, and among them one that excited both our curiosity and risibility;*
 
 > — it was from an act made in the seventh of James the First, which enacts, that every female who unfortunately intrudes on the parish a second illegitimate child, shall be liable to imprisonment and hard labour in Bridewell for six months.
 >  
-> Now as the number of females on this island much exceeds that of the males; and as, from the mild temperature of the climate, circumstances frequently arise among the lower ranks that render the intention
-of this act of no effect; we could not help thinking this public exhibition of the abstract as rather a rigorous exertion of Justice.
+> Now as the number of females on this island much exceeds that of the males; and as, from the mild temperature of the climate, circumstances frequently arise among the lower ranks that render the intention of this act of no effect; we could not help thinking this public exhibition of the abstract as rather a rigorous exertion of Justice.
 >
 > We found it was not very unusual here for the young men, from the deficiency of numbers just spoken of, to pay their devoirs to more than one young woman at a time; and as it is not possible for him legally to unite himself to all of them, he generally bestows his hand on her who had first presented him with a pledge of their love.
 >  
-> This, however, is seldom done till the approach of a second pledge from the same person renders such an act of compassion needful, in order to avoid the consequences of the tremendous anathema fixed on the
-church door.
+> This, however, is seldom done till the approach of a second pledge from the same person renders such an act of compassion needful, in order to avoid the consequences of the tremendous anathema fixed on the church door.
 
 A [little digging](https://archive.org/details/statutesatlarge50britgoog/page/n256/mode/2up) turns up the act that Hassell was perhaps referring to, although in actual terms it seems far more draconian even than Hassell decscribed:
 
@@ -428,3 +426,4 @@ https://en.wikipedia.org/wiki/Bridewell_Palace
 Bridewell Palace in London was built as a residence of King Henry VIII and was one of his homes early in his reign for eight years. Given to the City of London Corporation by his son King Edward VI for use as an orphanage and place of correction for wayward women
 
 See also: _missed_opportunities_pre_1830.md for more on Madam Cresswell
+
