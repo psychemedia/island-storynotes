@@ -10,7 +10,7 @@ Now, one time, John Kann, who lived not far from the fairy rings, was chatting t
 
 The man was persuaded, and found land for a house elsewhere, and when the time came for the wedding, John Kann was invited. At the end of the celebrations that night, and a fine celebration it was too, John Kann set out to follow a friend of his who'd left just a few moments earlier, with a lantern to guide the way.
 
-John saw the light up and ahead, and started to to follow it, but before long, he realised he wasn't taking the path he'd expected to take, particularly as it appeared to start to lead him through a patch of brambles; and then he realised that the light had stopped. And that it wasn't as bright as he'd thought, becuase he was closer to it than he thought. And that he was stood on the ground that his friend had wanted to build his house on. The fairy ground. And then, he heard something. It sounding like singing, or, no, a chant:
+John saw the light up and ahead, and started to to follow it, but before long, he realised he wasn't taking the path he'd expected to take, particularly as it appeared to start to lead him through a patch of brambles; and then he realised that the light had stopped. And that it wasn't as bright as he'd thought, because he was closer to it than he thought. And that he was stood on the ground that his friend had wanted to build his house on. The fairy ground. And then, he heard something. It sounding like singing, or, no, a chant:
 
 > John Kann, is a very nice man,  
 > He's a very nice man, is Mr John Kann.
@@ -22,11 +22,11 @@ And then he looked down. And he saw people. Tiny people. Tiny people dancing aro
 > John Kann, is a very nice man,  
 > He's a very nice man, is Mr John Kann.
 
-Now John was taken aback by this, as you might be, particularly because the tiny folk seem to know who he was; and then they invited him to join them in the dance.
+Now John was taken aback by this, as you might be, particularly because the tiny folk seemed to know exactly who he was; and then they invited him to join them in the dance.
 
-Now, John was much much bigger than they were, and he stuttered that he was afraid he might step on them, but they said " no problem, no problem at all" and two of them started to climb up his trousers carrying something bewtween them, something, a cup, an acorn cup, and as they got closer he saw there was something in the cup. It looked like: snuff. At once, a pinch of snuff flicked into one nostril, and he sneezed, and he sneezed so strongly that his hat flew off. Then another pinch, and another violent sneeze, and.. he looked at his hat. It was much larger than he expected: a trick of the light maybe. Then another pinch, another sneeze, and John realised that with each pinch, with each sneeze, he got shorter, and his colthes shrank as he he did, until he was just the size of one of the wee little folk.
+Now, John was much much bigger than they were, and he stuttered that he was afraid he might step on them, but they said " no problem, no problem at all" and two of them started to climb up his trousers carrying something bewtween them, something, a cup, an acorn cup, and as they got closer he saw there was something in the cup. It looked like: snuff. At once, a pinch of snuff flicked into one nostril, and he sneezed, and he sneezed so strongly that his hat flew off. Then another pinch, and another violent sneeze, and.. he looked at his hat. It was much larger than he expected: a trick of the light maybe. Then another pinch, another sneeze, and John realised that with each pinch, with each sneeze, he got shorter, and shorter, and his clothes shrank as he did, until he was just the size of one of the wee little folk.
 
-John looked at his hat, which had fallen off with the first sneeze, and it was now much larger than him. But to replace, one of the fairies popped a new hat, a foxglove flower hat, onto his head, and pulled him into the dance.
+John looked at his hat, which had fallen off with the first sneeze, and it was now much larger than him. But to replace it, one of the fairies popped a new hat, a foxglove flower hat, onto his head, and pulled him into the dance.
 
 And how they danced.
 
@@ -34,7 +34,7 @@ After a while, now breathless, King Puck called order. There were now many more 
 
 "Splendid", called Puck, "then we shall feast well tonight", and the bee was brought in, its wings strapped to its body with fine gossamer thread. And from the bee's legs, the fairy folk collected bee bread; and from it's honey sack, they collected honey into a acorn cup, into which they added fresh dew water, and made a fine punch from it.
 
-Now, as they did this, John Kann looked on, and he said: "I may not be as big as I was, but that is surely not enough food or dirnk to go round" and Puck looked at him and laughed, and said, "not as we are, maybe" and the snuff was passed round again, and the fairies made themselves, and John Kann, even smaller. And as they sneezed, their foxglove hats fell off; and they replaced them with bluebell hats. And the food that had been collected from the bee was now more than plenty enough to go round. And so they sat on the mushrooms that had started to pop up in a circle around them, and John Kann was given pride of place, sat on what seemed to him a giant puff ball, next to the king.
+Now, as they did this, John Kann looked on, and he said: "I may not be as big as I was, but that is surely not enough food or drink to go round" and Puck looked at him and laughed, and said, "not as we are, maybe" and the snuff was passed round again, and the fairies made themselves, and John Kann, even smaller. And as they sneezed, their foxglove hats fell off; and they replaced them with bluebell hats. And the food that had been collected from the bee was now more than plenty enough to go round. And so they sat on the mushrooms that had started to pop up in a circle around them, and John Kann was given pride of place, sat on what seemed to him a giant puff ball, next to the king.
 
 After they had feasted, Puck turned to John Kann and said: "'Fairies like honey, but men like money'. Is that true, John Kann, is that true?" And John said that yes, indeed, money was a good thing to have. And Puck asked him: "and do men like gold, too, the most of all?" and John said that yes, gold was surely a precious thing to behold, but that, if he were to be given any gold at all, at the size he was, that would be a trifling amount in the world of men, and ...
 
