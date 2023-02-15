@@ -427,3 +427,12 @@ Bridewell Palace in London was built as a residence of King Henry VIII and was o
 
 See also: _missed_opportunities_pre_1830.md for more on Madam Cresswell
 
+
+
+For the traditional author of written works, the story, as much as the published work, whether a printed book, a digital e-book, an audio book or even just an extract in a Sunday supplement, is often something to be protected, something that remains under the ownership of the author to license and "perform" as they see fit.
+
+For the traditional storyteller, the product *is* the performance. The stories are *passed on*, free to be retold by those who heard them, under common, public ownership. Many stories told by traditional storytellers do get written down, at some point, of course. And more stories told by storytellers may have been "picked up" from written down story collections.
+
+For the traditional bookseller, it helps to have a physical product to sell, rather than just an event.
+
+two different ways. The first way is a "literary" way, a reprinting of two long since out of copyright tales originally published in the late 1830s by a certain Mr Abraham Elder (a brief appendix starts to explore just who who the real person behind that pen name really was). Elder's tales are presented as if they were collected, but they owe as much, if not more, to the creative imagination of the teller as the presumed oral tales they claim to retell. The second way is *my* way, at least for now, based on a "pre-transcript" of tales I have told as part of the *Island Tales* set presented by *'Tis Tales* at Ventor Fringe, and elsewhere. These retellings are a window into some of the homework that goes in as I try to find my own way through a story.
