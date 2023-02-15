@@ -1,5 +1,10 @@
 # Historical Isle of Wight Books
 
+Hampshire the isle of wight
+bBrian Vesey-Fitzgerald
+1949
+https://archive.org/details/hampshireisleofw0000bria
+
 The Isle of Wight: its towns, antiquities, and objects of interest
 1915
 Thomas Nelson Publishers
@@ -55,6 +60,11 @@ Cornish, C. J.
 1903
 https://archive.org/details/newforestisleofw00corn
 
+Hampshire, with the Isle of Wight
+George Albemarle Bertie Dewar, John Vaughan
+1901
+https://archive.org/details/hampshirewithis00vauggoog
+
 A pictorial and descriptive guide to the Isle of Wight
 Ward, Lock and Company, Ltd
 1900
@@ -82,6 +92,11 @@ A history of Hampshire, including the Isle of Wight
 Shore, Thomas William
 1892
 https://archive.org/details/historyofhampshi00shoruoft
+
+The Hampshire antiquary and naturalist: being the local notes and queries
+Hampshire field club and archaeological society, Southampton, Eng; The Hampshire independent
+1891
+https://archive.org/details/hampshireantiqua01hampiala/
 
 The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive, Volume 1
 Percy Goddard Stone
@@ -367,10 +382,15 @@ James Albin
 1792
 https://books.google.co.uk/books?id=
 
-Tour of the Isle of Wight (two volumes)
+Tour of the Isle of Wight (volume I)
 Hassell, John
 1790
 https://archive.org/details/tourislewightdr00hassgoog
+
+Tour of the Isle of Wight (volume II)
+Hassell, John
+1790
+https://archive.org/details/tourislewight00hassgoog
 
 A Rumble from Newport to Cowes, in the Isle of Wight: By William Sharp, Junior
 William Sharp
