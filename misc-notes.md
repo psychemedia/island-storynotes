@@ -73,3 +73,287 @@ That tbe Shalfleet peepto, quick to bargain,
 Should sell their steeple and buy an organ."
 
 —I think the suggestion made by my correspondent is deserving of consideration. The couplet, by the way, is a little bit shaky as to "rhyme," but there's "reason" in it, ead with regard to the rhyme, I've seen worse in Shakespeare! In Murray’s Isle of Wight Handbook, edited by the Rev. G. E. Jeans, M.A., F.S.A., vicar of Shorwell and rector of Mottiston, I find the following reference to Shalfleet Church: “ Shalfleet Church is, architecturally, the most intereesting in the Island. Its dedication, strangely, is unknown, though the church was built before Domesday Book. The huge, square Norman tower, with walls 5 feet thick, forms a most striking object from every point of view, and is unique as a combination of castle and church, but is somewhat injured by tbe 18th century low spire." I don't wish to speak ill of the dead, but it seems difficult to find any excuse for that bygone generation of Shalfleet people who sold tbeir church bells for purposs of sticking that extinguisher-like arrangement on top of the grand tower, and if I were a member of the vestry I should hold up both hands for ramoviag the incongruous feature, which has neither beauty nor antiquity to recommend it, making it pay for the next best thing to bells in the way of church music — an organ worthy of the venerable edifice and of the ancient parish.
+
+
+## Journal of the Gypsy Lore Society
+
+https://babel.hathitrust.org/cgi/mb?a=listis;c=778052705
+
+
+
+https://archive.org/details/journalgypsylor00socigoog/page/n14/mode/2up
+https://archive.org/details/journalofgypsylo01gypsuoft
+https://archive.org/details/journalofgypsyl01gypsuoft/page/n7/mode/2up
+Vol I, July 1888-October 1889
+
+https://archive.org/details/journalgypsylor01socigoog/page/n10/mode/2up
+Vol II, January 1890-April 1891
+
+https://archive.org/details/journalofgypsyl03gypsuoft
+Vol III, July 1891-April 1892
+
+https://archive.org/details/bub_gb_UmRIAAAAYAAJ/page/n5/mode/2up
+New Series Vol I, July 1907-April 1908
+
+https://archive.org/details/journalofgypsyl02gyps/page/n9/mode/2up
+https://archive.org/details/journalofgypsylo02gypsuoft/page/n9/mode/2up
+New Series, Vol II, July 1908-April 1909
+
+https://archive.org/details/journalofgypsylo03gypsuoft/page/n9/mode/2up
+New Series, Vol III, July 1909-April 1910
+
+https://archive.org/details/journalgypsylorensv4-1910-11/page/n13/mode/2up
+New Series, Vol IV, July 1910-April 1911
+
+https://archive.org/details/journalofgypsylo05gypsuoft/page/n11/mode/2up
+New Series, Vol V, July 1911-April 1912
+
+https://archive.org/details/journalofgypsylo06gypsuoft/page/n9/mode/2up
+Vol VI, 1912-1913
+
+https://archive.org/details/journalgypsylorensv7-1913-14/page/n13/mode/2up
+Vol VII, 1913-1914
+
+https://archive.org/details/journalgypsylorensv8-1914-15/page/n13/mode/2up
+Vol VIII, 1914-1915
+
+https://archive.org/details/journalofgypsylo09gypsuoft/page/n11/mode/2up
+New Series, Vol IX, 1915-1916
+
+https://archive.org/details/journalgypsylore3rdsv1-1922/mode/2up
+Third Series, Vol I, 1922
+
+https://archive.org/details/journalgypsylore3rdsv2-1923
+Third Series, Vol II, 1923
+
+https://archive.org/details/journalgypsylore3rdsv3-1924
+Third Series, Vol III, 1924
+
+https://archive.org/details/journalgypsylore3rdsv4-1925
+Third Series, Vol IV, 1925
+
+
+---
+
+Welsh Gypsy Folk Tales
+
+*I'm a bit wary pulling this collection together, even though it would make for an excellent set of story notes, in part because of the "prior claim" that Daniel Morden could argue to have over it. For example, his book "Dark Tales from the Woods" retells several of these stories, and at least one of his workshops (on story structure, a workshop I have attended) critiques how his version of one of the tales was transformed from the original. That said, my better half has a family line descended from two Welsh gipsy families, the Woods and the Prices...*
+
+https://archive.org/details/bub_gb_UmRIAAAAYAAJ/page/n45/mode/2up
+Collected and Edited by John Sampson
+No. 1. Kali Rani (The Black Lady)
+pp.26-30
+
+https://archive.org/details/bub_gb_UmRIAAAAYAAJ/page/n173/mode/1up
+Collected and Edited by John Sampson
+No. 2. I Raikani Mura (The Beautiful Hill [cf. Tropsin; DM: The King of the Herrings])
+pp.149-156
+
+https://archive.org/details/bub_gb_UmRIAAAAYAAJ/page/n289/mode/1up
+Collected and Edited by John Sampson
+No. 3. O Grino Murs (The Green Man [DM: The Green Man])
+p258-270
+
+https://archive.org/details/bub_gb_UmRIAAAAYAAJ/page/n346/mode/1up
+Collected and Edited by John Sampson
+No. 4. O Vend ( Winter )
+pp.314-318
+
+https://archive.org/details/journalofgypsyl02gyps/page/53/mode/1up
+Collected and Edited by John Sampson
+No. 5. O Puro Petalengro (The Old Smith)
+pp.53-61
+
+https://archive.org/details/journalofgypsyl02gyps/page/141/mode/1up
+Collected and Edited by John Sampson
+No. 6 Dui Xari To Pos Xara (Twopence Halfpenny)
+pp.141-149
+
+https://archive.org/details/journalofgypsyl02gyps/page/231/mode/1up
+Collected and Edited by John Sampson
+No. 7. I Desuto Sosoia (The Eighteen Rabbits)
+pp. 231-241
+
+https://archive.org/details/journalofgypsyl02gyps/page/371/mode/1up
+Collected and Edited by John Sampson
+No. 8 Laula (Laula)
+pp. 372-376
+(Photos of Matthew Wood, p377)
+
+https://archive.org/details/journalofgypsylo03gypsuoft/page/17/mode/1up
+Collected and Edited by John Sampson
+No. 9. O Dinilo I Bakarensa (The Fool With the Sheep)
+pp. 17-19
+
+https://archive.org/details/journalgypsylorensv4-1910-11/page/n73/mode/1up
+Collected and Edited by John Sampson
+No. 10. I Bita Kani (The Little Hen)
+pp.40-47
+
+https://archive.org/details/journalgypsylorensv8-1914-15/page/n103/mode/1up
+Collected and Edited by John Sampson
+No. 11. Porne-Poriakeri T'o Murenengo Jukel (The Squirrel and the Fox [DM: The Squirrel and the Fox])
+pp.86-99
+
+https://archive.org/details/journalgypsylore3rdsv1-1922/page/n26/mode/1up
+Collected and Edited by John Sampson
+No. 12. O Jak T'a Sox (Jack and the Cabbage)
+p8-10
+
+https://archive.org/details/journalgypsylore3rdsv1-1922/page/n68/mode/1up
+Collected and Edited by John Sampson
+No. 12. O Trin Rasaia (The Three Priests)
+pp.49-58
+
+??No number 13; or miscount becuase of compunded nature of 12??
+
+https://archive.org/details/journalgypsylore3rdsv1-1922/page/n118/mode/1up
+Collected and Edited by John Sampson
+No. 14. I Pisaleski Cai (The Maid of the Mill [DM: Mary, Maid of the Mill])
+pp.97-110
+
+https://archive.org/details/journalgypsylore3rdsv1-1922/page/n168/mode/1up
+Collected and Edited by John Sampson
+No. 15. O Trin Penya (The Three Sisters)
+pp.145-153
+
+https://archive.org/details/journalgypsylore3rdsv2-1923/page/n18/mode/1up
+Collected and Edited by John Sampson
+No. 16. O Boro Dromengero (The Highwayman)
+pp.1-10
+
+https://archive.org/details/journalgypsylore3rdsv2-1923/page/n18/mode/1up
+Collected and Edited by John Sampson
+No. 17. I Iveskero (Frosty)
+pp.49-58
+
+https://archive.org/details/journalgypsylore3rdsv2-1923/page/n120/mode/1up
+Collected and Edited by John Sampson
+No. 18. I Tarni Kikali (The Little Slut)
+pp.99-113
+
+https://archive.org/details/journalgypsylore3rdsv2-1923/page/n168/mode/1up
+Collected and Edited by John Sampson
+No. 19. I Benesko Paramisus (The Devil's Tale)
+pp.145-149
+
+https://archive.org/details/journalgypsylore3rdsv3-1924/page/n20/mode/1up
+Collected and Edited by John Sampson
+No. 20. Mortsi T'a Kokale (Skin and Bones)
+pp.1-5
+
+https://archive.org/details/journalgypsylore3rdsv3-1924/page/n70/mode/1up
+Collected and Edited by John Sampson
+No. 21. O Patrinia ka Blevanas T'a kekar na Jivenas (The Leaves That Hung But Never Grew)
+pp.49-60
+
+https://archive.org/details/journalgypsylore3rdsv3-1924/page/n124/mode/1up
+Collected and Edited by John Sampson
+No. 22. I Bore K'engero (Goggle-Eyes)
+pp.101-110
+
+https://archive.org/details/journalgypsylore3rdsv3-1924/page/n170/mode/1up
+Collected and Edited by John Sampson
+No. 23. O Jak I Ruvlesa (Jack and His Cudgel)
+pp.145-155
+
+https://archive.org/details/journalgypsylore3rdsv4-1925/page/n20/mode/1up
+Collected and Edited by John Sampson
+No. 24. I Suvli Roni (The Pregnant Lady / Foolish Jack)
+pp.1-11
+
+https://archive.org/details/journalgypsylore3rdsv4-1925/page/n72/mode/1up
+Collected and Edited by John Sampson
+No. 25.  O Drukerimasko Murs (The Soothsayer)
+pp.51-58
+
+https://archive.org/details/journalgypsylore3rdsv4-1925/page/n124/mode/1up
+Collected and Edited by John Sampson
+No. 26.  O Grai Ka Xindas o Sunakai (The Horse That Dropped Gold)
+pp.99-102
+
+https://archive.org/details/journalgypsylore3rdsv4-1925/page/n172/mode/1up
+Collected and Edited by John Sampson
+No. 27.  O Dragonus (The Dragon)
+pp.145-159
+
+
+https://archive.org/details/journalofgypsylo05gypsuoft/page/241/mode/1up
+FIFTY WELSH-GYPSY FOLK-RIDDLES
+pp241-255
+
+
+
+---
+
+
+https://archive.org/details/journalofgypsylo03gypsuoft/page/182/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Bulgarian Gypsy Folk Tale (The Cordilendzis)
+pp182-198
+
+https://archive.org/details/journalgypsylorensv4-1910-11/page/n82/mode/1up
+Recorded by Bernard Gilliat-Smith
+Another Bulgarian Gypsy Folk Tale (Story of the Mufti)
+pp49-54
+
+https://archive.org/details/journalgypsylorensv4-1910-11/page/n181/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Third Bulgarian Gypsy Folk Tale (The Thief)
+pp142-151
+
+
+https://archive.org/details/journalofgypsylo05gypsuoft/page/n30/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Fourth Bulgarian Gypsy Folk Tale (The Merchant's Daughter; Or, The Dead Man's Ring)
+pp1-8
+
+
+https://archive.org/details/journalofgypsylo05gypsuoft/page/279/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Fifth Bulgarian Gypsy Folk Tale (The History of Batim)
+pp279-289
+
+
+https://archive.org/details/journalofgypsylo06gypsuoft/page/3/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Sixth Bulgarian Gypsy Folk Tale (The Story of the God)
+pp3-19
+
+https://archive.org/details/journalofgypsylo06gypsuoft/page/33/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Seventh Bulgarian Gypsy Folk Tale (Chaiakeri Paramisi, ; in Nagari letters, no trasncript?)
+p33
+
+
+https://archive.org/details/journalofgypsylo06gypsuoft/page/85/mode/1up
+Recorded by Bernard Gilliat-Smith
+An Eighth Bulgarian Gypsy Folk Tale (The Step-Mother)
+pp85-90
+
+
+https://archive.org/details/journalgypsylorensv7-1913-14/page/n64/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Ninth Bulgarian Gypsy Folk Tale (??)
+pp37-41
+
+
+https://archive.org/details/journalgypsylorensv7-1913-14/page/n144/mode/1up
+Recorded by Bernard Gilliat-Smith
+A Tenth Bulgarian Gypsy Folk Tale (The Snake's Ring)
+pp111-115
+
+https://archive.org/details/journalgypsylorensv7-1913-14/page/n247/mode/1up
+Recorded by Bernard Gilliat-Smith
+An Eleventh Bulgarian Gypsy Folk Tale (The Forty-One THieves)
+pp214-224
+
+
+
+
+
+
+---
+
+Tales collected from Noah Lock
+https://archive.org/details/journalgypsylorensv8-1914-15/page/n225/mode/1up
