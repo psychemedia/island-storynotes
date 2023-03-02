@@ -10,6 +10,7 @@ food... punishment
 pay not changed since
 
 
+Easter 1797 - 16 April
 
 
 
@@ -23,6 +24,25 @@ Kentish Weekly Post or Canterbury Journal - Tuesday 18 April 1797
 Our Portsmouth correspondent has transmitted to us a very alarming account of a mutiny board every ship at Spithead. The cause of this mutiny is stated to be a demand for an encrease of wages, and it is even said, that the crews of the ships of Lord BridporPs fleet, though his Lordship is on board, and under failing orders, have refused to weigh anchor until their demands are complied with.— *Courier*.
 
 Another paper states the acccont of tbe mutiny. But says it was happily got under.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970421/014/0004
+Kentish Weekly Post or Canterbury Journal - Friday 21 April 1797
+
+...
+
+Some further advices were on Wednesday received at the Admiralty from Earl Spencer at Portsmouth, the contents of which have not transpired, and very few private letters have, for the last two days. reached town from that place. Such as came to hand on Wednesday agree in stating, tha notwithstanding the seamen on board the fleet have expressed themselves satisfied with the liberal promises made to them, in the name of the Admiralty Board, by Lord Spencer, they continue determined not to proceed to sea until their demands for an advance of wages and a more equal disribution of prize money, shall be fully compelled with, and sanctioned by Parliament, except they shall in the mean tim, be assured of sailing of the French fleet's in which case they are determind to prove that their King, and love for their country, were never greater than they are at the present moment.
+
+On the arrival of Lord Spencr at Portsmouth, he immdiately held a board in Admital Parker's ship. He then went on board the Royal George, Lord Bridport's ship, and, after expostulating withh the sailors on the dangerous consequences that might result from heir determination, infomred them that their demands had been taken into consideration and should be complid with as soon as the necessary forms would permit, provided they conducted themselves in a manner bcoming the charactr of British seamen. The sailors, as we have already stated, expressed themselves satisifed with his Lordship's declarations; but at the same time hoped that all the differencs would be adjusted before they were ordered to put to sa. It is with infinite concern we find that they have since been guilty of several acts of outrage on board the fleet, such as threatening to throw one of the Admirals (Gardner) overboard, for having upbraided them with sluggishly remaining in port whil the enemy's fleet were on the eve of putting to sea— hanging up one of the crew who attempted to reason with them upon the impropriety of offering any violence to the gallant Admiral— flogging and ducking several others for disobedience of rders— taking possession of the cabins of the different Commanders—and entering into a resolution that no seamen should for the future be punishd, unlss found guilty of an offence by a Jury of twelve of his companions. THese distressing circumstances are rlatd in most of the letters received on Wednesday from Portsmouth. It is a painful part of our duty to state them : we fear, alas ! they are not entirely unfounded.
+
+The following are copies of letters received by that day’s post:
+
+Portsmouth, April 18.  
+"The seamen not only demand a rise of pay, but a more equal distribution of prize money, and to be regulalry paid to them. They unanimously express their determination to face the French, if they attempt an invasion, like Britons. They have a ship, which is the Queen Charlotte, on board which every thing is regulated; they call her the Parliament ship, and four seamen from every ship go on board in the mornmg, to consult what measures to pursue, and solemnly take an oath, admiinistered to them with the greatest decorum, that they will not go to sea, unless their demands are complied with, except the enemy are at sea, and a convoy wanted ; and, if their demands are not promised, they will convey the ships into Portsmouth harbour on Saturday morning. They have possession of the magazines and small arms ; obey no officers, but shew them every respect.—The four men from each respective ship return on board their ships night, and give three cheers to the Queen Charlotte, which is returned by her. Thesick seamen at Haslar cheer the ships at Spithead, which they return. —Lord Spencer is arrived, endeavouring to appease them.— Lord Bridport's flag is flying at Spithead.
+
+ANOTHER LETTER, SAME DATE.
+
+" The seamen still retain the command of the fleet. The Board of Admiralty, at this moment, (seven o'clock in the evening) are at dinner with Sir Peter Parker. The mutiny is general all over the fleet. On Monday the sick and convalescents in Hasler hospitaL displayed flags, composed of handkerchiefs tacked to gether, with three cheers, which were returned by every ship of war at Spithead."
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970421/022/0003
