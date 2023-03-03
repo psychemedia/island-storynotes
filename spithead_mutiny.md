@@ -1,6 +1,6 @@
 # The Spithead Mutiny
 
-> It's 1797. Look out from Ryd towards Spithead, and you would see Lord Bridport's fleet assembling there, making ready to head to Brest, on patrol against the French fleet, this being a time with war... again...
+> It's 1797. Look out from Ryde towards Spithead, and you would surely see Lord Bridport's fleet of ?? ships ??of the line?? assembling there, making ready to head out on patrol against the French fleet, this being a time with war... again...
 > These were not the happiest of times for the sailors in His Majesty's Royal Navy. Many would have been pressed into service against their will ...
 
 others prison
@@ -9,12 +9,36 @@ food... punishment
 
 pay not changed since
 
+Saturday, April 15th, Holy Saturday I.e. Easter Satruday, saturday between Good Friday and Easter Sunday) Bridport's flag raised but the men refused to sail.
 
 Easter 1797 - 16 April
 
 
 
-the nor... but that is another story for another day
+the nore... but that is another story for another day
+
+The tale is told in
+ https://archive.org/details/historyofmutinya00neal
+History of the mutiny at Spithead and the Nore : with an enquiry into its origin and treatment : and suggestions for the prevention of future discontent in the Royal Navy
+by Neale, W. Johnson (William Johnson), 1812-1893
+Publication date 1842
+
+
+https://archive.org/details/navalmutiniesof00gill
+The naval mutinies of 1797
+by Gill, Conrad, 1883-
+Publication date 1913
+
+https://archive.org/details/in.ernet.dli.2015.227167/mode/1up
+The Floating Republic
+by G.e Manwaring
+Publication date 1935
+
+We can also refer to original newspaper reports of the mutiny, on which much of the content of the *History of the mutiny at Spithead and the Nore* seems to draw.
+
+## Philosophy
+
+
 
 ----
 
@@ -139,7 +163,7 @@ A Petition, addressed to Parliament, has been printed, which states,
 
 "We therefore request your Honourable House will be so kind as to revise the Act aforementioned, and make such amendments therein, as will enable your Petitioners and their families to live in the same manner at Seamen and Marines did at that Time."
 
-The names of the deputies (thrity-two in number) are subscribed to this petition.— There is also another petition to the Lords of the Admiralty.
+The names of the deputies (thirty-two in number) are subscribed to this petition.— There is also another petition to the Lords of the Admiralty.
 
 [Several of the London prints of Friday say that letters from Portsmouth, of the preceding day, assert that the matter is now settled ; and that the demands of the seamen have been fully complied with:— others, that the board of admiralty has signified that the following advances shall made, to the pay of able-bodied seamen, 4s. per month;—ordinary, 3s.— landmen, 2s.—and that the pound of provisions shall contain 16 ounces, instead of 12;— with other ameliorations.]
 
@@ -623,7 +647,7 @@ A well-attended meeting of the Portsmouth Literary and Scientific Society was he
 
 A paper " The Mutinies Spithead and the Nore in 1797" was ready by Geo. Long, J.P. At the time of the outbreak, said the lecturer, the English seamen were badly paid, badly fed, and treated in a most tyrannical manner. Their pay had not been raised since the time of Charles II, when was 9 3/4d per day, le*s than half of what it is to-day. The food was bad quality and deficient in quantiyy, owing to the peculations of the pursers, who often made a fortune by underfeeding the men. The salt junk at times became so impregnated with salt as to lose all flavour and to be susceptible of a polish like agate cornelian. The biscuits were too often full of weevils. The water also was bad, and leave was almost unknown, even after long absence abroad. The Centrion was kept for 12 years at a stretch at the India Station. The prize money was very unequally divided, and the pressgangs made raids upon the maritime towns, which resembled more the raids of Arab slavers than the recruiting operations of a civilised nation. Severe corporal punishment in the shape of brutal floggings was also inflicted at the caprice of the commanders for the slightest breach of discipline. This might have been necessary to some extent, however, owing to the fact that the ships were often manned by the sweepings of the gutter and of the convict prisons. Under such conditions it could hardly be matter for surprise that a mutiny should take place. After tracing in detail tha history of the mutinies, the lecturer showed the great improvement that had been effected with regard to the position of the seamen within the past half-century, and said that the nation should take care that there should never be an excuse for such things happening again. Grievances should at once be inquired into, and if necessary remedied. The law of impressment had never been repealed, but he thought it would never be needed as the conditions were so much improved as to attract men to the Navy.
 
-In referring to the diffrence in the position of the seaman now as compard with 1797, the President said that British seamen were now treated properly and humanely, and were, therefore, a respectable body of men, and their wives were good, respectable women. (Loud applause.)— General Harward proposed, Mr. Lewis seconded, and Mr. G. L. Green supported, a vote of thanks to the lecturer and tha President, which was carried by acclamation, and the meeting then terminated.
+In referring to the difference in the position of the seaman now as compard with 1797, the President said that British seamen were now treated properly and humanely, and were, therefore, a respectable body of men, and their wives were good, respectable women. (Loud applause.)— General Harward proposed, Mr. Lewis seconded, and Mr. G. L. Green supported, a vote of thanks to the lecturer and tha President, which was carried by acclamation, and the meeting then terminated.
 
 ---
 Portsmouth Evening News - Thursday 15 April 1897
@@ -714,6 +738,9 @@ https://www.euppublishing.com/doi/pdf/10.3366/rom.2007.13.2.133
 
 
 --
+
+
+https://www.philipkallan.com/single-post/the-spithead-mutiny
 
 
 
