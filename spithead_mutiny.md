@@ -288,6 +288,30 @@ GOO SAVE THE KING.
 Much fear has been expressed that the issue of the business maybe considered as a death-blow to the discipline of the Navy. We hope otherwise——nay we are confident that our brave Seamen will prove, by their conduct, that the professions of attachment to their country, which were held out in their different memorials, were from the heart. British Seamen do not say one thing, while they mean another; and we are sure they will now be as unanimous in their attention to duty and submission to their officers, as they were firm in demanding a redress of grievances. They are not so short-sighted as many people may imagine, and the man who would attempt to sow among them the feeds of insubrdination would speedily find that they have discernment enough to see his real character, for they would consider and treat him as their enemy.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970505/018/0004
+Kentish Gazette - Friday 05 May 1797
+
+HOUSE OF LORDS.— Wednesday, May 3.
+
+...
+
+SAILORS AT PORTSMOUTH.
+
+*The Duke of Bedford* said there was a subject which he could not help drawing to the consideration of the House, namely the transactions which it was generally understood had recently taken place at Portsmouth. He felt it a delicate subject, but, nevertheless, from what could be collected from public report, it was of too great importance to be passd over in silence. If, however, it was the intention of his Majestry's Ministers to bring the subject forward, he certainly should not take it out of their hands.
+
+*Lord Spencer* rose merely to say, that he had not receieved any commands from his Majesty upon the subject, nor had he any reason to believe that he ever should.
+
+*Lord Howe* said, he had anxiously waited for an opportunity to justify himself from those insinuations which had been thrown out against him, and he should certainly avail himself of that which, he hinted, the motion of the Noble Duke would give. But, he mist confess, the circumstance was of a very serious nature, and its weight and importance oight to be well considered before it was touched upon.
+
+*The Duke of Clarence* paid many compliments to th character of the last Noble Lord, of which, he said, there could be but one opinion in the whole British Navy. The late transactions at Portsmouth most undoubtedly were of a very serious nature; and he did not see what advantage could be erived from any animadversion. Speaking of it as an Officer, professionally and not politically, he did consider that making conditions whith the seamen might be injurious to the neccessary discipline of the navy;— but even that was a question which the House could not well discuss without doing some injury.
+
+*Lord Howe* felt the force of thr Royal Duke's observation respecting the discipline of the Navy; but the question was now, will you abide by the terms you have made with the sailors, or will you not? If you do, then you give a sanction to their conduct: if you do not, then what dependence can they have on your promises in future? In his opinion, therefore, as circumstances now stood, they should by all means abide by their engagements.
+
+The first he heard of this unfortunate business was during his indisposition, between the second week in February and the beginning of March, when several petitions were presented to him as from the seamn; they were exactly similar, and prayed for an advance of wages, that they might be enabled to make their families more comfortable. Four or five of these petitions were written in different hands, but they wer evidently dated by the same hand: thes petitions wer not signd by any name, therefore it was impossible for him to take any notice of them. He, however, sent an Officer at Portsmouth, whose situation rendere it likely for him to ascertain the fact, to know whether there was any appearance of any discontent in the fleet; to which he replied there was not; and this induced his Lordship to believe the whole a monoeuvre of some incendiary to stir up discontent, by making him notice a complaint which did not exist.— The day after he came to town, the 22d of March, one of the Members of the Admiralty Board called upon him, to whom he communicated this circumstance, and sent the petitions to the Noble Earl who preseides at th head of the Admiratlty; and he knew nothing more of the unhappy transaction than what had appeard in the public prints.—If the insinuations had been against him in any act of his professional duty, h must have borne it; but from such an attack as he had receivd, he could only be rescud by their Lordships.
+
+*Lord Grenville* declared that the Noble Earl's conduct in this business had ben marked with the same honor which characterised every transaction of his life, and he believd every Noble Peer in the House was of the same opinion. After which the Noble Lord moved that this House do now adjourn till tomorrow; which was done accordingly.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970512/011/0004
 Kentish Gazette - Friday 12 May 1797
 
