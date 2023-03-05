@@ -288,6 +288,39 @@ GOO SAVE THE KING.
 Much fear has been expressed that the issue of the business maybe considered as a death-blow to the discipline of the Navy. We hope otherwise——nay we are confident that our brave Seamen will prove, by their conduct, that the professions of attachment to their country, which were held out in their different memorials, were from the heart. British Seamen do not say one thing, while they mean another; and we are sure they will now be as unanimous in their attention to duty and submission to their officers, as they were firm in demanding a redress of grievances. They are not so short-sighted as many people may imagine, and the man who would attempt to sow among them the feeds of insubrdination would speedily find that they have discernment enough to see his real character, for they would consider and treat him as their enemy.
 
 ---
+
+https://archive.org/details/parliamentaryre41britgoog/page/n161/mode/1up
+The Parliamentary Register
+
+1797
+
+pp148-150
+
+Wednesday, 3d May.
+
+The Duke of BEDFORD once more offered himself to the notice of the House on subject which he acknowledged to be extremely delicate, but to which his duty to the Public obliged him to pay attention. He meant, he said, the proceedings which had lately taken place between the sailors of the fleet at Portsmouth and the Lords of the Admiralty. If His Majesty's Ministers intended to bring forward any papers relative to that subject, he would be very ready to leave it in their hands. If they had not any such intention, he should certainly think it necessary to move for papers on that head.
+
+Earl SPENCER said, that he had it not in gpminand from His . Majesty to make any communication to the House on that head, nor did he believe he should have.
+
+Earl HOWE said that his name had been very much mentioned, in this business, and in a manner which he did not think yery reputable to his charactcr. As the noble Duke had given notice that he intended to bring this matter forward on a future day, he would postpone going into the business till the period of discussion arrived, though he had been to the House several times, with considerable anxiety, to speak on the subject, but without any proper opportunity of doing so. He, however, entreated their Lordships to be extremely cautious how they entered into any discussion on the subject. He begged them to consider that if they came to any resolution, approving of the demands of the sailors, it would materially affect the future discipline of the fleet, by conveying an acquiescence in their conduct. If they disapproved of it by any resolution, it would convey to the seamen of the fleet an idea that the promises which had been made to them were not meant to be performed. He would however recommend, that all engagements made to them should be puctually complied with.
+
+The Duke of CLARENCE waved all idea of being considered to speak in a political point of view ; but as a professional man, he deprecated a discussion of the subject.
+
+Lord GRENVILLE was of the same opinion, and thought a great deal of mischief might be the consequence of a discussion, while no possible good could result from it.
+
+The Duke of BEDFORD declared^that he did not wish to bring forward, or provoke any discussion which might in its consequence be productive of any disadvantage to the country. He could not, however, consennt that a matter of such immense magnitude, and of so extraordinary a nature as had never yet been entered upon the annals of this country, should pass off without the notice of that House. He was determined, therefore, on some future day, to bring forward a motion for papers on this subjeft, without prefacing it by any comment whatever.
+
+The Earl of CARLISLE assured the House that he was impressed with the highest respect for the great delicacy observed by Lord Howe in puting off what he had to say in juftification of himself to the day on which the noble Duke should bring the business before the House ; and he was also fully sensible of the weight that ought to be paid to the professional opinion of a high Personage who had spoken on the subject (the Duke of Clarence.) He could not, however, avoid asking the House if a matter of this importance was never to be taken up ? He by no means wished to say whether this was the proper moment to discuss it ; but he asserted that it was the duty of their Lordships to inquire into the matter, and to investigate in the most serious manner from what causes a proceeding so totally unprecedented in the English history had originated.
+
+Earl HOWE again deprecated a discussion of the subject, but said his charader had been so implicated, that he must take the first proper opportunity of defending it.
+
+Lord SYDNEY was of opinion that a discussion of the subject would be wrong, as much evil might be the consequence, and no one possible good could accrue from it.
+
+Earl HOWE again rose and said, that from what had fallen in the course of the debate, he perceived that this was the properest moment for him to explain himself, and clear his character to the seamen and the public. In the early part of the month of February, and till the middle of March, while he was obliged to be at Bath from an ill state of health, he had received several petitions from the fleet, which conveyed intelligence of there being great discontents among the seamen of the fleet, and demanded an increase of pay or wages. These petitions being all anonymous, he neither could answer them, nor did he think it necessary. However, in order to satisfy himself as far as possible on the subject, he wrote to an officer at Portsmouth, to know if he thought any discontents prevailed on board the fleet, informing him at the same time of the petitions he had received. This officer answered his inquiries by an assurance that no discontents that he could hear of, prevailed in the fleet. When, however, his health would permit him, he came to town, and one of the Lords of the Admiralty happening the day after his arrival to call on him, he mentioned to him the petitions he had received, and requested him to make the proper inquiries, and to pay the necessary attention to this subject. His Lordship concluded by saying, that if he had any particular friend in the House, he hoped he would evince his friendship by moving that his conduct might be taken into confideration.
+
+Lord GRENVILLE said, that he believed everyone of their Lordships and every man in the kingdom, was perfectly convinced that His Lordship had acted through a long life, the part of a virtuous and honourable supporter of the rights and interests of his country. He once more deprecated any farther discussion of the subject and moved to adjourn.— Adjourned.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970505/018/0004
 Kentish Gazette - Friday 05 May 1797
 
