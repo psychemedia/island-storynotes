@@ -36,6 +36,18 @@ Publication date 1935
 
 We can also refer to original newspaper reports of the mutiny, on which much of the content of the *History of the mutiny at Spithead and the Nore* seems to draw.
 
+https://archive.org/details/sim_new-annual-register_1797/page/n137/mode/1up?q=mutiny
+The New Annual Register  1797
+Publication date 1797
+pp108-110
+Chap IV
+
+https://archive.org/details/sim_new-annual-register_1797/page/n403/mode/1up
+The New Annual Register  1797
+Publication date 1797
+Principal Occurrences
+p77-89
+
 ## Philosophy
 
 
