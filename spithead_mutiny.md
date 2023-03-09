@@ -14,7 +14,7 @@ Since 1757, the Articles of War, the laws that regulated life on board, would ha
 
 As for the pay? Well, that hadn't changed since the time of Charles II, a hundred or more years before. That didn't matter so much in times of low inflation, but the current war, and perhaps the early onset of the industrial revolution, meant that inflation was now a thing: prices were increasing and the men could no longer provide for their families as they had even a few short years before.
 
-Round-robin letters of discontent started to make their way arround Bridport's fleet, ferried by small boars criss-crossing between the ships of war, as it moored at Spithead that month of February.
+Round-robin letters of discontent started to make their way around Bridport's fleet, ferried by small boars criss-crossing between the ships of war, as it moored at Spithead that month of February.
 
 Copies of the same letter were sent from several of the ships, unsigned, but several of them dated by the same hand, to Bridport's predecessor, the well-loved Lord Howe, invalided out a couple of years ago and currently resting up, in Bath, with a painful bout of gout — the rations for the officers were not so bad as those of the men, which was another cause for complaint.
 
@@ -100,7 +100,7 @@ Had a drink...
 
 And started to get a bit rowdy. They tried to come up on deck, and were pushed back. The marines were ordered to point their guns at the hatches, and then an order to fire was given. A short gun battle ensued, in which men on both sides were wounded. (Three of the seamen later died, the coroner's verdict: justifiable homicide).
 
-Monday. Across the fleet, the seamen started to take control. Officers wer sent ashore, and several more ships sailed round to St Helens.
+Monday. Across the fleet, the seamen started to take control. Officers were sent ashore, and several more ships sailed round to St Helens.
 
 Some of the more credulous and revolutionary men started to gossip that the fleet would sail to Brest, and join with the French, but the great majority of the fleet were still loyal to the flag, to the King, even if they were suspicious of the Admiralty, and of Parliament.
 
@@ -116,7 +116,7 @@ And so it was agreed.
 
 A celebration was organised, with processions through Portsmouth. To Bridport's chagrin — there was little love lost between him and Howe, and now it was Howe who was for having brought an end to the mutiny — the celebrations would delay the sailing of the fleet, now the men had returned to his full command, for a further.
 
-As the celebrations continued, four men from the Nore fleet, at the opening of the Thames Estuary, had arrived in Portsmouth. They had started to mutiny three days before and had come to co-ordinate with the Portsmouth mutineers. Their mutiny would not end so happily, but that, as the old saying goes, is another story, for another day.
+As the celebrations continued, four men from the Nore fleet, anchored at the opening of the Thames Estuary, had arrived in Portsmouth. They had started to mutiny three days before and had come to co-ordinate with the Portsmouth mutineers. Their mutiny would not end so happily, but that, as the old saying goes, is another story, for another day.
 
 
 
