@@ -1,5 +1,10 @@
 # Demeter and Persephone — Reworked from the Homeric Hymn
 
+
+In three??? parts...
+
+## Part I — Doso
+
 In the town of Eleusis, there was much to rejoice in the household of Lord Celeus, a well-regarded leader of that place, for his wife, Metanira, though thought to be past child bearing age, had given birth. To a son. But there was concern too, because the child that was born was born weak.
 
 One day. Metanira's three daughters went down to the well to fetch water for their mother.
@@ -35,6 +40,78 @@ One night, Metanira thought to see her child, but as she did so, she saw Doso pi
 "Stop!" shouted Metanira, "what are you doing, what are you doing to my child?" Full of fear, full of panic, fearing for the safety of her son, as any mother would.
 
 Doso turned, surprised. She glared at Metanira, took that boy, the biy who had grown stronger and faster than every other mortal child before him, the boy who had grown quite remarkably, and threw him to the ground.
+
+"What have I done? What have you done?"
+
+And as Metanira watched, Doso, the old woman, transformed before her very eyes, the years of age fell from her face and she glowed as if with some divine light. 
+
+"Don't you realise? Can't you see? I would have made your son deathless. But now? Now, there is no way he will avoid the death that is suffered by every man. And though he will be honoured, strife and war will plague the sons of Eleusis ever more."
+
+And as she spoke, a beautiful scent filled the air.
+
+"Do you not realise who I am? I am Demeter. Goddess of the harvest, the greatest help and source of joy to the undying Gods and to mortal men."
+
+"Now go. Go and build me a temple. And I will teach you the rites by which you shall worship me so that you may win the favour of my heart."
+
+By this time, Metanira's daughters, woken by the commotion, had come to see what the trouble was. One of them picked up her young brother, and tried to comfort him, but she did not have the skill that Doso — that Demeter — had had.
+
+After a night spent quaking with fear, they told Celeus the next morning what had happened the night before, of how the Goddess Demeter had revealed herself to them, and what they must now do: they must build a temple to her.
+
+And so they did as they must.
+
+Butrather than repay the gifts and the offerings of the Eleusinians with a bountiful harvest, the sorrow that Doso had carried as she sat as an old woman at the well, the anger that had remained hidden, was now released with a cold and hostile fury that prevented the spring from coming, that caused the harvest to fail, and caused all to suffer famine.
+
+Rather than acting as the Goddess of Harvest, she became as if a Goddess of Death.
+
+And that is the end of Doso's tale.
+
+## Part II — 
+
+One day, as Zeus, the King of the Gods, was sitting on Mount Olympus, who should he notice coming up the mountainside but Hades, his younger brother, Hades, ruler of the lower of the three realms, Hades, who rarely came up from the underworld that was his kingdom.
+
+At one point, Hades stopped, and appeared to be watching something, or some one. Ah... some of the younger Goddesses, and some of the nypmhs too... Hera, Zeus wife, would often see him watching them too, and more, and she did not approve.
+
+But Hades was a batchelor, and "who's she?" Hades pointed? "She's beautiful..."
+
+"Which one? That one? Or, oh, that one. That's Persephone. Your niece. Our sister's daughter. Come to think of it, my daughter, too. Well, one of them, at least."
+
+In those days, for the Gods, well... there weren't that many Gods and Goddesses around that you could start a family with.
+
+"She's lovely...."
+
+They talked. They plotted. They planned.
+
+Persephone's mother wouldn't approve, of course. So they;d best keep it secret, at last until Persephone was Hades wife.
+
+The plan was made.
+
+The plan was simple...
+
+One day, when Persephone was out with the other goddesses and nypmhs, Zeus would make sure that Persephone was separated from the others, he could guarantee she'd be tempted away by a path of beautiful flowers she could pick: irises, and hyacinths, and narcissus, yes, narcissus, she would surely want to pick Narcissius; and then...
+
+A chasm appeared, and from it rode Hades, pulled on a golden chariot from the underworld by his undying horses. He grabbed Persephone, turned the horses around, and return with his unwilling bride to the underworld.
+
+Persephone screamed, seeing the earth, the sky, all she knew of loved disappearing behind her. Screamed to those she had just been with. Screamed to her father. Screamed for her mother.
+
+The chasm closed. And Persephone had gone.
+
+That first scream? Persephone was was alread too far away for her friends to hear it.
+
+That second scream, to her father: Zeus had got his plausible deniability excuse in place. He was in the Temmple, accepting sacrifices to him.
+
+That third and final scream? Persepphone's mother may not have heard it, but she felt, she knew as mother's often do that there was something troubling her daughter, some danger she was in, and she went to look for her.
+
+But there was no sign of her.
+
+
+
+
+
+
+
+## Part III — 
+
+
 
 
 
