@@ -3,7 +3,7 @@
 
 In three??? parts...
 
-## Part I — Doso
+## Part I — Doso and Metanira
 
 In the town of Eleusis, there was much to rejoice in the household of Lord Celeus, a well-regarded leader of that place, for his wife, Metanira, though thought to be past child bearing age, had given birth. To a son. But there was concern too, because the child that was born was born weak.
 
@@ -65,7 +65,7 @@ Rather than acting as the Goddess of Harvest, she became as if a Goddess of Deat
 
 And that is the of Doso's tale, although it is just part of Demeter's.
 
-## Part II — 
+## Part II — Descent and Search
 
 One day, as Zeus, the King of the Gods, was sitting on Mount Olympus, who should he notice coming up the mountainside but Hades, his younger brother, Hades, ruler of the lower of the three realms, Hades, who rarely came up from the underworld that was his kingdom.
 
@@ -115,7 +115,7 @@ And Helios, seeing the deep despair of Persephone's mother, took pity on her, an
 
 But this did not placate Persephone's mother at all. And even though she was a Goddess herself, and a sister to Zeus, she took herself far away from Olympus, to Eleusis, where she took the form of an old woman sat down by a well, under an old olive tree.
 
-## Part III — 
+## Part III — Return
 
 One of the things you may or may not know about the Greek Gods and Goddesses is this: they like to be worshipped. In fact, more than that, they need to be worshipped. Without worship and sacrifice, they wither away and become forgotten, become as nothing.
 
@@ -129,13 +129,13 @@ From Olympus, Zeus sent one messenger after another to entreat Demeter to return
 
 But she would not come. She would not return until she saw her daughter again.
 
-At this point, Zeus sent Hermes, trickster an messenger of the Gods, tdown to the underworld to talk to Hades, to tell him that Zeus wanted him to let Persephone return to her mother.
+At this point, Zeus sent Hermes, trickster an messenger of the Gods, down to the underworld to talk to Hades, to tell him that Zeus wanted him to let Persephone return to her mother.
 
 "I'll do what I can", said Hermes, "but you know the rule. If she's eaten anything in the underworld that was given to her by Hades, a part of her at least will always remain there."
 
 And with that, he was gone.
 
-And when Hermes arrived at Hades' Palace, he saw Hades sat upon a couch, with Perspehone sat away to the side, shy and reluctant, desiring to return to her mother.
+And when Hermes arrived at Hades' Palace, he saw Hades sat upon a couch, with Persephone sat away to the side, shy and reluctant, desiring to return to her mother.
 
 Hades listened to what Hermes had to say, smiled, and turned to Persephone, as charming and kind as a God could be to his wife, and said to her: "go back to your mother. But you know I will not be an unfitting husband; you know that by my side you real rule over on eof the thee kingdoms. You know that anyone who crosses you will be punished for ever more."
 
