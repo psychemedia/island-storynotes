@@ -160,14 +160,3 @@ And then Zeus sent Rhea, his mother, and Demeter's, down to Eleusis, and from th
 And so it was and so it is that ever since that time, Persephone has spent a third of the year in the underworld with Demeter, and two thirds of the year on Olympus. And in the world of man, we see that same pattern in the seasons as Demeter mourns the loss of her daughter through winter, and rejoices at their time together through spring, and summer, and into autumn.
 
 And that is the end of the tale.
-
-
-
-
-
-
-
-
-
-
-
