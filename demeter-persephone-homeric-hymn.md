@@ -23,7 +23,7 @@ Doso entered the house, her dark cloak covering her head, but as she stood in th
 
 Doso sat down, her eyes downcast, saying nothing, unsmiling, refusing both food and drink.
 
-Iambe, one of Metanira's daughters, tried to cheer up their guest, joking, laughing, offering her red wine.
+One of Metanira's daughters, tried to cheer up their guest, joking, laughing, offering her red wine.
 
 "Just a little barley, mixed with water, and mint" she said, and that was all she would accept.
 
@@ -59,7 +59,7 @@ After a night spent quaking with fear, they told Celeus the next morning what ha
 
 And so they did as they must.
 
-Butrather than repay the gifts and the offerings of the Eleusinians with a bountiful harvest, the sorrow that Doso had carried as she sat as an old woman at the well, the anger that had remained hidden, was now released with a cold and hostile fury that prevented the spring from coming, that caused the harvest to fail, and caused all to suffer famine.
+But rather than repay the gifts and the offerings of the Eleusinians with a bountiful harvest, the sorrow that Doso had carried as she sat as an old woman at the well, the anger that had remained hidden, was now released with a cold and hostile fury that prevented the spring from coming, that caused the harvest to fail, and caused all to suffer famine.
 
 Rather than acting as the Goddess of Harvest, she became as if a Goddess of Death.
 
@@ -69,9 +69,9 @@ And that is the end of Doso's tale.
 
 One day, as Zeus, the King of the Gods, was sitting on Mount Olympus, who should he notice coming up the mountainside but Hades, his younger brother, Hades, ruler of the lower of the three realms, Hades, who rarely came up from the underworld that was his kingdom.
 
-At one point, Hades stopped, and appeared to be watching something, or some one. Ah... some of the younger Goddesses, and some of the nypmhs too... Hera, Zeus wife, would often see him watching them too, and more, and she did not approve.
+At one point, Hades stopped, and appeared to be watching something, or some one. Ah... some of the younger Goddesses, and some of the nymphs too... Hera, Zeus wife, would often see him watching them too, and more, and she did not approve.
 
-But Hades was a batchelor, and "who's she?" Hades pointed? "She's beautiful..."
+But Hades was a bachelor, and "who's she?" Hades pointed? "She's beautiful..."
 
 "Which one? That one? Or, oh, that one. That's Persephone. Your niece. Our sister's daughter. Come to think of it, my daughter, too. Well, one of them, at least."
 
@@ -87,7 +87,7 @@ The plan was made.
 
 The plan was simple...
 
-One day, when Persephone was out with the other goddesses and nypmhs, Zeus would make sure that Persephone was separated from the others, he could guarantee she'd be tempted away by a path of beautiful flowers she could pick: irises, and hyacinths, and narcissus, yes, narcissus, she would surely want to pick Narcissius; and then...
+One day, when Persephone was out with the other goddesses and nymphs, Zeus would make sure that Persephone was separated from the others, he could guarantee she'd be tempted away by a path of beautiful flowers she could pick: irises, and hyacinths, and narcissus, yes, narcissus, she would surely want to pick Narcissus; and then...
 
 A chasm appeared, and from it rode Hades, pulled on a golden chariot from the underworld by his undying horses. He grabbed Persephone, turned the horses around, and return with his unwilling bride to the underworld.
 
@@ -95,19 +95,25 @@ Persephone screamed, seeing the earth, the sky, all she knew of loved disappeari
 
 The chasm closed. And Persephone had gone.
 
-That first scream? Persephone was was alread too far away for her friends to hear it.
+That first scream? Persephone was was already too far away for her friends to hear it.
 
-That second scream, to her father: Zeus had got his plausible deniability excuse in place. He was in the Temmple, accepting sacrifices to him.
+That second scream, to her father: Zeus had got his plausible deniability excuse in place. He was in the Temple, accepting sacrifices to him.
 
-That third and final scream? Persepphone's mother may not have heard it, but she felt, she knew as mother's often do that there was something troubling her daughter, some danger she was in, and she went to look for her.
+That third and final scream? Persephone's mother may not have heard it, but she felt, she knew as mother's often do that there was something troubling her daughter, some danger she was in, and she went to look for her.
 
 But there was no sign of her.
 
+For nine days, she sought her daughter. For nine days, there was no sign of her.
 
+But then, on the tenth day, Hecate, Goddess of the Moon, Hecate, who straddles the liminal space between the three worlds, she told Persephone's mother that she too had heard the screams.
 
+And together they went to see Helios, the Sun God who sees all that happens during the day.
 
+And Helios, seeing the deep despair of Persephone's mother, took pity on her, and told her what he knew, as I have told you: that Zeus had given Persephone to his brother, that Hades had seized her, had forced her into his chariot, had taken her screaming, down to the underworld to be his wife.
 
+"But he's not that bad, really," said Helios. "He does love her, and will surely treat her well. And he is the lord over one of the three realms, so quite a catch, really..."
 
+But this did not placate Persephone's mother at all. And even though she was a Goddess herself, and a sister to Zeus, she took herself far away from Olympus, to Eleusis, where she took the form of an old woman sat down by a well, under an old olive tree.
 
 ## Part III — 
 
