@@ -7,6 +7,8 @@ Original book: [Hesiod, the Homeric hymns, and Homerica; with an English transla
 
 *The original has an introduction with notes on each of the poems, which it might be worth reviewing.*
 
+`As ever, the following is written as it might be heard, not as it might be read.`
+
 ## Part I — Doso and Metanira
 
 In the town of Eleusis, there was much to rejoice in the household of Lord Celeus, a well-regarded leader of that place, for his wife, Metanira, though thought to be past child bearing age, had given birth. To a son. But there was concern too, because the child that was born was not born a strong child.
