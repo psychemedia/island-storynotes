@@ -17,7 +17,7 @@ They politely asked who she was, where she had come from, where she might be goi
 
 Having filled their jugs from the well, the three daughters returned home, where they told their mother Doso's sad tale and she bade them to fetch the old woman, so she could help nurse Metanira's child.
 
-The girls went back to the well and returned with Doso, although a great sorrow seemed to weight upon as she followd on behind.
+The girls went back to the well and returned with Doso, although a great sorrow seemed to weigh upon her as she followed on behind.
 
 Doso entered the house, her dark cloak covering her head, but as she stood in the doorway it seemed to Metanira that Doso's head reached up to the roof, and Metanira felt a sense of awe an wonder that she could not explain.
 
