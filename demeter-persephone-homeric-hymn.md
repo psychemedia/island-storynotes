@@ -63,7 +63,7 @@ But rather than repay the gifts and the offerings of the Eleusinians with a boun
 
 Rather than acting as the Goddess of Harvest, she became as if a Goddess of Death.
 
-And that is the of Doso's tale, although it is just part of Demeter's.
+And that is the end of Doso's tale, although it is just part of Demeter's.
 
 ## Part II — Descent and Search
 
