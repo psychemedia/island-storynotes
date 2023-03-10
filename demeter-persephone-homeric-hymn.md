@@ -9,7 +9,7 @@ Original book: [Hesiod, the Homeric hymns, and Homerica; with an English transla
 
 ## Part I — Doso and Metanira
 
-In the town of Eleusis, there was much to rejoice in the household of Lord Celeus, a well-regarded leader of that place, for his wife, Metanira, though thought to be past child bearing age, had given birth. To a son. But there was concern too, because the child that was born was born weak.
+In the town of Eleusis, there was much to rejoice in the household of Lord Celeus, a well-regarded leader of that place, for his wife, Metanira, though thought to be past child bearing age, had given birth. To a son. But there was concern too, because the child that was born was not born a strong child.
 
 One day. Metanira's three daughters went down to the well to fetch water for their mother.
 
