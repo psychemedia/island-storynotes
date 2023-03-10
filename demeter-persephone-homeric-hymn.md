@@ -63,7 +63,7 @@ But rather than repay the gifts and the offerings of the Eleusinians with a boun
 
 Rather than acting as the Goddess of Harvest, she became as if a Goddess of Death.
 
-And that is the end of Doso's tale.
+And that is the of Doso's tale, although it is just part of Demeter's.
 
 ## Part II — 
 
@@ -111,12 +111,55 @@ And together they went to see Helios, the Sun God who sees all that happens duri
 
 And Helios, seeing the deep despair of Persephone's mother, took pity on her, and told her what he knew, as I have told you: that Zeus had given Persephone to his brother, that Hades had seized her, had forced her into his chariot, had taken her screaming, down to the underworld to be his wife.
 
-"But he's not that bad, really," said Helios. "He does love her, and will surely treat her well. And he is the lord over one of the three realms, so quite a catch, really..."
+"But he's not that bad, really," said Helios. "He does love her, and will surely treat her well. And he is Zeus's brother, I mean to say, he's even your brother. And he is the lord over one of the three realms, so quite a catch, really..."
 
 But this did not placate Persephone's mother at all. And even though she was a Goddess herself, and a sister to Zeus, she took herself far away from Olympus, to Eleusis, where she took the form of an old woman sat down by a well, under an old olive tree.
 
 ## Part III — 
 
+One of the things you may or may not know about the Greek Gods and Goddesses is this: they like to be worshipped. In fact, more than that, they need to be worshipped. Without worship and sacrifice, they wither away and become forgotten, become as nothing.
+
+Rather than give life, Demeter was taking it.
+
+Rather than go back to Olympus, Demeter remained in her temple at Eleusis.
+
+Even as the people worshipped her and performed her rites as she had taught them, she wreaked a terrible wrath over the world. Harvests failed, famine spread across the land, the people suffered, and died. And if men die, then who will perform the rituals and the rites, who will of worship and make sacrifice?
+
+From Olympus, Zeus sent one messenger after another to entreat Demeter to return Olympus, to enjoy the fruits of being a God, to restart the harvest.
+
+But she would not come. She would not return until she saw her daughter again.
+
+At this point, Zeus sent Hermes, trickster an messenger of the Gods, tdown to the underworld to talk to Hades, to tell him that Zeus wanted him to let Persephone return to her mother.
+
+"I'll do what I can", said Hermes, "but you know the rule. If she's eaten anything in the underworld that was given to her by Hades, a part of her at least will always remain there."
+
+And with that, he was gone.
+
+And when Hermes arrived at Hades' Palace, he saw Hades sat upon a couch, with Perspehone sat away to the side, shy and reluctant, desiring to return to her mother.
+
+Hades listened to what Hermes had to say, smiled, and turned to Persephone, as charming and kind as a God could be to his wife, and said to her: "go back to your mother. But you know I will not be an unfitting husband; you know that by my side you real rule over on eof the thee kingdoms. You know that anyone who crosses you will be punished for ever more."
+
+At the first of his words, Persephone had jumped up, smiling with joy. But just as she made to leave him, Hades stepped forward to wipe the tears from her face — of sadness? of happiness? of relief? I do not know — and as his fingers brushed her lips , and passed a sweet pomegranate seed on them, and she licked the seed away, an swallowed it. And it tasted sweet. And a look passed between them. And she knew he had tricked them.
+
+Then Hades had his deathless horses harnessed to his golden chariot once more, Hermes took the whip, and returned with Persephone ot the world above, to the land of men, to her mother Demeter's temple at Eleusis.
+
+As soon as she saw her, Demeter ran forward to embrace her daughter, even as Persephone jumped from the chariot and ran to her mother.
+
+But as they embraced, as Demeter stroked her daughter's hair, ach sobbing into each other's shoulders, she asked with an urgency borne of fear: "what happened to you? what did he do to you? you didn't, you didn't eat anything whilst you were there, did you?"
+
+Persephone sobbed aloud, told her mother everything, told her about the abduction, the descent, about the pomegranate seed.
+
+As each looked to the other, they both knew that Persephone would have to return to the underworld. For one third of the year, she would spend time in the third realm with her husband Hades, and the earth would be barren. But as the spring flowers would open, so she would return to the world above, spend two thirds of the year with Her mother, Demeter, and with Zeus, and all the other deathless Gods and Goddesses on Olympus.
+
+And they embraced ever more strongly.
+
+And it was then that Hecate joined them, Hecate who would be adviser and companion to Persephone.
+
+And then Zeus sent Rhea, his mother, and Demeter's, down to Eleusis, and from there she brought them back to Olympus.
+
+And so it was and so it is that ever since that time, Persephone has spent a third of the year in the underworld with Demeter, and a two thirds of the year on Olympus. And in the world of man, we see that same pattern in the seasons as Demeter mourns the loss of her daughter through winter, and rejoices at their time together through spring, and summer, and into autumn.
+
+And that is the end of the tale.
 
 
 
