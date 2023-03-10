@@ -129,7 +129,7 @@ From Olympus, Zeus sent one messenger after another to entreat Demeter to return
 
 But she would not come. She would not return until she saw her daughter again.
 
-At this point, Zeus sent Hermes, trickster an messenger of the Gods, down to the underworld to talk to Hades, to tell him that Zeus wanted him to let Persephone return to her mother.
+At this point, Zeus sent Hermes, trickster God, and messenger of the Gods, down to the underworld to talk to Hades, to tell him that Zeus wanted him to let Persephone return to her mother.
 
 "I'll do what I can", said Hermes, "but you know the rule. If she's eaten anything in the underworld that was given to her by Hades, a part of her at least will always remain there."
 
