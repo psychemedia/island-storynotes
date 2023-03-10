@@ -1,7 +1,11 @@
 # Demeter and Persephone — Reworked from the Homeric Hymn
 
+A version of [*Hymn to Demeter*, translated by Hugh G.Evelyn-White, 1914](https://sacred-texts.com/cla/demeter.htm)
+in three reordered parts.
 
-In three??? parts...
+Original book: [Hesiod, the Homeric hymns, and Homerica; with an English translation by Hugh G. Evelyn-White, 1914](https://archive.org/details/hesiodhomerichym00hesi_0/page/288/mode/2up)
+
+*The original has an introduction with notes on each of the poems, which it might be worth reviewing.*
 
 ## Part I — Doso and Metanira
 
