@@ -13,7 +13,7 @@ When they reached the well, they saw an old woman sitting their, beside it, bene
 
 They politely asked who she was, where she had come from, where she might be going.
 
-"Doso is my name" she said, her voice carrying with it much weariness, much sadness. "I was captured in Crete, by pirates, and brought to this land. We made camp on the shore, to cook, then we would sail again to where I would be sold in slavery. But I escaped. And I fled. And now I am here, under this tree, beside this well. And if anyone could give me work that befits my age — keeping a household, teaching other women, even nursing a child — I would do it gladly, and the Gods of Olympus would surely look favourably upon anyone who employed me so."
+"Doso is my name" she said, her voice carrying with it much weariness, much sadness. "I was captured on an island, from far away, by pirates, and brought to this land. We made camp on the shore, to cook, then we would sail again to where I would be sold in slavery. But I escaped. And I fled. And now I am here, under this tree, beside this well. And if anyone could give me work that befits my age — keeping a household, teaching other women, even nursing a child — I would do it gladly, and the Gods of Olympus would surely look favourably upon anyone who employed me so."
 
 Having filled their jugs from the well, the three daughters returned home, where they told their mother Doso's sad tale and she bade them to fetch the old woman, so she could help nurse Metanira's child.
 
