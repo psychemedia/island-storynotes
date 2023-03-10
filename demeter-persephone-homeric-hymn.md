@@ -71,7 +71,7 @@ One day, as Zeus, the King of the Gods, was sitting on Mount Olympus, who should
 
 At one point, Hades stopped, and appeared to be watching something, or some one. Ah... some of the younger Goddesses, and some of the nymphs too... Hera, Zeus wife, would often see him watching them too, and more, and she did not approve.
 
-But Hades was a bachelor, and "who's she?" Hades pointed? "She's beautiful..."
+But Hades was a bachelor, and "who's she?" Hades pointed. "She's beautiful..."
 
 "Which one? That one? Or, oh, that one. That's Persephone. Your niece. Our sister's daughter. Come to think of it, my daughter, too. Well, one of them, at least."
 
