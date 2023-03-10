@@ -7,7 +7,7 @@ Original book: [Hesiod, the Homeric hymns, and Homerica; with an English transla
 
 *The original has an introduction with notes on each of the poems, which it might be worth reviewing.*
 
-`As ever, the following is written as it might be heard, not as it might be read.`
+`As ever, the following is written as it might be heard in a free telling, not as it might be read from the printed page.`
 
 ## Part I — Doso and Metanira
 
