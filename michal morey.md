@@ -8,7 +8,19 @@ https://www.historyextra.com/period/modern/a-brief-history-of-capital-punishment
 
 https://archive.org/details/acollectionpubl05britgoog/page/n102/mode/2up?q=executed
 
-XXVI. An Act to abolish the Practice of hanging Bodies of Criminals in Chains . p142
+XXVI. An Act to abolish the Practice of hanging Bodies of Criminals in Chains 25th July 1834 . p142
+
+142
+Cap.  28,
+Bodies  of  Criminals.
+4&5W-IV.
+9  G.4.  cSl.
+10  G.  4.  e.  34.
+2&SW.4.C.75.
+CAP.  XXVI.
+An  Act  to  abolish  the  Practice  of  hanging  the  Bodies  of Criminals  in  Chains.  [25th  Jufy  1884.3
+
+WHEREAS by an Act passed in the Ninth Year of the Reign of His late Majesty King George the Fourth, intituled *An Act for consolidating and amending the Statutes in England relating to Offences against the Person* `[9 G. 4 c. 31]`, it is amongst other Things enacted, that the Body of every Person convicted of Mur- der shall after Execution either be dissected or hung in Chains, as to the Court which tried the Offender shall seem meet, and that the Sentence to be pronounced by the Court shall express that the Body of the Offender shall be dissected or hung in Chains, whichever of the Two the Court shall order : And whereas by a certain Act passed in the Tenth Year of the same Reign, intituled *An Act for consolidating and amending the Statutes, in Ireland relating to Offences against the Person* `[10  G.  4.  c.  34.]` a like Provision is made with respect to Persons convicted of Murder in Ireland : And whereas by a certain Act made and passed in the Second and Third Year of the Reign of His present Majesty, intituled *An Act for regulating Schools of Anatomy* `[2 & 3 G. 4 c. 75.]` so much of the Provision of the said recited Act made and passed in the Ninth Year of the Reign of His said late Majesty King George the Fourth as authorized the Court to direct that the Body of a Person convicted of Murder should after Execution be dissected is repealed, and instead thereof it was enacted, that in every Case of Conviction of any Prisoner for Murder the Court before which such Prisoner shall have been tried shall direct such Prisoner either to be hung in Chains or to be buried within the Precincts of the Prison in which such Prisoner shall have been  confined after Conviction, as to such Court should seem meet; and that the Sentence to be pronounced by the Court should express that the Body of such Prisoner shall be hung in Chains or buried within the Precincts of the Prison, whichever of the Two the Court should order: And whereas it is expedient to amend the said recited Acts :' Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, `[So much of recited Acts as authorises the dissecting or hanging in Chains certain Criminals after Execution repealed.]` That so much of the said recited Act made and passed in the Ninth Year of the Reign of His Majesty King George the Fourth as authorizes the Court to direct that the Body of a Person convicted of Murder should after Execution be hung in Chains, and also so much of the said recited Act made and passed in the Tenth Year of the same Reign as authorizes the Court to direct that the Body of a Person convicted of Murder should after Execution be dissected or hung in Chains, and also so much of the said recited Act made and passed in the Second and Third Year of the Reign of His present Majesty as provides that in every Case of Conviction of any Prisoner for Murder the Court shall direct such Prisoner to be hung in Chains, shall be and the same is hereby repealed.
 
 Acc to  Golden Age of the W 02/03/1737, execution Sat 19/03/1737 also http://www.capitalpunishmentuk.org/hants.html
 
