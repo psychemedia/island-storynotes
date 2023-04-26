@@ -18,6 +18,9 @@ parts:
 - caption: "Carisbrooke Castle: Residents' Tales"
   chapters:
   - file: edward-woodville
+- caption: Hanging in Chains
+  chapters:
+  - file: michael_morey_and_james_dove
 - caption: Appendix — Original Tellings
   chapters:
   - file: elder-godshill
