@@ -29,6 +29,13 @@ parts:
   chapters:
   - file: elder-godshill-reversioned
   - file: elder-puckaster-reversioned
+- caption: Appendix — Waiting to Tell...
+  chapters:
+  - file: spithead_mutiny
+- caption: Appendix - Development Resources
+  chapters:
+  - file: spithead_chronology
+  - file: _spithead_mutiny_src
 - caption: Appendix — Resources
   chapters:
   - file: wightnotes-books

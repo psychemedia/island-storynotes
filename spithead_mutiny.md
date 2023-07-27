@@ -1,8 +1,8 @@
 # The Spithead Mutiny
 
-Storynotes on the Spithead Mutiny of 1797
+Storynotes on the Spithead Mutiny of 1797, when men aboard several ships the line mutinied, with some success, against poor pay and conditions.
 
-## Telling
+## A Telling (*Work in Porgress*)
 
 It's 1797. Look out from Ryde towards Spithead, and you would see Lord Bridport's Channel fleet — the Grand Fleet of 16 ships of the line, and sundry other smaller vessels — assembling there, making ready to head out on patrol against the French fleet preparing to sail out of Brest, just below  the entrance to the English Channel, this being a time with war... again...
 
