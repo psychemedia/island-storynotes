@@ -20,7 +20,7 @@ That Elizabeth, Edward's niece, Elizabeth *of York*, went on to marry the *Lanca
 
 So this makes Edward's mother the sister-in-law of a Lancastrian King, and his sister the wife of a Yorkist King and the mother-in-law of a Lancastrian one.
 
-Needless to say, it also means that Edward's niece had an interesting family story, being the daughter of Edward IV, the brother of Edward V, the niece of Richard III, and, incidentally, the mother of two queens by marriage: Margaret, Queen of Scotland, and Mary, Queen of France; she was also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
+Needless to say, it also means that Edward's niece had an interesting family story, being the daughter of Edward IV, the sister of Edward V, the niece of Richard III, and, incidentally, the mother of two queens by marriage: Margaret, Queen of Scotland, and Mary, Queen of France; she was also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
 
 But this story isn't about them. It's about Edward.
 
