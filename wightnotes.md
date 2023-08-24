@@ -116,6 +116,7 @@ herself to be carried from her bed to a place
 still pointed out, and began creeping on her hands and knees ; and in this way she encircled,
 before the brand was consumed, a plot of ground twenty-three acres in extent, still known as the Crawels.
 
+See: https://en.wikipedia.org/wiki/Tichborne_Dole also the Tichborne Claimant
 
 Isle of Wight Redding Ware
 
