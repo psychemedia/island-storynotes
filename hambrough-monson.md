@@ -1,8 +1,28 @@
  # Ardlamont Murder
 
 I discovered this tale, in a roundabout way, from a notice of a strange occurrence at the end of the 19th century that took place, suposedly, in what is now [*The Ferryman*](https://ferrymanlymington.com/) pub, at Lymington.
+
+
+---
+
+Way back in 1893, on September 5th, there was a shooting tragedy in this the "Waggon and Horses" Inn, Walhampton of which a local gamekeeper, 38 years old Henry Card who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.
+
+The tragedy occurred at the time of the mystery of what was known as the Ardlamont Shooting Case, which set a problem as to whether Lieutenant Hambrough, (who was buried at Ventnor, I. O. W.), could have shot himself from behind. There was news that Lieutenant Hambrough's body was to be exhumed, and Lymington was sharing the widespread public interest in the case. The topic arose when Henry Card walked into the Tap-room of the "Waggon" shortly before midday and ordered a "pint". He carried a double-barrelled gun which, although apparently believed to be empty, was shown by subsequent events to have been fully loaded.
+
+It was a Mr. John Bligh, a London visitor to the inn, who raised the subject of the Adlamont case. He read of it, from a newspaper, to Mr. Card. And when another customer in the bar remarked that an old keeper in Scotland had said that it was impossible for Lieutenant Hambrough to have shot himself, Henry Card disagreed.
+
+What then happened was described by Mr. Bligh at an inquest, which was held here, in the inn, on Sept. 7th, 1893. He said that Mr. Card invited him to try the experiment, saying, "There's my gun; it is empty." Mr. Bligh did not accept, and Mr. Card put down the dog he was nursing and picked up the gun. Mr. Bligh stated that he heard Mr. Card cock the gun and saw him eventually place the gun behind his back with his right hand close to the trigger and the muzzle pointing towards his head. "Then he fired and the explosion came", said Mr. Bligh. Mr. Card, he went on, then put the gun down on the table before falling to the floor.
+
+The game-keeper had received mortal head-wounds. Two doctors were summoned to him, but, as the Press of the day related, early that afternoon, "the poor fellow breathed his last.
+
+"The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
+
+---
  
- aka Ardlamont Mystery, Monson Case.
+aka Ardlamont Mystery, Monson Case.
+
+
+ 
 
 https://en.wikipedia.org/wiki/Ardlamont_murder
 
@@ -166,6 +186,47 @@ DEATH OF THE FOOLISH GAMEKEEPER.
 Henry Card, the gamekeeper who accidentally shot himself at Wallhampton, near Lymington, yesterday, while endeavouring to show how it was possible for Mr. Hambrough to have shot himself, has succumbed to his injuries. Card leaves widow and nine children. 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18930909/027/0002
+
+Salisbury and Winchester Journal - Saturday 09 September 1893
+
+TRAGIC AFFAIR AT LYMINGTON.
+
+Our Lymington correspondent writes:— A shocking affair occurred at the Wagon and Horses Inn, Walhampton, on Tuesday. A man named Henry Card, employed as gamekeeper at Walhampton Park, entered the taproom and ordered pint of beer. He was served, and whilst drinking it a conversation took place amongst the company present as to the probability of Lieut. Hambrough's gunshot wound in the neck having been self-inflicted. A man said be was sure it was not, a statement Card contradicted, adding that he could easily demonstrate how it could be done. Handing his double-barrelled gun to one of the company, he said, "You try; it's empty." The man declined, and Card then took the gun, placed it behind his back, and tried in two or three different ways to get the muzzle against his neck. To the astonishment of all present, the gun suddenly exploded, the charge blowing off the top of Card's head, leaving the brain protruding. Drs. Rendall and Hill were speedily in attendance, but there was no hope from the first, and Card died within two hours. He was 38 years of age, and leavea wife and nine children unprovided for. The tragic affair caused quite a consternation in the town.
+
+The inquest was held on Thursday afternoon the Wagon and Horses Inn, Walhampton, before Mr. Bernard Harfield, county coroner. The evidence was to the following effect:— Dr. Rendall deposed that was called in immediately after the accident and found the deceased lying insensible on the floor of the inn, his face downwards, surrounded by pools of blood and scattered brains. On examining the head be found an irregular lacerated wound, about two inches in diameter, situated on the upper part of the back of the head, rather inclined to the right side. From this brain matter was exuding and hemorrrhage occurring. He did all he could, but Card eventually became comatosed and died two hours after receiving the injury. The wound was a gunshot wound. The man's condition was hopeless from the first. —James Geary, living near, deposed to seeing the deceased just before he entered the public-house. Card had then opened his gun, apparently for the purpose of drawing the cartridges, but just at that time their attention was attracted to a crowd of persons crossing the railway bridge, and witness could not say whether deceased actually did remove the cartridges.— John Bligh, friend of the landlord of the Wagon and Horses, deposed to Card coming in and having pint of beer. A discussion took place relative to the Scotch shooting case, when deceased denied that it was impossible for Lieut. Hambrough's wound have been self-inflicted. He asked Bligh to take up his gun and try, saying it was empty. Bligh not caring to do so, Card seized the gun, cocked the hammer, and after some difficulty in getting it in position behind his back, pulled trigger and exploded one barrel with fatal effect.— Other evidence was given, all showing that Card had been fully under the belief that his gun was empty.— A verdict of "Accidental death" was returned.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18930909/087/0005
+
+Hampshire Independent - Saturday 09 September 1893
+
+THE ARDLAMONT MYSTERY
+
+EXCITEMENT AT VENTNOR, EXHUMATION OF LIEUTENANT HAMBROUGH'S REMAINS.
+
+MR. MONSON COMMITTED FOR TRIAL
+
+... TO DO
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18930909/087/0005
+
+Hampshire Independent - Saturday 09 September 1893
+
+SHOCKING GUN ACCIDENT NEAR LYMINGTON. INQUEST AT WALHAMPTON.
+
+The County Coroner (Mr. B. Harfield) held an inquest on Thuroday afternoon, at the Waggon and Horses, Walhampton, in connection with a tragic calamity that took place there at mid-day Tuesday, when Henry Card, aged 31, of Snook's Farm, a gamekeeper in the employ of Mr. J. P. Heseltioe, shot himself whilst attempting to show how Lieut. Hantheough might have done so. On assembling the jury inspected the low-roofed tap-room in which the tragedy occurred, the ceiling of which showed a cluster of shot-marks, and some hair where the charge had scattered after striking the deceased. From the inn they proceeded to deceased's home, a secluded country homestead, about a mile off, to view the body. The inquest commenced sitting at quarter-past four, first witness called being Dr. Rendell, who deposed that he was on that side of the water about ten minutes to twelve, and was asked to go to the Waggon and Horses. On his arrival he entered the tap-room, and found the deceased lying INSENSIBLE ON THE FLOOR, lying on his left side with his face downwards. and surrounded by pools of blood and scattered brains. An examination of his head showed an irregular lacerated wound about two inches in diameter, situated at the upper part of the back of the head, rather inclined to the right side, from which brain matter was exuding and hemorrhage occurring. He did all he could for him by endeavouring to atop the haemorrhage by pressure, but he gradually became more insensible and eventually comatosed, and died about two hours afterwards ; he had no other marks of injury observable. In his opinion the wound was a gunshot one. He considered the case hopeless from the first.
+
+James Geary, of Waterman's Farm, stated that at about 11 o'clock on Tuesday morning, whilst he was working in the field the deceased spoke to him. They had a little conversation about his birds, when the deceased looked to the railway line and said " What a lot people going down the line; I wonder what's up." At the same time he unlocked his gun, a breechloader, apparently, as I thought, to take the cartridges out, but, drawing my attention to the people going down the line, I did not take notice whether he took the cartridges out or not. A few minutes afterwards, deceased left him and went across the field in the direction the Lymington ferry. He noticed nothing unusual in his manner.
+
+John Bligh, of London, staying at the Waggon and Horses, was told at about half past eleven that Mr. Card was in the house and he wanted a pint of beer, with which he supplied him ; another customer had a pint of beer, and after drawing that and a pint for himself he went into the tap-room and asked Mr. Card to drink. He said to deceased " I see they have had rather a scene across in the Island, or at Ventnor." He said " Is that that gentleman that was shot in Scotland?" Witness fetched the paper, and read the article to him, some gentleman sitting in the room said that the old keeper in Scotland said it was impossible for Lieut. Hambrough to have shot himself as he was shot, Card replied "OH YES HE COULD DO SO."
+
+He invited witness to try, saying "There is my gun, you can try it, it is empty." Witness was sitting on a seat, and didn't offer to get up. Card was nursing a little white dog at the time ; he instantly put the dog down, and took the gun up and cocked it. He then took it in his right hand, put it behind his back, with the muzzle towards the back of his head, and then fired. Witness iilustrated his explanation with the aid of the gun in question. He SAW DECEASED PRESS THE TRIGGER, and when the deed was done he put the gun down on to the table, and gradually sank down. The other hammer was at full cock. Witness called Mr. Gosling, the landlord, and asked where he could get a doctor, and was told across in the town, he called out to the ferryman to get his boat ready as quick as he could. He went into the town and summoned a doctor. When witness returned a doctor had arrived. Witness considered the shooting the result of an accident. Deceased seemed in his usual spirits. When deceased came into the tap-room, on putting down his gun, he stated to a boy that it was not loaded. Fitz Inman, of Wolverhamptan, knew the deceased well, and identified him after death. On Tuesday morning between half-past eleven and twelve witness was at the Waggon and Horses when Mr. Card came in. He was not in the tap-room at the time of the occurrence, being then on his way home to get a paper. He heard the report of a gun when he reached his door, and it appeared to come from the inn. He was called back to the house by the landlord. On opening the tap-room door he found deceased with his head resting on the settle. Witness took hold of him and eased him on to the floor. Witness took the pipe deceased was smoking out of his mouth. When witness left the room the gun was lying on the settle, he did not notice where it was on his return. He did not hear deceased say the gun was not loaded ; deceased was A VERY CAREFUL MAN with guns. The gun used was not deceased's but had been used by him for some weeks. The only other man the room when witness left was Mr. Bligh, though he believed a man named Etheridge entered the room just after he felt. It was not considered necessary to call Etheridge, as he could not add materially to Mr. Bligh's statement. The Coroner summed up briefly, and the jury returned a verdict of ACCIDENTAL DEATH. The deceased leaves a wife and nine young children. 
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000295/18950911/070/0002
 
 Dundee Advertiser - Wednesday 11 September 1895
