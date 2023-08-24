@@ -72,16 +72,6 @@ An echo of the case was heard in May of the following year, when the mysterious 
 etc
 
 
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002933/18940101/023/0001
-
-Toronto Daily Mail - Monday 01 January 1894
-
-IS IT SCOTT ?
-
-A Suicide In London. The Police Suspect the Man to be the Scott of Ardlamout Fame. London, Dec. 31.—The body of a man who had committed suicide was found yesterday a lodging-house iu the Old Ford road, East London. The man had shot himself with a revolver in the temple. When the pollee saw the body they were at once struck by its resemblance to the description of the mysterious Scott," for whom they have been looking for months in connection with the alleged murder of Lieut. Hambrough. "Scott " was jointly indicted with Alfred John Monson for the killing of Lieut. Hamhrough, and when the ease came ou for trial at Edinburgh a few days ago, and "Scott " did not appear for trial, be was declared au outlaw. Monson was tried, and escaped by the jury returning a verdict of "Not proven,".but the pollee continued their search for "Scott." The man found dead supposed to have shot himself on Fridge evening. 'lin , have sent for •ne of " 'Scot t*, " relatives in order to have them identify the body, as they think it is undoubtedly his. 
-
 
 ---
 
@@ -374,6 +364,88 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0000865/18931223/112/0008
 Newcastle Chronicle - Saturday 23 December 1893
 
 THE ARDLAMONT MYSTERY. NINTH DAY OF THE TRIAL. 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18931227/088/0005
+
+Glasgow Evening Post - Wednesday 27 December 1893
+
+The Ardlamont Mystery. The Missing 'Scott.' (By *Telegraph*.)
+
+LANGHOLM, Noon.— A bookmaker answering to the description of 'Scott' attended Haithwaitegate Coursing Meeting on November 24th. The meeting is held about seven miles from Langholm and thirteen from Carlisle. The man was in very delicate health, and did his work very quietly. It is also now known to the police authorities that a man of precisely the same description was in lodgings in Carlisle for nearly a week the beginning of this month, and that he disappeared without paying his lodgings. His landlady states that he was evidently a betting man, and seldom stirred out till night. His only luggage was a handbag. He mentioned names to her the same as those which have since appeared in the evidence at the trial The description of this man tallies very exactly with that subsequently published of "Scott," and he appeared to be a stranger the coursing meeting.
+
+Criticism of the "Not Proven" Verdict— The Benefit of the Doubt.
+
+The Ardlamont case has caused merits of the verdict of "not proven" to be discussed in the Temple, says a legal critic in the *Globe*. There is much to be said both for and against it, but, on the whole, the feeling is opposed to it. A verdict of "not proven" inevitably means social ruin the person of whom is returned, but if the jury cannot make their minds that the prisoner is guilty is it right that they should be able to inflict this punishment upon him ? In giving the prisoner the benefit of tha doubt they express the doubt so severely that there is little moral benefit in it. It is claimed, on the other hand, that the Scotch system is more humane than our own, because in several cases in which English juries have returned a verdict of guilty, trusting the Home Secretary to mitigate the sentence of death, a Scotch jury would have brought in a verdict of "not proven." In more than one famous criminal trial in Scotland the jury have returned a verdict of " not proven" by a majority. Such was the result of the well-known case of Smith, who was accused of shooting a young farmer, upon whose life he held a policy of insurance. On this occasion the judge ventured to do what very few occupants of the bench have done. After the jury had returned their verdict, he asked whether they were divided between "not proven" and "guilty" or between "not proven " and "not guilty." He was informed that the difference had arisen upon the former alternative. Clearly this was a most improper question to address to the jury, and only on very rare occasions has such inquiry been made. 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004283/18931227/003/0003
+
+Uttoxeter New Era - Wednesday 27 December 1893
+
+
+THE ARDLAMONT MYSTERY
+
+Herewith we give a portrait of the missing Scott for whose arrest a reward of £200 is offered by the police in connection with the Ardlamont tragedy. Concerning Scott a strange story reaches us from Londonderry. A hairdresser in that town states that a person answerting to the official description of the missing man called at his shop on November 15 and had his moustache shaved off. The man's demeanout was uneasy. Questioned as to why he was having his moustache shaved off he explained that he was carrying out a joke, and gave the address of a friend, which turns out to be false. The hairdresser is firmly of opinion that Scott is no other than the stranger he shaved.
+
+IMAGE - TO DO
+
+The hunt for Scott, however, seems to be going forward less keenly because it is noiseless. It is only natural, perhaps, that all sorts of rumours should be floating in the air. Thus it was announced in least one quarter on Saturday, of course from the usual "trustworthy source," that the fugitive might even yet be caught— "if the information received by authorities is correct."  "If" is at all times a pretty safe qualification. The actual fact is, at the time of the receipt of the intelligence on which these remarks are founded, that no official tidings have come to hand of the capture of the one man who is needed to complete the cycle of the Ardlamont mystery.
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004833/18931229/100/0006
+
+Morning Leader - Friday 29 December 1893
+
+SCOTT IN CARLISLE
+
+HE WAS ALLOWED TO SLIP AWAY — HIS LANDLADY's STORY
+
+Interest in the Ardlamont case seems to be sustaining itself day by day by means of the missing man Scott. The Press Association's Carlisle correspondent states that on 19 Dec. a woman who lets lodgings in Carlisle reported to the city police that a man answering to the description of Scott, and evidently a betting man, had lodged at her house from 30 Nov. to 5 Dec., when he left without paying for his lodgings. He carried a revolver, and spoke of persons afterwards named in the Ardlamont case, and seldom went out until the evening. The Chief Constable forwarded the information to the Chief Constable of Argyllshire, but the man had then been gone a fortnight.
+
+It is now placed beyond doubt (according to the Central News) that Scott has been staying in Carlisle. He attended Haithwaite Gate coursing meeting in North Cumberland, and before that he was seen in Newcastle by betting men who knew him. He is well known in Carlisle, where he has attended race meetings.
+
+On the 2nd inst. Scott attended service in a Methodist chapel with his landlord. On the following Tuesday he was much upset on hearing his landlady read from a newspaper the report that a warrant had been issued for the arrest of Scott, and he decamped the same night after buying some collars and ties. It is supposed that he took a train for the south. 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000609/18931230/020/0001
+
+London Evening Standard - Saturday 30 December 1893
+
+THE ARDLAMONT MYSTERY. SUPPOSED SUICIDE OF SCOTT
+
+Some excitement was caused to-day in the neighbourhood of Old Ford-road, Bow, by a report that the missing man Sweeney or Scott, who is wanted in connection with the Ardlamout mystery, had committed suicide in a lodging-house near by. It appears that early yesterday morning a man whose description tallies with that circulated by the police with reference to Scott, applied for a bed at a common lodginghouse in Old Ford-road. He was accommodated, and apparently fell asleep till 10.30 a.m., when a boy who occupied the next bed spoke to him. He answered the boy, and appeared rather excited, but no notice was taken of that, nor was anything thought of it till later in the day, when the landlady on going into the room found him lying in bed in a pool of blood. She at once communicated with the police, and Police-constable Clark, 247 K, was quickly on the spot. He found the man dead, and on examining the bed saw a British bull-dog revolver lying near his right hand, the muzzle pointing towards the Deceased's head on which just over the temple was a bullet wound. The Coroner was informed, and his officer removed the body to the Bow Mortuary. The police have circulated the following description :--Age about 33 ; length, 5ft. 9in. ; complexion, fair; hair and moustache, brown ; eyes: grey, one (the right) discoloured. He was dressed in a dark grey mixture coat and vest, dark striped trousers. military braces marked 55063 R.A. 1C35[?], dark flannel shirt, light grey ??, white collar, black satin scarf, black hard felt hat, marked "G. C. Davis, hatters, 25[?]6, Strand," white handkerchief, marked "H and 3-203," four gold studs, and white pocket knife with three blades. This description being almost the same as that supplied of the missing man, the police are now trying to find the firneds of Scott, with the view to their seeing the body of the dead man.
+
+The woman with whom the man suspected to be Scott lodged in Carlisle made a further statement yesterday bearing upon her lodger's identity. She says he wore on his watch chain a silver medal engraved with the letters "E. D." On being questioned as to these initials, which differed from those of Joseph Thompson, the name by which he was known, he said they meant " Edward Davies," which name he had borne until 16 years old, adding that he had three or four names. On Tuesday, the 5th December, he turned scarlet when his landlady read out to him a reward was offered for the capture of Scott. He at once read the announcenient himself, and said he was going to the post-office to stop his letters front coming there. He left the same day without paying for his lodgings. The landlady further states that he had a deep scar on the left jaw, and that the right forefinger was wanting from the second joint. He had blue eyes and sallow complexion. In an illustrated paper there was a portrait of Scott reproduced from a photo, and that portrait she said was the very image of her lodger, except that the portrait had a moustache, whereas her lodger had none, but was growing one.
+
+Mr. Thomas McNaughton, the Inverary official who had charge of the Ardlamont case, has, in consequence of the recent observations of Monson in reference to the prosecution, written to the *Scotsman*, stating exactly what was done by the officials. It was on August 10 that the Procurator Fiscal was informed of Lieutenant Hambrough's death. "On August 11, with the earliest opportunity available, I proceeded to Ardlamont, arriving there in the evening, accompanied by a police officer, who had previously handed me his report embodying the mresult of his inquiries, and also the result of the doctor's examination. I, on the evening of the same day, examined and took down in writing the statements of the witnesses, who were said to have first seen the body after the alarm was gibven by Monson. I also examined Monson. I then proceeded to the *locus*, which was pointed out to me by Monson, after which I returued to Ardlamont House and made an examiniation of the wound in deceased's head, thereafter returning to Tighnabruaich. The following day I had to proceed to other parts of the county on official business, and was unable to return to Inverary until the afternoon of August 15th, when I reported the result of my inquiries to the Porcurator Fiscal, who the following morning communmicated with the Glasgow officials, fully stating the case, and requesting them to take a minute and careful deposition from 'Scott,' and if not found at the address given to wire at once. Bit the Glasgow authorities failed to find the man, and stated so by wire and letter. On receipt of the letter, the constable at Tighnabruaich was wired by the Procurator Fiscal to proceed to Ardlamont and ascertain from Monson 'Scott's' whereabouta. Wires were received on the following day, August 22, both from the constable and Monson, stating that the latter would call next day, August 23, and explain matters. On the latter date Monson arrived, accompanied by Mr. Tottenham and the two insurance officials, and had an interview with the Procurator Fiscal and myself. The object of the visit, I learned, was not to give any information regarding 'Scott's' whereabouts, but for another purpose in connection with insurance. Next day the Procurator Fiscal and myself proceeded to Tighnabruaich and took further evidence. We returned the following day to Inverary and communicated at once with the proper authorities for instructions." As to what Monson said respecting Mr. McNaughton, this official desires simply to point out that it is untrue. "I beg to characterise it as a deliberate untruth that I was at Ardlamont on August 10, and it follows that I could not possibly have, as Monson says I might have done, wired to have 'Scott' stopped on the arrival of the boat, and have asked him to return. It will be understood that I am precluded from giving any information as to what Monson's statements to me were as to 'Scott' and other matters; and, further, that in the early stages of the inquiry it was impossible to verify or contradict any information obtained from Monson." 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002933/18940101/023/0001
+
+Toronto Daily Mail - Monday 01 January 1894
+
+IS IT SCOTT ?
+
+A Suicide In London. The Police Suspect the Man to be the Scott of Ardlamout Fame. London, Dec. 31.—The body of a man who had committed suicide was found yesterday a lodging-house in the Old Ford road, East London. The man had shot himself with a revolver in the temple. When the pollee saw the body they were at once struck by its resemblance to the description of the mysterious Scott," for whom they have been looking for months in connection with the alleged murder of Lieut. Hambrough. "Scott " was jointly indicted with Alfred John Monson for the killing of Lieut. Hamhrough, and when the ease came ou for trial at Edinburgh a few days ago, and "Scott " did not appear for trial, be was declared au outlaw. Monson was tried, and escaped by the jury returning a verdict of "Not proven,".but the pollee continued their search for "Scott." The man found dead supposed to have shot himself on Fridge evening. 'lin , have sent for •ne of " 'Scot t*, " relatives in order to have them identify the body, as they think it is undoubtedly his. 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000609/18940101/077/0005
+
+London Evening Standard - Monday 01 January 1894
+
+THE ARDLAMONT MYSTERY.
+
+THE SUPPOSED SUICIDE OF "SCOTT."
+
+The man who committed suicide by shooting himself with a revolver at a common lodging-house in tho Old Ford-road, Bow, and who was suspected of being "Scott," has been identified by a brother. His name is John Williamson Foy, of Garden House, Martlett-court, Bow-street, W.C. 
 
 ---
 
