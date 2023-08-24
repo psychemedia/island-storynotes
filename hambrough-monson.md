@@ -513,14 +513,35 @@ The Stage - Thursday 24 May 1894
 
 GLASGOW
 
-Gaiety.— The appearance of Scott, who figured so largely in the Ardlamont mystery , served to crowd the Gaiety to witness the clever trick of Morritt's ; ...
+Gaiety.— The appearance of Scott, who figured so largely in the Ardlamont mystery, served to crowd the Gaiety to witness the clever trick of Morritt's ; ...
 
 ---
+https://archive.org/details/the-magic-wand-vol-iii-september-1912-to-august-1913/page/391/mode/2up?q=%22charles+morritt%22+%22missing+man%22
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0002237/18940525/078/0017
- 
-Music Hall and Theatre Review - Friday 25 May 1894
+The Magic Wand, Vol III, September 1912 To August 1913
+by Magic Wand Publishing Company
+
+Publication date 1913
+
+p392
+
+...
+
+Mr. Charles Morritt’s appearance at St. George’s Hall, after an absence of many years, has awakened many recollections of his earlier career in the magical world. It was Mr. Morritt who invented the illusion of "The Disappearing Lady," and afterwards caused a sensation during the period of the Ardlamont mystery, by producing Scott, "the missing man," on the stage, when scores of people were scouring the land in search of him.
+
+...
+
 
 GLASGOW
 
 Gaiety.— Charles Morritt, in his illusion "THe Missing Man", is the centre of attraction at this hall. The "missing man" is no other than "Scott", of Ardlamont mystery fame, his reception being of a very mixed character. The illusion, however, is good; the disappearance only occupying five seconds.
+
+
+---
+
+Steinmeyer, Hiding the Elephant p 123-4 
+
+Morritt and Scott (previously Morritt and Tichborne Claimant); missing man photograph also included in book
+
+---
+
