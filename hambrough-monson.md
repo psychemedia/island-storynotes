@@ -166,6 +166,54 @@ DEATH OF THE FOOLISH GAMEKEEPER.
 Henry Card, the gamekeeper who accidentally shot himself at Wallhampton, near Lymington, yesterday, while endeavouring to show how it was possible for Mr. Hambrough to have shot himself, has succumbed to his injuries. Card leaves widow and nine children. 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000295/18950911/070/0002
+
+Dundee Advertiser - Wednesday 11 September 1895
+
+WHAT THE *WORLD* SAYS
+
+...
+
+Princess Louise, who is about to proceed to Scotland, has been staying at Wallhampton Park, near Lymington, on a visit to Mr and Mrs Heseltine.
+
+...
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001669/18960725/093/0004
+
+Norwich Mercury - Saturday 25 July 1896
+
+Marriage or Mr. R. O. Kerrison.— At St. Paul’s Church, Knightsbridge, with full choral service, the marriage took place on Thursday of Mr. Roger Orme Kerrison, only son of Mr. Kerrison, of Tattingstone Place, Ipswich, and Miss Diana Elizabeth Postle Heseltine, third daughter of Mr. John Postle Heseltine, of Wallhampton, Lymington, Hants, and 196, Queen's Gate. The ceremony was conducted by the Rev H Montagu Villiers, Rector of St. Paul's, assisted by the Rev. Canon Teignmouth Shore, of Worcester, and the Rev. E. Heseltine, Vicar of Great Cresaingham, Norfolk, uncle of the bride. There were six bridesmaids, Miss Clarissa Headline (sister of the bride), Miss Enid Wilson. Miss Torobes, Miss Banbury, Miss Phyllis Greville, and Miss Irene Heseltine, who were charmingly gowned pink chiffon over pink satin, and hats of white chiffon and white ostrich illumes. The bridegroom's presents to them were turquoise and diamond necklets and bouquets of white roses and exotics in foliage. The bride looked very well in white chiffon over white satin, with white satin court train of elegant design, and veil of white tulle covered with small sprays of real orange blossoms. A reception was given at 196, Queen's Gate. Among those present were H.R.H. the Princess Louise and the Marquis of Lorne, &c.
+
+
+---
+
+https://en.wikipedia.org/wiki/John_Postle_Heseltine
+
+Heseltine was a stockbroker and senior partner in the family firm, Heseltine, Powell & Co., which was founded by his father and Charles W. Marten in 1848 as Marten & Heseltine, and dealt particularly in American railroad bonds and shares. 
+
+collector of oil paintings, drawings and watercolours of the English and Continental schools
+
+From 1877 to 1925, Heseltine lived at 196 Queen's Gate in South Kensington, London,  In 1883, Heseltine acquired Walhampton House in Walhampton, Hampshire as his country house. 
+
+From 1893 until his death in 1929, Heseltine was a trustee of the National Gallery and advised on the purchase of paintings,
+
+eg daughter Dorothy Heseltine (1870–1953), who married Lionel Sackville, Viscount Cantelupe in 1890; After his death in a boating accident a few months after their marriage,
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003092/18901113/093/0006
+
+Ripon Observer - Thursday 13 November 1890
+
+LORD CANTELUPE DROWNED.
+
+Lord Cantelupe has been drowned in Belfast Lough. It seems that at the height of the storm, on Thursday night, the yawl Urania, having on board Viscount Cantelupe, eldest son of Earl Delawarr, was driven ashore. The disaster occurred within a stone's throw of a terrace of houses at the foot of the main street of the village of Bangor. The night was one of the wildest ever remembered in the district. The Urania anchored about 300 yards from the shore on Thursday evening, having arrived during the day from Glasgow, where Lord Cantelupe recently purchased the vessel. As the gale increased in violence,and the sea constantly broke over the Urania, considerable anxiety was felt on shore for the safety of the yawl. At two o'clock yesterday morning signals of distress were sent up from the Urania, and it became evident that she was drifting fast upon the Saltpan Rock. The sea ran so high, the wind was blowing with such terrific force, and the night was so dark, that to launch a boat at that moment would have been reckless folly. The Urania therefore drifted with no hope of assistance from the shore, and finally, about ten minutes past two, struck upon the rocks. Her keel seemed to have struck in a rocky cleft, and in that perilous position she remained for about two hours with the FURIOUS WAVES BREAKING CLEAN OVER HER. It was impossible for any living soul to remain upon the yacht's storm-swept deck, and Lord Cantelupe and his seamen decided to take to the rigging, in which position they would be clear of the waves, although exposed to the furious biting cold wind. The yacht, too, was beginning to till, and it was evident that no time was to be lost. Lord Cantelupe went first, but just as he had reached the top step and was stooping down with a buoy on the arm which clasped the rigging, and the other hand extended to help the next man, a tremendous sea struck the little craft, and the unfortunate young nobleman, who at that moment was cheerily encouraging his men, was SWEPT HEADLONG INTO THE BOILING SURF, and was never seen again. After a few ineffectual attempts the life-line was caught by one of the yacht's crew, and the exhausted storm-beaten seamen were safely hauled ashore after theee hours of very hard work. The body of Lord Cantelupe has not yet been recovered. The young nobleman's untimely end has aroused the greatest sympathy, not only on his own account, but on that of his young wife, to whom he was married only last June. The members of the crew are deeply grieved at the fate of the young nobleman, who during the short time that he was on board had shown a most affable and kindly disposition. Captain Buzzard states that his lordship had hold of a lifebuoy, but just before he was swept overboard he dropped it, probably because his limbs had become numbed by the cold.
+
+Viscountess Cantelupe is at present staying with her mother at Wallhampton Park, Lymington. The deceased was only 24 years of age.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18930904/044/0005
 
