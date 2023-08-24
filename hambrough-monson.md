@@ -483,6 +483,22 @@ Scott, the man who disappeared when the Ardlamomt mystery aroused so much commen
 The Press Association says :—" The attempt to impart significance to the appearance of Scott has by no means disturbed the equanimity of the London police authorities. Scott is not in custody, and at present the Scotland Yard authorities have no intention of depriving him of his liberty. Such a course will entirely depend upon the Procurator-Fiscal in Edinburgh who will, it is expected, decide what course will be adopted." 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000609/18940503/153/0004
+
+London Evening Standard - Thursday 03 May 1894
+
+LONDON PAVLIION.—The ARDLAMONT MYSTERY.— Scott.— Special Engagement of SCOTT (alias Edward Sweeney), who will appear, in conjunction with MORRITT, in a bewildering Illusion, entitled THE MISSING MAN, EVERY EVENING.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002876/18940514/064/0004
+
+Huddersfield Daily Chronicle - Monday 14 May 1894
+
+THE ARDLAMONT MYSTERY. "THE DISAPPEARING MAN."
+
+Edward Sweeney, *alias* Davis, *alias* Scott, who was charged along with Monson in the Ardlamont case, and who at the time absconded, is at present residing in Edinburgh, for the purpose of taking steps to have the sentence of outlawry passed upon him removed. He has presented a petition to the High Court of Justiciary stating that he is not guilty of the charge of murder then preferred against him, and that he is now ready to meet it. The authorities will, however, have nothing to do with him. His petition has been served on the Lord Advocate, and will probably come before the court when it meets this week, but the likelihood is that no appearance will be made for the Crown, and that the prayer of the petition, in the absence of opposition, will be granted, and the sentence of outlawry removed. In the meantime " Scott" seems inclined to turn his notoriety to good account. He enters to-day on a week's engagement at the Empire Palace Theatre, where he appears in Professor Morritt's illusion as "The disappearing man."
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000540/18940522/092/0004
 
@@ -491,6 +507,20 @@ The Scotsman - Tuesday 22 May 1894
 YESTERDAY, Mr Edward Sweeney, *alias* Scott, had his sentenco of outlawry recalled. Mr Sweeney, it will be remembered, was present at Ardlamont House on the morning that young Hambrough was shot. He was there under the name of Scott, and he had been introduced to different persons as an engineer. He was not an engineer, and his name, as we know, was not Scott. He has explained how it came about that he was represented as an engineer, and how he took the name of Scott, and that explanation has no doubt been weighed by the public. It was not given at the trial of Monson on a charge of murdering Hambrough. Sweeney was indicted along with Monson and as he did not appear, a sentence of outlawry was pronounced against him. The Crown sought to get evidence into the trial to prove that the Scott who was present at Ardlamont was Mr Sweeney, and it was not permitted. The police had been searching for Mr Sweeney for many weeks, and had not found him. He turned up subsequently at the instance of a London newspaper ; and now he has come to Scotland to ask that the sentence of outlawry against him shall be recalled. His request was granted yesterday under some peculiar conditions. The Court had no opportunity of learning what the Crown thought on the subject. Sentence of outlawry had bean pronounced against Mr Sweeney at the instance of the Crown. His petition for a recall of the sentence had been intimated to the Crown officials. Yesterday had been appointed for the hearing of the petition ; and when he came before the High Court of Justiciary no representative of the Crown was present, and not a word of guidance was given to the Court by any one on behalf of the Crown. Most properly this course was strongly commented upon by the Lord Justice-Clerk and by Lord Adam. They said that it seemed to be a dereliction of duty on ths part of the Crown. What they said will have the approval of the country. It should be remembered that the Judges who sit on the bench have only to administer the law. It is tha business of the Crown to bring to the knowledge of the bench all the facts it can gather in reference to any and every case that comes into Court in connection with criminal matters. If this be not done, the Judges are left almost entirely without guidance, and obviously there may be a serious miscarriage of justice. We are not saying or suggesting that anything of the kind has taken place in regard to this case ; but it must be said that the absence of the Crown from the hearing of the petition placed the Judges in a position in which they ought not to have been left. Mr Sweeney has got his sentence of outlawry recalled, and has thereby made another precedent in tho administration of criminal law in Scotland. It may be hoped that tho Crown's dealing with the question will not be regarded as a precedent to be followed in the future. 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001179/18940524/007/0015
 
+The Stage - Thursday 24 May 1894
 
+GLASGOW
+
+Gaiety.— The appearance of Scott, who figured so largely in the Ardlamont mystery , served to crowd the Gaiety to witness the clever trick of Morritt's ; ...
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0002237/18940525/078/0017
  
+Music Hall and Theatre Review - Friday 25 May 1894
+
+GLASGOW
+
+Gaiety.— Charles Morritt, in his illusion "THe Missing Man", is the centre of attraction at this hall. The "missing man" is no other than "Scott", of Ardlamont mystery fame, his reception being of a very mixed character. The illusion, however, is good; the disappearance only occupying five seconds.
