@@ -5,17 +5,17 @@ I discovered this tale, in a roundabout way, from a notice of a strange occurren
 
 ---
 
-Way back in 1893, on September 5th, there was a shooting tragedy in this, the "Waggon and Horses" Inn, Walhampton, of which a local gamekeeper, 38 years old Henry Card who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.
-
-The tragedy occurred at the time of the mystery of what was known as the Ardlamont Shooting Case, which set a problem as to whether Lieutenant Hambrough, (who was buried at Ventnor, I. O. W.), could have shot himself from behind. There was news that Lieutenant Hambrough's body was to be exhumed, and Lymington was sharing the widespread public interest in the case. The topic arose when Henry Card walked into the Tap-room of the "Waggon" shortly before midday and ordered a "pint". He carried a double-barrelled gun which, although apparently believed to be empty, was shown by subsequent events to have been fully loaded.
-
-It was a Mr. John Bligh, a London visitor to the inn, who raised the subject of the Adlamont case. He read of it, from a newspaper, to Mr. Card. And when another customer in the bar remarked that an old keeper in Scotland had said that it was impossible for Lieutenant Hambrough to have shot himself, Henry Card disagreed.
-
-What then happened was described by Mr. Bligh at an inquest, which was held here, in the inn, on Sept. 7th, 1893. He said that Mr. Card invited him to try the experiment, saying, "There's my gun; it is empty." Mr. Bligh did not accept, and Mr. Card put down the dog he was nursing and picked up the gun. Mr. Bligh stated that he heard Mr. Card cock the gun and saw him eventually place the gun behind his back with his right hand close to the trigger and the muzzle pointing towards his head. "Then he fired and the explosion came", said Mr. Bligh. Mr. Card, he went on, then put the gun down on the table before falling to the floor.
-
-The game-keeper had received mortal head-wounds. Two doctors were summoned to him, but, as the Press of the day related, early that afternoon, "the poor fellow breathed his last.
-
-"The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
+> Way back in 1893, on September 5th, there was a shooting tragedy in this, the "Waggon and Horses" Inn, Walhampton, of which a local gamekeeper, 38 years old Henry Card who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.
+>
+> The tragedy occurred at the time of the mystery of what was known as the Ardlamont Shooting Case, which set a problem as to whether Lieutenant Hambrough, (who was buried at Ventnor, I. O. W.), could have shot himself from behind. There was news that Lieutenant Hambrough's body was to be exhumed, and Lymington was sharing the widespread public interest in the case. The topic arose when Henry Card walked into the Tap-room of the "Waggon" shortly before midday and ordered a "pint". He carried a double-barrelled gun which, although apparently believed to be empty, was shown by subsequent events to have been fully loaded.
+>
+> It was a Mr. John Bligh, a London visitor to the inn, who raised the subject of the Adlamont case. He read of it, from a newspaper, to Mr. Card. And when another customer in the bar remarked that an old keeper in Scotland had said that it was impossible for Lieutenant Hambrough to have shot himself, Henry Card disagreed.
+>
+> What then happened was described by Mr. Bligh at an inquest, which was held here, in the inn, on Sept. 7th, 1893. He said that Mr. Card invited him to try the experiment, saying, "There's my gun; it is empty." Mr. Bligh did not accept, and Mr. Card put down the dog he was nursing and picked up the gun. Mr. Bligh stated that he heard Mr. Card cock the gun and saw him eventually place the gun behind his back with his right hand close to the trigger and the muzzle pointing towards his head. "Then he fired and the explosion came", said Mr. Bligh. Mr. Card, he went on, then put the gun down on the table before falling to the floor.
+>
+> The game-keeper had received mortal head-wounds. Two doctors were summoned to him, but, as the Press of the day related, early that afternoon, "the poor fellow breathed his last.
+>
+> "The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
 
 ---
  
