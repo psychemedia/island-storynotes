@@ -5,7 +5,7 @@ I discovered this tale, in a roundabout way, from a notice of a strange occurren
 
 ---
 
-Way back in 1893, on September 5th, there was a shooting tragedy in this the "Waggon and Horses" Inn, Walhampton of which a local gamekeeper, 38 years old Henry Card who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.
+Way back in 1893, on September 5th, there was a shooting tragedy in this, the "Waggon and Horses" Inn, Walhampton, of which a local gamekeeper, 38 years old Henry Card who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.
 
 The tragedy occurred at the time of the mystery of what was known as the Ardlamont Shooting Case, which set a problem as to whether Lieutenant Hambrough, (who was buried at Ventnor, I. O. W.), could have shot himself from behind. There was news that Lieutenant Hambrough's body was to be exhumed, and Lymington was sharing the widespread public interest in the case. The topic arose when Henry Card walked into the Tap-room of the "Waggon" shortly before midday and ordered a "pint". He carried a double-barrelled gun which, although apparently believed to be empty, was shown by subsequent events to have been fully loaded.
 
