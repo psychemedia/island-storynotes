@@ -115,6 +115,21 @@ distrain - To seize and hold (property) to compel payment or reparation, as of d
 m    mark    2/3 £ or 13s 4d
 
 
+---
+https://archive.org/details/bim_eighteenth-century_collections-for-the-hist_d-y_1795_1/page/126/mode/1up?q=%22week+down%22
+p126-7
+
+Collections for the history of Hampshire, and the bishopric of Winchester: including the Isles of Wight, Jersey, Guernsey, and Sarke, by D. Y. With the original Domesday of the county, and an accurate English translation, ... By Richard Warner, ... Illustrated with upwards of sixty plates, ... In six volumes. ...  1795: Vol 1
+by D. Y.
+ 1795
+ 
+The manor of Godyton, in this parish, gave name to its ancient possessors. Walter de Godyton, in the year 1323, built a chapel on Chale down, dedicatcd to St. Catharine, assigning certain rents for a chantry Priest to sing mass, and also to provide lights, for the ſafety of such vessels as chanced to come on that dangerous coast during the night. At the dissolution of chantries, it was, perhaps, found impracticable to divide the useful from the superstitious part of the institution ; so that the whole fell together, the chantry involving the light-house in its ruin.
+
+By an entry in the regiſters of this dioceſe, it appears, that eleven years before the erection of this chapel, there was an hermitage standing on the same spot : the entry is as follows: *Walter de Langstrell, admissus ad hermitorium supra montem de Chale, in insula Vectis, Tail. Octobris, A. D. 1312*.
+
+The situation pointed it out for a sea mark; it being about 750 feet above high water level, half a mile from the ſhore, and commanding a moſt extenſive view. The tower of the chapel is yet standing, and is known by the name of St. Catharine's Tower: it is thirty-five feet six inches high; octangular without, and quadrangular within, finished with a pyramidical roof; each side, interior as well as exterior, being exactly four feet. From this conſtruction, the curious have found out ſome resemblance to the temple of the eight winds at Athens—a building, it is more than probable the architect never saw, or ever heard of.“
+
+St. Catharine's tower ſtill remains of most essential use, by day, to vessels navigating the channel: but having become extremely ruinous, its fall was to be apprehended ; and, as it sudden disappearance might have been attended with fatal consequences, it was substantially repaired, and its angles strengthened with buttresses, at the expence of the lord of the manor. The foundation of the whole chapel is also cleared and levelled ; by which, not only its figure was discovered, but also the floor and stone hearth of the Priest's little cell, at the south-west corner, close to the tower
 
 
 ### Letter
