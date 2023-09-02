@@ -67,6 +67,12 @@ Collections for the history of Hampshire, and the bishopric of Winchester: inclu
 
 Looking eastward, from the elevated spot where the tower [the Pepperpot] stands, two other hills are to be seen; the nearest, which is about three miles diſtant, is called Week down, over which, about a mile and a half farther, appears that called Shanklin down. Concerning these downs, a singular circumstance is remarked, by the inhabicants of Chale, that may be mentioned, for the gratification of those who are curious in natural enquiries, as the evidence of it seems unobjectionable. Shanklin down may now be guessed to stand about an hundred feet higher than the summit of Week down; yet old persons, still living, affirm, that within their remembrance, Shanklin down was barely visible from St. Catharine's. They declare, moreover, that, in their youth, old men have told them, they knew the time when Shanklin down could not be seen from Chale down, but only from the top of the beacon ; the old post of which stands near the chapel. This testimony, if allowed, argues either a sinking of the intermediate down, or a rising of one of the other hills; the causes of which are left for philosophical investigation.
 
+Chale Bay, which opens from the most southern point of the island, westward from the ſhore called Underway, is about three miles in extent, and has, at low water, a fine broad beach, separated from the high country above, by a continued range of perpendicular cliffs, extremely dangerous to ships. The way down to the strand, at Black Gang, is very awful; the descent being through an immense gully, amongst vast masses of broken ground, and disjointed rocks, the ruins of the land above. In an arched excavation at the bottom, under the projecting rock, from whence water is continually dripping, there issues a spring, strongly impregnated with copperas. The surrounding scene, from this depth, is truly majestic.
+
+Some years ago it was diſcovered, that the sand under the cliffs was mixed with gold dust : this, for a while, engaged the country people to wash it in bowls and pans, as is practised in Africa, and South America ; but, from a number of dollars occaſionally found there, it appears likely that both were the contents of some Spanish ship, wrecked in this dangerous bay, and, in stormy weather, thrown up by the violence of the waves.
+
+`[Cf. the gold on the shore at Puckaster in Elder's "John Cann".]`
+
 ---
 
 Also referenced by Elder, https://archive.org/details/bentleysmiscella05dickuoft/page/557/mode/1up?q=+%22abraham+elder%22
