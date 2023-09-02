@@ -1,6 +1,6 @@
 # The Shrinking of Week Down
 
-Anyone who's live on the island for an any period of time will be familiar with the idea of landslips, as cliffs shear off and slip down to the shore line. But have you ever heard of a hill sinking?
+Anyone who's lived on the island for an any period of time will be familiar with the idea of landslips, as cliffs shear off and slip down to the shore line. But have you ever heard of a hill sinking?
 
 Back in the day, a remarkable tale was told of Week Down, between Whitwell and Ventnor, between St Catherine's and Shanklin, on the Isle of Wight.
 
@@ -16,9 +16,17 @@ In passing, Hassell also describes the unused light house on top of St Catherine
 
 > On the top of St. Catherine's is a light house, and a beacon, neither of which are now used. The tower serves, in the day time, for an excellent landmark ; it being near eight hundred feet above the level of the sea at low water. A small part of the chapel is remaining ; it is in form an octagon, and by some called the hermitage, from - the circumstance of a priest's having formerly immured himself in it from the world.
 
-He also relates, at pp207-8, a curious tale regarding the local atmospheric conditions out in the bay compared to the shoreline:
+On descending from the St Catherine's Down, Hassell's attention was grabbed by a rather amusing scene:
 
-> hen we sat out from Knowle a storm seemed to be pending in the horizon ; and by the time we had reached St. Lawrence we heard several claps of thunder. As every incident which tended to produce picturesque effects instantly attracted our attention, we cast our eyes towards the sea, in order to observe whether any alteration had taken place on its smooth surface ; when, to our great surprise, we plainly perceived a vessel, within eight miles of the shore, labouring under the effects of the storm, and apparently in the greatest distress. And what was extremely striking was, that though the sea where the vessel happened to be, rolled (as it is commonly termed,) mountains high, yet not a breath of that air, which was there so tempestuous, ruffled the water on the beach beneath us.- An operation of Nature that had never before fallen under our inspection; and we greatly regretted not having with us some ingenious painter, in the marine line, to take an exact representation of it .
+> When we descended the hill [St Catherine's Down, going towards Niton], an odd circumstance attracted our notice, which though trivial in itself, we mention, as it may appear as singular to our readers as it did to us. It being bar veil time, a cheerfulness and jollity seemed to prevail at a farm-house we passed at the bottom of the hill, which did not extend to the whole of the inhabitants ; for we observed that a fine game cock and his feathered mate walked about in a melancholy mood. Instead of " proudly strutting before his dame to the stack, or the barn door," as the cock described by Milton did, poor Chanticleer went slowly on, with a large piece of flat stick fastened to his breast, followed by his solitary companion, dame Partlet, who had a clog tied to her leg, of the same kind as those fixed on the legs of horses, though not fo large. And this was done we found to prevent their entering the fields, and committing depredations on the newly reaped corn. We soon after saw several others hampered nearly in the same manner.— A sight at once so droll and so novel, afforded us no little entertainment.
+>
+> From St. Catherine’s we crossed the common fields to Niton, which is frequently termed Crab Niton, from the great number of crabs found on that coast. The want of a good road to this village makes the visiting it very inconvenient to travellers.
+
+Hassell also relates, at pp207-8, a curious tale regarding the local atmospheric conditions out in the bay compared to the shoreline:
+
+> When we sat out from Knowle a storm seemed to be pending in the horizon ; and by the time we had reached St. Lawrence we heard several claps of thunder. As every incident which tended to produce picturesque effects instantly attracted our attention, we cast our eyes towards the sea, in order to observe whether any alteration had taken place on its smooth surface ; when, to our great surprise, we plainly perceived a vessel, within eight miles of the shore, labouring under the effects of the storm, and apparently in the greatest distress. And what was extremely striking was, that though the sea where the vessel happened to be, rolled (as it is commonly termed,) mountains high, yet not a breath of that air, which was there so tempestuous, ruffled the water on the beach beneath us.- An operation of Nature that had never before fallen under our inspection; and we greatly regretted not having with us some ingenious painter, in the marine line, to take an exact representation of it.
+
+*From a similiar spot, in "Back of the Wight"??, tales told of seeing mackerel down in the bay around Chale.*
 
 A few years later in [*The history of the Isle of Wight; military, ecclesiastical, civil, & natural*](https://archive.org/details/historyofisleofw00warniala/page/180/mode/2up), 1795, pp180-5, Richard Warner seems more believing of the legend, as well as being supportive of the idea that some of the downs are rising, rather than others sinking:
 
@@ -32,18 +40,21 @@ As to the sinking of Week Down, he favours a contrary explanation:
 
 > It seems sufficiently clear, that this difference in the appearance of the two downs must have arisen rather from the growth of Shanklin, than the sinking of Week; since the latter, and all the surrounding downs, bear the same relative proportion to each other they ever did, which could not be the case, had any change taken place in its elevation or magnitude.
 
-These downs exhibit a number of those circular marks on the grass, which Philosophy, unable herself to account satisfactorily
-for the phenomenon, in compliance with vulgar superstition, is content to call by the name of *fairy rings*:
+As well as their changing heights, anyone wandering across the downs might also encounter other unusual sights:
 
-" Where At fall of eve the fairy people throng,  
-In various game and revelry to pass  
-The summer night, as village stories tell."
-
-These appearances are generally circular, sometimes oval, and from two to twenty feet in diameter. They may easily be discovered by the rankness of the grafs, which forms the ring, and the number of fungi or mushrooms that cover it. Various, have been the conjectures relative to the cause of this phenomenon, and none perhaps more plausible than that of Doctor Darwin, who accounts for it in the following manner :
-
+> These downs exhibit a number of those circular marks on the grass, which Philosophy, unable herself to account satisfactorily for the phenomenon, in compliance with vulgar superstition, is content to call by the name of *fairy rings*:
+>
+> " Where At fall of eve the fairy people throng,  
+> In various game and revelry to pass  
+> The summer night, as village stories tell."
+> 
+> These appearances are generally circular, sometimes oval, and from two to twenty feet in diameter. They may easily be discovered by the rankness of the grafs, which forms the ring, and the number of fungi or mushrooms that cover it. Various, have been the conjectures relative to the cause of this phenomenon, and none perhaps more plausible than that of Doctor Darwin, who accounts for it in the following manner :
+>
 > "The numerous flames of lightning which occur every summer, are, I believe, generally discharged on the earth, and but seldom, if ever, from one cloud to another. Moist trees are the most frequent conductors of these flames of lightning, and I am informed by purchasers of wood, that innumerable trees are thus cracked and injured. At other times larger parts or prominences of clouds, gradually sinking as they move along, are discharged on the moister parts of grassy plains. Now this knob or corner of a cloud, in being attracted by the earth, will become nearly cylindrical, as loose wool would do when drawn out into a thread, and will strike the earth with a stream of eleclricity perhaps two or ten yards in diameter. Now as a stream of electricity displaces the air it passes through, it is plain no part of the grass can be burnt by it, but just the external ring of this cylinder, where the grass can have access to the air, since without air nothing can be calcined. This earth, after having been so calcined, becomes a richer soil, and either fungusses or a bluer grass for many-years mark the place. That lightning displaces the air in its passage, is evinced by the loud crack that succeeds it, which is owing to the sides of the aerial vacuum clapping together when the lightning is withdrawn. That nothing will calcine without air is now well understood from the acids produced in the burning of phlogistic substances; and may be agreeably seen by suspending a paper on an iron prong, and putting it into the centre of the blaze of an iron furnace; it may be held there some feconds, and may be again withdrawn without being burnt, if it be passed quickly into the flame, and out again through the external part of it, which is in contact with the air. I know," adds the Doctor, " some circles of many yards diameter, of this kind, near Foremark in Derbyshire, which annually produce large white fungusses, and stronger grass, and have done so, I am informed, above thirty years." The probability of this hypothesis will perhaps be allowed, when it is recollected that these gramineous circles are generally found upon open and exposed places, and never in *immediate contact* with trees, or any other free conductors of the electrical fluid.
 
 `[Re: fairy rings, see also Elder's Puckaster fairy legend.]`
+
+We might also wonder if the tale of Week Down ever made it to the ears of the men who chose Dunnose point as a base point for surveying Britain at the end of the 18th century and start of the 19th century, two hundred and twenty five years or so ago, an activity that, quite literally, helped shaped Britain. [See Dunnose survey.] Would they have been so keen to use a hill whose height might be changing as a cornerstone of their triangulation grid? How might they have woven that story into their interpretation of why a pendulum bob hung at a slant as they perfomed their survey?
 
 ---
 
@@ -76,14 +87,6 @@ Some years ago it was diſcovered, that the sand under the cliffs was mixed with
 
 `[Cf. the gold on the shore at Puckaster in Elder's "John Cann".]`
 
----
-
-https://archive.org/details/in.ernet.dli.2015.46089/page/n699/mode/2up?q=%22week+down%22
-Hassel's Tour of the Isle of Wight
-
-When we descended the hill [St Catherine's Down, going towards Niton], an odd circumstance attracted our notice, which though trivial in itself, we mention, as it may appear as singular to our readers as it did to us. It being bar veil time, a cheerfulness and jollity seemed to prevail at a farm-house we passed at the bottom of the hill, which did not extend to the whole of the inhabitants ; for we observed that a fine game cock and his feathered mate walked about in a melancholy mood. Instead of " proudly strutting before his dame to the stack, or the barn door," as the cock described by Milton did, poor Chanticleer went slowly on, with a large piece of flat stick fastened to his breast, followed by his solitary companion, dame Partlet, who had a clog tied to her leg, of the same kind as those fixed on the legs of horses, though not fo large. And this was done we found to prevent their entering the fields, and committing depredations on the newly reaped corn. We soon after saw several others hampered nearly in the same manner.— A sight at once so droll and so novel, afforded us no little entertainment.
-
-From St. Catherine’s we crossed the common fields to Niton, which is frequently termed Crab Niton, from the great number of crabs found on that coast. The want of a good road to this village makes the visiting it very inconvenient to travellers.
 
 ---
 Also referenced by Elder, https://archive.org/details/bentleysmiscella05dickuoft/page/557/mode/1up?q=+%22abraham+elder%22
