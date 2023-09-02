@@ -1,6 +1,8 @@
 # The Shrinking of Week Down
 
-A remarkable tale is is told of Week Down, between Whitwell and Ventnor, between St Catherine's and Shanklin, on the Isle of Wight.
+Anyone who's live on the island for an any period of time will be familiar with the idea of landslips, as cliffs shear off and slip down to the shore line. But have you ever heard of a hill sinking?
+
+Back in the day, a remarkable tale was told of Week Down, between Whitwell and Ventnor, between St Catherine's and Shanklin, on the Isle of Wight.
 
 In Sir Richard Worsley's [*The History of the Isle of Wight*](https://books.google.co.uk/books?id=wOZWAAAAcAAJ&printsec=frontcover#v=onepage&q&f=false), of 1781, p247-8, a view from St Catherine's Down, where de Godeton's Pepperpot stands, is described:
 
