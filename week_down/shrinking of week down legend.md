@@ -76,6 +76,14 @@ Some years ago it was diſcovered, that the sand under the cliffs was mixed with
 
 ---
 
+https://archive.org/details/in.ernet.dli.2015.46089/page/n699/mode/2up?q=%22week+down%22
+Hassel's Tour of the Isle of Wight
+
+When we descended the hill [St Catherine's Down, going towards Niton], an odd circumstance attracted our notice, which though trivial in itself, we mention, as it may appear as singular to our readers as it did to us. It being bar veil time, a cheerfulness and jollity seemed to prevail at a farm-house we passed at the bottom of the hill, which did not extend to the whole of the inhabitants ; for we observed that a fine game cock and his feathered mate walked about in a melancholy mood. Instead of " proudly strutting before his dame to the stack, or the barn door," as the cock described by Milton did, poor Chanticleer went slowly on, with a large piece of flat stick fastened to his breast, followed by his solitary companion, dame Partlet, who had a clog tied to her leg, of the same kind as those fixed on the legs of horses, though not fo large. And this was done we found to prevent their entering the fields, and committing depredations on the newly reaped corn. We soon after saw several others hampered nearly in the same manner.— A sight at once so droll and so novel, afforded us no little entertainment.
+
+From St. Catherine’s we crossed the common fields to Niton, which is frequently termed Crab Niton, from the great number of crabs found on that coast. The want of a good road to this village makes the visiting it very inconvenient to travellers.
+
+---
 Also referenced by Elder, https://archive.org/details/bentleysmiscella05dickuoft/page/557/mode/1up?q=+%22abraham+elder%22
 
 Bentley's Miscellany, Vol. 5, 1837
