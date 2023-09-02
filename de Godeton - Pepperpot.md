@@ -127,10 +127,30 @@ The manor of Godyton, in this parish, gave name to its ancient possessors. Walte
 
 By an entry in the regiſters of this dioceſe, it appears, that eleven years before the erection of this chapel, there was an hermitage standing on the same spot : the entry is as follows: *Walter de Langstrell, admissus ad hermitorium supra montem de Chale, in insula Vectis, Tail. Octobris, A. D. 1312*.
 
-The situation pointed it out for a sea mark; it being about 750 feet above high water level, half a mile from the ſhore, and commanding a moſt extenſive view. The tower of the chapel is yet standing, and is known by the name of St. Catharine's Tower: it is thirty-five feet six inches high; octangular without, and quadrangular within, finished with a pyramidical roof; each side, interior as well as exterior, being exactly four feet. From this conſtruction, the curious have found out ſome resemblance to the temple of the eight winds at Athens—a building, it is more than probable the architect never saw, or ever heard of.“
+The situation pointed it out for a sea mark; it being about 750 feet above high water level, half a mile from the ſhore, and commanding a moſt extenſive view. The tower of the chapel is yet standing, and is known by the name of St. Catharine's Tower: it is thirty-five feet six inches high; octangular without, and quadrangular within, finished with a pyramidical roof; each side, interior as well as exterior, being exactly four feet. From this conſtruction, the curious have found out ſome resemblance to the temple of the eight winds at Athens—a building, it is more than probable the architect never saw, or ever heard of. `[In an ancient survey, belonging to Sir Richard Worsley, Bart. there is a small rude drawing of this chapel; from which, it appears that it had only a body, without a transept. The tower stood at the west end. A description of this tower, with four views of it, in its decayed state, are seen in the Gent. Mag. vol. xxvii. p. 176.]`
 
-St. Catharine's tower ſtill remains of most essential use, by day, to vessels navigating the channel: but having become extremely ruinous, its fall was to be apprehended ; and, as it sudden disappearance might have been attended with fatal consequences, it was substantially repaired, and its angles strengthened with buttresses, at the expence of the lord of the manor. The foundation of the whole chapel is also cleared and levelled ; by which, not only its figure was discovered, but also the floor and stone hearth of the Priest's little cell, at the south-west corner, close to the tower
+St. Catharine's tower still remains of most essential use, by day, to vessels navigating the channel: but having become extremely ruinous, its fall was to be apprehended ; and, as it sudden disappearance might have been attended with fatal consequences, it was substantially repaired, and its angles strengthened with buttresses, at the expence of the lord of the manor. The foundation of the whole chapel is also cleared and levelled ; by which, not only its figure was discovered, but also the floor and stone hearth of the Priest's little cell, at the south-west corner, close to the tower
 
+https://archive.org/details/s2492id1330005/page/176/mode/2up
+The gentleman's magazine. Volume 27,  1757 p176
+
+Mr Urban,
+
+I Send you four views of the tower of St Catharine's which stands upon the summit of St Catharine's Hill Down, on the back of the Isle of Wight , about 750 feet higher than high-water mark, and about half a mile from the sea, commanding the moll extenfive view, both by sea and land, of any place in Britain. It is part of a consecrated building of great antiquity, as appears by the Winchehter register, in which there is this entry :
+
+“ Walter de Langsterell , admijssus ad Hermitorium supra montem de Chale in  insula Victis. Idil. Octobris A.D. 1312.”
+
+The figure of this tower within, is quadrangular, and without octagonal ; each side both of the octagon and quadrangle is just four feet, its height to the roof is 27 feet, and the perpendicular height of the roof is two feet.
+
+It feems to be a Gothic imitation of the Temple of the eight winds at Athens , which was built by Andronicus , whom Vitruvius calls Cyrrbastes , at Athens.
+
+I have added a view of this temple, which was of marble ; on each side was carved, in bass relief, a representation of the wind of that quarter which it fronted ; and on the point of the roof, which was a pyramid of marble, a brazen Triton was placed, as a weather-cock, holding a small rod in his right hand, which pointed to the quarter from which the wind blew.
+
+The tower of St Catharine has been long a sea mark, and has been of the most important service by directing our mariners to avoid the adjacent rocky shores in navigating the channel, and it would therefore have been thought very strange in any time less negligent of the public interest, and less improvident for the morrow', than the present, that it should have been suffered to go to ruin. You will see by the south view, that it must very soon fall at once into rubbish if it is not effecftually repaired, and the sudden diiappearance of it, before the accident can be known at sea, will probably occasion the loss of more vessels and lives than the most dreadful hurricane that ever happened. I hope, Mr Urban , that those whose inattention has suffered this necessary service to be delayed, will now see it performed, as they must after this memorial incur more severe censure by neglecting it.
+
+I am Yours, &c., A, B.
+
+![](pepperpot-gentlemans-magazine-v27-p176.png)
 
 ### Letter
 record.office@iow.gov.uk
