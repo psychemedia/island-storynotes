@@ -5,11 +5,11 @@ At one time, Dunnose point was a candiate for the national meridian.
 ---
 
 https://archive.org/details/philosophicaltra8517roya/page/442/mode/2up?q=dunnose
-Philosophical transactions of the Royal Society of Londo, v85, 1795
+Philosophical transactions of the Royal Society of London, v85, 1795
 
-Containing Particulars relative to the Commencement of the Trigonometrical Operation. — An Account of the Improvements in the great Theodolite ; and a Relation of the Progress made in the Survey in 1792, 1793, and 1794, together with the Angles taken in those Tears.
+Containing Particulars relative to the Commencement of the Trigonometrical Operation. — An Account of the Improvements in the great Theodolite ; and a Relation of the Progress made in the Survey in 1792, 1793, and 1794, together with the Angles taken in those years.
 
-XX. An Account of the Trigonometrical Survey carried on in the Tears 1791, 1792, 1793, and 1794,, by Order of his Grace the Duke of Richmond, late Master General of the Ordnance. By Lieut. Col. Edward Williams, and Capt. William Mudge, of the Royal Artillery ; and Mr. Isaac Dal by. Communicated by the Duke of Richmond, F. R. S.
+XX. An Account of the Trigonometrical Survey carried on in the years 1791, 1792, 1793, and 1794,, by Order of his Grace the Duke of Richmond, late Master General of the Ordnance. By Lieut. Col. Edward Williams, and Capt. William Mudge, of the Royal Artillery ; and Mr. Isaac Dalby, Communicated by the Duke of Richmond, F. R. S.
 
 Read June 25, 1795.
 p414
@@ -34,8 +34,7 @@ As the principal object of this year's business was, to determine the directions
 
 A small staff, of about three inches diameter, was erected on Brading Down, which is about six miles from the station, for the purpose of referring the star to it ; a small lamp of six inches diameter, constructed upon the same plan as the large ones, being, when made use of, buckled at the bottom of the staff.
 
-As the best method of obtaining the direction of the meridian, is by observing the star upon each side of the pole, whence the double azimuth is nearly obtained without any correction for the star’s apparent motions, every opportunity was watched, of observing it at the times of its greatest apparent eastern and western elongations. But in the unsettled season of the month of April, when almost every wind brought
-a fog over the station, many days elapsed without our seeing either the star or staff ; and it was on that account we continued so long at Dunnose.
+As the best method of obtaining the direction of the meridian, is by observing the star upon each side of the pole, whence the double azimuth is nearly obtained without any correction for the star’s apparent motions, every opportunity was watched, of observing it at the times of its greatest apparent eastern and western elongations. But in the unsettled season of the month of April, when almost every wind brought a fog over the station, many days elapsed without our seeing either the star or staff ; and it was on that account we continued so long at Dunnose.
 
 As the truth of the deductions must entirely depend on the accurate determination of the directions of the meridians, the greatest care was taken in making the observations. An hour, and generally more, before the star came to its greatest elongation, the observers repaired to the tent for the purpose of getting the instrument ready. The method of adjusting it, was first by levelling it in the common way with the spirit level which hangs on the brass pins ; and afterwards, by that which applies to the axis of the transit: The criterion which determined the instrument to be properly adjusted, was the bubble of the latter level remaining immoveable between its indexes, while the circle was turned round the axis.
 
@@ -49,7 +48,7 @@ vol 93, 1803
 
 p383
 
-XVI. An Account of the Measurement of an Arc of the Meridian, extending from Dunnose, in the Isle of Wight, Latitude go° S7 ; 8", to Clifton, in Yorkshire, Latitude 53 27' 3!", in course of the Operations carried on for the Trigonometrical Survey of England, in the Tears i8oo 5 1801, and 1802* By Major William Mudge, of the Royal Artillery, F. R. S.
+XVI. An Account of the Measurement of an Arc of the Meridian, extending from Dunnose, in the Isle of Wight, Latitude go° S7 ; 8", to Clifton, in Yorkshire, Latitude 53 27' 3!", in course of the Operations carried on for the Trigonometrical Survey of England, in the Years i8oo 5 1801, and 1802* By Major William Mudge, of the Royal Artillery, F. R. S.
 
 Read June 23, 1803
 
@@ -71,7 +70,7 @@ Dunnose being fixed on, my subsequent endeavours were directed towards carrying 
 
 p410-414
 
-Particulars relating to the Operations of the Tear 1802,
+Particulars relating to the Operations of the Year 1802,
 
 I have already stated, that a proper observatory had been provided for the reception of the zenith sector. The dimensions of it were twelve feet square at bottom, and six feet square at top; its proportions being the same as those of the external stand. A floor having a square vacuity, to admit of the instrument standing on the ground, covered the joists of it. The sides of the observatory were of strong painted canvas ; and the roof of wood, with an aperture, which could be opened or closed at pleasure, for viewing the stars near the zenith.
 
@@ -93,15 +92,11 @@ to indicate any serious warp in the standi Its greatest variation was 4'; but, f
 
 30".
 
-The weight of the plummet, I adjusted to the strength of the
-
-plumb-line, in the usual way. I suspended it in air, and gradually increased its weight, till the wire broke. This plummet was then immersed in the vessel appropriated for its reception. It will, perhaps, not; be improper to observe, that I was careful to give the plummet its maximum of weight, that its wire might not be subject to motion from streams of air*
+The weight of the plummet, I adjusted to the strength of the plumb-line, in the usual way. I suspended it in air, and gradually increased its weight, till the wire broke. This plummet was then immersed in the vessel appropriated for its reception. It will, perhaps, not; be improper to observe, that I was careful to give the plummet its maximum of weight, that its wire might not be subject to motion from streams of air*
 
 As it was to be apprehended that errors would result, from the effects of an inequality of temperature in the air within the observatory, I placed two thermometers, both adjusted to a third; near the telescope. One I elevated as high as the axis, the other I laid on the hollow brass cylinders which connect the divided arch with that behind it usually called the back arch. In the day, I found (as may be seen in the register of observations) the heat a little greater at the top of the tent than towards the bottom ; and the reverse was generally the case at night.
 
-To equalize the temperature at those times when the sun shone out, or the weather was hot, I opened the shutters in the roof, as well as the door of the observatory, a considerable time before the moment of observation. By these means, the air within the tent was rendered tolerably uniform in its degrees of heat. For the space of a week following the commencement of my observations, I suspended a third thermometer from the milled-headed key which turns the diaphragm placed inside the telescope. As the situation of this thermometer was midway between the two others just mentioned, I always found the temperature there, a mean between those degrees shown by the
-
-upper and under thermometers ; and as, in the course of the time specified, I had various opportunities of satisfying myself on this point, I desisted from making any farther use of it. For the purpose of ascertaining the limits of the errors likely to result from the cause now spoken of, it will be right to institute some little inquiry into its mode of operation.
+To equalize the temperature at those times when the sun shone out, or the weather was hot, I opened the shutters in the roof, as well as the door of the observatory, a considerable time before the moment of observation. By these means, the air within the tent was rendered tolerably uniform in its degrees of heat. For the space of a week following the commencement of my observations, I suspended a third thermometer from the milled-headed key which turns the diaphragm placed inside the telescope. As the situation of this thermometer was midway between the two others just mentioned, I always found the temperature there, a mean between those degrees shown by the upper and under thermometers ; and as, in the course of the time specified, I had various opportunities of satisfying myself on this point, I desisted from making any farther use of it. For the purpose of ascertaining the limits of the errors likely to result from the cause now spoken of, it will be right to institute some little inquiry into its mode of operation.
 
 
 ---
@@ -167,7 +162,7 @@ The National Survey
 
 p330-1
 
-In 1793 the triangulating operations were and observations to determine the direction of the meridian at Dunnose, in the Isle | of Wight, were taken with great — care in the month of April, by — means of azimuths of the pole-star — continued, at its maximum apparent elongations. Similar observations were tried at Beachy Head in July; but, owing to the unsteadiness or tremulousness of the atmosphere from heat, the attempt there had to be deferred. In this and the — next year, special surveys of the | Hampshire coast were undertaken, ~ and mapped on a scale of three inches to a mile; but these were for purely confidential’ military purposes.
+In 1793 the triangulating operations were and observations to determine the direction of the meridian at Dunnose, in the Isle of Wight, were taken with great — care in the month of April, by means of azimuths of the pole-star continued, at its maximum apparent elongations. Similar observations were tried at Beachy Head in July; but, owing to the unsteadiness or tremulousness of the atmosphere from heat, the attempt there had to be deferred. In this and the — next year, special surveys of the Hampshire coast were undertaken, and mapped on a scale of three inches to a mile; but these were for purely confidential’ military purposes.
 
 In the summer of 1794, a highly important base of verification, nearly 7 miles long, was measured on Salisbury Plain with the steel chain. Again the labours of the Ordnance officers attracted much attention from the leaders of science,—Sir Joseph Banks, Maskejyne, astronomer-royal, and others, visiting the work during its proUpon this line was after-
 
@@ -177,11 +172,7 @@ wards mainly to hang the entire triangulation of the kingdom. The h of the arc o
 
 During jhis and the following year, the triangulation was carried on into the counties of Dorse and Devon, and for military objects into Kent. Cornwall was reached in 1796, the
 
-incipal occupation of this year fring the taking of observations to determine the distance of the Silly Isles from the Land's End, avery awkward piece of work in trigonometrical computation, owing tothe unavoidable shortness of any obtainable base in the locality. This difficulty was to some extent counteracted by the‘ circumstance that, while the party was engaged in these observations, ‘‘the air was so unusually clear, that one could sometimes, with the telescope of the great theodolite, descern the soldiers at exercise in St Mary’s Island,’’ a long sight to accomplish, considering that the distance of the Scilly stations from the Cornish mainland averaged nearly 30 miles. In 1798, another base-line of verification was measured at Sedgemoor, in Somersetshire, 27,680 feet, or a trifle under 5% miles in length; and during this and the last year of the century, the triangulation, besides being extended over Kent, was carried along the valley of the Thames, and into Essex, Suffolk, Somerset, and some of the midland counties. This year the direction of the Survey passed from Colonel Williams to Captain (afterwards Major-General) Mudge, who retained it till his death in
-
-‘ 1829.
-
-n the opening year of the new century the Survey sustained a great loss in the retirement from it of Mr. Isaac Dalby, F.R.S., who had hitherto taken a leading part in all the more difficult and important branches of the work, and whose arduous labours had broken down his health. During the three years 1800 to 1802, the main business was the measurement of a meridional arc nearly 200 miles long. The stations selected for the terminals of the arc were Dunnose and C)ifton, in Yorkshire, very nearly in the same meridian—the latter lying less than a mile to westward of the former. Arbury Hill, in Northamptonshire, formed an intermediate station something near half-way between the- terminals.
+incipal occupation of this year fring the taking of observations to determine the distance of the Silly Isles from the Land's End, avery awkward piece of work in trigonometrical computation, owing tothe unavoidable shortness of any obtainable base in the locality. This difficulty was to some extent counteracted by the‘ circumstance that, while the party was engaged in these observations, "the air was so unusually clear, that one could sometimes, with the telescope of the great theodolite, descern the soldiers at exercise in St Mary’s Island," a long sight to accomplish, considering that the distance of the Scilly stations from the Cornish mainland averaged nearly 30 miles. In 1798, another base-line of verification was measured at Sedgemoor, in Somersetshire, 27,680 feet, or a trifle under 5% miles in length; and during this and the last year of the century, the triangulation, besides being extended over Kent, was carried along the valley of the Thames, and into Essex, Suffolk, Somerset, and some of the midland counties. This year the direction of the Survey passed from Colonel Williams to Captain (afterwards Major-General) Mudge, who retained it till his death in the opening year of the new century the Survey sustained a great loss in the retirement from it of Mr. Isaac Dalby, F.R.S., who had hitherto taken a leading part in all the more difficult and important branches of the work, and whose arduous labours had broken down his health. During the three years 1800 to 1802, the main business was the measurement of a meridional arc nearly 200 miles long. The stations selected for the terminals of the arc were Dunnose and C)ifton, in Yorkshire, very nearly in the same meridian—the latter lying less than a mile to westward of the former. Arbury Hill, in Northamptonshire, formed an intermediate station something near half-way between the terminals.
 
 
 
