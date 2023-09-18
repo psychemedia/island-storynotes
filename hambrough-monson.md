@@ -20,18 +20,270 @@ I discovered this tale, in a roundabout way, from a notice of a strange occurren
 >
 > "The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
 
- 
- So what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
+So what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
 
+The story begins with a report of what appears to be an unfortunate accident:
 
- 
+```{admonition} *YOUNG GENTLEMAN SHOT DEAD IN BUTE*, Dundee Evening Telegraph, Saturday 12 August, 1893
+:class: dropdown
 
-https://en.wikipedia.org/wiki/Ardlamont_murder
+In Dundee Evening Telegraph, Saturday 12 August 1893, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18930812/009/0002):
+
+YOUNG GENTLEMAN SHOT DEAD IN BUTE.
+
+A sad shooting fatality happened on Thursday the estate Ardlament, some distance from Tighnabruaich. Mr Hambro *[sic]*, a young gentleman of 23 years, who is believed to have been a banker in America, and who was joint-tenant of the Ardlamont shootings along with Mr Monson, was shot dead while out shooting rabbits. The young gentleman was crossing dyke with his loaded gun, which he was carrying under his arm at full-cock. It is supposed that the trigger was caught bv the bushes, and this, it is believed, caused the gun accidentally to go off. The charge lodged in the unfortunate gentleman's head, and he was killed on the spot. His friends coming up immediately afterwards were too late to render any assistance. The body was removed to House, which is at present in the possession of the shooting tenants. The sad occurrence has cast a gloom over the district. Mr Hambro hod been staying at Ardlamout with his friend Mr Monson during the past three or four weeks.
+
+The death of young Mr Hambrough, says the *N.B. Mail*, at Ardlament is singularly sad. He seemed to be one of " Fortune's children," with a life of happiness and ease before him. Had he lived till April next he would have attained his majority and inherited a fortune of about a quarter of a million, some £70,000 of which would probably have been devoted to the purchase of the Ardlamont estate, to which he had taken a strong liking since he became the shooting tenant a few months ago. Mr Hambro was a well-built, handsome young fellow, and his simple, frank, and courteous manners had already won him many friends in the district. 
+
+```
+
+The death of "Mr Hambro" was also reported in the *Portsmouth Evening News*: "Mr Hambro" was, in fact, Lietentant Hambrough, scion of a notable family on the Isle of Wight:
+
+```{admonition} *Births, Marriages & Deaths*, Portsmouth Evening News, Saturday 19 August, 1893
+:class: dropdown
+
+In *Portsmouth Evening News*, Saturday 19 August 1893, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18930819/084/0002):
+
+Births, Marriages & Deaths
+
+...
+
+HAMBROUGH. On the 10th inst., at Ardlamont House, Argyllshire, from a gun accident, W. D. C. Hambrough, Lieut. 3rd Batt. West Yorkshire Regiment, eldest son of D. A. Hambrough, late of Steephill Castle, Ventnor, I.W., in his 21st year. 
+
+...
+
+```
 
 ---
-https://archive.org/details/trialofajmonson00mons
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930814/053/0003
 
-Trial of A.J. Monson, ed. John W. More, 1908 
+Glasgow Evening Post - Monday 14 August 1893
+
+ARDLAMONT SHOOTING FATALITY. 
+
+Investigation the Fiscal. (*By Telegraph.*)  
+DUNOON, 3.—Mr McNaughton, the deputy-Fiscal for Argyllshire, arrived in Dunoon this morning, after completing his investigation into the sad affair which occurred at Ardlamont on Thursday morning. The unfortunate young gentleman who met such an untimely end was only 20 years of age, and a lieutenant in the 3rd West Yorkshire Militia, his full name being Windsor Dudley Cecil Harmborough (*sic*). His father is Major Hamborough, of the same regiment. From the information now to hand, it appears that on the morning of the 10th August young Mr Hamborough went out about half-past six to shoot in a plantation close to Ardlamont House. He was accompanied by Alfred John Morrison (*sic*), his guardian, and Mr Edward Scott, engineer, Glasgow, the latter going out with the intention of carrying the game. Both Mr Hamborough and Mr Morrison had guns. In going through the plantation they separated, and in a few minutes time Mr Morrison heard a shot fired. He called out to Mr Hamborough, asking what he had_killed, but received no reply. Running in the direction from where the shot came, he was horrified to find the poor lad lying on his left side in a ditch with a gunshot wound immediately behind the left ear, the brains protruding. The gun was lying beside him. He was quite dead, No one saw the accident, and how it was caused will never be known. It is thought that he must have been walking along a dyke, which forms a sort of breast-wall, and slipped, the gun going off he fell.
+
+The affair is one of the most lamentable that has ever happened in the district, and has cast a gloom over the whole place. The young gentleman’s brother officers arrived at Ardlamont House later in the day for the purpose of enjoying a few days’ shooting, and received a great shock on being informed that their friend was dead. Had Hamborough lived till he attained his majority he would have come in for a fortune of over a quarter of a million. He and Mr Morrison had just purchased the Ardlamont estate a week ago. The deceased lad's father and mother will arrive at Ardlamont today. 
+
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002525/18930819/131/0022
+Sporting Gazette - Saturday 19 August 1893
+
+THE COUNTY GENTLEMAN.
+
+The sad accident by which Mr. Hamborough, of Ardlamont, in carrying his gun over a fence on his Argyllshire shooting, lost his life, has come as a reminder to some careless gunners that even in these days of patent intercepting safety blocks, automatic ejectors, and hammerless central fires, it is wise to cultivate a wholesome fear of the reckless use of firearms. Young gunners particularly are too apt to treat their central fires as if they were harmless walking-sticks. Natural carelessness prevents them appreciating risks to their friends or to themselves ; and though loading and unloading has now become so exceedingly easy it never occurs to them to beware of unloading in dangerous places, where a slip or a stumble may send them and their gun rolling over together, or in placing their weapons aside during lunch to be careful to extract the cartridges beforehand. Improvements have taken away seventy-five per cent. of the risk of accidents undertaken by our grandfathers, but the risk remaining, small as it is, should not be increased by the recklessness of headlong gunners, who forget, or have never learned, the danger of treating a central-fire as if it were a plaything. Gun accidents on the whole now are very infrequent, but it is only by a due exercise of sportmanlike carefulness that they can be kept from increasing in number. 
+ 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000575/18930829/070/0005
+Aberdeen Press and Journal - Tuesday 29 August 1893
+
+THE ARDLAMONT SHOOTING FATALITY 
+
+According rumour pretty current in the Ardlament district, a new and startling development has taken place in regard the fatal shooting accident which occurred there nearly three weeks ago. It may be recalled that the story was that on the 10th of the present month Mr Hambro, the young gentleman, who had just attained his majority, was out shooting rabbits. It was said he was not proficient in handling a gun, and that while crossing a dyke his foot slipped, and the gun went off, all the contents lodging in his head. No one, however, seems to have been beside the unfortunate lad at the time, and it is now whispered that the gunshot wound did not appear to be such as an accident could account for. nor such as he could well have inflicted upon himself. The sheriff and a doctor and police officials visited the scene of the occurence on Saturday, and it is reported that the body of the deceased gentleman is to exhumed. It also appears that on the Tuesday prior to the accident young Hambro had a narrow escape from drowning. He was out boating, when the craft either sank or capsized. He was unable to swim, but was picked up by a gentleman who was fishing in the neighbourhood. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000060/18930829/020/0004
+
+Glasgow Herald - Tuesday 29 August 1893
+
+THE ARDLAMONT SHOOTING FATALITY.
+
+Yesterday Captain Fraser, chief-constable for Argyllshire; Mr MacNaughton, deputy-fiscal for the county; and a police official from Gourock visited Ardlamont, Kyles of Bute, with the view of making further investigations regarding the sad death of Lieutenant Windsor Cecil Dudley Hamborough, of the West Yorkshire Militia, who was shot dead while out rabbit-shooting on the Ardlamont Estate on the morning of the 1Oth inst. The young gentleman's death, together with many strange rumours regarding it which are current in the Ardlamornt district, has thrown the whole neighbourbood into a state of great excitement.
+
+It will be remembered that on the morning of the 10th inst. Mr Hamborough. went out about half-past six to shoot in a plantation close to Ardlamont House. He was accomipanied by Mr Alfred John Monson, his guardian, and Mr Edward Scott, an engineer, the latter going out with the intention of carrying the game. Both Mr Hanmborough and Mr Monson had guns. In going through the plantation they separated, and in a few minutes' time Mr Monson heard a shot fired. He called out te Mr Hamborough, askise what he had killed, but received no reply, Running in the direction from where the shot came, he was horrified to find the poor lad lying on his left side in a ditch with a gunshot wound immediately behind the left ear, the brains protruding.
+
+A new and startling development has taken place with regard to the tragic affair, inasmuch as Mr Scott has left. Inquiries are being made to ascertain his whereabouts, and it is hoped that, if found, he may be able to throw light on the mystery. It is said that Mr Hamborough was a novice with the gun, and that while going over a dyke his foot slipped and the gun went off. It is now rumnoured that the gunshot wound did not appear to be such as an accident of the kind could account for, nor such as he could have inflicted upon himself, the shot having entered the back of the left ear in a horizontal position. It is also rumoured that the company in which the deceased gentleman was insured had refused to pay the amount of the policy, but on inquiry we learn that up to the present time no claim has been lodged with the insurance company. The deceased gentleman had a narrow escape from drowning on the evening prior to his death. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930829/102/0005
+Glasgow Evening Post - Tuesday 29 August 1893
+
+THE ARDLAMONT SHOOTING CASE
+
+Extraordinary Developments.  
+Renewed Investigation the Police.  
+(*From Our Special Reporter.*)  
+TIGHNABRUAICH, Tuesday Morning.
+
+Within the past few days the Ardlamont shooting case, briefly commented upon by the newspapers a fortnight ago as an unfortunate accident presenting no suspicious features, has been magnified in the eyes the people of Ardlamont, Dunoon, Tighnabruaich, and the neighbourhood into something approaching a tragedy. This new, and so far, unjustifiably extravagant view of the case has been the result of certain unusual steps on the part of the police authorities of the County of Argyll, in which the affair occurred. It is but right say at the outset that up till last night no evidence had been brought forward satisfactorily discrediting the hypothesis first formed that Mr Hamborough, the unfortunate victim of the accident of 10th inst., was killed by the accidental discharge of his own gun. The Argyllshire police authorities, however, would appear to consider that they have got upon the track of a serious crime, judging from the extraordinary and elaborate investigations and experiments they have been making in the course of the past week. At the present moment the entire criminal administration of the county massed on Ardlamont. The Sheriff-Substitute of the county, Mr Campbell Shairp, along with the Procurator-Fiscal, J. C. M'Lullich, and his deputy, Mr Thomas M'Naughton from Inveraray, as well as the Chief Constable of the county, Mr Fraser, from Lochgilphead, proceeded to Tighnabruaich yesterday afternoon in order to make the third investigation into all the details of the unfortunate incident. The whole district is accordingly in a state of intense excitement regarding the ultimate outcome of these police measures, and the wildest rumours are prevalent.
+
+So briefly and so inaccurately was the affair of the 10th inst. reported that it may be well to give, even at this date,  
+A CORRECT AND FULL ACCOUNT  
+of it. At the outset is necessary to explain that the estate of Ardlamont is in the market for sale. It is an extensive and beautiful tract of country between Tighnabruaich and Lochfyne, and the passenger through the Kyles of Bute sees the southern extremity of it at the prominent portion of the northern mainland familiar as Ardlamont Point. The estate, according to the recent valuation, is worth about £82,000, and the upset price which it has been offered is £8O,OOO. A prospective purchaser of this old historic Cowal estate came forward last spring in the person of Mr Alfred John Monson, a Yorkshire gentleman, who now occupies the most unpleasant position of anyone involved in the shooting ease. He took the mansion house and shootings for the season as a temporary arrangement while the negotiations for the transfer of the estate were proceeding, and brought servants from England. A month or two later Mr Monson—who became very popular among the permanent officials and servants on the estate —was joined by a Mr Windsor Cecil Dudley Hamborough, a lieutenant in the 3rd Battalion West York Regiment (militia), whose "guardian" or trustee he was understood to be under the testament of a relative of Hamborough, who had left that gentleman a quarter of million of money. This money Mr Hamborough. who was 20 years of age, was to inherit on his majority. Mr Hamborough’s arrival gave a new phase to the negotiations for the purchase of the estate, the understanding come to being that the purchase was to be a joint arrangement between Mr Monson and him. So far had the negotiations gone in this direction that it is probable, but for the affair of the 10th inst, the title-deeds would have been signed before now. A small steam launch, the "Alert," was purchased, and Mr Hamborough engaged  
+A YOUNG MAN NAMED EDWARD SCOTT  
+as engineer. Scott is described as a very gentlemanly-looking Englishman, who came to Ardlamont on the 9th, was nearly all the time in the company of his employers, and was even privileged to dine with them. Beyond this, nothing is known about him at Ardlamont, and his sudden and inexplicable disappearance from the place within the past week has been one of the incidents which have set the police upon a new course of investigation.
+
+On the morning of Thursday, the 10th inst, Mr Monson and Mr Hamborough went out before breakfast to a small planting, near Ardlamont House, to shoot rabbits, and they were accompanied by Scott, who was to carry any game that might be killed. Scott had no gun. The guns which the two gentlemen carried were of different bores—one being a 12-bore and the other a 20. One rabbit only had been shot, and, to Monson's story, he was passing through the wood towards the house, on the opposite side of the wood from Mr Hamborough when he heard a shot fired. He cried out asking his fnend what he had got, and receiving no answer went in the direction in which he had heard the discharge, and found his friend lying dead beside a small embankment. The exact situation is within twenty yards of the high road, and beside the road are the stables of Ardlamont House, the house itself being only a few yards further off. Monson carried  
+HIS OWN GUN AND HIS FRIEND’S  
+into the house and got and a gardner and some others to remove the body there. The factor on the estate—Mr Steven—was called and Dr M'Millan, Tignabruaich, was sent for. The doctor, on examining the body, found a gunshot wound of between two and three inches wide behind the right ear. The wound, as would naturally happen in the case of a discharge of small shot at close range was pulpy and well-defined, and the face was untouched. Mortification ensued very rapdly, and whenever the deputy Procurator-Fiscal (Mr M'Naughton) had made the necessary formal examination of the body it was coffined and sent to the Isle of Ventnor (*sic*), Isle of Wight, for interment. Mr Steven, the factor, acting upon the instructions of the deceased’s father and mother, who were summoned to Ardlamont on Thursday night, accompanied the coffin to the Isle of Wight.
+
+The examination by the Deputy-Fiscal gave no substantial cause for doubting that an accident had happened in the manner suggested, although it was considered rather curious that a horizontal wound at the back of the right ear should have been caused by the accidental discharge of the victim's gun, the position necessary before such an occurrence could take place being a very improbable one. The explanation offered was that Mr Hamborough had been walking along the top of a dyke, carrying his gun at full cock, and had fallen off the dyke, with the result that the gun was discharged.
+
+All these facts were collected by Mr M’Naughton, the Deputy-Fiscal, who proceeded to Inverary on Monday to lay them before his chief previous to their being reported in the ordinary course to Crown counsel. The bald facts of the case were secured with difficulty by the local correspondents of the Glasgow newspapers, and several details which were altogether erroneous. The whole matter was then considered to be at end. Local sentiment, and  
+LOCAL IMAGINATION,  
+the latter always very strong agent among country communities where tragedies are rare, began, however, to invest the affair with sinister theories, and certain new facts transpired which gave wings to all sorts of rumours. In the first place, it was learned that Mr Hamborough instead of being a novice with the gun, as was first stated, was an expert marksman, who had been for years used to the handling of firearms. Then it transpired that within a few days previously he had narrowly escaped death twice—once by the discharge of his gun and once by a boating accident. To crown all, the Procurator-Fiscal appeared on the scene again prepared to make further investigation, and was surprised to find that Scott had disappeared, leaving no trace behind. He left Tignabruaich by the Columba on Saturday, 12th, giving his address to the police as the Central Hotel, Glasgow. At the Central Hotel no such person is known, and Mr Monson, the only one who could be expected to give a clue to Scott's whereabouts, professes himself absolutely ignorant of his antecedents or his present location. The guns at this stage evidently assumed a new interest for the police, for they were taken possession of and sent to Inverary, mainly, it is understood, because of  
+A GRAVE STATEMENT  
+by a gamekeeper on the estate as to the relative users of the two guns and the apparent bore of weapon which had inflicted the wound. Experiments with the two guns at various ranges have, we unbderstand, been made, The climax came, however, with the new fact which only canme to light last week, that the deceased's life was insured for £20,000 indirectly in favour of Mr Monson. Mr Monson, who was naturally very much affected by the lamentable occurrence of the 1Oth has within the past few days had the unpleasantness of his position intensified, for it understood that he is practically under police surveillance.
+
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18930829/060/0005
+Dundee Courier - Tuesday 29 August 1893
+
+A YOUNG MAN'S TRAGIC END.  
+INSURED FOR £10,000.  
+SINISTER RUMOURS.
+
+According to rumour pretty current in the Ardlamont district of Argyleshire, a new and startling development has taken place in regard to the fatal shooting accident which occurred there nearly three weeks ago. It may be recalled (*says the Glasgow Evening Citizen*) that the story was that on the 10th of the present month Mr Hambro, the young gentleman, who had just attained his majority, was out shooting rabbits. It was said he was not proficient in handling gun, and that while crossing a dyke his foot slipped and the gun went off, all the contents lodging in his head. No one, however, seems to have been beside the unfortunate lad at the time, and it is now whispered that the gunshot wound did not appear to be such as an accident could account for nor such as he could well have inflicted upon himself. Deceased is reported to have been insured in an American office for £10,000, and in view of the mysterious nature of his death the insurance company, it is said, has declined to pay up. Be that as it may, the Sheriff and a doctor and police official visited the scene of the occurrence on Saturday and it is reported that the body of the deceased gentleman is to be exhumed. It also appears that on the Tuesday prior to the accident Hambro had a narrow escape from drowning. He was out boating with two friends when the craft either sank through the plug coming out or capsized. While his companions could swim, he was unable to do so, but was picked up by a gentleman who was fishing in the neighbourhood—only, however, as it turned out, to meet with a still more violent death two days later. 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930830/166/0005
+Glasgow Evening Post - Wednesday 30 August 1893
+
+THE ARDLAMONT SHOOTING CASE.  
+Sensational Developments.  
+ARREST OF MR MONSON  
+His Removal to Inveraray-  
+Rumoured Arrest of Scott  
+(*From Our Own Reporter.*) 
+
+TIGNABRUAICH, Wednesday.—The excitement regarding the Ardlamont shooting case reached a climax this forenoon, when Mr Monson, the tenant of the estate, was arrested. Sheriff Shairp and the representatives of the criminal authorities for the county took an extraordinary number of precognitions yesterday, and the substance of these justified them in taking that important and grave step.
+
+The arrest was made in the morning, but it was done very quietly. The news, however, leaked out, and it was believed the prisoner would be at once taken to Inverary, a crowd gathered on the pier before eleven o’clock to await the arrival of the Lord of the Isles.
+
+At a quarter-past eleven on the pier were the Sheriff, the Chief Constable, the Fiscal, and the Fiscal-Depute. They at once went on board. Behind them came a little group of three men, and they hurriedly went through the crowd and made their way downstairs. The three wore plain clothes —Constables Ross and M'Lean, with the prisoner, Mr Monson, young man, dressed in a stylish navy blue suit, black felt hat, and black bow tie, who shunned the eyes turned upon him, and looked exceedingly embarrassed and haggard.
+
+The Columba happened this morning to get left behind by the Inverary steamer through calling at Kirn, and she arrived about five minuter behind the other. Mr Monson’s brother and Steven, the factor, were on board. The brother was thunderstruck on being informed by the local constable of what had taken place, and the steamer conveying his brother whom he had specially come to meet being but few hundred yards off.
+
+The village here remains in a state of surprise at the turn events have taken, more especially as it is rumoured that Scott has been taken into custody by the London police.
+
+Interviews on the Estate.  
+(*From Our Own Reporter.*)
+TIGHNABRUAICH, Wednesday Morning.  
+Following up the inquiry of yesterday, as fully reported in the *News*, I have interviewed a number of the persons upon whose evidence the action of the police authorities to a large degree depends ; and I have driven out to that portion of the estate where the incident of the 10th occurred. The police are naturally reticent, partly because they think it injudicious to confide too much in the reporters, but mainly because they have very little beyond incomplete theories to work upon. Scott’s disappearance is, they admit, greatly to be regretted. All that was done to keep track of him was to instruct the policeman at Tighnabruaich Pier to get his name and address as left the Columba, and though this was done, it was, as events have proved, a useless precaution. The most graphic and reliable account of the whole affair which I have yet got was from Steven, the acting factor on the Ardlamont estate. Mr Steven, who is a young man from Cathcart, is an acute and business like gentleman, popular with all the tenantry and employes on the estate. Residing within few hundred yards of Ardlamont House, he naturally came into daily contact with all the parties involved in this affair, and his services were particularly in request after the sad occurrence of the 10th. It is but fair to Mr Steven to say that had he been aware of the fact that his interviewer was a member of the press he would probably have been less free with his story, for the police have discouraged too much publicity in the meantime. "Mr Monson," he said, in answer to inquiries, "was the first one who, in response to advertisement in the papers, came here, and was followed sometime after by Hambrough. The statement that the estate was sold them made by some of the newspapers is untrue ;  
+TERMS HAD NOT BEEN COME TO.  
+Mr Monson is a quiet, good-natured gentleman, and so was Mr Hambrough. They were both temperate men, indeed Mr Hambrough was almost a teetotaler. So far as I saw all the party lived very harmoniously and agreeably together. The first time I saw Scott he was along with Mr Hambrough and Mr Monson, and I took him for one the party. On the morning of the 10th, when the three went out shooting they took a circuitous route round the estate coming back through the planting to the house in order to get breakfast. They were within twenty or thirty yards of being out of the wood when the shot was heard. Mr Hambrough was on the right side of the wood going toward the house, and Scott and Mr Monson were the opposite side of the wood. Hamurough’s left side was towards his friends, and he was shot in the right side. I was not near the wood at the time, but am certain I heard the shot fired. Shortly afterwards the gardener came to me and told me one of the gentlemen had shot himself in the planting. We took a cart and found that Monson and Scott had lifted the body from the ditch it is believed to have fallen into, and placed him on the bank above it.  
+I DID NOT SEE ANY GUNS  
+Mr Monson was said to have carried them into the house. The body was carried into the house, and M'Millan was sent for. Mr Monson was, naturally, in a terribly grieved condition. I went to Glasgow to order a coffin and make arrangements for the removal of the body to Ventnor, and when on my way back I was joined by the father and mother of the deceased, who were very much shocked at the sudden death of their son. My impression is that Mr Hambrough met his death in the way suggested, falling while his gun was full cock, and consequently receiving the shot in his head. He was, I believe, an expert with the gun ; at least all the men about here say so, and his father told me that he had since early youth been accustomed to handle firearms. I am afraid the Procurator Fiscal has been too hastily flying at  
+RASH CONCLUSIONS  
+in this matter. I speak from an intimate knowledge of all the facts and of all the parties. One thing, by the way, which seems to have passed unobserved that some of the scattered pellets from the fatal shot lodged in a tree beside which Mr Hambrough fell. The marks are plainly to be distinguished.
+
+Where does Mr Monson come from?
+
+I don’t know ; I have heard that he comes from Yorkshire, but can’t speak with any certainty. The arrangements for letting the place were made through our Edinburgh agents.
+
+And Mr Hambrough. where does he come from?
+
+He belonged to Yorkshire, but his family, so far as I can learn, is best known at Ventnor.
+
+What about the insurance on the life of the deceased, said have been assigned to Mr Monson ?
+
+Well, I have spoken to Mr Monson about that, and he has told me, and can prove, that the death of his friend means a considerable loss of money to him. I consider all the prevalent rumours as absurd."
+
+One of the men the estate, speaking evidently the sentiments of his fellow workmen, expressed the utmost sympathy with Mr Monson in his troubles. At the same time he animadverted strongly upon the conduct of the shooting party (augmented since the accident) which has not lost a single day’s sport on the hill since the sad event. I was anxious to see Monson and have an interview with him. but was informed that he was that moment away shooting. A somewhat  
+FORMAL DINNER PARTY  
+it is said, took place in the house on the evening on which the Depute-Procurator-Fiscal made his examination. It is hardly necessary to say that that gentleman did not avail himself of an invitation he got to be present. His examination was carried out under the most unpleasant conditions, for the usual dressings above the wound had slipped off, and besides the purely legal duties of Procurator-Fiscal. Mr M'Naugbton had to exercise those of another profession by putting lint dressings on the body himself. It is significant of the distressing effect the accident had upon both Mr Monson and Mr Scott that none of them could be prevailed upon to look at the body after it had been carried into the house.
+
+Since Monday the estate officials have prevented any unauthorised person visiting that portion the estate in which the accident occurred, but for the time being I found the rule relaxed, and drove from Tighnabruaich to the edge of the wood where Mr Hambrough was shot. It is round a corner from the factor’s house, and within sight of the mansion-house — the stables, indeed, as stated yssterday, being only a few yards from where Mr Hambrough’s body was found. The wood is mere planting.” much longer than it is broad, and, as there little brush in it, and the trees are fairly wide apart, one can see right through it. Mr Hambrough’s body when seen by the factor and workmen was on the extreme edge of the wood, beside a moss-covered or drystone dyke, or rather embankment, which dips a few feet into an adjoining field. Scott said they found Mr Hambrough in the field, and lifted him up on to the bank. As is the custom among Highlanders, the workmen on the estate have already piled a smail cairn of stones at the spot.
+
+SCOTT’S DISAPPEARANCE  
+was in no way covert, it should be understood. He told several people that as he would not be needed any longer for the "Alert" he would go. He was, according to his first plan, to go away at two o'clock in the afternoon, but as some further information was wanted from him, he remained for the Columba at 2.45. Mr Steven, the factor, drove him in his gig to Tighnabruaich Pier. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000321/18930831/019/0003
+
+Nottingham Evening Post - Thursday 31 August 1893
+
+THE ARDLAMONT MYSTERY.
+Mr. Alfred Monson was brought before the Sheriff at Court House to-day. The proceedings were private, but it is understood that Mr. Monson sticks circumstantially to the account already given by him of what he knew of the tragic death of Mr. Hambrough on the 10th inst. Mr Monson is the third son of the late Rev. Monson, Rector of Kirkby-under-Dale, Yorkshire, his mother being a daughter of the fifth Viscount Galway.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18930831/006/0002
+Dundee Evening Telegraph - Thursday 31 August 1893
+
+THE ARDLAMONT MYSTERY.  
+DECLARATION BY THE PRISONER.
+
+Mr Monson mads declaration to-day before Sheriff Shairp at Inveraray. The examination was of course conducted in private; but, it is understood, that Mr Monson sticks substantially by his former account of the affair of the 10th inst.
+
+MR HAMBROGH AND MR MONSON.
+
+As erroneous statements have been put in currency as to the connection of the two principal parties in this lamentable tragedy, the following particulars, taken from an authoritative source, says the *N. B. Mail*, may be given :—
+
+Windsor Dudley Cecil Hambrough was the eldest son of Dudley Albert Hambrough Esq., Steephill Castle, Isle of Wight He was born 1873, and would have attained his majority early next year. He was lieutenant in the 4th Battalion Prince of Wales’ Own Yorkshire Regiment. Lieutenant Hambrough's father is a J.P. for Hants, and the patron of two livings, and resides principally at Houghton, Stookbridge.
+
+Alfred John Monson is the third son of the late Rev. Thomas John Monson, rector of Kirby-under-Dale, Yorkshire, his mother being a daughter the fifth Viscount Galway. He was born in May, 1860, and is thus in his 34th year. Mr Monson is a member of the family which Viscount Oxenbridge, the Master of the Horse, is the head, his grandfather, the Hon. and Rev. Thomas Monson. rector of Bedale, having been a son of the second Baron Monson, and the granduncle of the present Peer.
+
+ANOTHER INSURANCE PROPOSAL.
+
+A Rothesay correspondent telegraphs:—It may be stated that Dr Lawson. Rothesay, received a communication on 25th July from the head office of the Royal Insurance Company, Liverpool, stating that Lieutenant Windsor Dudley Cecil Hambrough, who, it was said, was then residing in Rothesay, would call for medical examination with reference to insurance. The young gentleman, however, did not call. He was said to be 21 years of age and resided at Risely Hall, Ripley, Yorkshire.
+
+NOTES AND INCIDENTS.
+
+The case, to which the arrest has imparted a complexion which it did not seem to bear at first, seems, says the *Glasgow Herald*, more peculiar the more it is inquired into. For obvious reasons it would be injudicious at the present time publish all the circumstances connected with it. There has been a good deal of comment on the fact that Mr Hambrough was rescued from a perilous position not many hours before he lost his life by shooting. At dusk on the evening of the 9th instant he went out sea-fishing in a boat with Mr Monson at Ardlamont Point. The boat struck on a rock and filled with water. Hambrough could not swim, but his companion could do so, and he went ashore for aid, returning with another boat in which he took his ward to land. Both men arrived at Ardlamont House at two o’clock in the morning, drenched to the skin, and Hambrough in particular very much exhausted. In spite of this they were early astir, and were out shooting as early as six o'clock. As an explanation of the reason why they were so soon about, Mr Monson that his wife and family, who were residing with him at Ardlamont, had occasion to visit Glasgow that day, and that as he had to be up at any rate to see them off he thought might as well put in the morning rabbit shooting with his ward. An hour and half after they set out Mr Hambrough was lying dead, shot in the back of the head. The gardener and the joiner who are employed on the estate were summoned, and they carried the body into the mansion-house, where it was seen two hours afterwards by Dr Macmillan, from Tighnabruaich. He wrote a report on the case, stating that death had resulted from a gunshot wound, and gave it as his opinion that it might have been caused by Mr Hambrough getting over the wall where his body was found holding his gun incautiously in his hand. This report, it may be explained, was granted on the assumption that the young gentleman had been using a short 20-bore sporting gun. It was subsequently ascertained, however, that his gun was a long 12-bore. In reference to this, Mr Monson said that they had exchanged guns when they were out. They had really wished to test a new sporting powder, known as amberite, and finding that they had no cartridges that morning which would suit Hambrough’s gun they effected the exchange. In view of the fact referred to, Dr Macmillan at once withdrew his report and certificate from the Procurator-Fiscal, and also from the officials of American Insurance Company who had insured Mr Hambrough's life before his death for £20,000. At the time of the tragedy young Hambrough was in his twenty-first year, and it is believed there was an uncompleted document in existence which had been written with the object assigning the policy to Mr Monson.
+
+A SINISTER FACT.
+
+In the hurry and bustle incidental to so sad a tragedy it is not strange that some minor matters should have escaped attention at the time. About six yards distant from the place where Hambrough’s feet were there is a small tree growing, and a careful examination of the bark about the height of a man's head shows a number pellet marks. The young man's head was not disfigured by the scorching or burning of gunpowder. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18930831/036/0003
+Dundee Courier - Thursday 31 August 1893
+
+THE ARDLAMONT MYSTERY.  
+ARREST OF MONSON.  
+HIS WARD'S BODY TO BE EXHUMED.  
+THE MISSING MAN SCOTT.  
+RUMOURED ARREST IN LONDON.  
+EXCITEMENT IN THE DISTRICT.
+
+Yesterday morning Mr Alfred Henry Monson, the tenant of the Ardlamont estate, Argyllshire, was arrested in connection with the death of his ward, Windsor Dudley Cecil Hambrough, by shooting, on the 10th of this month, full particulars of which were given in yesterday's *Courier*. The arrest was effected very quietly at seven o'clock in the moi on the public road leading to Ardlamont House >y Chief Constable Eraser. When about five miles out from Tighnabruaich, and within two miles Ardlamont House, met driving in a pony trap with guest who was going awav the Glasgow and South-Western steamer Neptune for Prince's Pier, Greenock. Seated at the back of Mr Monson's machine was a police officer, Sergeant Ross, of Lochgilpheau, who been shadowing him since Monday night. When Captain Fraser met the party he intimated that he had some business with throwing the reins to his friend, told him to on and leave the horse and machine the village. Mr Monson, apparently thinking that the liiei Constable was going straight the house, off his own trap and jumped on Captain Fraser's trap, and was followed by Sergeant Ross. Having got his man safely on board, Captain Fraser then turned the horse's head towards Tighnabruaich, and was told that he might consider himself his prisoner for having caused the death his friend, Hambrough. Monson, although taken by surprise by the suddenness of his arrest, took the matter very coolly. The prisoner was conveyed the Royal Hotel at Tighnabruiach, the party being met by the road Sheriff and the Fiscals, who were going out to the scene of the fatality to make some further inquiries bofore leaving the neighbourhood. The prisoner was removed to Inveraray by the Lord of the Isles. Monson is yonngish-looking man. His age is 35. He is middle height and fair complexion, and has a cleanshaven face, sharp features, and a rather prominent nose, which is slightly twisted to one side. At Crarae Mr M'Laclilan, writer, Lochgilphead, joined the Lord of the Isles, and proceeded with the prisoner to Inveraray. Mr M'Lachlan is act the prisoner's defence. telegraphed him before leaving Tighnabruaich.
+
+BODY TO EXHUMED.
+
+In view of the developments in the case, the body of Hambrough, which was taken England for interment, is to be exhumed.
+
+COULD THE INSURANCE POLICY BE ASSIGNED ?
+
+As has been already stated, the deceased gentleman about ten days before his death effected insurance for £20,000 with the Mutual Life Assurance Society of New York. The policy, however, having to come from New York, had never reached him, and could not, therefoie, have beon assigned to any one, whatever the intention may have been. Regarding the alleged assignation of the insurance policy on Hambrough's life to Monson, our representative was yesterday told that Monson's own explanation of the matter that the police was in course of being assigned to him, but that the assignment was not the date of Hambrough's death.
+
+THE NATURE OF THE EVIDENCE.
+
+The evidence in possession of the authorities believed, so far, to be circumstantial. Special points which are being investigated are the probable elevation at which the gun went off, and the kind of shot with which was loaded. It is reported that some of the pellets lodged in the trunk of a tree near at hand about a man s height.
+
+THE MISSING MAN SCOTT.
+
+Edward Scott, the man who is wanted by the police, is 28 years of age, between 5 ft. 9 in. and 5 ft. 10 in. in height. He has a sallow complexion, small dark moustachios, steel grey eyes, and carries his head erect, but there is nothing peculiar ia his gait. At the time he was last seen he wore a dark blue cloth coat and waistcoat and dark grey trousers. It is understood that Monson has given information to the police to the effect that he has heard from Scott since lie left Tighnabruaich, and that he believes that he is at present in London. When Scott was leaving Tighnabruich on the evening of the Saturday when young Hambrough was shot the local policeman, Duncan M'Calman, in view of the fact that the inquiry had not been completed, with commendable official sagacity, advised him not to go away, but as he had not a warrant he could not, of course, detain him, and Scott accordingly went on board the boat.
+
+THE BOATING ACCIDENT.
+
+There has been lot of talk here during the past day or two about the boating and the shooting accident occurring on the some morning within such short time of each other, the accident on the loch happening half-past one, and the fatal shooting affair at half-past seven. The explanation given of that is that Mrs Monson and her family, three in number, required to go Glasgow by the early morning boat, and that the family had all to be up very early in consequence. He also got Hambrough up, and, when his wife and family had gone, the three men (Scott, it will be recollected, being with them) went out shooting. When the body was found the men got the gardener and joiner on the estate, and they, with young Lyon, the farmer's son, removed the remains into the mansion house.
+
+THE DOCTOR'S STATEMENT.
+
+Dr M'Millan, of Tighnabruaich, who examined Hambrough's body, granted a report in which he certified that death had resulted from gunshot wound, and it is further said that he led it be understood that he was perfectly satisfied that the death had been an accidental one. On that account the inquiry was the meantime stayed, only to be resumed on Thursday last more extended scale in consequence of rumoursi having got abroad that there had been foul play the matter. Monson's arrest is believed to have been made under instructions from the Crown Counsel. It is now stated that Dr M'Millan withdrew his first report and certified that the accident had not occurred in the way he had at first supposed.
+
+MONSON BEFORE THE SHERIFF.
+
+Monson was brought before Sheriff-Substitute yesterday afternoon for emitting declaration. On the motion, however, of his agent, Mr M'Lachlan, the examination was adjourned till this forenoon eleven o'clock, to admit the prisoner's Edinburgh agent, Mr Davidson Syme, Castle Street, being present.
+
+ARREST OF SCOTT.
+
+Mr Monson's brother, and Steven, the factor, arrived at Tignabruaich just after the Lord of the Isles had sailed for Inveraray with Mr Monson, a prisoner, on board. The brother was thunderstruck on being informed by the local constable of what had taken place, and the steamer conveying his brother, whom had specially come to meet, being but a few hundred yards off. The excitement in Tignabruaich was intensified yesterday by a rumour that Scott had been taken into custody the London police. 
+
+---
+
+To skip to the end, a summary of what followed is provided in the introduction to a report of the court proceedings, published as part of a series of notable Scottish trials, in 1908:
+
+```{admonition} *Trial of A.J. Monson*, ed. John W. More, 1908 
+:class: dropdown
+
+In *Trial of A.J. Monson*, ed. John W. More, 1908, [pp.1-8](https://archive.org/details/trialofajmonson00mons):
 
 INTRODUCTION.
 
@@ -71,34 +323,9 @@ The Lord Justice-Clerk, in his careful and exhaustive charge to the jury, gave d
 
 An echo of the case was heard in May of the following year, when the mysterious Scott appeared in an Edinburgh music-hall as part of a conjurer's equipment, and during his stay in Edinburgh petitioned the High Court of Justiciary to recall the sentences of outlawry against him, which was done, the Crown putting in no appearance against him. 
 
-etc
+```
 
 
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18930812/009/0002
-
-Dundee Evening Telegraph - Saturday 12 August 1893
-
-YOUNG GENTLEMAN SHOT DEAD IN BUTE.
-
-A sad shooting fatality happened on Thursday the estate Ardlament, some distance from Tighnabruaich. Mr Hambro *[sic]*, a young gentleman of 23 years, who is believed to have been a banker in America, and who was joint-tenant of the Ardlamont shootings along with Mr Monson, was shot dead while out shooting rabbits. The young gentleman was crossing dyke with his loaded gun, which he was carrying under his arm at full-cock. It is supposed that the trigger was caught bv the bushes, and this, it is believed, caused the gun accidentally to go off. The charge lodged in the unfortunate gentleman's head, and he was killed on the spot. His friends coming up immediately afterwards were too late to render any assistance. The body was removed to House, which is at present in the possession of the shooting tenants. The sad occurrence has cast a gloom over the district. Mr Hambro hod been staying at Ardlamout with his friend Mr Monson during the past three or four weeks.
-
-The death of young Mr Hambrough, says the *N.B. Mail*, at Ardlament is singalany sad. He seemed to be one of " Fortune's children," with a life of happiness and ease before him. Had he lived till April next he would have attained his majority and inherited a fortune of about a quarter of a million, some £70,000 of which would probably have been devoted to the purchase of the Ardlamont estate, to which he had taken a strong liking since he became the shooting tenant a few months ago. Mr Hambro was a well-built, handsome young fellow, and his simple, frank, and courteous manners had already won him many friends in the district. 
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18930819/084/0002
-
-Portsmouth Evening News - Saturday 19 August 1893
-
-Births, Marriages & Deaths
-
-...
-
-HAMBROUGH. On the 10th inst., at Ardlamont House, Argyllshire, from a gun accident, W. D. C. Hambrough, Lieut. 3rd Batt. West Yorkshire Regiment, eldest son of D. A. Hambrough, late of Steephill Castle, Ventnor, I.W., in his 21st year. 
-
-...
 
 
 ---
@@ -123,7 +350,7 @@ Mr Monson is meantime living comfortably, if not luxuriously, at his own expense
 
 APPLICATION TO HOME SECRETARY.
 
-The criminal authorities are preparing precognitions to be laid before Crown counsel. An application has been made to the Home Secretary for authority to exhume the remains of the young gentleman who is alleged have been murdered. Mr Hambrough's body was buried in the Isle of Wight in the family burial-ground there, and an official from Inveraray will go through to the Isle Wight to superintend the exhuming and examination the remains. From hints which have been dropped since Monson’s arrest, it is believed that, if the case goes to trial at all, the evidence will be of a rather sensational nature. It is now stated that Monson was not Hambrough’e legal guaidiau all, but only his tutor.
+The criminal authorities are preparing precognitions to be laid before Crown counsel. An application has been made to the Home Secretary for authority to exhume the remains of the young gentleman who is alleged have been murdered. Mr Hambrough's body was buried in the Isle of Wight in the family burial-ground there, and an official from Inveraray will go through to the Isle Wight to superintend the exhuming and examination the remains. From hints which have been dropped since Monson’s arrest, it is believed that, if the case goes to trial at all, the evidence will be of a rather sensational nature. It is now stated that Monson was not Hambrough's legal guaidiau all, but only his tutor.
 
 WARRANT TOR ARREST.
 
@@ -145,19 +372,36 @@ And for the best of all reasons — it had not been received from the head offic
 
 
 ---
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000275/18930905/019/0003?browse=true
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000275/18930905/019/0003
 
 Sheffield Evening Telegraph - Tuesday 05 September 1893
 
+THE SCOTCH SHOOTING CASE
 
+EXHUMATION OF LIEUT. HAMBROUGH'S BODY.  
 
-... TO DO
+OPINION AS TO THE WOUNDS.
 
-THE TREND OF THE EVIDENCE. WHAT THE PHOTOGRAPHS WILL PROVE.
+HIS INSURANCE POLICIES.
 
-The Press Association's Ventnor correspondent, telegraphing this morning, states that Professor Littlejohn's testimony regarding the death of Lieut. Hambrough will be altogether opposed to the theory that he lost his life through accident
+A Ventnor correspondent, telegraphing last night, says: —The body if Lietenant Windsor Cecil Dudley was exhumed this afternoon Ventnor, in the presence of an immense crowd of spectators. Early in the day communication had been received by the Rev. J. Hall Smith, Vicar of St. Catherine's, the Mother Church, from the Lord Advocate, to the effect that the application to tha Home Secretary for order to exhume the body had been successful, and that the gentlemen having the matter in hand behalf the Government would arrive at Ventnor at three o'clock in the afternoon with full power to remove the body. The deceased, like his father, was well known at Ventnor, and when Major arrived the London train shortly before four o'clock, met with many expressions of sympathy. It is stated that he was at the Home Office on Sunday from eleven till seven o'clock with his legal advisers. In an interview this afternoon Major Hambrough, while remarking that he was unable to make any statement at the present time, being in a sense in the hands of the police, said that it was fact that two policies had been effected on his son's life  
+EACH FOR TEN THOUSAND POUNDS  
+and that a few daya before the death of his son they were both assigned to Mrs. Monson, not to the prisoner. There came over by the train already mentioned Mr. J. C. MacCulloch, of Inverary, Procurator Fiscal. Mr. MacNaughten, Deputy-Procurator Fiscal of Argyleshire, also arrived, accompanied by Dr. Littlejohn, of Edinburgh, and Dr. McMillan, who first examined the deceased. Dr. Sanders, of Edinburgh, came the same train to be present at the examination on behalf of the prisoner Monson. They drove to the Royal Marine Hotel. A messenger was immediately sent for the vicar, who proceeded to the hotel and signed the order of the Secretary of State placing the churchyard at the disposal of the Procurator Fiscal and his party. The opening of the grave was immediately proceeded with in the presence of Mr. MacNaughten and the Deputy Chief Constable Gibson, who, with a staff of police, kept the public outside the graveyard. It was intended to examine the body in the mortuary, but this was found to be too confined for such an operation, and it was taken out again and placed upon a bier in the cemetery yard. Removed from the case in which it was enclosed within the oak coffin, it was examined in the open and identified.
 
-...  TO DO
+Immediately the lead inside coffin was opened the body was identified by one or two who knew Lieutenant Hambrough quite well. The body was greatly decomposed. The examination lasted over two hours, and was not completed before darkness set in. Photographs of wounds in the head of the deceased were taken in several aspects. Photograpbs were also obtained of internal sections of the scull. Major Hambrough was present at the cemetery, and watched the proceedings from a distance.  
+HE WAS DEEPLY AGITATED.  
+After the examination the body was again placed in the coffins, which were sealed and screwed down. The re-interment, which took place about ten o'clock, was unaccompanied by any ceremony. The legal and medical officials conducting the investigation were extremely reticent as to the result of the post-mortem, but sufficient was permitted to leak out to favour the conviction that the wound was not self-inflicted. Several pellets were found in the head, and it was demonstrated that the shots entered the head from the back and passed out behind the ear, a portion of which was carried away. All the medical gentlemen were, it is understood, perfectly satisfied that there was singeing of the hair or skin around the wound, which leads to the belief that the instrument of death could not have been in the hands of the unfortunate young gentleman. The body was formally identified on the coffins being opened by Dr. McMillan and Mr. MacNaughten. Major Hambrough was not asked to perform this painful duty. The gentleman who accompanied Mr. Monson on the occasion of the funeral waa not the the missing Mr. Scott, but Mr. Stevens, the factor of the Ardlamont Estate.
+
+The Hambrough family trace their descent back to 1670.  Steephill Castle is erected on the sight of a rustic thatched villa, built about 1700 by the Right Hon. Hans Stanley, when Governor of the island, and a later period inhabited by an Earl of Dysart. The structure was commenced by J. Hambrough in 1833, and completed in two years. It was designed by Sanderson, the architext of the Ryde Town-hall. The mansion, situated about half a mile from Ventnor, is an imitation of the baronial castles of the reign of Stephen. In the grounds, some seventy or eighty acres in extent, there is an historic well dedicated to St. Lawrence, and a short distance further on the village of St. Lawrence, the parish of which consists of a strip of land extending about a mile and a half along the seashore. A few years ago the estate was in the books of a Piccadilly agent, the upset price being £30,000.
+
+The question arises  
+WHETHER ANYONE WITNESSED THE FATALITY.  
+The prisoner states that he and Scott were amongst the trees of larger growth, out of sight, the one carrying the 20-bore gun and the other a few rabbits. They heard a shot fired, and rushing forward to see what success had attended the shot, they found Mr. Hambrough lying dead. But a third person heard the shot, a gentleman who occupied the neighbouring schoolhouse for the month. The next thing he heard was that a fatality had occurred. He has been interviewed by the authorities, since which he has gone home, and the house again tenanted by the schoolmistress. Mr. Monson regards this stranger a witness in his favour, and his address is retained. With regard to Mr. Scott, Mr. Monson only knew him for a few hours. The prisoner asserts this himself.
+
+THE TREND OF THE EVIDENCE.  
+WHAT THE PHOTOGRAPHS WILL PROVE.
+
+The Press Association's Ventnor correspondent, telegraphing this morning, states that Professor Littlejohn's testimony regarding the death of Lieut. Hambrough will be altogether opposed to the theory that he lost his life through an accident. In addition to the absence of singeing of the hair, it is regarded as a significant fact that no wadding from the cartridge was found in the head, photographs of which have been taken in six different positions. The party which attended the exhumation left Ventnor this morning for Glasgow, and will proceed thence to Inverary, to attend the hearing of the charge against Monson, which will be resumed on Friday next. 
 
 EXPLAINING THE ARDLAMONT MYSTERY.
 
@@ -165,7 +409,6 @@ TRAGIC SHOOTTNG ACCIDENT.
 
 The Press Association's Lymington correspondent telegraphs.— A tragically shocking affair occurred this morning at Wallhampton. Henry Card, a gamekeeper in the employ of Mr. J. W. Heseltine was talking with the landlord of the local public house, when the conversation turned upon the Ardlamont shooting mystery. Card insisted that it was possible that Mr. Hamborough's injuries were self-inflicted, and in order to demonstrate this he took up his gun, placed it behind his back with one hand, and reaching down the other hand, pulled the trigger. The gun happened to be loaded, and Card blew the top of his skull off. He is not dead yet, but the doctors state that it will be impossible for him to recover. 
 
-... TO DO
 
 
 ---
