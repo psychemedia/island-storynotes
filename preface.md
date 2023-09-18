@@ -1,6 +1,6 @@
 # Preface
 
-This living collection gathers together story notes and research relating to various tales and legends relating to the Isle of Wight.
+This living collection gathers together story notes and research relating to various tales and legends relating to the Isle of Wight. The notes are there to support traditional storytelling, rather than being a stepping stone to a  print work. If you would like to hear any of this tales, told in a traditional way, from the heart, rather than the head, please get in touch.
 
 The source material is compiled, wherever possible, from archived, out of print works.
 
