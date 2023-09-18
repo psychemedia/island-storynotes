@@ -173,7 +173,7 @@ Then the wolf was very angry indeed, and declared *would* eat up the little pig,
 Jacobs' also provides some source notes:
 
 ```{admonition} Jacobs, Notes on "The Three Little Pigs"
-:class: dropdown
+:class: dropdown seealso
 
 *Source*, — Halliwell, p. 16.
 
