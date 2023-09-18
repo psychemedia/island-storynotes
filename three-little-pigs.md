@@ -175,7 +175,7 @@ Jacobs' also provides some source notes:
 
 ```
 
-A more simplistic and childish variant appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, the and there is no mention of Shanklin or other local Island features:
+A more simplistic and childish variant appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, the pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, and there is no mention of Shanklin or other local Island features:
 
 ```{admonition} *The Three Little Pigs*, Lang, 1892
 :class: dropdown
