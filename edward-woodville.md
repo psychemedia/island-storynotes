@@ -4,9 +4,9 @@ Back in the days of old, back when I was still at school, in the West Riding of 
 
 As an Island resident, popular history perhaps includes the second world war tales of the Pluto pipes, the "pipeline under the ocean" intended to supply fuel to the British and American forces on their return to mainland Europe following the Normandy landings; or the failed attempts by King Charles I, imprisoned in 1647 during the English Civl War, to escape from Carisbrooke Castle.
 
-And it is perhaps surprising that more isn't made of the tale of King Harold camping not far Brading Haven, back when the harbour still extended to Brading, in the months before the 1066 invasion, as he waited for the invading forces to land somewhere along the coast earlier in the year is not more widely spoken of.
+Given that 1066 is one of the more memorable dates of British history, I also find it surprising that more isn't made of the tale of King Harold camping not far Brading Haven, back when the harbour still extended to Brading, in the months before the 1066 invasion, as he waited for the invading forces to land somewhere along the coast earlier in the year isn't more widely spoken of.
 
-Or of the fabulously wealthy Bishop Odo of Bayeux, half-brother of William the Conqueror, and unofficial regent when William was out of the country, and of whom many stories could be told, including the stripping of his position as the Earl of Kent at Carisbrooke castle by the king himself, after the king had heard tell that Odo was aspiring to become Pope.
+Or from around the same time, tales of the fabulously wealthy Bishop Odo of Bayeux, half-brother of William the Conqueror, and unofficial regent when William was out of the country, about whom many stories could be told, with island relevance: such as the stripping of his position as the Earl of Kent at Carisbrooke castle by the king himself, after the king had heard tell that Odo was aspiring to become Pope, or the legend of Odo's gold...
 
 But this story is not those stories, although it is a story of another Lord of Carisbrooke Castle, and Captain of the Island: Sir Edward Woodville.
 
@@ -14,13 +14,17 @@ I'm sure you've all heard of him? From the later 1400s, the time of the War of t
 
 If not, you'll have heard of his sister. Or at least, her sons, Edward's nephews: the Princes in the Tower, killed by Richard III to shore up his claim to throne.
 
-In fact, many of the Woodville family had interesting tales to tell: let's start with Edward Woodville's mother, Jacquetta. She was the sister-in-law of Henry V, and and aunt of Henry VI, the last King of the House of *Lancaster*. When her husband, the Duke of Bedford (Henry IV's brother) died, Jacquetta, still aged only 21, remarried one of her husband's knights, Richard Woodville, Edward's father. Edward's aforementioned sister, Elizabeth, whose first marriage ended with the untimely death of *her* husband, who had been a supporter of the House of Lancaster. But then she secretly married the *York*ist King Edward IV. As well as being mother to "the Princes in the Tower", Elizabeth had had several other notable children, not least the short lived King Edward V, and a daughter called Elizabeth.
+In fact, many of the Woodville family had interesting tales to tell: let's start with Edward Woodville's mother, Jacquetta. Her brother-in-law, from the House of *Lancaster*, was Henry V, and her nephew Henry VI, also of *Lancaster*.
 
-That Elizabeth, Edward's niece, Elizabeth *of York*, went on to marry the *Lancastrian* and first of the Tudors, Henry Tudor, which is to say, Henry VII.
+When her husband, the Duke of Bedford (Henry IV's brother) died, Jacquetta, still aged only 21, remarried one of her husband's knights, Richard Woodville, Edward's father.
 
-So this makes Edward's mother the sister-in-law of a Lancastrian King, and his sister the wife of a Yorkist King and the mother-in-law of a Lancastrian one.
+Edward's aforementioned sister, Elizabeth, whose first marriage ended with the untimely death of *her* husband, who had been a supporter of the House of Lancaster. But then she secretly married the *York*ist King Edward IV. As well as being mother to "the Princes in the Tower", Elizabeth had had several other notable children, not least the short lived King Edward V, and a daughter called Elizabeth.
 
-Needless to say, it also means that Edward's niece had an interesting family story, being the daughter of Edward IV, the sister of Edward V, the niece of Richard III, and, incidentally, the mother of two queens by marriage: Margaret, Queen of Scotland, and Mary, Queen of France; she was also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
+That Elizabeth, Edward's niece, Elizabeth *of York*, went on to marry the first of the *Tudors*, Henry Tudor, which is to say, Henry VII.
+
+So looking sideways across three generaterions, this makes Edward's mother the sister-in-law of a Lancastrian King, and his sister the wife of a Yorkist King and the mother-in-law of a Tudor one.
+
+Needless to say, it also means that Edward's niece had an interesting family story. Not only was she the daughter of Edward IV (York), she was also the sister of Edward V (York), the niece of Richard III (York), and, incidentally, by virtue of her marriage to Henry VII (Tudor), the mother of two queens: Margaret, Queen of Scotland, and Mary, Queen of France; she was also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
 
 But this story isn't about them. It's about Edward.
 
@@ -28,7 +32,7 @@ Edward: one time drinking buddy of the King Edward IV and now called up to court
 
 France was laying claim to Brittany, and with a threat of invasion, the Bretons sought the help of the King of England. In a master stroke of diplomacy, Henry, who perhaps owed both sides his allegiance, had been given the role of mediator, but now the Bretons explicitly asked for his help.
 
-"No can do" he said, although we might perhaps imagine the language he used was very particular, very Johnsonian... "No one from this island, of which I am sovereign, and upon which I now stand will help you" perhaps? Listening closely, a long time ally of Brittany, is Edward Woodville. Edward Woodville, Captain of the Isle of Wight.
+"No can do" he said, although we might perhaps imagine the language he used was very particular, very Johnsonian... "No one from *this* island, *this island of __Britain__*, of which I am sovereign, and *upon which I now stand* will help you" perhaps? Listening closely, a long time ally of Brittany, is Edward Woodville. Edward Woodville, Captain of the Isle of Wight. An island just a short hop away from what some locals still today call "the big Island".
 
 Woodville pleads with the King, but the King has spoken. And so, Edward returns home, across the Solent. To another island. Accompanied by the two Breton ambassadors.
 
