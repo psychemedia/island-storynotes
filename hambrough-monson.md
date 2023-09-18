@@ -82,30 +82,40 @@ The sad accident by which Mr. Hamborough, of Ardlamont, in carrying his gun over
 
 ```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000575/18930829/070/0005
-Aberdeen Press and Journal - Tuesday 29 August 1893
+A couple of weeks later, however, and rumours were starting to circulate:
+
+```{admonition} *THE ARDLAMONT SHOOTING FATALITY*, Aberdeen Press and Journal, Tuesday 29 August 1893
+:class: dropdown
+
+In *Aberdeen Press and Journal*, Tuesday 29 August 1893, [p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000575/18930829/070/0005):
 
 THE ARDLAMONT SHOOTING FATALITY 
 
-According rumour pretty current in the Ardlament district, a new and startling development has taken place in regard the fatal shooting accident which occurred there nearly three weeks ago. It may be recalled that the story was that on the 10th of the present month Mr Hambro, the young gentleman, who had just attained his majority, was out shooting rabbits. It was said he was not proficient in handling a gun, and that while crossing a dyke his foot slipped, and the gun went off, all the contents lodging in his head. No one, however, seems to have been beside the unfortunate lad at the time, and it is now whispered that the gunshot wound did not appear to be such as an accident could account for. nor such as he could well have inflicted upon himself. The sheriff and a doctor and police officials visited the scene of the occurence on Saturday, and it is reported that the body of the deceased gentleman is to exhumed. It also appears that on the Tuesday prior to the accident young Hambro had a narrow escape from drowning. He was out boating, when the craft either sank or capsized. He was unable to swim, but was picked up by a gentleman who was fishing in the neighbourhood. 
+According to rumour pretty current in the Ardlament district, a new and startling development has taken place in regard the fatal shooting accident which occurred there nearly three weeks ago. It may be recalled that the story was that on the 10th of the present month Mr Hambro, the young gentleman, who had just attained his majority, was out shooting rabbits. It was said he was not proficient in handling a gun, and that while crossing a dyke his foot slipped, and the gun went off, all the contents lodging in his head. No one, however, seems to have been beside the unfortunate lad at the time, and it is now whispered that the gunshot wound did not appear to be such as an accident could account for. nor such as he could well have inflicted upon himself. The sheriff and a doctor and police officials visited the scene of the occurence on Saturday, and it is reported that the body of the deceased gentleman is to exhumed. It also appears that on the Tuesday prior to the accident young Hambro had a narrow escape from drowning. He was out boating, when the craft either sank or capsized. He was unable to swim, but was picked up by a gentleman who was fishing in the neighbourhood. 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000060/18930829/020/0004
+```
 
-Glasgow Herald - Tuesday 29 August 1893
+```{admonotion} *THE ARDLAMONT SHOOTING FATALITY*, Glasgow Herald, Tuesday 29 August 1893
+:class: dropdown
+
+In *Glasgow Herald*, Tuesday 29 August 1893, [p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000060/18930829/020/0004):
 
 THE ARDLAMONT SHOOTING FATALITY.
 
-Yesterday Captain Fraser, chief-constable for Argyllshire; Mr MacNaughton, deputy-fiscal for the county; and a police official from Gourock visited Ardlamont, Kyles of Bute, with the view of making further investigations regarding the sad death of Lieutenant Windsor Cecil Dudley Hamborough, of the West Yorkshire Militia, who was shot dead while out rabbit-shooting on the Ardlamont Estate on the morning of the 1Oth inst. The young gentleman's death, together with many strange rumours regarding it which are current in the Ardlamornt district, has thrown the whole neighbourbood into a state of great excitement.
+Yesterday Captain Fraser, chief-constable for Argyllshire; Mr MacNaughton, deputy-fiscal for the county; and a police official from Gourock visited Ardlamont, Kyles of Bute, with the view of making further investigations regarding the sad death of Lieutenant Windsor Cecil Dudley Hamborough, of the West Yorkshire Militia, who was shot dead while out rabbit-shooting on the Ardlamont Estate on the morning of the 1Oth inst. The young gentleman's death, together with many strange rumours regarding it which are current in the Ardlamont district, has thrown the whole neighbourbood into a state of great excitement.
 
 It will be remembered that on the morning of the 10th inst. Mr Hamborough. went out about half-past six to shoot in a plantation close to Ardlamont House. He was accomipanied by Mr Alfred John Monson, his guardian, and Mr Edward Scott, an engineer, the latter going out with the intention of carrying the game. Both Mr Hanmborough and Mr Monson had guns. In going through the plantation they separated, and in a few minutes' time Mr Monson heard a shot fired. He called out te Mr Hamborough, askise what he had killed, but received no reply, Running in the direction from where the shot came, he was horrified to find the poor lad lying on his left side in a ditch with a gunshot wound immediately behind the left ear, the brains protruding.
 
 A new and startling development has taken place with regard to the tragic affair, inasmuch as Mr Scott has left. Inquiries are being made to ascertain his whereabouts, and it is hoped that, if found, he may be able to throw light on the mystery. It is said that Mr Hamborough was a novice with the gun, and that while going over a dyke his foot slipped and the gun went off. It is now rumnoured that the gunshot wound did not appear to be such as an accident of the kind could account for, nor such as he could have inflicted upon himself, the shot having entered the back of the left ear in a horizontal position. It is also rumoured that the company in which the deceased gentleman was insured had refused to pay the amount of the policy, but on inquiry we learn that up to the present time no claim has been lodged with the insurance company. The deceased gentleman had a narrow escape from drowning on the evening prior to his death. 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930829/102/0005
-Glasgow Evening Post - Tuesday 29 August 1893
+```
+
+Reports started to emerge about renewed official interest in the case:
+
+```{admonition} *THE ARDLAMONT SHOOTING CASE: Extraordinatry Developments*, Glasgow Evening Post, Tuesday 29 August 1893
+:class: dropdown
+
+In *Glasgow Evening Post*, Tuesday 29 August 1893, [p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930829/102/0005):
 
 THE ARDLAMONT SHOOTING CASE
 
@@ -134,11 +144,14 @@ the latter always very strong agent among country communities where tragedies ar
 A GRAVE STATEMENT  
 by a gamekeeper on the estate as to the relative users of the two guns and the apparent bore of weapon which had inflicted the wound. Experiments with the two guns at various ranges have, we unbderstand, been made, The climax came, however, with the new fact which only canme to light last week, that the deceased's life was insured for £20,000 indirectly in favour of Mr Monson. Mr Monson, who was naturally very much affected by the lamentable occurrence of the 1Oth has within the past few days had the unpleasantness of his position intensified, for it understood that he is practically under police surveillance.
 
+```
 
+The rumours were by now being descibed as "sinister":
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18930829/060/0005
-Dundee Courier - Tuesday 29 August 1893
+```{admonition} *A YOUNG MAN'S TRAGIC END*, Dundee Courier, Tuesday 29 August 1893
+:class: dropdown
+
+In *Dundee Courier*, Tuesday 29 August 1893, [p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18930829/060/0005):
 
 A YOUNG MAN'S TRAGIC END.  
 INSURED FOR £10,000.  
@@ -146,10 +159,14 @@ SINISTER RUMOURS.
 
 According to rumour pretty current in the Ardlamont district of Argyleshire, a new and startling development has taken place in regard to the fatal shooting accident which occurred there nearly three weeks ago. It may be recalled (*says the Glasgow Evening Citizen*) that the story was that on the 10th of the present month Mr Hambro, the young gentleman, who had just attained his majority, was out shooting rabbits. It was said he was not proficient in handling gun, and that while crossing a dyke his foot slipped and the gun went off, all the contents lodging in his head. No one, however, seems to have been beside the unfortunate lad at the time, and it is now whispered that the gunshot wound did not appear to be such as an accident could account for nor such as he could well have inflicted upon himself. Deceased is reported to have been insured in an American office for £10,000, and in view of the mysterious nature of his death the insurance company, it is said, has declined to pay up. Be that as it may, the Sheriff and a doctor and police official visited the scene of the occurrence on Saturday and it is reported that the body of the deceased gentleman is to be exhumed. It also appears that on the Tuesday prior to the accident Hambro had a narrow escape from drowning. He was out boating with two friends when the craft either sank through the plug coming out or capsized. While his companions could swim, he was unable to do so, but was picked up by a gentleman who was fishing in the neighbourhood—only, however, as it turned out, to meet with a still more violent death two days later. 
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930830/166/0005
-Glasgow Evening Post - Wednesday 30 August 1893
+And then — an arrest, and an interview by the press with one of the estate workers:
+
+```{admonition} *Sensational Developments*, Glasgow Evening Post, Wednesday 30 August 1893
+:class: dropdown
+
+In *Glasgow Evening Post*, Wednesday 30 August 1893, [p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930830/166/0005)
 
 THE ARDLAMONT SHOOTING CASE.  
 Sensational Developments.  
@@ -171,7 +188,7 @@ The village here remains in a state of surprise at the turn events have taken, m
 Interviews on the Estate.  
 (*From Our Own Reporter.*)
 TIGHNABRUAICH, Wednesday Morning.  
-Following up the inquiry of yesterday, as fully reported in the *News*, I have interviewed a number of the persons upon whose evidence the action of the police authorities to a large degree depends ; and I have driven out to that portion of the estate where the incident of the 10th occurred. The police are naturally reticent, partly because they think it injudicious to confide too much in the reporters, but mainly because they have very little beyond incomplete theories to work upon. Scott’s disappearance is, they admit, greatly to be regretted. All that was done to keep track of him was to instruct the policeman at Tighnabruaich Pier to get his name and address as left the Columba, and though this was done, it was, as events have proved, a useless precaution. The most graphic and reliable account of the whole affair which I have yet got was from Steven, the acting factor on the Ardlamont estate. Mr Steven, who is a young man from Cathcart, is an acute and business like gentleman, popular with all the tenantry and employes on the estate. Residing within few hundred yards of Ardlamont House, he naturally came into daily contact with all the parties involved in this affair, and his services were particularly in request after the sad occurrence of the 10th. It is but fair to Mr Steven to say that had he been aware of the fact that his interviewer was a member of the press he would probably have been less free with his story, for the police have discouraged too much publicity in the meantime. "Mr Monson," he said, in answer to inquiries, "was the first one who, in response to advertisement in the papers, came here, and was followed sometime after by Hambrough. The statement that the estate was sold them made by some of the newspapers is untrue ;  
+Following up the inquiry of yesterday, as fully reported in the *News*, I have interviewed a number of the persons upon whose evidence the action of the police authorities to a large degree depends ; and I have driven out to that portion of the estate where the incident of the 10th occurred. The police are naturally reticent, partly because they think it injudicious to confide too much in the reporters, but mainly because they have very little beyond incomplete theories to work upon. Scott’s disappearance is, they admit, greatly to be regretted. All that was done to keep track of him was to instruct the policeman at Tighnabruaich Pier to get his name and address as left the Columba, and though this was done, it was, as events have proved, a useless precaution. The most graphic and reliable account of the whole affair which I have yet got was from Mr Steven, the acting factor on the Ardlamont estate. Mr Steven, who is a young man from Cathcart, is an acute and business like gentleman, popular with all the tenantry and employes on the estate. Residing within few hundred yards of Ardlamont House, he naturally came into daily contact with all the parties involved in this affair, and his services were particularly in request after the sad occurrence of the 10th. It is but fair to Mr Steven to say that had he been aware of the fact that his interviewer was a member of the press he would probably have been less free with his story, for the police have discouraged too much publicity in the meantime. "Mr Monson," he said, in answer to inquiries, "was the first one who, in response to advertisement in the papers, came here, and was followed sometime after by Hambrough. The statement that the estate was sold them made by some of the newspapers is untrue ;  
 TERMS HAD NOT BEEN COME TO.  
 Mr Monson is a quiet, good-natured gentleman, and so was Mr Hambrough. They were both temperate men, indeed Mr Hambrough was almost a teetotaler. So far as I saw all the party lived very harmoniously and agreeably together. The first time I saw Scott he was along with Mr Hambrough and Mr Monson, and I took him for one the party. On the morning of the 10th, when the three went out shooting they took a circuitous route round the estate coming back through the planting to the house in order to get breakfast. They were within twenty or thirty yards of being out of the wood when the shot was heard. Mr Hambrough was on the right side of the wood going toward the house, and Scott and Mr Monson were the opposite side of the wood. Hamurough’s left side was towards his friends, and he was shot in the right side. I was not near the wood at the time, but am certain I heard the shot fired. Shortly afterwards the gardener came to me and told me one of the gentlemen had shot himself in the planting. We took a cart and found that Monson and Scott had lifted the body from the ditch it is believed to have fallen into, and placed him on the bank above it.  
 I DID NOT SEE ANY GUNS  
@@ -199,6 +216,9 @@ Since Monday the estate officials have prevented any unauthorised person visitin
 
 SCOTT’S DISAPPEARANCE  
 was in no way covert, it should be understood. He told several people that as he would not be needed any longer for the "Alert" he would go. He was, according to his first plan, to go away at two o'clock in the afternoon, but as some further information was wanted from him, he remained for the Columba at 2.45. Mr Steven, the factor, drove him in his gig to Tighnabruaich Pier. 
+
+```
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000321/18930831/019/0003
