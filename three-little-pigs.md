@@ -326,7 +326,7 @@ At which they thought proper to squeak and to cry.
 " As if ye were Pigs of a *learned Profession* !"
 
 " I will have it of *Straw*— and of *Mud*- but no *Stone*"-  
-The Eldest replied,-" and live in it alone. " -
+The Eldest replied,-" and live in it alone. " -  
 " My House," said the Second, " shall be built of all three,  
 " Which will keep me quite safe, if the Wolf comes near me."-
 
@@ -355,14 +355,14 @@ The old Mamma Sow, gave her blessing,— and died.
 Alas! the poor Piggies, they grunted and cried,  
 And n1ade such a noise, that the Wolf, who was near,  
 Soon saw how it was, as will shortly appear.  
-" Oh-Oh! " cried the Monster, "the Mother is dead;
+" Oh-Oh! " cried the Monster, "the Mother is dead;  
 " So her Piggies I'll eat for my dinner," he said.  
 But the Piggies aware of the Monster's intention,  
 Shut themselves in their Houses, to try his invention.
 
-And now my sad story begins in this page,
-To relate the effects of the violent rage,
-Which the old wicked W olf began to display,
+And now my sad story begins in this page,  
+To relate the effects of the violent rage,  
+Which the old wicked Wolf began to display,  
 When he found that the Piggies, on that very day,  
 Had got three new Houses, and plenty of food,  
 And fresh straw-and clean troughs-and all that was good.
@@ -371,7 +371,7 @@ He knock'd at the door of the eldest, and said,
 "·So my Cousin, your Mother, I find is just dead;  
 " Oh! pray let me in, as I long to express,  
 " How wretched I feel at your present distress! "  
-" Indeed, I shall not, Mr. Wolf," Pig replied;
+" Indeed, I shall not, Mr. Wolf," Pig replied;  
 " For my Mother declared, at the time when she died,  
 " That you only intended to eat us for dinner,  
 " Though one you would keep for your supper — you sinner."  
@@ -404,7 +404,7 @@ And could not get up to attend to the rap.
 
 The Wo]f, in his fury, kick'd up such a rout,  
 That the House of the Pig was *turn'd inside out*,  
-And the innocent Pig was devour'd in a trice!
+And the innocent Pig was devour'd in a trice!  
 For this Wolf had less feeling than Cats have for Mice,  
 Who, sometimes, I've seen, in a frolicsome mood,  
 Play gambols a while with their victims for food.
@@ -413,7 +413,7 @@ The Sun was just set, and the Moon, in the Sky,
 Had settled herself for the Night,-when the Sty,  
 Or the House, I should say, of *Pigweeney the Wise*,  
 Was assail'd by the Wolf, who repeated his cries,  
-Of " Ill *scratch*, and I'll *scrape*, and I'll pull down your House,
+Of " Ill *scratch*, and I'll *scrape*, and I'll pull down your House,  
 " And gobble you up as a cat would a mouse."   
 To work the Wolf set when he'd finish'd his speech,  
 But he found that *Pigweeney* was out of his reach;  
@@ -421,7 +421,7 @@ For the Honse was so strong it oblig'd him to feel,
 'Twas no joke to scratch against " *Iron and Steel*."
 
 When the treach'rous Wolf found the Pig was secure,  
-He determined to throw out a powerful lure,
+He determined to throw out a powerful lure,  
 To decoy this young Pig from his place of retreat;  
 For he burnt with revenge at his recent defeat.
 
@@ -431,7 +431,7 @@ For he burnt with revenge at his recent defeat.
 " And take me for your guide;-pray do not say no,  
 " To this offer of mine, which in Friendship I make,  
 " For I love you, my dear, for your poor Mother's sake;  
-" Do permit me to call to-morrow at nine,
+" Do permit me to call to-morrow at nine,  
 " If the Roads, and the Weather, be dry and quite fine."
 
 Pigweeney replied, behind his strong door,  
@@ -472,14 +472,14 @@ I'd relate all this story of innocent Mutton,
 Devour'd by this Wolf, who cared not a button,  
 For all their intreaties, and heart-rending cries,  
 When he ate them as fast as Fish swallow Flies!  
-But my Story is placed in a critical state,
+But my Story is placed in a critical state,  
 While bewailing these Sheep and their tragical fate.
 
 The wise Solomon said, " take care of your heart,"  
 " For it oftentimes plays you a treach'rous part;  
 " And the head," he observ'd, " was equally bad,"  
 So between the *heart* and the *head*, it is sad,  
-To see what confusion and wickedness reigns,
+To see what confusion and wickedness reigns,  
 From vices in hearts, and follies in brains!
 
 When Pigweeney was humble, Pigweeney was Wise;  
@@ -515,7 +515,7 @@ Said the cowardly Wolf,-" Pray do look about
 " For a safe hiding place, in which I may wait,  
 " And I pray you make haste as they're just at your Gate."
 
-" See,-here is my Kettle-so big-and so wide"-
+" See,-here is my Kettle-so big-and so wide"-  
 Said the Pig, "in which you can easily hide;"—  
 In went the Wolf—down went the lid-  
 " Stay there," said Pigweeney, " and do as I bid,  
