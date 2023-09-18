@@ -95,7 +95,7 @@ According to rumour pretty current in the Ardlament district, a new and startlin
 
 ```
 
-```{admonotion} *THE ARDLAMONT SHOOTING FATALITY*, Glasgow Herald, Tuesday 29 August 1893
+```{admonition} *THE ARDLAMONT SHOOTING FATALITY*, Glasgow Herald, Tuesday 29 August 1893
 :class: dropdown
 
 In *Glasgow Herald*, Tuesday 29 August 1893, [p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000060/18930829/020/0004):
@@ -212,30 +212,37 @@ One of the men the estate, speaking evidently the sentiments of his fellow workm
 FORMAL DINNER PARTY  
 it is said, took place in the house on the evening on which the Depute-Procurator-Fiscal made his examination. It is hardly necessary to say that that gentleman did not avail himself of an invitation he got to be present. His examination was carried out under the most unpleasant conditions, for the usual dressings above the wound had slipped off, and besides the purely legal duties of Procurator-Fiscal. Mr M'Naugbton had to exercise those of another profession by putting lint dressings on the body himself. It is significant of the distressing effect the accident had upon both Mr Monson and Mr Scott that none of them could be prevailed upon to look at the body after it had been carried into the house.
 
-Since Monday the estate officials have prevented any unauthorised person visiting that portion the estate in which the accident occurred, but for the time being I found the rule relaxed, and drove from Tighnabruaich to the edge of the wood where Mr Hambrough was shot. It is round a corner from the factor’s house, and within sight of the mansion-house — the stables, indeed, as stated yssterday, being only a few yards from where Mr Hambrough’s body was found. The wood is mere planting.” much longer than it is broad, and, as there little brush in it, and the trees are fairly wide apart, one can see right through it. Mr Hambrough’s body when seen by the factor and workmen was on the extreme edge of the wood, beside a moss-covered or drystone dyke, or rather embankment, which dips a few feet into an adjoining field. Scott said they found Mr Hambrough in the field, and lifted him up on to the bank. As is the custom among Highlanders, the workmen on the estate have already piled a smail cairn of stones at the spot.
+Since Monday the estate officials have prevented any unauthorised person visiting that portion the estate in which the accident occurred, but for the time being I found the rule relaxed, and drove from Tighnabruaich to the edge of the wood where Mr Hambrough was shot. It is round a corner from the factor’s house, and within sight of the mansion-house — the stables, indeed, as stated yesterday, being only a few yards from where Mr Hambrough’s body was found. The wood is mere planting.” much longer than it is broad, and, as there little brush in it, and the trees are fairly wide apart, one can see right through it. Mr Hambrough’s body when seen by the factor and workmen was on the extreme edge of the wood, beside a moss-covered or drystone dyke, or rather embankment, which dips a few feet into an adjoining field. Scott said they found Mr Hambrough in the field, and lifted him up on to the bank. As is the custom among Highlanders, the workmen on the estate have already piled a smail cairn of stones at the spot.
 
 SCOTT’S DISAPPEARANCE  
 was in no way covert, it should be understood. He told several people that as he would not be needed any longer for the "Alert" he would go. He was, according to his first plan, to go away at two o'clock in the afternoon, but as some further information was wanted from him, he remained for the Columba at 2.45. Mr Steven, the factor, drove him in his gig to Tighnabruaich Pier. 
 
 ```
 
+By this point, details of Mr Monson were becoming of interest:
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000321/18930831/019/0003
+```{admonition} Nottingham Evening Post, Thursday 31 August 1893
+:class: dropdown
 
-Nottingham Evening Post - Thursday 31 August 1893
+In *Nottingham Evening Post*, Thursday 31 August 1893, [p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000321/18930831/019/0003):
 
 THE ARDLAMONT MYSTERY.
+
 Mr. Alfred Monson was brought before the Sheriff at Court House to-day. The proceedings were private, but it is understood that Mr. Monson sticks circumstantially to the account already given by him of what he knew of the tragic death of Mr. Hambrough on the 10th inst. Mr Monson is the third son of the late Rev. Monson, Rector of Kirkby-under-Dale, Yorkshire, his mother being a daughter of the fifth Viscount Galway.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18930831/006/0002
-Dundee Evening Telegraph - Thursday 31 August 1893
+```
+
+Details were also emerging about another near-fatal accident suffered by Mr Hamborough just hours before his death:
+
+```{admonition} Dundee Evening Telegraph, Thursday 31 August 1893
+:class: dropdown
+
+In *Dundee Evening Telegraph*, Thursday 31 August 1893, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18930831/006/0002):
 
 THE ARDLAMONT MYSTERY.  
 DECLARATION BY THE PRISONER.
 
-Mr Monson mads declaration to-day before Sheriff Shairp at Inveraray. The examination was of course conducted in private; but, it is understood, that Mr Monson sticks substantially by his former account of the affair of the 10th inst.
+Mr Monson made a declaration to-day before Sheriff Shairp at Inveraray. The examination was of course conducted in private; but, it is understood, that Mr Monson sticks substantially by his former account of the affair of the 10th inst.
 
 MR HAMBROGH AND MR MONSON.
 
@@ -257,9 +264,14 @@ A SINISTER FACT.
 
 In the hurry and bustle incidental to so sad a tragedy it is not strange that some minor matters should have escaped attention at the time. About six yards distant from the place where Hambrough’s feet were there is a small tree growing, and a careful examination of the bark about the height of a man's head shows a number pellet marks. The young man's head was not disfigured by the scorching or burning of gunpowder. 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18930831/036/0003
-Dundee Courier - Thursday 31 August 1893
+```
+
+As word came out that the original examining doctor's report had been withdrawn, it was revelaed that Hambrough's body was to be exhumed. Scott's disappearance was also increasingly commented upon, and his description started to be circulated, even as there were rumpours of his arrest in London.
+
+```{admonition} *ARREST OF MONSON; HIS WARD'S BODY TO BE EXHUMED.*Dundee Courier - Thursday 31 August 1893
+:class: dropdown
+
+In *Dundee Courier*, Thursday 31 August 1893, [https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18930831/036/0003](p3):
 
 THE ARDLAMONT MYSTERY.  
 ARREST OF MONSON.  
@@ -302,7 +314,136 @@ ARREST OF SCOTT.
 
 Mr Monson's brother, and Steven, the factor, arrived at Tignabruaich just after the Lord of the Isles had sailed for Inveraray with Mr Monson, a prisoner, on board. The brother was thunderstruck on being informed by the local constable of what had taken place, and the steamer conveying his brother, whom had specially come to meet, being but a few hundred yards off. The excitement in Tignabruaich was intensified yesterday by a rumour that Scott had been taken into custody the London police. 
 
----
+```
+
+Although now under arrest, it seems as if Monson was still enjoying the comforts of life, even as questions were being asked about the state of the insurance policies and the extent to which he may or may not have benefitted from them:
+
+```{admonition} *THE INSURANCE QUESTION*, Dundee Courier, Friday 01 September 1893
+:class: dropdown
+
+in *Dundee Courier* Friday 01 September 1893, [p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18930901/050/0004):
+
+The Ardlamont Mystery
+
+MONSON BEFORE THE SHERIFF
+
+THE INSURANCE QUESTION.
+
+SCOTT STILL AT LARGE.
+
+Mr Alfred Monson was yesterday brought before Sheriff Shairp in the Courthouse, Inveraray, and judicially examined on the charge of causing the death of Mr Windsor Dudley Cecil Hamhrough, by shooting, at Ardlamont, on the 10th of the present month. After emitting his declaration, the accused was committed to prison for further examination. It is probable that he will brought up for his second examination after a lapse of eight days, and if he is then committed to prison he will be removed to Greenock, there to await his trial.
+
+Accused in Prison.
+
+Mr Monson is meantime living comfortably, if not luxuriously, at his own expense. His meals are brought into him from the George Hotel, which adjoins the Courthouse. On Wednesday he had a dinner of three courses. He had tea in the evening, and breakfast was carried to him before nine o'clock yesterday morning. In other respects he is being treated as an ordinary prisoner. He sleeps in his clothes on the raised wooden bed-shaped arrangement on the floor of the cell, with a couple of blankets thrown over him. He is said to be now feeling his position, it is believed, very keenly. While under police surveillance from Monday night till Wednesday morning his behaviour savoured something of bravado. On Tuesday he was out shooting on the moor in the company of some of his guests with a policeman walking on each side of him, and he drove about, dined, and slept constantly shadowed by representatives of the law, and never once did he show the least sign of annoyance or discomposure.
+
+APPLICATION TO HOME SECRETARY.
+
+The criminal authorities are preparing precognitions to be laid before Crown counsel. An application has been made to the Home Secretary for authority to exhume the remains of the young gentleman who is alleged have been murdered. Mr Hambrough's body was buried in the Isle of Wight in the family burial-ground there, and an official from Inveraray will go through to the Isle Wight to superintend the exhuming and examination the remains. From hints which have been dropped since Monson’s arrest, it is believed that, if the case goes to trial at all, the evidence will be of a rather sensational nature. It is now stated that Monson was not Hambrough's legal guaidiau all, but only his tutor.
+
+WARRANT TOR ARREST.
+
+A warrant for the arrest the missing engineer, Edward Scott, was signed Wednesday night.
+
+THE ACCUSED.
+
+Alfred John Monson is the third son of the late Rev. Thomas John Monson, rector of Kirby-under-Dale. Yorkshire, his mother being the daughter of the fifth Viscount Galway. He was born in May, 1858, and is thus in his thirty-fourth year. Mr Monson is a member of the family of which Viscount Oxenbridge, the Master of the Horse, is the head, his grandfather, the Hon. and Rev. Thomas Monson, rector of Bedale, having been a son of the second Baron Monson, and the grand-uncle of the present peer.
+
+THE DECEASED
+
+Windsor Dudley Cecil Hambrough was thee eldest son of Dudley Albert Hambroug, Esq., of Steephill Castle, Isle of Wight. He was bron in 1873, and would have attained his majority early next year. He was a Lieutenant in the 4th Battalion Prince of Wales' Own Yorkshire Regiment. Lieutenant Hambrough’s father is a J.P. for Hants and the patron of two livings, and resides principally at Houghton, Stockbridge.
+
+THE TRUE STORY OF THE INSURANCE
+
+From a thoroughly reliable source the Glasgow *Evening Citizen* has learned all about the insurance negotiations, concerning which no end of rumours have been in circulation. Mr Hambrough being desirous of insuring his life approached the Mutual Life Assurance Society, of New York, through their Glasgow office, and, after the usual preliminaries of examination and references, a policy or policies amounting to £20,000 were taken out. When the insurance was being effected it was understood by the representatives of the Company that the policy was to be assigned to Mr Monson, with whom, indeed, there were one or more interviews on the subject. The question naturally arises, why should Mr Hambrough ASSIGN THE POLICY TO HIS FRIEND Mr Monson? The explanation seems a reasonable one. Mr Hambrough was desirous of purchasing the Ardlamont estate, and required money for this purpose. Although having the prospect of great wealth when he came of age, Mr Hambrough was not, in the meantime, in the possession of much money, and, as it was, was indebted to his friend Monson. The latter gentleman himself is reported not to be rich, but his wife is stated to be wealthy. Indeed, it is said that the intention first was to assign the policy to this lady and her children as the advances for the acquiring of the estate to be made out of her money. As events turned out,
+THE POLICY NEVER WAS ASSIGNED.
+
+And for the best of all reasons — it had not been received from the head office in New York, and, of course, no transfer could take place without the principal document. Mr Hambrough had merely received a receipt or covering note pending the arrival of the policy. This, then, leads directly the conclusion that Mr Monson can derive no pecuniary benefit from the death of Mr Hambrough. Whatever may have been the intentions of the contracting parties, there has been no assignation whatever of the policy, and whoever the Mutual Life Aseurance Society of New York pay the £20,000 to it will certainly not be Mr Monson, but the relatives of the deceased gentleman.
+
+```
+
+Once the order for the exhumation was approved by the Home Secretary, little time was wasted in carrying it out. And as the news story developed, we can only imagine how gripped people were to hear the next installment, and the extent to which they were forming their own opinions about whether the death was an accident, or something more sinister, with the tragic incident that alerted me to this story in the first place, in what is now *The Ferryman* pub in Lymington:
+
+```{admonition} *EXHUMATION OF LIEUT. HAMBROUGH'S BODY*, Sheffield Evening Telegraph, Tuesday 05 September 1893
+:class: dropdown
+
+In *Sheffield Evening Telegraph*, Tuesday 05 September 1893, [p3](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000275/18930905/019/0003):
+
+THE SCOTCH SHOOTING CASE
+
+EXHUMATION OF LIEUT. HAMBROUGH'S BODY.  
+
+OPINION AS TO THE WOUNDS.
+
+HIS INSURANCE POLICIES.
+
+A Ventnor correspondent, telegraphing last night, says: —The body if Lietenant Windsor Cecil Dudley was exhumed this afternoon Ventnor, in the presence of an immense crowd of spectators. Early in the day communication had been received by the Rev. J. Hall Smith, Vicar of St. Catherine's, the Mother Church, from the Lord Advocate, to the effect that the application to tha Home Secretary for order to exhume the body had been successful, and that the gentlemen having the matter in hand behalf the Government would arrive at Ventnor at three o'clock in the afternoon with full power to remove the body. The deceased, like his father, was well known at Ventnor, and when Major arrived the London train shortly before four o'clock, met with many expressions of sympathy. It is stated that he was at the Home Office on Sunday from eleven till seven o'clock with his legal advisers. In an interview this afternoon Major Hambrough, while remarking that he was unable to make any statement at the present time, being in a sense in the hands of the police, said that it was fact that two policies had been effected on his son's life  
+EACH FOR TEN THOUSAND POUNDS  
+and that a few daya before the death of his son they were both assigned to Mrs. Monson, not to the prisoner. There came over by the train already mentioned Mr. J. C. MacCulloch, of Inverary, Procurator Fiscal. Mr. MacNaughten, Deputy-Procurator Fiscal of Argyleshire, also arrived, accompanied by Dr. Littlejohn, of Edinburgh, and Dr. McMillan, who first examined the deceased. Dr. Sanders, of Edinburgh, came the same train to be present at the examination on behalf of the prisoner Monson. They drove to the Royal Marine Hotel. A messenger was immediately sent for the vicar, who proceeded to the hotel and signed the order of the Secretary of State placing the churchyard at the disposal of the Procurator Fiscal and his party. The opening of the grave was immediately proceeded with in the presence of Mr. MacNaughten and the Deputy Chief Constable Gibson, who, with a staff of police, kept the public outside the graveyard. It was intended to examine the body in the mortuary, but this was found to be too confined for such an operation, and it was taken out again and placed upon a bier in the cemetery yard. Removed from the case in which it was enclosed within the oak coffin, it was examined in the open and identified.
+
+Immediately the lead inside coffin was opened the body was identified by one or two who knew Lieutenant Hambrough quite well. The body was greatly decomposed. The examination lasted over two hours, and was not completed before darkness set in. Photographs of wounds in the head of the deceased were taken in several aspects. Photograpbs were also obtained of internal sections of the scull. Major Hambrough was present at the cemetery, and watched the proceedings from a distance.  
+HE WAS DEEPLY AGITATED.  
+After the examination the body was again placed in the coffins, which were sealed and screwed down. The re-interment, which took place about ten o'clock, was unaccompanied by any ceremony. The legal and medical officials conducting the investigation were extremely reticent as to the result of the post-mortem, but sufficient was permitted to leak out to favour the conviction that the wound was not self-inflicted. Several pellets were found in the head, and it was demonstrated that the shots entered the head from the back and passed out behind the ear, a portion of which was carried away. All the medical gentlemen were, it is understood, perfectly satisfied that there was singeing of the hair or skin around the wound, which leads to the belief that the instrument of death could not have been in the hands of the unfortunate young gentleman. The body was formally identified on the coffins being opened by Dr. McMillan and Mr. MacNaughten. Major Hambrough was not asked to perform this painful duty. The gentleman who accompanied Mr. Monson on the occasion of the funeral waa not the the missing Mr. Scott, but Mr. Stevens, the factor of the Ardlamont Estate.
+
+The Hambrough family trace their descent back to 1670.  Steephill Castle is erected on the sight of a rustic thatched villa, built about 1700 by the Right Hon. Hans Stanley, when Governor of the island, and a later period inhabited by an Earl of Dysart. The structure was commenced by J. Hambrough in 1833, and completed in two years. It was designed by Sanderson, the architext of the Ryde Town-hall. The mansion, situated about half a mile from Ventnor, is an imitation of the baronial castles of the reign of Stephen. In the grounds, some seventy or eighty acres in extent, there is an historic well dedicated to St. Lawrence, and a short distance further on the village of St. Lawrence, the parish of which consists of a strip of land extending about a mile and a half along the seashore. A few years ago the estate was in the books of a Piccadilly agent, the upset price being £30,000.
+
+The question arises  
+WHETHER ANYONE WITNESSED THE FATALITY.  
+The prisoner states that he and Scott were amongst the trees of larger growth, out of sight, the one carrying the 20-bore gun and the other a few rabbits. They heard a shot fired, and rushing forward to see what success had attended the shot, they found Mr. Hambrough lying dead. But a third person heard the shot, a gentleman who occupied the neighbouring schoolhouse for the month. The next thing he heard was that a fatality had occurred. He has been interviewed by the authorities, since which he has gone home, and the house again tenanted by the schoolmistress. Mr. Monson regards this stranger a witness in his favour, and his address is retained. With regard to Mr. Scott, Mr. Monson only knew him for a few hours. The prisoner asserts this himself.
+
+THE TREND OF THE EVIDENCE.  
+WHAT THE PHOTOGRAPHS WILL PROVE.
+
+The Press Association's Ventnor correspondent, telegraphing this morning, states that Professor Littlejohn's testimony regarding the death of Lieut. Hambrough will be altogether opposed to the theory that he lost his life through an accident. In addition to the absence of singeing of the hair, it is regarded as a significant fact that no wadding from the cartridge was found in the head, photographs of which have been taken in six different positions. The party which attended the exhumation left Ventnor this morning for Glasgow, and will proceed thence to Inverary, to attend the hearing of the charge against Monson, which will be resumed on Friday next. 
+
+EXPLAINING THE ARDLAMONT MYSTERY.
+
+TRAGIC SHOOTTNG ACCIDENT.
+
+The Press Association's Lymington correspondent telegraphs.— A tragically shocking affair occurred this morning at Wallhampton. Henry Card, a gamekeeper in the employ of Mr. J. W. Heseltine was talking with the landlord of the local public house, when the conversation turned upon the Ardlamont shooting mystery. Card insisted that it was possible that Mr. Hamborough's injuries were self-inflicted, and in order to demonstrate this he took up his gun, placed it behind his back with one hand, and reaching down the other hand, pulled the trigger. The gun happened to be loaded, and Card blew the top of his skull off. He is not dead yet, but the doctors state that it will be impossible for him to recover. 
+
+```
+
+```{admonition} *DEATH OF THE FOOLISH GAMEKEEPER*, Sheffield Evening Telegraph, Wednesday 06 September 1893
+:class: dropdown
+
+In *Sheffield Evening Telegraph*, Wednesday 06 September 1893, [p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000275/18930906/047/0004):
+
+DEATH OF THE FOOLISH GAMEKEEPER.
+
+Henry Card, the gamekeeper who accidentally shot himself at Wallhampton, near Lymington, yesterday, while endeavouring to show how it was possible for Mr. Hambrough to have shot himself, has succumbed to his injuries. Card leaves widow and nine children. 
+
+```
+
+```{admonition} *TRAGIC AFFAIR AT LYMINGTON*, Salisbury and Winchester Journal, Saturday 09 September 1893
+:class: dropdown
+
+In *Salisbury and Winchester Journal*, Saturday 09 September 1893, [p2](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18930909/027/0002):
+
+TRAGIC AFFAIR AT LYMINGTON.
+
+Our Lymington correspondent writes:— A shocking affair occurred at the Wagon and Horses Inn, Walhampton, on Tuesday. A man named Henry Card, employed as gamekeeper at Walhampton Park, entered the taproom and ordered pint of beer. He was served, and whilst drinking it a conversation took place amongst the company present as to the probability of Lieut. Hambrough's gunshot wound in the neck having been self-inflicted. A man said be was sure it was not, a statement Card contradicted, adding that he could easily demonstrate how it could be done. Handing his double-barrelled gun to one of the company, he said, "You try; it's empty." The man declined, and Card then took the gun, placed it behind his back, and tried in two or three different ways to get the muzzle against his neck. To the astonishment of all present, the gun suddenly exploded, the charge blowing off the top of Card's head, leaving the brain protruding. Drs. Rendall and Hill were speedily in attendance, but there was no hope from the first, and Card died within two hours. He was 38 years of age, and leavea wife and nine children unprovided for. The tragic affair caused quite a consternation in the town.
+
+The inquest was held on Thursday afternoon the Wagon and Horses Inn, Walhampton, before Mr. Bernard Harfield, county coroner. The evidence was to the following effect:— Dr. Rendall deposed that was called in immediately after the accident and found the deceased lying insensible on the floor of the inn, his face downwards, surrounded by pools of blood and scattered brains. On examining the head be found an irregular lacerated wound, about two inches in diameter, situated on the upper part of the back of the head, rather inclined to the right side. From this brain matter was exuding and hemorrrhage occurring. He did all he could, but Card eventually became comatosed and died two hours after receiving the injury. The wound was a gunshot wound. The man's condition was hopeless from the first. —James Geary, living near, deposed to seeing the deceased just before he entered the public-house. Card had then opened his gun, apparently for the purpose of drawing the cartridges, but just at that time their attention was attracted to a crowd of persons crossing the railway bridge, and witness could not say whether deceased actually did remove the cartridges.— John Bligh, friend of the landlord of the Wagon and Horses, deposed to Card coming in and having pint of beer. A discussion took place relative to the Scotch shooting case, when deceased denied that it was impossible for Lieut. Hambrough's wound have been self-inflicted. He asked Bligh to take up his gun and try, saying it was empty. Bligh not caring to do so, Card seized the gun, cocked the hammer, and after some difficulty in getting it in position behind his back, pulled trigger and exploded one barrel with fatal effect.— Other evidence was given, all showing that Card had been fully under the belief that his gun was empty.— A verdict of "Accidental death" was returned.
+
+```
+
+```{admonition} *SHOCKING GUN ACCIDENT NEAR LYMINGTON*, Hampshire Independent, Saturday 09 September 1893
+:class: dropdown
+
+In *Hampshire Independent*, Saturday 09 September 1893, [p5](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18930909/087/0005):
+
+SHOCKING GUN ACCIDENT NEAR LYMINGTON. INQUEST AT WALHAMPTON.
+
+The County Coroner (Mr. B. Harfield) held an inquest on Thuroday afternoon, at the Waggon and Horses, Walhampton, in connection with a tragic calamity that took place there at mid-day Tuesday, when Henry Card, aged 31, of Snook's Farm, a gamekeeper in the employ of Mr. J. P. Heseltioe, shot himself whilst attempting to show how Lieut. Hantheough might have done so. On assembling the jury inspected the low-roofed tap-room in which the tragedy occurred, the ceiling of which showed a cluster of shot-marks, and some hair where the charge had scattered after striking the deceased. From the inn they proceeded to deceased's home, a secluded country homestead, about a mile off, to view the body. The inquest commenced sitting at quarter-past four, first witness called being Dr. Rendell, who deposed that he was on that side of the water about ten minutes to twelve, and was asked to go to the Waggon and Horses. On his arrival he entered the tap-room, and found the deceased lying INSENSIBLE ON THE FLOOR, lying on his left side with his face downwards. and surrounded by pools of blood and scattered brains. An examination of his head showed an irregular lacerated wound about two inches in diameter, situated at the upper part of the back of the head, rather inclined to the right side, from which brain matter was exuding and hemorrhage occurring. He did all he could for him by endeavouring to atop the haemorrhage by pressure, but he gradually became more insensible and eventually comatosed, and died about two hours afterwards ; he had no other marks of injury observable. In his opinion the wound was a gunshot one. He considered the case hopeless from the first.
+
+James Geary, of Waterman's Farm, stated that at about 11 o'clock on Tuesday morning, whilst he was working in the field the deceased spoke to him. They had a little conversation about his birds, when the deceased looked to the railway line and said " What a lot people going down the line; I wonder what's up." At the same time he unlocked his gun, a breechloader, apparently, as I thought, to take the cartridges out, but, drawing my attention to the people going down the line, I did not take notice whether he took the cartridges out or not. A few minutes afterwards, deceased left him and went across the field in the direction the Lymington ferry. He noticed nothing unusual in his manner.
+
+John Bligh, of London, staying at the Waggon and Horses, was told at about half past eleven that Mr. Card was in the house and he wanted a pint of beer, with which he supplied him ; another customer had a pint of beer, and after drawing that and a pint for himself he went into the tap-room and asked Mr. Card to drink. He said to deceased " I see they have had rather a scene across in the Island, or at Ventnor." He said " Is that that gentleman that was shot in Scotland?" Witness fetched the paper, and read the article to him, some gentleman sitting in the room said that the old keeper in Scotland said it was impossible for Lieut. Hambrough to have shot himself as he was shot, Card replied "OH YES HE COULD DO SO."
+
+He invited witness to try, saying "There is my gun, you can try it, it is empty." Witness was sitting on a seat, and didn't offer to get up. Card was nursing a little white dog at the time ; he instantly put the dog down, and took the gun up and cocked it. He then took it in his right hand, put it behind his back, with the muzzle towards the back of his head, and then fired. Witness iilustrated his explanation with the aid of the gun in question. He SAW DECEASED PRESS THE TRIGGER, and when the deed was done he put the gun down on to the table, and gradually sank down. The other hammer was at full cock. Witness called Mr. Gosling, the landlord, and asked where he could get a doctor, and was told across in the town, he called out to the ferryman to get his boat ready as quick as he could. He went into the town and summoned a doctor. When witness returned a doctor had arrived. Witness considered the shooting the result of an accident. Deceased seemed in his usual spirits. When deceased came into the tap-room, on putting down his gun, he stated to a boy that it was not loaded. Fitz Inman, of Wolverhamptan, knew the deceased well, and identified him after death. On Tuesday morning between half-past eleven and twelve witness was at the Waggon and Horses when Mr. Card came in. He was not in the tap-room at the time of the occurrence, being then on his way home to get a paper. He heard the report of a gun when he reached his door, and it appeared to come from the inn. He was called back to the house by the landlord. On opening the tap-room door he found deceased with his head resting on the settle. Witness took hold of him and eased him on to the floor. Witness took the pipe deceased was smoking out of his mouth. When witness left the room the gun was lying on the settle, he did not notice where it was on his return. He did not hear deceased say the gun was not loaded ; deceased was A VERY CAREFUL MAN with guns. The gun used was not deceased's but had been used by him for some weeks. The only other man the room when witness left was Mr. Bligh, though he believed a man named Etheridge entered the room just after he felt. It was not considered necessary to call Etheridge, as he could not add materially to Mr. Bligh's statement. The Coroner summed up briefly, and the jury returned a verdict of ACCIDENTAL DEATH. The deceased leaves a wife and nine young children. 
+
+```
 
 To skip to the end, a summary of what followed is provided in the introduction to a report of the court proceedings, published as part of a series of notable Scottish trials, in 1908:
 
@@ -353,110 +494,6 @@ An echo of the case was heard in May of the following year, when the mysterious 
 
 
 
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18930901/050/0004
-
-Dundee Courier - Friday 01 September 1893
-
-The Ardlamont Mystery
-
-MONSON BEFORE THE SHERIFF
-
-THE INSURANCE QUESTION.
-
-SCOTT STILL LARGE.
-
-Mr Alfred Monson was yesterday brought before Sheriff Shairp in the Courthouse, Inveraray, and judicially examined on the charge of causing the death of Mr Windsor Dudley Cecil Hamhrough, by shooting, at Ardlamont, on the 10th of the present month. After emitting his declaration, the accused was committed to prison for further examination. It is probable that he will brought up for his second examination after a lapse of eight days, and if he is then committed to prison he will be removed to Greenock, there to await his trial.
-
-Accused in Prison.
-
-Mr Monson is meantime living comfortably, if not luxuriously, at his own expense. His meals are brought into him from the George Hotel, which adjoins the Courthouse. On Wednesday he had a dinner of three courses. He had tea in the evening, and breakfast was carried to him before nine o'clock yesterday morning. In other respects he is being treated as an ordinary prisoner. He sleeps in his clothes on the raised wooden bed-shaped arrangement on the floor of the cell, with a couple of blankets thrown over him. He is said to be now feeling his position, it is believed, very keenly. While under police surveillance from Monday night till Wednesday morning his behaviour savoured something of bravado. On Tuesday he was out shooting on the moor in the company of some of his guests with a policeman walking on each side of him, and he drove about, dined, and slept constantly shadowed by representatives of the law, and never once did he show the least sign of annoyance or discomposure.
-
-APPLICATION TO HOME SECRETARY.
-
-The criminal authorities are preparing precognitions to be laid before Crown counsel. An application has been made to the Home Secretary for authority to exhume the remains of the young gentleman who is alleged have been murdered. Mr Hambrough's body was buried in the Isle of Wight in the family burial-ground there, and an official from Inveraray will go through to the Isle Wight to superintend the exhuming and examination the remains. From hints which have been dropped since Monson’s arrest, it is believed that, if the case goes to trial at all, the evidence will be of a rather sensational nature. It is now stated that Monson was not Hambrough's legal guaidiau all, but only his tutor.
-
-WARRANT TOR ARREST.
-
-A warrant for the arrest the missing engineer, Edward Scott, was signed Wednesday night.
-
-THE ACCUSED.
-
-Alfred John Monson is the third son of the late Rev. Thomas John Monson, rector of Kirby-under-Dale. Yorkshire, his mother being the daughter of the fifth Viscount Galway. He was born in May, 1858, and is thus in his thirty-fourth year. Mr Monson is a member of the family of which Viscount Oxenbridge, the Master of the Horse, is the head, his grandfather, the Hon. and Rev. Thomas Monson, rector of Bedale, having been a son of the second Baron Monson, and the grand-uncle of the present peer.
-
-THE DECEASED
-
-Windsor Dudley Cecil Hambrough was thee eldest son of Dudley Albert Hambroug, Esq., of Steephill Castle, Isle of Wight. He was bron in 1873, and would have attained his majority early next year. He was a Lieutenant in the 4th Battalion Prince of Wales' Own Yorkshire Regiment. Lieutenant Hambrough’s father is a J.P. for Hants and the patron of two livings, and resides principally at Houghton, Stockbridge.
-
-THE TRUE STORY OF THE INSURANCE
-
-From a thoroughly reliable source the Glasgow *Evening Citizen* has learned all about the insurance negotiations, concerning which no end of rumours have been in circulation. Mr Hambrough being desirous of insuring his life approached the Mutual Life Assurance Society, of New York, through their Glasgow office, and, after the usual preliminaries of examination and references, a policy or policies amounting to £20,000 were taken out. When the insurance was being effected it was understood by the representatives of the Company that the policy was to be assigned to Mr Monson, with whom, indeed, there were one or more interviews on the subject. The question naturally arises, why should Mr Hambrough ASSIGN THE POLICY TO HIS FRIEND Mr Monson? The explanation seems a reasonable one. Mr Hambrough was desirous of purchasing the Ardlamont estate, and required money for this purpose. Although having the prospect of great wealth when he came of age, Mr Hambrough was not, in the meantime, in the possession of much money, and, as it was, was indebted to his friend Monson. The latter gentleman himself is reported not to be rich, but his wife is stated to be wealthy. Indeed, it is said that the intention first was to assign the policy to this lady and her children as the advances for the acquiring of the estate to be made out of her money. As events turned out, THE POLICY NEVER WAS ASSIGNED.
-
-And for the best of all reasons — it had not been received from the head office in New York, and, of course, no transfer could take place without the principal document. Mr Hambrough had merely received a receipt or covering note pending the arrival of the policy. This, then, leads directly the conclusion that Mr Monson can derive no pecuniary benefit from the death of Mr Hambrough. Whatever may have been the intentions of the contracting parties, there has been no assignation whatever of the policy, and whoever the Mutual Life Aseurance Society of New York pay the £20,000 to it will certainly not be Mr Monson, but the relatives of the deceased gentleman.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000275/18930905/019/0003
-
-Sheffield Evening Telegraph - Tuesday 05 September 1893
-
-THE SCOTCH SHOOTING CASE
-
-EXHUMATION OF LIEUT. HAMBROUGH'S BODY.  
-
-OPINION AS TO THE WOUNDS.
-
-HIS INSURANCE POLICIES.
-
-A Ventnor correspondent, telegraphing last night, says: —The body if Lietenant Windsor Cecil Dudley was exhumed this afternoon Ventnor, in the presence of an immense crowd of spectators. Early in the day communication had been received by the Rev. J. Hall Smith, Vicar of St. Catherine's, the Mother Church, from the Lord Advocate, to the effect that the application to tha Home Secretary for order to exhume the body had been successful, and that the gentlemen having the matter in hand behalf the Government would arrive at Ventnor at three o'clock in the afternoon with full power to remove the body. The deceased, like his father, was well known at Ventnor, and when Major arrived the London train shortly before four o'clock, met with many expressions of sympathy. It is stated that he was at the Home Office on Sunday from eleven till seven o'clock with his legal advisers. In an interview this afternoon Major Hambrough, while remarking that he was unable to make any statement at the present time, being in a sense in the hands of the police, said that it was fact that two policies had been effected on his son's life  
-EACH FOR TEN THOUSAND POUNDS  
-and that a few daya before the death of his son they were both assigned to Mrs. Monson, not to the prisoner. There came over by the train already mentioned Mr. J. C. MacCulloch, of Inverary, Procurator Fiscal. Mr. MacNaughten, Deputy-Procurator Fiscal of Argyleshire, also arrived, accompanied by Dr. Littlejohn, of Edinburgh, and Dr. McMillan, who first examined the deceased. Dr. Sanders, of Edinburgh, came the same train to be present at the examination on behalf of the prisoner Monson. They drove to the Royal Marine Hotel. A messenger was immediately sent for the vicar, who proceeded to the hotel and signed the order of the Secretary of State placing the churchyard at the disposal of the Procurator Fiscal and his party. The opening of the grave was immediately proceeded with in the presence of Mr. MacNaughten and the Deputy Chief Constable Gibson, who, with a staff of police, kept the public outside the graveyard. It was intended to examine the body in the mortuary, but this was found to be too confined for such an operation, and it was taken out again and placed upon a bier in the cemetery yard. Removed from the case in which it was enclosed within the oak coffin, it was examined in the open and identified.
-
-Immediately the lead inside coffin was opened the body was identified by one or two who knew Lieutenant Hambrough quite well. The body was greatly decomposed. The examination lasted over two hours, and was not completed before darkness set in. Photographs of wounds in the head of the deceased were taken in several aspects. Photograpbs were also obtained of internal sections of the scull. Major Hambrough was present at the cemetery, and watched the proceedings from a distance.  
-HE WAS DEEPLY AGITATED.  
-After the examination the body was again placed in the coffins, which were sealed and screwed down. The re-interment, which took place about ten o'clock, was unaccompanied by any ceremony. The legal and medical officials conducting the investigation were extremely reticent as to the result of the post-mortem, but sufficient was permitted to leak out to favour the conviction that the wound was not self-inflicted. Several pellets were found in the head, and it was demonstrated that the shots entered the head from the back and passed out behind the ear, a portion of which was carried away. All the medical gentlemen were, it is understood, perfectly satisfied that there was singeing of the hair or skin around the wound, which leads to the belief that the instrument of death could not have been in the hands of the unfortunate young gentleman. The body was formally identified on the coffins being opened by Dr. McMillan and Mr. MacNaughten. Major Hambrough was not asked to perform this painful duty. The gentleman who accompanied Mr. Monson on the occasion of the funeral waa not the the missing Mr. Scott, but Mr. Stevens, the factor of the Ardlamont Estate.
-
-The Hambrough family trace their descent back to 1670.  Steephill Castle is erected on the sight of a rustic thatched villa, built about 1700 by the Right Hon. Hans Stanley, when Governor of the island, and a later period inhabited by an Earl of Dysart. The structure was commenced by J. Hambrough in 1833, and completed in two years. It was designed by Sanderson, the architext of the Ryde Town-hall. The mansion, situated about half a mile from Ventnor, is an imitation of the baronial castles of the reign of Stephen. In the grounds, some seventy or eighty acres in extent, there is an historic well dedicated to St. Lawrence, and a short distance further on the village of St. Lawrence, the parish of which consists of a strip of land extending about a mile and a half along the seashore. A few years ago the estate was in the books of a Piccadilly agent, the upset price being £30,000.
-
-The question arises  
-WHETHER ANYONE WITNESSED THE FATALITY.  
-The prisoner states that he and Scott were amongst the trees of larger growth, out of sight, the one carrying the 20-bore gun and the other a few rabbits. They heard a shot fired, and rushing forward to see what success had attended the shot, they found Mr. Hambrough lying dead. But a third person heard the shot, a gentleman who occupied the neighbouring schoolhouse for the month. The next thing he heard was that a fatality had occurred. He has been interviewed by the authorities, since which he has gone home, and the house again tenanted by the schoolmistress. Mr. Monson regards this stranger a witness in his favour, and his address is retained. With regard to Mr. Scott, Mr. Monson only knew him for a few hours. The prisoner asserts this himself.
-
-THE TREND OF THE EVIDENCE.  
-WHAT THE PHOTOGRAPHS WILL PROVE.
-
-The Press Association's Ventnor correspondent, telegraphing this morning, states that Professor Littlejohn's testimony regarding the death of Lieut. Hambrough will be altogether opposed to the theory that he lost his life through an accident. In addition to the absence of singeing of the hair, it is regarded as a significant fact that no wadding from the cartridge was found in the head, photographs of which have been taken in six different positions. The party which attended the exhumation left Ventnor this morning for Glasgow, and will proceed thence to Inverary, to attend the hearing of the charge against Monson, which will be resumed on Friday next. 
-
-EXPLAINING THE ARDLAMONT MYSTERY.
-
-TRAGIC SHOOTTNG ACCIDENT.
-
-The Press Association's Lymington correspondent telegraphs.— A tragically shocking affair occurred this morning at Wallhampton. Henry Card, a gamekeeper in the employ of Mr. J. W. Heseltine was talking with the landlord of the local public house, when the conversation turned upon the Ardlamont shooting mystery. Card insisted that it was possible that Mr. Hamborough's injuries were self-inflicted, and in order to demonstrate this he took up his gun, placed it behind his back with one hand, and reaching down the other hand, pulled the trigger. The gun happened to be loaded, and Card blew the top of his skull off. He is not dead yet, but the doctors state that it will be impossible for him to recover. 
-
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000275/18930906/047/0004
-
-Sheffield Evening Telegraph - Wednesday 06 September 1893
-
-DEATH OF THE FOOLISH GAMEKEEPER.
-
-Henry Card, the gamekeeper who accidentally shot himself at Wallhampton, near Lymington, yesterday, while endeavouring to show how it was possible for Mr. Hambrough to have shot himself, has succumbed to his injuries. Card leaves widow and nine children. 
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18930909/027/0002
-
-Salisbury and Winchester Journal - Saturday 09 September 1893
-
-TRAGIC AFFAIR AT LYMINGTON.
-
-Our Lymington correspondent writes:— A shocking affair occurred at the Wagon and Horses Inn, Walhampton, on Tuesday. A man named Henry Card, employed as gamekeeper at Walhampton Park, entered the taproom and ordered pint of beer. He was served, and whilst drinking it a conversation took place amongst the company present as to the probability of Lieut. Hambrough's gunshot wound in the neck having been self-inflicted. A man said be was sure it was not, a statement Card contradicted, adding that he could easily demonstrate how it could be done. Handing his double-barrelled gun to one of the company, he said, "You try; it's empty." The man declined, and Card then took the gun, placed it behind his back, and tried in two or three different ways to get the muzzle against his neck. To the astonishment of all present, the gun suddenly exploded, the charge blowing off the top of Card's head, leaving the brain protruding. Drs. Rendall and Hill were speedily in attendance, but there was no hope from the first, and Card died within two hours. He was 38 years of age, and leavea wife and nine children unprovided for. The tragic affair caused quite a consternation in the town.
-
-The inquest was held on Thursday afternoon the Wagon and Horses Inn, Walhampton, before Mr. Bernard Harfield, county coroner. The evidence was to the following effect:— Dr. Rendall deposed that was called in immediately after the accident and found the deceased lying insensible on the floor of the inn, his face downwards, surrounded by pools of blood and scattered brains. On examining the head be found an irregular lacerated wound, about two inches in diameter, situated on the upper part of the back of the head, rather inclined to the right side. From this brain matter was exuding and hemorrrhage occurring. He did all he could, but Card eventually became comatosed and died two hours after receiving the injury. The wound was a gunshot wound. The man's condition was hopeless from the first. —James Geary, living near, deposed to seeing the deceased just before he entered the public-house. Card had then opened his gun, apparently for the purpose of drawing the cartridges, but just at that time their attention was attracted to a crowd of persons crossing the railway bridge, and witness could not say whether deceased actually did remove the cartridges.— John Bligh, friend of the landlord of the Wagon and Horses, deposed to Card coming in and having pint of beer. A discussion took place relative to the Scotch shooting case, when deceased denied that it was impossible for Lieut. Hambrough's wound have been self-inflicted. He asked Bligh to take up his gun and try, saying it was empty. Bligh not caring to do so, Card seized the gun, cocked the hammer, and after some difficulty in getting it in position behind his back, pulled trigger and exploded one barrel with fatal effect.— Other evidence was given, all showing that Card had been fully under the belief that his gun was empty.— A verdict of "Accidental death" was returned.
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18930909/087/0005
 
@@ -470,21 +507,6 @@ MR. MONSON COMMITTED FOR TRIAL
 
 ... TO DO
 
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18930909/087/0005
-
-Hampshire Independent - Saturday 09 September 1893
-
-SHOCKING GUN ACCIDENT NEAR LYMINGTON. INQUEST AT WALHAMPTON.
-
-The County Coroner (Mr. B. Harfield) held an inquest on Thuroday afternoon, at the Waggon and Horses, Walhampton, in connection with a tragic calamity that took place there at mid-day Tuesday, when Henry Card, aged 31, of Snook's Farm, a gamekeeper in the employ of Mr. J. P. Heseltioe, shot himself whilst attempting to show how Lieut. Hantheough might have done so. On assembling the jury inspected the low-roofed tap-room in which the tragedy occurred, the ceiling of which showed a cluster of shot-marks, and some hair where the charge had scattered after striking the deceased. From the inn they proceeded to deceased's home, a secluded country homestead, about a mile off, to view the body. The inquest commenced sitting at quarter-past four, first witness called being Dr. Rendell, who deposed that he was on that side of the water about ten minutes to twelve, and was asked to go to the Waggon and Horses. On his arrival he entered the tap-room, and found the deceased lying INSENSIBLE ON THE FLOOR, lying on his left side with his face downwards. and surrounded by pools of blood and scattered brains. An examination of his head showed an irregular lacerated wound about two inches in diameter, situated at the upper part of the back of the head, rather inclined to the right side, from which brain matter was exuding and hemorrhage occurring. He did all he could for him by endeavouring to atop the haemorrhage by pressure, but he gradually became more insensible and eventually comatosed, and died about two hours afterwards ; he had no other marks of injury observable. In his opinion the wound was a gunshot one. He considered the case hopeless from the first.
-
-James Geary, of Waterman's Farm, stated that at about 11 o'clock on Tuesday morning, whilst he was working in the field the deceased spoke to him. They had a little conversation about his birds, when the deceased looked to the railway line and said " What a lot people going down the line; I wonder what's up." At the same time he unlocked his gun, a breechloader, apparently, as I thought, to take the cartridges out, but, drawing my attention to the people going down the line, I did not take notice whether he took the cartridges out or not. A few minutes afterwards, deceased left him and went across the field in the direction the Lymington ferry. He noticed nothing unusual in his manner.
-
-John Bligh, of London, staying at the Waggon and Horses, was told at about half past eleven that Mr. Card was in the house and he wanted a pint of beer, with which he supplied him ; another customer had a pint of beer, and after drawing that and a pint for himself he went into the tap-room and asked Mr. Card to drink. He said to deceased " I see they have had rather a scene across in the Island, or at Ventnor." He said " Is that that gentleman that was shot in Scotland?" Witness fetched the paper, and read the article to him, some gentleman sitting in the room said that the old keeper in Scotland said it was impossible for Lieut. Hambrough to have shot himself as he was shot, Card replied "OH YES HE COULD DO SO."
-
-He invited witness to try, saying "There is my gun, you can try it, it is empty." Witness was sitting on a seat, and didn't offer to get up. Card was nursing a little white dog at the time ; he instantly put the dog down, and took the gun up and cocked it. He then took it in his right hand, put it behind his back, with the muzzle towards the back of his head, and then fired. Witness iilustrated his explanation with the aid of the gun in question. He SAW DECEASED PRESS THE TRIGGER, and when the deed was done he put the gun down on to the table, and gradually sank down. The other hammer was at full cock. Witness called Mr. Gosling, the landlord, and asked where he could get a doctor, and was told across in the town, he called out to the ferryman to get his boat ready as quick as he could. He went into the town and summoned a doctor. When witness returned a doctor had arrived. Witness considered the shooting the result of an accident. Deceased seemed in his usual spirits. When deceased came into the tap-room, on putting down his gun, he stated to a boy that it was not loaded. Fitz Inman, of Wolverhamptan, knew the deceased well, and identified him after death. On Tuesday morning between half-past eleven and twelve witness was at the Waggon and Horses when Mr. Card came in. He was not in the tap-room at the time of the occurrence, being then on his way home to get a paper. He heard the report of a gun when he reached his door, and it appeared to come from the inn. He was called back to the house by the landlord. On opening the tap-room door he found deceased with his head resting on the settle. Witness took hold of him and eased him on to the floor. Witness took the pipe deceased was smoking out of his mouth. When witness left the room the gun was lying on the settle, he did not notice where it was on his return. He did not hear deceased say the gun was not loaded ; deceased was A VERY CAREFUL MAN with guns. The gun used was not deceased's but had been used by him for some weeks. The only other man the room when witness left was Mr. Bligh, though he believed a man named Etheridge entered the room just after he felt. It was not considered necessary to call Etheridge, as he could not add materially to Mr. Bligh's statement. The Coroner summed up briefly, and the jury returned a verdict of ACCIDENTAL DEATH. The deceased leaves a wife and nine young children. 
 
 ---
 
