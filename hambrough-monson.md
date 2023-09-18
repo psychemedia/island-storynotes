@@ -22,7 +22,7 @@ I discovered this tale, in a roundabout way, from a notice of a strange occurren
 
 So what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
 
-The story begins with a report of what appears to be an unfortunate accident:
+The story begins with newspaper reports in mid-August, 1893, of what appears to be an unfortunate shooting accident:
 
 ```{admonition} *YOUNG GENTLEMAN SHOT DEAD IN BUTE*, Dundee Evening Telegraph, Saturday 12 August, 1893
 :class: dropdown
@@ -35,6 +35,19 @@ A sad shooting fatality happened on Thursday the estate Ardlament, some distance
 
 The death of young Mr Hambrough, says the *N.B. Mail*, at Ardlament is singularly sad. He seemed to be one of " Fortune's children," with a life of happiness and ease before him. Had he lived till April next he would have attained his majority and inherited a fortune of about a quarter of a million, some £70,000 of which would probably have been devoted to the purchase of the Ardlamont estate, to which he had taken a strong liking since he became the shooting tenant a few months ago. Mr Hambro was a well-built, handsome young fellow, and his simple, frank, and courteous manners had already won him many friends in the district. 
 
+```
+
+```{admonition} *ARDLAMONT SHOOTING FATALITY*, Glasgow Evening Post, Monday 14 August 1893
+:class: dropdown
+
+In *Glasgow Evening Post*, Monday 14 August 1893, [p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930814/053/0003):
+
+ARDLAMONT SHOOTING FATALITY. 
+
+Investigation by the Fiscal. (*By Telegraph.*)  
+DUNOON, 3.—Mr McNaughton, the deputy-Fiscal for Argyllshire, arrived in Dunoon this morning, after completing his investigation into the sad affair which occurred at Ardlamont on Thursday morning. The unfortunate young gentleman who met such an untimely end was only 20 years of age, and a lieutenant in the 3rd West Yorkshire Militia, his full name being Windsor Dudley Cecil Harmborough (*sic*). His father is Major Hamborough, of the same regiment. From the information now to hand, it appears that on the morning of the 10th August young Mr Hamborough went out about half-past six to shoot in a plantation close to Ardlamont House. He was accompanied by Alfred John Morrison (*sic*), his guardian, and Mr Edward Scott, engineer, Glasgow, the latter going out with the intention of carrying the game. Both Mr Hamborough and Mr Morrison had guns. In going through the plantation they separated, and in a few minutes time Mr Morrison heard a shot fired. He called out to Mr Hamborough, asking what he had_killed, but received no reply. Running in the direction from where the shot came, he was horrified to find the poor lad lying on his left side in a ditch with a gunshot wound immediately behind the left ear, the brains protruding. The gun was lying beside him. He was quite dead, No one saw the accident, and how it was caused will never be known. It is thought that he must have been walking along a dyke, which forms a sort of breast-wall, and slipped, the gun going off he fell.
+
+The affair is one of the most lamentable that has ever happened in the district, and has cast a gloom over the whole place. The young gentleman’s brother officers arrived at Ardlamont House later in the day for the purpose of enjoying a few days’ shooting, and received a great shock on being informed that their friend was dead. Had Hamborough lived till he attained his majority he would have come in for a fortune of over a quarter of a million. He and Mr Morrison had just purchased the Ardlamont estate a week ago. The deceased lad's father and mother will arrive at Ardlamont today. 
 ```
 
 The death of "Mr Hambro" was also reported in the *Portsmouth Evening News*: "Mr Hambro" was, in fact, Lietentant Hambrough, scion of a notable family on the Isle of Wight:
@@ -54,28 +67,21 @@ HAMBROUGH. On the 10th inst., at Ardlamont House, Argyllshire, from a gun accide
 
 ```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001965/18930814/053/0003
+That such accidents occurred seems to have be regarded as unfortunate, but not unknown:
 
-Glasgow Evening Post - Monday 14 August 1893
+```{admonition} *THE COUNTY GENTLEMAN*, Sporting Gazette, Saturday 19 August 1893
+:class: dropdown
 
-ARDLAMONT SHOOTING FATALITY. 
-
-Investigation the Fiscal. (*By Telegraph.*)  
-DUNOON, 3.—Mr McNaughton, the deputy-Fiscal for Argyllshire, arrived in Dunoon this morning, after completing his investigation into the sad affair which occurred at Ardlamont on Thursday morning. The unfortunate young gentleman who met such an untimely end was only 20 years of age, and a lieutenant in the 3rd West Yorkshire Militia, his full name being Windsor Dudley Cecil Harmborough (*sic*). His father is Major Hamborough, of the same regiment. From the information now to hand, it appears that on the morning of the 10th August young Mr Hamborough went out about half-past six to shoot in a plantation close to Ardlamont House. He was accompanied by Alfred John Morrison (*sic*), his guardian, and Mr Edward Scott, engineer, Glasgow, the latter going out with the intention of carrying the game. Both Mr Hamborough and Mr Morrison had guns. In going through the plantation they separated, and in a few minutes time Mr Morrison heard a shot fired. He called out to Mr Hamborough, asking what he had_killed, but received no reply. Running in the direction from where the shot came, he was horrified to find the poor lad lying on his left side in a ditch with a gunshot wound immediately behind the left ear, the brains protruding. The gun was lying beside him. He was quite dead, No one saw the accident, and how it was caused will never be known. It is thought that he must have been walking along a dyke, which forms a sort of breast-wall, and slipped, the gun going off he fell.
-
-The affair is one of the most lamentable that has ever happened in the district, and has cast a gloom over the whole place. The young gentleman’s brother officers arrived at Ardlamont House later in the day for the purpose of enjoying a few days’ shooting, and received a great shock on being informed that their friend was dead. Had Hamborough lived till he attained his majority he would have come in for a fortune of over a quarter of a million. He and Mr Morrison had just purchased the Ardlamont estate a week ago. The deceased lad's father and mother will arrive at Ardlamont today. 
-
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002525/18930819/131/0022
-Sporting Gazette - Saturday 19 August 1893
+In *Sporting Gazette*Saturday 19 August 1893, [p22](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002525/18930819/131/0022):
 
 THE COUNTY GENTLEMAN.
 
+...
+
 The sad accident by which Mr. Hamborough, of Ardlamont, in carrying his gun over a fence on his Argyllshire shooting, lost his life, has come as a reminder to some careless gunners that even in these days of patent intercepting safety blocks, automatic ejectors, and hammerless central fires, it is wise to cultivate a wholesome fear of the reckless use of firearms. Young gunners particularly are too apt to treat their central fires as if they were harmless walking-sticks. Natural carelessness prevents them appreciating risks to their friends or to themselves ; and though loading and unloading has now become so exceedingly easy it never occurs to them to beware of unloading in dangerous places, where a slip or a stumble may send them and their gun rolling over together, or in placing their weapons aside during lunch to be careful to extract the cartridges beforehand. Improvements have taken away seventy-five per cent. of the risk of accidents undertaken by our grandfathers, but the risk remaining, small as it is, should not be increased by the recklessness of headlong gunners, who forget, or have never learned, the danger of treating a central-fire as if it were a plaything. Gun accidents on the whole now are very infrequent, but it is only by a due exercise of sportmanlike carefulness that they can be kept from increasing in number. 
- 
+
+```
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000575/18930829/070/0005
 Aberdeen Press and Journal - Tuesday 29 August 1893
