@@ -4,6 +4,12 @@
 Notes on island villages
 http://woottonbridgeiow.org.uk/wibook/calbourne.php
 
+Mackerel
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18700528/014/0008?browse=true
+May 28, 1870... IW Observer:
+p4(?) sandown"Mackerel Fishing.—By this time last year we had the pleasure of announcing the arrival in our bay [Sandown] of some pretty strong shoals of mackerel, and very welcome visitors they were considered all parties. For this past week or two our bay fishermen have been on the alert for their re-appearance , but unfortunately without success up to the present. One or two shoals have been sighted, but yet they have testified no inclination to make stay the bay. However, there time for them yet, and we are sure when they do come our fishermen will welcome them with a " come as often as you like, and stay as long as you like."
+
+p6 BLACKGANG. 'flit' in the Isle "VN'iylit, which is hailed "With" modi delight by the fishermen, commenced lit Blarkgahg (Saturday lust, and since that many thousands of this favourite fish hare been . etiught oil the coast. The Clialo hay mackerel have tot many year* great requisition the south Kngland: fact, I hale was the oidy part ■of this coast where they were caught until very re. ceutly, when party of fishermen tried the experiment It proved successful, and since then large numbers have been caught there dittvrout times, hut the coast is not so well adapted fur Hitching Blackgang, where the water deep, very close to the beach, and thus the mackerel come near shore to feed the smaller fish. _ Tile sliuuls are quite distinguishablr on the surface water, where they play and out, !fivi;?,flic spot the appearance in the V.Svuipr. The number of fish in a shoal may be . from the size and blackness of the spot. Uii, sufficiently near the hqarh, one y net ii left on the shore and boat with the jciiaijitCer puts off, throwing the net overboard tlic» l proceed, anil make a complete circle round the sli<Mk again they immediately commence to pull tin' net shore, and unless it hangs iu ( »ck and tear's, the fish are too sharp for them and escape liefore the circle is completed, a jroodlv lonnlier offish. •'all alivo," reward the fishermen for their ]wtiiis, and an uncommonly prcttv sisrht it tlie fish are being taken out of the water. In the net they appear to be of all the colors of the - , rainbow. A great need has been supplied at the back the Wand. viz.. a resident agent for Lloyd's. This ■coast often visited with heavy 
 
 ---
 
