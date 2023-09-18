@@ -67,6 +67,7 @@ Well, he huffed, and he puffed, and he huffed, and he puffed, and he puffed, and
 The tale was reprinted in Jacobs' *English Fairy Tales* of 1890, and opens with a rhyme:
 
 ```{admonition} *The Story of the Three Little Pigs*, Jacobs, 1890
+:class: dropdown
 
 In *English Fairy Tales*, Joseph Jacobs, 1890, [pp.68-72](https://archive.org/details/englishfairytal00jacogoog/page/n92/mode/2up):
 
@@ -85,7 +86,7 @@ Which the man did, and the little pig built a house
 
 with it Presently came along a wolf, and knocked at the door, and said :
 
-"Little pig, littk pig, let me come in."
+"Little pig, little pig, let me come in."
 
 To which the pig answered :
 
@@ -127,7 +128,7 @@ Well, he huffed, and he puffed, and he huffed and puffed, and he puffed and huff
 
 "Little pig, I know where there is a nice field turnips."
 
-" Where > " said the little pig.
+" Where ? " said the little pig.
 
 " Oh, in Mr. Smith's Home-field, and if you will ready to-morrow morning I will call for you, and we will go together, and get some for dinner."
 
@@ -179,12 +180,12 @@ Jacobs' notes to the tale are as follows:
 
 A more simplistic and childish variant appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, the and there is no mention of Shanklin or other local Island features:
 
-```{admonition} The, Lang, 1892
+```{admonition} *The Three Little Pigs*, Lang, 1892
 :class: dropdown
 
 In *The Green Fairy Book*, Andrew Lang, 1892, [pp.100-105](https://archive.org/details/greenfairybook01langgoog/page/n119/mode/2up):
 
-THe Three Little Pigs
+The Three Little Pigs
 
 THERE was once upon a time a pig who lived with her three children on a large, comfortable, old-fashioned farmyard. The eldest of the little pigs was called Browny, the second Whitey, and the yoimgest and best looking Blacky. Now Browny was a very dirty little pig, and I am sorry to say spent most of his time rolling and wallowing about in the mud. He was never so happy as on a wet day, when the mud in the farmyard got soft, and thick, and slab. Then he would steal away from his mother's side, and finding the muddiest place in the yard, would roll about in it and thoroughly enjoy himself. His mother often found fault with him for this, sua would shake her head sadly and say : ' Ah, Browny I some day yoii will be sorry that you did not obey your old mother.' But no words of advice or warning could cure Browny of his bad habits.
 
@@ -248,7 +249,8 @@ As soon as he was sure that their wicked enemy was really dead, and could do the
 
 The early Dartmoor variant can be found in *English forests and forest trees*, 1853:
 
-```{admonition}
+```{admonition} The fox and the pixies, 1853
+:class: dropdown
 
 In *English forests and forest trees : historical, legendary and descriptive*, 1853, [pp.189-90]():
 
@@ -286,7 +288,7 @@ The fox was after a time persuaded to lift the cover ; and the pixy, coming out,
 
 The apparently earlier printed tale of "Pigweeney the wise, or, The history of a wolf and three pigs" is presented in verse:
 
-```{admonition} *Pigweeney the wise*
+```{admonition} *Pigweeney the wise*, 1830
 :class: dropdown
 
 *Pigweeney the wise, or, The history of a wolf and three pigs*, [1830](https://digitalarchiveontario.ca/objects/357985/pigweeney-the-wise-or-the-history-of-a-wolf-and-three-pigs):
