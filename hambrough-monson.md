@@ -2,8 +2,11 @@
 
 I discovered this tale, in a roundabout way, from a notice of a strange occurrence at the end of the 19th century that took place, suposedly, in what is now [*The Ferryman*](https://ferrymanlymington.com/) pub, at Lymington.
 
+```{admonition} Tragedy — In the Tap Room
+:class: dropdown
 
----
+![](ferryman-taproom-henry-card.jpg)
+```
 
 > Way back in 1893, on September 5th, there was a shooting tragedy in this, the "Waggon and Horses" Inn, Walhampton, of which a local gamekeeper, 38 years old Henry Card, who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.
 >
@@ -17,9 +20,8 @@ I discovered this tale, in a roundabout way, from a notice of a strange occurren
 >
 > "The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
 
----
  
-aka Ardlamont Mystery, Monson Case.
+ So what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
 
 
  
