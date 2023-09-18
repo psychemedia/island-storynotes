@@ -4,15 +4,7 @@ From the archived [December 2020](https://shanklinhistory.net/S&DHS%20Dec%202020
 
 > Henry Smith and Three Little Pigs
 >
-> Nursery rhymes were passed down orally through the generations, with many variations in the detail, until people began to collect and publish them. The earliest printed
-version of one tale was Pigweeney the Wise: or The History of a Wolf & Three Pigs in
-1830. It involved a fairy and a house of iron rather than brick. A variation from
-Dartmoor, published in 1853, involved a fox stalking a group of pixies. It is thanks to
-Henry Smith that we have the authentic Shanklin version of the story. It includes a
-reference to the family farm and the additional feature of an apple tree which does not
-appear in other versions. Henry's version was sent, with other tales then current in the
-Isle of Wight, to James Orchard Halliwell, a friend of his brother Charles, who included
-it in the 1853 5th edition of his *Nursery Rhymes and Nursery Tales of England*. 
+> Nursery rhymes were passed down orally through the generations, with many variations in the detail, until people began to collect and publish them. The earliest printed version of one tale was Pigweeney the Wise: or The History of a Wolf & Three Pigs in 1830. It involved a fairy and a house of iron rather than brick. A variation from Dartmoor, published in 1853, involved a fox stalking a group of pixies. It is thanks to Henry Smith that we have the authentic Shanklin version of the story. It includes a reference to the family farm and the additional feature of an apple tree which does not appear in other versions. Henry's version was sent, with other tales then current in the Isle of Wight, to James Orchard Halliwell, a friend of his brother Charles, who included it in the 1853 5th edition of his *Nursery Rhymes and Nursery Tales of England*. 
 
 According to a [note](https://isleofwightfolkarchive.co.uk/Christmas%20Bumper%20Box.pdf) on "Dave and Anwyl's *Isle of Wight Folk Archive*" website:
 
