@@ -249,7 +249,7 @@ The early Dartmoor variant can be found in *English forests and forest trees*, 1
 ```{admonition} The fox and the pixies, 1853
 :class: dropdown
 
-In *English forests and forest trees : historical, legendary and descriptive*, 1853, [pp.189-90]():
+In *English forests and forest trees : historical, legendary and descriptive*, 1853, [pp.189-90](https://archive.org/details/bub_gb_RrbpBtY-A8wC/page/n193/mode/2up):
 
 Another singular story is told on Dartmoor. There was once a fox, who, prowling by night in search of prey, came unexpectedly on a colony of pixies. Each pixy had a separate house. The first he came to was a wooden house.
 
