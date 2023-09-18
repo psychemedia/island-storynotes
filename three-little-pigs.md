@@ -170,13 +170,18 @@ Then the wolf was very angry indeed, and declared *would* eat up the little pig,
 
 ```
 
-Jacobs' notes to the tale are as follows:
+Jacobs' also provides some source notes:
 
-> Source, — Halliwell, p. 16.
->
-> Parallels, — The only known parallels arc one from Venice, Bemoni, *Trad. Pop*, punt. iii. p. 65, given in Crane, *Italian Popular Tales* p. 267, " The Three Goslings ; " and a negro tale in *Lippincott's Magazine*, December, 1877, p. 753 ("Tiny Pig").
->
-> Remarks, — As littie pigs do not have hair on their chinny chinchins, I suspect that they were originally kids, who have. This would bring the tale close to the Grimms' " Wolf and Seven Little Kids," (No. 5). In Steel and Temple's " Lambikin " (*Wide-awake Stories*, p. 71), the Lambikin gets inside a Drumikin, and so nearly escapes the jackal.
+```{admonition} Jacobs, Notes on "The Three Little Pigs"
+:class: dropdown
+
+*Source*, — Halliwell, p. 16.
+
+*Parallels*, — The only known parallels are one from Venice, Bemoni, *Trad. Pop*, punt. iii. p. 65, given in Crane, *Italian Popular Tales* p. 267, " The Three Goslings ; " and a negro tale in *Lippincott's Magazine*, December, 1877, p. 753 ("Tiny Pig").
+
+*Remarks*, — As littie pigs do not have hair on their chinny chinchins, I suspect that they were originally kids, who have. This would bring the tale close to the Grimms' " Wolf and Seven Little Kids," (No. 5). In Steel and Temple's " Lambikin " (*Wide-awake Stories*, p. 71), the Lambikin gets inside a Drumikin, and so nearly escapes the jackal.
+
+```
 
 A more simplistic and childish variant appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, the and there is no mention of Shanklin or other local Island features:
 
