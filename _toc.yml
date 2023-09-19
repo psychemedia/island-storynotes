@@ -24,6 +24,9 @@ parts:
 - caption: Hanging in Chains
   chapters:
   - file: michael_morey_and_james_dove
+- caption: The Ardlamont Affair
+  chapters:
+  - file: ardlamont-case/henry-card-tragic-accident.md
 - caption: Appendix — Original Tellings
   chapters:
   - file: elder-godshill
