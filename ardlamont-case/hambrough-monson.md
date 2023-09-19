@@ -73,7 +73,7 @@ According to rumour pretty current in the Ardlament district, a new and startlin
 
 ```
 
-![](Windsor_Dudley_Cecil_Hambrough.jpg)
+![](windsor_dudley_cecil_hambrough.jpg)
 
 ```{admonition} *THE ARDLAMONT SHOOTING FATALITY*, Glasgow Herald, Tuesday 29 August 1893
 :class: dropdown
