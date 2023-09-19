@@ -2,13 +2,13 @@
 
 Back in the days of old, back when I was still at school, in the West Riding of Yorkshire, I don't recall the Isle of Wight ever being mentioned in history lessons.
 
-As an Island resident, popular history perhaps includes the second world war tales of the Pluto pipes, the "pipeline under the ocean" intended to supply fuel to the British and American forces on their return to mainland Europe following the Normandy landings; or the failed attempts by King Charles I, imprisoned in 1647 during the English Civl War, to escape from Carisbrooke Castle.
+As an Island resident, popular local history often includes tales of Pluto pipes, the "pipeline under the ocean" that awas intended to supply fuel (but that didn't...) to the British and American forces on their return to mainland Europe following the Normandy landings of the Second War; and it also tends to reference the failed attempts by King Charles I, to escape from Carisbrooke Castle when he was imprisoned there in 1647, during the English Civl War, .
 
-Given that 1066 is one of the more memorable dates of British history, I also find it surprising that more isn't made of the tale of King Harold camping not far Brading Haven, back when the harbour still extended to Brading, in the months before the 1066 invasion, as he waited for the invading forces to land somewhere along the coast earlier in the year isn't more widely spoken of.
+Given that 1066 is one of the more memorable dates of British history, it's perhaps surprising that more isn't made of the tale of King Harold camping not far Brading Haven, back when the harbour still extended to Brading, in the months before the 1066 invasion. He waited there, in the Spring, in the expectation of an invasion force landing somewhere along the coast; but the invasion was deleyed, and harold set of to fight battles elsewhere, before returning to hasting when the invastion *did* come.
 
-Or from around the same time, tales of the fabulously wealthy Bishop Odo of Bayeux, half-brother of William the Conqueror, and unofficial regent when William was out of the country, about whom many stories could be told, with island relevance: such as the stripping of his position as the Earl of Kent at Carisbrooke castle by the king himself, after the king had heard tell that Odo was aspiring to become Pope, or the legend of Odo's gold...
+Around the same time, tales could be told of the fabulously wealthy Bishop Odo of Bayeux, half-brother of William the Conqueror, unofficial regent when William was out of the country. Odo was well known to the Island, and whilst at Carisbrooke Castle was stripped of his position as the Earl of Kent by the King himself, after the King discovered that Odo was making a power play and aspiring to become Pope. There is also the legend of Odo's gold...
 
-But this story is not those stories, although it is a story of another Lord of Carisbrooke Castle, and Captain of the Island: Sir Edward Woodville.
+But this story is not those stories, although it is a story of another Lord of Carisbrooke Castle, of another Captain of the Island: Sir Edward Woodville.
 
 I'm sure you've all heard of him? From the later 1400s, the time of the War of the Roses?
 
