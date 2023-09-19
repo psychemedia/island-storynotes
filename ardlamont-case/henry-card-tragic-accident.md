@@ -1,7 +1,6 @@
 # A Tragic Accident
 
-
-I discovered this tale, in a roundabout way, from a notice of a strange occurrence at the end of the 19th century that took place, suposedly, in what is now [*The Ferryman*](https://ferrymanlymington.com/) pub, at Lymington.
+I discovered this tale from a sign in the entrance to what is now [*The Ferryman*](https://ferrymanlymington.com/) pub at Lymington, whilst killing time in advance of the last boat back to the Island.
 
 ```{admonition} Tragedy — In the Tap Room
 :class: dropdown
@@ -21,7 +20,7 @@ I discovered this tale, in a roundabout way, from a notice of a strange occurren
 >
 > "The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
 
-
+The original story appeared in just a few short hours following the accident, before the gamekeeper succumbed to his injuries:
 
 ```{admonition} *A Tragically shocking affair*, Sheffield Evening Telegraph, Tuesday 05 September 1893
 :class: dropdown
@@ -32,17 +31,7 @@ The Press Association's Lymington correspondent telegraphs.— A tragically shoc
 
 ```
 
-
-```{admonition} *A DISASTROUS ARGUMENT*, Dewsbury Chronicle and West Riding Advertiser, Saturday 09 September 1893
-:class: dropdown
-
-In *Dewsbury Chronicle and West Riding Advertiser - Saturday 09 September 1893, [p3](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003408/18930909/056/0003):
-
-A DISASTROUS ARGUMENT:
- 
-A shocking sequel attended a discussion on the case at Wallhampton. Henry Card, gamekeeper, in the employ of Mr. J. P. Heseltine, was talking with the landlord of a local public-house, and insisted that it was possible that Mr. Hambrough's injuries were self-inflicted, and in order to demonstrate this he took up his gun, placed it behind his back with one hand, and reaching down with the other hand pulled the trigger. The gun happened to be loaded, and Card blew the top of his skull off. He was not dead then, but the doctors stated it would be impossible for him to recover. Card succumbed to his injuries on Wednesday. He leaves a widow and nine children.
-
-```
+But there was to be no revovery for gamekeeper, and the next reports were of his death:
 
 ```{admonition} *DEATH OF THE FOOLISH GAMEKEEPER*, Sheffield Evening Telegraph, Wednesday 06 September 1893
 :class: dropdown
@@ -54,6 +43,8 @@ DEATH OF THE FOOLISH GAMEKEEPER.
 Henry Card, the gamekeeper who accidentally shot himself at Wallhampton, near Lymington, yesterday, while endeavouring to show how it was possible for Mr. Hambrough to have shot himself, has succumbed to his injuries. Card leaves widow and nine children. 
 
 ```
+
+More details appeared in reports of the inquest:
 
 ```{admonition} *TRAGIC AFFAIR AT LYMINGTON*, Salisbury and Winchester Journal, Saturday 09 September 1893
 :class: dropdown
