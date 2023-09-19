@@ -96,4 +96,4 @@ Viscountess Cantelupe is at present staying with her mother at Wallhampton Park,
 ```
 But that's all by the by...
 
-Returning to the tragic case of Henry Card, and the behaviour he was trying to recreate: what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
+Returning to the tragic case of Henry Card, and the behaviour he was trying to recreate: what was the *Ardlamont Shooting Case*, aka the *Ardlamont Mystery*, or the *Monson Case*?
