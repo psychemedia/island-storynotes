@@ -31,7 +31,7 @@ The Press Association's Lymington correspondent telegraphs.— A tragically shoc
 
 ```
 
-But there was to be no revovery for gamekeeper, and the next reports were of his death:
+But there was to be no recovery for the gamekeeper, and the next reports were of his death:
 
 ```{admonition} *DEATH OF THE FOOLISH GAMEKEEPER*, Sheffield Evening Telegraph, Wednesday 06 September 1893
 :class: dropdown
@@ -44,7 +44,7 @@ Henry Card, the gamekeeper who accidentally shot himself at Wallhampton, near Ly
 
 ```
 
-More details appeared in reports of the inquest:
+Additional details that might help fill out a fuller telling of the story appeared in reports of the inquest:
 
 ```{admonition} *TRAGIC AFFAIR AT LYMINGTON*, Salisbury and Winchester Journal, Saturday 09 September 1893
 :class: dropdown
@@ -70,59 +70,22 @@ The County Coroner (Mr. B. Harfield) held an inquest on Thursday afternoon, at t
 
 James Geary, of Waterman's Farm, stated that at about 11 o'clock on Tuesday morning, whilst he was working in the field the deceased spoke to him. They had a little conversation about his birds, when the deceased looked to the railway line and said " What a lot people going down the line; I wonder what's up." At the same time he unlocked his gun, a breechloader, apparently, as I thought, to take the cartridges out, but, drawing my attention to the people going down the line, I did not take notice whether he took the cartridges out or not. A few minutes afterwards, deceased left him and went across the field in the direction the Lymington ferry. He noticed nothing unusual in his manner.
 
-John Bligh, of London, staying at the Waggon and Horses, was told at about half past eleven that Mr. Card was in the house and he wanted a pint of beer, with which he supplied him ; another customer had a pint of beer, and after drawing that and a pint for himself he went into the tap-room and asked Mr. Card to drink. He said to deceased " I see they have had rather a scene across in the Island, or at Ventnor." He said " Is that that gentleman that was shot in Scotland?" Witness fetched the paper, and read the article to him, some gentleman sitting in the room said that the old keeper in Scotland said it was impossible for Lieut. Hambrough to have shot himself as he was shot, Card replied "OH YES HE COULD DO SO."
-
-He invited witness to try, saying "There is my gun, you can try it, it is empty." Witness was sitting on a seat, and didn't offer to get up. Card was nursing a little white dog at the time ; he instantly put the dog down, and took the gun up and cocked it. He then took it in his right hand, put it behind his back, with the muzzle towards the back of his head, and then fired. Witness iilustrated his explanation with the aid of the gun in question. He
-SAW DECEASED PRESS THE TRIGGER,
+John Bligh, of London, staying at the Waggon and Horses, was told at about half past eleven that Mr. Card was in the house and he wanted a pint of beer, with which he supplied him ; another customer had a pint of beer, and after drawing that and a pint for himself he went into the tap-room and asked Mr. Card to drink. He said to deceased " I see they have had rather a scene across in the Island, or at Ventnor." He said " Is that that gentleman that was shot in Scotland?" Witness fetched the paper, and read the article to him, some gentleman sitting in the room said that the old keeper in Scotland said it was impossible for Lieut. Hambrough to have shot himself as he was shot, Card replied
+"OH YES HE COULD DO SO."  
+He invited witness to try, saying "There is my gun, you can try it, it is empty." Witness was sitting on a seat, and didn't offer to get up. Card was nursing a little white dog at the time ; he instantly put the dog down, and took the gun up and cocked it. He then took it in his right hand, put it behind his back, with the muzzle towards the back of his head, and then fired. Witness iilustrated his explanation with the aid of the gun in question. He  
+SAW DECEASED PRESS THE TRIGGER,  
 and when the deed was done he put the gun down on to the table, and gradually sank down. The other hammer was at full cock. Witness called Mr. Gosling, the landlord, and asked where he could get a doctor, and was told across in the town, he called out to the ferryman to get his boat ready as quick as he could. He went into the town and summoned a doctor. When witness returned a doctor had arrived. Witness considered the shooting the result of an accident. Deceased seemed in his usual spirits. When deceased came into the tap-room, on putting down his gun, he stated to a boy that it was not loaded. Fitz Inman, of Wolverhamptan, knew the deceased well, and identified him after death. On Tuesday morning between half-past eleven and twelve witness was at the Waggon and Horses when Mr. Card came in. He was not in the tap-room at the time of the occurrence, being then on his way home to get a paper. He heard the report of a gun when he reached his door, and it appeared to come from the inn. He was called back to the house by the landlord. On opening the tap-room door he found deceased with his head resting on the settle. Witness took hold of him and eased him on to the floor. Witness took the pipe deceased was smoking out of his mouth. When witness left the room the gun was lying on the settle, he did not notice where it was on his return. He did not hear deceased say the gun was not loaded ; deceased was A VERY CAREFUL MAN with guns. The gun used was not deceased's but had been used by him for some weeks. The only other man the room when witness left was Mr. Bligh, though he believed a man named Etheridge entered the room just after he felt. It was not considered necessary to call Etheridge, as he could not add materially to Mr. Bligh's statement. The Coroner summed up briefly, and the jury returned a verdict of ACCIDENTAL DEATH. The deceased leaves a wife and nine young children. 
 
 ```
 
+Walhampton House had been acquired by Hesletine, a stockbroker, in 1883. Heseltine himself "was a stockbroker and senior partner in the family firm, Heseltine, Powell & Co.", and "lived at 196 Queen's Gate in South Kensington, London", Walhampton House in Walhampton, Hampshire being his country home ([Wkipedia](https://en.wikipedia.org/wiki/John_Postle_Heseltine)).  The family firm was founded in 1848 by Heseltine's father and Charles W. Marten in 1848 as Marten & Heseltine" and "dealt particularly in American railroad bonds and shares". Heseltine was "a collector of oil paintings, drawings and watercolours of the English and Continental schools" and "was a trustee of the National Gallery and advised on the purchase of paintings from 1893 until his death in 1929".
 
+It seems that Heseltine was not a stranger to unfortunate accidents. His daughter, Dorothy Heseltine, married Lionel Sackville, Viscount Cantelupe in 1890, only for him to dies in a boating accident a few months after their marriage:
 
+```{admonition} *LORD CANTELUPE DROWNED*, Ripon Observer, Thursday 13 November 1890
+:class: dropdown seealso
 
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000295/18950911/070/0002
-
-Dundee Advertiser - Wednesday 11 September 1895
-
-WHAT THE *WORLD* SAYS
-
-...
-
-Princess Louise, who is about to proceed to Scotland, has been staying at Wallhampton Park, near Lymington, on a visit to Mr and Mrs Heseltine.
-
-...
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001669/18960725/093/0004
-
-Norwich Mercury - Saturday 25 July 1896
-
-Marriage or Mr. R. O. Kerrison.— At St. Paul's Church, Knightsbridge, with full choral service, the marriage took place on Thursday of Mr. Roger Orme Kerrison, only son of Mr. Kerrison, of Tattingstone Place, Ipswich, and Miss Diana Elizabeth Postle Heseltine, third daughter of Mr. John Postle Heseltine, of Wallhampton, Lymington, Hants, and 196, Queen's Gate. The ceremony was conducted by the Rev H Montagu Villiers, Rector of St. Paul's, assisted by the Rev. Canon Teignmouth Shore, of Worcester, and the Rev. E. Heseltine, Vicar of Great Cresaingham, Norfolk, uncle of the bride. There were six bridesmaids, Miss Clarissa Headline (sister of the bride), Miss Enid Wilson. Miss Torobes, Miss Banbury, Miss Phyllis Greville, and Miss Irene Heseltine, who were charmingly gowned pink chiffon over pink satin, and hats of white chiffon and white ostrich illumes. The bridegroom's presents to them were turquoise and diamond necklets and bouquets of white roses and exotics in foliage. The bride looked very well in white chiffon over white satin, with white satin court train of elegant design, and veil of white tulle covered with small sprays of real orange blossoms. A reception was given at 196, Queen's Gate. Among those present were H.R.H. the Princess Louise and the Marquis of Lorne, &c.
-
-
----
-
-https://en.wikipedia.org/wiki/John_Postle_Heseltine
-
-Heseltine was a stockbroker and senior partner in the family firm, Heseltine, Powell & Co., which was founded by his father and Charles W. Marten in 1848 as Marten & Heseltine, and dealt particularly in American railroad bonds and shares. 
-
-collector of oil paintings, drawings and watercolours of the English and Continental schools
-
-From 1877 to 1925, Heseltine lived at 196 Queen's Gate in South Kensington, London,  In 1883, Heseltine acquired Walhampton House in Walhampton, Hampshire as his country house. 
-
-From 1893 until his death in 1929, Heseltine was a trustee of the National Gallery and advised on the purchase of paintings,
-
-eg daughter Dorothy Heseltine (1870–1953), who married Lionel Sackville, Viscount Cantelupe in 1890; After his death in a boating accident a few months after their marriage,
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0003092/18901113/093/0006
-
-Ripon Observer - Thursday 13 November 1890
+In *Ripon Observer*, Thursday 13 November 1890, [p6](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003092/18901113/093/0006):
 
 LORD CANTELUPE DROWNED.
 
@@ -130,10 +93,7 @@ Lord Cantelupe has been drowned in Belfast Lough. It seems that at the height of
 
 Viscountess Cantelupe is at present staying with her mother at Wallhampton Park, Lymington. The deceased was only 24 years of age.
 
----
+```
+But that's all by the by...
 
-
-
-
-So what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
-
+Returnring to the tragic case of Henry Card, and the behaviour he was trying to recreate: what was the *Ardlamont Shooting Case*, aka the *Ardlament Mystery*, or the *Monson Case*?
