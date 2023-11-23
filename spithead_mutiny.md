@@ -62,7 +62,7 @@ As you can imagine, his did not go down well.
 
 But, somehow, Gardner's men managed to get him off the ship, alive.
 
-Until this point, Bridport's flag had still been flying on the Royal George, but as the men started to prepare guns and set a watch, fearing some sort of reprisal, Bridport's officers too the flag down, so it would not be further sullied.
+Until this point, Bridport's flag had still been flying on the Royal George, but as the men started to prepare guns and set a watch, fearing some sort of reprisal, Bridport's officers took the flag down, so it would not be further sullied.
 
 Provoked in part by Garner's outburst, the men's suspicions about the good faith of the Admiralty increased further, and they added a further demand: that Parliament should sign off on the concessions too. But they were also concerned about losing Bridport's support, and the men of the Royal George wrote to him as the "father of the fleet", not to abandon them and to reassume his command.
 
