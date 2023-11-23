@@ -76,7 +76,7 @@ A week or so after they had first been hung, the ropes were taken down from the 
 
 Or at least, the *first* Spithead mutiny was over.
 
-Several ships were sent round to St Helens, and the fleet as a whole prepared to sail. But the wind conditions weren't favourable, oo strong a wind from the East, and the fleet waited still.
+Several ships were sent round to St Helens, and the fleet as a whole prepared to sail. But the wind conditions weren't favourable, too strong a wind from the East, and the fleet waited still.
 
 The provisions on offer had started to improve — that much could be accommodated on-board each ship — but as the fleet remained at anchor, the Admiralty felt the need to also put an official stamp on the return to discipline with the issue of new orders: an enforcement of the regular reading of the Articles of War, regular musters of the ships crew, and increased supervision over shore leave.
 
