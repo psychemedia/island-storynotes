@@ -4,6 +4,22 @@ https://h2g2.com/edited_entry/A87785013
 
 ---
 
+
+From the archive of the Hampshire Advertiser - Saturday 04 January 1840; also in Hampshire Independent - Saturday 04 January 1840.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18400104/036/0003
+
+Newport, Jan 4th
+
+At our Guildhall, on Saturday, the 28th ult. ...
+
+An information was laid against Thornas Long, a coachman at Ryde, who keeps a retail beer-house in the neighbourhood, charging him with having, on the 24th ultimo, kept his house after ten o'clock at night, the time allowed by the Magistrates, whereby he had Incurred the penally of 5l. Long, who bears a good character, was laid up with the gout and not able to attend ; his wife (Mary Long) on hearing her husband called, stepped into the box. and on being asked if guilty or not, pleaded not guilty. Mr. Hearn, having proved that Long's house was licensed, and that ten o'clock was the time to close at night by order of the Magistrates, called Nathaniel Ashford. the chief constable at Ryde, who, being sworn, stated that he was sent for on the night of the 24th Dec. by Mrs. Long, to the Horse and Groom. I went there, it was just after eleven at night when I went first. I found several people fighting, and forty or fifty outside, many were stripped fighting, and the blood flying in all directions. I requested them to depart, and in about twenty minutes they dispersed. There were people in the dancing room, and Farrow, the fiddler was there; I cleared the room and then went round the town, when I returned I again found people in the house who were not travellers; there was Dore. Cotton, and Mew there ; it is a disorderly house, and is frequently complained of, and what I complain of is when the constables have cleared the house and the doors are locked and we are gone, the house is again opened to admit company ; when I went the second time there were several men outside with Mrs. Long's daughters, the door was not fastened, and others were inside. The Chairman of the Magistrates, in the course of a very suitable address to Mrs. Long, expressed his sorrow that shs should keep a house of such ill fame, and while her husband was behaving well at his work, she was disgracing him by her dlsorderly conduct at home. Fined 5l.
+
+Henry Scott. of Chale, another retailer of beer had a similar information laid against him for having his house open after ten o'clock on the 24th December. John Spanner, sworn:— I am tything man of Chale , at ten minutes before twelve on the night of the 24th, I went to Scolt's house, found several people there and cups on the table ; I asked him If he knew what time it was, and he said yes. I did not go there a second time but heard that they were fighting outside his house at one in the morning. I told him the week before how It would be If he did not shut up his house in proper time. -Though Scott pleaded guilty at first, he now called a witness, apparently to clear himself of the charge, but he got him further into the scrape, for his witness, Thomae Dore, admitted he went there between six and seven in the evening, and stayed there till twelve wilh many others, and he knew it was twelve by Scott's clock, but said, we never had nothing in the world to drink after Spanner came to the door, which wa. half-past ten.— Convicted In the penalty of 2l. 10s.
+
+
+---
+
 https://en.wikipedia.org/wiki/Parkhurst_apprentices
 
 Parkhurst apprentices
