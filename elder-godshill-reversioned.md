@@ -18,7 +18,7 @@ Now, the architect had no idea what Franklin's neighbour was talking about. "Wha
 
 Well, they immediately set to, and with the other other masons and builders who had by now started to arrive and follow the commotion, they took everything back down the hill, and put it back how it was. Just in time for the Bishop and his retinue to arrive, the Bishop, seated, royally, looking as princely as he could, given that he was sitting on a donkey.
 
-But rather than stopping at the appointed place, the donkey resolutely walked straight past the building site, indeed, it quickened its pace, if anything, and started to make its way up the hill. The assmbled monks, who had been chanting psalms and looking heavenwards to prepare that place for the solemn ritual about to take place, broke off and chased after the Bishop and his wayward donkey. Eventually they cuaght up with him, half way up the hill, and led them both back down.
+But rather than stopping at the appointed place, the donkey resolutely walked straight past the building site, indeed, it quickened its pace, if anything, and started to make its way up the hill. The assembled monks, who had been chanting psalms and looking heavenwards to prepare that place for the solemn ritual about to take place, broke off and chased after the Bishop and his wayward donkey. Eventually they cuaght up with him, half way up the hill, and led them both back down.
 
 The Bishop was by now not in the best of moods, but he was there to do God's work, and do it he would, and so he got off the donkey, and laid the foundation stone, placing under it a coin and some masonic tools. And then he absolved all the sins of the franklin in exchange for the land and set off back for the Abbey.
 
