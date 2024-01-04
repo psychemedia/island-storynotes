@@ -282,6 +282,9 @@ Memoirs Of Missionary Priests And Other Catholics Of Both Sexes That Have Suffer
 Also Lyre / Lire  etc? Maybe in one of vols of [https://archive.org/details/MemoirsOfMissionaryPriests](https://archive.org/details/monasticonanglic03dugd) Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales : also of all such Scotch, Irish, and French monastaries, as did in any manner relate to those in England
 
 
+https://archive.org/details/bim_eighteenth-century_curious-and-diverting-jo_defoe-daniel_1734/page/n13/mode/2up?q=kett
+Curious and diverting journies, thro' the whole island of Great-Britain. Containing, I. A particular description of the principal cities and towns, ... II. The customs, manners, speech, as also ... employment of the people. III. The produce and improvement of the lands, ... IV. The sea ports and fortifications, ... V. The publick edifices, ... With useful observations on the whole
+
 Bilblioraphy
 Isle of Wight Local History: A Guide to Sources, Alan Parker, 1975 ?
 
