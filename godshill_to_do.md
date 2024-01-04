@@ -279,6 +279,9 @@ by Warner, Richard, 1763-1857 1795
 https://archive.org/details/MemoirsOfMissionaryPriests
 Memoirs Of Missionary Priests And Other Catholics Of Both Sexes That Have Suffered Death In England On Religious Accounts From The Year 1577 To 1684, Two Volumes In One, 1839
 
+Also Lyre / Lire  etc? Maybe in one of vols of [https://archive.org/details/MemoirsOfMissionaryPriests](https://archive.org/details/monasticonanglic03dugd) Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales : also of all such Scotch, Irish, and French monastaries, as did in any manner relate to those in England
+
+
 Bilblioraphy
 Isle of Wight Local History: A Guide to Sources, Alan Parker, 1975 ?
 
