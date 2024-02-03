@@ -72,3 +72,31 @@ THE DYING MAN.
 BY ABRAHAM ELDER, ESQ.
 p347-351
 
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/19300219/098/0007
+Portsmouth Evening News - Wednesday 19 February 1930
+
+The Seer of Freshwater.
+
+Many half-forgotten folk-taks are contained in Abraham Elder’s "Tales and the Isle of Wight". Do Bombridge folk still tell of the ghostly passenger who was ever to be found seated in the local ferry? Do Islanders still live in dread of the giant of Chale, who "loved man's flesh better then pig. . . chose those that were tall and heavy, stewed the fat ones in their own gravy?"
+
+During his travels, Abraham Elder made the acquaintance "the blind ghost-seer of Freshwater,” who related to him the story of a spectral revenue cutter which was supposed the smugg'era the Western Wight.
+
+Another "seer" the author relates, recounted an astonishing ghost atory of which he declared he had the ancient manuscript. When Elder asked to see it, a prolonged search of the "seer's" house ensued, and the latter exclaimed that it must heve been "stolen." According Elder, the  "seer" even went so far as to produce a scapegoat and drag him before a magistrate at Newport in order to save face.
+
+How times have changed! One of these volumes records lhat the population of the Island at the close of the Eighteenth Century was estimated about 18,000, of whom 1,000 were in the Workhouse!
+
+---
+
+Other stories by Abraham Elder
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000034/18480108/063/0006 The Lucky Grocer, Bristol Mercury - Saturday 08 January 1848
+
+Occasionally appear elsewhere, eg
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001448/18621108/080/0006 The Dying Man, Dundalk Democrat, and People's Journal - Saturday 08 November 1862
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000938/18420303/032/0001 Announce contents of Bently 1842, Tommy Doddy, Brighton Gazette - Thursday 03 March 1842
