@@ -22,7 +22,7 @@ From this, it seems that Mr Elder is not originally from the Island although he 
 >
 > Should, however, the public act with greater indulgence in the present instance, it is my intention, if life and health be preserved to me, to offer a second volume to its notice in the due course of time.
 
-For whatever reason, a second volume never appeared.
+Following the publication of *Tales and Legends* in 1839, several more installments appeared in Bentley's Miscellany magazine. These tales then appeared in an extended second edition of *Tales and Legends* published in 1841.
 
 > One difficulty presents itself. Being a stranger to the island, — during the short time I may be able to bestow upon a visit next summer, I may perhaps overlook many things that ought to be recorded with care. I should therefore feel under obligation to any one who will call my attention to any antiquity, tale, or tradition connected with the island; — directing their communication to A. Elder, Esq., author of _"Tales and Legends of the Isle of Wight,"_ under cover to his publishers, Messrs. Simpkin, Marshall, and Co., or to Mr. French, bookseller, Newport.
 
