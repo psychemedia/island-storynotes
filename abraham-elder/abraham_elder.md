@@ -375,6 +375,20 @@ THE FATAL PICTURE.
 BY ABRAHAM ELDER, ESQ.
 p374-381
 
+https://archive.org/details/sim_bentleys-miscellany_1844-07_16/page/368/mode/2up
+Bentley's Miscellany  1844-07: Vol 16
+Publication date 1844-07
+SMOKING ROBIN
+
+https://archive.org/details/bentleysmiscell00bentgoog/page/n46/mode/2up
+Vol 23 1848
+THE LUCKY GROCER
+
+https://archive.org/details/sim_bentleys-miscellany_1850-07_28/page/500/mode/2up
+Bentley's Miscellany  1850-07: Vol 28
+Publication date 1850-07
+THE PRINCE OF ZOOLOO
+
 
 https://archive.org/details/in.ernet.dli.2015.459286/page/n513/mode/2up?q=+%22abraham+elder%22
 VOl XXIV
@@ -383,5 +397,11 @@ THE WILD BEAST TAMER,
 BY ABRAHAM ELDER, B8Q.
 p492-497
 
+
+https://archive.org/details/sim_bentleys-miscellany_1847-07_22/page/n325/mode/2up
+Bentley's Miscellany  1847-07: Vol 22
+Publication date 1847-07
+
+THE WANDERING FIDDLER
 
 ----
