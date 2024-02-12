@@ -6,6 +6,122 @@ Pub history census 1911  Newport https://pubshistory.com/IsleofWight/Newport/
 ## Cases
 
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540304/013/0003
+Isle of Wight Observer - Saturday 04 March 1854
+
+BOROUGH SESSIONS.
+
+Monday.— Before F. Pittis, Esq. (Mayor), E. Way, Esq., and R. M. Wavell, Esq.
+
+Catherine Stewart, a common prostitute, was charged by William Caultield, a private in the 23rd regiment, with stealing from his pocket a silver watch, with a gold chain appended to it.
+
+Committed to the Assizes.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540325/012/0003
+Isle of Wight Observer - Saturday 25 March 1854
+
+Rebecca Smith, a common prostitute, was charged by William Stevens with stealing his coat.
+
+It appeared that the complainant went into field to fight with another man and the defendant held his coat for him and he had never seen it since, but there being no proof against the prisoner that she stole the coat she was discharged in this case, but was then charged with stealing a book, " Light Hearts and Happy Days," from the shop of Mr. Frank Etheridge.
+
+Mr. Etheridge deposed to having seen the book produced in his shop about a week since, and swore to its being his property by the private mark he had written in it and bv his own stamp, which was in the book.
+
+William Bolton, an acting corporal the Rifle Brigade, said that last Monday evening he met the prisoner in the barrack-yard Parkhurst, and that she went into his room with him and another man, and from thence into the canteen, where she showed him the book now produced and asked him if he would like to read it, and when they left the canteen she gave it to him, and he said he would return it to her the next evening, but the next morning he gave it to the pay Serjeant, who, in his presence, gave it to the police constable now present.
+
+P.C. Purchase, being sworn, said—I apprehended the prisoner last Monday night about quarter to 10 o'clock, on Hunnv-hill, on the charge of stealing a coat, handkerchief, and some money, belonging to William Stevens. I asked her where the red-cover book was that she had been reading that day, and she said she returned it to its owner. I asked her who that was and she said, you have got that to find out, but she afterwards told me that it belonged to a soldier. The next morning I went to the barracks and obtained the book of a serjeant in the presence of the last witness. I saw the prisoner the same day, and asked her where she got it from but she did not say. I took her to Mr. Etheridge's shop this morning, as she had told me she had bought a pennyworth of paper and an envelope there, to see if they (Mr. Etheridge, his wife, and daughter, who served the shop) knew her, and when there I said to her, where was the book, on the glass case or with those books (some that were together on the counter) you can tell me or leave it alone, it will neither make it better worse. She said, I took it off the glass case.
+
+The prisoner had nothing to say in defence, and she was committed to the Sessions.
+
+It appeared that she had also been committed on the Wednesday previous for stealing a memorandum book from Mr. John Mew's shop.
+
+
+[TH: also the following tragic tale]
+
+An inquest was held at the Medina-inn, on the 17th inst., before F. Blake, Esq., coroner, the body of a new-born female child.
+
+Joseph Read, being sworn, said—l live in Quaystreet, Newport. Yesterday afternoon, about o'clock, I was coming from the Grove into Newport. My attention was directed to something in the stream near Seasireet. I got it out, and found it was the body of a child—the body which has now been viewed by the jury. It was tied up in of the lining of gown, and part of a brick was also enclosed. It was tied in two knots, and pinned at the edges. The lining and brick are now produced. T'uc briek was not near the head of the ciiiid. was a female child. observed a bruise tile fori head. It was near Mr. Ilallett's coal wharf. I delivered the body to Mr. Cross, the landlord of the Medina inn, Newport. The brick was clear of the body, hung in the suing the bundle. Thomas Denncss was next examined, and said Yesterday afternoon, about oiie o'clock, I saw bundle tied up and pinned. It resembled the wrapper now produced. It was near the hatch of St. Cross' mill. That was about y.trds from the place described the last witness. I tried to reach it, and touched it with my foot. my touching it, it fell over the hatch. It fell heavy. It was then high water. It must have fallen seven or eight feet—probably two feet water hen it fell. Mr. Robert Ilorlock, surgeon, then said—l first saw the body of d. ceased about four o'clock yesterday afternoon. I examined the forehead and found it had a dark appearance, and there appeared to be cxtravasted blood beneath the scalp. The face was also great deal discoloured. The left arm was lying across the upper part the chest, and the flesh of the arm quite flattened. impression the chest where the arm had been lying across the body. The right arm in a flexed positi >n. The umbilical cord had been divided close to the navel, apparently with an instrument, either scissors or knife; but no ligature had been applied. medical man or a midwife would have applied a ligature. The legs and thighs were also flexed and flattened. I think the body must have been tied up in the bundle while warm. There was eccleymosis of the blood-vessels on the arms and thighs, which prove that circulation had taken place after delivery. It was a full-grown female child. I should say that it had been dead more than a week—between a week and fortnight. Decomposition had commenced on the surface. On turning the body over, observed a good deal of crepitation under the left shoulder. afterwards made an internal examination of the body. opening the chest, I found the lungs and heart perfectly healthy. The vessels the right of the heart, and the pulmonary vessels were much congested. The lungs appeared red and healthy ; and on making incision into the lungs, blood flowed. It crepitated the touch. have not the slightest doubt that the child was bom alive. I put a portion the lungs into water, and they floated. The stomach was perfectly empty. The child had never taken food. The bladder was also empty, which showed that the child must have passed water after its birth. then removed the scalp ; and underneath the scalp, on the right and upper side of the forehead, over the frontal bone, there was considerable quantity of extravasated blood. No extravasation under the other portion of the scalp. There is a membrane which covers the bone, (called pericranium) and there was extravasated blood between that membrane and the bone. The place of the extravasation corresponded with the black appearance the forehead; and I should think it was occasioned by a blow from a blunt instrument, as it did not cause any wound. On opening the head, I found the membrane of the brain a good deal congested, more particularly underneath the frontal bone, corresponding with the extravasation externally. That might have arisen from the same injury. The injuries which found in the head, were sufficient to have caused death ; and I consider tliev must have been inflicted while the child was alive. It was very fine child, and I could find nothing to account for its death from natural causes. If the mother had been delivered while standing, and the child had fallen on a stone floor, it is possible, though not probable, tha' it may have sustained injuries such as I have described. The injury might have been occasioned either from heavy fall a hard floor, or from a blow from blunt or flat instrument. Verdict, —" The deceased was found dead, and that death was occasioned by injuries received on the head, but sufficient evidence shew whether the injuries were inflicted wilfully or accidentally." 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003
+Isle of Wight Observer - Saturday 22 April 1854
+
+NEWPORT PETTY SESSIONS. Saturday.—Before Rev. R. W. White (chairman), Sir John Simeon, Bart., Sir H. P. Gordon, Bart., the Hon. W. aCourt Holmes, and Capt. Kerr.
+
+William Bagwell was charged with stealing a sovereign from the trowers pocket of Joseph Buckett.
+
+It appeared that the complainant and the prisoner were "navvies" working together at West Cowes, lodged together, and occupied the same sleeping apartment. When the complainant went to bed on Thursday night last he left his purse in his trowsers pocket. It contained a sovereign, three half-crowns, two or three shillings, and four sixpences. In the course of Friday morning he had occasion to go to his purse, when he missed the sovereign. He went to bed before the prisoner, and did not hear the prisoner go. No one else slept in the same room.
+
+Ellen Vine (a common prostitute) deposed to having been with the prisoner the next day at an eating house at Cowes, where he changed a sovereign.
+
+Committed to the Sessions. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540610/015/0003
+Isle of Wight Observer - Saturday 10 June 1854
+
+NEWPORT PETTY SESSIONS.
+
+Saturday.—Before Rev. R. W. White, chairman ; Sir H. P. Gordon, Bart., Sir John Simeon, Bart., Hon. W. aCourt Holmes, and A. J. Hambrough.
+
+George Lang and Charles King, the two privates of the 93rd regiment, who were remanded from Thursday last for breaking into the Riding School at Parkhurst barracks, and stealing therefrom several articles from the baggage which was stored away there, were again brought forward.
+
+Richard Gough, color sergeant of the 77th depot, stationed at Parkhurst, was first examined, and said— I do not know either of the prisoners. Part of the articles now produced were my charge. On Tuesday morning last, having heard of a robbery being committed in the riding school at the barracks, I immediately went to see if any of the packages that were left in charge by Colonel Graham Egerton, of the 77th regiment, on his leaving England with the regiment for Constantinople, were disturbed. I found that a bed vellese had been opened and a buffalo's skin, a pair of blankets, bolster, two feather pillows, pilot jacket, and a polka cloak had been taken out of it. About the 17th ult. I had the vellese taken to my quarters to be aired. I saw it unpacked, and afterwards packed the things in myself. It was taken back to the riding school on the 23rd. It was fastened by buckles, and not locked. It was never opened at my quarters after I packed it. I know it was full when taken back to the riding school, because it took two men to carry it. The riding school is not locked during the day, but whether it is at night I am not aware. On the 24th I put my hand inside the package to see if the things were all right, and found that they were. On coming from church to the parade ground we had to pass through the riding school to get to the parade ground. When I came out of church last Sunday I turned round and looked at the vellese and saw that it was quite tight, and just as had previously left it. All the things I have mentioned, except the pilot jacket which is not here, are those now produced. I believe there were other packages broken open belonging to the 95th regiment, but I only had charge of those of the 93rd.
+
+Elizabeth Sterrett, a common prostitute, living in the Tontine yard, Cosham-street, Newport, was next examined, and said—On Tuesday morning last, about half-past seven, the prisoner Charles King brought to my house a bundle tied or rolled up in something black like a coat or cloak. He said he found it, and asked me to let it stop at my house a bit. I said yes. He did not open it, nor did I. He took it upstairs into my bedroom. He came down stairs again, and remained there till the police constable came, about ten o'clock the same morning. He gave no account of where he got it. A girl from Portsmouth was having some breakfast with me when he came. I left them together in my house and went across the yard to the public house, and whilst there the policeman came and asked me if knew Charles King, and I said yes. He said, where is he. I said in my house. He asked me if he had brought a bundle. I said yes. I told him to go in and look for it. I told him to go up stairs. I went with him. King was in the house, concealed in the cupboard. The policeman brought down the bundle and opened it in my presence. There were four articles in it; a blanket, pillow, cloak, and pair of boots. I cannot swear that those now produced were the articles the policeman took away. I have not seen the prisoner Lang since somewhen last week. I saw King at the Tontine public house about seven or eight on Monday evening.
+
+Jane Lock, another of those unfortunate girls, living in the same yard as the last witness, said— I know the prisoners. I saw King on Monday night. On Tuesdav morning, about half-past seven, I saw him in the Tontine yard. I was in a neighbour's house the time. When I went into my own house, I saw some things there. It was about half-an-hour before I went to my own house. I did not see King away, or what become of him. When I went up stairs I saw a blanket and pillow had been put on my bed, and when I came down stairs again and looked in the cupboard, I found some wet shirts and a sheet. The blanket and pillow were laid loose on the bed as if they belonged to the bed. I am sure they were not there when I left the house. Just after I found these things my house King came in, and I asked him if he had brought the things and put them where I found them. He said, yes. I begged him to take them away. He said he would presently. He had nothing else with him. I then went out and King followed. I went across the yard. I returned in about ten minutes and found the pillow was gone. King was then in Elizabeth Sterritt's. I went into him and asked him if he had taken the pillow. He said, yes. I said to him, I wish you would come and take the rest away. He said he was going home bye-and-bye and he would take them with him. Whilst I was talking to Mrs. Sterritt P.C. Hobbs and the picquet came up the yard. The policeman took charge of the things and carried them away. I did not see anything of Lang.
+
+P.C. Hobbs deposed to having gone with P.C. Purchase in search of the prisoner King, and to having found, at the witness Lock's house, four wet shirts, a wet sheet, and blanket, which he produced; and that he afterwards went to the barracks with Purchase, who took from Lang's foot a shoe and compared it with some footmarks in a garden adjoining the riding school, through which the prisoners must have have passed with the things to get from the barracks unseen, and which marks corresponded exactly with Lang's shoe.
+
+P.C. Purchase was next examined, and said— In consequence of information I received on Tuesday morning last, I went to the barracks and received from Sergeant Gough a list of some things that had been stolen. I then went into the riding school and through a door at the side leading into little garden, where I saw some footmarks. There was another door in the garden which led into the summer parade field. Some new buildings had been erected near the garden, and the clay from the foundation had been thrown into the garden which, being quite soft, made the footmarks very plain. There were the marks of the feet of two men in the direction of the field from the door. I got some stones and covered up some of the plainest of the tracks. I then went to the Sergeant Major and asked him if there were any men absent last night. He said, Charles was. I then came into Newport, and went into the Tontine yard with P.C. Hobbs—four soldiers came down with me. I went into the witness Sterritt's house and went up stairs, and received from her a blanket, a polka cloak, pair of boots, and a coat. She said, King had brought them there. I now produce the things. I then came down stairs and apprehended King; he was concealed in a cupboard. I told him I should take him into custody for stealing those things from the riding school. He said, then you'll take me for what I haven't done. As I was coming to the station house with him custody, I said him, how do you account for having those things in your possession? He said, I found them on the side of the road between the barracks and the toll-gate. I asked him, when ? He said, last night, just after nine o'clock, when I was going to the barracks, just after the first tattoo, I picked them and brought them into the town; I was late, and I stopped absent.
+
+From further information I received, I went to the barracks again in the afternoon with Hobbs. I went to Lang's quarters where he was, and told him I must have his shoes to compare with some footmarks. He took them off. I then went to the garden and compared them with the footmarks there, and they corresponded exactly. I now produce the shoes. I then went back to Lang's quarters and took him into custody. The buffalo skin and the other pillow were found in the field.
+
+This being all the evidence there was against Lang the magistrates thought it insufficient, and discharged him.
+
+Adam Mc'Pherson, sergeant of the 93rd Regiment, said— I know the prisoner King. I have known him for eight years. I was on duty on Monday night, and he was reported absent from tattoo. I remained on duty till Tuesday afternoon two o'clock ; during which time he did not come to the barracks. On Sunday and Monday he was on duty as sentry at the riding school, which gave him an opportunity of seeing what was there. Sometimes the door of the riding school is not locked at night. During the night of the 29th ult., about twelve o'clock, the sentry at that post reported that some one had broken into the riding school. In consequence of which I went over, and discovered the side door which leads into the garden open. I saw the top partly off one box and the things in a ruffled state. That box belonged to the 77th Regiment. The baggage of five different Regiments was there. A box belonging to the 95th had also been disturbed.
+
+The prisoner said, I am guilty of having the things, but not of taking them. I found them on the road-side. I never looked to see what they were; if I had known what they were, I would have had nothing to do with them.
+
+Committed to the Sessions.
+
+The prisoner was then charged with and committed for stealing the shirts from the washhouse at the barracks, they being identified by the woman who was washing them the day before.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540729/013/0003
+Isle of Wight Observer - Saturday 29 July 1854
+
+BOROUGH SESSIONS.
+
+Monday.— Before E. Way and Thos. Cooke, esqrs.
+
+Caroline Pearce and Ellen Pearce, two sisters and common prostitutes, were charged by P.C. Hobbs with being in the street Wednesday night last, about 12 o'clock, for the purpose of prostitution.
+
+The policeman not being able to swear that Ellen was present at the time she was dismissed, but Caroline was fined 10s. and 5s. costs, which was paid.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002
+Isle of Wight Observer - Saturday 26 August 1854
+
+BOROUGH SESSIONS
+
+Monday.— Before F. Pittis, esq., mayor; E. Way, esq,, R. M. Wavell, esq., and Thomas Cooke, esq., magistrates.
+
+The applications for licenses for public-houses and billiards occupied the Bench for some considerable time; at the commencement of which, at the request of the Mayor, the clerk read the Act of Parliament relating to the closing all public-houses between thc hours 12 Saturday night and 1 on Sunday afternoon, and half-past 2 in the afternoon and 6 in the evening, and 10 at night till 4 o'clock Monday morning, which came into operation on thc 6th inst.
+
+No license was taken away from any publican, though the landlord of the "Race Horse" was cautioned in consequence of complaints having been made that he kept a room for the use of the prostitutes of the town.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540923/014/0003
+Isle of Wight Observer - Saturday 23 September 1854
+
+PETTY SESSIONS. Thursday.— Before Dr. Lind and G. J. Sullivan, esq. 
+
+A case of prostitution was also heard; but the defendant was discharged with a caution, having been locked up all night.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002
@@ -42,7 +158,41 @@ Defendant said there had been no beer drank after ten minutes to ten. One man wa
 
 Fined 20s and 5s costs, or fourteen days' imprisonment. 
 
+
+--
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541014/007/0002
+Isle of Wight Observer - Saturday 14 October 1854
+
+Borough Sessions
+
+Monday.— Before E. Way, Esq. and R. M. Wavell Esq. 
+
+Joseph Bailey, Leonard Campbell, John Beadleslone and Thomas Lyons, four privates in the 4th depot, stationed at Parkhurst barracks, were charged with breaking the house of Elizabeth Sterritt, a common prostitute, in the Tontine yard, on Sunday, the 1st inst., about 3 o'clock in the morning. There being no evidence against Bailey, he was discharged ; but the other three being identified they were each fined 10s. and 3s. 6d. costs, and in default of payment were committed to Winchester Gaol for one month hard labour.
+
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541209/009/0003
+Isle of Wight Observer - Saturday 09 December 1854
+
+BOROUGH SESSIONS.
+
+Wednesday.— Before Thomas Cooke, Esq.
+
+Ann Jones, a common prostitute, was committed to the House of Correction, at Winchester, for one month's hard labour, for making a great noise and singing indecent songs in the street on Tuesday night. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541223/008/0003
+Isle of Wight Observer - Saturday 23 December 1854
+
+BOROUGH SESSIONS.
+
+Monday.—Before C. W. Estcourt, Mayor, E. Way, Esq., and F. Pittis Esq.
+
+Elizabeth Hurst, common prostitute, was charged with creating a disturbance in the street, on Saturday night last. Discharged with a reprimand. 
+
+
+---
+
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550310/007/0003
 Isle of Wight Observer - Saturday 10 March 1855
 
@@ -353,7 +503,7 @@ Mr. Hearn observed, all he rose to say was— that the apology offered Mr. Pitti
 
 Mr. Eldridge then rose, and said be was instructed by Mr. Pittis to state that he had accepted the apology of Mr. Ford on the part of the rev. defendant, and he felt he would not be acting the part of a Christian if he had refused to do so. With respect to the steps he had taken, he did not see how be could have acted otherwise. Let them look at the circumstances of the case. In 1854, Mr. Pittis, as their chief magistrate, attended the laying of the foundation stone of their new church, on which occasion they were honoured with the presence of the consort of her Gracious Majesty, the Prince Albert. He (Mr. P.) afterwards presided at a dinner at the Town Hall—there toasted the health of the Bishop of Wincfaester—and spoke of the cburch of his forefathers. Now let them compare these circumstances with the following extract from defendant's pamphlet :-" Of the magistrate who presides at a dinner toasting a Bishop after the consecration of a churcb, and spouting about the churcb of our forefathers." [Mr. Eldridge did not finish the sentence, whicb contains the libel-" while known to be a frequenter of the brothel."] And then let any person say whether or not they would not have taken these remarks as reflecting upon Mr. Pittis as their then Mayor, and referring to no other person. He did trust that in future Mr. Wilson would be really cautious in publishing and putting into circulation stories affecting the characters of individuals, obtained from the loose assertions of others— and of which he admitted he had no personal knowledge whatever. Such conduct he could not but say was most derogatory to the Christian Character
 
-At the conclusion of Mr. Eldridge'a observations, the crowded court signified their approbation by several outbursts of applause. The Hon Chairman observed, that the course which Mr. Pittis had pursued on the matter was in every respect a very proper one, and his acceptation of the explanation and apology which had been given in behalf of the defendant was most honourable to him. The steps he had taken were only such as were necessary to vindicate his character from the imputations which certainly did previously appear to the Bench to have been levelled at him ; although he would not for one moment believe the censure implied in the pamphlet as referring to him found a single response in the public mind. It would be superfluous on the part of the Bench to state that the well known moral character of Mr. Pittis —his standing in society, and the high estimation in which he was held by all who knew him, raised him above any foul aspersions which might be uttered regarding him ; and as they had heard what defendant by his counsel had said respecting the offensive paragraph in the pamphlet, and that he most distinctly asserted he did not in any way allude to bhn, he (the Chairman) considered it was unnecessary to make any further remarks about it. But he could not refrain from saying, that he considered such tracts as those the rev. gentleman had thought proper to publish and put in circulation, affecting the town of Newport, were quite uncalled for and most injudicious, and not at all reputable on the part of the defendant ; and he did trust he would altogether withdraw them, and be better advised in future.
+At the conclusion of Mr. Eldridge'a observations, the crowded court signified their approbation by several outbursts of applause. The Hon Chairman observed, that the course which Mr. Pittis had pursued on the matter was in every respect a very proper one, and his acceptation of the explanation and apology which had been given in behalf of the defendant was most honourable to him. The steps he had taken were only such as were necessary to vindicate his character from the imputations which certainly did previously appear to the Bench to have been levelled at him ; although he would not for one moment believe the censure implied in the pamphlet as referring to him found a single response in the public mind. It would be superfluous on the part of the Bench to state that the well known moral character of Mr. Pittis —his standing in society, and the high estimation in which he was held by all who knew him, raised him above any foul aspersions which might be uttered regarding him ; and as they had heard what defendant by his counsel had said respecting the offensive paragraph in the pamphlet, and that he most distinctly asserted he did not in any way allude to him, he (the Chairman) considered it was unnecessary to make any further remarks about it. But he could not refrain from saying, that he considered such tracts as those the rev. gentleman had thought proper to publish and put in circulation, affecting the town of Newport, were quite uncalled for and most injudicious, and not at all reputable on the part of the defendant ; and he did trust he would altogether withdraw them, and be better advised in future.
 
 After expressions of approbation on the part of the assembly, the Court broke up.
 
