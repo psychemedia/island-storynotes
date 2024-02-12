@@ -5,7 +5,7 @@
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551006/013/0003
 Isle of Wight Observer - Saturday 06 October 1855
 
-During the last week a deputation, consisting of the clergymene of St. Thomas' Church, the ministers of the different dissenting congregations and others, presented the following memorial to the magistrates at the Townhall respecting the social condition of the borough, in the hope that means may be taken to prevent a continuation the present exhibition of indecency and open prostitution which now disgrace its thoroughfares :—
+During the last week a deputation, consisting of the clergymen of St. Thomas' Church, the ministers of the different dissenting congregations and others, presented the following memorial to the magistrates at the Townhall respecting the social condition of the borough, in the hope that means may be taken to prevent a continuation the present exhibition of indecency and open prostitution which now disgrace its thoroughfares :—
 
 "To the worshipful the Mayor and the Magistrates of the borough of Newport, Isle of Wight.
 
