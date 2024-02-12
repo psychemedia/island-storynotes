@@ -103,6 +103,13 @@ Caroline Pearce and Ellen Pearce, two sisters and common prostitutes, were charg
 
 The policeman not being able to swear that Ellen was present at the time she was dismissed, but Caroline was fined 10s. and 5s. costs, which was paid.
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540729/012/0004
+Hampshire Telegraph - Saturday 29 July 1854
+
+At the Borough Petty Sessions on Monday, before T. Cooke amnd LE. Wacy, Esqrs.— Two sisters, Elton and Caroline Pierce, there charged by P.C. Hobbs, under the bye laws, with having been in the streets the previous Wedntesday night, between twelve and one o'clock, as common prostitutes. There was some doubt as to the a identity of Ellen, and she was discharged; the other was convicted in the penalty of 1Os., with 5s. costs, which she instantly paid. 
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002
 Isle of Wight Observer - Saturday 26 August 1854
