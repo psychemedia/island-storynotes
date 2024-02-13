@@ -665,7 +665,7 @@ Fined 10s., and the costs of the court.
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580731/036/0007
 Hampshire Advertiser - Saturday 31 July 1858
 
-BOROUGH COORT. Monday— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
+BOROUGH COURT. Monday— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
 
 George Coward charged Henry Underwood with striking him several times on Sunday night last, in Crocker-street. It appears he and others were drinking, and there were several skirmishes, and complainant, who was the least to blame, got most of the blows. Defendant declared he did not strike him at all, but P.C. Limingtoo swore he struck him in bis presence, and he was fined 15s, including costs, which he paid.
 
