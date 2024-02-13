@@ -1,6 +1,6 @@
 # Nurseries of Vice
 
-The context for this is a reference I happened across to a pamphlet entitled "Tempter and Tempted" which appears to have ranted against Newport oas a hotbed of vice corrupting the soldiers barracked at Parkhurst. A later pamphlet also became the subject of a libel case against local dignitary, F. Pittis.
+The context for this is a reference I happened across to a pamphlet entitled "Tempter and Tempted" which appears to have ranted against Newport as a hotbed of vice corrupting the soldiers barracked at Parkhurst. A later pamphlet also became the subject of a libel case against local dignitary, F. Pittis.
 
 I still haven't managed to track down the pamphlet...
 
