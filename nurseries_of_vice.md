@@ -109,6 +109,18 @@ Committed to the Sessions.
 
 The prisoner was then charged with and committed for stealing the shirts from the washhouse at the barracks, they being identified by the woman who was washing them the day before.
 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540729/043/0007
+Hampshire Advertiser - Saturday 29 July 1854
+
+BOROUGH COURT. Monday.— Magistrates pretent : T. Cooke, and Edward Way, esqrs.
+
+FEMALE JUVENILE DEPRAVITY.
+
+Caroline Pierce and Ellen Pierce, two girls of the town, were charged with loitering in the High-street, on Wednesday night, at half-past twelve, for an improper purpose. Police-constable Hobbs said that he saw several girls there on the occasion, among whom were Caroline Pierce and, he believed, Ellen Pierce, but was not certain. He went towards the girls, when they passed through the Corn Market and stood under the Mechanics' Institution. He made towards them again, and they then moved towards the Green Dragon-yard. Caroline Pierce and another came back; the other girla went in different directions. He ordered them to go home, but instead of doing so, they went into the High-street. They were constantly in the High-street, and he had seen them speak to gentlemen, and go away with them. They were generally quiet, but the street swarms with girls of that description.— Police-constable Grapes said the girls were continually in the street at an improper hour.— Ellen said she was not in the High-street at all, and Caroline said she had been to a party at the Beehive, and only went into Cosham-street with her companions, who lived there, and she was going home when she met police-constable Hobbs. It should never occur again, and she was very sorry it had now happened.— Mr. Cooke said he had no doubt but that Ellen was as profligate as her sister, and warned them and other girls in Court about strolling the streets at night.— Caroline was fined 10s, and 5s costs, which she paid immediately. 
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540729/013/0003
 Isle of Wight Observer - Saturday 29 July 1854
@@ -126,7 +138,7 @@ The policeman not being able to swear that Ellen was present at the time she was
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540729/012/0004
 Hampshire Telegraph - Saturday 29 July 1854
 
-At the Borough Petty Sessions on Monday, before T. Cooke amnd LE. Wacy, Esqrs.— Two sisters, Elton and Caroline Pierce, there charged by P.C. Hobbs, under the bye laws, with having been in the streets the previous Wedntesday night, between twelve and one o'clock, as common prostitutes. There was some doubt as to the a identity of Ellen, and she was discharged; the other was convicted in the penalty of 1Os., with 5s. costs, which she instantly paid. 
+At the Borough Petty Sessions on Monday, before T. Cooke and E. Way, Esqrs.— Two sisters, Ellen and Caroline Pierce, there charged by P.C. Hobbs, under the bye laws, with having been in the streets the previous Wednesday night, between twelve and one o'clock, as common prostitutes. There was some doubt as to the a identity of Ellen, and she was discharged; the other was convicted in the penalty of 1Os., with 5s. costs, which she instantly paid. 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002
@@ -455,12 +467,235 @@ BOROUGH COURT. Thursday. — Magistrates present :- Dr. Wavell, and F. Pittis, e
 Charlotte Honeybunn, Elizabeth West, and Julia Vine, were committed for twenty-one days each hard labour, as common prostitutes, and being drunk and riotous in the streets at twelve o'clock at night.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551215/048/0008
+Hampshire Advertiser - Saturday 15 December 1855
+
+ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT.
+
+Monday.— Magistrates present : The Mayor (J. H. Hearn, esq.). Dr. Wavell. and E. Way. esqrs.
+
+A Batch of Disorderlies.— Edward Howes, the landlord of the Tontine, a notorious house in Cosham-street, was charged with assaulting Ellen Cribb, by striking her, making her nose bleed, and also tearing her clothes. He waa fined 5s. and costs.
+
+The last complainant's sister, who gave her name as Rosannah Oates, wife of a Serjeant of the 44th Regiment, preferred a similar charge against the defendant Howes. She admitted that she just stepped into the house with a soldier when a whole lot of them were fighting, and just after she had left, and had got into the middle of the road, the defendant came out and struck ber. He accused her, too, of belonging to the opposite shop, and getting the soldiers away from his house to the " Red, White, and Blue." He was once more fined 5s. and 5s. costs.
+
+The above two girls were now in their turn charged by tbe police with an offence against the bye-laws, by using obscene language on the occasion of the assaults above referred to, and were fined 5s. each, without costs, which they paid.
+
+Two disreputable girls, named Jane Dyer and Georgiana Lush, were charged by the police with being in the streets at midnight with several officers of the Garrison, laughing, hallooing, and romping with them. They were committed to Winchester Gaol for a fortnight, as idle and disorderly persons.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560426/028/0004
+Isle of Wight Mercury - Saturday 26 April 1856
+
+NEWPORT. COUNTY PETTY SESSIONS
+
+Monday April 1st, (before Thomas Cooke, Esq.)
+
+Caroline Pierce, one of the girls of the pave, was charged with disorderly conduct and being within Parkhurst Barracks between four and five o'clock on Sunday morning, for the purpose of prostitution. The prosecution was promoted by the Colonel Commandant, who has been attempting to control the profligate tendency of some of the officers. The defendant denied that she was guilty, but the evidence left no doubt of the charge.— Committed to one month's imprisonment with hard labour. 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008
+Isle of Wight Mercury - Saturday 19 July 1856
+
+NEWPORT. COUNTY PETTY SESSIONS.
+
+BOROUGH PETTY SESSIONS. MONDAY, JULY 11th, (Before R. M. Wavell, and E. Way, Esqrs.)
+
+Timothy Mahony was brought up under remand, charged with administering some deleterious drug to Elizabeth Hurst, Edith Parsons, and Elizabeth Jackman, prostitutes, at the "Old King's Arms." From the evidence of the girls, and of Susan Munday, a witness, it appeared that on the previous Tuesday evening the prisoner and a sailor went into the house where they found the complainants—that four quarts of beer were had in and paid for by the sailor—that the prisoner was seen to put some powder into the cup—to pour it into the glass and to return it to the cup. The girls were taken ill with similar symptoms within half-an-hour, and Robert Henkel, Esq., Surgeon, who was called, deposed that beer could not have the effects which he observed, and he had no doubt the symptoms were caused by some drug mixed in the ale.—Mr. G. P. Joyce appeared for the prisoner, and pressed for an adjournment, or justice would be denied to his client, as the assizes were then commenced, and there was not time to get up a defence.—Committed for trial at the assizes. The bill was ignoted by the Grand Jury as far as poisoning was concerned, and one found for an assault, which Sergeant Chenneil, who tried the prisoner, ruled was untenable,—he was therefore discharged.
+
+BOROUGH POLICE COURT, TUESDAY, JULY (Before the Mayor and R. M. Wavell, Esq.)
+
+Caroline Pierce and Caroline Sibley, two prostitutes, were charged by Lieut. Davey, of the 1st Royals, with stealing a carbuncle gold pin from his person, on Mondey night, at the Rose and Crown. It appeared that the prisoners and prosecutor were in company, and one, if not both girls, sat on his knees. He missed the pin soon after, but did not see either of them take it, and it was not found.—The case was dismissed.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/047/0008
+Hampshire Advertiser - Saturday 19 July 1856
+
+NEWPORT
+
+ISLE OF WIGHT PETTY SESSIONS.
+
+BOROUGH COURT. Monday.— Msgtotntee present: Dr. Wavel, and E. Way,
+
+A serious charge of extensive drugging waeslast week preferred against an Irish coal-heaver, liing in the Tontine yard, in this town, named Patrick Murphy, alias Timothy Mahoney, the particulars of which were miscarried last week. The case, however, was remanded to this day, for further evidence.
+
+Elizabeth Hurst, a commpn prostitute, stated that she was in the tap-room of the Adam and Eve, in Pyle-street, on the previous Tuesday evening, when the prisoner and two other men came in, between eight and nine, and had two quarts of ale, to which they treated her and some other girls. On a third quart coming in, the prisoner put his hand into his pocket and pulled out some-thing which he threw into the cup, pouring out a glass full of ale, and re-mixing it; after which he put it to hie mouth, but did not appear to drink any, neither did the other men partake of it. He poured out glasses, and four out of the seven present partook of it, the same as they had from the former quarts ; but the other three woold not drink, becuase they said they thought he had put some-thing into it. He said he had not, and put some into his own mouth, but spat it out again, and laughed. Witness drank two glasses of that quart, and the prisoner went for another himself, and brought it in to the room, the waitress following him, saying she saw him shake something into it out of a paper. Witness found no difference in the taste of the beer, and partook of that likewise, as did also Edith Parsons, Elisabeth Jackman, and Sally Coster. The prisoner and other men soon after went away, laughing, and Coster threw the remainder of the beer away, because the other girls should drink no more of it. In a short time witness was seized with vomiting and diarrhoea, and such violent pains in the stomach that she was quite doubled up. Her body was also swollen, and her stays were obliged to be unlaced. Parsons and Jackman were also taken similarly ill about the same time, but Coster was not so bad, as she had only tasted a little of the beer. They were obliged to send for Dr. Horlock, who administered two draughts to each of them, and they ultimately got the better of it. Complainant said that she tsuffered most, as she drank more than the other girls — (she was too ill to stand in the box, and her eyes appeared swollen). Her throat, she said, was hot as fire when she vomited.
+
+The prisoner here said that he only pretended to put something in the beer, saying to the men present, " See me have a lark with these girls," and it was that which frightened them.
+
+The complainant positively assured the Bench she did see him put something into the cup, but he did it so quickly that she could not tell what it was ; and, besides, he forced her to take the beer, holding one glass so tightly to ber mouth that he would not take it away until he had made her swallow every drop.
+
+Edith Parsous gave similar evidence. She discontinued drinking after receiving the caution from the waitress, and was shortly afterwards seized with the same illness as the last complainant.
+
+The Court said this was a serious charge of administering some deleterious drug to these females, with the intent of inflicting bodily injury, and if proved against him, even if it was only a joke, it was a most creel and dangerous one, and they must remand the case.
+
+The matter was subsequently before the Court, and the prisoner was committed for trial at the Winchester Assizes, where, it will be seen by our report, the indictment was quashed, and the accused dismissed with a cautionary admonition. Under these circumstances, and in reference to the crowded state of our columns, we have omitted a portion of the report forwarded from Newport.
+
+On Tuesday (before the Mayor, and R. M. Waveil, esq.), two of the elite of the Newport pave, named Caroline Pierce and Caroline Bartlett, were charged witb felonioutly stealing a gold pin from the person of William Davey, an ensign of tbe 1st Royal. It appeared that he and two other officers were in the bar of a public-house in tbe town, with half-a-dozen girls, about eleven o'clock the previons nigbt, and no doubt some of them endeavoured to abstract the pin (which waa a valuable one— a carbuncle, with a gold twist round it.) from his scarf, as the two girls and himself were "very gracious" while there,— till he put his hand up to his " choker," and found the pin *non est.* when it was " all t'other." He did not, however, see them take it, and the police were sent for, who searched for it, but it could not be found; and it seemed foolish to bring the charges before tne Magistrates, under such circumstances. Of course the girls were discharged.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18560719/043/0010
+Hampshire Chronicle - Saturday 19 July 1856
+
+HAMPSHIRE SUMMER ASSIZES
+
+DRUGGING.
+
+Timothy Mahoney was indicted for assaulting Elizabeth Hurst, at Newport, on the 8th July, and occasioning her actual bodily harm. Mr. Poulden for the prosecution and Mr. Cooke for the prisoner. Mr. Poulden, in opening the prosecution, said the case was of a peculiar nature, though the conduct of the prisoner amounted in law to an assault. The prisoner was in company with two or three girls of questionable character at the King's Arms public-house, in Pyle-street, Newport, the 8th instant. The prisoner went into the room where the girls were and drank some beer with them. He ordered two quarts of beer in succession, from which the girls, at his invitation, partook. He then ordered a third quart, but before any of this was drank, the prisoner was seen to put something into the cup and pour out a glassful of the liquor and put it back again. He did this several times in order to mix the substance put in the beer. He then again invited the girls to drink, and they did so, but complained of the beer having a nasty taste. The prisoner soon after left, and he had not been gone but very short time when the girls, especially Hurst, became exceedingly sick and ill, suffering from burning and swelling of the stomach and other symptoms beyond all doubt caused by some deleterious substance put into the beer.
+
+Before the examination of witnesses, Mr. Cooke, on behalf of the prisoner, took an objection to the indictment, and cited cases in support of his argument that the offence, if proved, was not even an assault at common law. By the act of last session referring to the administration of chloroform and other stupifying preparations for the purposes of enabling a felony to be committed, the party so offending was adjudged guilty of felony. In this case the allegation was not that the drug was administered in order to commit a felony, and the offence was not a felony, neither did it become common assault. The objection was allowed to stand over till the facts of the case had been heard in evidence.
+
+The prosecutrix Hurst being examined, said the prisoner tasted the beer of the third quart brought in, but spat it out again. She also added that he called in a fourth quart and took it behind the door, after which he held a glassfull of the liquor to her lips until she had drank the whole of it. The prisoner also just tasted the last quart of ale, but spat it out of his mouth and went away laughing. The waiter said the prisoner had put something in the beer, and told the girls not to drink any of it. The effects of the drink made the prosecutrix ill for two or three days. She was violently sick with burning in the throat and stomach, and her clothes were obliged to be loosed in consequence of her becoming much swollen. She said she saw the prisoner put something in the third quart, but she did not at the time suspect it was anything that would cause them harm.
+
+In reference to the legal objection, the learned Sergeant said it was clear that the prosecutrix had confidence in the prisoner, and drunk the mixture voluntarily; and considering the cases referred to him by the counsel for the defence, he was of opinion that the conduct of the prisoner, although he had been guilty of a very wicked act, did not amount to an assault at common law. The Judge then directed the Jury to return a verdict of Not Guilty. The prisoner was then cautioned by the Judge as to his future conduct, and discharged from custody. 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/013/0004
+Hampshire Advertiser - Saturday 19 July 1856
+
+HAMPSHIRE ASSIZES
+
+A NOVEL KINO Or ASSAULT.
+
+Timothy Mahoney was indicted for assaulting Elizabeth Hurst, at Newport, on the evening of the 8th of July. Mr. Poulden prosecuted, and Mr. Cooke defended the prisoner. The facts of the case are as follows :—
+
+The prosecutrix and some other girl, were at the King's Arms Inn, Pyle-street, Newport, on the above evening, where they met the prisoner, who asked them to have something to drink. Accordingly some beer was produced, and before the prisoner gave it to them to drink he was observed to put something into it, and the women who drank it, among them the prosecutrix, were shortly after their draught taken ill with vomiting aod a burning kind of feeling in the throat and stomach.
+
+Mr. Cooke objected that the case was not legally one of assault, and cited several cases in support of his objection.
+
+The learned Serjeant agreed with Mr. Cooke, and said that it was not a case of asuult at Common Law unless the intent of administering the drug or noxious composition was proved. It clearly did not come within the statute unless the prosecution were prepared to show that some coercion was used to compel the prosecutrix to take the liquor, he could not see how an indictment for assault could be maintained. It would be better, perhaps, to hear what the prosecutrix had to say.
+
+The prosecutrix was called, and stated the case as above, also that no force was used to get them to drink.
+
+The case was quashed, and the prisoner discharged with a suitable caution.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18561206/018/0005
+Isle of Wight Mercury - Saturday 06 December 1856
+
+COUNTY PETTY SESSIONS, Saturday (before Capt. Duff, Le Marchant Thomas, Esq., and Capt. Hammond and Crozier, R.N.)
+
+Private George Gosling, of the 96th regt., was charged with stealing £7, the property of Sergeant Wolfe, of the same regt. A great proportion of the silver consisted of 4d.-pieces. Evidence was given that prisoner was seen at the drawer containing the cash, and two prostitutes, Elizabeth Hurst and Edith Parsons, deposed that on the evening the of robbery they were at the Old King's Arms, and that he paid for what was drank in 4d. pieces, and said he had more of them.—P.C. Sergeent Bayley gave evidence.—In defence the prisoner said that the prosecutor had spent the money, and now charged him with stealing it. He stated that he had 11 years good service, and it was not likely that he would steal.—Committed for trial. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18561206/045/0008
+Hampshire Advertiser - Saturday 06 December 1856
+
+Lost in the Snow.— Severe cold weather suddenly set in here the latter end of last week, accompanied with a considerable fall of snow ; and on Friday, Atwell, the Calborne postman, bad a narrow escape of perishing through its intensity. Not arriving with his mail-bag, which was due at Carisbrooke at six o'clock in the evening, Mr. Redstone, the Carisbrooke postmaster, and a neighbour named Jones, set off on the Calbourne road in search of him, and ultimataly discovered him in a ditch, under a bank, benumbed, asleep with the cold, and covered with the drifting snow. He was conveyed home, and is recovering under the surgical aid of Mr. Tuttiett, surgeon.
+
+ISLE OF WIGHT PETTY SESSIONS. COUNTY BENCH.
+
+Saturday.— Magistrates preaent: Sir John Simeon, bart., Chairman, Captains Hamond, Crozier, and Duff, and Le Marchant Thomas, esq.
+
+Charles Gosling, a private of the 96th depôt, stationed at Parkhurst Barracks, was charged by Colour Serjeant George Wolfe, the Pay Serjeant of the depot, with robbing him of a £5 note, a sovereign, and upwards of a pound principally in fourpenny-pieces. From his evidence, it appeared that the prisoner was employed by him as a kind of " batman" for general purposes. On Tuesdsy, the 25th instant, after taking from his box upwards of a pound to give a serjeant to pay some of his men, he locked the box containing the sum stolen in a bag, and secreted the key behind his looking-glass, when he left the barracks on leave for the nigbt, the prisoner being in his quarters to do whatever was necessary ; and when he returned the next morning be found the bag and money had been abstracted from the box. The prisoner had no liberty to go to the box.
+
+In answer to questions from the prisoner, the prosecutor ssid be did not ask him for any money before he left the barracks, neither did he say " There's the bag in the box." He never entrusted him with the key, neither did he say " There's the key behind the box, you can take what yon like." All that he said to him before he went away was, that he had given out some crime papers to a Serjeant.
+
+Serjeant Jobn Platt, of the 96th  depôt, stated that he was in the same room with the prosecutor, and on the evening in question saw the prisoner go to the box of Serjeant Wolfe, open it, and take something out. There was only a fire-light, but he did it openly. His wife told him she had seen him go there before, so he thought it was all right. They spoke a word or two to each other in a general way. He had seen the prisoner in town between four and five that afternoon. He had the key then, and told him he was going home to get some " tin." Witness thought Serjeant Wolfe had sent him.
+
+Catherine Platt, wife of the last witness, also deposed to seeing the prisoner unlock the box, and take something out ; she told her husband of the circumstance.
+
+Cross-examined by the prisoner— Had seen money put there by the prosecutor. Did not see the prisoner take 5s out of a bag in the box, neither did she hear him make any remark about his doing so.
+
+Timothy Donovan, a corporal of the 96th depôt, deposed to being in company with the prisoner at the Adam and Eve public-house, in Newport, on the night of the 26th of November. He ordered some porter, which he paid for in fourpenny-pieces, and said he had bought some boot-laces, and in pulling them out, he drew out at least half-a-dozen of fourpenny-pieces, which fell about the floor.
+
+Elizabeth Hurst, a woman of loose character, stated that the prisoner was with her in the public-house in the evening, when he called for aeveral quantities of porter and rum, which he paid for in fourpenny-pieces and sixpences. He left at " tattoo " time, and did not return till between ten and eleven, when he sat down by the side of another girl, named Parsons, and had some more rum. for which he gave a fourpenny-piece. They all after-wards went to her companion's lodgings, in Paradise-row, taking some rum with them.
+
+Edith Parsons confirmed the last witness's statements.
+
+Police-constable John Batley deposed that having received information of the robbery, and the prisoner having absconded from the barracks, he apprehended him in Newport on Thursday, and charged him with the robbery. He said he knew nothing of it, and inquired as to the amount missing. He told him upwards of £7. He replied, " That's all I want to know ; all the money I had was from a serjeant, to pay some of his bills in town." Witness searched him, and found four fourpenny-pieces only on him.
+
+This closing the evidence, the prisoner said in defence that he was sorry he had had any connexion with the man. He had been making away with the money, and now he had to settle up his accounts he wanted to saddle his defalcations on his back. Not a day paased that he took a pound from his box, and broke out of the barracks at night to spend it, and that was more than he could afford to spend. He certainly did take 5s out of the bag, and that was all ; but the prosecutor had given him the key nignt after night. He had been fourteen years in the service, and was as innocent of intentionally defrauding as any gentleman on the Bench. They had not found the £5 note on him, and he should like the prosecutor to state what was the number of the note he said he had lost. After a short consultation, the Magistrates committed him to take his trial at the Assizes at Winchester, which commenced on Monday.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570103/020/0002
+Isle of Wight Mercury - Saturday 03 January 1857
+
+BOROUGH PETTY SESSIONS. (Monday. Dec. 29.—Before Edward Way, and j. H. Hearn, Esqrs.)
+
+Female Debauchery.
+
+A woman named Elizabeth Jackman, a prostitute, was brought up in custody, charged with being drunk in the public streets at midnight, on the previous Friday. The case was proved by PC. Stubbs, who stated that on Friday night, about half-past 12 o’clock, he saw the defendant in Paradise-row, and also in Pyle-street, in a state of intoxication. He desired her to go to her home, which was situate in Paradise-row, but she requested that she might be locked up. He again repeated the salutary advice to go home, but, after walking down Pyle-street, she returned to the officer a second time, and in accordance with her request, locked her up in the station-house.
+
+The girl expressed contrition for her conduct, and, after duly admonishing her, the bench ordered her to be discharged.
+
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007
 Hampshire Advertiser - Saturday 18 July 1857
 
 BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and E. Way. esqrs.
 
 Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and turning her out of his house. He is the keeper of the notorious beer-shop Prince Albert, in Deadman's-lane and it appeared that his wife started off with another man about five months ago, and had lately returned, and wanted again to "walk into the defendant's affections," which he reciprocated, on her returning to his house, by giving ber a black eye, and kicking her into the street. The case was dismissed.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580731/025/0002
+Isle of Wight Mercury - Saturday 31 July 1858
+
+Borough Petty Sessions, July— Before the Worshipful the Mayor (in the chair), R. M. Wavell, and E. Way, Esqrs.
+
+Henry Underwood was charged with assaulting George Coward.
+
+Coward, sworn— I was coming up St. James-street last night, at 20 minutes to 11 o’clock, when this young man came across the road and struck me in the mouth. A person of the name of Salter was with him. They knocked me down and kicked me in the back. The defendant gave no reason for it.
+
+Inspector G. Grapes, sworn— At 20 minutes to 11 o’clock, Coward came to me and said he had been knocked down. I went to Mr. Homan’s comer and saw the policeman, who told me that Underwood was the person who struck the prisoner. He was the worse for liquor.
+
+P.C. Linnington, sworn—I was at the Waggon and Horses, in Crocker-street. I heard a noise at the corner, and Coward came up and said that this young man had struck him. He came up at the time and struck him again in the face. He was not very drunk, nor very sober.
+
+Cross examined by defendant— When Coward came up to me you came and struck him.
+
+Defence— There was a scuffle, and I went across the road and my hat was knocked off. I did not strike him.
+
+Fined 10s. and costs, or in default one month at Winchester.
+
+Henry Underwood was charged with assaulting Elizabeth Jackman.
+
+Elizabeth Jackman, sworn— Last night, at 20 minutes past 11 o'clock, I had been for a walk and was coming home. I was with George Coward and Sarah Cosier. I saw this man strike a young woman named Duffey, and I asked him why he did it. He made no answer, but struck me directly on the forehead with his fist.
+
+Sarah Coster, sworn— I was in company with Elizabeth Jackman. I saw the defendant strike a girl named Duffey. She had said nothing to him. He first threw a stone at her and made her nose bleed. He then struck me on the side of my head. I told him I’d call the police. I saw him strike Elizabeth Jackman on the forehead.
+
+Defence— I did not strike either of the girls.
+
+Fined 10s., and the costs of the court.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580731/036/0007
+Hampshire Advertiser - Saturday 31 July 1858
+
+BOROUGH COORT. Monday— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
+
+George Coward charged Henry Underwood with striking him several times on Sunday night last, in Crocker-street. It appears he and others were drinking, and there were several skirmishes, and complainant, who was the least to blame, got most of the blows. Defendant declared he did not strike him at all, but P.C. Limingtoo swore he struck him in bis presence, and he was fined 15s, including costs, which he paid.
+
+The defendant, Henry Underwood, was now charged with striking three prostitutes, named Elizabeth Jackman, Ann Duffey, and Sarah Cosier. It appeared Coward was with them, and this caused the ill-feeling. He was mulcted in another 15s, which he also paid. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18600929/013/0004
+Isle of Wight Observer - Saturday 29 September 1860
+
+BOROUGH PETTY SESSIONS. Monday.—Before Worshipful the Mayor (chairman), and Dr. Wavell.
+
+John Love corporal in the 50th regiment, was charged by Caroline Pierce with an assault, with attempt to commit a rape.—The Bench, without hesitation, committed him for trial. 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18600929/024/0006
+Hampshire Telegraph - Saturday 29 September 1860
+
+BOROUGH COURT, Monday.—Before the Mayor, and R. M. Wavell, Esq.—
+
+John Love, a corporal in the 50th Regimemnt, was charged with having assaulted Caroline Pierce, in the High-street of Newport, on the morning of Friday last, at one o'clock, with intent, &c. &c., and the case being clearly proved the Court comitted himn to take his trial at the Sessions.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18690116/054/0008
+Hampshire Advertiser - Saturday 16 January 1869
+
+BOROUGH COURT. Monday.— The borough magistrates in attendance were the Mayor (Mr. Robert Pinnock) and Mr. F. Pittis.
+
+Women Brawling.— Caroline Pierce, a wretched profligate, charged with having assaulted and threatened Jane Strong in the street on Saturday night, was bound over in £20 to keep the peace towards complainant for the space of six months.
+
 
 ---
 
@@ -671,7 +906,7 @@ Rev. Mr. Childs said he would endeavour to place before the meeting the object t
 
 Rev W. Carus Wilson, who in rising was received with much applause, said that whatever they did in the way of contributing to the comfort and happiness of the soldier, was only the payment of a moiety of the debt of gratitude which they owed the brave defenders of our country, and which had been much increased during these critical time. He had long seen the necessity of the formation of such institutions and he must say that, although he had taken part in various undertakings, none had given him greater pleasure and satisfaction than the little efforts which he had been able to put forth on behalf of the soldier. He had been much abroad of late years, and had caused many thousand Bibles to circulated in Italy, especially amongst Sardinian soldiers. He should not enlarge upon this subject, as he had promissed to attend a meeting of the Soldiers’ Friend Society the followmg Wednesday evening, when he hoped to give much interesting information respecting his labours in that field; he woould therefore simply state that the work had been eminently successful ; both officers aod soldiers had taken an interest in it and that at the camp at Boulogne, as well as in Italy, many thousands of Bibles, besides innumerable tracts, had been circulated amongst the soldiery. After speaking of the assistance he had received in the latter piece from the Rev. Mr Brown, the reverend gentleman said that it was a great delight to his mind to meet them that evening, but it was not necessary for him dwell on the advantages of the inslitution, as that had been so ably done by Mr. Childs, but he would remark that there were many collateral as well as direct advantages attendant upon it. He was glad to see the assimilation of ranks which it produced—that whilst the officer had his club-house, the soldier should have the same, for there was something exceedingly imteresting in the fact that men of all ranks and classes were likely to be provided for. He hoped, however, they were as but the commencement of the work, for it was his longing desire to see the "The Soldier's Institute " made as perfect as possible, not only because this was the largest garrison town in the kingdom, but as as encouragement to other places to follow their example. (Cheers.) Some friends at Dover had already made application to him to assist in forming one for the barracks at that town, and he was sure he should find willing helpers there. (Hear, hear.) It would be gratifying to them to know that the proceedings were receiving countenance, not only from the officers of the army universally, but from higher quarters.— Lord Panmure having expressed himself favourable to them. (Applause.) The rev. gentleman then read a letter which had been addressed to Lord Panmure by a military chaplain; it spoke of the temptations to which the soldier was subjected, and remarked that although they could not expect to remove these altogether, it was their duty to do what they could to counteract their influence, and recommended the adoption of a plan similar to that carried out in the formation of the Portsmouth Soldiers' Institute; he said that the ordinary library in the barrack was not sufficiently attractive; something on the principle of a *café* being the *desideratum*. This, continued the speaker, had met with the full approval of Lord Panmure, and whilst considering that they had commenced under very favourable auspices, he hoped to see the day when no garrison town in England would be destitute of such an institution. There was one point he would wish to refer to with to with repsect to the collateral advantages of the institution. He thought it best to have it distinct from the barracks, as it would be a greater change for the soldiers, and it would enable them to fraternise with soldiers of other regiments; it would would bring them out from the contracted limit of their own little circle, so that they might compare notes with one another. He thought this an important feature in the institution. (Cheers.) He perfectly agreed in the sentiments of the chaplain in the letter he had read—"No acts of Parliament, no efforts of their own, would keep men from evil, or lead them to good;" but although that was certain, they should do what they could. Men’s minds were always seeking after happiness and enjoyment, and they should give such a spirit every encouragement in a rational way. In the institution they were now such would be found, and they could enjoy their pipe and tobacco at their ease. With regard to smoking, that had been a debated point, but it was ultimately decided that such should be allowed to all who wished to pursue it. In the library they would find books of all kinds, but although they were not all religious books, he would not disguise from them that the great object they had in view was to make them true soldiers of the Cross, for there could be no true happiness without holiness. Many other things would be given them, and they might rest assured that if they found the premises too straight for them, they should be widened—(cheers)—for they would not rest content without endeavouring to promote their happiness, and he would conclude with expressing the earnest hope that God's blessing would rest upon them and their undertaking.
 
-Captain Savage being compelled to take his departure, the Cbaibiiaf said, that previous to his doing so, ho was sure they would all join in giving to him their hearty thanks for the part ho had taken in the undertaking. (Loud applause.) Had it not been for the hearty 00-operation of Capt. Savage and other officers, all the efforts of Rev. Mr. Wilson would bare been unavailing. The proposition was carried with acclamation. Captain Campbell would only say a few words, as so much had been said the objects of the institution previous speakers. Thirty years ago, when in India, be could net help noticing the demoralising character of the army, and he therefore congratulated them that they lived in different times. He hoped they would appreciate the benefits of the institution, and that the present building would be found too ■mall for them, when they would find bettor accommodation for them in another place. (Cheers.) would always happy to contribute his mite, and would conclude by wishing prosperity to the undertaking. (Loud applause.) Rev. W. C. Wilson said there was one little fact which ho would like mention. friend of his, the late Colonel Hewlett, who fell at the attack the Bedan, stated te him some time ago, that whereas out of his regiment of men, there were formerly 30 morning who were brought before him in consequence of having got, into scrape,” since they bad formed institution with library, &c., for the use of the regiment, they had dwindled down six eight. (Applause.) He hoped none in that room would got into such awkward predicaments. Rev. W. C. Wilson, again rising, said be would remark that if any of the members wished to have any alteration or improvement made, their suggestions would receive the utmost attention. Bev. Mr. Childs said that it was desired that a practical committee should bo formed out of their own body, would recommend them to consult together to recommend one from each company or corps, in whom they had confidence, on that committee. Rev. W. C. Wilson read a most beautiful and affecting letter which he had received from soldier at Malta; every word in it breathe a spirit of religious principle, which it was truly delightful to listen to. Rev. W. Livinostohe, after remarking on the practice now observed by the greater portion of the clergy of this country, of offering up prayers for the safety of our soldiers during the war, which he stated originated with the Rev. Mr. Wilson, said that the institution had been established to draw the soldiers from the sources of temptation to which was subjected to enable him meet in place where might enjoy himself without danger his morals, with friends belonging to other regiments, so promote that spirit of brotherhood which it was so cheering to heboid. remembered not long ago, reading a work in which the writer said the glory of England’s greatness had departed, that in the event another she would have no men who could maintain her honour, but he thought that when 8,000 Englishmen kept 25,000 Russians bay for several hours, there was the same enthusiasm * the same unswerving indomitable bravery in them that there ever was (cheers); indeed, he believed more bravery had been shown in the Crimea than at any time in the Peninsula. (Loud applause.) But whilst they bad shown such bravery in an earthly fight, there was a spiritual conflict with the powers darkness, which with God's grace, they should carry on strongly and heroically, and ho hoped that the establishment of tlus institution would enable them carry on that fight with success, and prayed that as they bad met together that evening, they would meet together before the throne grace. G. Esq., as one of the Committee, said that other classes of the community had institutions and associations in which they met together for mutual improvement; and so when Mr. Wilson proposed the establishment of soldier’s institute, they thought it but right that the soldier should possess the same advantages. (Cheers.) hoped they would distinctly understand that their wish was that the institution should be under the control the members themselves; and they hoped that if there was any paper placed upon the table which a majority of them did not approve of any other which they would like have, they would inform them it, and their wishes would be complied with. The time which the institution should bo opened would also be left for them decide upon. Every suggestion they might make, which would add their comfort or convenience, would be attended to, as Committee wished to make a model institution from which other towns might take a copy. (Hear, bear.) As had been remarked by former speakers, they would find the table in the room in which they were sitting covered with magazines; the library filled with useful and entertaining books; class rooms, and lecture rooms; they might also, if they preferred it, have some one read to them. Every thing that was possible be sccomplisbod would be done to afford them instruction; and ho hoped that not only every one present would join, but that each would induce a comrade go with him. (Applause.) Rev. C. Wilsox, alter stating that the rules of the institution admitted all soldiers the garrison its benefits on payment of a 1d. per week, said that coffee also would furnished the lowest possible price. Ho had determined be the first taste the coffee made in the institution, and he must any that never tasted any better in England. (Applause.) The committee had also decided on opening the institution on the Sunday, not for reading the newspapers, or anything secular character, but for admittance to the religious works in library, A«. (Applause.) To make the work quite complete, the institution would be furnished with materials for amusement (but not for gambling) in the shape of draught and chess boards and men, backgammon, and a bagatelle board (cheers); these would be supplied with the understanding that, directly or indirectly, no gambling would be allowed. one set of any of these was not found be sufficient, was sure tho Committee would gladly furnish more. (Applause.) . « . »r vote of thanks was then given the Secretary, Mr. Batchelor, and tho Chairman; and G. Kylands, Esq., having stated that a gentleman (Mr. D. Barker), agent of Soldiers’ Friend Society, had come down from W inch ester n,\ attended the meeting obtain some information preparatory to forming similar institution in that town, The meeting separated, about fifty, we before stated, giving in their names as members. 
+Captain Savage being compelled to take his departure, the Cbaibiiaf said, that previous to his doing so, he was sure they would all join in giving to him their hearty thanks for the part he had taken in the undertaking. (Loud applause.) Had it not been for the hearty 00-operation of Capt. Savage and other officers, all the efforts of Rev. Mr. Wilson would bare been unavailing. The proposition was carried with acclamation. Captain Campbell would only say a few words, as so much had been said the objects of the institution previous speakers. Thirty years ago, when in India, be could net help noticing the demoralising character of the army, and he therefore congratulated them that they lived in different times. He hoped they would appreciate the benefits of the institution, and that the present building would be found too ■mall for them, when they would find bettor accommodation for them in another place. (Cheers.) would always happy to contribute his mite, and would conclude by wishing prosperity to the undertaking. (Loud applause.) Rev. W. C. Wilson said there was one little fact which he would like to mention. A friend of his, the late Colonel Hewlett, who fell at the attack the Bedan, stated te him some time ago, that whereas out of his regiment of men, there were formerly 30 morning who were brought before him in consequence of having got, into scrape,” since they bad formed institution with library, &c., for the use of the regiment, they had dwindled down six eight. (Applause.) He hoped none in that room would got into such awkward predicaments. Rev. W. C. Wilson, again rising, said be would remark that if any of the members wished to have any alteration or improvement made, their suggestions would receive the utmost attention. Bev. Mr. Childs said that it was desired that a practical committee should bo formed out of their own body, would recommend them to consult together to recommend one from each company or corps, in whom they had confidence, on that committee. Rev. W. C. Wilson read a most beautiful and affecting letter which he had received from soldier at Malta; every word in it breathe a spirit of religious principle, which it was truly delightful to listen to. Rev. W. Livinostohe, after remarking on the practice now observed by the greater portion of the clergy of this country, of offering up prayers for the safety of our soldiers during the war, which he stated originated with the Rev. Mr. Wilson, said that the institution had been established to draw the soldiers from the sources of temptation to which was subjected to enable him meet in place where might enjoy himself without danger his morals, with friends belonging to other regiments, so promote that spirit of brotherhood which it was so cheering to heboid. remembered not long ago, reading a work in which the writer said the glory of England’s greatness had departed, that in the event another she would have no men who could maintain her honour, but he thought that when 8,000 Englishmen kept 25,000 Russians bay for several hours, there was the same enthusiasm * the same unswerving indomitable bravery in them that there ever was (cheers); indeed, he believed more bravery had been shown in the Crimea than at any time in the Peninsula. (Loud applause.) But whilst they bad shown such bravery in an earthly fight, there was a spiritual conflict with the powers darkness, which with God's grace, they should carry on strongly and heroically, and he hoped that the establishment of tlus institution would enable them carry on that fight with success, and prayed that as they bad met together that evening, they would meet together before the throne grace. G. Esq., as one of the Committee, said that other classes of the community had institutions and associations in which they met together for mutual improvement; and so when Mr. Wilson proposed the establishment of soldier’s institute, they thought it but right that the soldier should possess the same advantages. (Cheers.) hoped they would distinctly understand that their wish was that the institution should be under the control the members themselves; and they hoped that if there was any paper placed upon the table which a majority of them did not approve of any other which they would like have, they would inform them it, and their wishes would be complied with. The time which the institution should bo opened would also be left for them decide upon. Every suggestion they might make, which would add their comfort or convenience, would be attended to, as Committee wished to make a model institution from which other towns might take a copy. (Hear, bear.) As had been remarked by former speakers, they would find the table in the room in which they were sitting covered with magazines; the library filled with useful and entertaining books; class rooms, and lecture rooms; they might also, if they preferred it, have some one read to them. Every thing that was possible be sccomplisbod would be done to afford them instruction; and he hoped that not only every one present would join, but that each would induce a comrade go with him. (Applause.) Rev. C. Wilsox, alter stating that the rules of the institution admitted all soldiers the garrison its benefits on payment of a 1d. per week, said that coffee also would furnished the lowest possible price. He had determined be the first taste the coffee made in the institution, and he must any that never tasted any better in England. (Applause.) The committee had also decided on opening the institution on the Sunday, not for reading the newspapers, or anything secular character, but for admittance to the religious works in library, A«. (Applause.) To make the work quite complete, the institution would be furnished with materials for amusement (but not for gambling) in the shape of draught and chess boards and men, backgammon, and a bagatelle board (cheers); these would be supplied with the understanding that, directly or indirectly, no gambling would be allowed. one set of any of these was not found be sufficient, was sure tho Committee would gladly furnish more. (Applause.) . « . »r vote of thanks was then given the Secretary, Mr. Batchelor, and tho Chairman; and G. Kylands, Esq., having stated that a gentleman (Mr. D. Barker), agent of Soldiers’ Friend Society, had come down from W inch ester n,\ attended the meeting obtain some information preparatory to forming similar institution in that town, The meeting separated, about fifty, we before stated, giving in their names as members. 
 
 
 ---
@@ -685,64 +920,3 @@ On the 23rd January last, the Soldiers' Institute at Portsmouth was opened. It w
 "The Soldiers' Institute comprises a reading-room, supplied with daily and weekly newspapers, and most of the  leading and useful periodicals and current literature of the day. Joined to this, a library for the exclusive use of the members, embracing works in every department in literature, as well as others that may prove useful in their profession. Class-rooms for mutual improvement, and occasional lectures, add another feature to the general object. United with the above are two coffee-rooms, which it is hoped will contribute to the comfort of the members, and tend to lessen the frequenting of public-houses. The subscription is fixed at one penny per week, for which a cheque is given, the possession of which entitles the holder to all the advantages of the institute, for so long a period as it is dated for." 
 
 It will thus be seen that the Soldiers' Institute is analagous to the Mechanics' Institute, and is calculated to effect much good by furnishing useful employment and the nmeans of innocent recreation during leisure hours. We heartily wish success to the Portsmouth Institute, and should be glad to see a similar plan adopted in other towns. The country would thus in some measura repay that debt which she owes to our brave soldiers.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008
-Isle of Wight Mercury - Saturday 19 July 1856
-
-NEWPORT. COUNTY PETTY SESSIONS.
-
-BOROUGH PETTY SESSIONS. MONDAY, JULY 11th, (Before R. M. Wavell, and E. Way, Esqrs.)
-
-Timothy Mahony was brought up under remand, charged with administering some deleterious drug to Elizabeth Hurst, Edith Parsons, and Elizabeth Jackman, prostitutes, at the "Old King's Arms." From the evidence of the girls, and of Susan Munday, a witness, it appeared that on the previous Tuesday evening the prisoner and a sailor went into the house where they found the complainants—that four quarts of beer were had in and paid for by the sailor—that the prisoner was seen to put some powder into the cup—to pour it into the glass and to return it to the cup. The girls were taken ill with similar symptoms within half-an-hour, and Robert Henkel, Esq., Surgeon, who was called, deposed that beer could not have the effects which he observed, and he had no doubt the symptoms were caused by some drug mixed in the ale.—Mr. G. P. Joyce appeared for the prisoner, and pressed for an adjournment, or justice would be denied to his client, as the assizes were then commenced, and there was not time to get up a defence.—Committed for trial at the assizes. The bill was ignoted by the Grand Jury as far as poisoning was concerned, and one found for an assault, which Sergeant Chenneil, who tried the prisoner, ruled was untenable,—he was therefore discharged.
-
-BOROUGH POLICE COURT, TUESDAY, JULY (Before the Mayor and R. M. Wavell, Esq.)
-
-Caroline Pierce and Caroline Sibley, two prostitutes, were charged by Lieut. Davey, of the 1st Royals, with stealing a carbuncle gold pin from his person, on Mondey night, at the Rose and Crown. It appeared that the prisoners and prosecutor were in company, and one, if not both girls, sat on his knees. He missed the pin soon after, but did not see either of them take it, and it was not found.—The case was dismissed.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18560719/043/0010
-Hampshire Chronicle - Saturday 19 July 1856
-
-HAMPSHIRE SUMMER ASSIZES
-
-DRUGGING.
-
-Timothy Mahoney was indicted for assaulting Elizabeth Hurst, at Newport, on the 8th July, and occasioning her actual bodily harm. Mr. Poulden for the prosecution and Mr. Cooke for the prisoner. Mr. Poulden, in opening the prosecution, said the case was of a peculiar nature, though the conduct of the prisoner amounted in law to an assault. The prisoner was in company with two or three girls of questionable character at the King's Arms public-house, in Pyle-street, Newport, the 8th instant. The prisoner went into the room where the girls were and drank some beer with them. He ordered two quarts of beer in succession, from which the girls, at his invitation, partook. He then ordered a third quart, but before any of this was drank, the prisoner was seen to put something into the cup and pour out a glassful of the liquor and put it back again. He did this several times in order to mix the substance put in the beer. He then again invited the girls to drink, and they did so, but complained of the beer having a nasty taste. The prisoner soon after left, and he had not been gone but very short time when the girls, especially Hurst, became exceedingly sick and ill, suffering from burning and swelling of the stomach and other symptoms beyond all doubt caused by some deleterious substance put into the beer.
-
-Before the examination of witnesses, Mr. Cooke, on behalf of the prisoner, took an objection to the indictment, and cited cases in support of his argument that the offence, if proved, was not even an assault at common law. By the act of last session referring to the administration of chloroform and other stupifying preparations for the purposes of enabling a felony to be committed, the party so offending was adjudged guilty of felony. In this case the allegation was not that the drug was administered in order to commit a felony, and the offence was not a felony, neither did it become common assault. The objection was allowed to stand over till the facts of the case had been heard in evidence.
-
-The prosecutrix Hurst being examined, said the prisoner tasted the beer of the third quart brought in, but spat it out again. She also added that he called in a fourth quart and took it behind the door, after which he held a glassfull of the liquor to her lips until she had drank the whole of it. The prisoner also just tasted the last quart of ale, but spat it out of his mouth and went away laughing. The waiter said the prisoner had put something in the beer, and told the girls not to drink any of it. The effects of the drink made the prosecutrix ill for two or three days. She was violently sick with burning in the throat and stomach, and her clothes were obliged to be loosed in consequence of her becoming much swollen. She said she saw the prisoner put something in the third quart, but she did not at the time suspect it was anything that would cause them harm.
-
-In reference to the legal objection, the learned Sergeant said it was clear that the prosecutrix had confidence in the prisoner, and drunk the mixture voluntarily; and considering the cases referred to him by the counsel for the defence, he was of opinion that the conduct of the prisoner, although he had been guilty of a very wicked act, did not amount to an assault at common law. The Judge then directed the Jury to return a verdict of Not Guilty. The prisoner was then cautioned by the Judge as to his future conduct, and discharged from custody. 
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560719/013/0004
-Hampshire Advertiser - Saturday 19 July 1856
-
-HAMPSHIRE ASSIZES
-
-A NOVEL KINO Or ASSAULT.
-
-Timothy Mahoney was indicted for assaulting Elizabeth Hurst, at Newport, on the evening of the 8th of July. Mr. Poulden prosecuted, and Mr. Cooke defended the prisoner. The facts of the case are as follows :—
-
-The prosecutrix and some other girl, were at the King's Arms Inn, Pyle-street, Newport, on the above evening, where they met the prisoner, who asked them to have something to drink. Accordingly some beer was produced, and before the prisoner gave it to them to drink he was observed to put something into it, and the women who drank it, among them the prosecutrix, were shortly after their draught taken ill with vomiting aod a burning kind of feeling in the throat and stomach.
-
-Mr. Cooke objected that the case was not legally one of assault, and cited several cases in support of his objection.
-
-The learned Serjeant agreed with Mr. Cooke, and said that it was not a case of asuult at Common Law unless the intent of administering the drug or noxious composition was proved. It clearly did not come within the statute unless the prosecution were prepared to show that some coercion was used to compel the prosecutrix to take the liquor, he could not see how an indictment for assault could be maintained. It would be better, perhaps, to hear what the prosecutrix had to say.
-
-The prosecutrix was called, and stated the case as above, also that no force was used to get them to drink.
-
-The case was quashed, and the prisoner discharged with a suitable caution.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18561206/018/0005
-Isle of Wight Mercury - Saturday 06 December 1856
-
-COUNTY PETTY SESSIONS, Saturday (before Capt. Duff, Le Marchant Thomas, Esq., and Capt. Hammond and Crozier, R.N.)
-
-Private George Gosling, of the 96th regt., was charged with stealing £7, the property of Sergeant Wolfe, of the same regt. A great proportion of the silver consisted of 4d.-pieces. Evidence was given that prisoner was seen at the drawer containing the cash, and two prostitutes, Elizabeth Hurst and Edith Parsons, deposed that on the evening the of robbery they were at the Old King's Arms, and that he paid for what was drank in 4d. pieces, and said he had more of them.—P.C. Sergeent Bayley gave evidence.—In defence the prisoner said that the prosecutor had spent the money, and now charged him with stealing it. He stated that he had 11 years good service, and it was not likely that he would steal.—Committed for trial. 
-
