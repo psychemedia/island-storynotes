@@ -2,6 +2,8 @@
 
 The context for this is a reference I happened across to a pamphlet entitled "Tempter and Tempted" which appears to have ranted against Newport oas a hotbed of vice corrupting the soldiers barracked at Parkhurst. A later pamphlet also became the subject of a libel case against local dignitary, F. Pittis.
 
+Many of the same names appear regulalry in the courts (I have not included all reports, so the sample below is skewed) which suggests a possible cast of characters for some sort of telling...
+
 ---
 
 
