@@ -2,7 +2,7 @@
 
 The context for this is a reference I happened across to a pamphlet entitled "Tempter and Tempted" which appears to have ranted against Newport oas a hotbed of vice corrupting the soldiers barracked at Parkhurst. A later pamphlet also became the subject of a libel case against local dignitary, F. Pittis.
 
-I still havenlt managed to track down the pamphlet...
+I still haven't managed to track down the pamphlet...
 
 Many of the same names and drinking establishments appear regularly in the court reports (I have not included all reports, so the sample below is skewed) which suggests a possible cast of characters and locations for some sort of telling...
 
@@ -694,7 +694,7 @@ NEWPORT. COUNTY PETTY SESSIONS.
 
 BOROUGH PETTY SESSIONS. MONDAY, JULY 11th, (Before R. M. Wavell, and E. Way, Esqrs.)
 
-Timothy Mahony was brought up under remand, charged with administering some deleterious drug to Elizabeth Hurst, Edith Parsons, and Elizabeth Jackman, prostitutes, at the "Old King's Arms." From the evidence of the girls, and of Susan Munday, a witness, it appeared that on the previous Tuesday evening the prisoner and a sailor went into the house where they found the complainants—that four quarts of beer were had in and paid for by the sailor—that the prisoner was seen to put some powder into the cup—to pour it into the glass and to return it to the cup. The girls were taken ill with similar symptoms within half-an-hour, and Robert Henkel, Esq., Surgeon, who was called, deposed that beer could not have the effects which he observed, and he had no doubt the symptoms were caused by some drug mixed in the ale.—Mr. G. P. Joyce appeared for the prisoner, and pressed for an adjournment, or justice would be denied to his client, as the assizes were then commenced, and there was not time to get up a defence.—COmmitted for trial at the assizes. The bill was ignoted by the Grand Jury as far as poisoning was concerned, and one found for an assault, which Sergeant Chenneil, who tried the prisoner, ruled was untenable,—he was therefore discharged.
+Timothy Mahony was brought up under remand, charged with administering some deleterious drug to Elizabeth Hurst, Edith Parsons, and Elizabeth Jackman, prostitutes, at the "Old King's Arms." From the evidence of the girls, and of Susan Munday, a witness, it appeared that on the previous Tuesday evening the prisoner and a sailor went into the house where they found the complainants—that four quarts of beer were had in and paid for by the sailor—that the prisoner was seen to put some powder into the cup—to pour it into the glass and to return it to the cup. The girls were taken ill with similar symptoms within half-an-hour, and Robert Henkel, Esq., Surgeon, who was called, deposed that beer could not have the effects which he observed, and he had no doubt the symptoms were caused by some drug mixed in the ale.—Mr. G. P. Joyce appeared for the prisoner, and pressed for an adjournment, or justice would be denied to his client, as the assizes were then commenced, and there was not time to get up a defence.—Committed for trial at the assizes. The bill was ignoted by the Grand Jury as far as poisoning was concerned, and one found for an assault, which Sergeant Chenneil, who tried the prisoner, ruled was untenable,—he was therefore discharged.
 
 BOROUGH POLICE COURT, TUESDAY, JULY (Before the Mayor and R. M. Wavell, Esq.)
 
