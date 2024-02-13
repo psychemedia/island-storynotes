@@ -230,6 +230,32 @@ P.C. Hobbs, said—I went to the defendant's house with the picket, on the night
 The defendant was fined £2, and 5s. costs, and in default of paymeut committed to the house of correction for a month.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550512/010/0003
+Isle of Wight Observer - Saturday 12 May 1855
+
+BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor; and E. Way and H. M. Wavell, Esqrs.
+
+Ann Jones was fined 5s. and 5s. costs for being drunk and creating a disturbance in the street on Saturday night last. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550519/010/0003
+Isle of Wight Observer - Saturday 19 May 1855
+
+BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor ; E. Way, and W. M. Wavell, Esqrs.
+
+Joseph Rands, shoemaker, was summoned by Rosa Jager for using profane and obscene language to her.
+
+Mr. Beckingsale appeared for the defendant, and contended that the magistrates had no jurisdiction in the matter; for, even admitting that the language complained of had been used, it was in the defendant's own house, and neither the Act or the By-Law authorised them to interfere with any man for making use of such language in his own house.
+
+The magistrates did not agree with Mr. Beckingsale that his arguments applied to the present ease, as it occurred in the front shop, which was a public place, and it was not a private quarrel in the family.
+
+The complainant then said—I am the wife of August Jager, a German. Mv husband works for Mr. Rands. Last Thursday week I took some work home to Mr. Rands' shop, and went in three times for the money, He said he had no change and could not pay me, and abused me. I told him my husband wanted the money.
+
+Cross-examined by Mr. Beckingsale—I work with my husband at the trade. We have been making slippers for Mr. Rands. He only paid 6d. for making a pair of slippers. [Mr. Rands : I give them 3s. a dozen more than they get in London.] He did complain to them bout a pair being made bad, but how could he expect them made better for sixpence ? He did not say he would not pay me till I got him the last my husband had that belonged to him. He said he had no change.
+
+George Frederick Mills, a little boy, was then called by Mr. Beckingsale and stated that he was in the shop all three times when the complainant was there, and that Mr. Rands did not make use of any such language that mentioned the complainant. The case was then dismissed. 
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550526/044/0006
 Hampshire Advertiser - Saturday 26 May 1855
 
@@ -256,7 +282,7 @@ Hampshire Telegraph - Saturday 26 May 1855
 
 Isle of Wight — Saturday May 26. — Newport
 
-At the Borough Petty Sessionslon Monday, before the Mayor and Dr. Wavell—
+At the Borough Petty Sessions on Monday, before the Mayor and Dr. Wavell—
 
 ...
 
@@ -292,8 +318,25 @@ Monday.—Before C. W. Estcourt, Esq., Mayor ; and Dr. Wavell.
 
 Joseph Anderson was charged with keeping his house (the Crab and Lobster beer shop, Deadman's-lane) open for the sale of beer on Sunday, the 13th inst., and on Tuesday night last, for the sale of beer at hours not allowed by the law, and for keeping very disorderly house. It having been proved by Mr. Grapes, inspector of police, that the defendant had been twice committed in this court for similar offences, he was fined and 7s. 6d. costs, and default of payment to be committed to the House of Correction, at Winchester, for a month, and to be disqualified from selling beer by retail for the space of two years next ensuing this conviction. 
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550728/007/0003
+Isle of Wight Observer - Saturday 28 July 1855
+
+BOROUGH SESSIONS. Monday,—Before R. M. Wavell and E. Way, Esq. 
+
+Ellen Mills was fined 5s. and 5s. costs for being drunk and disorderly in the street, in default of payment committed to Winchester Gaol for one month.
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550728/040/0007
+Hampshire Advertiser - Saturday 28 July 1855
+
+BOROUGH COURT. Monday.— Magistrates present E. Way, and R. M. Wavell, esqrs.
+
+Drunkenness.— Ellen Mills, well known to the Police for her drunken and brawling propensities, was charged by Police-constable Stubbs with drunkenness, and disorderly conduct in the street, for which she was fined 10s, including costs, and in default of payment, committed to Winchester for one month. 
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550804/010/0003
 Isle of Wight Observer - Saturday 04 August 1855
 
@@ -311,6 +354,16 @@ August Jager-, beerhouse keeper, was summoned for keeping persons of disorderly 
 Fined £5 and 7s. 6d. costs, and in default of payment in 7 days amount to be levied distress, and in default of distress to be committed to the House of Correction at Winchester for one calender mouth. 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550804/054/0005
+Portsmouth Times and Naval Gazette - Saturday 04 August 1855
+
+Newport
+
+Borough Police Court, Thursday, before R. M. Wavell and Francis Pittis, Esq.
+
+August Jager, keeper of the " Prince Albert," beer shop, was convicted of allowing lewd and disorderly conduct in his house. The evidence disclosed scenes of profligacy and depravity rarely brought before a public court. Fined £5, to be levied by distress, and in default one month’s imprisonment. 
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550804/036/0007
 Hampshire Advertiser - Saturday 04 August 1855
@@ -323,7 +376,7 @@ BOROUGH COURT.
 
 Monday.— Magistrates present: C. W. Estcourt, esq. Mayor, Dr. Wavell. and F. Pittis, esq. 
 
-Ellen Mills, a prostitute, who had nearly succeeded in posioning herself a few week, since, with oxalic acid, was last week committed for a month, for being found drunk and asleep in a yard at Nodehill, at midnight. 
+Ellen Mills, a prostitute, who had nearly succeeded in poisoning herself a few week, since, with oxalic acid, was last week committed for a month, for being found drunk and asleep in a yard at Nodehill, at midnight. 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550908/009/0003
@@ -339,7 +392,33 @@ Jane Snudden was fined 10s. and 5s. costs for loitering about the streets in the
 
 Fanny Gutteridge, Martha Linnington, and Martha Dentiess, three common prostitutes, were charged by P.C. Stubbs with fighting in the street on Saturday night, at half-past 12 o'clock. Reprimanded and discharged. 
 
+
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550908/030/0007
+Hampshire Advertiser - Saturday 08 September 1855
+
+BOROUGH COURT. Monday.— Magistrates present:- R. M. Wavell, and E Way, esqrs.
+
+A girl of loose character, named Jane Snudden, was brought up by Police constable Stubbs tor an offence against the bye laws, being found by him loitering about the town with a soldier at midnight. She was fined 15s, including costs, and in default of payment, to be committed for fourteen days' hard labour. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550929/073/0004
+Portsmouth Times and Naval Gazette - Saturday 29 September 1855
+
+County Petty Sessions, Satuday.— Before Captain Hamond, R.N. (Chairman). Captain Kerr, A. J. Hamborough, and F. W. Popham, Esqs.
+
+Jane Snudden, an unfortunate young woman, was charged with stealing a beer-glass the previous Saturday evening in the Coopers' Arms, Coppins Bridge. She expressed wish to have the proceedings taken summarily by the provisions of the new statute, and was found guilty, but as she had been locked up for week, she was admonished and discharged.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551013/010/0003
+Isle of Wight Observer - Saturday 13 October 1855
+
+BOROUGH SESSIONS.— Before R. M. Wavell, esq., and Thomas Cooke.
+
+Fanny Vines was fined 5s. and 5s. costs, and in default committed for 14 davs to hard labor, for being drunk and creating disturbance in the street Saturday night. 
+ 
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551013/039/0007
 Hampshire Advertiser - Saturday 13 October 1855
 
@@ -370,6 +449,14 @@ NEWPORT
 BOROUGH COURT. Thursday. — Magistrates present :- Dr. Wavell, and F. Pittis, esq.
 
 Charlotte Honeybunn, Elizabeth West, and Julia Vine, were committed for twenty-one days each hard labour, as common prostitutes, and being drunk and riotous in the streets at twelve o'clock at night.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007
+Hampshire Advertiser - Saturday 18 July 1857
+
+BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and E. Way. esqrs.
+
+Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and turning her out of his house. He is the keeper of the notorious beer-shop Prince Albert, in Deadman's-lane and it appeared that his wife started off with another man about five months ago, and had lately returned, and wanted again to "walk into the defendant's affections," which he reciprocated, on her returning to his house, by giving ber a black eye, and kicking her into the street. The case was dismissed.
 
 ---
 
@@ -596,11 +683,26 @@ On the 23rd January last, the Soldiers' Institute at Portsmouth was opened. It w
 It will thus be seen that the Soldiers' Institute is analagous to the Mechanics' Institute, and is calculated to effect much good by furnishing useful employment and the nmeans of innocent recreation during leisure hours. We heartily wish success to the Portsmouth Institute, and should be glad to see a similar plan adopted in other towns. The country would thus in some measura repay that debt which she owes to our brave soldiers.
 
 ---
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002115/18510222/044/0012
-Atlas - Saturday 22 February 1851
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008
+Isle of Wight Mercury - Saturday 19 July 1856
 
-OBITUARY
+NEWPORT. COUNTY PETTY SESSIONS.
 
-Mr. Carus WILSON.—We have to record the death of William Wilson Carus Wilson, at the age of 86, which melancholy event took place on Tuesday last at Casterton-hall, his seat in Westmoreland. He was for several years M.P. for Cockermouth, but retired from Parliament in 1826, and was for a short time Vice-Lieutenant of Westmoreland during the absence of the late Earl of Lonsdale from the country. He had been presiding last week at a Protestant meeting at Kendal, to petition Parliament against the Papal aggression, and on his return home was taken very seriously ill, and died in a few days. By his death several families will be placed in mourning. 
+BOROUGH PETTY SESSIONS. MONDAY, JULY 11th, (Before R. M. Wavell, and E. Way, Esqrs.)
+
+Timothy Mahony was brought up under remand, charged with administering some deleterious drug to Elizabeth Hurst, Edith Parsons, and Elizabeth Jackman, prostitutes, at the "Old King's Arms." From the evidence of the girls, and of Susan Munday, a witness, it appeared that on the previous Tuesday evening the prisoner and a sailor went into the house where they found the complainants—that four quarts of beer were had in and paid for by the sailor—that the prisoner was seen to put some powder into the cup—to pour it into the glass and to return it to the cup. The girls were taken ill with similar symptoms within half-an-hour, and Robert Henkel, Esq., Surgeon, who was called, deposed that beer could not have the effects which he observed, and he had no doubt the symptoms were caused by some drug mixed in the ale.—Mr. G. P. Joyce appeared for the prisoner, and pressed for an adjournment, or justice would be denied to his client, as the assizes were then commenced, and there was not time to get up a defence.—COmmitted for trial at the assizes. The bill was ignoted by the Grand Jury as far as poisoning was concerned, and one found for an assault, which Sergeant Chenneil, who tried the prisoner, ruled was untenable,—he was therefore discharged.
+
+BOROUGH POLICE COURT, TUESDAY, JULY (Before the Mayor and R. M. Wavell, Esq.)
+
+Caroline Pierce and Caroline Sibley, two prostitutes, were charged by Lieut. Davey, of the 1st Royals, with stealing a carbuncle gold pin from his person, on Mondey night, at the Rose and Crown. It appeared that the prisoners and prosecutor were in company, and one, if not both girls, sat on his knees. He missed the pin soon after, but did not see either of them take it, and it was not found.—The case was dismissed.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18561206/018/0005
+Isle of Wight Mercury - Saturday 06 December 1856
+
+COUNTY PETTY SESSIONS, Saturday (before Capt. Duff, Le Marchant Thomas, Esq., and Capt. Hammond and Crozier, R.N.)
+
+Private George Gosling, of the 96th regt., was charged with stealing £7, the property of Sergeant Wolfe, of the same regt. A great proportion of the silver consisted of 4d.-pieces. Evidence was given that prisoner was seen at the drawer containing the cash, and two prostitutes, Elizabeth Hurst and Edith Parsons, deposed that on the evening the of robbery they were at the Old King's Arms, and that he paid for what was drank in 4d. pieces, and said he had more of them.—P.C. Sergeent Bayley gave evidence.—In defence the prisoner said that the prosecutor had spent the money, and now charged him with stealing it. He stated that he had 11 years good service, and it was not likely that he would steal.—Committed fur trial. 
 
 
