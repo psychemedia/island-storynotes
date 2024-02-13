@@ -11,6 +11,87 @@ Many of the same names and drinking establishments appear regularly in the court
 
 Pub history census 1911  Newport https://pubshistory.com/IsleofWight/Newport/
 
+
+## Parkhurst Barracks
+
+As a garrison town, soldiers from a wide variety of regiments were stationed at Parkhurst Barracks, often *en route* to the Crimea via troop ships sailing out of Portsmouth. The muster appears to have reached about 1,300 officers and men at any one time, many of them young men in their teens or early twenties.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/015/0003
+Isle of Wight Observer - Saturday 11 March 1854
+
+PARKHURST BARRACKS. The 23rd Regiment Royal Welsh Fusileers left these barracks on the 25th ult. for Portsmouth, from whence they will embark for the East on or about the 12th, as a portion of the second division to be sent out.
+
+The 58th Depot, which had not been long at Parkhurst, left on Tuesday last for New Zealand.
+
+The 65th Depot also left the barracks on Tuesday last for Weymouth.
+
+The loss to the island generally, especially to Newport, will be greatly felt.
+
+On Monday a Depot of the 63rd Rifle Brigade, of about 150 men, and Tuesday Depot of the 93rd Regiment, of about 100 men, partly filled the place of the above Regiment and Depots.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540401/014/0004
+Hampshire Telegraph - Saturday 01 April 1854
+
+The Depot of the 77th Regiment arrived here on Friday, and on the two previous days the depots of the 4th and another Regiment were landed at the Fountain Quay, and thence marched for Parkhurst Barracks, where they will be stationed for some time.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18541118/010/0001
+Sun (London) - Saturday 18 November 1854
+
+Cowes, Isle of Wight, Nov. 17
+
+Troops for the East
+
+Detachments form the 4th, 20th, 26th and 28th Regiments embarked from Cowes this morning, amounting to 250 rank and file. Recruits are arriving daily, and sometimes two or three times a day, in parties of 12, 20 or 30, and proceed on to Parkhurst Barracks. They appear all young men, very few of them being above 20 years of age.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550127/012/0004
+Hampshire Telegraph - Saturday 27 January 1855
+
+COWES. A detachment of 300 men of the 77th Regiment marched from Parkhurst Barracks on Friday morning, and embarked for Portsmouth, *en route* for the Crimea. The men seemed in good spirits, and well pleased with the prospect of proceeding to aid their fellow soldiers in the East.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550210/012/0004
+Hampshire Telegraph - Saturday 10 February 1855
+
+Owing to the severity of the weather, our poor would have fared badly had it not been for the liberality of the wealthy. As it is, coals, bread, and other comforts have been distributed among the necessitous, and an intimation given that whilst the cold continued the wants of the needy would not be forgotten nor disregarded.
+
+During the week we have had fresh areivals of recruits for Parkhurst Barracke, and several hundred soldiers of different regiments have left for Portsmouth *en route* for the Crimea, all of whom wore a cheerful countenance and did not appear at all depressed at leaving England; but on the contrary, they cheered lustily, and vowed they would give a good account oft the Russians if they should have the good luck to meet them.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550414/011/0004
+Hampshire Telegraph - Saturday 14 April 1855
+
+A large draft of upwards of 300 left Parkhurst Barracks, on Friday, for the Crimea, in excellent spirits, and eager for the fight. A flag was unfurled which had been got uphby the men, inscribed "The 28th Slashers-Sebastopol, or death !"
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550707/015/0004
+Hampshire Telegraph - Saturday 07 July 1855
+
+Visitors continue to arrive daily in considerable numbers in the Isle of Wight, the coaches appear well laden, and carriages of all descriptions are again in motion ; lodgings are getting in request, and in Newport many are occupied by military officers and their families, in consequence of the quarters at Parkhurst not affordiag accommodation for the number. 
+
+...
+
+Large drafts of men and a considerable number of officers have lately left Parkhurst Barracks for the  Crimea, who have been replaced by fresh arrivais, so that the Barracks are quite full at the present time. The Isle of Wight Militia Artillery, upwards of 100 strong, were under orders to be billetted at Ryde, so as to make room for the 48th Regiment in Newport, but the order was aftewards countermanded.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18551103/011/0004
+Hampshire Telegraph - Saturday 03 November 1855
+
+Considerable drafts have left Parkhurst barracks within a short time for the seat of war.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18561011/011/0004
+Hampshire Telegraph - Saturday 11 October 1856
+
+The military depots at Parkhurst Barracks, in the Isle of Wight, muster about 1,300 men and officers. A number of the men have volurteered recently into the Military Train, which is the name of a permanent corps that is to be a substitute for the Land Transport Corps. The military train is to number about 3,000, and the head-quarters is at Bristol. As soon as there is any large number of volunteers at Parkhurst they are sent under an escort to that city. 
+
+---
+
 ## Cases
 
 
