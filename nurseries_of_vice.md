@@ -23,7 +23,7 @@ BOROUGH SESSIONS.
 
 Monday.— Before F. Pittis, Esq. (Mayor), E. Way, Esq., and R. M. Wavell, Esq.
 
-Catherine Stewart, a common prostitute, was charged by William Caultield, a private in the 23rd regiment, with stealing from his pocket a silver watch, with a gold chain appended to it.
+Catherine Stewart, a common prostitute, was charged by William Caulfield, a private in the 23rd regiment, with stealing from his pocket a silver watch, with a gold chain appended to it.
 
 Committed to the Assizes.
 
