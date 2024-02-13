@@ -987,6 +987,13 @@ BOROUGH PETTY SESSIONS. Monday.—Before Worshipful the Mayor (chairman), and Dr
 
 John Love corporal in the 50th regiment, was charged by Caroline Pierce with an assault, with attempt to commit a rape.—The Bench, without hesitation, committed him for trial. 
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580828/026/0002
+Isle of Wight Mercury - Saturday 28 August 1858
+
+Borough Petty Sessions, August 23rd, 1838. Before the Mayor, (in the chair) and R. M. Wavell Esq.
+
+Renewal of Victualler’s Licenses.— There were 88 applications for renewal of licenses, exclusive of fresh demands ; the following amongst others were reprimanded for keeping disorderly houses; Starks, Salisbury Aims, High-street; Howes, Tontine, South street; Tribbick, While Hart, Pyle-street; Wells, Medina, Sea-street; Crease, St. James'-street; Coxhead, Horse and Groom, Pyle-street; this man actually had the effrontery to come before the bench in a state of intoxication and the renewal his license was most warrantably refused.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18600929/024/0006
