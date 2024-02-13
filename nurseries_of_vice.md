@@ -260,7 +260,7 @@ At the Borough Petty Sessionslon Monday, before the Mayor and Dr. Wavell—
 
 ...
 
-Joseph Anderson, at, of the Crab an  Lobster, beer-shop, was charged with keeping his house open after legal hours, and with conducting it in a disreputable manner; he was fined 20*l.*, or one nmonth's imprisonment, and the license to be suspended.
+Joseph Anderson, at, of the Crab and Lobster, beer-shop, was charged with keeping his house open after legal hours, and with conducting it in a disreputable manner; he was fined 20*l.*, or one nmonth's imprisonment, and the license to be suspended.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003
@@ -465,7 +465,7 @@ Isle of Wight Mercury - Saturday 01 March 1856
 
 BOROUGH PETTY SESSIONS, Monday Feb. 25
 
-Before J. H. Hearn Esq. (Mayor), THomas COoke and Edward Way, Esqrs.
+Before J. H. Hearn Esq. (Mayor), Thomas Cooke and Edward Way, Esqrs.
 
 James Lewis, alias Nobby Ducks, who had been taken into custody on Saturday evening, for selling the letter of the Rev. W. Carus Wilson, in answer to one sent him by the Mayor of Newport, respecting the tract "the Tempters and Tempted," appeared in court. The defendant had been liberated on his own bail, and retained Mr. George Prince Joyce as his legal adviser. It was told on his appearing in the box that there war charge against then put several questions to the Bench, but was answered that his client was discharged. He applied for an order for the restitution of the pamphlets, and was referred to the inspector of Police.
 
