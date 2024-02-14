@@ -285,7 +285,7 @@ Hampshire Telegraph - Saturday 10 February 1855
 
 Owing to the severity of the weather, our poor would have fared badly had it not been for the liberality of the wealthy. As it is, coals, bread, and other comforts have been distributed among the necessitous, and an intimation given that whilst the cold continued the wants of the needy would not be forgotten nor disregarded.
 
-During the week we have had fresh areivals of recruits for Parkhurst Barracke, and several hundred soldiers of different regiments have left for Portsmouth *en route* for the Crimea, all of whom wore a cheerful countenance and did not appear at all depressed at leaving England; but on the contrary, they cheered lustily, and vowed they would give a good account oft the Russians if they should have the good luck to meet them.
+During the week we have had fresh arrivals of recruits for Parkhurst Barracke, and several hundred soldiers of different regiments have left for Portsmouth *en route* for the Crimea, all of whom wore a cheerful countenance and did not appear at all depressed at leaving England; but on the contrary, they cheered lustily, and vowed they would give a good account oft the Russians if they should have the good luck to meet them.
 
 ---
 
@@ -351,14 +351,14 @@ Mr. Etheridge deposed to having seen the book produced in his shop about a week 
 
 William Bolton, an acting corporal the Rifle Brigade, said that last Monday evening he met the prisoner in the barrack-yard Parkhurst, and that she went into his room with him and another man, and from thence into the canteen, where she showed him the book now produced and asked him if he would like to read it, and when they left the canteen she gave it to him, and he said he would return it to her the next evening, but the next morning he gave it to the pay Serjeant, who, in his presence, gave it to the police constable now present.
 
-P.C. Purchase, being sworn, said—I apprehended the prisoner last Monday night about quarter to 10 o'clock, on Hunnv-hill, on the charge of stealing a coat, handkerchief, and some money, belonging to William Stevens. I asked her where the red-cover book was that she had been reading that day, and she said she returned it to its owner. I asked her who that was and she said, you have got that to find out, but she afterwards told me that it belonged to a soldier. The next morning I went to the barracks and obtained the book of a serjeant in the presence of the last witness. I saw the prisoner the same day, and asked her where she got it from but she did not say. I took her to Mr. Etheridge's shop this morning, as she had told me she had bought a pennyworth of paper and an envelope there, to see if they (Mr. Etheridge, his wife, and daughter, who served the shop) knew her, and when there I said to her, where was the book, on the glass case or with those books (some that were together on the counter) you can tell me or leave it alone, it will neither make it better worse. She said, I took it off the glass case.
+P.C. Purchase, being sworn, said—I apprehended the prisoner last Monday night about quarter to 10 o'clock, on Hunny-hill, on the charge of stealing a coat, handkerchief, and some money, belonging to William Stevens. I asked her where the red-cover book was that she had been reading that day, and she said she returned it to its owner. I asked her who that was and she said, you have got that to find out, but she afterwards told me that it belonged to a soldier. The next morning I went to the barracks and obtained the book of a serjeant in the presence of the last witness. I saw the prisoner the same day, and asked her where she got it from but she did not say. I took her to Mr. Etheridge's shop this morning, as she had told me she had bought a pennyworth of paper and an envelope there, to see if they (Mr. Etheridge, his wife, and daughter, who served the shop) knew her, and when there I said to her, where was the book, on the glass case or with those books (some that were together on the counter) you can tell me or leave it alone, it will neither make it better worse. She said, I took it off the glass case.
 
 The prisoner had nothing to say in defence, and she was committed to the Sessions.
 
 It appeared that she had also been committed on the Wednesday previous for stealing a memorandum book from Mr. John Mew's shop.
 
 
-[TH: also the following tragic tale]
+[TH: a certain Rebecca Smith also appears several times in County Sessions at Winchester charged with theft from various persons on the Isalnd. The following tragic tale appeared next.]
 
 An inquest was held at the Medina-inn, on the 17th inst., before F. Blake, Esq., coroner, on the body of a new-born female child.
 
