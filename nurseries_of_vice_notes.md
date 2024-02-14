@@ -202,6 +202,13 @@ Newport
 
 Two Sermons will be preached in St. John's Church, Newport, on Sunday the 11th inst., in aid of the funds of the Sunday Schools connected with that Church, in which 300 children are taught. Much interest will no await be felt by the Inhabitants of Newport, not only in the good object which the sermons are to promote, but they will be preached by the Rev. Carus Wilson, Incumbent of Casterton, Westmoreland, about the justice of whose remarks in the tract "Tempters and Tempted" much difference of opinion exists.
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560517/031/0004
+Isle of Wight Mercury - Saturday 17 May 1856
+
+On Sunday last, May 11th, two Sermons were preached at St. John's Newport, by the Rev. Carus Wilson, to large congregations, and collections made to assist the Sunday schools in connexion with that Church, in which 300 children are taught. The sermons were much admired, and collections of above £18 were made after the services.
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18560126/104/0005
 Portsmouth Times and Naval Gazette - Saturday 26 January 1856
@@ -322,6 +329,72 @@ The military depots at Parkhurst Barracks, in the Isle of Wight, muster about 1,
 ## Cases
 
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18500615/088/0007
+Hampshire Independent - Saturday 15 June 1850
+
+Wednesday. Before H. P. Gordon, Esq.
+
+Ann Orchard, a young girl living on the wages of prostitution, was charged with robbing her own mother (Jane Masters, of Knighton) of a shawl and a dress.
+
+P.C. Bennett apprehended the prisoner at the Tontine Tap, Newport, and produced the property, which he found pledged at Mr. Whitcomb's.
+
+The prisoner made no defence, and was fully committed to take her trial at the next sessions at Winchester.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510830/037/0005
+Hampshire Advertiser - Saturday 30 August 1851
+
+Borough of Newport Annual Licensing-day.— The Mayor and Abraham Clarke, esq. sat on Monday for granting licenses to public-houses. Most of the renewals passed without observation, but on Robert Dyer applying for a license for tbe Old King's Arms, the Mayor made some strong observations on the general conduct and character or tbe house, stating that unless it was better conducted, the license would be refused next year. He said that observations had been made at the last meeting of the Town Council against the house, and the magistrates felt that they had a duty to perform to the public to prevent the annoyance to the neighbourhood, occasioned by bad and dissolute characters resorting to the house.
+
+The applicant observed, that Mr. John Dyer had better put the saddle on himself, rather than accuse him, as his houses were the worst, being let to prostitutes.
+
+Mr. John Dyer said he had given the parties notice to quit, and that he would see the notice enforced.
+
+The Mayor said it was not a mere question whether prostitution was carried on in the house, for if bad characters were allowed to resort to them, and entice soldiers and others to accompany them, it was not observing the terms of the license.
+
+Mr. Clarke observed that the words or the license were, that he should not allow idle and disorderly persons to assemble and meet together in his bouse. The magistrates had a duty to perform to tbe public, and tbey must enforce the law.
+
+Mr. William Mew made some observations on the remarks made in the Town Council, and thought that the remarks made on the police, and on tbe Old King's Arms, neither truthful or just.
+
+The Mayor, in granting the licenses of the Valient Soldier, and Tontine Tap, gave a similar caution to the applicants.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530910/010/0002
+Isle of Wight Observer - Saturday 10 September 1853
+
+BOROUGH SESSION'S. Monday.—(Before F. Pittis, Esq., mayor; C. W. Estcourt, Esq., R. M. Wavell, Esq., and Thos. Cooke, Esq., magistrates.)
+
+Mary Harvey, common prostitute, was charged by P.C. Hobbs with being drunk and loitering about the street about one o'clock on Sunday morning, for which she was fined 10s. and 5s. costs, or to be committed for 21 days. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18531119/011/0002?browse=true
+Isle of Wight Observer - Saturday 19 November 1853
+
+BOROUGH SESSIONS. Monday.—Before F. Pittis, Esq., Mayor; R. M. Wavell, Esq., and Thomas Cooke, Esq.
+
+Elizabeth Sterratt, a common prostitute, was charged with stealing two half-sovereigns from a man she was in company with on the Saturday night previous. As the man did not appear, the prisoner was remanded next day.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18531231/016/0004
+Isle of Wight Observer - Saturday 31 December 1853
+
+BOROUGH SESSIONS.
+
+Tuesday (Before the Borough Magistrates.)
+
+Fanny Young, a common prostitute, was fined 5s. with 5s. costs, having been drunk and disorderly on Sunday morning. Paid.
+ 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002
+Isle of Wight Observer - Saturday 11 February 1854
+
+(Before the Honble. W. aCourt Holmes and Sir H. P. Gordon, Bart.) 
+
+`[As a witness]:` Elizabeth Georgina Watson (common prostitute) — I live the Tontine-yard.
+
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540304/013/0003
@@ -335,6 +408,15 @@ Catherine Stewart, a common prostitute, was charged by William Caulfield, a priv
 
 Committed to the Assizes.
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540304/034/0007
+Hampshire Advertiser - Saturday 04 March 1854
+
+Borough Court.— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
+
+On Monday, Catherine Stewart, a female of a certain class, living in the Tontine Yard, South-street, was charged with stealing a silver Geneva watch, a gold guard chain, and some money, from Private Canfield, of the 23rd Regiment of Royal Welsh Fasillers. The prosecutor was drunk at the time. She was committed to the Assizes.
+ 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540325/012/0003
 Isle of Wight Observer - Saturday 25 March 1854
@@ -503,7 +585,6 @@ Defendant said there had been no beer drank after ten minutes to ten. One man wa
 
 Fined 20s and 5s costs, or fourteen days' imprisonment. 
 
-
 --
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541014/007/0002
 Isle of Wight Observer - Saturday 14 October 1854
@@ -513,6 +594,34 @@ Borough Sessions
 Monday.— Before E. Way, Esq. and R. M. Wavell Esq. 
 
 Joseph Bailey, Leonard Campbell, John Beadleslone and Thomas Lyons, four privates in the 4th depot, stationed at Parkhurst barracks, were charged with breaking the house of Elizabeth Sterritt, a common prostitute, in the Tontine yard, on Sunday, the 1st inst., about 3 o'clock in the morning. There being no evidence against Bailey, he was discharged ; but the other three being identified they were each fined 10s. and 3s. 6d. costs, and in default of payment were committed to Winchester Gaol for one month hard labour.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541014/041/0011
+Hampshire Advertiser - Saturday 14 October 1854
+
+BOROUGH COURT
+
+MONDAY — Magistrates present: Dr. Wavell and Edward Way, esqrs.
+
+SOLDIERS" SPREE.
+
+Joseph Bailey, William Campbell, John Beadlestone, and Thomas Lyons, privates in the Sth Begiment, were charged with breaking into a house in Tontine-yard. (Most of the tenements in this den are inhabited by persons of ill-fame, and the general resort of the soldiery).
+
+Elisabeth Sterrett said she lived in Tontine-yard, and was a widow. At about three o'clock in the morning on Sunday week she was in bed and heard a kicking at the door, and then heard a shutter broken open and one or two panes of glass break. When she had got a light four soldiers walked up to her room. Campbell was the first that came in. Beadlestone was another. She did not know the other two. Campbell said "Blood this night I'll have," and tried to tear her night clothes off her. Witness screeched " Murder!" and they went down stairs— she *threw* one down. Went down stairs and found four more— Lyons was one ; did not know the other ; they all got out through the window, and one of them said, " Campbell, smash some more windows," and they smashed several. There were eight panes broken—cost 8d a pane. Witness paid 8d for a bolt to fasten the shutters; the table was broken all to pieces, worth 4s. Witness did not miss anything, and they did not offer her any violence ; she was only frightened. Campbell struck her before tbe officers, when she was picking them out.
+
+Ann Philips said she lived in Tontine Yard ; heard Sterret call " murder," looked out of window and saw the soldiers break the window with a stick ; saw they belonged to the 4th Regiment, did not know any of them, there were eight or nine.
+
+P. C. Hobbs said that on the nigbt of last Saturday week, he saw several soldiers come from Tontine Yard, proceeded there and saw the windows of Sterrett's house were broken. Knew Lyons and Campbell in tbe party, but could not identify tbe others.
+
+Lyons, in defence, said he never was near the place.
+
+Beadlestone said he was not in the streets— was not with this party all night.
+
+Campbell was " not there at all at all."
+
+Beadlestone called John Windgate, a private in the 8th, who said he was out of the barracks that night in a state of intoxication, and had been to sleep near a mill. When he awoke about daybreak he saw Beadlestone was there. Had not seen him before, and did not know where he had been in the night.
+
+Bailey was discharged. The others were fined 10s and 3s 6d costs each, and, in default, committed to Winchester for one month. 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541209/009/0003
@@ -801,6 +910,25 @@ Monday April 1st, (before Thomas Cooke, Esq.)
 
 Caroline Pierce, one of the girls of the pave, was charged with disorderly conduct and being within Parkhurst Barracks between four and five o'clock on Sunday morning, for the purpose of prostitution. The prosecution was promoted by the Colonel Commandant, who has been attempting to control the profligate tendency of some of the officers. The defendant denied that she was guilty, but the evidence left no doubt of the charge.— Committed to one month's imprisonment with hard labour. 
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560628/040/0008
+Isle of Wight Mercury - Saturday 28 June 1856
+
+COUNTY PETTY SESSIONS, Saturday
+
+Before Sir H. P. Gordon, Hon A'Court Holmes, Capt. Hammond, and Crozier R.N.
+
+Emma Duffey and Jessy Simmonds were charged by P. C. Sergeant and McHale with disordely conduct the preceding Wednesday evening, near the barrack gate. Witness also deposed that Simmonds used bad language. The latter was convicted and sentenced to 10 days' imprisonment, the former discharged.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18560628/079/0005
+Portsmouth Times and Naval Gazette - Saturday 28 June 1856
+
+County Sessions, Saturday.— Before Sir H. P. Gordon, Bart., the Hon. a’Court Holmes, Captains Hamond and Crozier, R.N.
+
+Emma Duffey and Jessey Simmonds were charged by P.C. Serjeant McHale with being disorderly near the gates of Parkhurst Barracks, on Thursday night. Simmonds was convicted and sentenced to ten days' imprisonment, and Emma Duffey was discharged.
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560719/044/0008
@@ -929,6 +1057,23 @@ A woman named Elizabeth Jackman, a prostitute, was brought up in custody, charge
 
 The girl expressed contrition for her conduct, and, after duly admonishing her, the bench ordered her to be discharged.
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570321/051/0003
+Isle of Wight Mercury - Saturday 21 March 1857
+
+BOROUGH PETTY SESSIONS. [Monday.— Before R. M. Wavell, and E. Scott, Esqrs.]
+
+Felony.— Sarah Duffy, a woman of low character and depraved habits, was charged with stealing a piece of potk, of the value of two shillings and five pence, the property of William Lane, a labouring man residing at Arreton. It appears that the silly fellow had been drinking with the prisoner the "Tontine Tap" till midnight on Saturday last, and had with him a basket provisions for home, including a choice bit of pork for Sunday’s dinner. When the tap was closed and they could get no more beer, he went with the fascinating Mistress Duffy—whose blandishments and charms he could not resist—to her house up the Tontine yard, and she had not much difficulty in persuading him to go back and try to get a pint of beer, and whilst he was gone she opened the lid of his basket, looked at the pork, approved both quantity and quality, and so took it to herself. When the unsuspecting William returned, both she and the pork were gone. He shouted at the foot of the stairs, but nobody answered, and so he went and informed the police; and the next day, P.C. Stubbs, in presence of Superintendent Stubbs, found the identical piece of pork concealed in her bed. Committed to one month's hard labour.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570321/009/0004
+Hampshire Telegraph - Saturday 21 March 1857
+
+At the Borough Court, on Monday, before R. H. Wavell, J. Hearn, and E. Way, Esqrs, Wm. Lane, a countryman, chrargd Sarah Duffy, residing in Tontine Yard, with stealing his Sunday's dinner. It appeared that after he had been drinking with the prisoner for some hours at the Tontine tap, he accompanied her home, where his basket was speedily eased of its contents of bread and pork, whilst he was gone after more beer. Prisoner pleaded guilty— 28 days to hard labour.
+
+
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007
@@ -938,6 +1083,53 @@ BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and 
 
 Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and turning her out of his house. He is the keeper of the notorious beer-shop Prince Albert, in Deadman's-lane and it appeared that his wife started off with another man about five months ago, and had lately returned, and wanted again to "walk into the defendant's affections," which he reciprocated, on her returning to his house, by giving ber a black eye, and kicking her into the street. The case was dismissed.
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570704/019/0006
+Hampshire Telegraph - Saturday 04 July 1857
+
+At the Borough Court on Monday, before the Mayor and Borough Magistrates, ... Emma Duffey, a common prostitute, charged with using indecent language in the public streets, was committed for one muonth.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570905/048/0003
+Isle of Wight Mercury - Saturday 05 September 1857
+
+BOROUGH PETTY SESSIONS. Monday, August 31. Before Robt. M. Wavell, Esq. (in the chair), J. H. Hearn, Esq. and E. Way, Esq. 
+
+A LIVELY NYMPH.
+
+Sarah Coster, a common prostitute, was placed at the bar for being drunk and creating a disturbance in the street on Saturday night last. Police-constable Lockhart having proved the fact defendant was committed to Winchester for one month. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/031/0004
+Isle of Wight Mercury - Saturday 20 February 1858
+
+BOROUGH PETTY SESSIONS. February 15th. Before the Worshipful the Mayor (in the chair), and E. Way, Esq.
+
+M. WOODMORE v. W. GUMMON, 6th Regt.
+
+Mary Woodmore, sworn— I am a single woman. I live in Scarrets-lane. Last Wednesday morning between 10 and 11 o’clock, I was at home in bed. I heard some one breaking open shutters. I got out of bed and looked out of the window, and saw it was the defendant. I asked what he wanted. He said he wanted to come in. I told him to go away. Between 11 and on the same morning of the same day, I was in the Tontine Inn, Defendant came in and asked Eliza West who was there and who lives with me, and what she said. She said that we did not want him up there. He then struck her with his open hand in the face. I asked him why he did it. He then up with his fist and gave me a black eye. He afterwards said, "take care or I’ll give you more." He would have struck me again but he was prevented by corporal Cox.
+
+Cross-examined— Defendant did strike me, and tore my hat off my head.
+
+John Chick, sworn— I live in Scarrot's-lane, and I was at the Tontine last Wednesday evening before defendant came in. He asked Eliza West what she had been saying about him, and struck her. Many Woodmore asked what he did it for. He immediately struck her, and gave her a black eye. He struck her twice. I am sure she had not a black eye before defendant struck her, but afterwards the eye was swollen.
+
+Cross-examined— I do not live in the same house as the complainant. I have lived in the same house, but that was in another house. My mother takes the house in which Mary Woodmore lives.
+
+Eliza West corroborated the above evidence.
+
+Police-constable, W. H. Stubbs, sworn— I was sent for about 1 last Thursday morning to Scarrot's-lane. I met defendant on the road. He went back to complainants house with me. The girls were in bed. Woodmore complained of his abusing her and breaking the windows, and I took him into custody. Woodmore had a black eye.
+
+Defence— I saw the girls crying, and asked them what they had been saying about me. I put one outside the door. I did not strike the complainant or cither of the girls, Rosa Cribb gave complainant the black eye.
+
+Convicted in the penalty 10s., and 5s. costs, or committed to the House of Correction for 21 days. The money was paid. 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580605/047/0007
+Hampshire Advertiser - Saturday 05 June 1858
+
+BOROUGH COURT. Monday.— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
+
+On Thursday, a hawker, named William Waterworth, was committed to the House of Correction at Winchester for one month, as a rogue and vagabond, for being drunk at the Tontine Tap, and indecent exposure. 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580731/025/0002
