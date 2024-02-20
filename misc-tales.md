@@ -16,3 +16,6 @@ Yesterday evening various relics were exhibited at the Town-hall. Among other th
 The Rev. Mr. Kell then read a valuable and interesting paper with reference to the ancient tin trade of the Isle of Wight, proving by an immense mass of authorities that the tin which formed the subject of traffic in the early ages was brought from Cornwall across to the Isle of Wight.
 
 This paper was follnwe'l by a lively discussion, after which the company separated for the day.
+
+
+TH: painting https://en.wikipedia.org/wiki/Tichborne_Dole#/media/File:Tichborne_dole.jpg
