@@ -119,6 +119,16 @@ sinking."
 Isle of WIght Moncrieff
 p91 It appears that in Georgian days Week Down was charged with hiding Shanklin Down from the view of St Catherine's, as is no longer the case, the moral being that one or other of these heights has been raised or depressed, as may well have happened to superstructures upon so slippery foundation.
 
+A History of the County of Hampshire: Volume 5. Originally published by Victoria County History, London, 1912. via https://www.british-history.ac.uk/vch/hants/vol5/pp156-170 , Pages 156-170
+LANDGUARD
+LANDGUARD (Levegarestun, xi cent.; Langred, xiii cent.) is perhaps to be identified with Levegarestun, which was held of the Confessor as an alod by two freemen, and belonged in 1086 to William son of Azor. (fn. 184) It was held of the honour of Carisbrooke in the 13th and 14th centuries, but was said in 1582 to be held of the manor of Wolverton. (fn. 185) In the latter half of the 13th century it was held with Wolverton by Robert de Glamorgan, (fn. 186) but had perhaps previously been held by Geoffrey Tichborne, who had given land in Landguard to the chaplains of Limerstone (fn. 187) (q.v.). It appears to have passed with Wolverton until 1431. (fn. 188) At the beginning of the 16th century the manors of Landguard and Watchingwell were held by Thomas Baker and his wife Joan, and came to their daughter Joan wife of John Earlisman, on whose death in 1542 the property was divided between her two daughters, Landguard being assigned to Jane, the wife of Edward Hungerford. After her husband's death Jane married Edward Moore, and the two in June 1572 granted 'the site and capital messuage and farm-place of the manor of Langorde' to Richard Cooke of Chale for the term of 100 years. (fn. 189) Edward Moore and Jane remained in possession until 1574, (fn. 190) but they probably left no issue, as the manor passed to John Cheke, probably son of Jane's sister Joan Cheke (see Watchingwell). John died seised of it, then called the manor of North Landguard, in 1582, leaving a son Edward. (fn. 191) This estate afterwards seems to have passed to Sir John Richards, who died seised of it in 1626, leaving a son John. (fn. 192) The further descent of this estate has not been traced.
+
+A second manor later known as Great Landguard belonged to the Knights, Michael Knight dying seised of it in 1612. (fn. 193) This estate then passed with Luccombe in Bonchurch to Mr. Arthur Harry Howard Atherley, (fn. 194) who is the present owner.
+
+The old house, a 17th-century stone structure, with a later Georgian brick front, was pulled down in 1879 and rebuilt by the present owner's father, Lieut.-Col. Atherley.
+
+
+
 THE ISLE OF WIGHT Clinch
 p99-100 There is a curious dole left, it is said, by Isabella, the heiress of this manor in the reign
 of Henry I. The legend, which may possibly be fabulous, is as follows : When she lay dying
