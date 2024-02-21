@@ -1,5 +1,6 @@
 # Nurseries of Vice
 
+
 The context for this is a reference I happened across to a pamphlet entitled "Tempter and Tempted" which appears to have ranted against Newport as a hotbed of vice corrupting the soldiers barracked at Parkhurst. A later pamphlet also became the subject of a libel case against local dignitary, F. Pittis.
 
 I still haven't managed to track down either pamphlet...
@@ -14,6 +15,9 @@ https://en.wikipedia.org/wiki/Category:Regiments_of_the_British_Army_in_the_Crim
 
 Pub history census 1911  Newport https://pubshistory.com/IsleofWight/Newport/
 
+
+https://archive.org/details/b21516911/page/232/mode/1up?q=%22tontine+yard%22
+Report on the mortality of cholera in England, 1848-49 Newport population 12067
 
 
 ---
@@ -94,7 +98,7 @@ The Chairman must call Mr. Eldridge to order. Such Observations were in very bad
 
 Mr. Pring to Mr. Eldridge— And by what means and authority do you and Dr. Wavell get the regular inspection of this Town Missionary's Report-book?
 
-Mr. PiNNOCK— And if this is his mission, the sooner he is out of the town the better. Such a man is a curse to the town !
+Mr. Pinnock— And if this is his mission, the sooner he is out of the town the better. Such a man is a curse to the town !
 
 Mr. Eldridge— Not a curse. A blessing, I hope. His book is strictly private. No one but Dr. Wavell and myself, who sign it weekly, see the book.
 
