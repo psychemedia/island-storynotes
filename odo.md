@@ -1190,7 +1190,7 @@ tho first place in Normandy under the weak
 rule of Robert. It was by his advice 
 that, in the autumn of 1088, the duke’s 
 brothor Henry and Robert of Bollcme [q.v.] 
-were arrested ; and when tbe news brought 
+were arrested ; and when the news brought 
 Roger of Montgomery [q. v,] to Normandy, 
 Odo urged his nephew to destroy the power 
 of tho house of Talvas. He also took a pro- 

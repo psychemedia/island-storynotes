@@ -162,7 +162,7 @@ The twelfth annual meeting of this association will commence in the Isle of Wigh
 
 The following is the programme of the proceedings of the Congress : —
 
-Monday, August 20.— Meeting in the Council Chamber of tbe Town-hall of Newport, at half-past one p.m., where the members and visitors are requested to enter their names and their places of abode during the congress. — Public meeting in the Town-hall at three p.m. — President's ad- dress.—lntroductory Sketch of the Antiquities of the Isle of Wight, by T. J. Pettigrew, Esq., vice-president and treasurer — Exhibition of plans of the town of Newport. — Lecture on the Municipal Records of Newport, by W. H. Black, Esq. — lnspection of the Town — Remains of St. Thomas's Church — The Grammar School — Museum of the Isle of Wight — Evening Meeting at the Town-hall for the Reading and Discussion of Papers, Exhibitions of Antiqui- ties, &c, half-past eight p.m.
+Monday, August 20.— Meeting in the Council Chamber of the Town-hall of Newport, at half-past one p.m., where the members and visitors are requested to enter their names and their places of abode during the congress. — Public meeting in the Town-hall at three p.m. — President's ad- dress.—lntroductory Sketch of the Antiquities of the Isle of Wight, by T. J. Pettigrew, Esq., vice-president and treasurer — Exhibition of plans of the town of Newport. — Lecture on the Municipal Records of Newport, by W. H. Black, Esq. — lnspection of the Town — Remains of St. Thomas's Church — The Grammar School — Museum of the Isle of Wight — Evening Meeting at the Town-hall for the Reading and Discussion of Papers, Exhibitions of Antiqui- ties, &c, half-past eight p.m.
 
 Tuesday, Aug. 21. — Visit to Carisbrooke Castle — Remains of Priory — Carisbrooke Church — Shalfleet Church— Newtown (Site of Ancient Francheville) — Examination of ancient documents— Return to Newport — Evening meeting — Papers — Conversazione.
 
@@ -194,7 +194,7 @@ Mr. W. H. Black on the Newport Corporation Records.
 
 Mr. W. H. Black on the Southampton ditto.
 
-Mr. W. H. Black on tbe Mode of keeping the Exchequer Accounts.
+Mr. W. H. Black on the Mode of keeping the Exchequer Accounts.
 
 Mr. H. Syer Cuming on the Relics of Charles I.
 
