@@ -19,330 +19,9 @@ Pub history census 1911  Newport https://pubshistory.com/IsleofWight/Newport/
 https://archive.org/details/b21516911/page/232/mode/1up?q=%22tontine+yard%22
 Report on the mortality of cholera in England, 1848-49 Newport population 12067
 
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/030/0004
-
-Isle of Wight Observer - Saturday 30 June 1855
-
-THE FASHIONABLE LIST
-
-VENTNOR
-
-Pulpit Rock villa,
-
-Rev Carus Wilson  
-Mrs Wilson
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550811/022/0004
-Isle of Wight Observer - Saturday 11 August 1855
-
-THE FASHIONABLE LIST
-
-VENTNOR
-
-St. Boniface House,
-
-Rev Carus Wilson  
-Mrs Wilson
-
 ---
 
 ## Concern
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551006/013/0003
-Isle of Wight Observer - Saturday 06 October 1855
-
-During the last week a deputation, consisting of the clergymen of St. Thomas' Church, the ministers of the different dissenting congregations and others, presented the following memorial to the magistrates at the Townhall respecting the social condition of the borough, in the hope that means may be taken to prevent a continuation the present exhibition of indecency and open prostitution which now disgrace its thoroughfares :—
-
-"To the worshipful the Mayor and the Magistrates of the borough of Newport, Isle of Wight.
-
-"The memorial of the undersigned inhabitants of the said borough.
-
-"Your memorialists beg respectfully to state that for some time they have, with many respectable inhabitants, had their attention turned to the moral aspect the borough of Newport.
-
-"A few of the more serious part of the community are laboring, by appliances of a simple, but they trust efficient character, to rectify existing evils; but they fear that, without the cooperation which the municipal authorities can afford, their effort, however well intended, and however admirably conducted, will meet with counteractions too powerful, humanly speaking, for them to surmount.
-
-"Without wishing to cast any reflection upon the municipal authorities, your memorialists request permission to suggest, whether the leading thoroughfares of the borough might not be kept more free from interruption, occasioned by individuals collecting in groups, and frequently conducting themselves in a manner most offensive to virtue — whether the By-Law No. 25 ['Every common prostitute, or night walker, who shall loiter or in any thoroughfare or public place for the purpose of prostitution or solicitation, shall for such offence forfeit and pay the sum of ten shillings'] could not be put in force, so that by its rigorous execution obstructions to a course of immorality might be lawfully created — whether a stricter supervision could not be exercised over lodginghouses, lest they become the resort of characters for whose use they were not intended, and over public houses and beershops, multiplied, your memorialists fear, far beyond the wants of the borough, and where attractions are held out to make them the rendezvous of persons whose antecedents create a suspicion that they will prove nurseries of vice.
-
-"In imploring the magistrates to exercise their authority for the prevention of crime as far as they can, your memorialists wish to be distinctly understood that they are not seeking any class legislation; their object being the purification of the borough from the social evils which unhappily abound within it, and it is their wish to see every offender, whatever be his grade in life, made amenable for his conduct. Any partial application of the law they would deprecate, for intelligent observers of passing events must see that ail efforts to cleanse the fountains of social life are invariably unpopular and fail, unless even-handed justice be administered all transgressors.
-
-"In conclusion, your memorialists would observe that they address you, not as the organ of any political party, or of any religious denomination, but as inhabitants of the borough, deeply concerned for its highest welfare. Upon your aid they rely as invaluable auxiliary to the various benevolent agencies which are now operating for its social and moral improvement. Their aims, they are free to confess, partake of high and sacred character. On an arm more powerful than that which is human, and on means more effective than any legislation can afford, they depend for their ultimate attainment; but as the work is great, and hindrances from various causes multiply, they desire every kind legitimate of cooperation, and that which an intelligent and a vigilent magistracy can afford they appreciate too highly not to seek, and which, from the known character of the gentlemen who sit upon the beach, they feel persuaded they shall not seek in vain.
-
-"And your memorialists respectfully subscribe their names hereto."
-
-Dr. Wavell, on the part of the magistrates, replied that the bench would do everything in their power to remedy the evils complained of.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551006/038/0007
-Hampshire Advertiser - Saturday 06 October 1855
-
-Newport, Saturday, October 6.
-
-The Retrograding State of Morals in Newport.
-
-We omitted last week the following memorial, lately presented by the Rev. G H. Connor and other gentlemen to the Magistrates of the borough on this momentous and anxious subject. We have been so earnestly solicited to print the document that we give it insertion against our own inclinations, being unwilling to believe that there exists in the Isle of Wight a place so lost to Christianity, and so devoted to crime, beyond the crying evils of any other place in the kingdom. We are unwilling to believe it. If true, it does not say much in regard to precept and example. The Question arises— how is it that such a social ulceration has been left to fester amidst the general moral healthiness of the island !— to such an extent, too, as thus to meet the severe condemnation of the immediate residents, who *taboo* the town, and will prevent strangers approaching its scenes of vice. Our correspondent says—" We trust all those of the town who have thought seriously of the matter will exert them-selves in every way to *stem the torrent of juvenile profligacy and prostitution*, the streams of which literally choke up our principal thoroughfares of an evening:" This is a horrible picture, and is more out-spoken than the memorial.
-
-[The memorial is then printed in full.]
-
-The worshipful the mayor Dr. Wavell, and others of the authorities present, thanked the memorialists for their judicious suggestive hints, and were pleased in feeling that they had the willing co-operation of the respectable inhabitants of the borough.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560209/015/0005
-Isle of Wight Mercury - Saturday 09 February 1856
-
-The Mayor rose, and said, that he should not be doing justice to his own feelings or to the town if he did not bring before the Council the grows insult which had been cast on them by the address, the Tempter and Tempted, written, it was said, by a gentleman lately come to reside there, the Rev. Carus Wilson, and it was with no ordinary feelings of indignation that he found the beastly tract had been taken to his house, and was in the hands of his family and female domestics; could any honest man, could any father of a family avoid feeling grieved that such gross accounts of vice should be brought to defile the minds of young persons? He was more astonished and indignant to find that copies had been delivered to the children at the Sunday schools, and the National schools. He hoped the British schools had escaped the pollution. He considered these females who distributed such a work and placed them in the hands of children a disgrace to their sex. He regretted that these meddling troublesome fellows who were interfering where they had no connection with the town, and he should have thought that Mr. Smith might have found other ditties for which he was paid by the Treasury, rather than interfering with the town of Newport. He felt it his duty to deny most clearly, and to protest most strongly against the falsehoods and calumnies which had been circulated respecting the Borough of Newport. He asserted firmly, and would prove his assertion that there were few more moral towns than Newport and no garrison town where there was so little debauchment. He could prove by official returns which he had obtained, that the health of the soldiers their general morality, while at Parkhurst, were much above the average. He could not have allowed the Council to have separated without throwing off the foul imputation, and pressing from his heart the indignation he felt at the insult that had been put on them, and the town.—Mr. W. B. Mew concurred in the sentiments and feelings expressed by the Mayor, and denounced the exaggerated statements about the town, which haul been put forth.—Mr. Robert Pinnock congratulated the Council on the course taken by the Mayor, to revel the calumnies which had been indulged in thousands of the books, had been circulated, and unless contradicted, might cling to the town. He asked the Mayor whether he would take it up as the organ of the Council, & repudiate the calumnious attack on the town. Its origin could be traced to a new movement that had been organized in the memorial addressed to the Magistrates, and to a newspaper paragraph. He considered that the sooner such proceedings were discouraged the better.—Mr. Pring said the memorial had been handed to the Watch Committee, of which he was one, and after the strictest investigation, they came to an unanimous vote, that there was no cause to interfere with tie general arrangements. He had lately been in most of the towns in the kingdom where the military were near, and he said with confidence, that Newport for order, quietness and morality, surpassed all the others. Some persons were over nice, and he thought the Town Clerk might as will stay at home, as to go about interfering with others.—Mr. Eldridge (Town Clerk), said he was one of those who agreed with the memorial; he thought it was quite right, and no censure ought to be cast on those who were parties to it. The attention of the Magistrates was called to facts which were patent to all Gentlemen, and if those present had seen the report of the Town Missionary, which Dr. Wavell and himself had presented to them weekly, they would know the amount of vice which prevailed.—The Mayor said they had no right to sit in judgment upon others, they had no authority to judge and collect accusations against their neighbours. If this was the occupation of a Town Missionary, the sooner he was removed the better.—Mr. Eldridge said he knew that he had lifted up many who had been cast down, and he could tell of those in higher places, whose conduct would not bear investigation.—Mr. Pinnock said that the missionary was engaged to raise up the frail, but the course pursued by him and his employers, had turned out a curse to the town.—Mr. Wilkins and Mr. Morgan expressed similar feelings with the other members of the Council.—Mr. W. B. Mew wished to know by what authority these men had set up this court of inquisition; he felt indignant at their presumption. There was a newspaper once circulated in the town, called Paul Pry, which was very objectionable, and caused unpleasantness in many families but this was much worse, as the scandal was handed from one to the other, without the knowledge of the person whose reputation was attacked. If this Paul Pry defended by Mr. Eldridge, went into these abodes of sin and temptation, he ought to be exceedingly good; as pitch could not be handled without defilement. The exposure that day should induce the Town Clerk to cut such acquaintance, and he could not help feeling disgusted that men should be found, who could listen to the reports, full of scandals and libels on their neighbours.—The Mayor said he was afraid there was a great deal too much of spying and prying going on. After a long conversation, it was determined that it should be left to the Mayor either to write in his own name to the Rev. Carus Wilson or in that of the Council contradicting his statements, as embodied in the address "Tempters and Tempted." Since the meeting of the Town Council and the exposure of the system of espionage which has been carried on in Newport, principally by the means of the town missionary, Mr. Tucker, several subscribers have determined to have their names struck as they never contemplated that they were paying their money to gratify the curiosity of individuals, or to rake up scandal against their neighbours.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004
-Hampshire Telegraph - Saturday 09 February 1856
-
-MEETING OF THE NEWPORT TOWN COUNCIL.
-
-The Quarterly Meeting of the Town Council was held on Tuesday, the Mayor, John Henry Hearn,, Esq., in the chair.
-
-...
-
-It was proposed by Mr. Pinnock that the foot pavement leading towards Parkhurst Barracks should be extended as far as the boundaries of the Borough, and that measures be taken to obtain a footpath to the Barracks and Prison.
-
-Mir. B. W. Mew hoped to see a foot-path lighted from the town to the Prison.
-
-A committee were then appointed to report on the subject.
-
-...
-
-The Mayor— I should not do justice to my own feelings or my duty to the town, if I were not to bring, before this Council the insult which had been offered by the publication of the "Tempters and Tempted." It was with no ordinary feelings of indignation that I found the beastly tract had been thrust into my house, and copies were in the hands of my family and female servants. I was still more astonished to find that they had been delivered to the children of the Sunday and National Schools; the British Schools I hope escaped the pollution ; and for such books to be placed in the hands of children by females I consider it a disgrace to their sex. There were meddling, troublesome fellows who interfered where they had no right, having no connection with the town. I should think that Mr. Smith could find plenty of duties at Parkhurst Prison, for which he is paid by the Treasury, instead of mixing himself up in these transactions. There was no doubt it was the work of a Mr. Wilson, a gentleman who had taken up a temporary residence in the Island, but a good deal of it must have been supplied by others. I again deny the accusation, and protest against the slander. With so many soldiers in the neighbourhood, perfection could not be expected ; but with perfect confidence I assert that in no garrison town in the kingdom was there so little debauchery ; and from information he had obtained from an official quarter, the health and morals of the troops at Parkhurst were above the average of other places. I cannot help expressing to this Council the strong feelings I entertain at the foul indignity that has been put on us as a town.
-
-Mr. Pinnock congratulated the Council on the bold manner in which the Mayor had met the foul accusation, which had been circulated ; and which, uncontradicted, might prove an injury to the town. Thousands of copies had been issued, and he had heard that more were to be sent abroad. He traced the scandal to the new movement that had been organised in Newport, to the committee and memorial afterwards published in the newspapers, and considered it the duty of all to discourage such proceedings.
-
-Mr. Pring, as one of the Watch Committee, said, the memorial had been handed to them, and its contents discussed, and they came to an unanimous vote that there it was no just ground for interference. He had travelled much, seen many places where soldiers were near, and fearlessly affirmed that a quieter or better conducted town was not to be found in the kingdom. Some persons were over nice and expected perfection, and he thought it would be quite as well if their Town Clerk were to stay at home as go about interfering with others.
-
-Mr Eldridge (Town Clerk), rose and said, he was one of those who agreed with the memorial ; the memorialists did not intend it as a censure, but called the attention of the magistrates to a fact patent to all. He had nothing to do with the "Tempters and Tempted," but if gentlemen had seen the lists brought to him and Dr. Wavell weekly, they would be astonished at the amount of crime and the persons committing it; he could name some of the higher classes.— (Great sensation.)
-
-The Mayor said they had no right to sit in judgement on their neighbours ; such conduct was indeent, and he held those who stirred in such things as ecxeeding their duty. Persons slandered had not the ordinary means of defence, and if that was the office of the missionary it was using it for evil.
-
-Mr. Eidmidge said the missionary had raised up many bowed down with sin.
-
-Mr. Pinnock thought if the missionary was engaged to raise up the frail it was not intended that he should be a spy ; it would be found that he was a curse to the town.
-
-Mr. Wilkins and Mr. Morgan expressed opinions in unison with the other members of the Council.
-
-Mr. W. B. Mew would like to know by what authority Dr. Wavell and Mr. Eldridge set themselves up as inquisitors on others ; such conduct raised the indignation of every one worthy the name of man. This missionary was worse than the Paul Pry Newspaper; there you could find out what was said, but this was a private inquisitor. How he could go amongst such vice as he descriibed without contamination he could not think, for it was difficult to handle pitch without being defliled. He was surprisd at the Town Clerk ; he would advise him to break off such acquaintance as early as possible.
-
-After a desultory conversation it was agreed that the Mayor be empowered to write to the Rev. Carus Wilson, either in his own name or that of the Council, repudiating the description he had given of the Town of Newport in his tract, "The Tempters and Tempted."
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560209/049/0007
-Hampshire Advertiser - Saturday 09 February 1856
-
-NEWPORT, Saturday, February 9.
-
-Town Council Meeting
-
-The quarterly meeting of the Newport Town Council took place on Tuesday.
-
-...
-
-The Reported Immoral State of the Inhabitants of Newport
-
-The Worshipful the Mayor rose and said, there was one painful matter affecting the interests of the town which he considered it his duty, as their chief Magistrate, to bring before the Council. His feelings had been lately shocked on finding that a disgusting pamphlet, entitled, "Tempters and Tempted," had been industriously circulated about the town, and by one means and the other had found its way into almost every house ; and he was sure he was sharing the feelings of every, rightminded head of a household, when he said that such vile slander against their town as was therein contained ought to be emphatically and publicly protested against— (hear, bear). He could not express the indignation he felt on learning its contents, and finding that everyone in his house, excepting his wife, had read its contaminating pages; and greatly astonished was he to find that those tracts had been placed in the hands of the children of their Church Sunday and other schools by females— he would not say by ladies. He would ask if expressions such as these— "Your town is on fire with the flames of licentiousness and lust" — were fit for the minds of tender children to dwell upon? And were they not a gross insult, and a libel on the inhabitants of the town ? And by whom was this shameful tract written? Not by one of the pastors or ministers of the town, but by a non-resident, who had nothing whatever to do with the town, assisted by another meddling, troublesome busybody, who, he should think, would be far better employed in his business at the Prison at Parkhurst. The parties to the tract were Carus Wilson and Henry Smith; that was an undisguised fact, and the stigma with which the town had been branded would doubtless be most pernicious to the interests of it ; and he did say they (the Corporation) ought to do all in their power to destroy its baneful influence. The assertions in it respecting the general depravity and debauchery of our town were infamously false. There was not a garrison town in England that was so free from the charge as Newport— (hear, hear), and he had it from undoubted authority that there had always been less average disease in the Garrison at Parkhurst than at any other, arising from such vicious habits as are imputed to our town. He would, therefore, once again say, that these infamous and unfounded assertions respecting their borough ought to be thus publicly denounced— (hear, hear).
-
-Mr. Pinnock said he was proud their Chief Magistrate had shown the moral courage thus to speak out against a matter which ciations than the Mayor had, and desire him to take such further was calculated to be a most serious injury to the town, if not thus publicly disclaimed. And they ought to go further in their denun- steps as be might deem expedient to stop the thing— (hear). For such a false and shocking report of the state of morals of the inhabitants of Newport was unjust to the Magistracy of the Borough, and he regretted to be obliged to further state that some of the members of their Council had been, in a measure, parties to it. They first had their attention drawn to the immoral state of the town by their Town Clerk, some of the ministers of religion, and other parties living in the town, waiting on the Magistrates, at the Town Hall, as a deputation, requesting them to lend their influence, in their public capacity, to suppress vice and immorality in the town; then there were paragraphs in the newspapers on the subject; and at last there were found religious fanatics ready to make a handle of those pharisaical " good intentions," and scandal was the consequence, which if not met in some such way as this, the town was likely to suffer most seriously. He had some knowledge of other military towns, and it was with thankfulness he felt that Newport was a paradise in comparison with any of them.
-
-Mr. W. B. Mew fully coincided in the censures which bad been passed on the authors and circulators of this most injudicious and injurious tract.
-
-Mr. Pring considered at the time that the said deputation took upon themselves to wait upon the Council and lecture them upon the immoral state of the town, that they were going somewhat out of their way, and could not help thinking that their worthy Town Clerk, who headed that deputation, would have been better employed in his office. However, they thought perhaps there were some matters which might be rectified, and instructed their police to be watchful and keep the streets clear, and people moving; and their inspector had shown that generally speaking there was no necessity for interference except on Sundays, and then it was a delicate matter, as people stood about talking with each other after coming out of the various places of worship. Well, the police, in the execution of their duty, civilly requested a group, who were thus standing together in the High-street, to " move on," and they turned out to be a tradesman's family, who had since been to them complaining of the impertinence of the police in this respect. He had opportunities of being acquainted with the state of other military towns, and he could say with Mr. Pinnock, that Newport was not to be compared with any of them. Take Portsmouth, Winchester, Chatham, or even the fashionable town of Southampton, and immorality exhibited itself in a much greater degree in those towns than in Newport— (hear).
-
-The Town Clerk (Mr. Eldridge) replied, that as far as the memorial which had been spoken of went, he believed he and the other parties connected with that movement had acted with perfect consistency, and had done nothing in it but what was proper. Their attention had been drawn to the retrograding state of the public morals of Newport, and they were anxious to use every exertion legally to stem the growing depravity of the town— which was patent to all. With respect to the tract in question, he had read it, and thought it a very injudicious publication, and feeling this, when their town missionary spoke to him respecting some which he had for circulation, he told him it would be unwise to do so, and that he had best not have anything to do with it. But, nevertheless, he thought the less said about the matter the better. He and Dr. Wavell had the weekly inspection of the Town Missionary's report book, and they unhappily knew that many moving in the higher ranks of life were guilty of fostering the immorality of the town by their own immoral conduct —(great excitement, and cries of "Order" from both sides of the Chamber).
-
-The Chairman must call Mr. Eldridge to order. Such Observations were in very bad taste and most improper, and they could not be heard sitting there in judgment on their fellow-townsmen ; and he was surprised and vexed to learn that such a spy system had been adopted of diving into matters of privacy, for the purpose of getting up a Quixotic crusade against an evil which, by parties thus acting with such indiscreet religious zeal, would be the very means of increasing the evils they would wish to suppress. The utmost they could do was to put down dancing- houses and brothels, prevent broils and lewd and improper conduct in the streets, and keep public-houses as orderly as possible. Beyond this they could not go— (hear).
-
-Mr. Pring to Mr. Eldridge— And by what means and authority do you and Dr. Wavell get the regular inspection of this Town Missionary's Report-book?
-
-Mr. Pinnock— And if this is his mission, the sooner he is out of the town the better. Such a man is a curse to the town !
-
-Mr. Eldridge— Not a curse. A blessing, I hope. His book is strictly private. No one but Dr. Wavell and myself, who sign it weekly, see the book.
-
-Mr. Morris Morgan— It has been said that the Town Missionary had been told not to circulate the tract ; but he had reasons for believing that he did distributed them, and he had been informed that he had also given certain information to Carus Wilson on the subject— (exclamations of "Oh !")
-
-Mr. Mew was astounded at what had been elicited during this discussion, and expressed himself in the most severe terms of disapprobation at the idea of some of the authorities of the town being so mixed up with such a disreputable matter— and they, too, professing themselves to be Christians ! Such conduct was scandalous and abominable, and was only second in infamy to the Paul Pry newspaper espionage that was some years ago the medium of so much scandal and abuse, and had such a baneful effect on society. He thought if Mr. Eldridge felt rightly on the matter, he would at once cut the acquaintance of this Town Missionary, at least.
-
-After some further stormy observations— many of the Council joining in the discussion—it was agreed that the Mayor should take what steps he might consider necessary as a still further disclaimer to the false and injurious reports which had been so industriously circulated concerning the reputation of their borough ; and the Council broke up with anything but delighted feelings.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/027/0005
-Isle of Wight Mercury - Saturday 01 March 1856
-
-BOROUGH PETTY SESSIONS, Monday Feb. 25
-
-Before J. H. Hearn Esq. (Mayor), Thomas Cooke and Edward Way, Esqrs.
-
-James Lewis, alias Nobby Ducks, who had been taken into custody on Saturday evening, for selling the letter of the Rev. W. Carus Wilson, in answer to one sent him by the Mayor of Newport, respecting the tract "the Tempters and Tempted," appeared in court. The defendant had been liberated on his own bail, and retained Mr. George Prince Joyce as his legal adviser. It was told on his appearing in the box that there war charge against then put several questions to the Bench, but was answered that his client was discharged. He applied for an order for the restitution of the pamphlets, and was referred to the inspector of Police.
-
-COUNTY POLICE
-
-Libel Case.— An extraordinary meeting of the County Magistrates was held on Monday, at the Guildhall, to hear the charge made by Mr. Francis Pittis, of Newport, against the Rey. W. Carus Wilson, for having written a false and scandalous libel on his character. The court-room and gallery were crowded with persons of interest of the Town, and other parts of the Island. The Bench consisted of the Hon. a'Court Holmes (chairman), Sir John Simeon, Bart., Capt. Kerr, Capt. Brigstocke, Thomas Cooke. and J. A. Hambrough, Esqrs.
-
-Mr. Eldridge appeared for the prosecutor, and Mr. Ford for the defendant. The latter handed in a Medical Certificate that the health of the defendant would not allow of his appearing that day. The case proceeded without his presence. Mr. Eldridge observed that it had been said a good name was a man's best inheritance, it certainly was above all earthly treasure. He was bound to say, his client had the respect of all who knew him, and he must say that the high and honourable position which Mr. Pittis holds, as Alderman of the Borough, makes him careful of not allowing even shadows to be cast on his reputation. In a certain tract, imputations are thrown on his character, and although he feels free front all aspersions, he could not allow them to pass, whether intended or not, without a public denial of their application. He believed they were not intended, but that the defendant, with great zeal, had exceeded his duty ; for when a man steps out of his way, on the delicate ground of private character, he must treat the subject in a delicate manner, and not rush hastily to commit wrong; because he might think there was some good in the distance. No one who reads the tract and pamphlet, can doubt that they reflect seriously on the character of the town, and on individuals; it is not simply a degree of bitterness, but there are the most unwarranted innondoes. He did not stand as an apologist for vice; but it was a most unfortunate circumstance, that when a memorial had been presented to the magistrates which they admitted would check crime and immorality, that these works should have been brought out. He admitted there was much evil, and when he had the honour of filling the office of first magistrate, he, like those in office now, could only deal with cases brought before him. There were cases of gross immoral houses always complained of, by parties, who would never come forward to prove the cases within their own observation. Plain allusions had been made in the pamphlet to the Town Clerk,—he would say, that his observations in the council were misunderstood and misreported. He was sensible of the evils in the Town, and with others had endeavoured to diminish the amount. A certain journal came before him, but only shewing the operations of the society. It did not refer to any member in the council, or to any one in authority; it was merely a record of the poor persons who had been visited. An apology of an ample character having been given completely satisfactory, Mr. Pittis felt he had done his duty to himself, and wished to show he had no vindictive motives.
-
-A letter was then brought forward and read.
-
-Mr. Ford said he represented Mr. Wilson, and he regretted that of the observations made by Mr. Eldridge, would compel him to say more than he had intended, which was simply to offer the fullest apology and explanation to Mr. Pittis. Mr. Eldridge had shown that Mr. Wilson was fully justified in the course he had taken, by the admissions made by himself: on the part of Mr. Wilson he was instructed to say, that that gentleman had the fullest confidence in the integrity and strict morality of Mr. Pittis, and that the quotation from the letter of a friend at Bristol, although one or two circumstances appeared to correspond, had no reference to him, and he begged again to say that there was no imputation intended to be conveyed, and read the letter purporting to be one from Bristol.— Mr. Ford said that if there should be a republication, the passage affecting Mr. Pittis should be taken out.— Mr. Hearn attempted to express his dissent from the course adopted, but was stopped by Mr. Ford, who said that he and the bench had only to do with Mr. Pittis, it was quite irregular.—The chairman after a consultation, said, that as the case had been compromised, they were of opinion that Mr. Hearn should not be heard. Others were affected besides Mr. Pittis.— Mr. Hearn said that others were implicated in the charges, and the apology was made to them, he would not be precluded from taking proceedings in another place.— Mr. Eldridge observed that Mr. Pittis felt that after this ample apology, he should not be acting as a man or a Christian to press the case.— The chairman said that the course pursued was very creditable to both parties. Mr. Pittis very properly came forward to vindicate his character from the vile suspicion. With regard to the pamphlet, every one must see that it was intended for Mr. Pittis, but no one would believe it of him. He hoped Mr. Wilson's friends would advise him better than to re-issue the tracts. He could not perhaps control his zeal, but he hoped he would not use it in such an uncalled for way. He was sorry that Mr. Pittis should have had occasion to appear that day. Mr. Wilson said the quotation did not apply to Mr. Pittis, and they were bound to believe him.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560223/002/0008
-Hampshire Advertiser - Saturday 23 February 1856
-
-Just Published
-
-A LETTER TO THE MAYOR OF NEWPORT, in Reply to his Letter of Remonstrances regarding the Tract, entitled "Tempters and Tempted," by the Rev. CARUS WILSON. Price 2d. each, or 12 copies free by post, 2s.
-
-"Whether it be right in the sight of God to hearken unto you more than God, judge ye. For we cannot but speak the things which we have seen and heard."—Acts iv., 19, 20.
-
-Also, TEMPTERS AND TEMPTED, a Tract, by the Rev. W CARUS WILSON. Price 1d, or 12 copies free by post, 2s. Published by Thomas Butler, Bookseller, Ventnor, Isle of Wight ; and Sold by Batchelor, Bookseller, Portsmouth; Sharland, Southampton ; Wayland, Ryde ; Pinhorn, Cowes ; and by all Booksellers at Newport.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001
-Isle of Wight Mercury - Saturday 01 March 1856
-
-JUST PUBLISHED.
-
-A LETTER TO THE MAYOR OF NEWPORT, in Reply to his Letter of Remonstrances regarding the Tract, entitled "Tempters and Tempted," by the Rev. CARUS WILSON. Price 2d. each, or 12 copies free by post, 2s.
-
-"Whether it be right in the sight of God to hearken unto you more than God, judge thee. For we cannot but speak the things which we have seen and heard."—Acts iv., 19, 20.
-
-Also, TEMPTERS AND TEMPTED, a Tract, by the Rev. W CARUS WILSON. Price 1d, or 12 copies free by post, 2s. Published by Thomas Butler, Bookseller, Ventnor, Isle of Wight ; and Sold by Batchelor, Bookseller, Portsmouth; Sharland, Southampton ; Wayland, Ryde ; Pinhorn, Cowes ; and by all Booksellers at Newport.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18560301/025/0003?browse=true
-Isle of Wight Mercury - Saturday 01 March 1856
-
-`[Editorial]`
-
-The immorality existing in our large towns is a matter of serious import. It is a question that requires patient investigation. It is an evil that demands a speedy but powerful remedy. The fastidiousness of a falsely-delicate Age may indeed ignore the existence of the evil, or, while admitting ita existence, may seek to keep it out of sight ;—but, unhappily, it has grown—it is growing—to such dimensions that so tender a mode of dealing with it is as absurd as it is criminal. We have no patience with that tender modesty which is offended by the exposure of a great vice. We mistrust the delicacy that is so very readily shocked—the morality that shrinks from dealing with a fearful guilt. What should we say of the physician who denied the existence of a festering wound because he dared not attempt to heal it? What then, is the position of those who seek to shroud in vice the darkness of a willing ignorance, because they are unable to grapple with it?
-
-Our attention has been directed to a remarkable controversy between the representatives of a large town on the one hand, and a servant of the Church of England on the other. We have refrained from entering into a discussion of its causes or results, until the whole question was fairly before us. We have now, however, given our most serious attention to the matter: and though we are conscious that the deliberate expression of our opinion will expose us to considerable obloquy, we are not disposed to shrink from what we conceive to be our duty as public Journalists. We have humbly attempted, in the discharge of our Editorial labours, to call the attention of our Readers to various social evils that seemed to us worthy of patient consideration; we cannot, therefore, refuse to record our opinion in a matter that is of vital importance to the welfare of Society.
-
-The Rev. W. Carus WILSON, M.A.,—a gentleman whose position renders impossible the imputation of an interested motive—struck with the profligacy patent to all who have eyes to see and ears to hear in the streets of Newport,—as in the streets of every populous town— addressed a brief and earnest remonstrance on the subject to its inhabitants. In this remonstrance, entitled "Tempters and Tempted," he probed with a firm hand, the deadly wound. He stated there some facts of a harrowing nature, whose counterparts, alas ! are not unknown to those who have had their attention directed to this subject. In eloquent, in burning words, he drew a picture of the sad condition both of the Tempter and the Tempted. He alluded to the causes of this wholesale immorality. He made an affectionate appeal to those " in high places," to endeavour to check the growth of this terrible evil. Shortly after the circulation of this impressive Address, the Mayor of Newport brought it under the consideration of his Town Council. Well, what then ? Of course, our Readers will say, the Mayor and his fellow-townsmen appreciated the generous charity of Mr. Wilson, and they determined to adopt, if possible, some remedial measures. —For observe, Mr. WILSON did not at first say the town of Newport was worse than any other town, or, at least, any town in the neighbourhood of large Barracks. The evil is notoriously not confined to Newport ; but Newport alone fell within the sphere of Mr. WILSON'S ministrations.—But the Mayor, in a most vehement denunciation of " meddlers ;" a majority of the Town Council in speeches marked by an utter want of reverence for Mr. WILSON'S sacred office, denounced his Tract as " beastly !" Now, we have carefully perused it, and are not afraid to say—it contains nothing that could shock the most refined delicacy ! However, these gentlemen distinguished themselves by a warm rivalry in the employment of the most violent phrases. As for immorality—who ever heard of it in Newport? Who ever saw a drunkard ? Who ever had his eyes polluted by disgusting sights, or his ears profaned by oaths and obscene expressions? Vice? how should it enter into those sacred precincts which a Mayor and a Town Council watch over ?
-
-Now is it wise—this attempt to cover up a deformity, to slur over an evil ? Is it not better to grapple with a difficulty than simply to shut one's eyes and deny its existence? Why, the existence of those vices to which Mr. Wilson alluded is notorious. They are gradually undermining our national character. They menace the national prosperity. They flaunt in the open thoroughfares. They force themselves upon the observation of our sisters, our children, our wives. What are we to do then ? To meet in solemn conclave and resolutely ignore them ? To heap abuse and obloquy on the head of any zealous-minded, true-hearted man who bares the evil to our unwilling eyes? No: it is the duty, the privilege—would it were the boast!—of those who sit "in the high places," who administer the affairs of a large town, to devise some remedial measures. We do not say that these horrid iniquities can be utterly rooted out. We know that the Golden Age is yet far distant. But undoubtedly much may be done. By removing Temptation. we may check the increase of Crime. We wish however to guard ourselves from any imputation against individuals. The character of gentleman like Messrs. Hearn and Pittis is, as it should be above suspicion.
-
-Inhabitants of Newport ! are you all as easily shocked as the members of your Town Council? Do you in truth, or do the majority of you, approve of their attempt "to burke " the Ministers of Religion ? Do you not rather believe that Mr. Wilson deserves your warm gratitude, your earnest sympathy, for the effort he has made to " make a suushine in a shady place ?" Parents who have daughters, brothers who have sisters, owe their heartiest thanks to Mr. Wilson.
-
-We trust, above all, that the Clergy of Newport— nay, the Clergy of the whole Island— will make common cause with Mr. Wilson, and support him in his brave opposition to Falsehood, Immorality and Slander. We know that they feel deeply the importance of the question. We know that they sorrow over the magnitude of the evil with which he has dared to grapple. We believe that they will therefore gladly come forward and support him with their countenance, their encouragement and their exertions.
-
-For our own part, we hold that "that to the pure all things are pure." We hold that the mind is never contaminated by the exposure of a great vice, or the pourtrayal of its terrible consequences. If, indeed our streets were free from pollution—if it were possible to bring up our sisters or our daughters so that they should be ignorant of the existence of the drunkard or the children of shame—if their ears could be shut, their eyes closed against the sights and sounds of vice—it might he unwise to force upon their notice evils of which they were happily ignorant. But the drunkard reels through the open street. The shameless woman pours out her curses in the public places. So let us warn those who see the effects, the dread results of Vice against the subtle approaches and insidious allurements of Temptation. Let us look upon these evils as deformities which stand out in all their horror in the very noonday sun. Let us grapple with them by providing for the ignorant wholesome knowledge, for the weary innocent recreation, for the young safe shelter from the foes of Truth and God. Let us build up Schools in the stead of Beershops. Let us each in his individual sphere diffuse the blessing of a good example. Let us teach the Lower Classes the value of purity of mind, thought, of speech. Let us train up the Boys of our Towns and Villages to reverence decency, and shun the profane word, the obscene jest. Let us aid one another in charity and good works, and welcome the truthful words of those who—like the Rev. W. Carus Wilson—are not afraid to bare to the light the wounds of the Social body, in defiance even of Mayors and Town Councillors!
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560301/045/0007
-Hampshire Advertiser - Saturday 01 March 1856
-
-BOROUGH COURT. Monday.— Magistrates present: The Mayor, and Thomas Cooke, esq. 
-
-"Tempters and Tempted."— James Lewis, a second jand dealer, appeared to answer a summons, for publicly hawking and selling the pamphlet addressed to the Mayor of Newport by the Rev. William Carus Wilson, notwithstanding the public caution which had been placarded by James Eldridge, esq., to the effect that it was libellous; but no one appearing to prosecute, the Mayor informed him that he was discharged. He, however, looked imploringly on the Bench, with the apparent feeling of a martyr, respecting certain sequestered property in the possession of the Inspector of Police, in the shape of a bundle of tracts of which he had been relieved when taken to the Station-house on Saturday ; and George Prince Joyce, esq., who appeared as his legal adviser, respectfully informed the bench, that unless they were immediately restored to his client, he would bring an action against the Magistrates. The Mayor said the defendant might apply to the Inspector, who could use own discretion in the matter.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560301/012/0004
-Hampshire Telegraph - Saturday 01 March 1856
-
-At the Borough Petty bessions, on Monday, before the Mayor, Thomas Cooke, and Edwvard Way, Esqrs.
-
-James Lewis, who had been taken into custody on Saturday evening, but liberated on his own recognizance, for whom Mr. G. P. Joyce appeared, was told there wae no charge against him. It appeared that in oonsequuene of a caution signed by Mr. Eldridge, Town Clerk, that the pamphlet containing a letter of the Rev. Carus Wilson, in answer to the Mayer of Newport, was a libel, the defendant was taken into custody for selling the book. Mr. Joyce Wished to know by what authority his client had been taken into custody, and also whether the books would be returned. The Mayor said there was noe charge made against Jammes Lewis, and he must apply to the Inspector of Police respecting the books.
- 
-"TEMPTERS AND TEMPTED."
-
-At the County Police Court, on Wednesday, before the  Hon. A'Court Holmes, Chairman, Sir John Simeon, Bt., Capt. Kerr, Thomas Cooke, Esq. Capt. Brigstocke, R.N., and J. A. Hamburgh, Esq., the Rev. Wm. Carus Wilson was charged with writing a false, scandalous, and malicious libel on Mr. Francis Pittis. The Court was crowded in every part, and the proceedinas excited the most intense interest. The libel arose out of the publicatioin of a tract, "The Tempters and Tempted; or a solemn Address and Warning to the Inhabitants of the Town And Neighbourhood;" in which the state of morals is put as the very worst that language can describe; and fierce denunciations are hurled on its devoted population. At a meeting of the Town Council a strong denial of the justice of the charges was made and the conduct of the conduct of the author, Mr. Carus Wilson, his informants, and the distributors of the tracts, was severely condemned. The Mayor was requested to write to Mr. Wilson a statement of the views and feelings of the Council on the subject, which he complied with ; and then Mr. Wilson wrote and published answer to the letter, as a tract, in which the former charges were repeated, and many new ones made. The charge against Mr. Pittis wasof that gross character that he felt it to be his duty to take criminal proceedings against Mr. Wilson, and the Magistrates now  assembled to hear the case. Mr. Eldridge was engaged for the prosecution, and Mr. Ford, of Portsea, for the defence.
-
-Mr. Ford handed in a medical certificate that the state of the health of the defendant would not allows him to appear in Coart ; and, after some delay, the case went on in his absence.
-
-Mr. Eldridge stated that a man's good name was his best inheritance; it certainly was his highest earthily treasure ; and he must say that from the high and honourable position held by Mr. Pittis in private life, and as an Alderman of the Borough, he could not allow the aspersion cast on his character by the letter of the defendant to pass without public notice and contradiction. He did not believe that the defendant intended wrong; but withgreat zeal, he did not unite that care which ought to guide the course of one who takes part in public affairs— for when a man steps out of his way on the delicate ground of private character, he should touch it gently, and not rush hastily and do injustice because he fancies there is some good to be done in the distance. No one can read the pamphlet but must observe it reflects most severely on the character of these attacked: it is not simply a reply to the letter of the Mayor, but it displays a degree of bitterness and unwarranted inuendo against others, highly to be condemned. He did not stand there as an apologist for vice or immorality, but it was an unfortunate circumstance, that just at the time that a memorial had been presented to the Magistrates, and measures were in progreas to remedy some evils, that the rev. gentleman should have made such attacks; he and others should know that maogistrates could only deal with cases brought before them. While Mr. Pttis had the honour of sitting as first magistrate of the borough, those very persons who complained of the gross immorality of houses in their immediate neighbourhood, could not be induced to come forward to give evidence necessary to ensure a conviction. Allusions had been made to himself (the Town Clerk), and his observations had been misunderstood and misrepresenred respecting a certain journal that came before him. Now that journal did no refer to any member of the Council, or persons its authority, but merely to the cases visited by the Town Mission, persons of the lowest class. He felt pleased that he should not take up the further time of the Court by this pressing the case, as an ample apology had been sent from Mr. Wilson, which would be read; and he considered Mr. Pittis had done his duty in vindicating his character.
-
-Mr. Ford said, he had the honour to represent the Rev. Carus Wilson, and but for the observation of the gentleman who had brought the case before the Court, he should give an explanation, and express regret that the passage was supposed to refer to Mr. Pittis. He must nowy say, that his client was perfectly justified in the course he had taken; and Mr. Eldridge's remarks confirm the correctness of the state of the town. On the part of Mr. Wilson he begged to state, that he had the highest opinion of the great respectability, integrity, and strict morality of Mr. Pittis; he begged again to say, that no imputationa was intended to be conveyed. He then read the following letter :—
-    
-Boniface house, Feb. 23, 1856.
-
-[To: "F. Pittis, Esq."]
-
-"Dear Sir,— Your letter to Mr. Gustar has been read to me in bed, from which serious illness prevents me rising.
-
-I cannot delay a moment in relieving the wounded feelings which must necessarily hasve been created if you supposed that I intended to make the slighitest reference, directly or indirectly in any part either of the tract or letter, to yourself or any other magistrate of the town of Newport.
-
-"The passage you refer to was entirely taken fromn a letter sent me from Bristol, from a party wholly unacquainted with Newport, as a comment upon my endeavours to show where the root of the evil too often lies, and was wholly of a general character and irrespective of any particular locality. I particularly regret that any one should have supposed the passage to refer to yourself, as I had always heard and thought of you with the greatest respect.  
-"I am, Sir, your's faithfully,  
-Wm. CARUS WILSON.
-
-Mr. Hearn said, as Mayopr he was not satisfied; the other libels on the Town and individuals remained uncontradicted.
-
-Mr. Ford protested that the observations of Mr. Hearn were irregular ; he had only to do with Mr. Pittis.
-
-Mr. Hearn.— There are other charges, and this will not preclude me from taking proceedings in another court.
-
-Mr. Eldridge said of Mr. Pittis that "he feels after the ample apology he should not be acting as a man or a christian to proceed further in the case."
-
-The Chairman observed, that the course pursued was very creditable to both parties. Mr. Pittis vindicates his character from the vile suspicion which might have rested on it, although there was no response in the public, for although all must know that the passage applied to Mr. Pittis, no one would believe there was any foundation for the aspersion. No person could help his zeal, but he trusted Mr. Wilson would direct it better; he hoped he would not re-issue tracts to wound the feelings of others in such an uncalled for manner; and he was sorry Mr. Pittis should have had occasions to appear there that day. Mr. Wilson said that the passage was not intended to apply to Mr. Pittis, and perhaaps they were bound to believe it.
-
-----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18560301/045/0007
-Hampshire Advertiser - Saturday 01 March 1856
-
-CHARGE AGAINST THE REV. WM. CARUS WILSON FOR DEFAMATION OF CHARACTER.
-
-The town has been in a state of ferment for the last few days, in consequence of a second pamphlet published by this gentleman, in reply to a letter from the Mayor, J. H. Hearn, esq. on behalf of the town, condemnatory of his proceedings in reference to his first tract. There being certain portions in this last pamphlet which were considered libellous, and particularly in one apparently glaring instance, whereby the character of a principal tradesman of our town was believed to be maligned, placards were issued cautioning persons against their circulation; and on Saturday James Lewis, alias " Nobby Dux," was taken to the Station-house, and bound over in his own recognisances for his appearance to answer the charge of publicly selling this obnoxious tract in the Beast Market on that day. On Monday he appeared before the Borough Magistrates, but was dismissed, as the charge of libel concerning Francis Pittis, esq. by the rev. defendant was just about being proceeded with.
-
-The Town Hall was crowded to excess for some considerable time previously to the case coming on.
-
-The Hon. A'Court Holmes occupied the chair, and on the Bench we observed Sir John Simeon, bart. Captains Brigstocke and Kerr, A. Hamborough, esq. and other gentlemen. The charge against the rev. gentleman was, "That he unlawfully and maliciously did publish a certain false and defamatory libel of and concerning Francis Pittis."
-
-James Eldridge, esq. (brother-in-law of the plaintiff) attended for the prosecution ; and Henry Ford. Esq. (of the firm of Messrs. Ford, solicitor, of Portsea) appeared for the defendant.
-
-The Rev. Carus Wilson was not present, and Mr. Ford put into Court a certificate of illness, stating he was confined to his room from indisposition.
-
-J Eldridge, esq. opened the case by observing it had been well said that a man's good name was his wealth, and anything uttered derogatory to his fair fame was calculated to be injurious to him in many respects. Thus Mr. Francis Pittis, for whom he that day appeared, felt himself bound to vindicate his character against the aspersions which he considered had been made by the Rev. Wm. Carus Wilson respecting him, in a pamphlet he had lately addressed to the Mayor of Newport, and which had been the cause of the present legal proceedings. Mr. Pittis held a high and honourable position as an Alderman of their borough, and his standing in society was such that he was certain his fellow-townsmen would never attach to him the slightest imputation of the nature contained in that tract. Therefore, he could not but prosecute the present proceedings, which he felt was due to himself and to the town, however painful it was to his feelings to do so. He would not say that the rev. gentleman did, by the publication of that pamphlet, wittingly and maliciously asperse and defame the character of Mr. Pittis. although it was evident a certain paragraph in it did refer to him, and must have had that effect had not the present proceedings been instituted. He (Mr. Eldridge) believed that the defendant was a good man, and no doubt meant well ; but he had acted most indiscreetly. According to his own showing he was on delicate ground; and when a person stepped out of his way, even with the philanthropic object he professed to have in view, he should be careful how he rudely trod upon the fair fame of one whom he acknowledged not even to have known by name. A great deal had been said in the town about another tract- "Tempters and Tempted," out of which the present pamphlet had originated. Of the merits or demerits of this first tract he would say nothing, as the libel which Mr. Pittis complained of was contained in the latter ; and no one reading certain lines In the 13th page of the last pamphlet, and acquainted with his client, and events which had happened in their town within the last three years, could have the slightest hesitation in saying that they referred to him and reflected upon his character. He (Mr. Eldridge) felt himself bound further to say, that besides the false and defamatory libel he bad referred to affecting the character of Mr. Pittis, the pamphlet was, in his opinion, not dictated by a Christian spirit; it was penned with a degree of bitterness and exaggeration, and contained unfounded imputations, inuendoes, and sweeping censures, injuriously affecting the character of the Magistrates of the borough, and the inhabitants of the town generally, and not at all creditable to the position of the defendant as a gentleman and a clergyman. Whilst he spoke thus stringently of his conduct, he would wish to be understood that he did not stand there as the apologist for vices which were, unfortunately, too common in their town, although he believed not more so than in other localities; neither did he uphold the evil doings of such men who were well described by the reverend gentlemen as " the mean and dastardly betrayers of female innocence." It was unfortunate for the case of Mr. Wilson, that his pamphlet did not appear until after the Magistrates had earnestly directed their attention to the moral state of the borough, in which they had been strengthened by an influential memorial which had been presented to them, and he (Mr. Eldridge) felt happy in stating that the authorities had not been slack in determinedly and impartially using their endeavours to put down vice and immorality in the town. It was due to them that he should thus publicly state this fact, and he considered it was right the rev. gentleman should know it. He (Mr. Eldridge) had filled the office of Chief Magistrate of their borough, and, consequently, knew from experience they could deal with open immorality only. He instanced a case which came under his own knowledge while presiding over them aa Mayor. He knew there was a certain house of ill-fame, where the worst of vices were carried on ; he went to the neighbours, who were cognisant of the fact and the only parties who could testify to it ; but none could be induced to give the necessary testimony, in consequence of which his efforts to remove the evil were frustrated. He mentioned this circumstance to show the rev. gentleman and his informants how difficult it was to deal with such cases. Reference had been made to him in the pamphlet, as to what he, as their Town Clerk, had said at a late Town Council meeting, in a discussion on the defendant's first tract. He must be permitted to say that his observations on that occasion had been misrepresented in the town, and somewhat mis-reported, and from these circumstances certain parties in the Town Council had been pointed to as if his remarks had referred to them. He wished thus publicly to state, that while there were many things in the Town Missionary's journal, showing the immoralities which unhappily existed among those he was in the habit of visiting, there was no record impugning the characters of those not under actual visitation. What he then was about to state was, that " unhappily some painful circumstances had occurred amongst persons of a higher class"— At this point of his observations the Mayor stopped him, and nothing further was said by him. He (Mr. Eldridge) would most distinctly state that he did not refer to any one in the Town Council, or to any other person in authority, but to one or two cases which were well-known to the town. In conclusion, he would state that Mr. Pittis was wholly and entirely innocent of the charge alleged against him in the pamphlet. He would not, however, proceed further at present, as he understood that Mr. Ford, on the part of the defendant, was ready to offer an explanation and apology ; and he should, therefore, pause to hear if it were of such a full and ample character as he could advise Mr. Pittis to accept.
-
-Mr. H. Ford rose to reply. He regretted Mr. Pittis had been so hastily led to the conclusion that the pamphlet, in reply to the Mayor's letter to his client respecting a former tract, contained libellous and defamatory remarks respecting him. What the rev. gentleman had done in these pamphlets was to write against the vice and immorality which existed generally in Newport : and Mr. Eldridge, in opening the case, had admitted that fact, by stating that a deputation bad appealed to the magistrates as to the existing bad state of the borough in this respect. With regard to the imputation which was said to apply to Mr. Pittis, his own character and standing in the town should have eased his conscience or any anxiety he is said to have felt in the matter ; and he (Mr. Ford) could not but think that he had unhappily been induced to take these proceedings against his client, through the persuasions of others, that the objectionable sentence upon which this inquiry had been raised referred to him. He was pleased, however, to be able to prove most conclusively that when Mr. Wilson penned these words, the notion never for one moment entered his mind that they would in any way apply to him, having never heard aught of that gentleman beyond his bearing a character for the strictest integrity and the greatest morality. His client had certainly discovered, since the publication of that pamphlet, that there were one or two circumstances bearing on a former official position of Mr. Pittis in their town, which did seem to give a colouring to the assertion complained of as applying to him ; but be would most emphatically assure them, that from an investigation he had made, he was enabled to state that the Rev. Mr. Wilson never received the least intimation from any individual detrimental to that gentleman'a character; and to show the Bench that his client was desirous of removing this false impression as soon as he knew of its existence, he (defendant) wrote the following letter to Mr. Pittis, which he would read to the Court :—
-
-" Boniface-house, 23rd February, 1856.  
-"Dear Sir,— Your letter to Mr. Gastar has been read to me in bed, from which serious illness prevents my rising.
-
-" I cannot delay a moment in relieving the wounded feelings which must necessarily have been created if you supposed that I intended to make the slightest reference, directly or indirectly, in any part, either of the tract or letter, to yourself, or any other magistrate of the town of Newport.
-
-"The passage you refer to was entirely taken from a letter sent to me from Bristol, from a party wholly unacquainted with Newport, as a comment upon my endeavours to show where the root of the evil too often lies, and was wholly of a general character, and irrespective of any particular locality.
-
-"I particularly regret that any one should have supposed the passage to refer to yourself, as I had always heard and thought of you with the greatest respect.
-
-" I am, sir, your's faithfully,
-
-" F. Pittis. Esq." " Wm. Carus Wilson.
-
-In order further to satisfy Mr. Pittis, he (Mr. Ford) had shown him the original letter which his client had received from Bristol. He trusted that this public avowal on behalf of his client would be sufficient to meet the circumstances of the case; and he would give his pledge that whatever farther use might be made of the pamphlet in question it should be suppressed in its present form, and he would remove the three or four lines from it which had been considered offensive. Mr. Pittis at the same time would be at liberty to make whatever use he pleased of the correspondence he had in his possession on the subject, and he trusted that the explanation which had been given, and the apology he had made on the part of his client, would be sufficient to satisfy Mr. Pittis and the town generally.
-
-J. S. Hearne, eqs. here rose and said, that as the Mayor of Newport he could not in duty to the town, could not allow the present opportunity to pass without—
-
-Here he was stopped by Mr. Ford, who insisted that such a procedure on the part of Mr. Hearn was most improper, and no one knew better than he did that it was out of all order.
-
-The Mayor, however, persisted, amidst the suppressed applause of the court. The bench had power to decide, and he therefore appealed to the honourable chairman.
-
-After a minute's consultation, the Bench observed, as they believed the apology which had been made on the part of the defendant would most probably be accepted, they did not consider that as the town of Newport generally had been referred to in the case, Mr. Hearn, as its chief magistrate, should be debarred from making some observation with reference thereto.
-
-Mr. Ford responded, that he trusted Mr. Hearn would be guarded in his remarks, and not make any charge affecting his client.
-
-Mr. Hearn observed, all he rose to say was— that the apology offered Mr. Pittis, on the part of the defendant, should by no means preclude him from preferring a charge against him in another place on behalf of the borough, should he be so advised (a burst of applause here ran through the court).
-
-Mr. Eldridge then rose, and said be was instructed by Mr. Pittis to state that he had accepted the apology of Mr. Ford on the part of the rev. defendant, and he felt he would not be acting the part of a Christian if he had refused to do so. With respect to the steps he had taken, he did not see how be could have acted otherwise. Let them look at the circumstances of the case. In 1854, Mr. Pittis, as their chief magistrate, attended the laying of the foundation stone of their new church, on which occasion they were honoured with the presence of the consort of her Gracious Majesty, the Prince Albert. He (Mr. P.) afterwards presided at a dinner at the Town Hall—there toasted the health of the Bishop of Winchester—and spoke of the church of his forefathers. Now let them compare these circumstances with the following extract from defendant's pamphlet :-" Of the magistrate who presides at a dinner toasting a Bishop after the consecration of a church, and spouting about the church of our forefathers." [Mr. Eldridge did not finish the sentence, which contains the libel-" while known to be a frequenter of the brothel."] And then let any person say whether or not they would not have taken these remarks as reflecting upon Mr. Pittis as their then Mayor, and referring to no other person. He did trust that in future Mr. Wilson would be really cautious in publishing and putting into circulation stories affecting the characters of individuals, obtained from the loose assertions of others— and of which he admitted he had no personal knowledge whatever. Such conduct he could not but say was most derogatory to the Christian Character
-
-At the conclusion of Mr. Eldridge'a observations, the crowded court signified their approbation by several outbursts of applause. The Hon Chairman observed, that the course which Mr. Pittis had pursued on the matter was in every respect a very proper one, and his acceptation of the explanation and apology which had been given in behalf of the defendant was most honourable to him. The steps he had taken were only such as were necessary to vindicate his character from the imputations which certainly did previously appear to the Bench to have been levelled at him ; although he would not for one moment believe the censure implied in the pamphlet as referring to him found a single response in the public mind. It would be superfluous on the part of the Bench to state that the well known moral character of Mr. Pittis —his standing in society, and the high estimation in which he was held by all who knew him, raised him above any foul aspersions which might be uttered regarding him ; and as they had heard what defendant by his counsel had said respecting the offensive paragraph in the pamphlet, and that he most distinctly asserted he did not in any way allude to him, he (the Chairman) considered it was unnecessary to make any further remarks about it. But he could not refrain from saying, that he considered such tracts as those the rev. gentleman had thought proper to publish and put in circulation, affecting the town of Newport, were quite uncalled for and most injudicious, and not at all reputable on the part of the defendant ; and he did trust he would altogether withdraw them, and be better advised in future.
-
-After expressions of approbation on the part of the assembly, the Court broke up.
-
-Mr. Thomas Butler, printer, of Ryde, and Mr. Henry Medley, of Ventnor (the printer of the last pamphlet), were also indicted, but they were not called upon.
 
 ----
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560308/013/0002
@@ -355,6 +34,7 @@ A LETTER TO THE MAYOR OF NEWPORT, in Reply to his letter of Remonstrance regardi
 Whether it be right in the sight of God to hearken unto you snore than judge ye. For we cannot but speak the things which we have seen and heard." Acts iv. 19, 20.
 
 Also TEMPTERS AND TEMPTED, a Tract. by the Rey. W CARUS WILSON. Price 1d, or 12 copies free by post, 2s. Published by Thomas Butler, Bookseller, Ventnor, Isle of Wight ; and Sold by Batchelor, Bookseller, Portsmouth; Sharland, Southampton ; Wayland, Ryde ; Pinhorn, Cowes; and by all Booksellers at Newport.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18560510/027/0004?browse=true
@@ -411,153 +91,9 @@ It will thus be seen that the Soldiers' Institute is analagous to the Mechanics'
 ## Laws
 
 
-This might be useful:
-
-https://archive.org/details/dli.ministry.16072/page/229/mode/1up?q=contagious
-Laws of England by Stephen, James, 1883
-
-
-https://www.legislation.gov.uk/ukpga/1824/83/pdfs/ukpga_18240083_en.pdf
-Vagrancy Act 1824
-
-... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner;  ... , shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
-
-It's possible that Newport Magistrates ruled according to local bye-laws. For example, the Town Police Clauses Act 1847:
-https://www.legislation.gov.uk/ukpga/1847/89/pdfs/ukpga_18470089_en.pdf allowed Town Commissioners to create Bye-Laws regulating, among other things, bad language or drunken and disordely conduct:
-
-XXVIII. Every Person who in any Street, to the Obstruction, Annoyance, or Danger of the Residents or Passengers, commits any of the following Offences, shall be liable to a Penalty not exceeding Forty Shillings for each Offence, or, in the Discretion of the justice before whom he is convicted, may be committed to Prison, there to remain for a Period not exceeding Fourteen Days, and any Constable or other Officer appointed by virtue of this or the special Act shall take into Custody, without Warrant, and, forthwith convey before a Justice, any Person who within his View commits any such Offence ; (that is to say,) ...
-
-- Every Person who publicly offers for Sale or Distribution, or exhibits to public View, any profane, indecent, or obscene Book, Paper, Print, Drawing, Painting, or Representation, or sings any profane or obscene Song or Ballad, or uses any profane or obscene Language
-
-- Every common Prostitute or Nightwalker loitering and importuning Passengers for the Purpose of Prostitution
-
-XXIX. Every Person drunk in any Street, and guilty of any riotous or indecent Behaviour therein, and also every Person guilty of any violent or indecent Behaviour in any Police Office or any Police Station House within the Limits of the special Act, shall be liable to a Penalty not exceeding Forty Shillings for every such Offence, or, in the Discretion of the Justice before whom he is convicted, to Imprisonment for a Period not exceeding Seven Days.
-
-XXXV. Every Person keeping any House, Shop, Room, or other Place of public Resort within the Limits of the special Act for the Sale or Consumption of Refreshments of any Kind who knowingly suffers common Prostitutes or reputed Thieves to assemble at and continue in his Premises shall, for every such Offence, be liable to a Penalty not exceeding Five Pounds.
-
-
----
-
-So for example, in Ryde, we have the Ryde Improvement Act
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18531112/001/0002
-Isle of Wight Observer - Saturday 12 November 1853
-
-... And by the said intended act it is further proposed for all or any of the purposes aforesaid, or connection therewith, to confer on the Commissioners, to be thereby constituted, powers to make Bye-Laws, and the several powers, privileges and authorities contained in the "Lands Clauses Consolidation Act, 1845," "the Markets and Fairs Clauses Act, 1847," "the Gasworks Clauses Act, 18(7," "the Commissioners Clauses Act, 1847," " the Water-works Clauses Act, 1847," " the Towns Improvement Clauses Act, 1847," and "the Town Police Clauses Act, 1847," all or some them some parts thereof respectively.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18860605/068/0006
-Isle of Wight County Press - Saturday 05 June 1886
-
-THE POLICE CLAUSES ACT. The Rev. R W. Burnaby moved that the Clerk write to the Chief Constable, asking him to instruct the police to be more energetic in carrying out the Towns Police Clauses Act, especially as related to indecent bathing, and the use of foul language in the streets.—Mr. Shedden seconded, and the proposition was carried unanimously.
-
-
----
-
-Newport / Parkhurst barracks couldnlt have been that bad?
-
-https://webarchive.nationalarchives.gov.uk/ukgwa/+/http://yourarchives.nationalarchives.gov.uk/index.php?title=The_Contagious_Diseases_Acts
-
-The Contagious Diseases Acts were introduced in the 1860s for the compulsory examination of women believed to be common prostitutes for their hospitalisation (known as lock hospitals or lock wards) should they be diagnosed suffering from a contagious disease within the meaning of the Acts. The Acts were in reaction to fears that service men were vulnerable to infection from associating with prostitutes and that the Acts would apply to garrison towns and naval ports frequented by prostitutes. The Act of 1864 (27 and 28 Victoria C85) identified the following towns falling within the remit of the Act: Chatham, Colchester, Cork, Curragh, Portsmouth, Plymouth, Shorncliffe, Woolwich. The Act of 1866 (29 and 30 Victoria C96) added Canterbury, Devonport, Dover, Gravesend, Maidstone, Southampton and Winchester. The Act of 1873 did not stipulate particular towns or areas.
-
-
-TH: neither Newport nor Parkhurst nor Albany get a mention.
-
-----
-
-Contagious Diseases Act 1864 et al, eg in https://archive.org/details/cu31924017705116/page/429/mode/1up ([1866 Act](https://archive.org/details/cu31924017705116/page/344/mode/1up); [1869 Act](https://archive.org/details/cu31924017705116/page/369/mode/1up?q=1869))
-
-A comparative survey of laws in force for the prohibition, regulation, and licensing of vice in England and other countries; with an appendix giving the text of laws and police regulations as they now exist in England, in British dependencies, in the chief towns of continental Europe, Sheldon Amos, 1877 [[link](https://archive.org/details/cu31924017705116/page/n5/mode/2up)]
 
 ## Parkhurst Barracks
 
-As a garrison town, soldiers from a wide variety of regiments were stationed at Parkhurst Barracks, often *en route* to the Crimea via troop ships sailing out of Portsmouth. The muster appears to have reached about 1,300 officers and men at any one time, many of them young men in their teens or early twenties.
-
-
-According to [Report of the Commissioners appointed to inquire into the regulations affecting the sanitary condition of the army, the organization of military hospitals, and the treatment of the sick and wounded  with evidence and appendix. Presented to both Houses of Parliament by Command of Her Majesty](https://archive.org/details/b21365210/page/440/mode/2up?q=parkhurst):
-
-Return showing the Amount of Accommodation in each Barrack in the United Kingdom,
-I. — England and Wales — continued.
-
-| Station | Barrack| The No. of Men Each Barrack is calculated to accommodate | No. of Men's Rooms in the Barrack | No. of Men in a Room (Highest / Lowest) | Cubic Feet of space allowed for wach man (Highest / Lowest) | Hospital (No. of Wards; No. of Patients in a Ward (Highest / Lowest) ; Cubic feet of space for each Patient (Highest / Lowest)) |
-|---|---|---|---|---|---|---|
-|Albany, Parkhurst | - | 1,524 | 92 | 24 / 12 | 520 / 333 | 14 ; 16 / 3 ; 975 / 385|
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/015/0003
-Isle of Wight Observer - Saturday 11 March 1854
-
-PARKHURST BARRACKS. The 23rd Regiment Royal Welsh Fusileers left these barracks on the 25th ult. for Portsmouth, from whence they will embark for the East on or about the 12th, as a portion of the second division to be sent out.
-
-The 58th Depot, which had not been long at Parkhurst, left on Tuesday last for New Zealand.
-
-The 65th Depot also left the barracks on Tuesday last for Weymouth.
-
-The loss to the island generally, especially to Newport, will be greatly felt.
-
-On Monday a Depot of the 63rd Rifle Brigade, of about 150 men, and Tuesday Depot of the 93rd Regiment, of about 100 men, partly filled the place of the above Regiment and Depots.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540401/014/0004
-Hampshire Telegraph - Saturday 01 April 1854
-
-The Depot of the 77th Regiment arrived here on Friday, and on the two previous days the depots of the 4th and another Regiment were landed at the Fountain Quay, and thence marched for Parkhurst Barracks, where they will be stationed for some time.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002194/18541118/010/0001
-Sun (London) - Saturday 18 November 1854
-
-Cowes, Isle of Wight, Nov. 17
-
-Troops for the East
-
-Detachments form the 4th, 20th, 26th and 28th Regiments embarked from Cowes this morning, amounting to 250 rank and file. Recruits are arriving daily, and sometimes two or three times a day, in parties of 12, 20 or 30, and proceed on to Parkhurst Barracks. They appear all young men, very few of them being above 20 years of age.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550127/012/0004
-Hampshire Telegraph - Saturday 27 January 1855
-
-COWES. A detachment of 300 men of the 77th Regiment marched from Parkhurst Barracks on Friday morning, and embarked for Portsmouth, *en route* for the Crimea. The men seemed in good spirits, and well pleased with the prospect of proceeding to aid their fellow soldiers in the East.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550210/012/0004
-Hampshire Telegraph - Saturday 10 February 1855
-
-Owing to the severity of the weather, our poor would have fared badly had it not been for the liberality of the wealthy. As it is, coals, bread, and other comforts have been distributed among the necessitous, and an intimation given that whilst the cold continued the wants of the needy would not be forgotten nor disregarded.
-
-During the week we have had fresh arrivals of recruits for Parkhurst Barracks, and several hundred soldiers of different regiments have left for Portsmouth *en route* for the Crimea, all of whom wore a cheerful countenance and did not appear at all depressed at leaving England; but on the contrary, they cheered lustily, and vowed they would give a good account oft the Russians if they should have the good luck to meet them.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550414/011/0004
-Hampshire Telegraph - Saturday 14 April 1855
-
-A large draft of upwards of 300 left Parkhurst Barracks, on Friday, for the Crimea, in excellent spirits, and eager for the fight. A flag was unfurled which had been got up by the men, inscribed "The 28th Slashers-Sebastopol, or death !"
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550707/015/0004
-Hampshire Telegraph - Saturday 07 July 1855
-
-Visitors continue to arrive daily in considerable numbers in the Isle of Wight, the coaches appear well laden, and carriages of all descriptions are again in motion ; lodgings are getting in request, and in Newport many are occupied by military officers and their families, in consequence of the quarters at Parkhurst not affording accommodation for the number. 
-
-...
-
-Large drafts of men and a considerable number of officers have lately left Parkhurst Barracks for the Crimea, who have been replaced by fresh arrivals, so that the Barracks are quite full at the present time. The Isle of Wight Militia Artillery, upwards of 100 strong, were under orders to be billetted at Ryde, so as to make room for the 48th Regiment in Newport, but the order was afterwards countermanded.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18551103/011/0004
-Hampshire Telegraph - Saturday 03 November 1855
-
-Considerable drafts have left Parkhurst barracks within a short time for the seat of war.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18561011/011/0004
-Hampshire Telegraph - Saturday 11 October 1856
-
-The military depots at Parkhurst Barracks, in the Isle of Wight, muster about 1,300 men and officers. A number of the men have volunteered recently into the Military Train, which is the name of a permanent corps that is to be a substitute for the Land Transport Corps. The military train is to number about 3,000, and the head-quarters is at Bristol. As soon as there is any large number of volunteers at Parkhurst they are sent under an escort to that city.
-
----
 
 ## Cases
 
@@ -911,6 +447,12 @@ Beadlestone called John Windgate, a private in the 8th, who said he was out of t
 Bailey was discharged. The others were fined 10s and 3s 6d costs each, and, in default, committed to Winchester for one month. 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003
+Isle of Wight Observer - Saturday 16 December 1854
+
+Ragged Schools.—These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541209/009/0003
 Isle of Wight Observer - Saturday 09 December 1854
 
@@ -919,13 +461,6 @@ BOROUGH SESSIONS.
 Wednesday.— Before Thomas Cooke, Esq.
 
 Ann Jones, a common prostitute, was committed to the House of Correction, at Winchester, for one month's hard labour, for making a great noise and singing indecent songs in the street on Tuesday night.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003
-Isle of Wight Observer - Saturday 16 December 1854
-
-Ragged Schools.—These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541223/008/0003
@@ -1097,6 +632,21 @@ Borough Police Court, Thursday, before R. M. Wavell and Francis Pittis, Esq.
 
 August Jager, keeper of the " Prince Albert," beer shop, was convicted of allowing lewd and disorderly conduct in his house. The evidence disclosed scenes of profligacy and depravity rarely brought before a public court. Fined £5, to be levied by distress, and in default one month’s imprisonment.
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550804/036/0007
+Hampshire Advertiser - Saturday 04 August 1855
+
+NEWPORT
+
+...
+
+BOROUGH COURT.
+
+Monday.— Magistrates present: C. W. Estcourt, esq. Mayor, Dr. Wavell. and F. Pittis, esq. 
+
+Ellen Mills, a prostitute, who had nearly succeeded in poisoning herself a few week, since, with oxalic acid, was last week committed for a month, for being found drunk and asleep in a yard at Nodehill, at midnight.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003
@@ -1120,20 +670,6 @@ The defendant said, he was a little the worse for liquor and was very sorry for 
 
 Fined 10s. and 5s. costs, and if not paid in a week to be committed for 14 days hard labour.
 
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550804/036/0007
-Hampshire Advertiser - Saturday 04 August 1855
-
-NEWPORT
-
-...
-
-BOROUGH COURT.
-
-Monday.— Magistrates present: C. W. Estcourt, esq. Mayor, Dr. Wavell. and F. Pittis, esq. 
-
-Ellen Mills, a prostitute, who had nearly succeeded in poisoning herself a few week, since, with oxalic acid, was last week committed for a month, for being found drunk and asleep in a yard at Nodehill, at midnight.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550908/009/0003
@@ -1189,7 +725,7 @@ Drunken Cases
 
 Charles Simmonds was fined 5s, and 5s costs, for being drunk and disorderly at the Swan Inn, on Saturday night, and assaulting Mr. Inspector Grapes in the execution of his office.
 
-James Underwood was also fined 10s, snd 5s costs, for a similar offence, at the Old King 'a Arms, and assaulting Police-constables Lockhart and Stubbs ; and in default of payment, committed for twenty-one days' hard labour
+James Underwood was also fined 10s, snd 5s costs, for a similar offence, at the Old King's Arms, and assaulting Police-constables Lockhart and Stubbs ; and in default of payment, committed for twenty-one days' hard labour
 
 ...
 
@@ -1454,7 +990,7 @@ Hampshire Advertiser - Saturday 05 June 1858
 
 BOROUGH COURT. Monday.— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
 
-On Thursday, a hawker, named William Waterworth, was committed to the House of Correction at Winchester for one month, as a rogue and vagabond, for being drunk at the Tontine Tap, and indecent exposure. 
+On Thursday, a hawker, named William Waterworth, was committed to the House of Correction at Winchester for one month, as a rogue and vagabond, for being drunk at the Tontine Tap, and indecent exposure.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580731/025/0002
