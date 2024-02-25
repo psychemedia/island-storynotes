@@ -49,6 +49,388 @@ Mrs Wilson
 
 ---
 
+## Newport
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18521113/007/0003
+Isle of Wight Observer - Saturday 13 November 1852
+
+TOWN COUNCIL
+
+A general meeting of the council was held  in the Council Chamber, at the Guildhall, on Tuesday last, for general business. The names of the members of the council being called over, the town clerk gave notice that the first business to be transacted was the
+
+ELECTION OF A MAYOR.
+
+Upon which Thomas Cooke, Esq., after passing very high compliment the late mayor for the conscientious fulfilment of his duties during the last year, and proposed Mr. Francis Pittis to fill that office for this borough for the ensuing year, and in doing so, bore testimony to his high character and ability, and although he was unwilling when first asked to be proposed fill the office, he had now consented ; and he therefore felt great pleasure in proposing him.
+
+Edward Way, Esq..said it wiiswithgreat pleasure that he seconded the nomination of Mr. Francis Pittis, as the mayor of the Borough of Newport, as he is a native of the town and much respected, and one that he (Mr. Way) himself had been acquainted with for many years.
+
+There being no opposition, Mr. Pittis was then sworn in, and the ex-mayor resigned his seat into his hands ; which being properly occupied, the mayor, said, —the first step I consider for me to take in filling this chair, is to return you my sincere and heartful thanks for placing me here, and I very sensible of the honor conferred upon me in being placed in this position, and when I feel that it has been by the unanimous voice of this meeting, not one vote being accorded against me this day, it is most gratifying to me, and will help to carry through this important function which is the highest you could have placed upon me. I shall feel it my duty to dismiss everything like party or political feelings from my breast, and will endeavour so far as possible to do everything that may be conducive to the prosperity of the town of Newport. I hope therefore that you will give me that support which my office requires from you.
+
+...
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18531112/007/0002?browse=true
+Isle of Wight Observer - Saturday 12 November 1853
+
+TOWN COUNCIL. The quarterly meeting of the Town Council was held at the Guildhall on Wednesday last, the Mayor. F.Pittis, Esq., in the chair.
+
+The election of mayor for the ensuing year being the first business, Mr. Estcourt in a most able but brief speech, proposed the reelection of Mr. Pittis to the civic chair, which being seconded by Mr. E. Way, was carried unanimously.
+
+---
+
+Isle of Wight Observer - Saturday 13 November 1852
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540415/014/0003
+Isle of Wight Observer - Saturday 15 April 1854
+
+Town Council.
+
+...
+
+Mr. Estcourt proposed Mr. F. Pittis as Alderman, and on a ballot being taken, he was declared duly elected.
+
+...
+
+
+---
+
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006
+Hampshire Advertiser - Saturday 05 August 1854
+
+NEWPORT, Saturday, August 5. St. Thomas's Church.— The foundation-stone of the new church is intended to be laid, on the 24th instant, by his Royal Highness Prince Albert. Invites have been sent to the Provincial Grand Master and the Masonic brethren, the authorities of the Island, the members, the Magistrates, Mayor and Corporation, the Bishop of Winchester, the Archdeacon of the Diocese, the Rural Dean, and the clergy of tba Island, the officers of the Garrison, &c. snd we imagine the sight will be the grandest that we shall have witnessed in the Island for years.
+
+...
+
+NEWPORT TOWN COUNCIL. [Tuesday, the Mayor, F. Pittis, esq. in the chair]
+
+...
+
+PRINCE ALBERT'S VISIT TO LAY THE FOUNDATION STONE.
+
+The Chairman observed that as her Majesty's Royal Consort had most graciously condescended to visit their ancient town at the end of the month, for the purpose of laying the foundation stone of their new church, he thought it waa proper that he should be received by the offlcials of the town in a becoming manner. He therefore begged to invite the Corporation to meet him on the auspicioua occasion ; and other arrangements were being made, with the view of giving the Prince a suitable reception. 
+
+Mr. Pinnock. hoped that if any of the Council were absent on that day, it would not be construed into a want of loyalty for their Prince. Some of their body objected to processions, and wearing gowns; and he and others dissented from the doctrines of the Church of England. Therefore they could scarcely be expected to assist in laying the foundation atone of a church which denounces them some thirteen times a year.
+
+The Mayor again observed he should be happy to see them all, and the subject dropped.
+
+
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/038/0006?browse=true
+Hampshire Advertiser - Saturday 12 August 1854
+
+
+
+NEWPORT, Saturday, August 12.
+
+The Old Church is fast disappearing, and workmen are clearing the north-eastern side, for the purpose of arranging for the laying the foundation-stone— (see advertisement). We believe room will be allotted for nearly 2000 spectators, and everything is being done to render the anxiously looked-for day one of the most auspicious our town has ever witnessed. We can conscientiously say that there is but one feeling amongst all classes, that of unmixed desire to give the Prince a reception worthy of his high position and his exalted character. The banquet to be given by the committee will be on a scale of excellence and elegance ; answers to the invitations have been nearly all received, and we have no doubt that this part of the matter will pass off with credit to all parties. We would recommend our friends to secure tickets as soon as possible, as there is even now a great demand for them. We have been given to understand that it is the gracious intention of her Majesty to erect a monument to the Princess Elizabeth, daughter of the unfortunate Charles I. Nothing can be more graceful than this act of our beloved Sovereign. There is a sympathy in it for the fate of one of royal blood, and another evidence of her Majesty's good wishes for our church and town. We gave some information respecting this unfortunate Princess a few weeks ago. The vault in which her remains lay was discovered in 1793, near the altar, wben the church was undergoing some repairs; a stone with the initials "E. S." simply marking the spot. On the coffin appeared the following inscription :—
+
+ELIZABETH 2ND DAUGHTER OF THE LATE KING CHARLES. DECE'D SEPT. 8. MDCL.
+ 
+In order to more particularly mark the spot, the Church-wardens removed an old copper plate from the churchyard wall, which had been placed there in 1707, to the memory of a respected minister of their parish named Shergold, on the back of which they caused to be engraved the inscription to the illustrious Princess Elizabeth, which has already appeared in this paper, and was laid into a stone immediately in front of the altar. On removing this piate, within the last few days, the following quaint inscription to the clergyman was found at the back :—
+
+HERE LYETH YE BODY OF MASTER GEORGE SHERGOLD LATE MINISTER OF NEWPORT WHO DURING SIXTEEN YEARS IN DISCHARGE OF HIS OFFICE STRICTLY OBSERVED YE TRUE DISCIPLINE OF YE CHURCH OF ENGLAND DISLIKING THAT DEAD BODIES SHOULD BE BURIED IN GODS HOUSE APPOINTED TO BE INTERRED IN THIS PLACE HE DYED UNIVERSALLY LAMENTED AND ESTEEMED JANUARY XXIII 1707.
+
+From a MS. in the British Museum, entitled " Church Motes in the Isle of Wight," and bearing the date of March, 1719, we learn that this tablet was on the churchyard wall, and as it conveyed a rebuke on the practice which very generally prevailed at the close of the last century, of burying within the church, it was probably selected to supply the material for the inscription over the resting place of the Princess, when accidently opened in 1793.
+
+ELSEWHERE IN SAME ISSUE (p5):
+
+NEWPORT, ISLE OF WIGHT
+
+The Foundation Stone of the New Church of St. Thomas will be laid by  H.R.H. Prince Albert at One p.m., on Thursday, 24th August, 1854.
+
+Seats affording a view of the ceremony will be erected.
+
+Tickets— Single seats, 5s. Five seats, £1.
+
+A limited number of Tickets for reserved seats will be issued at 10s each. The proceeds to be applied to the Church Building Fund.
+
+Tickets may be obtained of the Churchwardens, Mr. E. Way, 141, High-street, and Mr. E. Moor, Library, Ventnor; Mr. Thurlow, Library, Ryde; or Mr. Bull, Fountain Hotel, Cowes.
+
+FREEMASONRY. — Isle of Wight — Thomas Willis Fleming. esq. Right Worshipful Provincial Grand Master.
+
+A Provincial Grand Lodge will be held at the Masonic Hall, Lugley-street, Newport, on Thursday, 24th August next. The Lodge will be closed tyled at eleven a.m. when a Procession will be formed to attend on H.R.H. Prince Albert, and assist in LAYING THE FOUNDATION STONE OF THE NEW CHURCH OF SAINT THOMAS in Newport.
+
+A numerous attendance of the Brethren is earnestly requested.
+
+A dinner will be provided for the Brothers at the close of the proceedings.
+
+By order, William Selby, Prov. Grand Secretary. 5th August, 1854.
+
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005
+
+Hampshire Chronicle - Saturday 26 August 1854
+
+...
+
+The original church was built in the early part of the fourteenth century ; but in consequence of its dilapidated state, in 1848 it was determined to build a new one. and the sum necessary for the purpose has been raised subscription, her Majesty being a liberal contributor.
+
+...
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true
+Hampshire Advertiser - Saturday 26 August 1854
+
+NEWPORT, Saturday, August 26.
+
+GRAND CEREMONY OF LAYING THE FOUNDATION STONE OF THE NEW CHURCH OF SAINT THOMAS'S, NEWPORT, ISLE OF WIGHT.
+
+As we anticipated in our last, the inhabitants of Newport witnessed on Thursday the grandest and most important day that had ever been known in the ancient borough. The preceding evening was remarkably unfavourable ; the wind blew quite a hurricane, and copious showers seemed to portend anything but a propitious Thursday. Nevertheless, the weather-glass " looked up," and hundreds awoke with thankful hearts on beholding a delightful sunny morning, which was rendered the more pleasant by the sprinkling over night.
+
+The day waa ushered in with a merry peal from the mellow bells of the old tower of St. Thomas, and the borough exhibited the appearance of a general holiday- the business of the town was almost entirely suspended, and flags and banners, with numerous devices, were to be seen pendant from the principal houses of the town. The approaches to the borough were variously decorated, and several beautiful arches, with appropriate devices, were erected in the principal tboroogbfares. The "Albert Arch," decorated with the Prince's royal arms and other devices, was situated at the bottom of the High-street. The next arch was opposite the Town Hall, having the borough arms, and representing the Corporation of the borough of Newport. A third was in the Corn Market, and termed, "The Clerical Arch," with the Right Rev. The Lord Bishop of Winchester's arms ; and a fourth, in the vicinity of the Bugle inn—a most splendid affair, called " the National Arch." There were other devices in the upper part of the town, the Beast and Corn Markets, Node-hill, &c. In every direction flags of every conceivable hue and colour met the eye, displayed from the most prominent situations, and scarcely a house of any size or importance but was profusely decorated with garlands of flowers bouquets, evergreens, and complimentary devices. In the main streets, garlands of flowers were suspended from side to side and the remains of the old church were also profusely decorated. Immense numbers of persons from all parts of the Island flocked in at an early hour, and, with bands of music and banners the whole scene presented a very grand and imposing effect.
+
+At eleven o'clock, thousands of persons were assembled in the principal streets, and most of the shops immediately closed. Soon after, a guard of honour, consisting of about 200 troops of the Garrison, defiled in front of the Hall, and the Royal Marine Band struck up a pleasing strain.
+
+The Members of the Town Council met at the residence of the Mayor, at half-past eleven o'clock, and accompanied him to the Town Hall.
+
+The Bishop and about twenty of the Clergy assembled for the purpose of robing, at twelve o'clock, at the residence of the Rev. G H. Connor, and proceeded from thence in procession to the Town Hall.
+
+The officers and brethren of the several Lodges assembled at the Masonic Hall at eleven o'clock, when a Grand Lodge of the province of the Isle of Wight was held, and a procession formed by twelve o'clock, which proceeded to the Guildhall, where the procession remained, to await the arrival of his Royal Highness Prince Albert.
+
+Between twelve and one, the various bodies intended to form the procession were to be seen emerging from their different rendezvous, for the purpose of assembling in Quay-street.
+
+At one o'clock, his Royal Highness Prince Albert arrived, and the Royal Marine band commenced playing the National Anthem. The illustrious Prince was received by the Worshipful the Mayor and the Lord Bishop of Winchester, who escorted bim to the Hall. The procession soon after formed in the following order:—
+
+Policemen.  
+Band of the Royal Marine Corps.  
+Architect and Builders.  
+About three hundred Freemasons.  
+Tyler with drawn aword.  
+Visiting Brethren not Members of any Lodge.  
+Visiting Lodges.  
+Tyler with drawn sword.  
+Lodges of the Island, preceded by their banners :  
+No. 809.— Yarmouth Lodge, Ventnor.  
+204.- East Medina Lodge, Ryde.  
+176.— Albany Lodge, Newport.  
+41.— Medina Lodge, Cowes.  
+Grand Lodge of the Isle of Wight :  
+Grand Tyler.  
+Grand Pursuivant.  
+Grand Organist.  
+Grand Superintendent of Works.  
+Mr. J. W. Daukes, with plans of the building. Mr * J. J. Dashwood, with trowel.  
+Past Grand Officers.  
+Grand Steward.  
+Grand Directors of Ceremonies.  
+Grand Steward Senior Grand Deacon. Junior Grand Deacon.  
+Grand Secretary, with book of Constitutions.  
+Grand Treasurer.  
+Grand Registrar.  
+Past Grand Wardens.  
+Visitors of Distinction.  
+Senior Grsnd Warden. Junior Grand Warden.  
+Grand Steward. Volume of the Sacred Law on a velvet Cushion. Grand steward.  
+The Grand Chaplain.  
+A Grand Officer with a golden vessel containing corn.  
+Two Grand Officers with silver vessels, one containing wine, the other oil.  
+Grand Sword Bearer.  
+Grand Steward. The Right Worshipful Deputy Grand Master of the Proviince. Grand Steward.  
+The Right Worshipful Grand Master of the Province, (Thomas James Willis Fleming esq.)  
+Grand Tyler.  
+The Church Building Committee.  
+Superintendent of County Police.  
+The County Magistrates.  
+The Governor of Parkbnrst Prison.  
+The High Steward of the Island.  
+Commissioned Officers of the Garrison.  
+About 100 of the principal of the Island Inhabitants.  
+Inspector of the Borough Police.  
+The Officers of the Isle of Wight Militia.  
+The Borough Magistrates.  
+The Members of the Town Council.  
+Verger and Serjeants at Mace.  
+The Right Rev. the Lord Bishop of Winchester. His Royal Highness. His Royal Highness Prince Albert. The Worshipful Mayor.  
+The Churchwardens.  
+The Venerable the Archdeacon. The Bishop's Chaplain.  
+The Rev. The Vicar of Carisbrooke. The Rev. The Bursar of Queen's College, Oxford.  
+The Rev. The Rural Dean. The Rev. G. H. Connor.  
+Mayor's Chaplain.  
+Assistant Curate of St. Thomas's, Newport.  
+The Clergymen of the Island.  
+Policemen.
+
+The whole mass now moved forward towards the church, the Prince conversing with the Worshipful the Mayor and the Bishop. When the procession arrived at the tower of St. Thomas's Church, it halted, and divided right and left, for the Right Worshipful the Provincial Grand Master and the Provincial Grand Officers to pass up the centre, preceded by his banner and Sword Bearer, and followed by the remainder of the procession, until the whole had entered the enclosure around the stone.
+
+Spacious galleries had been erected, and these were filled by the fashionables of the Island, with a good sprinkling of military and naval uniforms. The stone was suspended by a pulley from supports decorated with evergreens. It was very large, and beautifully chiselled for the occasion. We understand it was the gift of Mr. Joseph Poore, of Newport. It bore the following inscription, engraved on a brass plate: —"On Thursday, August 24th, A.D., 1854, this foundation stone was laid by his Royal Highness the Prince Albert, Francis Pittis, Mayor; George Henry Connor, M.A. Minister; Edward Way, Henry Loosemore, Church-wardens."
+
+His Royal Highness, accompanied by the Mayor and Masonic officers, walked through the portal of the church tower, and the positions were taken up as follows :—
+
+ Town Clerk, Equerries. The Bishop's Chaplain, James Eldridge, esq. Rev. E. M'All.  
+The Mayor, F. Pittis, esq. His Royal Highness Prince Albert. The Lord Bishop of   Winchester.  
+The Mayor's Chaplain, Rev. Mr. Wallis. THE STONE. The Rev. E. D. Scott, Vicar of Carisbrooke.  
+Provincial Grand Master, T. W. Fleming, esq. The Rev. G. H. Connor.  
+Deputy Provincial Grand Master. Architect, Mr Daukes. Minister of St. Thomas's Church.  
+Senior Warden, Mr. E. Way. Junior Warden, Mr. Loosemore. Builders, Messrs. T. and J. Daahwood, of Ryde.  
+Surrounded by the Corporation and the whole Clergy of the Island. The choir and band were allotted a portion of one of the galleries.
+
+His Royal Highness viewed the brilliant assembly with evident interest while the stone was being raised. The Bishop of Winchester then said aloud, " The glorious Majesty of the Lord our God be upon us ! Prosper Thou the work of our hands upon us ! O, prosper Thou our handy work."
+
+Psalm cxxxii., verses 3 to 16 inclusive, was then repeated alternately by the Bishop and Clergy and a large number of the spectators.
+
+The architect of the building then presented to his Royal Highness the working plans of the church, and explained to him its proposed accommodation, after which a bottle, containing the coins of the realm and parchment roll, were deposited in a cavity beneath the stone. The foundation stone was then partly lowered, and a silver trowel presented to Prince Albert.
+
+The trowel, provided by Mr. Dudley, silversmith, was of most chaste workmanship, and bore the following inscription :— "St Thomas's church, Newport, Isle of Wight. The foundation stone laid by his Royal Highness Prince Albert, August 24tb, 1854. Francis Pittis, Mayor." On the back were his Royal Highness's arms, surrounded by the Order of the Garter, very elaborately executed.
+
+His Royal Highness then spread the cement on the lower stone, the upper stone was let down slowly, with solemn music, and his Royal Highness said, "We place this stone in faith and hope to the glory of God, through Jesus Christ our Lord."
+
+The stone being adjusted, and his Royal Highness having given it three strokes with a mallet, the Provincial Grand Master approacbed the stone, and proved it to be properly laid by the plumbrule, presented by the J.G.W. ; the level, presented by the S.G.W. ; and the square, presented by the D.P.G.M.
+
+The Architect then delivered the maul to the Provincial Grand Master, who gave three knocks, at the same time invoking the blessing of the Grand Architect of the Universe, and the brethren responded.— *So mote it be.*
+
+The Provincial Grand Master delivered the plan and tools to the builder, for his use, after which he scattered corn and poured wine and oil upon the stone.
+
+The Provincial Grand Chaplain then gave the appropriate prayer, the brethren again responding— *So mote it be*, when the Provincial Grand Master announced to his Royal Highness and the Mayor that the stone was laid.
+
+The Bishop of Winchester then audibly repeated the foloowing prayers:—
+
+"O, Almighty God, who hast built Thy Church upon the foundation of the apostles and prophets, Jesus Christ himself being the head corner-stone, grant us so to be joined together in unity of spirit by their doctrine, that we may be made an holy temple, acceptable unto Thee, through Jesus Christ our Lord. Amen."
+
+" O most glorious Lord God, we acknowledge that we are not worthy to offer unto Thee anything belonging to us; yet we beseech Thee, of Thine infinite goodness, graciously to accept and bless our intention of rebuilding in this place a house, which may be for ever dedicated to Thy honour and service. May the people bring forth the head-stone thereof with shoutings, crying ' Grace, grace unto it !' May the glory of this latter house be greater than the glory of the former. May faithful men be raised up from generation to generation, who within its walls may proclaim the glad tidings of salvation and the riches of Divine grace. May Thine holy days be here remembered —Thy sacraments duly administered aad reverently received— the youth instructed— the aged reminded of their duty, and exhorted to persevere unto the end— and all builded up as living temples of the Holy Ghost, that Thou mayest bless us, and we may honour Thee, through Jesus Christ our Lord. Amen."
+
+The Lord's Prayer followed, after which the following appropriate hymn was sung by a most effective choir, accompanied by selected instruments from the Royal Marine band, led by Mr. John Mew, the organist of St. Thomas's church :—
+
+This stone to thee in faith we lay;  
+To thee this temple. Lord, we build;  
+Thy power and goodness here display,  
+And be it with thy presence fill'd.
+
+Here, when thy people seek thy face,  
+And dying sinners pray to live. 
+Hear thon in heaven, thy dwelling-place ;  
+And when thou nearest, Lord, forgive !
+
+Thy glory never hence depart ;  
+Yet choose not, Lord, this house alone :  
+Thy kingdom come to ev'ry heart ;  
+In ev'ry bosom fix thy throne !
+
+The benediction having been given, The Bishop of Winchester then said— Your Royal Highness, I tender to you, on behalf of the Mayor and Town Council of this ancient borough, of this island, and of the assembled multitude of inhabitants whom your Royal Highness can see around you, their respectful and grateful acknowledgments for your great condescension in coming amongst us on this interesting occasion. It will be out of place for me to make any lengthened observations; but the inhabitants would, indeed, have gone away with sad hearts if they were not allowed an opportunity of thus expressing the feelings they entertain towards your Royal Highness. It is the greatest of comforts to us to be enabled to do so ; I speak not only in the name of the clergy and people of this island, but in that of the people of Great Britain, who, as I have said, consider it a subject of great comfort in seeing in their beloved Sovereign and in their beloved Sovereign's Prince Consort those who not only evince so great a desire to dignify their position by doing everything that is valuable to the welfare of our country, but in themselves set a bright example of all that can ennoble the people. As one of the clergy of this country, I consider that your Royal Highness's attendance this day is better than a thousand sermons. It shows that a hearty interest and sympathy are felt by our gracious Sovereign, and by your Royal Highness, in an event so interesting to the people of this town and to the people of this Island. We see in it an additional proof of the interest our gracious Sovereign and your Royal Highness take in the welfare of this Island.
+
+His Royal Highness, who was evidently much gratified, said— My lord, allow me to express to you the feeling of gratification I have this day experienced in being amongst you and assisting you in the performance of this holy work, and in doing so I wish also to bear testimony to the great interest the Queen takes in all matters of this kind in the nation at large, and in the welfare of thia Island in particular. I thank you for this honour —(loud cheers).
+
+The ceremony being completed, the procession was again formed, and returned to the Town Hall, and on reaching the north door, it stopped, and fell back in double line, to allow his Royal Highness to pass through the entire procession, to the Town Hall. His Royal Highness had a few minutes conversation with the Mayor, and re-entered his carriage amidst hearty congratulation.
+
+The guests afterwards retired to the arcade of the Town Hall, until luncheon was announced. The Masonic brethren repaired to their lodge-room, where the business of the Grand Lodge was resumed, and at three o'clock they dined at the Star Hotel.
+
+The 77th Regiment, under the command of Lieutenant-Colonel White, formed the guard of honour on the occasion, the other line of procession being kept by detachments from the 20th and 28th Regiments.
+
+The bands of the Royal Marines and the 4th Regiment performed " most eloquent music" during the day, as well as several local bands of the neighbourhood.
+
+The Town Hall was externally covered with evergreens and flowers, while internally the scene was of a magnificent character. At one end, appropriated to the principal guests, was a dais, over which was displayed the banner of Newport, and around the room were hung festoons of laurels and flowers, with devices in dahlias and other flowers. The tables were covered with every delicacy and the choicest wines, the banquet being provided by Messrs. Mew, of the Bugle inn. There were several beautiful paintings adorning the walls, with the designs for the new church, and the fine life-like full-length portrait of the late Sir Leonard Holmes. The tables were bedecked with several massive silver epergnes, cups, and dishes. The Mayor took the chair, supported on his right by the Bishop of Winchester and on the left by General Lord Downes, the Ven. Archdeacon Wigram, Colonel Rumley, Colonel Delacombe, T. W. Fleming, esq. The whole of the clergy of the Island, and amongst the general company were Lieutenant- Colonel Dwyer, Captain Symonds, Lieutenant and Adjutant Driver, Lieutenant Pearse, Lieutenant Taylor, Dr. Wilday, M.D. Commander Adams. Captain Daly, Captain Henries, Captain Scott, Lieutenant Wesley, Captain Gordon, R.M. Lieutenant Manners, Lieutenant Waterworth. Captain Crozier, R.N. Hon. A'Court Holmes, Colonel Harcourt, M.P., Admiral Symonds, Le Marchant Thomas, esq. Sir Henry Oglander, bart. A. J. Hambrough, esq. B. Kerr, esq. L. P. Lind, esq. &c. The principal members of the Corporation, including Messrs. Hearn, Estcourt, Pragnell, Jewell, H. Mew, E. Way, J. Way, &c. were present.
+
+Grace having been said by the Rev. Allen Wallace,  
+the Mayor called upon the assembly to charge their glasses, and proposed the health of her most gracious Majesty the Queen. The toast had always been received with every demonstration of loyalty, and he felt assured all present would do honour to it— (great cheering, the band performing the National Anthem).
+
+The Mayor said he now rose to propose the health of the illustrious Prince, who had that day honoured them with his presence on the occasion of laying the foundation stone of a building dedicated to Almighty God. His Royal Highness had conferred a lasting obligation upon the inhabitants of Newport, and had set a noble example to the junior members of the Royal family. He trusted all would join with him in the prayer that the blessing of God might descend upon the great work of the day ; and he hoped that the building, the foundation of which they had so auspiciously laid, might rise in all its beautiful proportions, and that thousands yet unborn might worship beneath its portals— (cheers).
+
+The Mayor proposed the health of his Royal Highness the Prince of Wales and the other members of the Royal family. This day would be an illuminated page in the history of the Island, and of the country, and the rich and poor, peasant and peer might look to the Throne for example. The Royal family were the nation's hope; and his wish was that God might confer his blessing upon them, and that they might shine like gems around the diadem of our beloved Sovereign— (cheers).
+
+The Mayor desired to propose the health of the Lord Bishop of Winchester and the clergy who had done them the honour to assemble on the occasion— (cheers). It would ill become him, in the presence of his lordship, to offer any laudatory remarks; but in these momentous times they, as laymen, must not forget the high privileges which they enjoyed. It was most consolatory to them to know that the clergy of the Island, when difficulties beset their path, applied with confidence to the Lord Bishop for advice and counsel— for the advice of one who bad always shown himself unwavering in the principles of our reformed religion— (cheers). He thanked the clergy for the assistance they had rendered and the honour they had done him on the occasion, and he was quite sure that those around him would respond to the toast with enthusiasm—(great cheering).
+
+The Lord Bishop of Winchester, addressing the assembly as Mr. Mayor, his lordship, and gentlemen, said he rose without a moment's hesitation to offer on behalf of the clergy of the Island, and in his own name, their respectful acknowledgments for the honour which had just been paid to them. He might truly say that this day was one of unmixed gratification to him. He had looked forward, now through many years, to the day which should see the foundation-stone laid of that edifice, which he trusted would prove one of the best buildings of the town, in every sense of the term, and become a credit not only to that place but to the whole Island— (cheers). He looked to the church, which, under God's blessing they hoped to raise within the town, not merely as an architectural building, although in that view he should not be the last to acknowledge its merits ; but he looked to it as a spot where those who came after them, as well as themselves while they remained here on earth, might repair for consolation and instruction in righteousness— (hear, hear, and cheers). He considered that the auspices under which the church had been commenced that day should lead them to expect a happy termination of the work—(hear, hear). The introduction which the Mayor had given relative to the Royal family, had reminded him of the many obligations they owed to the Royal personage who had so condescendingly honoured them with his presence— (cheers). His Royal Highness Prince Albert had manifested a deep interest in all works for the advancement of art and science and in addition to the efforts made for the advancement of literature, science, and art in this country— to which such a response Mhad been made— Royal Highness united in that which must be most dear to them, a deep feeling for the moral and religious welfare of the people of this country—(cheers). He saw in the presence of his Royal Highness that day that he took an interest in the spiritual welfare of our countrymen, and he recognised in a proof that their Royal neighbour, the Sovereign of this country, as well as her Royal Consort, were willing to be ranked, not only as the Sovereign of ihe country and the Royal Consort of the Sovereign but as neighbours to them— (great cheering). These were truly auspicious circumstances, and he might well call upon the Mayor in common with his fellow townsmen to rejoice and give God thanks for that which would long be remembered as a day of unmingled happiness amongst the townsmen of the Island— (cheers). He begged to return, on behalf of himself and on behalf of the clergy of the Island, their respectful thanks for the honour done them— (cheers).
+
+The Mayor next proposed the Army and Navy. The sister services were fighting for our hearths and homes in a foreign land, and not only for our hearths and homes but for the hearths of those who were not sufficiently strong to act against the powerful aggressor— (cheers) ; and it would be seen that they would act with that daring and bravery which had ever distinguished the British soldier and sailor— (cheers). It waa not only for the liberty of a foreign nation they were fighting, but for a nation at home, in order that we may live in that peace and prosperity which we had so long enjoyed. He would couple with the toast the names of his distinguished visitors, General Lord Downes for the Army and Captain Crazier for the Navy—(cheers).
+
+Lord Downes, in the name of the Army in which he had the honour of serving, desired to return their thanks. The Army had almost been in a dormant state for some long time, but we might probably now hear of their success under the excellent management of Lord Raglan, and he trusted that the prayers of those who assembled within the church that day would be for the success of our gallant army—(cheers).
+
+Captain Crozier, R.N. said, as the senior officer of the Navy present, he returned thanks for the manner the Mayor had proposed the toast and for the flattering reception it had met at their hands. He felt confident that wherever the servicea of the Navy, as well as of the sister service, might be called for, they would zealously and gallantly do their duty— (Cheers). He once more returned, on behalf of the service, his sincere and heartfelt thanks— (cheers).
+
+The Lord Bishop of Winchbester felt that he had already too long delayed in proposing a token of respect to the Mayor and Corporation of the town which they so well deserved. In assembling his friends around that table, the Mayor had conferred upon all of them a deep obligation, aa he looked upon these opportunities of meeting each other with peculiar interest; it afforded him the opportunity of meeting those whom he could not at all times be amongst— not only the sister services of the country but those who were more closely allied with him, and who now all united together and took the opportunity of assembling round the social board in the interchange of kindly feeling and intercourse with each other— (cheers). He spoke the feelings of the clergy of the Island, and might he not hope those of the laity of the Island as well, and he would call upon all to join with him in drinking the health of the Mayor of the borough and of the Corporation of which he filled so worthily the chief office— (cheers).
+
+The Mayor said it was certainly, and must be, a memorable day they had passed through, in the records of the borough. The Prince Albert had honoured them with his presence, as well as their lordships, the Lord Bishop of Winchester and Lord Downes; but they had witnessed a circumstance of far greater consequence —they had laid the foundation of an edifice to be erected for the service of the Almighty— (hear, hear), a building which would not only be useful to them, but for generations yet to come— (cheers). They had watched that dear and time-worn building— they had looked at it with feelings of the deepest veneration —in it their forefathers had offered up their praises and their prayers— and he and others could have wished it might be renovated and preserved ; but on mature consideration they felt that the building had become in too dilapidated a condition, that age had worked its way, and after a lapse of time they had applied to the task of re-building the church. They never could forget the zealous efforts of one who could not be present with them but whose heart's feelings were still with them, the Rev. Joseph Maude —(cheers). To his exertions they owed very much, and they regretted deeply his absence, but his place in their labours had bean zealously filled by the reverend gentleman who succeeded him. The Rev. G. H. Connor—(cheers) ; and through their united efforts they had found that, after removing their old building, they had raised sufficient to carry up the body of the churcb, and trusted that when that time arrived the Providence which had enabled them to raise between £7000 and £8000, would still smile upon them, that they might see the building carried out as it was shown upon their design, that they might see the tower as well as the body of the church erected— (cheers). The Lord Bishop of Winchester had kindly contributed, many gentlemen around the table had done the same, they had embarked in the work entrusted to them, and God grant they might have the strength and assistance to carry it out— (cheers). He saw many Aldermen snd Councillors around who could speak for themselves; but for himseld and on behalf of the Corporation, he returned most grateful thanks— (cheers).
+
+Mr. Alderman Estcourt, after a pause, said as he had been waiting for the senior members of the Corporation to return thanks, he had hesitated to rise. He never, until that day, thoroughly appreciated the honour of belonging to the Corporation, by whose combined action had been gathered such an honourable assembly on that occasion. He returned thanks on behalf of himself and the other members of the Corporation— (cheers).
+
+The Mayor said the next toast was one respecting which he felt some diffidence in approaching. It was the health of the Provincial Grand Master, who had left the room to join in the duties of his lodge, and the Masonic brethren—(cheers). Although these gentlemen kept many things in the dark, some would shine forth ; they could see that the brethren visited the fatherless and the widow, relieved the distressed, and came forth in any work whioch had for its ends the benefit of mankind, and they might therefore conclude that their principles and motives prung from the purest source— (cheers). He was honoured by their presence and thanked them for their attendance. He gave them the toast of the Masonic brethren, coupling it with the name of Brother Waterworth-(cbeers).
+
+Mr. Waterworth acknowledged the toast, and said thatalthough there were many good men in the town who were not Masons, there could not exist a Mason who was not a good man (hear, hear, and cheers). He concluded by returning thanks for the Masonic craft.
+
+Mr. W. B. Mew also acknowledged the compliment.
+
+The Mayor said with the next toast he had really arrived at the foundation. They looked around and thought of the men who had originated the work, and, with the exception of those who had been called to their fathers, had steadily persevered in it up to the present time, those gentlemen being the Church Building Committee— (cheers). In the first place there was a strong feeling that the church should be renovated, but this being found impossible, they then set themselves to the work of erecting a new building, and they pledged themselves, collecting subscriptions from year to year, to commence the building within a period of five years. They had to fight a great battle to get together their funds, and had carried out their intention at the expiration of the fifth year of their labours— (cheers). There was one gemntleman whose exertions had been most strenuous, who had given them sound advice, and had been constant in his attendance on the committee: the Rural Dean was known throughout the length and breadth of the Island—(cheers), hiskindness and condescension were proverbial, and they had much thank him for that the church was commenced that day He called upon them to drink the health of the Rev. E. M'All and the Church Building Committee —(cheers).
+
+The Rev. E. M'All * could not express the gratitude he felt at the high consummation at which they had arrived that day, a consummation which would give to the town of Newport, and to the whole of the Isle of Wight,  a church worth of its metropolis— (cheers).
+
+The Mayor said the next health was that of the Rev. E. D. Scott, the Vicar of Cariabrooke, whose desire at all times was do that which would prove of advantage to them, and add to their general contentment here and happiness hereafter. The gentleman would make a most important announcement but before doing so they would have the gratification of drinking his health — (great cheering ).
+
+The Rev. E. D. Scott returned thanks for the compliment, and added it would ill become him on a day like that to delay them but he would simply say that he would consent, with all his heart, to a separation of Newport from the Vicarage of Carisbrooke— (enthusiaatic cheering).
+ 
+The Rev. Bursar of Queen's College, Oxford, said an application had been made to them that they should forward the separation of Newport from the united parishes of Carisbrooke and Northwood, and appropriate a portion of the great tithes toward its endowment, and that proposition they had unhesitatingly accepted— (loud cheera), and, acting upon the advice of the Lord Bishop of the diocese, they had resolved that means shoukld be taken towards erecting Newport to a separate parish— (cheers).
+ 
+The Mayor rose to propose the health of the Rev. Mr Connor, minister of St. Thomas's, who came amongst them when bereft of a pastor whom they all knew and esteemed, had to put his shoulder to the wheel, and had to work hard in the good cause in which they were embarked— (cheers).
+
+The Rev. Mr. Connor, in returning thanks, said his own poor efforts would fall very far short of success, were they not aided by his reverend brethren, especially the Rev. Arthur Pennington whom he must thank for his kindness and support in all matters connected with the parish— (cheers).
+ 
+The Mayor then proposed the health of the Rev. Arthur Pennington.
+ 
+The Rev. Mr. Pennington said his desire and endeavour was to labour with Mr. Connor in promoting the spiritual interests of the town, and so long as he was spared his endeavour should be to promote its spiritual and its everlasting welfare— (cheers).
+ 
+The Mayor proposed the health of Colonel Delacombe, of the Royal Marines, with thanks for the use of the band.
+
+Colonel Delacombe suitably responded to the toast.
+
+Lord Downes gave the health of the Ladies who had worked for the bazaar.
+ 
+Mr. E. Way proposed the health of the Rev. Bursar of Queen's College, Oxford.
+ 
+The Rev. Bursar, in acknowledging the compliment, said although the proposition made by Newport was received favourably by the College, it could not have been carried out for an indefinite time but for the Vicar, the Rev. Mr. Scott, who had very kindly and liberally brongbt the matter on to its present position, and thus enabled the College to carry out the wish of the inhabitants of Newport, with whom they very kindly sympathised —(loud cheers).
+ 
+The Mayor proposed the Vice-Presidents, Messrs. Eldridge (Town Clerk), W. Way, and Jewell.
+ 
+The Town Clerk acknowledged the toast.
+
+Mr. J. Wyatt, of Oxford, responded to the toast of the Ladies.
+
+The Mayor expressed his gratitude to the military authorities at Parkhurst for their co-operation at all times with the civic power, and gave the health of Colonel Rumley and the officers of Parkhurst Barracks— (cheers).
+
+Colonel Rumley responded, after which the health of Captain Scott and the Isle of Wight Artillery Militia waa given and responded to.
+
+The Royal Marines band, which played an appropriate selection of music in the intervals between the toasts then performed the National Anthem, and the company separated.
+
+It is worthy of remark that during the whole of the day's ceremonies the large mass of people that crammed the town behaved with the utmost decorum, and no accident of any kind happened. 
+ 
+...
+ 
+The Annual Licensing Day was on Wednesday, when thirteen new applications for spirit licenses were made, and eleren of them were granted *instanter*— the others were only adjourned for the purpose of producing the usual certificates of character.
+
+ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT. Monday.— Magistrates present: The Mayor (F. Pittis, esq.), Dr. Wavell, Edward Way, and T. Cooke, esqrs.
+
+LICENSING DAY.
+
+The Clerk to the Magistrates read a section of the Act of Parliament whereby public houses are not to be kept open from ten to six on Sundays, Christmas-day, Good Friday, public fasts, and thanksgivings, under a penalty of £5.
+
+George Machett, of the Blue Ball, was cautioned as to his house being frequented by prostitutes; ...
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002
+Isle of Wight Observer - Saturday 26 August 1854
+
+[SIMILAR REPORT TO ELSEWHERE]
+
+...
+
+[NOTABLE GUESTS] [a]nd about 180 of the principal personages of the island filled the surrounding tables. We hear that this banquet off with éclat; but owing to the spirit of exclusiveness which the Committee was actuated in inviting only a portion of the press, we are sorry we cannot afford our patrons that full report which we usually do of such aristocratic gatherings; but have no doubt they, with us, will feel with us that such a petty and ridiculous distribution of their favours in no way redounds to their credit. It will have this effect that the most aristocratic portion of the Island visitors will be saved the trouble of wading through the after-dinner stereotype speeches used on such occasions.
+
+Owing to the late hour the Freemason's banquet came off the report is postponed till next week.
+
+We cannot close our report without making mention of the scurvy treatment got at the hands of the managers of this pageant. With a partiality, as rare as it is contemptible, they invited *portion* of the Press only, albeit they were glad to accept of the gratuitous puffing of *all*. Let this not be understood as the language of complaint; but rather as showing another instance of the unscrupulous manner in which some will " grind their axe" upon others. We have, however, discharged our duty to the subscribers and patrons of the *Observer* in the best manner we possibly could under such unusual and grossly partial circumstanccs.
+
+---
+
 ## Concern
 
 ---
@@ -1373,6 +1755,48 @@ Police-constable John Batley deposed that having received information of the rob
 This closing the evidence, the prisoner said in defence that he was sorry he had had any connexion with the man. He had been making away with the money, and now he had to settle up his accounts he wanted to saddle his defalcations on his back. Not a day passed that he took a pound from his box, and broke out of the barracks at night to spend it, and that was more than he could afford to spend. He certainly did take 5s out of the bag, and that was all ; but the prosecutor had given him the key night after night. He had been fourteen years in the service, and was as innocent of intentionally defrauding as any gentleman on the Bench. They had not found the £5 note on him, and he should like the prosecutor to state what was the number of the note he said he had lost. After a short consultation, the Magistrates committed him to take his trial at the Assizes at Winchester, which commenced on Monday.
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18561108/015/0003
+Isle of Wight Observer - Saturday 08 November 1856
+
+St. Thomas's Church.—The consecration of this beautiful edifice, which was to have taken place the 25th inst., is postponed for another fortnight, in consequence the elaborate nature of the work to be completed rendering it impossible to be advanced sufficiently far before that time. 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0001417/18561220/032/0004?browse=true
+Isle of Wight Mercury - Saturday 20 December 1856
+
+On Sunday, the 21st init., the new church of St. Thomas will be opened for Divine service, by license of the Lord Bishop of the diocese. The Rev. E. Mc All, Rector of Brighstone, and Rural Dean, will preach in the morning; the Rev. G. Prothero, of Whippingham, chaplain to Her Majesty, in the afternoon ; and the Rev. G. H. Connor, M.A., Minister of St. Thomas's, in the evening. Great commendation is due to the Committee and all who have assisted in bringing this great work so near completion, as nothing but untiring zeal, great perseverance, much industry, and an indomitable determination to overcome difficulties could have succeeded in the vast undertaking. Newport has now a Metropolitan Church, worthy of the capital of the late of Wight, a pride and ornament to the borough, and a proof of the denoted attachment of the inhabitants to the church of their forefathers.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003
+Isle of Wight Mercury - Saturday 24 January 1857
+
+TO DO
+
+CONSECRATION THE CHURCH OF ST. THOMAS.
+
+~ e»rly hoof, •» Toe«d»y, Janwy 20th, I«S7, rf Newport were .lire w.th enger f«e. ; r'rily, tf« d.wn «u or.rc-t,- and .he ram hf torrenle m fight w.ll be.e d.e- good eitiiene of that “wciente tewne” memorable in nnnnlt will be tbe aaid 20th of ? For the Coneeeretien of » new Church ta at an of intefeat and ..gntScancy. -urXidgea and Kailroada, our Hospital, and Col?e«. are the Landmark, of the moral and toctal oroureM of the Nation, .o our Churehe. «e the ? Smarts of it* Religioui Hwtory. The quaint, lfender spire, are the eharacter. by which a Christian people record their faith. And a. The one rises above the leafit.es. of .ome quiet village, orthe ether soar, above the busy of crowded city they become the historian and the poet the maWals which excite their research or stimulate Se imagination. They link the Present with the p* t : they unite, by the eternal empathy of a common faith, the worshippers of every age. Yeats move on: every annual revolution marking some the social life, the thoughU. and the desire. tna.se.: but ChrUlianity, save m it. external day. « by the men of the Present for the men of int'eVe.? m, tril‘Engli.h heart. K the n.me^of ri c,,o Tf s. church .f ofßninswick, «me?o f t" g e a«e°n the Captive shall be for ever of wonder, therefore, that the e, M ." true OhrUt-™. .nd wb ngZ'shouW hav* sedulously watched the progres. of the building* »»••• •' strong and sure. With Ann and ample base,’*... v.. tvr,dually sprung upward, stone on stone, pillar it has gradually SP * . j | proportions it that it was witnessed eager and by referent thousands And memorable, therefore, in the Annals commenced*at half-past The Clergy the residence of the Incumbent of St. Tht !'"*‘ Re. G H. Connor. M.A, and accompanied h m to Church. We beliefe the following is an accurate list of those who were present:— Kev. J. B. Atkinson, Cbiee*. He*. T. Adkins, Southampton, net. Canon Blackburn, Yarmouth. Bev. E. D. Buttermer, Easton. Bev. E. Carr. Bonekurek. Hot. T. Cottle, ShalfUet. Bev. B. Dixon, Niton. Bev. Eiger, St. James . Bev. H. Ewbank, Bt. James'. Ryde. Bev. M. Oeneste, West Ootces. Oawe. Brook. Bev. C. J. Garrard, St. John t, Ryae. Bev. D. I. Heath. Brading. Bev. E. V. Hennah, East Covet. Bev. P. Hewett, Bev. A. Hoare. Calbourne. Hodges. . . Bev. B. Isaacson, Freshwater. C. Livingstone, St. Bev. E. MeAuT Bural Dean, Bnyhstone. Bev. J. Le Mesurier, Bemhridge. Bev. H. Morris, St. Thomas , Ryde. H. Haddock. Bev. J. MaHand, Vent nor. Bev! O. Prothcro, Whippingham, T. Eatcliffe, OodshUl. Bev. T. Ben wick, Shonoell. Bel! W.*C«W«. Her. G. Southousc, Shmnklin. Rev. 8. Beaman, orthwood. ev< _ Wilkinson, ( D^ c.“ .nd cur..e procession Ks.ing sdrsnoed the «n.re nisle, the Bishop seated himself the„ j the altar, his Chaplam on according to the E. D. Scott. M.A.. Vicar of Cuisbrooke. the sermon* preached by the Winchester from the following text. « after to manner toreof." « The demoUtion.” *»id hi» Lordship, ** of one of the anciTnt churchea of our land. .lead of pLi.h lt tell, eren * are .nd opens page for the men of to-day, t„ e me u recolleotion. And this, fraught with n*" l / • . _ .Vg fabric of our brethren, true (oundationa of the latter honae may builded again upon her own upland old along the >iiiie , House f one atone i. left upon change haa paaaed orer fathers worbeat with the same hopes and fcws a» your o , whose very names are now forgotten as if they n r. It with vreit pleMure w« the nottfi our reporter,] 
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570124/050/0007
+Hampshire Advertiser - Saturday 24 January 1857
+
+CONSECRATION OF ST. THOMAS'S CHURCH.
+
+A day long anticipated by a great proportion of the inhabitants of this town and its vicinity has at length arrived ; many labours and more anxieties have had their reward. Local perseverance, and general benevolence,— royal munificence, and the widow's mite,— have united to rear in our Island capital an edifice worthy of the place it occupies, and of the purposes for which it is designed. The New Church of St. Thomas has been thrown open for the accommodation of our townsmen, and was officially dedicated to its holy purposes on Tuesday last, the 20th instant, by the Right Rev. the Lord Bishop of Winchester.
+
+The Bishop entered the church at a few minutes after eleven o'clock, where he was met by the Rev. E. M' All, Rural Dean, the Rev. E. D. Scott, Vicar of the Parish, and the Ministers ofthe Church,— the Revs. G. H. Connor, and J. S. Wilkinson, and, we believe, the whole of the Clergy of the Island, with the exception of one gentlemen, who was obliged to leave home, but who sent in his stead a liberal contribution to tbe building-fund. The Corporation had already taken their places in the handsome and commodious seats allotted to them. The Worshipful the Chancellor of the Diocese, Dr. Sumner, read the deed of consecration.
+
+The ceremony was conducted by his lordship with his invariable impressiveness of manner, by which he so greatly adds to the solemnity of such services ; and it was a sight though but seldom seen, yet long to be remembered. An overflowing congregation were assembled, who manifested the greatest interest in the proceedings. Our space will not allow a detailed account of this day's ceremonies, and we regret more than we can express that an unusually large amount of important local news compels us to condense our report on this subject into so small a space.
+
+After the more immediate service of consecration was performed, the usual morning service was commenced, ...
+
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570103/020/0002
 Isle of Wight Mercury - Saturday 03 January 1857
 
@@ -1598,6 +2022,41 @@ Other surname may be mother's maiden name
 
 Year    Surname Firstname   Other Surname   Town    Reference
 1839	MILLS	Ellen	DYER	Newport	N2/P43
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18891109/063/0007
+Hampshire Chronicle - Saturday 09 November 1889
+
+ISLE OF WIGHT
+
+Death of Sir Francis Pittis.—
+
+Sir Francis Pittis, J.P., of Newport, died at his residence, Newport House, on Sunday afternoon, about half past one o'clock. He had been confined to his bed for some two or three weeks, and daring the latter part of last week his illness became serious. Dr. Groves was last week called in to consult with the deceased gentleman’s physician. Dr. Allan Waterworth, but medical skill was powerless to avert the approaching close of life. Paralysis set in Friday, and the end was expected that night, but a slight improvement was manifest on Saturday. On Sunday morning, however, there was a relapse, and at the hour stated Sir Francis Pittis breathed his last, passing away at the age of 77 years. Sir Francis Pittis's death marks the removal of one of the few remaining men of note who have taken active and a leading part in the public affairs Newport and the Isle Wight during the last half-century. In his earlier years he was the proprietor of an important upholstery, auctioneering, and valuing business in the Market-square, but for many years past the firm has been widely known as that of Mesers. Francis Pittis and Son. He soon became marked as a public man, and has long occupied a seat in ths Council chamber either as Councillor, Alderman, or Mayor. Eight times he had been elected to the civic chair, the last being 1887, when he received the honour of a knighthood. He possessed a commanding voice and power of speech, combined with strong personality, which placed him above his fellows. Although a Conservative and Churchman he never allowed political proclivities or religious views to clash with the discharge of his public duty, and in him the borough had a zealous guardian of its ancient rights and privileges. As a politician he held the leadership of his party in Newport for a long period, and he has always commanded a strong influence throughout the Isle of Wight. He had been a member of the School Board from its formation, and was Chairman of the Charity Trustees. He possessed a robust constitution, but of late years the ailments of age have taken possession of him, Although they have not interfered with his public duties any great extent. Sir Francis, who married a sister the late Mr. Henry Wells, Kingsgate-street, Winchester, leaves two daughters and a son —Mrs. Waterworth, wife of Dr. T. Waterworth, Miss Pittis, and Mr. Councillor Pittis. The funeral took place yesterday at noon.
+
+
+--
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18891109/082/0005
+Isle of Wight County Press - Saturday 09 November 1889
+
+TO DO
+
+THE LATE SIR FRANCIS PITTIS.
+
+At St. Thomas's Church, Newport, on Sunday morning last, the prayers of the congregation were desired " for Francis Pittis." It was known that for some days Sir Francis had been in a critical condition, but it was not thought that the end was so near. About half-past one on Sunday afternoon he breathed his last. His illness was not of long duration, and knowing his strength of constitution and the longevity of some members of his family—his mother died at the patriarchal age of 90—the hope was cherished to the last that we should see him amongst us again. With his son-in-law, Dr. T. Waterworth, and Dr. Allan Waterworth in constant attendance, and with Dr. Groves in consultation, all that medical skill could do was done, and all the care that love could suggest was lavished upon him ; but death was inexorable, and the end came as we have said, faced with calm faith and compassed with peace. By the death of Sir Francis, Newport loses its foremost citizen. For the extent of a whole generation his name has been prominently associated with the public life of the borough, and he served the town with an ardour and a devotion which will not soon be forgotten. When William Baron Mew, Robert Pinnock, and Francis Pittis sat at the same table as Aldermen of the Corporation of Newport, that body possessed three members who, in point of business capacity and high personal character, could not be surpassed in any municipality in the country. " All, all are gone, the old familiar faces."
+
+Alderman Sir Francis Pittis, J.P., who was in his 78th year, was a native of Newport, and was descended of a very ancient and honourable Isle of Wight family. One of his ancestors —the Rev. Thomas Pittis D. D.—was in 1683 rector of Gatcombe and Chaplain in ordinary to His Majesty King Charles the Second, and another ancestor was, some two centuries ago, vicar of Brading. Members of the family were buried at Niton, in the parish church of which place there are tablets to their memory. Other members were but ied at Whippingham, and when the church there was rebuilt, the inscribed stones were removed and braes plates with similar inscriptions were placed near the spot, in front of the pew occupied by Her Majesty the Queen. Sir Francis was educated at a school at Newport—a very large private establishment, which was located in fine premises in Quay-street, since pulled down. The school was under the patronage of Queen Victoria's father, the Duke of Kent, whose name it bore, and it was for many years conducted by the Abbé De Grenthe, and afterwards by Mr. Alexander Clarke, an uncle of Sir Francis. His connection with the Corporation of Newport extended over a period of about 40 years, but he was actively identified with public matters in the town before he entered the Council. He was first elected to the Mayoralty in 1852, and he was re-elected in 1853. This year was rendered memorable by the visit of the late Prince Consort to the town for the purpose of laying the foundation stone of the parish church —the stately edifice of which the inhabitants of Newport are so justly proud. As Mayor of the borough it fell to Sir Francis to receive and entertain His Royal Highness, and the dignified manner in which he represented the town on that occasion won universal admiration. In 1859, 1861, and 1862 Sir Francis was again elected to the chief civic office, and it was during the last of these three Mayoralties that another notable event occurred—the marriage of the Prince of Wales. With Sir Francis at its head, Newport right loyally did honour to the occasion. It will be remembered that on the day of their marriage the Prince and Princess came to Osborne, and the Mayor and Corporation, who had proceeded by water to Cowes in State barges, presented an address to their Royal Highnesses on their landing at Trinity Wharf, East Cowes. In 1877 Sir Francis was elected to the Mayoral office for the sixth time, and he was re-elected in 1878. It was at the close of hie seventh term of office that it was resolved that the great services of Sir Francis to the town called for public recognition. and a testimonial fund was started, to which all classes of the inhabitants, as well as many friends outside the borough, contributed ; and on March 14, 1880, in the presence of a large representative assembly, a splendid painting of a Hampshire scene, by George Cole, was presented to him, together with an address embodying the sentiments of esteem and of gratitude which animated the donors.
+
+         We now come to the crowning event in the long and hoopured public career of Sir Francis Pittis. By the Queen's desire, the celebration of the Jubilee of Her Majesty's reign was arranged to take place in 1887, and towards the close of 1886 the question was raised in Newport, as in other boroughs, who should be the Jubilee Mayor ? In Newport there was no difficulty in arriving at • choice. Everybody felt that, by virtue of age, experience, service, it was most fitting that the Mayoralty in so auspicious and memorable • year should be held by the then " Mr." Alderman Francis Pittis. We gave repeated expressions to this feeling at the time, as did also our contributor " Stylus," whose words we quote now because of the prophetic touch that there was about them. In our issue of November 6, 1886, "Stylus'wrote: "The Mayoralty, it is understood, is placed entirely at the disposal of Mr. Alderman Pittis, who is in every way deserving of the proffered honour. I trust that he will accept it, and that before the year has run its course I may have the inexpressible happiness of greeting him as ' Sir Francis. Our contributor, alike with us all, Kul that happiness. Although feeling the pressure of advancing age, Mr. Alder man l'ittie readily placed himself at the service of the Corporation and of the borough, and on the 9th of November, 1886, he was elected Mayor of Newport for the eighth time unanimously elected, South and North rising together and blending their acclamations. In the course of the . . speech 'in which he acknowledged the honour he said "He could have wished, indeed, that their choice had fallen on a younger man, for when one's age had advanced beyond three score years and ten, he naturally looked for some repose, but, tbank God ! if he had not so much physical activity as he had years ago, his head, he was glad to believe, was right, and his heart was still the same, inclining him to do all in his power to promote the well-being and the prosperity of his native borough." Here we have expressed that which was always • ruling motive with Sir Francis l'ittis—an anxious desire to do the best ho could for the town of his birth. With what marvellous energy and enthusiasm—very marvellous indeed, considering his years Newport's Jubilee Mayor entered into the arrangements for fittingly celebrating the year's event our readers will readily remember. Newport came out grandly. Who that saw it is likely to forget the magnificent scene which the town presented on that 22nd of July when the Queen visited the town and received an address at the hands of the Mayor! It was in Her Majesty's reply to this address that she gave utterance to words which the people of Newport should treasure and which ought to have been printed in gold and placed within the Council Chamber of the borough : "The interest which my dear husband took in the welfare of your town," said the Queen, " has always been shared by me, and I pray that the prosperity which has attended you for the last fifty years may continue, and that the happiness of your fellow.citizens may increase for the remainder of my reign." From the first it was the strong desire of the then Mayor that Newport should possess some p ermanent memorial of the Jubilee —" something, as he once remarked, " which shall tell those who come after us of the sentiments of loyalty and devotion to the Throne which animated their ancestors in the year of the Victorian Jubilee." How he clung to this ideahow persistently he pushed forward the construction of the Jubilee clock tower, how at length he saw it accomplished, and how munificently he cleared off a deficit on the fund--our local records tell. On the morning of August 9, 1887, the Mayor received an intimation from the Prime Minister that the Queen had been pleased to confer on him the honour of knighthood. How the town received this gracious news ass reflected in our columns at the time. " As the intelligence became known congratulations poured in upon 
+
+
+his worship, in the course of the day the bells of St. Thomas's Church rang jubilant peals, flags were displayed in various parts of the town, and the one theme of absorbing conversation was the distinction with which the Queen had been pleased to crown the career of one of the worthiest and most honoured citizens of Newport." On the • 12th of August the Mayor went to Osborne, and was there knighted by the Queen. The distinction never had a worthier recipient, but Sir Francis disclaimed any personal title to it, preferring to regard it as an honour done, through him, to Newport. The Queen afterwards conferred the Jubilee decoration upon him. The connection of Sir Francis Pittis with the Council terminated only with his life. He was present at the last monthly meeting, sitting in his accustomed place on the right of the Mayor, and he joined in the discussion of several questions which came before the meeting. It will be impossible to fill the blank in the Corporation which the death of Sir Francis has occasioned, because there are none left who possess the vast amount of experience which he in the course of his long public life had accumulated. The interests of Newport always lay very near to his heart, and whenever a voice has been necessary to be heard in their defence, he has spoken with a voice that , none have surpassed. Proud of its history, jealous of its honour, and solicitous for its welfare, he served Newport in his day and generation with conspicuous devotion, and its roll of citizens bears no more honoured name. Sir Francis filled many other public positions. He was the senior member of the Newport borough Bench, and here, again, his long experiewe, added to • sound judgment, lent great weight to his opinion. Taking a deep interest in education, Sir Francis was a member of the first Newport School Board, and his connection with it was maintained up to the time of his death. He vas chairman of the Charity Trustees, and by his decease the old Grammar School of Newport, to the foundation of which one of his ancestors munificently contributed, loses one of its best and staunchest friends. He was also chairman of the Burial Board, chairman of the committee of the Art Class, senior trustee of the Blue School, and a member of the commit-I tee of the National Schools. In politics he was • thorough-going Conservative, and had been for many years recognised as one of the leaders of the party in the Isle of Wight. With him loyalty to the Throne and to the Constitution was a passion, and the p rayer for " the safety, honour, and welfare of our Sovereign and her dominion'," was with him not an utterance of the lips merely, but • fervent aspiration of the heart. Possessing a commanding voice, • manly presence, and marked power of utterance, he was years ago one of the most effective political speakers in the Isle of Wight, and he had always the courage of his convictions. Those convictions were strong, and so oociudonally were the words in which they were expressed—too strong sometimes for his oppo- I wets, but while the latter might differ from the views enunciated, they always respected the consistency of the speaker. And this consistency was undeviatingly characteristic of Sir Francis Pittis. What he believed to be right he inflexibly pursued, in shine or shade, and in this respect, as well as in his integrity of purpose, his rectitude of conduct, and his devotion to duty, he has left us of to-day and those who shall take our places in the days to come an example which we and they will do well to strive worthily to follow. As we have said, Sir Francis had reached the age of TT. His wife pre-deceased him in 1878. He leaves one son—Mr. Councillor Francis Pittis, J.P.,—and two daughters, one of whom, Miss Pittis, so gracefully performed the duties of Mayoress in the Jubilee year. The intelligence that Sir Francis had passed away bee generally known throughout the , town on Sunday afternoon, and regret and sympathy were everywhere expressed--regret at the loss of so honoured and eminently useful a citizen, and sympathy with the members of the bereaved family in their sorrow. At St. Thomas's church, on Sunday evening, the Rev. R. R. Percent, in closing his sermon, said since they met there that morning one had passed away full of faith and years, who deserved pre-eminently well of that place. From his work here we knew that he had been called into the safe-keeping of a lov. iog and most just Father. We knew, too, that for those who were in sorrow now there was the consolation that the Saviour could give, with the assurance that He is the resurrection and the life. And, he thought, that where there was any appreciation of devotion to duty, of consistent adherence to principle, and of inflexible integrity of life, the memory of him who had been taken from our midst that day would be retained and cherished. At the close of the sermon the hymn "0, let him whose morrow" was sung, and Mr. Scadding, presiding at the organ, played the " Dead March" in Sax!, the whole congregation standing. At the Mission Hall service the same evening, the Rev. hr. Burton, before the prayer for all sorts and condition of men, asked for the prayers of the Church on behalf of the family of the late Sir Francis Pittis, and at the commencement of hie sermon the Doctor said that only that morning they prayed for " Francis Pittis" in church, and they now prayed for those survivors who so sorely needed their sympathy. He believed that the whole of Newport sympathised with them that one and all were as men "mourning when their leaders fall." Sir Francis had been a great man in that town. He had been eight times Mayor, and was foremost in every good work, notably that of the building of the parish church. He was the last of those whose names were engraved upon the foundation stone —great names placed there in no spirit of selfish arrogance, but simply as setting forth the true history of how nobly they had striven and would strive majorem Del gloriant. That was neither the time nor the place to attempt to sum up all that Sir Francis Pittis had done for Newport. It would be sufficient to say that his record was a clean and noble one. He had left a stimulus and a bright example to the youth of that town, and withal a very encouraging example, showing how • strict adherence to truth and duty would bring • man to eminence during his life time, with " peace at the last," when that well-spent life was over. The lesson seemed to be summed up in those grand words of the Poet Laureate" Not once or twice to our fair 161A1.1 'dory, The path of duty was the way to glory ; He, that ever following her commando., oon with toil of heart and knees .usl hands, Through the long gorge to the far light has won Hilo path upward, and low:sailed, Shall find the toppling crags of Duty scaled Are close upon the shining tablelands To which our (led Himself is moon and sun." —The St. Thomas's Men's Bible Class, and also I the Women's Bible Class, have sent letters of sympathy, signed by the members, to the family of the late Sir Francis. At the Wesleyan Chapel on Sunday evening, the Rev. George Wood, the officiating minister, prayed that the members of the family might receive consolation in the hour of their bereavement. He also prayed that the town might take to heart the lesson of the event of that day—that however life may be filled with the business of this world, however distinguished h in station, however influential upon others, and however protracted in its duration, the end must come and that one event happeneth to all. The Rev. W. B. Lark, at the Bible Christian Chapel 1 the same evening, in the course of an address to young men on " Manliness," referred to the death of Sir Francis Pittis, whom he held up as an example of unswerving integrity and of faithful and unshaken adherence to the principles which in his heart he believed to be right. In the prayer which followed Mr. Lark commended the bereaved to the Comforter, whose divine solace in such times of sorrow was the only effectual consolation. 
+
+
+---
 
 ## Further Reading
 

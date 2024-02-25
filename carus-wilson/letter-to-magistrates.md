@@ -1,6 +1,6 @@
 # A Letter to the Town Magistrates
 
-By October, 1855, a combined delegation "consisting of the clergymen of St. Thomas' Church, the ministers of the different dissenting congregations and others" felt the need to raise their concerns about the public exhibition of disorderly behaviour to the local Magistrates.
+The builiding of new St Thomas Church, which was well underway, perhaps triggered a renewed sense of both moral mission and civic pride. In October, 1855, a combined delegation "consisting of the clergymen of St. Thomas' Church, the ministers of the different dissenting congregations and others" felt the need to raise their concerns about the public exhibition of disorderly behaviour to the local Magistrates.
 
 In particular, they questioned whether more might be done to regulate disorderly groups gathering on the major public thoroughfares and "frequently conducting themselves in a manner most offensive to virtue" and a closer eye kept on lodging rooms, public houses, and beershops "where attractions are held out to make them the rendezvous of persons whose antecedents create a suspicion that they will prove nurseries of vice".
 

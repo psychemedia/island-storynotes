@@ -1,47 +1,27 @@
 # Tempter and Tempted
 
-Carus Wilson was
+In the early summer of 1855, the [Saturday 30 June, 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/030/0004), edition of the *Isle of Wight Observer* records in its *Fashionable List* that the Rev. Carus Wilson, and his wife, Mrs Wilson, were in reseidence at Pulpit Rock Villa, Ventnor, Isle of Wight, then moving to St. Boniface House, Ventnor by [Saturday 11 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550811/022/0004).
 
+Carus Wilson was a retired evangelical Christian, founder in 1823 of the Clergy Daughters' School, Cowan Bridge, on the Lancashire side of the Lancashire, Cumbria and West Riding of Yorkshire border, and  *The Children's Friend* magazine, launched in 1824, and author of [Child's First Tales, Chiefly in Words of One Syllable, for the use of Infant Schools and Little Children in General (2 volumes?)](https://archive.org/details/McGillLibrary-rbsc_child-first-tales_61610677-21770/page/n3/mode/2up).
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/030/0004
+Presumably as a result of a perceived lack of response to the memorial to the Newport magistrates, Carus Wilson published a tract early in 1856 that appears to have been even more outspoken in its condemnation of the vices of Newport and perhaps the threat they posed to the morals of the young men stationed in Parkhurst Barracks.
 
-Isle of Wight Observer - Saturday 30 June 1855
+The pamphlet was entitled *Tempters and Tempted*, published by Thomas Butler, Bookseller, also of Ventnor, and seems to have been freely distributed, at first, around Newport.
 
-THE FASHIONABLE LIST
+*I have yet to track down a copy of this work.*
 
-VENTNOR
+It's contents were explosive, and provoked the Mayor of Newport, John Henry Hearn,, Esq., to speak out about it, at a council meeting of Tuesday, February 4th, 1856.
 
-Pulpit Rock villa,
-
-Rev Carus Wilson  
-Mrs Wilson
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550811/022/0004
-Isle of Wight Observer - Saturday 11 August 1855
-
-THE FASHIONABLE LIST
-
-VENTNOR
-
-St. Boniface House,
-
-Rev Carus Wilson  
-Mrs Wilson
-
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560209/015/0005
-Isle of Wight Mercury - Saturday 09 February 1856
+```{admonition} Report in *Isle of Wight Mercury*, Saturday 09 February 1856
+:class: dropdown
+[Isle of Wight Mercury - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560209/015/0005)
 
 The Mayor rose, and said, that he should not be doing justice to his own feelings or to the town if he did not bring before the Council the grows insult which had been cast on them by the address, the Tempter and Tempted, written, it was said, by a gentleman lately come to reside there, the Rev. Carus Wilson, and it was with no ordinary feelings of indignation that he found the beastly tract had been taken to his house, and was in the hands of his family and female domestics; could any honest man, could any father of a family avoid feeling grieved that such gross accounts of vice should be brought to defile the minds of young persons? He was more astonished and indignant to find that copies had been delivered to the children at the Sunday schools, and the National schools. He hoped the British schools had escaped the pollution. He considered these females who distributed such a work and placed them in the hands of children a disgrace to their sex. He regretted that these meddling troublesome fellows who were interfering where they had no connection with the town, and he should have thought that Mr. Smith might have found other ditties for which he was paid by the Treasury, rather than interfering with the town of Newport. He felt it his duty to deny most clearly, and to protest most strongly against the falsehoods and calumnies which had been circulated respecting the Borough of Newport. He asserted firmly, and would prove his assertion that there were few more moral towns than Newport and no garrison town where there was so little debauchment. He could prove by official returns which he had obtained, that the health of the soldiers their general morality, while at Parkhurst, were much above the average. He could not have allowed the Council to have separated without throwing off the foul imputation, and pressing from his heart the indignation he felt at the insult that had been put on them, and the town.—Mr. W. B. Mew concurred in the sentiments and feelings expressed by the Mayor, and denounced the exaggerated statements about the town, which haul been put forth.—Mr. Robert Pinnock congratulated the Council on the course taken by the Mayor, to revel the calumnies which had been indulged in thousands of the books, had been circulated, and unless contradicted, might cling to the town. He asked the Mayor whether he would take it up as the organ of the Council, & repudiate the calumnious attack on the town. Its origin could be traced to a new movement that had been organized in the memorial addressed to the Magistrates, and to a newspaper paragraph. He considered that the sooner such proceedings were discouraged the better.—Mr. Pring said the memorial had been handed to the Watch Committee, of which he was one, and after the strictest investigation, they came to an unanimous vote, that there was no cause to interfere with tie general arrangements. He had lately been in most of the towns in the kingdom where the military were near, and he said with confidence, that Newport for order, quietness and morality, surpassed all the others. Some persons were over nice, and he thought the Town Clerk might as will stay at home, as to go about interfering with others.—Mr. Eldridge (Town Clerk), said he was one of those who agreed with the memorial; he thought it was quite right, and no censure ought to be cast on those who were parties to it. The attention of the Magistrates was called to facts which were patent to all Gentlemen, and if those present had seen the report of the Town Missionary, which Dr. Wavell and himself had presented to them weekly, they would know the amount of vice which prevailed.—The Mayor said they had no right to sit in judgment upon others, they had no authority to judge and collect accusations against their neighbours. If this was the occupation of a Town Missionary, the sooner he was removed the better.—Mr. Eldridge said he knew that he had lifted up many who had been cast down, and he could tell of those in higher places, whose conduct would not bear investigation.—Mr. Pinnock said that the missionary was engaged to raise up the frail, but the course pursued by him and his employers, had turned out a curse to the town.—Mr. Wilkins and Mr. Morgan expressed similar feelings with the other members of the Council.—Mr. W. B. Mew wished to know by what authority these men had set up this court of inquisition; he felt indignant at their presumption. There was a newspaper once circulated in the town, called Paul Pry, which was very objectionable, and caused unpleasantness in many families but this was much worse, as the scandal was handed from one to the other, without the knowledge of the person whose reputation was attacked. If this Paul Pry defended by Mr. Eldridge, went into these abodes of sin and temptation, he ought to be exceedingly good; as pitch could not be handled without defilement. The exposure that day should induce the Town Clerk to cut such acquaintance, and he could not help feeling disgusted that men should be found, who could listen to the reports, full of scandals and libels on their neighbours.—The Mayor said he was afraid there was a great deal too much of spying and prying going on. After a long conversation, it was determined that it should be left to the Mayor either to write in his own name to the Rev. Carus Wilson or in that of the Council contradicting his statements, as embodied in the address "Tempters and Tempted." Since the meeting of the Town Council and the exposure of the system of espionage which has been carried on in Newport, principally by the means of the town missionary, Mr. Tucker, several subscribers have determined to have their names struck as they never contemplated that they were paying their money to gratify the curiosity of individuals, or to rake up scandal against their neighbours.
+```
 
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004
-Hampshire Telegraph - Saturday 09 February 1856
+```{admontition} Reported in *Hampshire Telegraph*, Saturday 09 February 1856
+:class: dropdown
+[Hampshire Telegraph - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004)
 
 MEETING OF THE NEWPORT TOWN COUNCIL.
 
