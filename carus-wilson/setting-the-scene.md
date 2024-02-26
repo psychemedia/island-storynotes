@@ -4,6 +4,24 @@ It's the mid-1850s, and Britain is one of the allied forces sending off her youn
 
 For the young soldiers, many of them in their late teens or early twenties, entertainment is to be found in the public houses of Newport, and the arms of the women who ply their trade there.
 
+```{note}
+
+A topographical map of the isle of Wight, John Andrews, fragment, [[via](https://gallica.bnf.fr/ark:/12148/btv1b53010266f/f1.zoom.r=.langEN)]
+
+![A topographical map of the isle of Wight, John Andrews, fragment, via https://gallica.bnf.fr/ark:/12148/btv1b53010266f/f1.zoom.r=.langEN](images/newport-andrews-1759.pngnewport-topog-andrews.png)
+
+```
+
+```{note}
+A Plan of the Town of Newport, Andrews 1759, [[via](https://www.nostalgicpicturelibrary.com/wp-content/uploads/2019/12/0198-scaled.jpg)]
+
+![A Plan of the Town of Newport, Andrews 1759, via https://www.nostalgicpicturelibrary.com/wp-content/uploads/2019/12/0198-scaled.jpg](images/newport-andrews-1759.png)
+```
+
+```{seealso}
+[Interactive map, Ordnance Survey](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=50.69959&lon=-1.29219&layers=117746211&b=1), (includes many pub names); surveyed 1862, published 1865.
+```
+
 In November 1852, council members unanimously elected Francis Pittis, a well-regarded local auctioneer and valuer, as well as Conservative councillor, Mayor for the first time, the term of appointment being one year.
 
 ```{admonition} General meeting of the council
@@ -662,8 +680,9 @@ Considerable drafts have left Parkhurst barracks within a short time for the sea
 
 ```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004
-Hampshire Telegraph - Saturday 09 February 1856
+```{admonition} A footpath to the Barracks and Prison
+:class: dropdown
+[Hampshire Telegraph - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004)
 
 MEETING OF THE NEWPORT TOWN COUNCIL.
 
@@ -676,3 +695,5 @@ It was proposed by Mr. Pinnock that the foot pavement leading towards Parkhurst 
 Mr. B. W. Mew hoped to see a foot-path lighted from the town to the Prison.
 
 A committee were then appointed to report on the subject.
+
+```
