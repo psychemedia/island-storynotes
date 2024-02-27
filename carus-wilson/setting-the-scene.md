@@ -574,6 +574,22 @@ https://archive.org/details/acollectionpubl19britgoog/page/n556/mode/2up
 See: Parkhurst Prison Act, 1838,1 & 2 Vict., ch. 82
 
 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530917/007/0002
+Isle of Wight Observer - Saturday 17 September 1853
+
+HURRAH FOR THE WELSH FUSILIERS !
+
+On Tuesday last the officers of the 23rd Royal Welsh Fusiliers gave a grand entertainment at the Queen's Rooms, Newport, which was brilliantly attended. The rooms were decorated with consummate taste, and presented a very gay and elegant tromp d'oeil. On the walls were pourtrayed animals of various kinds, around which gracefully depended festoons and bouquets; and from the side windows, avenues filled with choice exotic and native plants branched off, presenting charming perspective. Rarely, indeed, have we witnessed a more delightful reunion. Dancing commenced at ten o'clock to the music of the excellent Ryde Quadrille band, and alternately with that of the regiment, under the able superintendence of Mr. Handley. Quadrille, polka, valse, and galop followed each other rapid succession, and were kept till an advanced hour in the morning, giving ample occupation to the votaries of Terpsichore; the gay uniforms of the officers contrasting with the sober dress of the civilian, and intermingling with the beautiful costumes of "thefairest of the fair, presented scene charming in the extreme. At 12, the supper room, magnificently adorned with a profusion of plate and vases of flowers, and provided with the most luxuriant viands in the greatest profusion for the assembled guests, which reflected much credit upon the caterer, Mr. Jelly, the messman of the regiment, was thrown open.
+
+The ball was most appropriately wound up with that Old English dance " Sir Roger de Coverley," with a rapid galop as *finale*.
+
+The cordial *empressement* and affable hospitality of the gallant Fusiliers won all hearts, rendering every one who had the good fortune to be present happy and delighted. The most cynical could not refuse their full meed of approbation to their successful exertions in diffusing pleasure and amusement throughout the evening. For many years a more brilliant gathering has not been seen in Newport, and we most sincerely congratulate the Royal " Goats" on their signal success.
+
+... [A list of the notable persons who attended is prodvided.]
+
 ---
 
 As a garrison town, soldiers from a wide variety of regiments were stationed at Parkhurst Barracks, often *en route* to the Crimea via troop ships sailing out of Portsmouth. The muster appears to have reached about 1,300 officers and men at any one time, many of them young men in their teens or early twenties.
@@ -671,13 +687,20 @@ Visitors continue to arrive daily in considerable numbers in the Isle of Wight, 
 Large drafts of men and a considerable number of officers have lately left Parkhurst Barracks for the Crimea, who have been replaced by fresh arrivals, so that the Barracks are quite full at the present time. The Isle of Wight Militia Artillery, upwards of 100 strong, were under orders to be billetted at Ryde, so as to make room for the 48th Regiment in Newport, but the order was afterwards countermanded.
 ```
 
-```{admonition}
+```{admonition} Considerable drafts have left Parkhurst barracks
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18551103/011/0004
 Hampshire Telegraph - Saturday 03 November 1855
 
 Considerable drafts have left Parkhurst barracks within a short time for the seat of war.
 
+```
+
+```{admonition} 15th, 30th, 55th arrivals, Hampshire Advertiser - Saturday 06 June 1857
+:class: dropdown
+[Hampshire Advertiser - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570606/040/0007)
+
+Our Garrison.— About 350 men of the 15th, 30th, and 55th Regiments, came into Barracks, from off station in the Mediterranean, on Thursday. We have now 1100 men in Garrison.
 ```
 
 ```{admonition} A footpath to the Barracks and Prison
