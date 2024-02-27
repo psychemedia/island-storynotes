@@ -433,7 +433,19 @@ We cannot close our report without making mention of the scurvy treatment got at
 
 ## Concern
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002
+Isle of Wight Observer - Saturday 11 February 1854
+
+NEWPORT PETTY SESSIONS. Saturday.—(Before the Honble. W. aCourt Holmes and Sir H. P. Gordon, Bart.)
+
+James Nobbs and Edward Woodford were charged with burglary.
+
+...
+
+Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport.  On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner ? He had some, and gave me a sovereign to pay for it, and I gave him the change. ...
+
 ---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18551006/013/0003
 Isle of Wight Observer - Saturday 06 October 1855
 
@@ -751,6 +763,12 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560517/031/0004
 Isle of Wight Mercury - Saturday 17 May 1856
 
 On Sunday last, May 11th, two Sermons were preached at St. John's Newport, by the Rev. Carus Wilson, to large congregations, and collections made to assist the Sunday schools in connexion with that Church, in which 300 children are taught. The sermons were much admired, and collections of above £18 were made after the services.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560524/012/0004
+Hampshire Telegraph - Saturday 24 May 1856
+
+At the Borough Police Court, on Thursday, before Dr. Wavell (Chairman), and Edward Way, Esq.,— John Dalemere, ayoung nman, was convicted of having been drunk and breaking some crockery ware  in the house of Mr. Beel, Cosham-street, and fined 5s,, damage 1s.10 1/2 d., and costs  5s., which he immediately discharged.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18560126/104/0005
@@ -1435,6 +1453,16 @@ Ann Carr was charged by P.C. Hobbs with being drunk and making use of obscene la
 Fined 5s. and 7s. 6d. costs, and in default of payment in a week, to committed for 14 days' hard labour.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550630/030/0007
+Hampshire Advertiser - Saturday 30 June 1855
+
+BOROUGH COURT. MoNDAY.-Magistrates present : E. Way, R. M. Wavell. and F. Pittis, esqrs.
+
+... William Hinds was charged with being unlawfully in the house of Joseph Guttridge, of Cosham-street. He said he felt something pressing on his chest, which awoke him in a fright, and he saw a man by his bed-side. He shouted " Holoa," and the stranger muttered something, but he could not tell what. He jumped out of bed, and rushed down stairs, intending to get a light, when he ran out and brought in a policeman, who found the man still in his bed-room. He appeared to be somewhat intoxicated. Complainant's door was not locked.
+
+Police-constable William Lockhart deposed to complainant's running up to him with only his shirt on, and could hardly speak for fright. He said a man had got into his house. Witness went with him, when he found the defendant lying on the floor. He refused to go out, and witness pulled him out, when he began violently kicking. He was a militia man, and had taken his cap, coat, and belt off, and also placed a chair and table before the front door. In defence, the defendant said, " I had no intention of going to the house to do any harm. I had some drink, and did not know what I did."— He was fined 10s, and 5s costs.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550728/007/0003
 Isle of Wight Observer - Saturday 28 July 1855
 
@@ -1814,7 +1842,7 @@ Isle of Wight Mercury - Saturday 21 March 1857
 
 BOROUGH PETTY SESSIONS. [Monday.— Before R. M. Wavell, and E. Scott, Esqrs.]
 
-Felony.— Sarah Duffy, a woman of low character and depraved habits, was charged with stealing a piece of pork, of the value of two shillings and five pence, the property of William Lane, a labouring man residing at Arreton. It appears that the silly fellow had been drinking with the prisoner the "Tontine Tap" till midnight on Saturday last, and had with him a basket provisions for home, including a choice bit of pork for Sunday's dinner. When the tap was closed and they could get no more beer, he went with the fascinating Mistress Duffy—whose blandishments and charms he could not resist—to her house up the Tontine yard, and she had not much difficulty in persuading him to go back and try to get a pint of beer, and whilst he was gone she opened the lid of his basket, looked at the pork, approved both quantity and quality, and so took it to herself. When the unsuspecting William returned, both she and the pork were gone. He shouted at the foot of the stairs, but nobody answered, and so he went and informed the police; and the next day, P.C. Stubbs, in presence of Superintendent Stubbs, found the identical piece of pork concealed in her bed. Committed to one month's hard labour.
+Felony.— Sarah Duffy, a woman of low character and depraved habits, was charged with stealing a piece of pork, of the value of two shillings and five pence, the property of William Lane, a labouring man residing at Arreton. It appears that the silly fellow had been drinking with the prisoner the "Tontine Tap" till midnight on Saturday last, and had with him a basket provisions for home, including a choice bit of pork for Sunday's dinner. When the tap was closed and they could get no more beer, he went with the fascinating Mistress Duffy — whose blandishments and charms he could not resist — to her house up the Tontine yard, and she had not much difficulty in persuading him to go back and try to get a pint of beer, and whilst he was gone she opened the lid of his basket, looked at the pork, approved both quantity and quality, and so took it to herself. When the unsuspecting William returned, both she and the pork were gone. He shouted at the foot of the stairs, but nobody answered, and so he went and informed the police; and the next day, P.C. Stubbs, in presence of Superintendent Stubbs, found the identical piece of pork concealed in her bed. Committed to one month's hard labour.
 
 
 ---
@@ -1823,6 +1851,21 @@ Hampshire Telegraph - Saturday 21 March 1857
 
 At the Borough Court, on Monday, before R. H. Wavell, J. Hearn, and E. Way, Esqrs, Wm. Lane, a countryman, charged Sarah Duffy, residing in Tontine Yard, with stealing his Sunday's dinner. It appeared that after he had been drinking with the prisoner for some hours at the Tontine tap, he accompanied her home, where his basket was speedily eased of its contents of bread and pork, whilst he was gone after more beer. Prisoner pleaded guilty— 28 days to hard labour.
 
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18570606/040/0007
+Hampshire Advertiser - Saturday 06 June 1857
+
+ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT. Monday— Magistrates present : W. B. Mew, esq. Mayor, and E. Way, esq.
+
+The Half-crown Trick.— A juggler, who gave his name as James Rowan, was charged by Mr. Andrew Attrill with filching him of a half-crown. It appeared that the defendant was in tbe Trooper public-house, conjuring, and borrowed half a-crown of the plaintiff, with which to perform some tricks. He gave him back what he conceived to be the identical half-crown, which he put into his fob, where were three other half-crowns and smaller silver. Soon after, during his performances, he accused tbe plaintiff of having a halfpenny of his in his waistcoat pocket, which the unsuspecting Mr. Attrill denied. He was, however, persuaded to look, and, lo! there was the very halfpenny ! This was considered by the company to be such an admirable trick, that they gathered a few more "browns" for the man, and he walked off. Sometime after, the plaintiff discovered his loss The prisoner was committed for seven days' hard labour, as a rogue and vagabond.
+
+A Juvenile Thief.— A girl, 10 years of age, named Georgina Ann Parsons, was charged with stealing a mantle from the pawnbroker's shop of Mr. Wells, in Cosham-street. and after-wards pawning it at Mr. Whitcomb's. Mr. Wells caught her in the shop, but did not suspect anything at the time. He afterwards missed the mantle, and informed Mr. Inspector Grapes, who found it pawned in her name at Mr. Whitcomb's. Sbe was committed to Winchester for a month.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570704/019/0006
+Hampshire Telegraph - Saturday 04 July 1857
+
+At the Borough Court on Monday, before the Mayor and Borough Magistrates, ... Emma Duffey, a common prostitute, charged with using indecent language in the public streets, was committed for one month.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007
@@ -1833,10 +1876,20 @@ BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and 
 Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and turning her out of his house. He is the keeper of the notorious beer-shop Prince Albert, in Deadman's-lane and it appeared that his wife started off with another man about five months ago, and had lately returned, and wanted again to "walk into the defendant's affections," which he reciprocated, on her returning to his house, by giving her a black eye, and kicking her into the street. The case was dismissed.
 
 ---
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570704/019/0006
-Hampshire Telegraph - Saturday 04 July 1857
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570725/042/0003
+Isle of Wight Mercury - Saturday 25 July 1857
 
-At the Borough Court on Monday, before the Mayor and Borough Magistrates, ... Emma Duffey, a common prostitute, charged with using indecent language in the public streets, was committed for one month.
+Tuesday, July 21. Before the Worshipful the Mayor.
+
+Eliza West and Jane Linnard, charged with creating a disturbance, and using abusive language, the public streets, were committed to the House of Correction for fourteen days.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18570815/011/0006
+Hampshire Telegraph - Saturday 15 August 1857
+
+The Borouqh Petty Sessions
+
+On Tuesday, before the Mayor and R. M. Wavell, Esq.,— Susan Bartholomew, the wife of a sergeant, charged with assaulting Maria Howes, the landlady of the Tontine, was fined 10s.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570905/048/0003
@@ -1847,6 +1900,12 @@ BOROUGH PETTY SESSIONS. Monday, August 31. Before Robt. M. Wavell, Esq. (in the 
 A LIVELY NYMPH.
 
 Sarah Coster, a common prostitute, was placed at the bar for being drunk and creating a disturbance in the street on Saturday night last. Police-constable Lockhart having proved the fact defendant was committed to Winchester for one month.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18580116/125/0008
+Hampshire Independent - Saturday 16 January 1858
+
+A SHOCKING ACCIDENT in Cosham-street Sunday evening, to an aged woman named Cotton, the wife of a pork butcher, who, whilst attending to her sick husband, her dress caught fire, and she was speedily enveloped in flames, and in her fright and agony she ran down the stairs into a back yard, when the neighbours managed to extinguish the blazing apparel, but not before the poor woman had been frightfully burnt about the neck and shoulder, so that great fears are entertained of her ultimate recovery.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/031/0004
@@ -1871,6 +1930,16 @@ Police-constable, W. H. Stubbs, sworn— I was sent for about 1 last Thursday mo
 Defence— I saw the girls crying, and asked them what they had been saying about me. I put one outside the door. I did not strike the complainant or either of the girls, Rosa Cribb gave complainant the black eye.
 
 Convicted in the penalty 10s., and 5s. costs, or committed to the House of Correction for 21 days. The money was paid.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580508/023/0007
+Hampshire Advertiser - Saturday 08 May 1858
+
+BOROUGH COURT. Monday.— Magistrates present : The Mayor, and R. M. Wavell and E Way, esqrs.
+
+John Cave, a yonng man of Barton's Village, was charged with being found by the police, lying on the pavement, dead. drunk, at four o'clock the previous Friday night, in Cosham-street. He managed a decent excuse, saying he went to have some beer wiih a young man he had not seen for years, and they closed up with a glass of rum each, a liquor he was quite unaccustomed to drink, and he was immediately overcome.
+
+The Magistrates dismissed him, with advice never to touch rum again.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580605/047/0007
@@ -1935,6 +2004,35 @@ Hampshire Telegraph - Saturday 19 March 1859
 Borough Court, Monday— Before the Mayor, R. M. Wavell and E. W;ty, Esqrs.
 
 John Chick, a German, was charged with keeping a disorderly house and encouraging prostitution therein. P.C. Stubbs proved that on Sunday morning, the 6th inst., he went to the defendant's beershop, in the High-street, about quarter-past one, when he found in the parlour three of the band of the Limerick Militia, a serjeant, and a civilian. In the passage he found another civilian, lying drunk on the floor with a common prostitute by his side. In one bed-room which the landlady unlocked he found two civilians and two prostitutes, in another bed-room one civilian and one prostitute, two civilians in another room, and another prostitute down stairs, most of whom were well supplied with beer. Defendant said he went to bed at eleven o'clock, and knew nothing about the matter. The Court said his conduct had been disgraceful, and they should fine him in the penalty of 3l. and costs, cautioning him that if he ever came there again he would not be let off so easily.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18590827/134/0007
+Hampshire Independent - Saturday 27 August 1859
+
+Early Depravity
+
+George James (15), was charged with a similar offence.
+
+P.C. Stubbs examined: On Thursday morning, about half-past one o'clock, I found the prisoner lying dead drunk and asleep in the road in Cosham-street. His mother (a fish woman), had sent him to Ventnor in the morning with shrimps for sale, and he was to bring her home 10s., but he had only half-a-crown left when I found him, having spent the rest with the girls. 
+
+The Mayor was sorry to see a youth taking to such a disgraceful course of conduct at his early time of life, but for his mother's sake, he would discharge him this time, if he would take care not to come there again.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18590827/083/0012
+Hampshire Advertiser - Saturday 27 August 1859
+
+BOROUGH COURT. Monday.— Magistrates present: The Mayor (E. Way, Esq.), Dr. Wavell, and Mr. E. Way, of Lugley street.
+
+A Promising Lad.— The police charged a boy named George James, 15 years of age, with being drunk and asleep on the highway. Policeman Stubbs said on Thursday morning at about half-past 1 he was in Cosham-street, and saw the defendant lying in the road asleep. He roused him and found him very drunk. Defendant told him he had no place to go to. He resides with his mother in Newport. Defendant had nothing to say to extenuate his conduct. The bench, however admonished and discharged him.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18591224/014/0006
+Hampshire Telegraph - Saturday 24 December 1859
+
+Borough Court, Monday.— Before the Mayor, R. M. Wavell, and E. Way, Esqrs.—
+
+John Chich, an itinerant German organ player, and keeper of a notorious brothel near Coppin's Bridge, called the Britannia, and whose case had been remanded from time to time in consequence of his refusal to appear, was now placed in the box, charged with suffering prostitution on his premises, and the evidence given on former occasions having been read over the defendant's wife produced witnesses in contradiction thereof, but it appearing that they knew but little or nothing of the affair, the Court adjudged the defendant guilty of the offence, fined him 20l. and costs, and in the event of it not being paid ordered distraint to be levied on his goods and chattels, which if not of sufficient value to cover the demand his sureties would be proceeded against. As this was the defendant's third offence, having been fined on the first offence 3l. and costs, and on the second 5l. and costs, within a few months, they farther adjudged him to be unfit to hold another license for two years.—John Dove, the landlord of the White Horse Inn, in Nodehill, charged with keeping his house open at the hour of half past one on Sunday night was fined 30s., and 5s. costs. —Edward Howes, the landlord of the Tontine, in Cosham-street, charged with keeping his house open for the sale of beer at one o'clock on Snnday morning last, was fined 20s. and costs.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18600929/013/0004
