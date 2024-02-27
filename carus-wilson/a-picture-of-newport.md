@@ -6,9 +6,6 @@ So what was life actually like in Newport at the time?
 
 If you go by the reports of the Borough Sessions, it seems to have been quite a lively place!
 
-
-from the news etc
-
 ## Open all hours
 
 The area in Cosham Street (now South Street), was well established as one of the rather less than salubrious areas of Newport.
@@ -17,10 +14,9 @@ One frequently mentioned location in the local court reports appears to have bee
 
 *Interestingly, "Tontine" is not mentioned on maps of the time.*
 
+At the annual licensing day in 1851, the Tontine Tap, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution, as was the Old King's Arms on Pyle Street, although the licensee of that establishment objected to the charge.
 
-At the annual licensing day in 1851, the Tontine Tap, and the Valient Soldier, both on Cosham-street, were noted with disapproval by the magistrates for being hosts to prostition, as was the Old King's Arms on Pyle Street, although the licensee of that establishment objected to the charge.
-
-```{admonition} "Tontine Tap" and "Valient Soldier" called out, Licensing Day, 1854
+```{admonition} "Tontine Tap" and "Valiant Soldier" called out, Licensing Day, 1854
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 30 August 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510830/037/0005)
@@ -45,8 +41,7 @@ The Mayor, in granting the licenses of the Valient Soldier, and Tontine Tap, gav
 
 ```
 
-
-licensing day, 1854
+At the licensing day of 1854, another establishment, the landlord of the "Race Horse", was also cuationed for similar reasons.
 
 ```{admonition} TO DO
 :class: dropdown
@@ -63,21 +58,23 @@ No license was taken away from any publican, though the landlord of the "Race Ho
 
 ```
 
+The licensing day sessions also provided an opportunity for the magistrates to communicate any updates in licensing conditions. In 1855, this included the announcement that house could be kept "open on Sundays now from 12 1/2 till 3 and from 5 till 11".
+
 ```{admonition} TO DO
 :class: dropdown
 Isle of Wight Observer - Saturday 01 September 1855
 
 Monday.—Before C. W. Estcourt, esq., mayor, R. M. Wavell, esq., and F. Pittis, esq., magistrates.
 
-This being the annual licensing day for the Borough the Court was pretty full of innkeepers, but nothing particular transpired, except that the Mayor Informed them, that according to the New Act they cduld keep theft hocses open on Sundays now from 12 1/2 till 3 and from 5 till 11. 
+This being the annual licensing day for the Borough the Court was pretty full of innkeepers, but nothing particular transpired, except that the Mayor Informed them, that according to the New Act they could keep theft houses open on Sundays now from 12 1/2 till 3 and from 5 till 11. 
 
 ```
 
-```{admonition} TO DO
-:class: dropdown
+Another frequently mentioned establishment, most notably for the landlord's rather cavalier attitude to keeping to the licensed opening hours, was the Crab and Lobster on Deadman's Lane, now known as Trafalgar Road, that goes out of Newport from Nodehill to connect with Carisbrooke Road.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541007/026/0007
-Hampshire Advertiser - Saturday 07 October 1854
+```{admonition} "Somebody in de house"", October. 1854
+:class: dropdown
+[Hampshire Advertiser - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541007/026/0007)
 
 Isle of Wight Petty Sessions
 
@@ -99,7 +96,7 @@ Fined 20s and 5s costs, or fourteen days' imprisonment.
 
 ```
 
-```{admonition} TO DO
+```{admonition} Open at 10pm on a Sunday night, October 1854
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
@@ -114,11 +111,11 @@ In defence, Anderson said no beer had been drawn since ten minutes before 10 o'c
 
 ```
 
-
-```{admonition} TO DO
+```{admonition} Knock-knock, who's there? No-one. Ocotober, 1854
 :class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002
-Isle of Wight Observer - Saturday 07 October 1854
+
+[Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
+
 Joseph Anderson, of the Crab and Lobster publichouse, was charged with keeping his house open for the sale of beer after 10 o'clock on Sunday night, the 24th ult.
 
 P.C. Lockhart said—I went to the defendant's house in company with P.C. Cave at twenty minutes to 11 on the night in question and heard persons in the house. I stopped at the front door and Cave went to the back door. Cave knocked at the back door and some one asked who it was, and he said, the police. The person did not open the door but went back again into the house. I heard a scuffle in the house afterwards. I rapped several times at the front door, and I heard the defendant say to a boy inside, Why don't you open the door or go and see who it is. A female made reply and said, you know who it is, it is the police. The defendant then came to the door and asked who it was. I told him, the police. He opened the door, and I asked him who he had in his house. He said, no one. I told him he had for I heard them. He again said he had no one; he would not do anything against the law if he knew it, for ever so. I went to the back door and let Cave in. We searched the house and found two men in a cupboard in the back room, two in the coal hole and in the yard, one the water closet. There were cups on the sideboard that had been used for beer, and there was a quart cup and a glass half-full of beer in the other room. I told him I must report him. He said he hoped I should not.
@@ -127,7 +124,7 @@ In defence, Anderson said no beer had been drawn since ten minutes before 10 o'c
 
 ```
 
-March next year, back again..
+In the March of the next year, Joseph Anderson, landlord of the Crab and Lobster was back before the bench again.
 
 
 ```{admonition} TO DO
@@ -170,12 +167,9 @@ The defendant was fined £2, and 5s. costs, and in default of payment committed 
 
 ```
 
-And in May
+A coupole of months later, in May, he was back again for a third time, at least, after a rather large party seems to have been interrupted.
 
-
-Next May, back again...
-
-```{admonition} TO DO
+```{admonition} Sale of beer, at hours not allowed,  May 1855
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003
 Isle of Wight Observer - Saturday 26 May 1855
@@ -191,9 +185,7 @@ Joseph Anderson was charged with keeping his house (the Crab and Lobster beer sh
 
 ```
 
-
-
-```{admonition} TO DO
+```{admonition} Soldiers and prostitutes, May 1855
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550526/044/0006
 Hampshire Advertiser - Saturday 26 May 1855
@@ -212,11 +204,11 @@ Police constable Stubbs deposed that last Tuesday night, at half-past eleven, he
 
 Police-constable Cave proved the service of the summons. The man was not there, and his wife would not take it. She said her husband should not appear. He read the summons over, and put it down in the passage ; he then left. She ran after him, and told him he might light his pipe with it, &c., throwing the summons after him.
 
-Mr. Inspector Grapes recited several cases of previous conviction. He was called in Court, but no one answered, and the Mayor then adjudged the defendant to be fined £20, the license of the house to be cancelled, and himself to be disqualified for selling beer for two years. In default of payment of the fine, to be committed to Winchester Gaol for two months.
+Mr. Inspector Grapes recited several cases of previous convictions. He was called in Court, but no one answered, and the Mayor then adjudged the defendant to be fined £20, the license of the house to be cancelled, and himself to be disqualified for selling beer for two years. In default of payment of the fine, to be committed to Winchester Gaol for two months.
 
 ```
 
-```{admonition} TO DO
+```{admonition} Open after legal hours, May 1855
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550526/013/0004
 Hampshire Telegraph - Saturday 26 May 1855
@@ -231,11 +223,9 @@ Joseph Anderson, of the Crab and Lobster, beer-shop, was charged with keeping hi
 
 ```
 
+Another name that crops up a few of times is August Jager, the German keeper of the Prince Albert, also on Deadman's Lane.
 
-
-
-
-```{admonition} TO DO
+```{admonition} Lewd and disorderly conduct, August 1855
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18550804/054/0005
 Portsmouth Times and Naval Gazette - Saturday 04 August 1855
@@ -249,7 +239,7 @@ August Jager, keeper of the " Prince Albert," beer shop, was convicted of allowi
 ```
 
 
-```{admonition} TO DO
+```{admonition} For the purpose of prostitution, August 1855
 :class: dropdown
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550804/010/0003
@@ -270,6 +260,40 @@ Fined £5 and 7s. 6d. costs, and in default of payment in 7 days amount to be le
 
 ```
 
+From another report, we get the sense that running such a disorderly house was not necessarily a full-time occupation, as well as some hint of the character of Rosa Jager, August Jager's wife.
+
+```{admonition} A colourful argument? May, 1855
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550519/010/0003
+Isle of Wight Observer - Saturday 19 May 1855
+
+BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor ; E. Way, and W. M. Wavell, Esqrs.
+
+Joseph Rands, shoemaker, was summoned by Rosa Jager for using profane and obscene language to her.
+
+Mr. Beckingsale appeared for the defendant, and contended that the magistrates had no jurisdiction in the matter; for, even admitting that the language complained of had been used, it was in the defendant's own house, and neither the Act or the By-Law authorised them to interfere with any man for making use of such language in his own house.
+
+The magistrates did not agree with Mr. Beckingsale that his arguments applied to the present case, as it occurred in the front shop, which was a public place, and it was not a private quarrel in the family.
+
+The complainant then said—I am the wife of August Jager, a German. My husband works for Mr. Rands. Last Thursday week I took some work home to Mr. Rands' shop, and went in three times for the money. He said he had no change and could not pay me, and abused me. I told him my husband wanted the money.
+
+Cross-examined by Mr. Beckingsale—I work with my husband at the trade. We have been making slippers for Mr. Rands. He only paid 6d. for making a pair of slippers. [Mr. Rands : I give them 3s. a dozen more than they get in London.] He did complain to them about a pair being made bad, but how could he expect them made better for sixpence ? He did not say he would not pay me till I got him the last my husband had that belonged to him. He said he had no change.
+
+George Frederick Mills, a little boy, was then called by Mr. Beckingsale and stated that he was in the shop all three times when the complainant was there, and that Mr. Rands did not make use of any such language that mentioned the complainant. The case was then dismissed.
+
+```
+
+Eighteen months later, it seems that Rosa may have been somewhat less than faithful to her husband, who seems not to have been too welcoming when she attempted to go back to him.
+
+```{admonition} A black eye, and kicked out into the street, July 1857
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570718/022/0007
+Hampshire Advertiser - Saturday 18 July 1857
+
+BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and E. Way. esqrs.
+
+Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and turning her out of his house. He is the keeper of the notorious beer-shop Prince Albert, in Deadman's-lane and it appeared that his wife started off with another man about five months ago, and had lately returned, and wanted again to "walk into the defendant's affections," which he reciprocated, on her returning to his house, by giving her a black eye, and kicking her into the street. The case was dismissed.
+```
 
 ## Drunk and/or disorderly
 
@@ -448,26 +472,6 @@ Ann Jones was fined 5s. and 5s. costs for being drunk and creating a disturbance
 
 ```
 
-```{admonition} TO DO
-:class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550519/010/0003
-Isle of Wight Observer - Saturday 19 May 1855
-
-BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor ; E. Way, and W. M. Wavell, Esqrs.
-
-Joseph Rands, shoemaker, was summoned by Rosa Jager for using profane and obscene language to her.
-
-Mr. Beckingsale appeared for the defendant, and contended that the magistrates had no jurisdiction in the matter; for, even admitting that the language complained of had been used, it was in the defendant's own house, and neither the Act or the By-Law authorised them to interfere with any man for making use of such language in his own house.
-
-The magistrates did not agree with Mr. Beckingsale that his arguments applied to the present ease, as it occurred in the front shop, which was a public place, and it was not a private quarrel in the family.
-
-The complainant then said—I am the wife of August Jager, a German. Mv husband works for Mr. Rands. Last Thursday week I took some work home to Mr. Rands' shop, and went in three times for the money, He said he had no change and could not pay me, and abused me. I told him my husband wanted the money.
-
-Cross-examined by Mr. Beckingsale—I work with my husband at the trade. We have been making slippers for Mr. Rands. He only paid 6d. for making a pair of slippers. [Mr. Rands : I give them 3s. a dozen more than they get in London.] He did complain to them bout a pair being made bad, but how could he expect them made better for sixpence ? He did not say he would not pay me till I got him the last my husband had that belonged to him. He said he had no change.
-
-George Frederick Mills, a little boy, was then called by Mr. Beckingsale and stated that he was in the shop all three times when the complainant was there, and that Mr. Rands did not make use of any such language that mentioned the complainant. The case was then dismissed.
-
-```
 
 ```{admonition} TO DO
 :class: dropdown
@@ -858,7 +862,7 @@ Isle of Wight Observer - Saturday 27 August 1853
 
 BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor; C. W. Estcourt, E. Way, Esq., and R. M. Wavell, Esq., magistrates.)
 
-Henry Lewis, an elderly man, was charged with stealing apples. P.C. Cave said, in consequence of information he received he went into Coshani street on Saturday night, about half-past twelve, where he saw the prisoner, and on feeling his pockets found they contained the apples produced. He charged him with stealing them, when he said he had purchased them of a country person about five o'clock, but did not know whom. The mayor said the magistrates had very little doubt but that the prisoner had stolen the apples, it was very improbable, if he had purchased them as he said, that he would have carried them (being nearly a gallon) about in his pockets for seven hours and half; that P.C. Ward acted quite right in bringing him here, but as evidence was wanting for conviction he (the prisoner) would be discharged.
+Henry Lewis, an elderly man, was charged with stealing apples. P.C. Cave said, in consequence of information he received he went into Cosham street on Saturday night, about half-past twelve, where he saw the prisoner, and on feeling his pockets found they contained the apples produced. He charged him with stealing them, when he said he had purchased them of a country person about five o'clock, but did not know whom. The mayor said the magistrates had very little doubt but that the prisoner had stolen the apples, it was very improbable, if he had purchased them as he said, that he would have carried them (being nearly a gallon) about in his pockets for seven hours and half; that P.C. Ward acted quite right in bringing him here, but as evidence was wanting for conviction he (the prisoner) would be discharged.
 
 Frederick Spanner, William Lewis, and Willam Lewis, were charged with breaking into a public house in Deadman's Lane, on Saturday night, and helping themselvcs to bread and cheese and beer, and then walking off. Mr. Coxhead, the proprietor, said, he did not wish to press the charge as the prisoners were very good customers of his (although he did not know when they had been to his house last), he felt sure they only done it for a drunken spree, and not defraud him. The chairman said that after the statement made by Mr. Coxhead, the magistrates should discharge them, and Mr. Coxhead seemed to have very queer notions to who were good customers and who were not, he doubted not but others would walk into his house in the same way.
 ```
