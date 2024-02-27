@@ -1372,9 +1372,9 @@ Joseph Rands, shoemaker, was summoned by Rosa Jager for using profane and obscen
 
 Mr. Beckingsale appeared for the defendant, and contended that the magistrates had no jurisdiction in the matter; for, even admitting that the language complained of had been used, it was in the defendant's own house, and neither the Act or the By-Law authorised them to interfere with any man for making use of such language in his own house.
 
-The magistrates did not agree with Mr. Beckingsale that his arguments applied to the present ease, as it occurred in the front shop, which was a public place, and it was not a private quarrel in the family.
+The magistrates did not agree with Mr. Beckingsale that his arguments applied to the present case, as it occurred in the front shop, which was a public place, and it was not a private quarrel in the family.
 
-The complainant then said—I am the wife of August Jager, a German. Mv husband works for Mr. Rands. Last Thursday week I took some work home to Mr. Rands' shop, and went in three times for the money, He said he had no change and could not pay me, and abused me. I told him my husband wanted the money.
+The complainant then said—I am the wife of August Jager, a German. My husband works for Mr. Rands. Last Thursday week I took some work home to Mr. Rands' shop, and went in three times for the money. He said he had no change and could not pay me, and abused me. I told him my husband wanted the money.
 
 Cross-examined by Mr. Beckingsale—I work with my husband at the trade. We have been making slippers for Mr. Rands. He only paid 6d. for making a pair of slippers. [Mr. Rands : I give them 3s. a dozen more than they get in London.] He did complain to them bout a pair being made bad, but how could he expect them made better for sixpence ? He did not say he would not pay me till I got him the last my husband had that belonged to him. He said he had no change.
 
