@@ -95,7 +95,7 @@ NEWPORT, Saturday, August 5. St. Thomas's Church.— The foundation-stone of the
 
 ```
 
-The Mayor hoped the town officials should welcome to the Prince in "a becoming manner", although one of the councillors, Mr Pinnock, a dissenter, hoped that anyone not attending becuase of differening religious views would not be castigated for showing an assumed disloyalty to the Queen's consort. Pittis magnanimoulsy suggested he would be pleased to see everyone there, and let the matter drop.
+The Mayor hoped the town officials should welcome to the Prince in "a becoming manner", although one of the councillors, Mr Pinnock, a dissenter, hoped that anyone not attending becuase of differening religious views would not be castigated for showing an assumed disloyalty to the Queen's consort. Pittis magnanimously suggested he would be pleased to see everyone there, and let the matter drop.
 
 ```{admontion} A becoming manner
 :class: dropdown
@@ -563,7 +563,7 @@ Contagious Diseases Act 1864 et al, eg in https://archive.org/details/cu31924017
 
 ## Parkhurst Barracks
 
-Parkurst (Albany) Barracks were located on the northern edge of Newport, next door to Parkhurst prison, opened in December 1838 as an establishment for young male offenders, on the turnpike road to (West) Cowes.
+Parkurst (Albany) Barracks were located on the northern edge of Newport, next door to Parkhurst prison. Thr prison had opened in December 1838 as an establishment for young male offenders, on the turnpike road to (West) Cowes.
 
 The prison has originally been set up as a ...
 
@@ -573,6 +573,25 @@ https://archive.org/details/acollectionpubl19britgoog/page/n556/mode/2up
 
 See: Parkhurst Prison Act, 1838,1 & 2 Vict., ch. 82
 
+---
+
+
+See also https://www.theprison.org.uk/NewportTGCB/
+
+Newport County Bridewell, Newport Gaol
+
+The Town Gaol (ID 170) was located on the same site. By 1848, the prison had been converted into a police station.
+
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Independent - Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003)
+
+At the Petty Sessions, on Saturday last, before the County Magistrates, at the Guildhall.
+
+— The Colonel of the St. Helens Regiment, together with Capt. Woolcombe, the Governor of the Juvenile Prison, appeared in court to complain of the great number of disorderly females which infested the road leading to the Barracks, aud were constantly lying-in-wait around the Barnet-gate, drawing away the attention of the men from their military duty, and occasioning very great inconvenience to the and moreover had been the means of sending many of the soldiers to the Hospital. The Court promised to consider what steps they could take to abate the evil; but it is well known that many of these wretched women —children, we had almost said—had followed the regiment from Winchester and Gosport, and the consequent evils were to be attributed to them. There is, however, a much greater evil existing within the Barrack-palings, and which calls aloud for a remedy. We have no doubt of the justice of the complaint laid by the Colonel of the indecent conduct exhibited without the gate ; but is it not a sin against all morals and decency to eject these miserable unfortunates at all times of the night, when caught within the precincts of the soldiers' quarters, to drive them from the gates to find the best of their way to the town without an article of clothing to cover them. Many of these poor creatures have been met by workmen in the mornings crawling along under the hedges and bye-roads in a state of nudity. Surely a remedy may be found without resorting to this indecent and immoral system to put a stop to the intrusion of improper character into the Garrison.
+
+```
 
 
 ---
