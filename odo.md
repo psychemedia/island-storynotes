@@ -1233,7 +1233,7 @@ ambitious, the slave of fleshly lust and mon-
 strous cruelty, who would never abandon 
 his vain and wanton wickedness ; the scoruer 
 of religion, the artful author of sedition, 
-the oppressor of tho people, the plunderer of 
+the oppressor of the people, the plunderer of 
 churches, whose release meant certain mis- 
 chief to many. But. Ordericus himself is 
 perhaps more just when he says that Odo’s 

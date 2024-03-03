@@ -301,7 +301,7 @@ The rare nature of the tale is noted:
 
 Jacobs' comments on the tale are also discussed:
 
-> In his notes on the legend (pp. 218—220) Mr. Jacobs doubts whether it is a genuine Isle of Wight story and inclines to tha belief that, in order to fill up his volume, Elder localised at Newtown version of the Hamelin legend. Mr. Jacobs's remarks are as follows:  "Before Browning it (the Hamelin story) had been told in English in books well known Verstegan's 'Restitution of Decayed Intelligence, 1606,' Howell's 'Familiar Letters,' and Wanley's 'Wonders of the Little World.' Browning is said to have taken it from the last source, though there are touches which seem to to come from Howell, while it is not impossible he may have come across Elder's book, which was illustrated by Cruikshank. ... 
+> In his notes on the legend (pp. 218—220) Mr. Jacobs doubts whether it is a genuine Isle of Wight story and inclines to the belief that, in order to fill up his volume, Elder localised at Newtown version of the Hamelin legend. Mr. Jacobs's remarks are as follows:  "Before Browning it (the Hamelin story) had been told in English in books well known Verstegan's 'Restitution of Decayed Intelligence, 1606,' Howell's 'Familiar Letters,' and Wanley's 'Wonders of the Little World.' Browning is said to have taken it from the last source, though there are touches which seem to to come from Howell, while it is not impossible he may have come across Elder's book, which was illustrated by Cruikshank. ... 
 
 An important question for the correspondent is how "authentic" Elders' version of the tale might be:
 
