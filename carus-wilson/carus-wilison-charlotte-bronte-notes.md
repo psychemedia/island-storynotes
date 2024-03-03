@@ -151,7 +151,7 @@ I have seen letters from teachers and pupils who were there with her, denying al
 
 Miss Bronte left the school at the age of nine, Mrs. Gaskell tells us, so what judgment could she form? And her father being a very austere and peculiar man, denying his children animal food, and they all being naturally very delicate, as we read also in Mrs. Gaskell's work, is it fair to trace all her sufferings in after life to the very short time she was at the establishment, as Mrs. Gaskell also informs us?
 
-The attack on my father, the Rev. W. Carus Wilson, coming from tho pen of Mrs. Gaskell, who is, I believe, the wife of a Socinian preacher, is intended, from the strain of the whole work, as a sneer at the Evangelical party in the Church.
+The attack on my father, the Rev. W. Carus Wilson, coming from the pen of Mrs. Gaskell, who is, I believe, the wife of a Socinian preacher, is intended, from the strain of the whole work, as a sneer at the Evangelical party in the Church.
 
 My father has spent a long life solely for the good of others; and though, from his independent position in life, and the wonderful way in which God has prospered every work he has undertaken for the good of the Church and his fellow creatures, he might have much to boast of, yet I can truly say there lives not a man with a lower opinion of himself, or more opposite to the character Mrs. Gaskell has sketched of him.
 
@@ -463,7 +463,7 @@ Mr. Shepheard is of course heard on the other side, in reply to a former letter 
 
 "It is one of the worst features in the whole affair, that some exceptional instances of mismanagement in the subordinates at the first establishment of the school, which may really have happened, are made by tacit inference to mark its general character, and that through its whole course.
 
-" In a recent letter to tho public journals I have admitted that there may have been instances of burnt or badly cooked food; and I have since received confirmation, from new sources, of the correctness of that admission. A correspondent writes to me:— "I fear that there must have been some grounds of complaint against the conduct of the cook, when first the school opened. It could not be expected that a new institution should be perfect in all its parts; and it is vary shocking to one's feelings that circumstances which caused Mr. Wilson so much sorrow and anxiety should be attributed to his indifference and neglect with bitter reproach."
+" In a recent letter to the public journals I have admitted that there may have been instances of burnt or badly cooked food; and I have since received confirmation, from new sources, of the correctness of that admission. A correspondent writes to me:— "I fear that there must have been some grounds of complaint against the conduct of the cook, when first the school opened. It could not be expected that a new institution should be perfect in all its parts; and it is vary shocking to one's feelings that circumstances which caused Mr. Wilson so much sorrow and anxiety should be attributed to his indifference and neglect with bitter reproach."
 
 "Just so, sir; and Mrs. Gaskell herself, to do her justice, exonerates Mr. Wilson of the charge of indifference and neglect, and rightly lays the blame on the right person—the cook; and this cook was dismissed in a few months.
 

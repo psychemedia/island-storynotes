@@ -93,7 +93,7 @@ I have seen letters from teachers and pupils who were there with her, denying al
 
 Miss Bronte left the school at the age of nine, Mrs. Gaskell tells us, so what judgment could she form? And her father being a very austere and peculiar man, denying his children animal food, and they all being naturally very delicate, as we read also in Mrs. Gaskell's work, is it fair to trace all her sufferings in after life to the very short time she was at the establishment, as Mrs. Gaskell also informs us?
 
-The attack on my father, the Rev. W. Carus Wilson, coming from tho pen of Mrs. Gaskell, who is, I believe, the wife of a Socinian preacher, is intended, from the strain of the whole work, as a sneer at the Evangelical party in the Church.
+The attack on my father, the Rev. W. Carus Wilson, coming from the pen of Mrs. Gaskell, who is, I believe, the wife of a Socinian preacher, is intended, from the strain of the whole work, as a sneer at the Evangelical party in the Church.
 
 My father has spent a long life solely for the good of others; and though, from his independent position in life, and the wonderful way in which God has prospered every work he has undertaken for the good of the Church and his fellow creatures, he might have much to boast of, yet I can truly say there lives not a man with a lower opinion of himself, or more opposite to the character Mrs. Gaskell has sketched of him.
 
