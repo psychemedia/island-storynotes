@@ -6,9 +6,42 @@ So what was life actually like in Newport at the time?
 
 If you go by the reports of the Borough Sessions, it seems to have been quite a lively place!
 
+
+## A colourful character, and, quite literally, an old offender — Repentance Adams
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18351212/020/0003
+Hampshire Advertiser - Saturday 12 December 1835
+At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two old offenders, were sentenced to 14 days in the House of Correction, for stealing turnips from Falrlee.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18381210/022/0004
+Hampshire Telegraph - Monday 10 December 1838
+Repentance Adams, an old offender, was committetd to Winchester to take her trial, for stealing a mat from the door of Mr. Minns, dyer, at Newport.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008
+Hampshire Advertiser - Saturday 17 January 1846
+Repentance Adams, an old offender, was charged with stealing a basket, the property of Mrs. Mills, of Newport. Former indictments were put in, and she was sentenced to four months' imprisonment and hard labour.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008
+Hampshire Advertiser - Saturday 06 December 1845
+A woman named Repentance Adams (an old offender, who some years ago created such a consternation by her numerous robberies of door-mats all over the town), was charged with stealing a new rush basket from the shop of Mrs. Mills, Town Gate. A woman named Inkstone, deposed to seeing her steal it; and Mr. Cooke, the borough policeman, stated he found it exposed for sale, shortly after she had stolen it, at the shop of Mr. Hale, grocer, Cobham-street, to whom, it appeared, she had just before disposed of it. She was committed to take her trial.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001
+Hampshire Telegraph - Saturday 13 December 1845
+At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush botsket, from thie door of Mr. Mills, in St. James's street,and was fully committed for trial at the session." She was a few years ago tried for stealing mats from doors. 
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004
+Hampshire Chronicle - Saturday 19 January 1850
+Committed the County Gaol.—For vagraney— Repentance Adams, 14 days
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580417/034/0007
+Hampshire Advertiser - Saturday 17 April 1858
+An old woman of eighty, named Repentance Adams, was charged with stealing a hand kerchief, containing tobacco, bacon, sugar, cakes, &c., the property of an inmate of the House of Industry, named James Harwood.
+
+It appeared that the prosecutor was wending his way homeward with the bundle, and when at the bottom of Hunny Hill, he opened the wicket-gate of the cottage on the bridge, and placed his bundle under the hedge outside; went indoors to light his pipe, where be ttood gossiping a minute or two, and when he came out and looked for his bundle, it was gone. A young man working in the garden, named Windebank, swore that he saw the prisoner carry off a bundle, which he had no doubt was the one lost, although he was not then aware Harwood had just before thrown down the bundle which he saw the old woman pick up. It seems she must have had it under her shawl when Harwood spoke to her just after he left the cottage, as he passed her. Windebank had not then heard of his loss, and as soon as he did, they found out the old woman, who had, however, in the meantime, endeavonred to get rid of the spoil, somehow, and wanted to prove an alibi; but the evidence was too strong against her, and she contented herself by merely asserting she was not guilty, and was committed to Winchester Gaol for one month.
+
 ## A License to Misbehave?
 
-At the annual licensing day in 1851, the Tontine Tap, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution, as was the Old King's Arms on Pyle Street, although the licensee of that establishment objected to the charge.
+At the annual licensing day in 1851, the Tontine Tap, whose license at the time appears to have been held by a certain Mr. John Hollywood, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution, as was the Old King's Arms on Pyle Street, although the licensee of that establishment objected to the charge.
 
 ```{admonition} "Tontine Tap" and "Valiant Soldier" called out, Licensing Day, 1851
 :class: dropdown
@@ -29,9 +62,9 @@ Mr. Clarke observed that the words or the license were, that he should not allow
 
 Mr. William Mew made some observations on the remarks made in the Town Council, and thought that the remarks made on the police, and on the Old King's Arms, neither truthful or just.
 
-The Mayor, in granting the licenses of the Valient Soldier, and Tontine Tap, gave a similar caution to the applicants.
+The Mayor, in granting the licenses of the Valiant Soldier, and Tontine Tap, gave a similar caution to the applicants.
 
-![Valient Soldier, Cosham-street (South-street)](images/valient-soldier.png)
+![Valiant Soldier, Cosham-street (South-street)](images/valient-soldier.png)
 
 ```
 
@@ -47,7 +80,96 @@ On the application of Mr. Robert Dyer, of the old King’s Arms, the mayor addre
 
 ```
 
+
+
+[Portsmouth Times and Naval Gazette - Saturday 22 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520522/058/0003)
+
+Borough Petty Sessions, Monday.— Present, C. W. Estcourt, Esq., Mayor, E. Way, and R. M. Wavell, Esqs.
+
+Ann Tayler was charged with being drunk and disorderly at the Tontine Tap on Sunday night. She was turned out of the house, but returned, when she was given into custody. John Hollywood gave evidence that the defendant came his house and drank with the soldiers, using very bad language, which he was determined not to allow. The defendant said was owing to her having had a little drink ; if the Court would forgive her, she would leave the Isle of Wight that day. The Mayor said it was not a very serious charge, and they would dismiss the case provided she would leave the Isle of Wight.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18521023/084/0007
+Hampshire Independent - Saturday 23 October 1852
+
+BOROUGH COURT. On Monday, in the Council Chamber, before the Mayor and Edward Way, Esq.
+
+STEALING AND SWINDLING!
+
+James Matthews, a waterman, belonging to Sea-view, near Ryde, was charged with the double offence of robbery, and obtaining money under false pretences.
+
+Ellen Howes said she lived at the Fortune Tap, in Corsham-street, and attended to the customers for her son in-law, John Hollywood, the landlord. The prisoner came there on Thursday evening, and engaged a bed. There were two pillows on it when he went to bed. After he had gone away in the morning a pillow was missing. It was the pillow now produced. It was brought to the house by the police, and was the property of John Hollywood.
+
+Henry Rashleish, Jun., sworn: I am a carrier between Newport and Niton. On Fnday the prisoner came to me at the Duke of York with a brown paper parcel under his arm, and asked me if I was the Niton carrier, and if I knew the Sandrock hotel. I told him I went close to it. He then asked me if I knew James Beazley, who lived there as waiter. I said I did. He said he had a parcel for him which came from his sister, at Reading, and then was five shillings to pay on it. I him I required a bill, and he wrote on the cover "paid 5s. James Matthews." It was directed to James Beazley, Sandrock Hotel, Niton. After he was gone I looked at the parcel, and by one end of it being broken I saw it was only a pillow, which I thought could be of no use to Beazley. I therefore communicated the fact to the police. I saw the prisoner afterwards at the Lamb Inn, and told him what I had discovered. He said he would give me the money again I was afraid. He then gave it to me back, but the Police said they should not let it drop, and went to find an owner for the pillow, knowing where he had slept that night. He said he had bought it in Quay Street, and that he gave sixpence for it.
+
+P. C. Jacobs said he apprehended the prisoner at the Lamb under a charge of stealing the pillow, when the prisoner told him that he bought it for 6d., of a man in Quay Street.
+
+Prisoner went into a long rigmarole story of his frequenting the Tontine out of respect to the landlord, with whom he had a glass of grog before he went to bed ; that he didn't want for money, having seven or eight shillings in his pocket, and had, therefore, no reason to steal ; that he slept until ten o'clock, and then left seven or eight persons asleep in the same room! that he went towards the Quay, when a man asked 1s. 6d. for the pillow now produced, but he offered him sixpence, *all the money he had*, and promised him threepence more if he would come to the Lamb Inn, where he waited for an hour and a half, but he never came, and as he did'nt come, he tbeught he would send it to his brother-in-law, at Niton, and he had put down the five shillings on the cover because he should see him at Ryde shortly, where he was going to live, and then he knew he could make it all right with him.
+
+Court : We have no doubt about the case, and we commit you to take your trial at the sessions.
+
+---
+
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18521023/042/0008
+Hampshire Telegraph - Saturday 23 October 1852
+
+James Mattbews, for stealing a pillow, the property of John Hollywood, at Newport. *Three months' imprisonment.*
+
+
+---
+
 As we shall see, this area of Cosham Street (now South Street), seems to have well established as one of the rather less than salubrious areas of Newport, with the Tontine Tap and Tontine Yard getting regular mentions in the local Borough Sessions reports, and had done for many years.
+
+In 1853, the license of the Tontine was transferred to a Mr. Joseph Phillipps.
+
+```{admonition} Transfer of license, April 1853
+:class:dropdown
+[Isle of Wight Observer - Saturday 23 April 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530423/017/0003)
+
+Borough Sessions
+
+Monday.—(Before Mr. F. Pittis, Esq., mayor; E. Way and R. M. Wavell, Esqs., magistrates.)
+
+The license of the Tontine, public house, was transferred from Mr. John Hollywood to Mr. Joseph Phillipps.
+
+```
+
+At the licensing day of 1854, another establishment, the landlord of the "Race Horse", was also cautioned for similar reasons.
+
+````{admonition} Cautioned in consequence of complaints, August 1854
+:class: dropdown
+[Isle of Wight Observer - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002)
+
+BOROUGH SESSIONS
+
+Monday.— Before F. Pittis, esq., mayor; E. Way, esq,, R. M. Wavell, esq., and Thomas Cooke, esq., magistrates.
+
+The applications for licenses for public-houses and billiards occupied the Bench for some considerable time; at the commencement of which, at the request of the Mayor, the clerk read the Act of Parliament relating to the closing all public-houses between the hours 12 Saturday night and 1 on Sunday afternoon, and half-past 2 in the afternoon and 6 in the evening, and 10 at night till 4 o'clock Monday morning, which came into operation on the 6th inst.
+
+No license was taken away from any publican, though the landlord of the "Race Horse" was cautioned in consequence of complaints having been made that he kept a room for the use of the prostitutes of the town.
+
+
+```{warning}
+I can't see the Race Horse named on the OS map?
+```
+
+````
+
+The licensing day sessions also provided an opportunity for the magistrates to communicate any updates in licensing conditions. In 1855, this included the announcement that house could be kept "open on Sundays now from 12 1/2 till 3 and from 5 till 11".
+
+```{admonition} According to the New Act..., September, 1855
+:class: dropdown
+[Isle of Wight Observer - Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003)
+
+Monday.—Before C. W. Estcourt, esq., mayor, R. M. Wavell, esq., and F. Pittis, esq., magistrates.
+
+This being the annual licensing day for the Borough the Court was pretty full of innkeepers, but nothing particular transpired, except that the Mayor Informed them, that according to the New Act they could keep theft houses open on Sundays now from 12 1/2 till 3 and from 5 till 11. 
+
+```
 
 ### The Tontine Tap
 
@@ -57,8 +179,12 @@ In 1821, following the death of Mr. John Steane, merchant of Carisbrooke, the To
 :class: dropdown
 
 ```{seealso}
-The will of John Stearnes, merchant of Caribrooke, is available from the Nation Archives: [PROB 11/1635/302](https://discovery.nationalarchives.gov.uk/details/r/D180885).
+The will of John Stearnes, merchant of Carisbrooke, is available from the National Archives: [PROB 11/1635/302](https://discovery.nationalarchives.gov.uk/details/r/D180885).
 
+```
+
+```{seealso}
+Interestingly, "Tontine" is not mentioned on the Ordnamce Survey map a few years later.
 ```
 
 [Hampshire Chronicle - Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004)
@@ -97,7 +223,7 @@ Lot 9. Ditto, ditto, occupied by ————.
 
 ````
 
-Several years later, and the premises of the Tontine Tap seems to have acquired a reputation as a disorderly house, even if it had not had such a reputation before.
+Several years later, in 1842, and the premises of the Tontine Tap, licensed to a Mr. James Tansom, seems to have acquired a reputation as a disorderly house, even if it had not had such a reputation before.
 
 ```{admonition} A disorderly house of the worst description, June 1842
 :class: dropdown
@@ -117,29 +243,37 @@ BOROUGH COURT—  On Monday, before Mr. A. Clarke.— James Tansom, of the Tonti
 
 ```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18430211/032/0003
+At the start of 1843, the license was transferred to a Mr. Daniel Webb, whose name appears in association with the Tontine Tap several times over the next few years. The calibre of the place does not seem to have improved any.
+
+```{admonition} Tontine licence transferred to Mr Webb, February, 1843
+:class: seealso
 Hampshire Independent - Saturday 11 February 1843
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18430211/032/0003
 
 Borough Court.—At this Court, on Monday, the licence of the Row Barge was transferred from Mr. James Riley to Mr. James Green; the Crown and Sceptre from Mr. H. Cooke to Mr. J. Riley; the Fountain from Mr. Jiffers to Mr. Wm. Lambrett; the Globe Inn to Mr. John Hallett, and the Tontine to Mr. Webb.
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/032/0008
-Hampshire Advertiser - Saturday 06 April 1844
+```{admonition} Theft of a decanter of rum, April, 1844
+[Hampshire Advertiser - Saturday 06 April 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/032/0008)
 
 Borough Court, Thursday.— A soldier, named Thomas Lyner, was remanded for further examination on Saturday next, charged with stealing a decanter, containing about a pint and a half of rum, from the bar of the Tontine public-house, occupied by Daniel Webb, South-street.
+```
 
+```{admonition} Stealing a decanter and a pint of run, April 1844
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18440420/072/0003
 Hampshire Independent - Saturday 20 April 1844
 
 County Quarter Sessions
 
-Thomas Lynagh, a private in the 97th regiment, charged with stealing a decanter and a pint of rum from Daniel Webb, of the Toutine Tap.—Guilty: three months to hard labour.
+Thomas Lynagh, a private in the 97th regiment, charged with stealing a decanter and a pint of rum from Daniel Webb, of the Tontine Tap.—Guilty: three months to hard labour.
+```
 
+```{admonition} A house of ill fame, June 1845
+:class: dropdown
+[Hampshire Advertiser - Saturday 28 June 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450628/040/0008)
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450628/040/0008
-Hampshire Advertiser - Saturday 28 June 1845
-
-Newport Borough Court.— Daniel Webb, landlord of the Tontine public-house, was brought up on Monday for further examination, charged with keeping a house of ill fame, also with encouraging drunkenness and gaming on his premise. The principal witnesses were William Coggen aod George Baker, parties who were living within a few yards of the defendant's house. They entered into a description of tbe demoralizing scenes they had witnessed; and the Magistrates convicted him in the full penalty of 5l and 5s costs. –The defendant wa* allowed a week to pay the fine.
+Newport Borough Court.— Daniel Webb, landlord of the Tontine public-house, was brought up on Monday for further examination, charged with keeping a house of ill fame, also with encouraging drunkenness and gaming on his premise. The principal witnesses were William Coggen aod George Baker, parties who were living within a few yards of the defendant's house. They entered into a description of the demoralizing scenes they had witnessed; and the Magistrates convicted him in the full penalty of 5l and 5s costs. –The defendant wa* allowed a week to pay the fine.
+```
 
 ```{admonition} Depraved morals and indecency, 1845
 :class: dropdown
@@ -161,22 +295,24 @@ R. Jenkins, landlord of the White Hart inn, said he had taken a room or two oppo
 
 ```
 
----
+The suspension of his license appears to be not the only misfortune that Daniel Webb, " a diminutive hatchet-faced man, apparently upwards of fifty years of age" suffered at the time.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451018/012/0003
-Hampshire Advertiser - Saturday 18 October 1845
+```{admonition} Bigamy, October, 1845
+:class: dropdown
+[Hampshire Advertiser - Saturday 18 October 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451018/012/0003)
 
 Southampton Police
 
 WEDNESDAY.—(Before E. H. Hulton, P. C. Fall, P. Breton, and J. Bernard, esqs.)
 
-Bigamy.— Daniel Webb, a diminutive hatchet-faced man, apparently upwards of fifty years of age, was placed at the bar under the following circumstance: — The complainant in the rase was Margaret Leary, a stout, respectably-attired motherly-looking woman, of about forty-live years of age; with three children by a former marriage. She said the prisoner had married her five years ago, in the Isle of Wight, and she had lived comfortably with him till recently, when their harmony was disturbed by the visit of another lady, who claimed the prisoner as her husband, in virtue of priority of engagement. She had not the slightest fault to find with his conduct to her or her children, to whom he always behaved as kindly as if he had been their own father. She did not appear to wish to make any claim on the prisoner; her object being simply to prevent him from having claim any upon her, and she wished the Magistrates to compel him to " sign his hand" to the effect that he would never come near her to trouble her again.
+Bigamy.— Daniel Webb, a diminutive hatchet-faced man, apparently upwards of fifty years of age, was placed at the bar under the following circumstance: — The complainant in the case was Margaret Leary, a stout, respectably-attired motherly-looking woman, of about forty-five years of age; with three children by a former marriage. She said the prisoner had married her five years ago, in the Isle of Wight, and she had lived comfortably with him till recently, when their harmony was disturbed by the visit of another lady, who claimed the prisoner as her husband, in virtue of priority of engagement. She had not the slightest fault to find with his conduct to her or her children, to whom he always behaved as kindly as if he had been their own father. She did not appear to wish to make any claim on the prisoner; her object being simply to prevent him from having claim any upon her, and she wished the Magistrates to compel him to " sign his hand" to the effect that he would never come near her to trouble her again.
 
 The Magistrates said they could not deal with the case, unless she wished to press the charge of bigamy; but as the prisoner had a wife already living, he could have no claim upon her. The complainant declined to press the charge, but gave the prisoner to understand that it was held *in terrorem* over his head, in case he ever annoyed her in future. The parties formerly had kept the Tontine Inn, at Newport, Isle of Wight. Webb said he had never seen nor heard tidings of his former wife for twelve years, till she unluckily made her appearance and caused this expose.
+```
 
----
+The licence of the Tontine Tap then made its way to a Mr. Charles Green, who appears to not to have taken too kindly to his patrons stealing his spirits, a certain Ann Gladdis appearing as a witness for the prosecution.
 
-```{admonition} TO DO
+```{admonition} Stealing two bottles of spirits, May 1846
 :class: dropdown
 [Hampshire Independent - Saturday 02 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460502/082/0008)
 
@@ -198,158 +334,27 @@ The prisoner was then remanded until Thursday.
 
 ```
 
-```{admonition} TO DO
+The same Ann Gladdis, presumably, had also appeared as a witness in a case of the theft of two waistcoats and a pair of trowsers that had been prosecuted earlier that yaer.
+
+```{admonition}  An impudent request, January 1846
 :class: dropdown
-[Hampshire Advertiser - Saturday 23 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460523/039/0008)
+[Hampshire Advertiser - Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008)
 
-NEWPORT PETTY SESSIONs.—Saturday.—(Before the Rev. R. W. White, S. Sanders, J. P. Lind, and J. Simeon esqrs.)
+ISLE OF WIGHT GENERAL QUARTER SESSIONS. These Sessions commenced on Wednesday last, before Wm. Thresher, esq.
 
-Felony.— Jane Lock, a wretched denizen of Tontine-yard Cosham-street, was charged with stealing a woollen shawl, the property of Charlotte Newnham, wife of the toll-gate keeper at Node Hill.
+On the bench were the Hon. A'Court Holmes, Sir Raymond Jervis, bart. Captain Swinburne, H. P. Gordon, J. B. Astley, J. Simeon, P. E. Turnbull, B. Mew, and A. Clarke, esqrs.
 
-Prosecutor stated that on the previous Sunday evening she discovered that an entry had been made into the toll-house by a wi dow, which she was not sure had been fastened the over night. On looking round the room, she missed a work-box and some other articles, and next morning the shawl.
+Wm. Miller and James Mounser, two privates of the 23rd Regt. were charged by Mr. Gaius Oliver, tailor, of the Corn Market, with stealing two waistcoats and a pair of trowsers, his property. He stated that about five o'clock in the evening of the 24th of October, he heard the shop-door open, but saw no one. He afterwards missed the articles in question.
 
-Jane Cheverton, a companion and fellow-lodger, stated that she borrowed the shawl of prisoner, and wearing it in the street on Thursday, was accosted by P.C. Callingham as to how she came in possession, &c. which led to the apprehension of prisoner.
+A girl, named Ann Gladdis, stated that on the evening in question Miller asked her if she would sell some recruits' clothes which he had. Mounser afterwards brought her the bundle.
 
-Prisoner, in defence, entered into a long account of her whereabouts on the night of the robbery, when she was locked out by her landlady, and took a walk as far as Shide with a young man whom she did not know, and on her return to Newport she bought the shawl of a woman— name unknown. She was fully committed for trial at the next Quarter Sessions.
+Mr. Grapes deposed to finding the bundle at their lodgings in Pyle-street. Miller made a long defence, to the effect that when he was blackberrying he " picked up" the bundle. Mounser simply said the clothes was given him by Miller to give to Giaddis. Their defence had the desired effect, and the jury returned a verdict of Not Guilty. They then had the impudence to demand the clothes, which request, of course, was not acceded to.
 
 ```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460725/029/0006
-Hampshire Advertiser - Saturday 25 July 1846
+Despite prosecuting his clientele, it seems the new licensee was unable to do much to change the by now established reputation of the house.
 
-ISLE OF WIGHT MIDSUMMER QUARTER SESSIONS. These Sessions commenced on Wednesday, before Sir Wiliam Heathcote, bart.
-
-Jane Lock, a prostitute, living in Cosham-street, was indicted for having, on the 11th of May, stolen a shawl, from the toll-house of Shide Gate, the property of Charles Newnham.— Acquitted.
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460627/070/0008
-Hampshire Independent - Saturday 27 June 1846
-
-BOROUGH COURT. On Monday last, before Mr.  B. Mew, Esq., Mayor, T. Cooke and Abraham Clarke, Esqrs.
-
-The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged  under the head of disorderlies and
-
-P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise (?) Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
-
-Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourbood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputedcommon prostitue and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
-
-Inspector Why your own father was accusing you of being a soldier's ————, and you were retorting on him that you paid the rent of the house and kept the rest of the family.
-
-Prisoner : You never saw me with any soldiers.
-
-Inspector: But I have with the officers, and arn't they soldiers?
-
-Prisoner: Ah! you'd swear anything.
-
-Inspector: After we got her into the station-house, she swore she would tell the Court that I wanted to come in with her ; the house where she lives is a complete nuisance to the town.
-
-Prisoner said in her defence that the policemen knocked her father down three times in the gutter, and when she interfered to protect him they struck her twice across the back, and that the Inspector would even give her a drop of cold water in the station-house to cool her parched lips.
-
-The Court: There is no doubt but you are a great nuisance to the neighbourhood where you live, and it is our duty to put down such places; at any rate we shall stop your career for a little time at least, by committing you to bridewell for one month.
-
-The dashing nymph looked extremely disconcerted at this announcement, as the ready purse was at hand to have defrayed any fine that might have been inflicted. No protestations however were of any avail with this inflexible Bench, and her ladyship, not having learnt latin, could not decline *quod!*
-
-James Brading, the father, a mason, was then charged with assaulting the police, and being guilty of disorderly conduct: and the evidence was to the same effect as that given against his daughter.
-
-Prisoner, to the Inspector : Did you ever find the money I lost out my pocket in the gutter that night? You said when you came back you'd see about it.
-
-Inspector: I never heard a word of any money you had or lost until this moment; you had only your trousers on; you did say you would tell the Magistrates where I sold the bad money. I have had you up before for bad conduct.
-
-Defendant professed to be particulalry shocked at the Inspector's falsehood, but an inspection of the black book showed the truth of the assertion.
-
-P.C. Hasler deposed to the outrageous conduct of the prisoner, and said he heard nothing before of his losing any money, but prisoner did say on being had to the station-house that he would tell the Court where Grapes had sold the £10 worth of bad money (laughter).
-
-Fined 15s.
-
-The prisoner wanted to exhibit his bruises, and said the usage he had received was worth 10 shillings and more too; full credit, however, was given to his word in this case, and a promise that an imprisonment for ten days only would be an equivalent to the debt, which we believe the young ladypaid for him before the Court adjourned.
-
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Independent - Saturday 25 November 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481125/080/0008)
-
-BOROUGH SESSIONS
-
-On Monday last, before the Mayor (James Eldridge, Esq.), Abraham Clarke and P. Scott, Esqrs.
-
-James Tansom was charged with having his dwelling house situate in the Tontine yard (part of whoch he lets out in lodgings to travellers), in a most filthy and unwholesome condition, prejudicial both to the inmates and the neighbourhood.
-
-The Inspector gave evidence of the state of the place, which, in itself, was quite sufficient to breed a pestilence, and stated that he had given the defendant due notice to clean it. He had since visited it, and found it in the same condition.
-
-The Mayor: Both unwholesome and offensive. If your house is not cleaned and whitewashed within twenty-four hours, we shall order it to be done, and levy a distress on your goods to pay the expenses; and we subject you to a fine of 10s per day until it is done.
-
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Independent - Saturday 23 September 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480923/083/0006)
-
-ISLE OF WIGHT COUNTY PETTY SESSIONS.
-
-On Saturday last, at the Guildhall, before the Rev. W. White and other Magistrates.
-
-Isaac Dore was charged by the Governor of the House of Industry with suffering his wife to become chargeable to the Guardians of the Poor. Defendant said that after being obliged to part with his wife through her dissolute and abandoned course of life, he allowed her five shillings a week, until her language every time she met him became so abusive that he discontinued the allowance, when she threw herself into the House of Industry.
-
-Inspector Grapes was called to prove that he bad known the wife of the defendant a long time as a woman of very loose habits; and he had no doubt that she was a common prostitute.
-
-The Chairman was about to discharge the defendant, saying that no husband could be compelled to support a wife under such circumstances, when it was whispered to his worship that such a course of conduct had been pursued by this abandoned woman for years before the defendant married her, and that he did so with his eyes open to her manifold failings.
-
-Mr. White: Oh, that alters the case altogether. You must pay the cost of maintaining your wife in the house, and the costs of Court, and not let her become chargeable in future.
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Telegraph - Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004)
-
-At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others froan Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and havieg been found in the streets late at night. The mayor said the nmagistrates were determined to put down such open and gross vice and imnmorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
-
-Abraham Racket, charged by the inspector of police with being drunk the night before, between elevere and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
-
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Advertiser - Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003)
-
-Borouoh Court.— On Monday, before tha Major and other magistrates.
-
-A DISORDERLY CHARACTER.
-
-Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near tbe White Hart Inn, Pyie-street.
-
-Tho Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock ; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house ; had often seen her out late at nigbt. but never knew her noisy before, and when sober she is always quiet. Whilst tho girls were out he could never get the men away.
-
-Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a common prostitute.
-
-The Mayor observed that he had given instructions to tbe police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce wouid be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
-
-Fined 10s and Ss costs, which not being paid, she was committed to the House of Correction for fourteen days.
-
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Independent - Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007)
-
-BOROUGH COURT. On Monday last, before the Mayor (E. Way, Esq.), A. Clarke and R. M. Wavell, Esqrs.
-
-BIRDS OF PARADISE
-
-Jane Blow was charged by the Inspector of Police with keeping a disorderly house, for the purposes of prostitution, in Paradise Row.
-
-Mr. Grapes deposed that he had found 10 or 12 people in the house drinking beer, which they had previously laid in a stock of, at 2 o'clock in the morning, and it was impossible to keep the town quiet under such circumstances. The defendant encouraged her two daughters to open prostitution in the same house, and lived on the profits.
-
-Defendant was liberated on her own recognisance* to appear at the Sessions.
-
-```
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18481216/028/0005
-Hampshire Advertiser - Saturday 16 December 1848
-
-Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young man named Cooke, were charged witb having, between eleven and twelve the previous night, created a disturbance In Paradise Row, by breaking the door of one Jane Blow's house. The defendants were fined 7s 6d each, and to pay costs, or in default, fourteen days' imprisonment.
-
-```{admonition} TO DO 
+```{admonition} Keeping a disorderly house, January 1848
 :class: dropdown
 [Hampshire Independent - Saturday 08 January 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480108/141/0008)
 
@@ -357,7 +362,7 @@ BOROUGH COURT. On Monday last, before the Mayor, Abraham Clarke, Esq., and Percy
 
 ...
 
-Charles Gree, landlord of the Toutine tap, was charged with keeping a disorderly house.
+Charles Green, landlord of the Tontine tap, was charged with keeping a disorderly house.
 
 Richard Cogger, lace maker, said he lived in Cosham-street. Defendant kept the Tontine tap close by. On Sunday evening, about six o'clock, there was a great noise with the soldiers around the house, both front and back. The conduct of the house at all times was most disgraceful. The house itself was a disgrace to any civilised country. There was nothing going on there but continual drunkenness. Soldiers and common prostitutes were harboured there, and there was continual rows and disorders. The most awful language and imprecations were in constant use, which it was very shocking to hear. The inhabitants around could not open their doors without their ears being insulted; even the house in itself as a house was unfit fur public purposes, there being no back door or convenience to it, and the soldiers and the girls came either into the street and exposed themselves or went into the yard, which was common to many other houses. He believed the girls lodged in the house, they were there every day, and drunk every day. He had complained to the magistrates, and to the brewer (Mr. Mew), and as it still kept going on, he thought it time something should be done.
 
@@ -377,56 +382,46 @@ Mayor: We have proof of very great mismanagement here, and one allegation of suf
 
 ```
 
+Although no longer the licensee of the Tontine Tap, it seems as if James Tansom was still living in Tontine yard.
 
-```{admonition} TO DO
+```{admonition} Sufficient to breed a pestilence, November 1848
+:class: dropdown
+[Hampshire Independent - Saturday 25 November 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481125/080/0008)
+
+BOROUGH SESSIONS
+
+On Monday last, before the Mayor (James Eldridge, Esq.), Abraham Clarke and P. Scott, Esqrs.
+
+James Tansom was charged with having his dwelling house situate in the Tontine yard (part of whoch he lets out in lodgings to travellers), in a most filthy and unwholesome condition, prejudicial both to the inmates and the neighbourhood.
+
+The Inspector gave evidence of the state of the place, which, in itself, was quite sufficient to breed a pestilence, and stated that he had given the defendant due notice to clean it. He had since visited it, and found it in the same condition.
+
+The Mayor: Both unwholesome and offensive. If your house is not cleaned and whitewashed within twenty-four hours, we shall order it to be done, and levy a distress on your goods to pay the expenses; and we subject you to a fine of 10s per day until it is done.
+
+```
+
+But it was not just the Tontine Tap where disorder could be found.
+
+```{admonition} Drunk and disorderly in the Tontine Yard, February 1851
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 08 February 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510208/025/0005)
 
 Borough Court.— Before the Mayor, (Edward Way, esq.), and A. Clarke, esq.
 
-Benjamin Breaks was cbarged by P.C. Hobbs with being drunk and disorderly, on Saturday night, in the Tontine yard. Witness deposed that the defendant was drunk and making a great noise, and that when turned ont of the public-houses, he often got persons to go into his own. The defendant denied the cbarge, but Mr. Grapes, Inspector of Police, corroborated Hobbs' evidence.— The defendant, in answer to tbe Bench, said be only earnt 8s a week. Fined 5s and 5s costs, and allowed a fortnight to pay it.
+Benjamin Breaks was cbarged by P.C. Hobbs with being drunk and disorderly, on Saturday night, in the Tontine yard. Witness deposed that the defendant was drunk and making a great noise, and that when turned out of the public-houses, he often got persons to go into his own. The defendant denied the cbarge, but Mr. Grapes, Inspector of Police, corroborated Hobbs' evidence.— The defendant, in answer to the Bench, said be only earnt 8s a week. Fined 5s and 5s costs, and allowed a fortnight to pay it.
 
 ```
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005
+Hampshire Advertiser - Saturday 22 March 1851
 
-```{seealso}
-Interestingly, "Tontine" is not mentioned on the Ordnamce Survey map a few years later.
-```
+Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
 
-At the licensing day of 1854, another establishment, the landlord of the "Race Horse", was also cuationed for similar reasons.
-
-````{admonition} Cautioned in consequence of complaints, August 1854
-:class: dropdown
-[Isle of Wight Observer - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002)
-
-BOROUGH SESSIONS
-
-Monday.— Before F. Pittis, esq., mayor; E. Way, esq,, R. M. Wavell, esq., and Thomas Cooke, esq., magistrates.
-
-The applications for licenses for public-houses and billiards occupied the Bench for some considerable time; at the commencement of which, at the request of the Mayor, the clerk read the Act of Parliament relating to the closing all public-houses between the hours 12 Saturday night and 1 on Sunday afternoon, and half-past 2 in the afternoon and 6 in the evening, and 10 at night till 4 o'clock Monday morning, which came into operation on the 6th inst.
-
-No license was taken away from any publican, though the landlord of the "Race Horse" was cautioned in consequence of complaints having been made that he kept a room for the use of the prostitutes of the town.
+William Young, an old offender, was convicted on the evidence of P.C. Jacobs, John Hollywood, and P.C. Hobbs, of having been drunk and disorderly, at the Tontine, Cosham-street, on Saturday night, and was fined 5s and 5s costs, with one week allowed for payment.
 
 
-```{warning}
-I can't see the Race Horse named on the OS map?
-```
 
-````
-
-
-The licensing day sessions also provided an opportunity for the magistrates to communicate any updates in licensing conditions. In 1855, this included the announcement that house could be kept "open on Sundays now from 12 1/2 till 3 and from 5 till 11".
-
-```{admonition} According to the New Act..., September, 1855
-:class: dropdown
-[Isle of Wight Observer - Saturday 01 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550901/007/0003)
-
-Monday.—Before C. W. Estcourt, esq., mayor, R. M. Wavell, esq., and F. Pittis, esq., magistrates.
-
-This being the annual licensing day for the Borough the Court was pretty full of innkeepers, but nothing particular transpired, except that the Mayor Informed them, that according to the New Act they could keep theft houses open on Sundays now from 12 1/2 till 3 and from 5 till 11. 
-
-```
 
 ### The Crab and Lobster
 
@@ -640,6 +635,103 @@ Eighteen months later, it seems that Rosa may have been somewhat less than faith
 BOROUGH COURT. Monday.— Magistrates present, the Mayor, and R. M. Wavell, and E. Way. esqrs.
 
 Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and turning her out of his house. He is the keeper of the notorious beer-shop Prince Albert, in Deadman's-lane and it appeared that his wife started off with another man about five months ago, and had lately returned, and wanted again to "walk into the defendant's affections," which he reciprocated, on her returning to his house, by giving her a black eye, and kicking her into the street. The case was dismissed.
+```
+
+## Disorderly neighbourhoods
+
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Advertiser - Saturday 23 May 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460523/039/0008)
+
+NEWPORT PETTY SESSIONs.—Saturday.—(Before the Rev. R. W. White, S. Sanders, J. P. Lind, and J. Simeon esqrs.)
+
+Felony.— Jane Lock, a wretched denizen of Tontine-yard Cosham-street, was charged with stealing a woollen shawl, the property of Charlotte Newnham, wife of the toll-gate keeper at Node Hill.
+
+Prosecutor stated that on the previous Sunday evening she discovered that an entry had been made into the toll-house by a window, which she was not sure had been fastened the over night. On looking round the room, she missed a work-box and some other articles, and next morning the shawl.
+
+Jane Cheverton, a companion and fellow-lodger, stated that she borrowed the shawl of prisoner, and wearing it in the street on Thursday, was accosted by P.C. Callingham as to how she came in possession, &c. which led to the apprehension of prisoner.
+
+Prisoner, in defence, entered into a long account of her whereabouts on the night of the robbery, when she was locked out by her landlady, and took a walk as far as Shide with a young man whom she did not know, and on her return to Newport she bought the shawl of a woman— name unknown. She was fully committed for trial at the next Quarter Sessions.
+
+```
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Advertiser - Saturday 25 July 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460725/029/0006)
+
+ISLE OF WIGHT MIDSUMMER QUARTER SESSIONS. These Sessions commenced on Wednesday, before Sir Wiliam Heathcote, bart.
+
+Jane Lock, a prostitute, living in Cosham-street, was indicted for having, on the 11th of May, stolen a shawl, from the toll-house of Shide Gate, the property of Charles Newnham.— Acquitted.
+```
+
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Independent - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460627/070/0008)
+
+BOROUGH COURT. On Monday last, before Mr.  B. Mew, Esq., Mayor, T. Cooke and Abraham Clarke, Esqrs.
+
+The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged  under the head of disorderlies and
+
+P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise (?) Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
+
+Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourbood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputedcommon prostitue and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
+
+Inspector Why your own father was accusing you of being a soldier's ————, and you were retorting on him that you paid the rent of the house and kept the rest of the family.
+
+Prisoner : You never saw me with any soldiers.
+
+Inspector: But I have with the officers, and arn't they soldiers?
+
+Prisoner: Ah! you'd swear anything.
+
+Inspector: After we got her into the station-house, she swore she would tell the Court that I wanted to come in with her ; the house where she lives is a complete nuisance to the town.
+
+Prisoner said in her defence that the policemen knocked her father down three times in the gutter, and when she interfered to protect him they struck her twice across the back, and that the Inspector would even give her a drop of cold water in the station-house to cool her parched lips.
+
+The Court: There is no doubt but you are a great nuisance to the neighbourhood where you live, and it is our duty to put down such places; at any rate we shall stop your career for a little time at least, by committing you to bridewell for one month.
+
+The dashing nymph looked extremely disconcerted at this announcement, as the ready purse was at hand to have defrayed any fine that might have been inflicted. No protestations however were of any avail with this inflexible Bench, and her ladyship, not having learnt latin, could not decline *quod!*
+
+James Brading, the father, a mason, was then charged with assaulting the police, and being guilty of disorderly conduct: and the evidence was to the same effect as that given against his daughter.
+
+Prisoner, to the Inspector : Did you ever find the money I lost out my pocket in the gutter that night? You said when you came back you'd see about it.
+
+Inspector: I never heard a word of any money you had or lost until this moment; you had only your trousers on; you did say you would tell the Magistrates where I sold the bad money. I have had you up before for bad conduct.
+
+Defendant professed to be particulalry shocked at the Inspector's falsehood, but an inspection of the black book showed the truth of the assertion.
+
+P.C. Hasler deposed to the outrageous conduct of the prisoner, and said he heard nothing before of his losing any money, but prisoner did say on being had to the station-house that he would tell the Court where Grapes had sold the £10 worth of bad money (laughter).
+
+Fined 15s.
+
+The prisoner wanted to exhibit his bruises, and said the usage he had received was worth 10 shillings and more too; full credit, however, was given to his word in this case, and a promise that an imprisonment for ten days only would be an equivalent to the debt, which we believe the young ladypaid for him before the Court adjourned.
+```
+
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Independent - Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007)
+
+BOROUGH COURT. On Monday last, before the Mayor (E. Way, Esq.), A. Clarke and R. M. Wavell, Esqrs.
+
+BIRDS OF PARADISE
+
+Jane Blow was charged by the Inspector of Police with keeping a disorderly house, for the purposes of prostitution, in Paradise Row.
+
+Mr. Grapes deposed that he had found 10 or 12 people in the house drinking beer, which they had previously laid in a stock of, at 2 o'clock in the morning, and it was impossible to keep the town quiet under such circumstances. The defendant encouraged her two daughters to open prostitution in the same house, and lived on the profits.
+
+Defendant was liberated on her own recognisance to appear at the Sessions.
+
+```
+
+```{admonition} A disturbance in Paradise Row, December 1848
+:class: dropdown
+[Hampshire Advertiser - Saturday 16 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18481216/028/0005)
+
+Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young man named Cooke, were charged with having, between eleven and twelve the previous night, created a disturbance in Paradise Row, by breaking the door of one Jane Blow's house. The defendants were fined 7s 6d each, and to pay costs, or in default, fourteen days' imprisonment.
+
 ```
 
 ## Drunk and/or disorderly
@@ -1039,6 +1131,7 @@ It appeared that she had also been committed on the Wednesday previous for steal
 ## Called as Witnesses
 
 
+
  
 ```{admonition} TO DO
 :class: dropdown
@@ -1055,7 +1148,7 @@ It appeared that she had also been committed on the Wednesday previous for steal
 
 County Petty Sessions.— Magistrates present: The Hon. A'Court Holmes, and Sir H. P. Gordon, bart.
 
-On Saturday, James Nobbs and Edward Woodford were charged with breaking into tbe house of Mr. John Hewitt of West Cowet, grocer, and stealing £25. Alfred Hewitt described tbe premises, which were secured in tbe usual manner on the previous Saturday night. The next morning a writing-desk, containing £65, a missionary-box, and two spirit decanters, were found to have been taken from tho parlour. Mrs. Hewitt gave similar evidence. Sarah, wife of Joseph Woodford, deposed that Nobbs was at her bouse on the night in question ; he said he was waiting for Ned Woodford. She heard Woodford's voice outside, and said. "There is Woodford." He tben left, and at half-past two he returned, and said. " Arn't you gone to bed yet?" Mary Phillips deposed that Nobbs came on Sunday to the Tontine, Newport, and asked to have some dinner, for which sbe charged 1s. He gave her a sovereign in payment and said he was going to sea, round Alexandria ; that he had drawn a month's pay, and came to have a spree before he went. A Policeman came to ioquire about him, and she pointed him out. Elizabeth Georgiana Watson, a woman of the town, deposed she lived in the Tontine-yard. Nobbs came to her lodgings on Sunday evening. She saw that he had a sovereign and half-sovereign ; he gave her 3s. He took out some dark-looking paper from his pocket squeezed together. She endeavoured to snatch it from him, when he said, "Don't; they are £5 notes." Witness said, "There will be a chance to get the things out of pawn, in the morning, won't there?" He gave her one of the notes, such a one as that produced (National and Provincial Bank). Witness asked for some money to get some drink ; he gave her 3d. She went to the Tontine, where she saw a Policeman, and heard he was inquiring for notes. She went back, and put the note in the fire. She afterwards obtained the other three notea from the prisoner, and the man of the house put them also into the fire. Police-serjeant White deposed that he went to Mr. Hewitt's house on the previous Sunday, when he found the shutter had been removed from the court. He could not find where the entry had been effected until Monday. He went to tbe Tontine, at Newport, and apprehended Nobbs. Woodford was brought to the station on Monday. He made a confession which was produced, signed by him, to the effect that he and Nobbs got into Mr. Hewitt's store about ten o'clock on the previous Sunday morning, by opening a clap, and from thence proceeded to the parlour, where they found tbe missionary-box, and two decanters of spirits. They carried the things to tbe store, took out £95 from the desk, partook of the spirits, and left the remainder in a tub in the loft. (The articles were now produced and identified). Nobbs said to witness, when Woodford's confession was read over, tbat it was all true, except that the desk and missionary box were left in an old tea-chest, and not a tub. Police constable Purchase gave evidence in corroboration. Herbert Barnes, in the service of the prosecutor, gave evidence that he locked up the store, and that one of the prisoners had brought sawdust tbere on some occasions. No defence was attempted, and both prisoners were committed to the Assises, on the charge of burglary.
+On Saturday, James Nobbs and Edward Woodford were charged with breaking into the house of Mr. John Hewitt of West Cowet, grocer, and stealing £25. Alfred Hewitt described the premises, which were secured in the usual manner on the previous Saturday night. The next morning a writing-desk, containing £65, a missionary-box, and two spirit decanters, were found to have been taken from the parlour. Mrs. Hewitt gave similar evidence. Sarah, wife of Joseph Woodford, deposed that Nobbs was at her bouse on the night in question ; he said he was waiting for Ned Woodford. She heard Woodford's voice outside, and said. "There is Woodford." He then left, and at half-past two he returned, and said. " Arn't you gone to bed yet?" Mary Phillips deposed that Nobbs came on Sunday to the Tontine, Newport, and asked to have some dinner, for which sbe charged 1s. He gave her a sovereign in payment and said he was going to sea, round Alexandria ; that he had drawn a month's pay, and came to have a spree before he went. A Policeman came to ioquire about him, and she pointed him out. Elizabeth Georgiana Watson, a woman of the town, deposed she lived in the Tontine-yard. Nobbs came to her lodgings on Sunday evening. She saw that he had a sovereign and half-sovereign ; he gave her 3s. He took out some dark-looking paper from his pocket squeezed together. She endeavoured to snatch it from him, when he said, "Don't; they are £5 notes." Witness said, "There will be a chance to get the things out of pawn, in the morning, won't there?" He gave her one of the notes, such a one as that produced (National and Provincial Bank). Witness asked for some money to get some drink ; he gave her 3d. She went to the Tontine, where she saw a Policeman, and heard he was inquiring for notes. She went back, and put the note in the fire. She afterwards obtained the other three notea from the prisoner, and the man of the house put them also into the fire. Police-serjeant White deposed that he went to Mr. Hewitt's house on the previous Sunday, when he found the shutter had been removed from the court. He could not find where the entry had been effected until Monday. He went to the Tontine, at Newport, and apprehended Nobbs. Woodford was brought to the station on Monday. He made a confession which was produced, signed by him, to the effect that he and Nobbs got into Mr. Hewitt's store about ten o'clock on the previous Sunday morning, by opening a clap, and from thence proceeded to the parlour, where they found the missionary-box, and two decanters of spirits. They carried the things to the store, took out £95 from the desk, partook of the spirits, and left the remainder in a tub in the loft. (The articles were now produced and identified). Nobbs said to witness, when Woodford's confession was read over, tbat it was all true, except that the desk and missionary box were left in an old tea-chest, and not a tub. Police constable Purchase gave evidence in corroboration. Herbert Barnes, in the service of the prosecutor, gave evidence that he locked up the store, and that one of the prisoners had brought sawdust there on some occasions. No defence was attempted, and both prisoners were committed to the Assises, on the charge of burglary.
 
 ---
 
@@ -1196,15 +1289,27 @@ P.S. Stannard then deposed to receiving the articles which he now produced of th
 
 
 
-## Leniency
+## In the gift of the court
 
 
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Independent - Saturday 23 September 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480923/083/0006)
 
-[Portsmouth Times and Naval Gazette - Saturday 22 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520522/058/0003)
+ISLE OF WIGHT COUNTY PETTY SESSIONS.
 
-Borough Petty Sessions, Monday.— Present, C. W. Estcourt, Esq., Mayor, E. Way, and R. M. Waveli, Esqs.
+On Saturday last, at the Guildhall, before the Rev. W. White and other Magistrates.
 
-Ann Tayler was charged with being drunk and disorderly at the Tontine Tap on Sunday night. She was turned out of the house, but returned, when she was given into custody. John Hollywood gave evidence that the defendant came his house and drank with the soldiers, using very bad language, which he was determined not to allow. The defendant said was owing to her having had a little drink ; if the Court would forgive her, she would leave the Isle of Wight that day. The Mayor said it was not a very serious charge, and they would dismiss the case provided she would leave the Isle of Wight.
+Isaac Dore was charged by the Governor of the House of Industry with suffering his wife to become chargeable to the Guardians of the Poor. Defendant said that after being obliged to part with his wife through her dissolute and abandoned course of life, he allowed her five shillings a week, until her language every time she met him became so abusive that he discontinued the allowance, when she threw herself into the House of Industry.
+
+Inspector Grapes was called to prove that he bad known the wife of the defendant a long time as a woman of very loose habits; and he had no doubt that she was a common prostitute.
+
+The Chairman was about to discharge the defendant, saying that no husband could be compelled to support a wife under such circumstances, when it was whispered to his worship that such a course of conduct had been pursued by this abandoned woman for years before the defendant married her, and that he did so with his eyes open to her manifold failings.
+
+Mr. White: Oh, that alters the case altogether. You must pay the cost of maintaining your wife in the house, and the costs of Court, and not let her become chargeable in future.
+```
+
+
 
 
 ```{admonition} TO DO
@@ -1264,3 +1369,50 @@ Verdict,— " The deceased was found dead, and that death was occasioned by inju
 Ragged Schools.—These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
 
 ```
+
+
+## Time to improve the church and its surroundings?
+
+
+
+```{admonition} Calling down the judgment of the Almighty, June 1849
+:class: dropdown
+[Hampshire Telegraph - Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004)
+
+At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the nmagistrates were determined to put down such open and gross vice and imnmorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
+
+Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
+
+```
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Advertiser - Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003)
+
+Borough Court.— On Monday, before the Major and other magistrates.
+
+A DISORDERLY CHARACTER.
+
+Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near the White Hart Inn, Pyie-street.
+
+The Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock ; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house ; had often seen her out late at nigbt. but never knew her noisy before, and when sober she is always quiet. Whilst the girls were out he could never get the men away.
+
+Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a common prostitute.
+
+The Mayor observed that he had given instructions to the police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce wouid be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
+
+Fined 10s and Ss costs, which not being paid, she was committed to the House of Correction for fourteen days.
+
+```
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005
+Hampshire Advertiser - Saturday 22 March 1851
+
+Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
+
+James Arthur, and William Henry Stubbs, two of the newly-appointed borough policemen, were charged by the Inspector with being drunk on the previous Saturday evening, while on duty. Witness deposed that on the day in question Arthur was on duty, and he desired him and Stubbs to be at the station-house at four o'clock. Stubbs was not wanted, but he told him to be at the station at six o'clock, for evening duty. Neither of tbem came until twenty-five minutes after six. Witness complained of their want of punctuality, and ordered them to be more correct in their time. He thought Stubbs appeared the worse for liquor. About half an hour after, Arthur came to tbe station-house quite drunk, he took off his coat, and said he did not wish to remain in tbe police. He saw several persons round Stubbs, who were jeering him, but he was not so drunk as Arthur. Witness sent them home, as unfit for duty.
+
+The defendants did not deny the charge, but pleaded that they were sleepy, having been up the previous night, and had neglected taking proper food, wnich caused a little drink to have more effect.
+
+The Mayor said he was sorry to see them so soon in such a position. The court had not for a long time heard of drunkenness amongst policemen. It was one of those offences that could not be overlooked, ss it was their duty to bring others to be punished for the offence they had been guilty of. The judgment of the court was, that both defendants be dismissed from tbe borough police.
