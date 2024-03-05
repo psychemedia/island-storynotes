@@ -1,4 +1,4 @@
-# Tempter and Tempted
+# Tempters and Tempted
 
 In the early summer of 1855, the [Saturday 30 June, 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/030/0004), edition of the *Isle of Wight Observer* records in its *Fashionable List* that the Rev. Carus Wilson, and his wife, Mrs Wilson, were in reseidence at Pulpit Rock Villa, Ventnor, Isle of Wight, then moving to St. Boniface House, Ventnor by [Saturday 11 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550811/022/0004).
 
