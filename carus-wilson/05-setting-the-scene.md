@@ -258,7 +258,7 @@ Visitors continue to arrive daily in considerable numbers in the Isle of Wight, 
 Large drafts of men and a considerable number of officers have lately left Parkhurst Barracks for the Crimea, who have been replaced by fresh arrivals, so that the Barracks are quite full at the present time. The Isle of Wight Militia Artillery, upwards of 100 strong, were under orders to be billetted at Ryde, so as to make room for the 48th Regiment in Newport, but the order was afterwards countermanded.
 ```
 
-```{admonition} Considerable drafts have left Parkhurst barracks
+```{admonition} Considerable drafts have left Parkhurst barracks, November 1855
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18551103/011/0004
 Hampshire Telegraph - Saturday 03 November 1855
