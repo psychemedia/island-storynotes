@@ -174,7 +174,7 @@ No license was taken away from any publican, though the landlord of the "Race Ho
 
 
 ```{warning}
-I can't see the Race Horse named on the OS map?
+I can't see the Race Horse named on the OS map? Another report mentions the "Race Horse passage", just off the High-street.
 ```
 
 ````
@@ -672,7 +672,6 @@ Paradise Row was perhaps located between High Street and Pyle Street, but I donl
 
 ```
 
-
 Living in such a place appears not to have been without its hazards, as the following rather amusing incident demomnstrates:
 
 ```{admonition} Sleeping in the wrong house? June 1855
@@ -732,7 +731,24 @@ Fined 15s.
 The prisoner wanted to exhibit his bruises, and said the usage he had received was worth 10 shillings and more too; full credit, however, was given to his word in this case, and a promise that an imprisonment for ten days only would be an equivalent to the debt, which we believe the young ladypaid for him before the Court adjourned.
 ```
 
-```{admonition} Keeping a disorderly house in Paradise Row, Noveber 1849
+The following report adds a little more colour to the case:
+
+```{admonition} Biting a policeman unmercifully, June 1846
+:class: dropdown
+[Hampshire Advertiser - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008)
+
+Newport Borough Court.— On Monday— (Before the Mayor and Thomas Cooke and A. Clarke, esqrs.)
+
+A girl, named Eliza Brading, and her father, J. Brading, both of them notorious characters, were charged with being riotous and assaulting the policemen, in the middle of the night.
+
+From the evidence, it appeared that Cooke and Wooldridge heard a great noise in Brading's house, in Paradise Row, about two o'clock on Sunday morning; the two defendants appeared to be abusing and striking each other. While some were standing there the girl ran out of the house and fastened the door. Brading directly afterwards broke the pannels of the door through, and came into the lane, when they endeavoured to take him, and whilst doing so the daughter scratched and bit them unmercifully.
+
+The man was fined 15s, including costs, which he paid; and the girl was committed to the Bridewell for a month.
+
+```
+
+
+```{admonition} Keeping a disorderly house in Paradise Row, November 1849
 :class: dropdown
 [Hampshire Independent - Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007)
 
@@ -758,8 +774,41 @@ Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young ma
 
 ## Drunk and/or disorderly
 
-Reports in the weekly local press of the time regularly included general mentions of disorderly conduct, including drunkenness, swearing, and prostitution.
+Reports in the weekly local press of the time regularly included general mentions of disorderly conduct, including drunkenness, swearing, and prostitution, as well as domestic incidents.
 
+```{admonition}
+:class: dropdown
+[Hampshire Advertiser - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008)
+
+Newport Borough Court.— On Monday— (Before the Mayor and Thomas Cooke and A. Clarke, esqrs.)
+
+A girl, named Eliza Young, complained against a woman of the name of James, living in Cosham-street, or assaulting her on Saturday evening last.
+
+It appeared that the husband of defendant had been beating a younger sister of complainant, and Eliza was just in the act of repaying him, with interest, when at that moment in popped Mrs. James, and checked her with a couple of back-handed blows across the face.
+
+Complainant said sbe wished then to " take the pair," and they would have settled it without bringing the case here: but her friend would not let her.
+
+The magistrateds bound Mrs. James over to keep the peace for a twelevemonth.
+
+```
+
+Perhaps the same Eliza Young was also involved in another incident a coupleof years later:
+
+```{admonition} Ill-using a wife, March 1848
+:class: dropdown
+[Hampshire Advertiser - Saturday 18 March 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18480318/037/0005)
+
+Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
+
+James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza . with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked tbe door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
+
+Eliza Young stated that the complainant merely came to her hoause for the purpose of asking her to accompany her to the Quay, to see if ber husband was gone down the river.
+
+The defendant, in his defence, said he caught both of them with soldiers in the house, and she was always out somewhere "cata-walling." He was bound over to keep the peace for a twelve-month.
+
+```
+
+Reports of drunken and disorderly behaviour were even more commonplace.
 
 ```{admonition} An old offender, drunk and disorderly
 :class: dropdown
@@ -897,7 +946,29 @@ She was fined 5s. and 5s. costs, and if not paid in a week to be committed for 1
 
 ```
 
-In reports of cases of prostitution, we can occasionally get a sense of where the girls were working. In the following case, several of them appear to have made their way down the High Street to the Mechanics Institution, and then towards the Green Dragon-yard (St Thomas' Square), before going backl to the High Street and Cosham-street (i.e. South Street).
+In reports of cases of prostitution, we can occasionally get a sense of where the girls were working. The following case also demonstrates how the non-payment of a fine could lead to a period in the stocks.
+
+```{admonition} A Christmas-time excuse, for loud and drunken behaviour? December, 1848
+:class: dropdown
+[Hampshire Independent - Saturday 30 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481230/084/0008)
+
+Borough Court
+
+On Tuesday, before the Mayor (J. Eldridge, Esq.), and R. M. Wavell, Esq.
+
+Elizabeth Linnington and Elizabeth Loch were charged with being drunk and disorderly at two o'clock that morning.
+
+P.C. Hobbs stated that he saw the two defendants, and six lads, in the High-street, near the Race Horse passage, making a great noise. He told the defendants that it was time that the streets should be cleared, and that they must not make a noise, on which they left, and went towards the Three Tuns. They then quarrelled, and made a great noise; he went to them and took them both into custody. They were very drunk, and could hardly stand. They were both common prostitutes.
+
+The defendants stoutly denied this assertion, and also the statement that they were drank, pleading that if they were so, it was excusable, being Christmas time.
+
+Inspector Grapes was called, and said that he had frequently seen both the defendants walking the streets, at all hours of the night.
+
+The The Mayor said that the use was clearly proved, and the magistrates would fine them 5s. each, and allow them till Saturday (this day), to pay it. If it was not then paid, they would be both privately placed in the stocks.
+
+```
+
+In the following case, several of them appear to have made their way down the High Street to the Mechanics Institution, and then towards the Green Dragon-yard (St Thomas' Square), before going backl to the High Street and Cosham-street (i.e. South Street).
 
 ```{admonition} Loitering in the High-street, July 1854
 :class: dropdown
@@ -961,7 +1032,6 @@ Jane Snudden was fined 10s. and 5s. costs for loitering about the streets in the
 Fanny Gutteridge, Martha Linnington, and Martha Denness, three common prostitutes, were charged by P.C. Stubbs with fighting in the street on Saturday night, at half-past 12 o'clock. Reprimanded and discharged.
 
 ```
-
 
 Brief reports of creating a disturbance can also be regurlarly found.
 
@@ -1037,14 +1107,9 @@ Ellen Mills, a prostitute, who had nearly succeeded in poisoning herself a few w
 
 ```
 
-
-
-
-
 ## Charged With Theft
 
 As well as beiung a hotbed of drunkenness and vice, it seems that a certain familiarity with theft was not unknown to the residents of Cosham-street and the Tontine Yard.
-
 
 ````{admonition} A wretched denizen of Tontine-yard, May, 1846
 :class: dropdown
@@ -1199,7 +1264,6 @@ On Saturday, James Nobbs and Edward Woodford were charged with breaking into the
 
 ```
 
-
 ```{admonition} TO DO
 :class: dropdown
 [Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
@@ -1215,7 +1279,6 @@ Ellen Vine (a common prostitute) deposed to having been with the prisoner the ne
 Committed to the Sessions.
 
 ```
-
 
 ```{admonition} TO DO
 :class: dropdown
@@ -1250,7 +1313,6 @@ Committed to the Sessions.
 The prisoner was then charged with and committed for stealing the shirts from the washhouse at the barracks, they being identified by the woman who was washing them the day before.
 
 ```
-
 
 ```{admonition} TO DO
 :class: dropdown
@@ -1294,7 +1356,6 @@ Bailey was discharged. The others were fined 10s and 3s 6d costs each, and, in d
 
 ```
 
-
 ```{admonition} TO DO
 :class: dropdown
 [Isle of Wight Observer - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003)
@@ -1319,10 +1380,7 @@ P.S. Stannard then deposed to receiving the articles which he now produced of th
 
 ```
 
-
-
-## In the gift of the court
-
+## In the gift of the court
 
 ```{admonition} Eyes open to her manifold failings, September 1848
 :class: dropdown
@@ -1378,8 +1436,23 @@ This was a public-house quarrel, and the parties appearing to have been drunk at
 
 ```
 
-## Tragic Tales
+```{admonition} Caught playing cards, March 1848
+:class: dropdown
+[Hampshire Advertiser - Saturday 18 March 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18480318/037/0005)
 
+Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
+
+Joseph Anderson, landlord of tbe Pack-horse, in Sea-street, wss charged with allowing card-playing in his house.
+
+P.C. Cooke stated that he found men playing cards there on Saturday evening, and told the landlord it was not allowed.
+
+The defendant, in his defence, said he had been out to a Club on the night in question, and when he came home, and caught them at it, he snatched up what cards he could, and threw them into the fire, for which he was knocked down by a Cowes man.
+
+The Mayor said he should have immediately got the assistance of the police, and cleared his house of them, and not have allowed them to play afterwards.  He should dismiss the case, but advised him to be cautious for the future.
+
+```
+
+## Tragic Tales
 
 ```{admonition} The body of a new-born female child, March 1854
 :class: dropdown
@@ -1400,9 +1473,6 @@ Mr. Robert Horlock, surgeon, then said— I first saw the body of deceased about
 Verdict,— " The deceased was found dead, and that death was occasioned by injuries received on the head, but no sufficient evidence to shew whether the injuries were inflicted wilfully or accidentally."
 
 ```
-
-
-
 
 ## A Supportive Community]
 
