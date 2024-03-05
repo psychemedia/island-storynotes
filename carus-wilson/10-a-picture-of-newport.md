@@ -149,7 +149,7 @@ As we shall see, this area of Cosham Street (now South Street), seems to have we
 In 1853, the license of the Tontine was transferred to a Mr. Joseph Phillipps.
 
 ```{admonition} Transfer of license, April 1853
-:class:dropdown
+:class: dropdown
 [Isle of Wight Observer - Saturday 23 April 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530423/017/0003)
 
 Borough Sessions
@@ -289,7 +289,7 @@ James Tansom, landlord of the Fountain Tap `[the following week, he was describe
 ```
 
 ```{admonition} Please take "these here things" into consideration, June 1842
-:class; dropdown
+:class: dropdown
 [Hampshire Independent - Saturday 18 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18420618/043/0003)
 
 BOROUGH COURT—  On Monday, before Mr. A. Clarke.— James Tansom, of the Tontine Tap, who was fined 40s. and costs on the previous Monday, for keeping a disorderly house, now stepped into the defendant's box, and pointed out the hardship, injustice, and cruelty, of fining him, he being perfectly innocent according to his own showing. He said be thought it was a very hard case, for he had a sick wife, and scarcely any of the drunkenness was produced in his house; but people got drunk in other houses. and came to his house, and "knocked up a row." Tansom said he had nothing but the public-house to look to for the support of three of them, himself, his wife, and the doctor (immense laughter); and, besides, he had never been brought before magistrates before from infancy to old age (laughter). As soon as he turned his back to draw a drop of beer, they began their rookery again, and he wished the Bench to take "these here things" into consideration.—The Bench said that it was most extraordinary that these rows, by people who get drunk elsewhere, should only occur in his house ; that women and soldiers should be found in his rooms day and night, on Sundays and workdays, and yet he know nothing at all of it. These things must be by his own conmnt, and the penalty they had inflicted was exceedingly moderate, for if he had had his due he would have been indicted at the sessions. They could not alter their previous decision.—Tansom: " Then you must take me to prison, that's all I have to say."
