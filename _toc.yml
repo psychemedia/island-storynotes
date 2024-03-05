@@ -31,6 +31,7 @@ parts:
   chapters:
   - file: carus-wilson/00-preface
   - file: carus-wilson/05-setting-the-scene
+  - file: carus-wilson/10-a-picture-of-newport
 - caption: Appendix — Original Tellings
   chapters:
   - file: elder-godshill
