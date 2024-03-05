@@ -27,6 +27,10 @@ parts:
 - caption: The Ardlamont Affair
   chapters:
   - file: ardlamont-case/henry-card-tragic-accident.md
+- caption: Nurseries of Vice and Invention
+  chapters:
+  - file: carus-wilson/00-preface
+  - file: carus-wilson/05-setting-the-scene
 - caption: Appendix — Original Tellings
   chapters:
   - file: elder-godshill
