@@ -22,6 +22,26 @@ A Plan of the Town of Newport, Andrews 1759, [[via](https://www.nostalgicpicture
 [Interactive map, Ordnance Survey](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=50.69959&lon=-1.29219&layers=117746211&b=1), (includes many pub names); surveyed 1862, published 1865.
 ```
 
+Amidst the hustle and bustle of the town, the sound of an accordion might perhaps have been heard.
+
+```{admonition} A persistent, vagrant, Italian minor, begging with an accordion for 16d. a day, December, 1848
+:class: dropdown
+[Hampshire Independent - Saturday 30 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18481230/084/0008)
+
+Borough Court
+
+On Tuesday, before the Mayor (J. Eldridge, Esq.), and R. M. Wavell, Esq.
+
+An Italian boy, giving his name as Powliss Wagner, was charged with vagrancy.
+
+A female with whom the defendant lived acted as interpreter.
+
+Inspector Grapes stated that that morning he saw the defendant playing an accordion in the street. He had, for the last mouth, frequently seen him in the street playing and begging, and had desired him not to do it. He took him to the station house about a month since, and found 16d. on him, which was one day's earnings. His father came to the station house, and promised that he should not offend again, upon which witness allowed him to go. He had, however, played every day since, and witness had frequently told him not to do so, but it was of no use, and he was obliged, at last, to bring him before the magistrates.
+
+The Mayor said that as far as the magistrates were concerned, they would much rather that the defendant's father was at the bar. They would, however, punish the father, through the defendant, by sending the defendant to the House of Correction for a week, with hard labour, for begging ; and this was way that the magistrates intended to deal with the rest of the fraternity if they ever caught any of them.
+
+```
+
 In November 1852, council members unanimously elected Francis Pittis, a well-regarded local auctioneer and valuer, as well as Conservative councillor, Mayor for the first time, the term of appointment being one year.
 
 ```{admonition} General meeting of the council
@@ -69,7 +89,6 @@ Mr. Estcourt proposed Mr. F. Pittis as Alderman, and on a ballot being taken, he
 ...
 ```
 
-
 ## Local bye-laws
 
 In the 1850s, disorderly conduct in the public streets had been regulated by the [Vagrancy Act, 1824](https://www.legislation.gov.uk/ukpga/1824/83/pdfs/ukpga_18240083_en.pdf), which included the following clause:
@@ -99,90 +118,59 @@ For regulations relating more particularly to vice, see Sheldon Amos' *A compara
 
 ```
 
+The Newport Bridewell and the Town Gaol were both situated near the corner of Holyrood-st and Sea-st, by the Medina Inn (now the Medina Railway Tavern).
 
----
+```{seealso}
+Named after the original Bridewell, Bridewells were houses of correction where prisoners could serve out short term sentences, often for crimes relating to vagrancy, disorderly conduct, etc.
 
-Newport / Parkhurst barracks couldn't have been that bad?
+![Bridewell and Town Gaol](images/bridewell_and_gaol.png)
 
-https://webarchive.nationalarchives.gov.uk/ukgwa/+/http://yourarchives.nationalarchives.gov.uk/index.php?title=The_Contagious_Diseases_Acts
-
-https://www.oldscottish.com/statutes-c.html
-
-The Contagious Diseases Acts were introduced in the 1860s for the compulsory examination of women believed to be common prostitutes for their hospitalisation (known as lock hospitals or lock wards) should they be diagnosed suffering from a contagious disease within the meaning of the Acts. The Acts were in reaction to fears that service men were vulnerable to infection from associating with prostitutes and that the Acts would apply to garrison towns and naval ports frequented by prostitutes. The Act of 1864 (27 and 28 Victoria C85) identified the following towns falling within the remit of the Act: Chatham, Colchester, Cork, Curragh, Portsmouth, Plymouth, Shorncliffe, Woolwich. The Act of 1866 (29 and 30 Victoria C96) added Canterbury, Devonport, Dover, Gravesend, Maidstone, Southampton and Winchester. The Act of 1873 did not stipulate particular towns or areas.
-
-
-TH: neither Newport nor Parkhurst nor Albany get a mention.
-
-----
-
-Contagious Diseases Act 1864 et al, eg in https://archive.org/details/cu31924017705116/page/429/mode/1up ([1866 Act](https://archive.org/details/cu31924017705116/page/344/mode/1up); [1869 Act](https://archive.org/details/cu31924017705116/page/369/mode/1up?q=1869)) A comparative survey of laws in force for the prohibition, regulation, and licensing of vice in England and other countries; with an appendix giving the text of laws and police regulations as they now exist in England, in British dependencies, in the chief towns of continental Europe, Sheldon Amos, 1877
-
-§864, 1866: THe Term "Contagious Disease" means "Venereal Disease" including Gonorrhoea. 
-
-1864 https://play.google.com/books/reader?id=ulUMAQAAMAAJ&pg=GBS.PA356&hl=en
-1866 https://play.google.com/books/reader?id=jJp0lRyIP4oC&pg=GBS.PA220&hl=en
-1869 https://archive.org/details/statutesunitedk14britgoog/page/n460/mode/2up
-
-
-
-## Parkhurst Barracks
-
-Parkurst (Albany) Barracks were located on the northern edge of Newport, next door to Parkhurst prison. Thr prison had opened in December 1838 as an establishment for young male offenders, on the turnpike road to (West) Cowes.
-
-The prison has originally been set up as a ...
-
-
----
-https://archive.org/details/acollectionpubl19britgoog/page/n556/mode/2up
-
-See: Parkhurst Prison Act, 1838,1 & 2 Vict., ch. 82
-
----
-
-
-See also https://www.theprison.org.uk/NewportTGCB/
-
-Newport County Bridewell, Newport Gaol
-
-The Town Gaol (ID 170) was located on the same site. By 1848, the prison had been converted into a police station.
-
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Independent - Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003)
-
-At the Petty Sessions, on Saturday last, before the County Magistrates, at the Guildhall.
-
-— The Colonel of the St. Helens Regiment, together with Capt. Woolcombe, the Governor of the Juvenile Prison, appeared in court to complain of the great number of disorderly females which infested the road leading to the Barracks, aud were constantly lying-in-wait around the Barnet-gate, drawing away the attention of the men from their military duty, and occasioning very great inconvenience to the and moreover had been the means of sending many of the soldiers to the Hospital. The Court promised to consider what steps they could take to abate the evil; but it is well known that many of these wretched women —children, we had almost said—had followed the regiment from Winchester and Gosport, and the consequent evils were to be attributed to them. There is, however, a much greater evil existing within the Barrack-palings, and which calls aloud for a remedy. We have no doubt of the justice of the complaint laid by the Colonel of the indecent conduct exhibited without the gate ; but is it not a sin against all morals and decency to eject these miserable unfortunates at all times of the night, when caught within the precincts of the soldiers' quarters, to drive them from the gates to find the best of their way to the town without an article of clothing to cover them. Many of these poor creatures have been met by workmen in the mornings crawling along under the hedges and bye-roads in a state of nudity. Surely a remedy may be found without resorting to this indecent and immoral system to put a stop to the intrusion of improper character into the Garrison.
+For more information about the Newport Bridewell and Town Gaol, see https://www.theprison.org.uk/NewportTGCB/
 
 ```
 
+```{admonition}
+:class: dropdown
+[Hampshire Advertiser - Saturday 07 July 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490707/012/0003)
 
----
+Newport Bridewell
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530917/007/0002
-Isle of Wight Observer - Saturday 17 September 1853
+The Rev. R. Walton White read the report of the Committee appointed to ascertain in what manner the Newport Bridewell might be converted into a Police-station, with a sufficient number of cells for the safe custody of prisoners remanded for further examination, together with proper accommodation for magistrates assembled in petty sessions, by which it appeared that the buildings of the prison are unfit for the purposes of a police-station, but might be converted to such purpose; and had they been at the immediate disposal of the county, the Committee would have been prepared with a detailed suggestion as to their conversion to such purpose, although it was worthy of consideration to have sold the interest of the county and adopted a different site and erected a new building thereon.
 
-HURRAH FOR THE WELSH FUSILIERS !
+`[Further discussion on how to accommodate the police stattion then follows.]`
 
-On Tuesday last the officers of the 23rd Royal Welsh Fusiliers gave a grand entertainment at the Queen's Rooms, Newport, which was brilliantly attended. The rooms were decorated with consummate taste, and presented a very gay and elegant tromp d'oeil. On the walls were pourtrayed animals of various kinds, around which gracefully depended festoons and bouquets; and from the side windows, avenues filled with choice exotic and native plants branched off, presenting charming perspective. Rarely, indeed, have we witnessed a more delightful reunion. Dancing commenced at ten o'clock to the music of the excellent Ryde Quadrille band, and alternately with that of the regiment, under the able superintendence of Mr. Handley. Quadrille, polka, valse, and galop followed each other rapid succession, and were kept till an advanced hour in the morning, giving ample occupation to the votaries of Terpsichore; the gay uniforms of the officers contrasting with the sober dress of the civilian, and intermingling with the beautiful costumes of "thefairest of the fair, presented scene charming in the extreme. At 12, the supper room, magnificently adorned with a profusion of plate and vases of flowers, and provided with the most luxuriant viands in the greatest profusion for the assembled guests, which reflected much credit upon the caterer, Mr. Jelly, the messman of the regiment, was thrown open.
+```
 
-The ball was most appropriately wound up with that Old English dance " Sir Roger de Coverley," with a rapid galop as *finale*.
+## Parkhurst Barracks
 
-The cordial *empressement* and affable hospitality of the gallant Fusiliers won all hearts, rendering every one who had the good fortune to be present happy and delighted. The most cynical could not refuse their full meed of approbation to their successful exertions in diffusing pleasure and amusement throughout the evening. For many years a more brilliant gathering has not been seen in Newport, and we most sincerely congratulate the Royal " Goats" on their signal success.
-
-... [A list of the notable persons who attended is prodvided.]
-
----
+Parkurst (Albany) Barracks were located on the northern edge of Newport, next door to Parkhurst prison, previously a military hospital that had been converted to a prison for young male offenders in December 1838.
 
 As a garrison town, soldiers from a wide variety of regiments were stationed at Parkhurst Barracks, often *en route* to the Crimea via troop ships sailing out of Portsmouth. The muster appears to have reached about 1,300 officers and men at any one time, many of them young men in their teens or early twenties.
 
-Troops were landed at Fountain Quay in Cowes, and then marched south to Parkhurst Barracks. The road on into Newport would have entered the town at Hunny-hill.
+Troops were landed at Fountain Quay in Cowes, and then marched south to Parkhurst Barracks. The road on into Newport would have entered the town at Hunny-hill, although it seems that pedestrian access could perhaps have been improved further.
+
+```{admonition} A footpath to the Barracks and Prison
+:class: dropdown
+[Hampshire Telegraph - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004)
+
+MEETING OF THE NEWPORT TOWN COUNCIL.
+
+The Quarterly Meeting of the Town Council was held on Tuesday, the Mayor, John Henry Hearn,, Esq., in the chair.
+
+...
+
+It was proposed by Mr. Pinnock that the foot pavement leading towards Parkhurst Barracks should be extended as far as the boundaries of the Borough, and that measures be taken to obtain a footpath to the Barracks and Prison.
+
+Mr. B. W. Mew hoped to see a foot-path lighted from the town to the Prison.
+
+A committee were then appointed to report on the subject.
+
+```
 
 According to [Report of the Commissioners appointed to inquire into the regulations affecting the sanitary condition of the army, the organization of military hospitals, and the treatment of the sick and wounded  with evidence and appendix. Presented to both Houses of Parliament by Command of Her Majesty](https://archive.org/details/b21365210/page/440/mode/2up?q=parkhurst):
 
-Return showing the Amount of Accommodation in each Barrack in the United Kingdom,
-I. — England and Wales — continued.
+*Return showing the Amount of Accommodation in each Barrack in the United Kingdom,
+I. — England and Wales — continued.*
 
 | Station | Barrack| The No. of Men Each Barrack is calculated to accommodate | No. of Men's Rooms in the Barrack | No. of Men in a Room (Highest / Lowest) | Cubic Feet of space allowed for wach man (Highest / Lowest) | Hospital (No. of Wards; No. of Patients in a Ward (Highest / Lowest) ; Cubic feet of space for each Patient (Highest / Lowest)) |
 |---|---|---|---|---|---|---|
@@ -286,20 +274,34 @@ Considerable drafts have left Parkhurst barracks within a short time for the sea
 Our Garrison.— About 350 men of the 15th, 30th, and 55th Regiments, came into Barracks, from off station in the Mediterranean, on Thursday. We have now 1100 men in Garrison.
 ```
 
-```{admonition} A footpath to the Barracks and Prison
+The officer class of regiments stattioned at the garrison seem to have integrated themselves into Island society:
+
+
+```{admonition} A grand entertainment, September 1853
 :class: dropdown
-[Hampshire Telegraph - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560209/013/0004)
+[Isle of Wight Observer - Saturday 17 September 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530917/007/0002)
 
-MEETING OF THE NEWPORT TOWN COUNCIL.
+HURRAH FOR THE WELSH FUSILIERS !
 
-The Quarterly Meeting of the Town Council was held on Tuesday, the Mayor, John Henry Hearn,, Esq., in the chair.
+On Tuesday last the officers of the 23rd Royal Welsh Fusiliers gave a grand entertainment at the Queen's Rooms, Newport, which was brilliantly attended. The rooms were decorated with consummate taste, and presented a very gay and elegant tromp d'oeil. On the walls were pourtrayed animals of various kinds, around which gracefully depended festoons and bouquets; and from the side windows, avenues filled with choice exotic and native plants branched off, presenting charming perspective. Rarely, indeed, have we witnessed a more delightful reunion. Dancing commenced at ten o'clock to the music of the excellent Ryde Quadrille band, and alternately with that of the regiment, under the able superintendence of Mr. Handley. Quadrille, polka, valse, and galop followed each other rapid succession, and were kept till an advanced hour in the morning, giving ample occupation to the votaries of Terpsichore; the gay uniforms of the officers contrasting with the sober dress of the civilian, and intermingling with the beautiful costumes of "thefairest of the fair, presented scene charming in the extreme. At 12, the supper room, magnificently adorned with a profusion of plate and vases of flowers, and provided with the most luxuriant viands in the greatest profusion for the assembled guests, which reflected much credit upon the caterer, Mr. Jelly, the messman of the regiment, was thrown open.
 
-...
+The ball was most appropriately wound up with that Old English dance " Sir Roger de Coverley," with a rapid galop as *finale*.
 
-It was proposed by Mr. Pinnock that the foot pavement leading towards Parkhurst Barracks should be extended as far as the boundaries of the Borough, and that measures be taken to obtain a footpath to the Barracks and Prison.
+The cordial *empressement* and affable hospitality of the gallant Fusiliers won all hearts, rendering every one who had the good fortune to be present happy and delighted. The most cynical could not refuse their full meed of approbation to their successful exertions in diffusing pleasure and amusement throughout the evening. For many years a more brilliant gathering has not been seen in Newport, and we most sincerely congratulate the Royal " Goats" on their signal success.
 
-Mr. B. W. Mew hoped to see a foot-path lighted from the town to the Prison.
+... [A list of the notable persons who attended is prodvided.]
 
-A committee were then appointed to report on the subject.
+```
+
+And as we shall see, the soldiery also had plenty of contact with Newport residents!
+
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Independent - Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003)
+
+At the Petty Sessions, on Saturday last, before the County Magistrates, at the Guildhall.
+
+— The Colonel of the St. Helens Regiment, together with Capt. Woolcombe, the Governor of the Juvenile Prison, appeared in court to complain of the great number of disorderly females which infested the road leading to the Barracks, aud were constantly lying-in-wait around the Barnet-gate, drawing away the attention of the men from their military duty, and occasioning very great inconvenience to the and moreover had been the means of sending many of the soldiers to the Hospital. The Court promised to consider what steps they could take to abate the evil; but it is well known that many of these wretched women —children, we had almost said—had followed the regiment from Winchester and Gosport, and the consequent evils were to be attributed to them. There is, however, a much greater evil existing within the Barrack-palings, and which calls aloud for a remedy. We have no doubt of the justice of the complaint laid by the Colonel of the indecent conduct exhibited without the gate ; but is it not a sin against all morals and decency to eject these miserable unfortunates at all times of the night, when caught within the precincts of the soldiers' quarters, to drive them from the gates to find the best of their way to the town without an article of clothing to cover them. Many of these poor creatures have been met by workmen in the mornings crawling along under the hedges and bye-roads in a state of nudity. Surely a remedy may be found without resorting to this indecent and immoral system to put a stop to the intrusion of improper character into the Garrison.
 
 ```
