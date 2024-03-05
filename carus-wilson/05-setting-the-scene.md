@@ -274,7 +274,7 @@ Considerable drafts have left Parkhurst barracks within a short time for the sea
 Our Garrison.— About 350 men of the 15th, 30th, and 55th Regiments, came into Barracks, from off station in the Mediterranean, on Thursday. We have now 1100 men in Garrison.
 ```
 
-The officer class of regiments stattioned at the garrison seem to have integrated themselves into Island society:
+The officer class of regiments stationed at the garrison seem to have integrated themselves into Island society:
 
 
 ```{admonition} A grand entertainment, September 1853
