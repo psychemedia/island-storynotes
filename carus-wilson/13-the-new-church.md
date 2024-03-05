@@ -1,9 +1,10 @@
 # The New Church
 
+By 1848, the old Church in the centre of Newport, St. Thomas', was in a considerable state of disrepair. So much so, in fact, that a special vestry meeting was called to propose the that church was passed being repaired, and needed to be rebuilt.
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480701/104/0008
-Hampshire Independent - Saturday 01 July 1848
+```{admonition} Important Vestry Meeting, July, 1848
+:class: dropdown
+[Hampshire Independent - Saturday 01 July 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18480701/104/0008)
 
 IMPORTANT VESTRY MEETING.
 
@@ -41,23 +42,88 @@ Mr. B. Mew expressed himself highly gratified with the novel unanimity of the me
 
 Mr. PRING acknowledged the compliment, and wished " he might live to see the new church finished."
 
+```
+
+Eighteen months further on, and a competition was being held for the design of the new Church, with no opportunity being missed to try raise more funds towards the project.
+
+```{admonition} Six of the best designs, December 1849
+:class: dropdown
+[Hampshire Advertiser - Saturday 08 December 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18491208/030/0005)
+
+At a General Meeting or the Subscribers to the New Church, (to replace the old one), held at the Assembly Rooms, on Monday last, six of the best designs were selected, out of which the most suitable one will be chosen by the selecting committee. Tbe number of designs sent for competition has been considerable, and many of them possessing great excellence. Their exhibition, at 1s each, has realised a considerable sum.
+
+```
+
+## Time to improve the church and its surroundings?
+
+Around about the same time ? attempot clean-up ??
+
+```{admonition} Calling down the judgment of the Almighty, June 1849
+:class: dropdown
+[Hampshire Telegraph - Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004)
+
+At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the nmagistrates were determined to put down such open and gross vice and imnmorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
+
+Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
+
+```
+
+```{admonition} TO DO
+:class: dropdown
+[Hampshire Advertiser - Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003)
+
+Borough Court.— On Monday, before the Major and other magistrates.
+
+A DISORDERLY CHARACTER.
+
+Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near the White Hart Inn, Pyie-street.
+
+The Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock ; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house ; had often seen her out late at nigbt. but never knew her noisy before, and when sober she is always quiet. Whilst the girls were out he could never get the men away.
+
+Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a common prostitute.
+
+The Mayor observed that he had given instructions to the police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce wouid be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
+
+Fined 10s and Ss costs, which not being paid, she was committed to the House of Correction for fourteen days.
+
+```
 
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005
+Hampshire Advertiser - Saturday 22 March 1851
+
+Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
+
+James Arthur, and William Henry Stubbs, two of the newly-appointed borough policemen, were charged by the Inspector with being drunk on the previous Saturday evening, while on duty. Witness deposed that on the day in question Arthur was on duty, and he desired him and Stubbs to be at the station-house at four o'clock. Stubbs was not wanted, but he told him to be at the station at six o'clock, for evening duty. Neither of them came until twenty-five minutes after six. Witness complained of their want of punctuality, and ordered them to be more correct in their time. He thought Stubbs appeared the worse for liquor. About half an hour after, Arthur came to the station-house quite drunk, he took off his coat, and said he did not wish to remain in the police. He saw several persons round Stubbs, who were jeering him, but he was not so drunk as Arthur. Witness sent them home, as unfit for duty.
+
+The defendants did not deny the charge, but pleaded that they were sleepy, having been up the previous night, and had neglected taking proper food, wnich caused a little drink to have more effect.
+
+The Mayor said he was sorry to see them so soon in such a position. The court had not for a long time heard of drunkenness amongst policemen. It was one of those offences that could not be overlooked, ss it was their duty to bring others to be punished for the offence they had been guilty of. The judgment of the court was, that both defendants be dismissed from the borough police.
 
 
 ---
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18491208/030/0005
-Hampshire Advertiser - Saturday 08 December 1849
-
-At a General Meeting or the Subscribers to the New Church, (to replace the old one), held at the Assembly Rooms, on Monday last, six of the best designs were selected, out of which the most suitable one will be chosen by the selecting committee. Tbe number of designs sent for competition has been considerable, and many of them possessing great excellence. Their exhibition, at 1s each, has realised a considerable sum.
-
 ## The New Parish Church of St Thomas
+
+Over the next few years, the fund-raising programme went well, and by 1854 enough funds had been raised to commit to the rebuilding programme.
+
+```{admonition} Closing of St. Thomas's Church, July 1854
+:class: dropdown
+[Hampshire Advertiser - Saturday 15 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540715/035/0007)
+
+
+Closing of St. Thomas's Church.—
+
+It is now positively arranged that next Sunday will be the last for holding Divine worship in our ancient parish church. Our feelings are indeed of a mingled character as we approach the solemn day. We cannot but hail with pleasure the prospect of having a new church in every way suited to the wants of the people. But it is impossible to contemplate the removal of the old fabric without many regrets. Built in the early part of the twelfth century. it has outlived many changes in our little town, and it will be long ere the eye is accustomed to the absence of one that has been the friend of many generations. On Sunday morning, the Mayor, Clergy, Magistrates, Councillors, and other officers of the Corporation, walk in procession to the church, when a sermon will be preached by the minister of St. Thomas, and a collection made in aid of the rebuilding fund. Sermons will be preached also and collections made after each of the other services. The Holy Communion will be administered in the evening, as the last solemn act of worship in the ancient fabric. Doubtless the scene will be an impressive and imposing one, and for years to come the closing day of the old parish church of Newport will be remembered as a memorable occasion in the recollection of the families of tbe Isle of Wight.
+
+```
 
 In the center of town, the increasingly dilapidated St. Thomas Church was finally going to be replaced with a new Church building.
 
 ```{admonition} A dilapidated state, 1848
 :class: dropdown
+
+TO DO - full article
 
 [Hampshire Chronicle - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005)
 
@@ -99,7 +165,7 @@ The Mayor again observed he should be happy to see them all, and the subject dro
 
 ```
 
-Advertisements announcement the layin gof the foundation stone appeared in the local press, and tickets were sold for seats from which the cermeony could be observed in order to raise additional funds for the rebuilding works.
+Advertisements announcement the laying of the foundation stone appeared in the local press, and tickets were sold for seats from which the cermeony could be observed in order to raise additional funds for the rebuilding works.
 
 ```{admontion} Seats affording a view of the ceremony
 :class: dropdown
@@ -425,7 +491,7 @@ The "separation of Newport from the united parishes of Carisbrooke and Northwood
 ```{admonition} The toast is responded to, and other toasts follow
 :class: dropdown
 
-The Lord Bishop of Winchester, addressing the assembly as Mr. Mayor, his lordship, and gentlemen, said he rose without a moment's hesitation to offer on behalf of the clergy of the Island, and in his own name, their respectful acknowledgments for the honour which had just been paid to them. He might truly say that this day was one of unmixed gratification to him. He had looked forward, now through many years, to the day which should see the foundation-stone laid of that edifice, which he trusted would prove one of the best buildings of the town, in every sense of the term, and become a credit not only to that place but to the whole Island— (cheers). He looked to the church, which, under God's blessing they hoped to raise within the town, not merely as an architectural building, although in that view he should not be the last to acknowledge its merits ; but he looked to it as a spot where those who came after them, as well as themselves while they remained here on earth, might repair for consolation and instruction in righteousness— (hear, hear, and cheers). He considered that the auspices under which the church had been commenced that day should lead them to expect a happy termination of the work—(hear, hear). The introduction which the Mayor had given relative to the Royal family, had reminded him of the many obligations they owed to the Royal personage who had so condescendingly honoured them with his presence— (cheers). His Royal Highness Prince Albert had manifested a deep interest in all works for the advancement of art and science and in addition to the efforts made for the advancement of literature, science, and art in this country— to which such a response Mhad been made— Royal Highness united in that which must be most dear to them, a deep feeling for the moral and religious welfare of the people of this country—(cheers). He saw in the presence of his Royal Highness that day that he took an interest in the spiritual welfare of our countrymen, and he recognised in a proof that their Royal neighbour, the Sovereign of this country, as well as her Royal Consort, were willing to be ranked, not only as the Sovereign of ihe country and the Royal Consort of the Sovereign but as neighbours to them— (great cheering). These were truly auspicious circumstances, and he might well call upon the Mayor in common with his fellow townsmen to rejoice and give God thanks for that which would long be remembered as a day of unmingled happiness amongst the townsmen of the Island— (cheers). He begged to return, on behalf of himself and on behalf of the clergy of the Island, their respectful thanks for the honour done them— (cheers).
+The Lord Bishop of Winchester, addressing the assembly as Mr. Mayor, his lordship, and gentlemen, said he rose without a moment's hesitation to offer on behalf of the clergy of the Island, and in his own name, their respectful acknowledgments for the honour which had just been paid to them. He might truly say that this day was one of unmixed gratification to him. He had looked forward, now through many years, to the day which should see the foundation-stone laid of that edifice, which he trusted would prove one of the best buildings of the town, in every sense of the term, and become a credit not only to that place but to the whole Island— (cheers). He looked to the church, which, under God's blessing they hoped to raise within the town, not merely as an architectural building, although in that view he should not be the last to acknowledge its merits ; but he looked to it as a spot where those who came after them, as well as themselves while they remained here on earth, might repair for consolation and instruction in righteousness— (hear, hear, and cheers). He considered that the auspices under which the church had been commenced that day should lead them to expect a happy termination of the work—(hear, hear). The introduction which the Mayor had given relative to the Royal family, had reminded him of the many obligations they owed to the Royal personage who had so condescendingly honoured them with his presence— (cheers). His Royal Highness Prince Albert had manifested a deep interest in all works for the advancement of art and science and in addition to the efforts made for the advancement of literature, science, and art in this country— to which such a response had been made— Royal Highness united in that which must be most dear to them, a deep feeling for the moral and religious welfare of the people of this country—(cheers). He saw in the presence of his Royal Highness that day that he took an interest in the spiritual welfare of our countrymen, and he recognised in a proof that their Royal neighbour, the Sovereign of this country, as well as her Royal Consort, were willing to be ranked, not only as the Sovereign of ihe country and the Royal Consort of the Sovereign but as neighbours to them— (great cheering). These were truly auspicious circumstances, and he might well call upon the Mayor in common with his fellow townsmen to rejoice and give God thanks for that which would long be remembered as a day of unmingled happiness amongst the townsmen of the Island— (cheers). He begged to return, on behalf of himself and on behalf of the clergy of the Island, their respectful thanks for the honour done them— (cheers).
 
 The Mayor next proposed the Army and Navy. The sister services were fighting for our hearths and homes in a foreign land, and not only for our hearths and homes but for the hearths of those who were not sufficiently strong to act against the powerful aggressor— (cheers) ; and it would be seen that they would act with that daring and bravery which had ever distinguished the British soldier and sailor— (cheers). It was not only for the liberty of a foreign nation they were fighting, but for a nation at home, in order that we may live in that peace and prosperity which we had so long enjoyed. He would couple with the toast the names of his distinguished visitors, General Lord Downes for the Army and Captain Crazier for the Navy—(cheers).
 
@@ -490,50 +556,3 @@ It is worthy of remark that during the whole of the day's ceremonies the large m
 ```
 
 
-
-
-## Time to improve the church and its surroundings?
-
-
-
-```{admonition} Calling down the judgment of the Almighty, June 1849
-:class: dropdown
-[Hampshire Telegraph - Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004)
-
-At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the nmagistrates were determined to put down such open and gross vice and imnmorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
-
-Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
-
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Hampshire Advertiser - Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003)
-
-Borough Court.— On Monday, before the Major and other magistrates.
-
-A DISORDERLY CHARACTER.
-
-Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near the White Hart Inn, Pyie-street.
-
-The Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock ; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house ; had often seen her out late at nigbt. but never knew her noisy before, and when sober she is always quiet. Whilst the girls were out he could never get the men away.
-
-Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a common prostitute.
-
-The Mayor observed that he had given instructions to the police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce wouid be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
-
-Fined 10s and Ss costs, which not being paid, she was committed to the House of Correction for fourteen days.
-
-```
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005
-Hampshire Advertiser - Saturday 22 March 1851
-
-Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
-
-James Arthur, and William Henry Stubbs, two of the newly-appointed borough policemen, were charged by the Inspector with being drunk on the previous Saturday evening, while on duty. Witness deposed that on the day in question Arthur was on duty, and he desired him and Stubbs to be at the station-house at four o'clock. Stubbs was not wanted, but he told him to be at the station at six o'clock, for evening duty. Neither of them came until twenty-five minutes after six. Witness complained of their want of punctuality, and ordered them to be more correct in their time. He thought Stubbs appeared the worse for liquor. About half an hour after, Arthur came to the station-house quite drunk, he took off his coat, and said he did not wish to remain in the police. He saw several persons round Stubbs, who were jeering him, but he was not so drunk as Arthur. Witness sent them home, as unfit for duty.
-
-The defendants did not deny the charge, but pleaded that they were sleepy, having been up the previous night, and had neglected taking proper food, wnich caused a little drink to have more effect.
-
-The Mayor said he was sorry to see them so soon in such a position. The court had not for a long time heard of drunkenness amongst policemen. It was one of those offences that could not be overlooked, ss it was their duty to bring others to be punished for the offence they had been guilty of. The judgment of the court was, that both defendants be dismissed from the borough police.
