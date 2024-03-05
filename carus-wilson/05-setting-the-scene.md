@@ -296,7 +296,7 @@ The cordial *empressement* and affable hospitality of the gallant Fusiliers won 
 And as we shall see, the soldiery also had plenty of contact with Newport residents!
 
 
-```{admonition} TO DO
+```{admonition} Disorderly females infesting the road, June 1842
 :class: dropdown
 [Hampshire Independent - Saturday 11 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002941/18420611/033/0003)
 
