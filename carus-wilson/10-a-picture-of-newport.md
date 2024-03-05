@@ -299,7 +299,7 @@ BOROUGH COURT—  On Monday, before Mr. A. Clarke.— James Tansom, of the Tonti
 At the start of 1843, the license was transferred to a Mr. Daniel Webb, whose name appears in association with the Tontine Tap several times over the next few years. The calibre of the place does not seem to have improved any.
 
 ```{admonition} Tontine licence transferred to Mr Webb, February, 1843
-:class: seealso
+:class: dropdown
 Hampshire Independent - Saturday 11 February 1843
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18430211/032/0003
 
@@ -314,8 +314,8 @@ Borough Court, Thursday.— A soldier, named Thomas Lyner, was remanded for furt
 ```
 
 ```{admonition} Stealing a decanter and a pint of run, April 1844
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18440420/072/0003
-Hampshire Independent - Saturday 20 April 1844
+:class: dropdown
+[Hampshire Independent - Saturday 20 April 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18440420/072/0003)
 
 County Quarter Sessions
 
