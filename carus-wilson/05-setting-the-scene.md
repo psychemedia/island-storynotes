@@ -8,7 +8,7 @@ For the young soldiers, many of them in their late teens or early twenties, ente
 
 A topographical map of the isle of Wight, John Andrews, fragment, [[via](https://gallica.bnf.fr/ark:/12148/btv1b53010266f/f1.zoom.r=.langEN)]
 
-![A topographical map of the isle of Wight, John Andrews, fragment, via https://gallica.bnf.fr/ark:/12148/btv1b53010266f/f1.zoom.r=.langEN](images/newport-andrews-1759.pngnewport-topog-andrews.png)
+![A topographical map of the isle of Wight, John Andrews, fragment, via https://gallica.bnf.fr/ark:/12148/btv1b53010266f/f1.zoom.r=.langEN](images/newport-topog-andrews.png)
 
 ```
 
@@ -76,7 +76,7 @@ The election of mayor for the ensuing year being the first business, Mr. Estcour
 
 As a reward for his service, and mid-way through his second term as Mayor of Newport, Francis Pitts, Esq., was elected Alderman of the Borough of Newport in April, 1854.
 
-```{admonition}
+```{admonition} Proposing Mr. F. Pittis as Alderman, April 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 15 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540415/014/0003)
 
@@ -129,7 +129,7 @@ For more information about the Newport Bridewell and Town Gaol, see https://www.
 
 ```
 
-```{admonition}
+```{admonition} On converting Newport Bridewell to a Police-station, July 1849
 :class: dropdown
 [Hampshire Advertiser - Saturday 07 July 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490707/012/0003)
 
