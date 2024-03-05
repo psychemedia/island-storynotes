@@ -8,39 +8,58 @@ If you go by the reports of the Borough Sessions, it seems to have been quite a 
 
 ## A colourful character, and, quite literally, an old offender — Repentance Adams
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18351212/020/0003
-Hampshire Advertiser - Saturday 12 December 1835
+A character that appears from the 1830s and into the 1850s, often around the winter time — Repentance Adams.
+
+```{admonition} Two old offenders stealing turnips, December 1835
+:class: dropdown
+[Hampshire Advertiser - Saturday 12 December 1835](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18351212/020/0003)
+
 At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two old offenders, were sentenced to 14 days in the House of Correction, for stealing turnips from Falrlee.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18381210/022/0004
-Hampshire Telegraph - Monday 10 December 1838
+```
+
+```{admonition} Stealing a mat, December 1838
+:class: dropdown
+[Hampshire Telegraph - Monday 10 December 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18381210/022/0004)
+
 Repentance Adams, an old offender, was committetd to Winchester to take her trial, for stealing a mat from the door of Mr. Minns, dyer, at Newport.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008
-Hampshire Advertiser - Saturday 17 January 1846
-Repentance Adams, an old offender, was charged with stealing a basket, the property of Mrs. Mills, of Newport. Former indictments were put in, and she was sentenced to four months' imprisonment and hard labour.
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008
-Hampshire Advertiser - Saturday 06 December 1845
+```{admonition} Stealing a rush basket, December 1845
+:class: dropdown
+[Hampshire Advertiser - Saturday 06 December 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008)
+
 A woman named Repentance Adams (an old offender, who some years ago created such a consternation by her numerous robberies of door-mats all over the town), was charged with stealing a new rush basket from the shop of Mrs. Mills, Town Gate. A woman named Inkstone, deposed to seeing her steal it; and Mr. Cooke, the borough policeman, stated he found it exposed for sale, shortly after she had stolen it, at the shop of Mr. Hale, grocer, Cobham-street, to whom, it appeared, she had just before disposed of it. She was committed to take her trial.
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001
-Hampshire Telegraph - Saturday 13 December 1845
-At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush botsket, from thie door of Mr. Mills, in St. James's street,and was fully committed for trial at the session." She was a few years ago tried for stealing mats from doors. 
+```{admonition} Stealing a basket, January 1846
+:class: dropdown
+[Hampshire Advertiser - Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008)
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004
-Hampshire Chronicle - Saturday 19 January 1850
-Committed the County Gaol.—For vagraney— Repentance Adams, 14 days
+Repentance Adams, an old offender, was charged with stealing a basket, the property of Mrs. Mills, of Newport. Former indictments were put in, and she was sentenced to four months' imprisonment and hard labour.
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580417/034/0007
-Hampshire Advertiser - Saturday 17 April 1858
+```{admonition} Vagrancy
+:class: dropdown
+[Hampshire Chronicle - Saturday 19 January 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004)
+
+Committed the County Gaol.—For vagrancy— Repentance Adams, 14 days.
+```
+
+```{admonition} Stealing a handkerchief and its contents, aged eighty, April 1850
+:class: dropdown
+[Hampshire Advertiser - Saturday 17 April 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580417/034/0007)
+
 An old woman of eighty, named Repentance Adams, was charged with stealing a hand kerchief, containing tobacco, bacon, sugar, cakes, &c., the property of an inmate of the House of Industry, named James Harwood.
 
 It appeared that the prosecutor was wending his way homeward with the bundle, and when at the bottom of Hunny Hill, he opened the wicket-gate of the cottage on the bridge, and placed his bundle under the hedge outside; went indoors to light his pipe, where be ttood gossiping a minute or two, and when he came out and looked for his bundle, it was gone. A young man working in the garden, named Windebank, swore that he saw the prisoner carry off a bundle, which he had no doubt was the one lost, although he was not then aware Harwood had just before thrown down the bundle which he saw the old woman pick up. It seems she must have had it under her shawl when Harwood spoke to her just after he left the cottage, as he passed her. Windebank had not then heard of his loss, and as soon as he did, they found out the old woman, who had, however, in the meantime, endeavonred to get rid of the spoil, somehow, and wanted to prove an alibi; but the evidence was too strong against her, and she contented herself by merely asserting she was not guilty, and was committed to Winchester Gaol for one month.
 
+```
+
 ## A License to Misbehave?
 
-At the annual licensing day in 1851, the Tontine Tap, whose license at the time appears to have been held by a certain Mr. John Hollywood, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution, as was the Old King's Arms on Pyle Street, although the licensee of that establishment objected to the charge.
+At the annual licensing day in 1851, the Tontine Tap, whose license at the time appears to have been held by a certain Mr. John Hollywood, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution. The Old King's Arms on Pyle Street, was also similarly charged, although that particular characterisation was objected to.
 
 ```{admonition} "Tontine Tap" and "Valiant Soldier" called out, Licensing Day, 1851
 :class: dropdown
@@ -75,7 +94,7 @@ BOROUGH PETTY SESSIONS On Monday, before the Mayor, and Abraham Clarke, Esq.
 
 This being the animal licensing day the court was crowded with persons interested.
 
-On the application of Mr. Robert Dyer, of the old King’s Arms, the mayor addressed him on the complaint which had been made respecting the bad conduct of his house. At a meeting of the Council, remarks were made which the magistrates were bound to notice, and should the same course be pursued the license would be refused another year. Applicant said Mr. John Dyer had better put the saddle on himself than him, for his houses were let to bad characters and allowed nothing of the sort in his house. Mr. Dyer said he had given the parties notice to quit. Mr. W. Mew, as proprietor of the old King's Arms, denied the statements made in the Council, and said the police had been most improperly charged with partiality in their conduct, Mr. Jenkins, of the White Hart, and Hollywood, of the Tontine Tap had similar admonitions.
+On the application of Mr. Robert Dyer, of the old King’s Arms, the mayor addressed him on the complaint which had been made respecting the bad conduct of his house. At a meeting of the Council, remarks were made which the magistrates were bound to notice, and should the same course be pursued the license would be refused another year. Applicant said Mr. John Dyer had better put the saddle on himself than him, for his houses were let to bad characters and allowed nothing of the sort in his house. Mr. Dyer said he had given the parties notice to quit. Mr. W. Mew, as proprietor of the old King's Arms, denied the statements made in the Council, and said the police had been most improperly charged with partiality in their conduct. Mr. Jenkins, of the White Hart, and Hollywood, of the Tontine Tap had similar admonitions.
 
 ```
 
@@ -544,7 +563,7 @@ The defendant was fined £2, and 5s. costs, and in default of payment committed 
 
 A couple of months later, in May, he was back again for a third time, at least, after a rather large party seems to have been interrupted.
 
-```{admonition} Sale of beer, at hours not allowed,  May 1855
+```{admonition} Sale of beer, at hours not allowed, May 1855
 :class: dropdown
 [Isle of Wight Observer - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003)
 
@@ -668,7 +687,7 @@ As well as regular mentions in the court reports for particular establishments, 
 
 ```{warning}
 
-Paradise Row was perhaps located between High Street and Pyle Street, but I donlt yet have a map that shows its location, or a report that clearing describes it.
+Paradise Row was perhaps located between High Street and Pyle Street, a lane leading off Pyle Street, but I don't yet have a map that shows its location, or a report that exactly describes its location.
 
 ```
 
@@ -747,7 +766,6 @@ The man was fined 15s, including costs, which he paid; and the girl was committe
 
 ```
 
-
 ```{admonition} Keeping a disorderly house in Paradise Row, November 1849
 :class: dropdown
 [Hampshire Independent - Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007)
@@ -776,7 +794,7 @@ Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young ma
 
 Reports in the weekly local press of the time regularly included general mentions of disorderly conduct, including drunkenness, swearing, and prostitution, as well as domestic incidents.
 
-```{admonition} TO DO
+```{admonition} Repaying a brating, with interest, June 1846
 :class: dropdown
 [Hampshire Advertiser - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008)
 
@@ -800,7 +818,7 @@ Perhaps the same Eliza Young was also involved in another incident a coupleof ye
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
-James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza . with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked tbe door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
+James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza . with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
 
 Eliza Young stated that the complainant merely came to her hoause for the purpose of asking her to accompany her to the Quay, to see if ber husband was gone down the river.
 
@@ -946,7 +964,7 @@ She was fined 5s. and 5s. costs, and if not paid in a week to be committed for 1
 
 ```
 
-In reports of cases of prostitution, we can occasionally get a sense of where the girls were working. The following case also demonstrates how the non-payment of a fine could lead to a period in the stocks.
+In reports of cases of prostitution, we can occasionally get a sense of where the women were working. The following case also demonstrates how the non-payment of a fine could lead to a period in the stocks.
 
 ```{admonition} A Christmas-time excuse, for loud and drunken behaviour? December, 1848
 :class: dropdown
@@ -968,7 +986,7 @@ The The Mayor said that the use was clearly proved, and the magistrates would fi
 
 ```
 
-In the following case, several of them appear to have made their way down the High Street to the Mechanics Institution, and then towards the Green Dragon-yard (St Thomas' Square), before going backl to the High Street and Cosham-street (i.e. South Street).
+In the following case, the route leads from the High Street to the Mechanics Institution, and then towards the Green Dragon-yard (St Thomas' Square), before going back to the High Street and Cosham-street (i.e. South Street).
 
 ```{admonition} Loitering in the High-street, July 1854
 :class: dropdown
@@ -1005,7 +1023,7 @@ At the Borough Petty Sessions on Monday, before T. Cooke and E. Way, Esqrs.— T
 
 ```
 
-Other flavours of loitering could also lead to the dock:
+On several occasions, simple acts of loitering appear to have lead to the dock:
 
 ```{admonition} Loitering with a soldier, September, 1855
 :class: dropdown
@@ -1014,6 +1032,66 @@ Other flavours of loitering could also lead to the dock:
 BOROUGH COURT. Monday.— Magistrates present:- R. M. Wavell, and E Way, esqrs.
 
 A girl of loose character, named Jane Snudden, was brought up by Police constable Stubbs tor an offence against the bye laws, being found by him loitering about the town with a soldier at midnight. She was fined 15s, including costs, and in default of payment, to be committed for fourteen days' hard labour.
+
+```
+
+At other times, the solicitng appears to have been more deliberate:
+
+```{admonition} Nymphs of the pave, strolling the streets, December 1850
+:class: dropdown
+[Hampshire Independent - Saturday 14 December 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18501214/071/0007)
+
+BOROUGH COURT. Monday, before the M=ayor, Abraham Clarke and R. M. Wavell, Esqrs.
+
+Joseph Read was charged by P.C. Hobbs with being drunk and disorderly in the streets of Newport, aboot twelve o'clock on Saturday night, refusing to go home, and wishing to fight with everybody he met.
+ 
+Defendant acknowledged he was drunk—it was the *first* time! and he was sorry for it; for if Bill Pragnell ever caught him in that state he always knocked him down, which he knew better than to do when he was sober. He had fought him once, and Pragnell had met him that night, and knockod him down three times, which made him so quarrelsome. Fined 5s. and 5s. coats.
+
+Eliza Golding and Keziuh Guy, a pair of our nymphs of the pave, were charged by Inspector Grapes with strolling the streets at all hours of the night, waylaying the people in going home, and soliciting them for improper purposes. He said they had frequently been ordered home,but it was of no use to speak to them.
+
+Miss Golding was fined 10s. and 5s. costs, and in default of payment to be committed for 21 days.
+
+Miss Guy to be committed in default of payment for 14 days.
+
+```
+
+Fighting also appears to have been a problem:
+
+```{admonition} Bonnets and dresses being torn, August 1844
+:class: dropdown
+[Hampshire Advertiser - Saturday 31 August 1844](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440831/036/0008)
+
+Borough Court
+
+Two nymphs of the pave, named Mary Ann Fry and Martha Bone, appeared before the Court in a most deplorable condition— their bonnets and dresses being torn in ribbons— charged with fighting, and otherwise disturbing the peace, on Sunday night. They were committed to Bridewell for fourteen day, as common prostitutes. 
+```
+
+```{admonition} Diverting themselves by fighting, May 1852
+:class: dropdown
+[Hampshire Independent - Saturday 01 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18520501/087/0005)
+
+BOROUGH COURT. On Monday, before the Mayor, Edward Way, and R. M. Wavell, Esqrs.
+
+
+Elegant Amusements
+
+Ellen Bull and Caroline Heal, two of our most noted nymphs of the pave, were charged with being drunk and disorderly.
+
+Inspector Grapes said that about half past eleven o'clock on Saturday night he heard a loud noise on the High-street, where found six or seven girls of the description of the prisoners, shouting at persons passing by. Half an hour afterward. he heard screeching near the Wheat Sheaf, where he found both the prisoners on the ground diverting themselves by fighting and tearing each other's clothes to pieces. There were three or four more standing looking on. They were all drunk. but Heal (who was bleeding from her face) was the worst. They were common prostitutes by profession, and were parading the serene at all hours, notwithstanding frequent warnings had been given them.
+
+Prisoners had nothing to say in their defence, and Heal came the hysterical dodge, but with inconsiderable effect.
+
+The Mayor: you are committed as common prostitutes to Winchester Gaol, there to be kept to hard labour for 14 days.
+
+```
+
+```{admonition} Drinking but not drunk, May 1852
+:class: dropdown
+[Portsmouth Times and Naval Gazette - Saturday 01 May 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18520501/042/0004)
+
+Borough Petty Sessions, Monday. —Present, C. W, Estcourt, Esq., Mayor; Edward Way, and R. M. Wavell, Esqs.
+
+Ellen Bull and Caroline Heal, two frail beauties, were charged by the Inspector of Police with disorderly conduct; he deposed that they were fighting in the High-street on Saturday night; that they had been drinking, but were not drunk. The Mayor said they had been guilty of riotous and indecent conduct, and were liable by the bye law to one months imprisonment. The Judgment of the bench was, that they be imprisoned for a fortnight in the House of Correction.
 
 ```
 
@@ -1221,7 +1299,7 @@ The prisoner made no defence, and was fully committed to take her trial at the n
 
 As well as being prosecuted for theft, there are plenty of reports of the working girls of Newport being summoned as witnesses to other crimes.
 
-```{admonition} TO DO
+```{admonition} What have you got there?, February 1854
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540211/011/0002)
@@ -1230,7 +1308,7 @@ As well as being prosecuted for theft, there are plenty of reports of the workin
 
 James Nobbs and Edward Woodford were charged with burglary.
 
-Alfred Hewitt, on being sworn, said—I am the son of John Hewitt, grocer, at West Cowes. On Saturday last I had an occasion to go to father's desk, in which he keeps his money, and I then left there six £5 notes, three cheques for £15, £10, and £5, and £5 in change. I left the parlour about half-past 10 o'clock, and went to bed about half-past 11; the desk was then on the sideboard. I got up about half-past 7 the next morning, and when I came down stairs I missed the desk. Tuesday last, in the afternoon, I went into my father's store, at the back of the premises, with Sergeant White and two other policemen, and there saw the desk in a tea chest. It was opened in my presence. I missed from it four notes and the £5 change. In the same tea chest there was a missionary moneybox, which had also been taken from the cheffonier in the parlour—both of which had been broken open. In the upper store we found two decanters, with spirits in them and labels on tbem, in an empty cask; there were also my father's property, and had been taken from the cupboard the parlour.
+Alfred Hewitt, on being sworn, said—I am the son of John Hewitt, grocer, at West Cowes. On Saturday last I had an occasion to go to my father's desk, in which he keeps his money, and I then left there six £5 notes, three cheques for £15, £10, and £5, and £5 in change. I left the parlour about half-past 10 o'clock, and went to bed about half-past 11; the desk was then on the sideboard. I got up about half-past 7 the next morning, and when I came down stairs I missed the desk. Tuesday last, in the afternoon, I went into my father's store, at the back of the premises, with Sergeant White and two other policemen, and there saw the desk in a tea chest. It was opened in my presence. I missed from it four notes and the £5 change. In the same tea chest there was a missionary moneybox, which had also been taken from the cheffonier in the parlour—both of which had been broken open. In the upper store we found two decanters, with spirits in them and labels on them, in an empty cask; there were also my father's property, and had been taken from the cupboard the parlour.
 
 Elizabeth Hewitt was next examined and said—I am the wife of John Hewitt. It is my practise to lock up the doors every night before I go to bed; I believe I did so last Saturday night, but cannot speak positively to the fact. I have no doubt but I did so. I went to bed about half-past 11, leaving my husband up. He came to bed almost directly afterwards. I got up the next morning soon after 7, and was the first person down stairs. When was going into the parlour I saw the cupboard doors and the window open. I looked round the room and missed the desk from the sideboard, the missionary-box from the cheffonier, and the two spirit decanters from the cupboard. The window had not been fastened the night before, the fastening having been gone for some years. There were no shutters to the window.
 
@@ -1254,17 +1332,17 @@ Committed to the Assizes.
 
 ```
 
-```{admonition} TO DO
+```{admonition} A woman of the town, deposed, February 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 11 February 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540211/034/0006)
 
 County Petty Sessions.— Magistrates present: The Hon. A'Court Holmes, and Sir H. P. Gordon, bart.
 
-On Saturday, James Nobbs and Edward Woodford were charged with breaking into the house of Mr. John Hewitt of West Cowet, grocer, and stealing £25. Alfred Hewitt described the premises, which were secured in the usual manner on the previous Saturday night. The next morning a writing-desk, containing £65, a missionary-box, and two spirit decanters, were found to have been taken from the parlour. Mrs. Hewitt gave similar evidence. Sarah, wife of Joseph Woodford, deposed that Nobbs was at her bouse on the night in question ; he said he was waiting for Ned Woodford. She heard Woodford's voice outside, and said. "There is Woodford." He then left, and at half-past two he returned, and said. " Arn't you gone to bed yet?" Mary Phillips deposed that Nobbs came on Sunday to the Tontine, Newport, and asked to have some dinner, for which she charged 1s. He gave her a sovereign in payment and said he was going to sea, round Alexandria ; that he had drawn a month's pay, and came to have a spree before he went. A Policeman came to ioquire about him, and she pointed him out. Elizabeth Georgiana Watson, a woman of the town, deposed she lived in the Tontine-yard. Nobbs came to her lodgings on Sunday evening. She saw that he had a sovereign and half-sovereign ; he gave her 3s. He took out some dark-looking paper from his pocket squeezed together. She endeavoured to snatch it from him, when he said, "Don't; they are £5 notes." Witness said, "There will be a chance to get the things out of pawn, in the morning, won't there?" He gave her one of the notes, such a one as that produced (National and Provincial Bank). Witness asked for some money to get some drink ; he gave her 3d. She went to the Tontine, where she saw a Policeman, and heard he was inquiring for notes. She went back, and put the note in the fire. She afterwards obtained the other three notea from the prisoner, and the man of the house put them also into the fire. Police-serjeant White deposed that he went to Mr. Hewitt's house on the previous Sunday, when he found the shutter had been removed from the court. He could not find where the entry had been effected until Monday. He went to the Tontine, at Newport, and apprehended Nobbs. Woodford was brought to the station on Monday. He made a confession which was produced, signed by him, to the effect that he and Nobbs got into Mr. Hewitt's store about ten o'clock on the previous Sunday morning, by opening a clap, and from thence proceeded to the parlour, where they found the missionary-box, and two decanters of spirits. They carried the things to the store, took out £95 from the desk, partook of the spirits, and left the remainder in a tub in the loft. (The articles were now produced and identified). Nobbs said to witness, when Woodford's confession was read over, tbat it was all true, except that the desk and missionary box were left in an old tea-chest, and not a tub. Police constable Purchase gave evidence in corroboration. Herbert Barnes, in the service of the prosecutor, gave evidence that he locked up the store, and that one of the prisoners had brought sawdust there on some occasions. No defence was attempted, and both prisoners were committed to the Assises, on the charge of burglary.
+On Saturday, James Nobbs and Edward Woodford were charged with breaking into the house of Mr. John Hewitt of West Cowes, grocer, and stealing £25. Alfred Hewitt described the premises, which were secured in the usual manner on the previous Saturday night. The next morning a writing-desk, containing £65, a missionary-box, and two spirit decanters, were found to have been taken from the parlour. Mrs. Hewitt gave similar evidence. Sarah, wife of Joseph Woodford, deposed that Nobbs was at her bouse on the night in question ; he said he was waiting for Ned Woodford. She heard Woodford's voice outside, and said. "There is Woodford." He then left, and at half-past two he returned, and said. " Arn't you gone to bed yet?" Mary Phillips deposed that Nobbs came on Sunday to the Tontine, Newport, and asked to have some dinner, for which she charged 1s. He gave her a sovereign in payment and said he was going to sea, round Alexandria ; that he had drawn a month's pay, and came to have a spree before he went. A Policeman came to ioquire about him, and she pointed him out. Elizabeth Georgiana Watson, a woman of the town, deposed she lived in the Tontine-yard. Nobbs came to her lodgings on Sunday evening. She saw that he had a sovereign and half-sovereign ; he gave her 3s. He took out some dark-looking paper from his pocket squeezed together. She endeavoured to snatch it from him, when he said, "Don't; they are £5 notes." Witness said, "There will be a chance to get the things out of pawn, in the morning, won't there?" He gave her one of the notes, such a one as that produced (National and Provincial Bank). Witness asked for some money to get some drink ; he gave her 3d. She went to the Tontine, where she saw a Policeman, and heard he was inquiring for notes. She went back, and put the note in the fire. She afterwards obtained the other three notea from the prisoner, and the man of the house put them also into the fire. Police-serjeant White deposed that he went to Mr. Hewitt's house on the previous Sunday, when he found the shutter had been removed from the court. He could not find where the entry had been effected until Monday. He went to the Tontine, at Newport, and apprehended Nobbs. Woodford was brought to the station on Monday. He made a confession which was produced, signed by him, to the effect that he and Nobbs got into Mr. Hewitt's store about ten o'clock on the previous Sunday morning, by opening a clap, and from thence proceeded to the parlour, where they found the missionary-box, and two decanters of spirits. They carried the things to the store, took out £95 from the desk, partook of the spirits, and left the remainder in a tub in the loft. (The articles were now produced and identified). Nobbs said to witness, when Woodford's confession was read over, tbat it was all true, except that the desk and missionary box were left in an old tea-chest, and not a tub. Police constable Purchase gave evidence in corroboration. Herbert Barnes, in the service of the prosecutor, gave evidence that he locked up the store, and that one of the prisoners had brought sawdust there on some occasions. No defence was attempted, and both prisoners were committed to the Assises, on the charge of burglary.
 
 ```
 
-```{admonition} TO DO
+```{admonition} Deposed to having been with the prisoner, April 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
 
@@ -1280,7 +1358,7 @@ Committed to the Sessions.
 
 ```
 
-```{admonition} TO DO
+```{admonition} A common prostitute was next examined, June 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 10 June 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540610/015/0003)
 
@@ -1292,7 +1370,7 @@ George Lang and Charles King, the two privates of the 93rd regiment, who were re
 
 Richard Gough, color sergeant of the 77th depot, stationed at Parkhurst, was first examined, and said— I do not know either of the prisoners. Part of the articles now produced were my charge. On Tuesday morning last, having heard of a robbery being committed in the riding school at the barracks, I immediately went to see if any of the packages that were left in charge by Colonel Graham Egerton, of the 77th regiment, on his leaving England with the regiment for Constantinople, were disturbed. I found that a bed vellese had been opened and a buffalo's skin, a pair of blankets, bolster, two feather pillows, pilot jacket, and a polka cloak had been taken out of it. About the 17th ult. I had the vellese taken to my quarters to be aired. I saw it unpacked, and afterwards packed the things in myself. It was taken back to the riding school on the 23rd. It was fastened by buckles, and not locked. It was never opened at my quarters after I packed it. I know it was full when taken back to the riding school, because it took two men to carry it. The riding school is not locked during the day, but whether it is at night I am not aware. On the 24th I put my hand inside the package to see if the things were all right, and found that they were. On coming from church to the parade ground we had to pass through the riding school to get to the parade ground. When I came out of church last Sunday I turned round and looked at the vellese and saw that it was quite tight, and just as had previously left it. All the things I have mentioned, except the pilot jacket which is not here, are those now produced. I believe there were other packages broken open belonging to the 95th regiment, but I only had charge of those of the 93rd.
 
-Elizabeth Sterrett, a common prostitute, living in the Tontine yard, Cosham-street `[the original name of South Street]`, Newport, was next examined, and said—On Tuesday morning last, about half-past seven, the prisoner Charles King brought to my house a bundle tied or rolled up in something black like a coat or cloak. He said he found it, and asked me to let it stop at my house a bit. I said yes. He did not open it, nor did I. He took it upstairs into my bedroom. He came down stairs again, and remained there till the police constable came, about ten o'clock the same morning. He gave no account of where he got it. A girl from Portsmouth was having some breakfast with me when he came. I left them together in my house and went across the yard to the public house, and whilst there the policeman came and asked me if knew Charles King, and I said yes. He said, where is he. I said in my house. He asked me if he had brought a bundle. I said yes. I told him to go in and look for it. I told him to go up stairs. I went with him. King was in the house, concealed in the cupboard. The policeman brought down the bundle and opened it in my presence. There were four articles in it; a blanket, pillow, cloak, and pair of boots. I cannot swear that those now produced were the articles the policeman took away. I have not seen the prisoner Lang since somewhen last week. I saw King at the Tontine public house about seven or eight on Monday evening.
+Elizabeth Sterrett, a common prostitute, living in the Tontine yard, Cosham-street, Newport, was next examined, and said—On Tuesday morning last, about half-past seven, the prisoner Charles King brought to my house a bundle tied or rolled up in something black like a coat or cloak. He said he found it, and asked me to let it stop at my house a bit. I said yes. He did not open it, nor did I. He took it upstairs into my bedroom. He came down stairs again, and remained there till the police constable came, about ten o'clock the same morning. He gave no account of where he got it. A girl from Portsmouth was having some breakfast with me when he came. I left them together in my house and went across the yard to the public house, and whilst there the policeman came and asked me if knew Charles King, and I said yes. He said, where is he. I said in my house. He asked me if he had brought a bundle. I said yes. I told him to go in and look for it. I told him to go up stairs. I went with him. King was in the house, concealed in the cupboard. The policeman brought down the bundle and opened it in my presence. There were four articles in it; a blanket, pillow, cloak, and pair of boots. I cannot swear that those now produced were the articles the policeman took away. I have not seen the prisoner Lang since somewhen last week. I saw King at the Tontine public house about seven or eight on Monday evening.
 
 Jane Lock, another of those unfortunate girls, living in the same yard as the last witness, said— I know the prisoners. I saw King on Monday night. On Tuesday morning, about half-past seven, I saw him in the Tontine yard. I was in a neighbour's house the time. When I went into my own house, I saw some things there. It was about half-an-hour before I went to my own house. I did not see King away, or what become of him. When I went up stairs I saw a blanket and pillow had been put on my bed, and when I came down stairs again and looked in the cupboard, I found some wet shirts and a sheet. The blanket and pillow were laid loose on the bed as if they belonged to the bed. I am sure they were not there when I left the house. Just after I found these things my house King came in, and I asked him if he had brought the things and put them where I found them. He said, yes. I begged him to take them away. He said he would presently. He had nothing else with him. I then went out and King followed. I went across the yard. I returned in about ten minutes and found the pillow was gone. King was then in Elizabeth Sterritt's. I went into him and asked him if he had taken the pillow. He said, yes. I said to him, I wish you would come and take the rest away. He said he was going home bye-and-bye and he would take them with him. Whilst I was talking to Mrs. Sterritt P.C. Hobbs and the picquet came up the yard. The policeman took charge of the things and carried them away. I did not see anything of Lang.
 
@@ -1314,7 +1392,33 @@ The prisoner was then charged with and committed for stealing the shirts from th
 
 ```
 
-```{admonition} TO DO
+```{admonition} Deposed to having received a stolen ring, May 1855
+:class: dropdown
+[Isle of Wight Observer - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003)
+
+Petty Sessions
+
+Saturday.—Before Sir H. P. Gordon, Bart., Chairman ; Sir John Simeon, Bart.; Capt. Hamond, R.N.; Capt. Crozier, R.N.; and Thomas Cooke, Esq.
+
+...
+
+James Caffrey, a private in the 77th Regiment, servant to Philip Daucey, Esq., ensign, stationed at Parkhurst Garrison, was charged with stealing a coat, waistcoat, a gold enamelled ring, a gold pin, a set of gold shirt studs, set of coral studs set gold, a pair of gold and a pair of silver wrist studs, the property of his master.
+
+Mr. Daucey, on being sworn, said —the prisoner was my servant and had access to my room and the charge of everything therein. On the 7th of May he left me, and after he had gone I looked over my things to see if anything had been taken, and I then missed the articles now named in the charge. They had all been taken from my drawer or from the mantle-piece. The drawer was not kept locked. I did not see any of the articles after I had missed them, until yesterday morning, when they were shown to me by the Sergeant of Police. The prisoner was absent from the barracks from Monday morning until the next Sunday morning, when he was brought in as a deserter. I can swear that the things now produced are those I lost.
+
+Thomas Green, jun., chimney sweep at Newport, deposed to buying the coat of the prisoner for 2s. 6d. and an old coat.
+
+Anne Jones, a common prostitute, living in Paradise-row, Newport, deposed to having received the ring from the prisoner and afterwards leaving it in the care of her landlady, Mrs. Leonard, who gave it up to the Police.
+
+Elizabeth Pragnell, of the Oyster-shell houses, near Newport, said the prisoner came to her house in private clothes, with a girl, and asked to be allowed to stop there the night, which he did, and that he represented himself to belong to some ship about to be paid off at Portsmouth, and left with her the gold pin and studs for 15s., saying that he would take them again of her when he received his money.
+
+P.S. Stannard then deposed to receiving the articles which he now produced of the several witnesses, and to taking the prisoner into custody. Committed to the sessions.
+
+```
+
+The following, very brief, report suggests that the residents of Tontine yard were not necessarily safe in their own homes:
+
+```{admonition} Breaking the house, October 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 14 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541014/007/0002)
 
@@ -1326,7 +1430,9 @@ Joseph Bailey, Leonard Campbell, John Beadlestone and Thomas Lyons, four private
 
 ```
 
-```{admonition} TO DO
+More detail is provided in this next report:
+
+```{admonition} "Murder!" she cried, October 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 14 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541014/041/0011)
 
@@ -1353,30 +1459,6 @@ Campbell was " not there at all at all."
 Beadlestone called John Windgate, a private in the 8th, who said he was out of the barracks that night in a state of intoxication, and had been to sleep near a mill. When he awoke about daybreak he saw Beadlestone was there. Had not seen him before, and did not know where he had been in the night.
 
 Bailey was discharged. The others were fined 10s and 3s 6d costs each, and, in default, committed to Winchester for one month. 
-
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Isle of Wight Observer - Saturday 26 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550526/012/0003)
-
-Petty Sessions
-
-Saturday.—Before Sir H. P. Gordon, Bart., Chairman ; Sir John Simeon, Bart.; Capt. Hamond, R.N.; Capt. Crozier, R.N.; and Thomas Cooke, Esq.
-
-...
-
-James Caffrey, a private in the 77th Regiment, servant to Philip Daucey, Esq., ensign, stationed at Parkhurst Garrison, was charged with stealing a coat, waistcoat, a gold enamelled ring, a gold pin, a set of gold shirt studs, set of coral studs set gold, a pair of gold and a pair of silver wrist studs, the property of his master.
-
-Mr. Daucey, on being sworn, said —the prisoner was my servant and had access to my room and the charge of everything therein. On the 7th of May he left me, and after he had gone I looked over my things to see if anything had been taken, and I then missed the articles now named in the charge. They had all been taken from my drawer or from the mantle-piece. The drawer was not kept locked. I did not see any of the articles after I had missed them, until yesterday morning, when they were shown to me by the Sergeant of Police. The prisoner was absent from the barracks from Monday morning until the next Sunday morning, when he was brought in as a deserter. I can swear that the things now produced are those I lost.
-
-Thomas Green, jun., chimney sweep at Newport, deposed to buying the coat of the prisoner for 2s. 6d. and an old coat.
-
-Anne Jones, a common prostitute, living in Paradise-row, Newport, deposed to having received the ring from the prisoner and afterwards leaving it in the care of her landlady, Mrs. Leonard, who gave it up to the Police.
-
-Elizabeth Pragnell, of the Oyster-shell houses, near Newport, said the prisoner came to her house in private clothes, with a girl, and asked to be allowed to stop there the night, which he did, and that he represented himself to belong to some ship about to be paid off at Portsmouth, and left with her the gold pin and studs for 15s., saying that he would take them again of her when he received his money.
-
-P.S. Stannard then deposed to receiving the articles which he now produced of the several witnesses, and to taking the prisoner into custody. Committed to the sessions.
 
 ```
 
@@ -1442,7 +1524,7 @@ This was a public-house quarrel, and the parties appearing to have been drunk at
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
-Joseph Anderson, landlord of tbe Pack-horse, in Sea-street, wss charged with allowing card-playing in his house.
+Joseph Anderson, landlord of the Pack-horse, in Sea-street, wss charged with allowing card-playing in his house.
 
 P.C. Cooke stated that he found men playing cards there on Saturday evening, and told the landlord it was not allowed.
 
@@ -1474,9 +1556,9 @@ Verdict,— " The deceased was found dead, and that death was occasioned by inju
 
 ```
 
-## A Supportive Community]
+## A Supportive Community
 
-```{admonition} TO DO
+```{admonition} Ragged Schools, Decemeber 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 16 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003)
 
