@@ -40,14 +40,14 @@ A woman named Repentance Adams (an old offender, who some years ago created such
 Repentance Adams, an old offender, was charged with stealing a basket, the property of Mrs. Mills, of Newport. Former indictments were put in, and she was sentenced to four months' imprisonment and hard labour.
 ```
 
-```{admonition} Vagrancy
+```{admonition} Vagrancy, January 1850
 :class: dropdown
 [Hampshire Chronicle - Saturday 19 January 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004)
 
 Committed the County Gaol.—For vagrancy— Repentance Adams, 14 days.
 ```
 
-```{admonition} Stealing a handkerchief and its contents, aged eighty, April 1850
+```{admonition} Stealing a handkerchief and its contents, aged eighty, April 1858
 :class: dropdown
 [Hampshire Advertiser - Saturday 17 April 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580417/034/0007)
 
@@ -471,7 +471,7 @@ Benjamin Breaks was cbarged by P.C. Hobbs with being drunk and disorderly, on Sa
 
 Another frequently mentioned establishment, most notably for the landlord's rather cavalier attitude to keeping to the licensed opening hours, was the Crab and Lobster on Deadman's Lane, now known as Trafalgar Road, that goes out of Newport from Nodehill to connect with Carisbrooke Road.
 
-```{admonition} "Somebody in de house"", October. 1854
+```{admonition} "Somebody in de house", October. 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18541007/026/0007)
 
@@ -766,6 +766,18 @@ The man was fined 15s, including costs, which he paid; and the girl was committe
 
 ```
 
+Another example of someone perhaps forcing their way into a house makes us wonder "why that house?"
+
+```{admonition} A disturbance in Paradise Row, December 1848
+:class: dropdown
+[Hampshire Advertiser - Saturday 16 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18481216/028/0005)
+
+Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young man named Cooke, were charged with having, between eleven and twelve the previous night, created a disturbance in Paradise Row, by breaking the door of one Jane Blow's house. The defendants were fined 7s 6d each, and to pay costs, or in default, fourteen days' imprisonment.
+
+```
+
+But from reports otherwhen, we maybe start to be able to join the dots...
+
 ```{admonition} Keeping a disorderly house in Paradise Row, November 1849
 :class: dropdown
 [Hampshire Independent - Saturday 24 November 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18491124/088/0007)
@@ -782,19 +794,11 @@ Defendant was liberated on her own recognisance to appear at the Sessions.
 
 ```
 
-```{admonition} A disturbance in Paradise Row, December 1848
-:class: dropdown
-[Hampshire Advertiser - Saturday 16 December 1848](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18481216/028/0005)
-
-Borough Court, Saturday.— (Before the Mayor.) Richard Shepherd, and a young man named Cooke, were charged with having, between eleven and twelve the previous night, created a disturbance in Paradise Row, by breaking the door of one Jane Blow's house. The defendants were fined 7s 6d each, and to pay costs, or in default, fourteen days' imprisonment.
-
-```
-
 ## Drunk and/or disorderly
 
 Reports in the weekly local press of the time regularly included general mentions of disorderly conduct, including drunkenness, swearing, and prostitution, as well as domestic incidents.
 
-```{admonition} Repaying a brating, with interest, June 1846
+```{admonition} Repaying a beating, with interest, June 1846
 :class: dropdown
 [Hampshire Advertiser - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460627/047/0008)
 
@@ -828,7 +832,7 @@ The defendant, in his defence, said he caught both of them with soldiers in the 
 
 Reports of drunken and disorderly behaviour were even more commonplace.
 
-```{admonition} An old offender, drunk and disorderly
+```{admonition} An old offender, drunk and disorderly, March 1851
 :class: dropdown
 [Hampshire Advertiser - Saturday 22 March 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005)
 
@@ -1281,7 +1285,7 @@ It appeared that she had also been committed on the Wednesday previous for steal
 
 In other cases, it seems that thefts could take place even closer to home:
 
-```{admonition} Found in the Tap after robbing her own mother
+```{admonition} Found in the Tap after robbing her own mother, June 1850
 :class: dropdown
 [Hampshire Independent - Saturday 15 June 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18500615/088/0007)
 
@@ -1558,7 +1562,7 @@ Verdict,— " The deceased was found dead, and that death was occasioned by inju
 
 ## A Supportive Community
 
-```{admonition} Ragged Schools, Decemeber 1854
+```{admonition} Ragged Schools, December 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 16 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003)
 
