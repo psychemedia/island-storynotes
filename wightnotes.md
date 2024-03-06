@@ -39,7 +39,7 @@ mudcat.org "a dark way" https://mudcat.org/thread.cfm?threadid=113179,113179
 ---
 
 
-THe Isle of WIght: Its Past and Present and...
+The Isle of WIght: Its Past and Present and...
 Mudie
 p131
 "The Isle of Wight cannot strictly be said to have any history of its own, as distinct from that of England, of which it always formed a part since England was a kingdom."
@@ -78,7 +78,7 @@ the sovereign for the due discharge of his duties.
 p81 Carisbrooke Woodville's Gateway (erected by Anthony Lord Scales,circa 1464,and bearing his arms and the White Rose of York ), a really nobles pecimen of a castellated entrance.
 p383 The low fortunesofthe island received a stil more terrible blow forty years later,in the disastrous issue of Woodville's rash expedition to Britanny, which robbed it of al its bravest and best. An ordinance was immediately passed by Parliament, prohibiting any persons to hold lands, &c.,of more than the annual value of ten marks, in order that the isle, which was then “desolate and not inhabited, but occupied with beasts and cattle,” might be again peopled and able to defend itself from an invader. [Froude History of England i. 27] [TO DO  - so this was a response to Woodville's action?]
 
-Davenport THe Isle of Wight
+Davenport The Isle of Wight
 p190 Boniface Wishing Well
 He will visit the Well - St. Bonny's or The Wishing Well — which once bubbled brightly out of the chalky bosom of the hill, but is now reduced to a sandy pool. It was first discovered, says the legend, by a certain bishop, who,riding across the hill on a misty night, lost his way, and found his steed, to his horror, slowly sliding down the precipitous side, until at length he suddenly drew up with his hoofs
 fixed in the hollow of this well. The bishop thereupon vowed to St. Boniface that if he reached the bottom securely he would dedicate to his honour an acre of land. The saint closed with the bargain ; the bishop reached home without further let or mishap; and the land, known as The Bishop's Acre,still belongs to the glebe of Bonchurch. It lies at the foot of the hill, and is marked out by a ridge of turf.

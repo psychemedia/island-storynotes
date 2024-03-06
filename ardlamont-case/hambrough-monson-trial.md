@@ -243,7 +243,7 @@ Mr. Charles Morritt's appearance at St. George's Hall, after an absence of many 
 
 GLASGOW
 
-Gaiety.— Charles Morritt, in his illusion "THe Missing Man", is the centre of attraction at this hall. The "missing man" is no other than "Scott", of Ardlamont mystery fame, his reception being of a very mixed character. The illusion, however, is good; the disappearance only occupying five seconds.
+Gaiety.— Charles Morritt, in his illusion "The Missing Man", is the centre of attraction at this hall. The "missing man" is no other than "Scott", of Ardlamont mystery fame, his reception being of a very mixed character. The illusion, however, is good; the disappearance only occupying five seconds.
 
 
 ---

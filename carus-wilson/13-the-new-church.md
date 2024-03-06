@@ -157,7 +157,7 @@ NEWPORT, Saturday, August 5. St. Thomas's Church.— The foundation-stone of the
 
 The Mayor hoped the town officials should welcome to the Prince in "a becoming manner", although one of the councillors, Mr Pinnock, a dissenter, hoped that anyone not attending becuase of differening religious views would not be castigated for showing an assumed disloyalty to the Queen's consort. Pittis magnanimously suggested he would be pleased to see everyone there, and let the matter drop.
 
-```{admontion} A becoming manner, August 1854
+```{admonition} A becoming manner, August 1854
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006)
@@ -176,7 +176,7 @@ The Mayor again observed he should be happy to see them all, and the subject dro
 
 ```
 
-```{admonition} THe old church's afters and walls steadily disappearing, August 1854
+```{admonition} The old church's afters and walls steadily disappearing, August 1854
 :class: dropdown
 [Hampshire Telegraph - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540812/011/0004)
 
@@ -186,7 +186,7 @@ NEWPORT. St. THOMAS'S CHURCH.— The strong rafters and solid walls of the old c
 
 Advertisements announcement the laying of the foundation stone appeared in the local press, and tickets were sold for seats from which the cermeony could be observed in order to raise additional funds for the rebuilding works.
 
-```{admontion} Seats affording a view of the ceremony, August 1854
+```{admonition} Seats affording a view of the ceremony, August 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true)
 
@@ -206,6 +206,7 @@ Tickets may be obtained of the Churchwardens, Mr. E. Way, 141, High-street, and 
 The local Freemasons also made an announcement for a "Provincial Grand Lodge" and a presence in the procession party, followed by a private dinner for the members.
 
 ```{admonition} A Provincial Grand Lodge, August 1854
+:class: dropdown
 [Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true)
 
 FREEMASONRY. — Isle of Wight — Thomas Willis Fleming. esq. Right Worshipful Provincial Grand Master.
