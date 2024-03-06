@@ -4,9 +4,8 @@ Originally a well presented manor house.
 
 Demolished in 1820 ?by George Bissett? - all that remains are the gateosts
 
-
 https://www.curiousarchive.com/knighton-gorges-most-haunted-isle-of-wight/
-> And the star of the most famous Knighton Gorges ghost story is the house itself, which is said to make it’s ghostly appearance every year on New Years Eve.
+> And the star of the most famous Knighton Gorges ghost story is the house itself, which is said to make its ghostly appearance every year on New Years Eve.
 >
 > Legend says that a man visiting the island on New Years Eve was nearly run over by a horse and carriage while walking towards Newchurch. Frustrated, he followed the carriage to a house and knocked angrily on the door hoping to speak to someone about the reckless driver. Despite his consistent banging, the party inside was so loud that no one could hear him. The man looked in the window and saw people in Georgian clothing too busy dancing, laughing, and enjoying themselves to pay any attention to the door. Assuming the strange clothing meant the guests were having a fancy dress themed New Years party, the man left annoyed and continued on to Newchurch. After finding a place to stay, he mentioned the rude coach driver and the raging party to his hosts who asked the man to show them the location of the house on a map. When he did they were surprised to find that the house he spoke of was Knighton Gorges, which they informed him was destroyed quite a long time ago.
 > 

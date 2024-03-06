@@ -81,7 +81,7 @@ Portsmouth Evening News - Wednesday 19 February 1930
 
 The Seer of Freshwater.
 
-Many half-forgotten folk-taks are contained in Abraham Elder’s "Tales and the Isle of Wight". Do Bombridge folk still tell of the ghostly passenger who was ever to be found seated in the local ferry? Do Islanders still live in dread of the giant of Chale, who "loved man's flesh better then pig. . . chose those that were tall and heavy, stewed the fat ones in their own gravy?"
+Many half-forgotten folk-taks are contained in Abraham Elder's "Tales and the Isle of Wight". Do Bombridge folk still tell of the ghostly passenger who was ever to be found seated in the local ferry? Do Islanders still live in dread of the giant of Chale, who "loved man's flesh better then pig. . . chose those that were tall and heavy, stewed the fat ones in their own gravy?"
 
 During his travels, Abraham Elder made the acquaintance "the blind ghost-seer of Freshwater,” who related to him the story of a spectral revenue cutter which was supposed the smugg'era the Western Wight.
 
