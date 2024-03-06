@@ -597,4 +597,4 @@ It is worthy of remark that during the whole of the day's ceremonies the large m
 
 ## What Next?
 
-With the foundation stone laid, the rebuilding of the physical fabris of the new church could now start in earnest. But what about rebuilding the spiritual heart of the Borough of Newport, and removing the cancer of vice and depravity that might corrupt it, or offend it with the regular and very public display of disorderly conduct that was rife in the streets around St. Thomas's Square?
+With the foundation stone laid, the rebuilding of the physical fabric of the new church could now start in earnest. But what about rebuilding the spiritual heart of the Borough of Newport, and removing the cancer of vice and depravity that might corrupt it, or offend it with the regular and very public display of disorderly conduct that was rife in the streets around St. Thomas's Square?
