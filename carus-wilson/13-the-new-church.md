@@ -50,25 +50,27 @@ Eighteen months further on, and a competition was being held for the design of t
 :class: dropdown
 [Hampshire Advertiser - Saturday 08 December 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18491208/030/0005)
 
-At a General Meeting or the Subscribers to the New Church, (to replace the old one), held at the Assembly Rooms, on Monday last, six of the best designs were selected, out of which the most suitable one will be chosen by the selecting committee. Tbe number of designs sent for competition has been considerable, and many of them possessing great excellence. Their exhibition, at 1s each, has realised a considerable sum.
+At a General Meeting or the Subscribers to the New Church, (to replace the old one), held at the Assembly Rooms, on Monday last, six of the best designs were selected, out of which the most suitable one will be chosen by the selecting committee. The number of designs sent for competition has been considerable, and many of them possessing great excellence. Their exhibition, at 1s each, has realised a considerable sum.
 
 ```
 
 ## Time to improve the church and its surroundings?
 
-Around about the same time ? attempot clean-up ??
+Around about the same time — June 1849 — it seems as if the magistrates were trying to do something about the prostitution problem in Newport and "were determined to put down such open and gross vice and imnmorality".
 
 ```{admonition} Calling down the judgment of the Almighty, June 1849
 :class: dropdown
 [Hampshire Telegraph - Saturday 02 June 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18490602/023/0004)
 
-At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the nmagistrates were determined to put down such open and gross vice and imnmorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
+At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the magistrates were determined to put down such open and gross vice and immorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
 
 Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
 
 ```
 
-```{admonition} TO DO
+A couple of months later, the Mayor noted that he "had given instructions to the police to endeavour to check the nuisance and wickedness" and started upping the severity of punishments for particular forms of disorderly behaviour from a particular class of person.
+
+```{admonition} September 1849
 :class: dropdown
 [Hampshire Advertiser - Saturday 29 September 1849](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18490929/020/0003)
 
@@ -78,7 +80,7 @@ A DISORDERLY CHARACTER.
 
 Mary Ann Downer, a very young woman, was charged by Police Constable Cooke with making a great noise, in company with several young men, near the White Hart Inn, Pyie-street.
 
-The Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock ; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house ; had often seen her out late at nigbt. but never knew her noisy before, and when sober she is always quiet. Whilst the girls were out he could never get the men away.
+The Policeman stated that he ordered her off, but afterwards found her there, with men, at two o'clock ; desired her again to go home; they were all making a great noise; she would not go, and he took her to the station-house ; had often seen her out late at night. but never knew her noisy before, and when sober she is always quiet. Whilst the girls were out he could never get the men away.
 
 Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a common prostitute.
 
@@ -88,9 +90,11 @@ Fined 10s and Ss costs, which not being paid, she was committed to the House of 
 
 ```
 
+Perhaps to cope with the "crackdown on vice", it seems several new policeman had been recruited, although they were perhaps not quite cut out for the job?!
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005
-Hampshire Advertiser - Saturday 22 March 1851
+```{admonition} Two newly-appointed borough policemen charged with being drunk, March 1851
+:class: dropdown
+[Hampshire Advertiser - Saturday 22 March 1851](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18510322/033/0005)
 
 Borough Court.— On Monday, before the Mayor, and R. M. Wavell, esq.
 
@@ -100,12 +104,11 @@ The defendants did not deny the charge, but pleaded that they were sleepy, havin
 
 The Mayor said he was sorry to see them so soon in such a position. The court had not for a long time heard of drunkenness amongst policemen. It was one of those offences that could not be overlooked, ss it was their duty to bring others to be punished for the offence they had been guilty of. The judgment of the court was, that both defendants be dismissed from the borough police.
 
-
----
+```
 
 ## The New Parish Church of St Thomas
 
-Over the next few years, the fund-raising programme went well, and by 1854 enough funds had been raised to commit to the rebuilding programme.
+Over the next few years, the fund-raising programme for the new Church went well, and by 1854 enough funds had been raised to commit to the rebuilding programme.
 
 ```{admonition} Closing of St. Thomas's Church, July 1854
 :class: dropdown
@@ -114,13 +117,13 @@ Over the next few years, the fund-raising programme went well, and by 1854 enoug
 
 Closing of St. Thomas's Church.—
 
-It is now positively arranged that next Sunday will be the last for holding Divine worship in our ancient parish church. Our feelings are indeed of a mingled character as we approach the solemn day. We cannot but hail with pleasure the prospect of having a new church in every way suited to the wants of the people. But it is impossible to contemplate the removal of the old fabric without many regrets. Built in the early part of the twelfth century. it has outlived many changes in our little town, and it will be long ere the eye is accustomed to the absence of one that has been the friend of many generations. On Sunday morning, the Mayor, Clergy, Magistrates, Councillors, and other officers of the Corporation, walk in procession to the church, when a sermon will be preached by the minister of St. Thomas, and a collection made in aid of the rebuilding fund. Sermons will be preached also and collections made after each of the other services. The Holy Communion will be administered in the evening, as the last solemn act of worship in the ancient fabric. Doubtless the scene will be an impressive and imposing one, and for years to come the closing day of the old parish church of Newport will be remembered as a memorable occasion in the recollection of the families of tbe Isle of Wight.
+It is now positively arranged that next Sunday will be the last for holding Divine worship in our ancient parish church. Our feelings are indeed of a mingled character as we approach the solemn day. We cannot but hail with pleasure the prospect of having a new church in every way suited to the wants of the people. But it is impossible to contemplate the removal of the old fabric without many regrets. Built in the early part of the twelfth century. it has outlived many changes in our little town, and it will be long ere the eye is accustomed to the absence of one that has been the friend of many generations. On Sunday morning, the Mayor, Clergy, Magistrates, Councillors, and other officers of the Corporation, walk in procession to the church, when a sermon will be preached by the minister of St. Thomas, and a collection made in aid of the rebuilding fund. Sermons will be preached also and collections made after each of the other services. The Holy Communion will be administered in the evening, as the last solemn act of worship in the ancient fabric. Doubtless the scene will be an impressive and imposing one, and for years to come the closing day of the old parish church of Newport will be remembered as a memorable occasion in the recollection of the families of the Isle of Wight.
 
 ```
 
 In the center of town, the increasingly dilapidated St. Thomas Church was finally going to be replaced with a new Church building.
 
-```{admonition} A dilapidated state, 1848
+```{admonition} A dilapidated state in 1848, August 1854
 :class: dropdown
 
 TO DO - full article
@@ -136,7 +139,7 @@ The original church was built in the early part of the fourteenth century ; but 
 
 As the *Hampshire Advertiser* of Saturday 05 August, 1854, announced, the foundation stone would be laid on the 24th of that month, by the Queen's consort, H.R.H. Prince Albert.
 
-```{admonition} Foundation Stone to be laid, Hampshire Advertiser, Saturday 05 August 1854
+```{admonition} Foundation Stone to be laid, Hampshire Advertiser, August 1854
 
 [Hampshire Advertiser, Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006)
 
@@ -146,7 +149,7 @@ NEWPORT, Saturday, August 5. St. Thomas's Church.— The foundation-stone of the
 
 The Mayor hoped the town officials should welcome to the Prince in "a becoming manner", although one of the councillors, Mr Pinnock, a dissenter, hoped that anyone not attending becuase of differening religious views would not be castigated for showing an assumed disloyalty to the Queen's consort. Pittis magnanimously suggested he would be pleased to see everyone there, and let the matter drop.
 
-```{admontion} A becoming manner
+```{admontion} A becoming manner, August 1854
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 05 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540805/034/0006)
@@ -165,9 +168,17 @@ The Mayor again observed he should be happy to see them all, and the subject dro
 
 ```
 
+```{admonition} THe old church's afters and walls steadily disappearing, August 1854
+:class: dropdown
+[Hampshire Telegraph - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18540812/011/0004)
+
+NEWPORT. St. THOMAS'S CHURCH.— The strong rafters and solid walls of the old church give much labour and require strong attacks to move them from their positions occupied for many centuries, but they are fast disappearing and little will remain standing on the 24th instant, when his Royal Highness Prince Albert will lay the foundation-stone of the new edifice. It will be seen by our advertising columns that the Freemasons will add to the procession and ceremony their presence, and the splendour of their costume and regalia.
+
+```
+
 Advertisements announcement the laying of the foundation stone appeared in the local press, and tickets were sold for seats from which the cermeony could be observed in order to raise additional funds for the rebuilding works.
 
-```{admontion} Seats affording a view of the ceremony
+```{admontion} Seats affording a view of the ceremony, August 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true)
 
@@ -186,7 +197,7 @@ Tickets may be obtained of the Churchwardens, Mr. E. Way, 141, High-street, and 
 
 The local Freemasons also made an announcement for a "Provincial Grand Lodge" and a presence in the procession party, followed by a private dinner for the members.
 
-```{admonition} A Provincial Grand Lodge
+```{admonition} A Provincial Grand Lodge, August 1854
 [Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/023/0005?browse=true)
 
 FREEMASONRY. — Isle of Wight — Thomas Willis Fleming. esq. Right Worshipful Provincial Grand Master.
@@ -205,13 +216,13 @@ A large public crowd was expected for the event — up to 2000 spectators — an
 
 A royal connection with the earlier Church buildings was also recalled, in the form of the last resting place of Princess Elizabeth — second daughter of King Charles I, who had died on September 8th, 1650 — about which another story can be told.
 
-```{admonition} A rebuke on the practice of burying within the church
+```{admonition} A rebuke on the practice of burying within the church, August 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 12 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540812/038/0006?browse=true)
 
 NEWPORT, Saturday, August 12.
 
-The Old Church is fast disappearing, and workmen are clearing the north-eastern side, for the purpose of arranging for the laying the foundation-stone— (see advertisement). We believe room will be allotted for nearly 2000 spectators, and everything is being done to render the anxiously looked-for day one of the most auspicious our town has ever witnessed. We can conscientiously say that there is but one feeling amongst all classes, that of unmixed desire to give the Prince a reception worthy of his high position and his exalted character. The banquet to be given by the committee will be on a scale of excellence and elegance ; answers to the invitations have been nearly all received, and we have no doubt that this part of the matter will pass off with credit to all parties. We would recommend our friends to secure tickets as soon as possible, as there is even now a great demand for them. We have been given to understand that it is the gracious intention of her Majesty to erect a monument to the Princess Elizabeth, daughter of the unfortunate Charles I. Nothing can be more graceful than this act of our beloved Sovereign. There is a sympathy in it for the fate of one of royal blood, and another evidence of her Majesty's good wishes for our church and town. We gave some information respecting this unfortunate Princess a few weeks ago. The vault in which her remains lay was discovered in 1793, near the altar, wben the church was undergoing some repairs; a stone with the initials "E. S." simply marking the spot. On the coffin appeared the following inscription :—
+The Old Church is fast disappearing, and workmen are clearing the north-eastern side, for the purpose of arranging for the laying the foundation-stone— (see advertisement). We believe room will be allotted for nearly 2000 spectators, and everything is being done to render the anxiously looked-for day one of the most auspicious our town has ever witnessed. We can conscientiously say that there is but one feeling amongst all classes, that of unmixed desire to give the Prince a reception worthy of his high position and his exalted character. The banquet to be given by the committee will be on a scale of excellence and elegance ; answers to the invitations have been nearly all received, and we have no doubt that this part of the matter will pass off with credit to all parties. We would recommend our friends to secure tickets as soon as possible, as there is even now a great demand for them. We have been given to understand that it is the gracious intention of her Majesty to erect a monument to the Princess Elizabeth, daughter of the unfortunate Charles I. Nothing can be more graceful than this act of our beloved Sovereign. There is a sympathy in it for the fate of one of royal blood, and another evidence of her Majesty's good wishes for our church and town. We gave some information respecting this unfortunate Princess a few weeks ago. The vault in which her remains lay was discovered in 1793, near the altar, when the church was undergoing some repairs; a stone with the initials "E. S." simply marking the spot. On the coffin appeared the following inscription :—
 
 ELIZABETH 2ND DAUGHTER OF THE LATE KING CHARLES. DECE'D SEPT. 8. MDCL.
  
@@ -225,7 +236,7 @@ From a MS. in the British Museum, entitled " Church Motes in the Isle of Wight,"
 
 The weather was not so good the evening before. The wind was blowing a hurricane, and there were regualr showers. Earlier that day, the magistrates had overseen the Annual Licensing Day, where several new licenses were granted, licensees were reminded that "public houses are not to be kept open from ten to six on Sundays, Christmas-day, Good Friday, public fasts, and thanksgivings", and "George Machett, of the Blue Ball, was cautioned as to his house being frequented by prostitutes".
 
-```{admonition} Annual Licensing Day and Borough Court
+```{admonition} Annual Licensing Day and Borough Court, August 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true)
 
@@ -242,8 +253,7 @@ George Machett, of the Blue Ball, was cautioned as to his house being frequented
 
 But God must have been looking favourably on the event, for Thursday, August 14th, 1854, dawned as a sunny morning, and by 11 am, the streets, which were decorated with garlands of flowers and celebratory arches, were lined by thousands of spectators.
 
-
-```{admonition} Grand Ceremony
+```{admonition} Grand Ceremony, August 1854
 :class: dropdown
 [Hampshire Advertiser - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000494/18540826/038/0006?browse=true)
 
@@ -415,7 +425,6 @@ With the benediction complete, the Bishop thanked the Prince Consort, who respon
 
 The invited guests then repaired to the Town Hall to await the serving of lunch, with the Fremmasons returning to their Grand Lodge to resume their business before a three o'clock at the Star Hotel.
 
-
 ```{admonition} Thanks are given, and the ceremony is completed
 :class: dropdown
 
@@ -430,7 +439,6 @@ The guests afterwards retired to the arcade of the Town Hall, until luncheon was
 The 77th Regiment, under the command of Lieutenant-Colonel White, formed the guard of honour on the occasion, the other line of procession being kept by detachments from the 20th and 28th Regiments.
  
 The bands of the Royal Marines and the 4th Regiment performed " most eloquent music" during the day, as well as several local bands of the neighbourhood.
-
 
 ```
 
@@ -449,7 +457,7 @@ the Mayor called upon the assembly to charge their glasses, and proposed the hea
 
 But for some, however, it seems they were not invited to the ball, as the rather bitter correspondent from the *Isle of Wight Observer* commented:
 
-```{"admonition} A spirit of exclusiveness
+```{admonition} A spirit of exclusiveness
 :class: dropdown
 [Isle of Wight Observer - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002)
 
@@ -462,7 +470,6 @@ But for some, however, it seems they were not invited to the ball, as the rather
 Owing to the late hour the Freemason's banquet came off the report is postponed till next week.
 
 We cannot close our report without making mention of the scurvy treatment got at the hands of the managers of this pageant. With a partiality, as rare as it is contemptible, they invited *portion* of the Press only, albeit they were glad to accept of the gratuitous puffing of *all*. Let this not be understood as the language of complaint; but rather as showing another instance of the unscrupulous manner in which some will " grind their axe" upon others. We have, however, discharged our duty to the subscribers and patrons of the *Observer* in the best manner we possibly could under such unusual and grossly partial circumstanccs.
-
 
 ```
 
@@ -478,7 +485,7 @@ The Mayor desired to propose the health of the Lord Bishop of Winchester and the
 
 ```
 
-The Bishop of WInchester accepted the toast to him with thanks, and a game of propose-and-accept-the-toast began.
+The Bishop of Winchester accepted the toast to him with thanks, and a game of propose-and-accept-the-toast began.
 
 In passing the Mayor noted that:
 
@@ -555,4 +562,4 @@ It is worthy of remark that during the whole of the day's ceremonies the large m
  
 ```
 
-
+## What Next?
