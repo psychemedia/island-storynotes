@@ -1,4 +1,4 @@
-# A Barracks Town, a New Mayor and a New Church
+# A Barracks Town and a New Mayor
 
 It's the mid-1850s, and Britain is one of the allied forces sending off her young men to fight in the Crimea. In Newport, on the Isle of Wight, the troops are temporarily stationed in Parkhurst Barracks before making their way to Portsmouth, and the troop ships that await them.
 
