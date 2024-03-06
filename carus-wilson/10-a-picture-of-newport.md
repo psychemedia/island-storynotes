@@ -1569,3 +1569,7 @@ Verdict,— " The deceased was found dead, and that death was occasioned by inju
 Ragged Schools.—These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
 
 ```
+
+## What Next?
+
+Such was the seedier side of Newport. But what of the spiritual side? What of St Thomas', caught between the High-street and Pyle-street, in the very centre of the town?
