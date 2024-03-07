@@ -9,7 +9,7 @@ Philosophical transactions of the Royal Society of London, v85, 1795
 
 Containing Particulars relative to the Commencement of the Trigonometrical Operation. — An Account of the Improvements in the great Theodolite ; and a Relation of the Progress made in the Survey in 1792, 1793, and 1794, together with the Angles taken in those years.
 
-XX. An Account of the Trigonometrical Survey carried on in the years 1791, 1792, 1793, and 1794,, by Order of his Grace the Duke of Richmond, late Master General of the Ordnance. By Lieut. Col. Edward Williams, and Capt. William Mudge, of the Royal Artillery ; and Mr. Isaac Dalby, Communicated by the Duke of Richmond, F. R. S.
+XX. An Account of the Trigonometrical Survey carried on in the years 1791, 1792, 1793, and 1794, by Order of his Grace the Duke of Richmond, late Master General of the Ordnance. By Lieut. Col. Edward Williams, and Capt. William Mudge, of the Royal Artillery ; and Mr. Isaac Dalby, Communicated by the Duke of Richmond, F. R. S.
 
 Read June 25, 1795.
 p414
