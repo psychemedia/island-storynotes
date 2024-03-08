@@ -134,6 +134,10 @@ Court : We have no doubt about the case, and we commit you to take your trial at
 
 ```
 
+A later report in the *Hampshire Advertiser* of [Saturday 15 December 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18551215/048/0008) suggests that Ellen Howes' husband, perhaps, also had a role at the Tontine Tap?
+
+> Edward Howes, the landlord of the Tontine, a notorious house in Cosham-street, was charged with...
+
 ```{admonition} For stealing a pillow, three months' imprisonment, Octoboer 1852
 :class: dropdown
 
@@ -185,7 +189,7 @@ At the licensing day of 1854, another establishment, the landlord of the "Race H
 
 BOROUGH SESSIONS
 
-Monday.— Before F. Pittis, esq., mayor; E. Way, esq,, R. M. Wavell, esq., and Thomas Cooke, esq., magistrates.
+Monday.— Before F. Pittis, esq., mayor; E. Way, esq., R. M. Wavell, esq., and Thomas Cooke, esq., magistrates.
 
 The applications for licenses for public-houses and billiards occupied the Bench for some considerable time; at the commencement of which, at the request of the Mayor, the clerk read the Act of Parliament relating to the closing all public-houses between the hours 12 Saturday night and 1 on Sunday afternoon, and half-past 2 in the afternoon and 6 in the evening, and 10 at night till 4 o'clock Monday morning, which came into operation on the 6th inst.
 
@@ -914,7 +918,7 @@ Before C. W. Estcourt, esq., mayor, R. M. Wavell, esq., and F. Pittis, esq., mag
 
 WEDNESDAY.— John Price was charged with assaulting the Police in the execution his duty.
 
-P.C. Hobbs said—last night about o'clock I was on duty in the High-street, near the Bugle-inn, defendant was playing a violin and singing, and another man with him was playing a banjo. They were both on the pavement. Mr. Mew, the landlord of the Bugle came and requested me to remove them as they had dinner party who were very much annoyed by them. I spoke to defendant and requested him to go way. He said, "these gentlemen (pointing to three men in the Bugle') wish me to sing a song. I said, I had nothing to do with that and wished them to move on. Defendant looked to the men in the Bugle and asked them if they did not want him to sing a song. They made him no answer. Defendant began singing. I told him I should lock him up if he did sing, and he then went to the gentlemen and asked them to give him something. They said, you sing a song and I will. He then began singing and I took him into custody. In coming down the street he struck me with a fist and kicked me in my legs. He got his leg between mine and threw me. He pulled a quantity of hair out of my head with both his hands. He then got away. P.C. Lockhurst and I afterwards apprehended him in Cosham-street `[the original name of South Street]`. He was very violent and kicked me. We were obliged to take his boots off and to get assistance to bring him to the Station-house.
+P.C. Hobbs said—last night about o'clock I was on duty in the High-street, near the Bugle-inn, defendant was playing a violin and singing, and another man with him was playing a banjo. They were both on the pavement. Mr. Mew, the landlord of the Bugle came and requested me to remove them as they had dinner party who were very much annoyed by them. I spoke to defendant and requested him to go way. He said, "these gentlemen (pointing to three men in the Bugle') wish me to sing a song. I said, I had nothing to do with that and wished them to move on. Defendant looked to the men in the Bugle and asked them if they did not want him to sing a song. They made him no answer. Defendant began singing. I told him I should lock him up if he did sing, and he then went to the gentlemen and asked them to give him something. They said, you sing a song and I will. He then began singing and I took him into custody. In coming down the street he struck me with a fist and kicked me in my legs. He got his leg between mine and threw me. He pulled a quantity of hair out of my head with both his hands. He then got away. P.C. Lockhurst and I afterwards apprehended him in Cosham-street. He was very violent and kicked me. We were obliged to take his boots off and to get assistance to bring him to the Station-house.
 
 The defendant said, he was a little the worse for liquor and was very sorry for it.
 
@@ -1027,21 +1031,9 @@ At the Borough Petty Sessions on Monday, before T. Cooke and E. Way, Esqrs.— T
 
 ```
 
-On several occasions, simple acts of loitering appear to have lead to the dock:
+Other deliberate cases of soliciting also attracted the ire of the court:
 
-```{admonition} Loitering with a soldier, September, 1855
-:class: dropdown
-[Hampshire Advertiser - Saturday 08 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550908/030/0007)
-
-BOROUGH COURT. Monday.— Magistrates present:- R. M. Wavell, and E Way, esqrs.
-
-A girl of loose character, named Jane Snudden, was brought up by Police constable Stubbs tor an offence against the bye laws, being found by him loitering about the town with a soldier at midnight. She was fined 15s, including costs, and in default of payment, to be committed for fourteen days' hard labour.
-
-```
-
-At other times, the solicitng appears to have been more deliberate:
-
-```{admonition} Nymphs of the pave, strolling the streets, December 1850
+```{admonition} Nymphs of the pave, strolling the streets for improper purposes, December 1850
 :class: dropdown
 [Hampshire Independent - Saturday 14 December 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18501214/071/0007)
 
@@ -1096,22 +1088,6 @@ The Mayor: you are committed as common prostitutes to Winchester Gaol, there to 
 Borough Petty Sessions, Monday. —Present, C. W, Estcourt, Esq., Mayor; Edward Way, and R. M. Wavell, Esqs.
 
 Ellen Bull and Caroline Heal, two frail beauties, were charged by the Inspector of Police with disorderly conduct; he deposed that they were fighting in the High-street on Saturday night; that they had been drinking, but were not drunk. The Mayor said they had been guilty of riotous and indecent conduct, and were liable by the bye law to one months imprisonment. The Judgment of the bench was, that they be imprisoned for a fortnight in the House of Correction.
-
-```
-
-```{admonition} Loitering and fighting, September 1855
-:class: dropdown
-[Isle of Wight Observer - Saturday 08 September 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550908/009/0003)
-
-Borough sessions.
-
-Monday.—Before Dr. Wavell, and E. Way, Esq.
-
-...
-
-Jane Snudden was fined 10s. and 5s. costs for loitering about the streets in the middle of the night on Wednesday last for the purpose of prostitution, and in default of payment committed to hard labour in Winchester gaol for 14 days.
-
-Fanny Gutteridge, Martha Linnington, and Martha Denness, three common prostitutes, were charged by P.C. Stubbs with fighting in the street on Saturday night, at half-past 12 o'clock. Reprimanded and discharged.
 
 ```
 
@@ -1172,7 +1148,7 @@ Drunkenness.— Ellen Mills, well known to the Police for her drunken and brawli
 
 ```
 
-```{admonition} Drunk and asleep, August 1955
+```{admonition} Drunk and asleep, August 1855
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 04 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550804/036/0007)

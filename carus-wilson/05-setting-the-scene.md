@@ -217,7 +217,7 @@ Troops were landed at Fountain Quay in Cowes, and then marched south to Parkhurs
 
 MEETING OF THE NEWPORT TOWN COUNCIL.
 
-The Quarterly Meeting of the Town Council was held on Tuesday, the Mayor, John Henry Hearn,, Esq., in the chair.
+The Quarterly Meeting of the Town Council was held on Tuesday, the Mayor, John Henry Hearn, Esq., in the chair.
 
 ...
 
