@@ -264,8 +264,8 @@ But God must have been looking favourably on the event, for Thursday, August 14t
 
 A reasonably concise report of the foundation stone laying event was published in the *Hampshire Chronicle*:
 
-```{admonition}
-
+```{admonition} Laying the foundation of St. Thomas's Church, August 1854
+:class: dropdown
 [Hampshire Chronicle - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000231/18540826/053/0005)
 
 THE HAMPSHIRE AND SOUTHAMPTON COUNTY PAPER.—SATURDAY, AUGUST 26, 1854.
