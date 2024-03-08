@@ -87,7 +87,7 @@ Charlotte Honeybunn, Elizabeth West, and Julia Vine, were committed for twenty-o
 
 ```
 
-As well as common loitering, 
+Despite being assaulted, it seems that working girls could well be prosecuted along with their assailants:
 
 ```{admonition} A batch of disorderlies, December 1855
 :class: dropdown
