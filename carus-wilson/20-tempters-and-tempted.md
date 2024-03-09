@@ -193,7 +193,7 @@ Also, TEMPTERS AND TEMPTED, a Tract, by the Rev. W CARUS WILSON. Price 1d, or 12
 
 ```
 
-From a debate a week later on the question of maintaing the Sabbath and the appeals of the "Sunday League" party, ripples from some of the accusations that appeared to have been made in the previous Council meeting stll seemed to be playing out.
+From a debate a week later on the question of maintaing the Sabbath and the appeals of the "Sunday League" party, ripples from some of the accusations that appeared to have been made in the previous Council meeting still seemed to be playing out.
 
 ```{admonition} An institution for spy purposes, February 1856
 :class: dropdown
