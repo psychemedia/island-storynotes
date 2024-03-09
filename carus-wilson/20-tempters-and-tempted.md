@@ -90,7 +90,7 @@ We abide by the resolution announced in our last publication, not to mix ourselv
 ```{admonition} Another Henry Smith...
 :class: seealso
 
-In passing, I note that it was another Henry Smith, a certain *Captain* Henry Smith, who collected the story of [The Three Little Pigs](../three-little-pigs.html) in Shanklin around 1853.
+In passing, I note that it was another Henry Smith, a certain *Captain* Henry Smith, who collected the story of [The Three Little Pigs](../three-little-pigs.md) in Shanklin around 1853.
 
 ```
 
