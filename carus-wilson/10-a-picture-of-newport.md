@@ -689,9 +689,9 @@ Mrs. Rosa Jager complained of her husband, August Jager, ill treating her, and t
 
 As well as regular mentions in the court reports for particular establishments, certain locations were also associated with disorderly behaviour. Tontine Yard was onesuch, as well as the *environs* of Cosham-street in general, Paradise Row another.
 
-```{warning}
+```{note}
 
-Paradise Row was perhaps located between High Street and Pyle Street, a lane leading off Pyle Street, but I don't yet have a map that shows its location, or a report that exactly describes its location.
+Paradise Row was located between Castle Hold and Pyle Street, opposite waw used to be the Post Office, with the Old King's Arms Inn on the corner of Paradise Row and Pyle Street.
 
 ```
 
