@@ -177,7 +177,9 @@ After a desultory conversation it was agreed that the Mayor be empowered to writ
 
 The outcome of the council meeting was that the Mayor should write to the author of the *Tempters and Tempted* tract, the Revd. Carus Wilson, repudiating the claims made against newport in that tract.
 
-*I still haven't found a copy of the Mayor's letter, or a copy of its contents, from the mayor to Carus Wilison,  but it seems that it provoked a rapid, and very public, reponse from the Rev. Carus Wilson in the form of another tract.*
+```{warning}
+I still haven't found a copy of the Mayor's letter, or a copy of its contents, from the mayor to Carus Wilison,  but it seems that it provoked a rapid, and very public, reponse from the Rev. Carus Wilson in the form of another tract.
+```
 
 ```{admonition} Just Published, A Letter to the Mayor of Newport, February 1856
 :class: dropdown
