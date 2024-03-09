@@ -118,12 +118,12 @@ https://www.ancient-origins.net/myths-legends/pied-piper-hamelin-001969
 3 NOVEMBER, 2020 - 23:15 DHWTY
 The Disturbing True Story of the Pied Piper of Hamelin
 READ LATER  PRINT
-When, lo! as they reached the mountain-side, 
-A wondrous portal opened wide,
-As if a cavern was suddenly hollowed;
-And the Piper advanced and the children followed,
-And when all were in to the very last,
-The door in the mountain-side shut fast.
+When, lo! as they reached the mountain-side,  
+A wondrous portal opened wide,  
+As if a cavern was suddenly hollowed;  
+And the Piper advanced and the children followed,  
+And when all were in to the very last,  
+The door in the mountain-side shut fast.  
 Robert Browning, The Pied Piper of Hamelin: A Child’s Story
 
 Many are familiar with the story of the Pied Piper of Hamelin. Few realize however, that the story is based on real events, which evolved over the years into a fairy tale made to scare children.

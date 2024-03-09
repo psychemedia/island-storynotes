@@ -364,3 +364,27 @@ The letter closes with a reference to the correspondents own work on the local h
 > If this information, which I have extracted from my little work "Historical Gleanings of Newtown," is of any use to your correspondent, he is welcome to it with my compliments.— I am, Sir, your obedient servant, J. H. Woolgar.
 >
 > Newtown, Dec. 1 1893.
+
+## Mentions in Notes & Queries
+
+Issue
+
+```{admonition} The Pied Piper or Hamelin (5th S., vi. 61, 175.)
+:class: dropdown
+
+—There is a version of this tale given in an old Latin collection of facetiae, which runs thus :—
+
+" De Diabolo horrenda historia.—De Diabolo recitatur vera historia ante annos nondum ducentos in Saxonia facta, ubi Diabolus specie humana in oppidum Hammeln ingressus, et se omnes mures maiores educturum esse pollicitus est. Tandem die Maria Magdalene iterum egressus est, et fistulando allexit ad se pueros et puellas magno numero, et cum omnibus euanuit, ita ut nemo scire potuerit, quo pueri et puellae peruenissent."
+
+`[According to Google Translate: The Horrible Story of the Devil.—A true story is told of the Devil, which took place not yet two hundred years ago in Saxony, where the Devil entered the town of Hammeln in human form, and promised to bring out all the great rats. Finally, on the day of Mary Magdalene, he went out again, and by whistling he drew to him a great number of boys and girls, and he went away with them all, so that no one could know where the boys and girls had arrived.]`
+
+
+In his *Iocorum otque Seriorum, tum Novorum, tum Selectorum atque Memorabilium Centurie Aliquot* Otho Melander makes the above his 365th narrative. The edition I am citing is that published at Nurnberg, in 1643 (the same date as Howell's letter referred to by Morn); but the authority quoted is D. Selneccer. in Genesis, p. 79, item p. 165. What date does the latter work bear? The tale is told in the Isle of Wight (Elder's Tales and Legends of the Isle of Wight).\*
+
+Davin FitzGerald. Hammersmith
+
+\* `[footnote]` Since the above was written the writer has re ad Mr. Baring-Gould’s chapter on “ The Piper of Hameln ” (*Curious Myths*, 1873). He refers to Thorpe and Grimm for a full examination of the story.
+
+In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan’s account is given. I have before now asked unsuccessfully in "N, & Q." who “ Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
+
+```
