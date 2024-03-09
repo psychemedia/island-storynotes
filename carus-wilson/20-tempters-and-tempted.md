@@ -47,7 +47,14 @@ At this point, it seems as if one of the council members made a claim regarding 
 ```{admonition} Secret reports
 :class: dropdown
 
-.—Mr. Eldridge (Town Clerk), said he was one of those who agreed with the memorial; he thought it was quite right, and no censure ought to be cast on those who were parties to it. The attention of the Magistrates was called to facts which were patent to all Gentlemen, and if those present had seen the report of the Town Missionary, which Dr. Wavell and himself had presented to them weekly, they would know the amount of vice which prevailed.—The Mayor said they had no right to sit in judgment upon others, they had no authority to judge and collect accusations against their neighbours. If this was the occupation of a Town Missionary, the sooner he was removed the better.—Mr. Eldridge said he knew that he had lifted up many who had been cast down, and he could tell of those in higher places, whose conduct would not bear investigation.—Mr. Pinnock said that the missionary was engaged to raise up the frail, but the course pursued by him and his employers, had turned out a curse to the town.—Mr. Wilkins and Mr. Morgan expressed similar feelings with the other members of the Council.—Mr. W. B. Mew wished to know by what authority these men had set up this court of inquisition; he felt indignant at their presumption. There was a newspaper once circulated in the town, called Paul Pry, which was very objectionable, and caused unpleasantness in many families but this was much worse, as the scandal was handed from one to the other, without the knowledge of the person whose reputation was attacked. If this Paul Pry defended by Mr. Eldridge, went into these abodes of sin and temptation, he ought to be exceedingly good; as pitch could not be handled without defilement. The exposure that day should induce the Town Clerk to cut such acquaintance, and he could not help feeling disgusted that men should be found, who could listen to the reports, full of scandals and libels on their neighbours.—The Mayor said he was afraid there was a great deal too much of spying and prying going on.
+.—Mr. Eldridge (Town Clerk), said he was one of those who agreed with the memorial; he thought it was quite right, and no censure ought to be cast on those who were parties to it. The attention of the Magistrates was called to facts which were patent to all Gentlemen, and if those present had seen the report of the Town Missionary, which Dr. Wavell and himself had presented to them weekly, they would know the amount of vice which prevailed.—The Mayor said they had no right to sit in judgment upon others, they had no authority to judge and collect accusations against their neighbours. If this was the occupation of a Town Missionary, the sooner he was removed the better.—Mr. Eldridge said he knew that he had lifted up many who had been cast down, and he could tell of those in higher places, whose conduct would not bear investigation.—Mr. Pinnock said that the missionary was engaged to raise up the frail, but the course pursued by him and his employers, had turned out a curse to the town.—Mr. Wilkins and Mr. Morgan expressed similar feelings with the other members of the Council.—Mr. W. B. Mew wished to know by what authority these men had set up this court of inquisition; he felt indignant at their presumption.
+```
+
+A reference was also made to a publication in previous years that also seems to have engaged in spreading "unpleasntness". 
+
+```{admonition} The "Paul Pry" newspaper
+:class: dropdown
+There was a newspaper once circulated in the town, called Paul Pry, which was very objectionable, and caused unpleasantness in many families but this was much worse, as the scandal was handed from one to the other, without the knowledge of the person whose reputation was attacked. If this Paul Pry defended by Mr. Eldridge, went into these abodes of sin and temptation, he ought to be exceedingly good; as pitch could not be handled without defilement. The exposure that day should induce the Town Clerk to cut such acquaintance, and he could not help feeling disgusted that men should be found, who could listen to the reports, full of scandals and libels on their neighbours.—The Mayor said he was afraid there was a great deal too much of spying and prying going on.
 ```
 
 ```{admonition} A response to Carus Wilson is called for
@@ -209,16 +216,15 @@ A hustling was now observed in the crowd, and it was announced amidst much confu
 
 The Chairman— "Come forward, Mr. Mollett, we will hear what you bave to s ay, or any oiher gentleman of the company."
 
-W. Mollett, Esq. then got upon tbe platform, amidst an indescribable volley of hooting, jeering, cheering, and whistling, and observed, the words he had to say did not refer to the special object of the meeting. Mr. Pinnock had said— "The objects of their Town Mission had been abused by the parties connected with it turning it into an institution for spy purposes"— (renewed uproar. Mr. Pinnock explaining that what he said was, "These gentlemen may have turned a Town Mission into an association for tbe purposes of scandal").
+W. Mollett, Esq. then got upon the platform, amidst an indescribable volley of hooting, jeering, cheering, and whistling, and observed, the words he had to say did not refer to the special object of the meeting. Mr. Pinnock had said— "The objects of their Town Mission had been abused by the parties connected with it turning it into an institution for spy purposes"— (renewed uproar. Mr. Pinnock explaining that what he said was, "These gentlemen may have turned a Town Mission into an association for the purposes of scandal").
 
-The Chairman then recounted the scene which took place in the Council Chamber a few days ago, respecting tbe tract "Tempters and Tempted." when matters came out respecting a book kept by the Town Missionary and inspected weekly by Mr. Eldridge and Mr. Wavell, which led some of ;he Council to say that if such was the object of the Town Mission, it would prove a curse, and not a blessing.
+The Chairman then recounted the scene which took place in the Council Chamber a few days ago, respecting the tract "Tempters and Tempted." when matters came out respecting a book kept by the Town Missionary and inspected weekly by Mr. Eldridge and Mr. Wavell, which led some of ;he Council to say that if such was the object of the Town Mission, it would prove a curse, and not a blessing.
 
-Mr. Mollett here attempted to explain that this was not the object of that institution, hut that it was founded entirely on the principles of the London City Missions. What Mr. Eldridge had told the Council respecting the immorality of some of the higher classes, was from his own knowledge, and not from that book. He was, however, stopped by Mr. Pring, and the cries of " Turn him out," and so forth, were so vociferous, that Mr. Mollett descended from tbe platform.
+Mr. Mollett here attempted to explain that this was not the object of that institution, hut that it was founded entirely on the principles of the London City Missions. What Mr. Eldridge had told the Council respecting the immorality of some of the higher classes, was from his own knowledge, and not from that book. He was, however, stopped by Mr. Pring, and the cries of " Turn him out," and so forth, were so vociferous, that Mr. Mollett descended from the platform.
 
 ```
 
-From the Petty Sessions of, Monday, February 25th, 1856, we get the sense that some people at least considered Carus Wilson's response to the Mayor to be libellous and had jumped the gun in taking steps to prevent its distribution.
-
+From the Petty Sessions of Monday, February 25th, 1856, we get the sense that some people at least considered Carus Wilson's response to the Mayor to be libellous and had jumped the gun in taking steps to prevent its distribution.
 
 ```{admonition} No one appearing to prosecute, March 1856
 :class: dropdown
@@ -242,6 +248,18 @@ James Lewis, alias Nobby Ducks, who had been taken into custody on Saturday even
 
 ```
 
+A little more detail about why the initial arrest appears to have been made can be found in the Borough Sessions report from the *Hampshire Telegraph*.
+
+```{admonition} A caution signed by Mr. Eldridge, Town Clerk, March 1856
+:class: dropdown
+[Hampshire Telegraph - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560301/012/0004)
+
+At the Borough Petty Sessions, on Monday, before the Mayor, Thomas Cooke, and Edward Way, Esqrs.
+
+James Lewis, who had been taken into custody on Saturday evening, but liberated on his own recognizance, for whom Mr. G. P. Joyce appeared, was told there wae no charge against him. It appeared that in consequence of a caution signed by Mr. Eldridge, Town Clerk, that the pamphlet containing a letter of the Rev. Carus Wilson, in answer to the Mayer of Newport, was a libel, the defendant was taken into custody for selling the book. Mr. Joyce Wished to know by what authority his client had been taken into custody, and also whether the books would be returned. The Mayor said there was no charge made against James Lewis, and he must apply to the Inspector of Police respecting the books.
+
+```
+
 ## What Next?
 
-Notwithstanding the failure to prosecute Nobby Ducks for selling Carus Wilson's letter responding to the Mayor's letter, a prosecutor was about to step up to press such a charge for libel against Carus Wilson.
+Notwithstanding the failure to prosecute Nobby Ducks for selling Carus Wilson's letter responding to the Mayor's letter, a prosecutor was about to step up to press such a charge for libel against Carus Wilson at the County Police two days later.
