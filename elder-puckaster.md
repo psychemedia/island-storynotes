@@ -88,7 +88,7 @@ Upon the groun'
 John Kann,  
 You tall man."
 
-John Kann nodded assent, and squatted himself upon the turf without more ado. Puck immediately climbed up on his knee, and then reaching up as high as he could, he caught hold of the lowestbutton of John's waistcoat, and then scrambled up a little higher. At length he got one of his feet firmly planted upon the edge of his waistcoat-pocket, and resting the other upon one of his buttons, he said,
+John Kann nodded assent, and squatted himself upon the turf without more ado. Puck immediately climbed up on his knee, and then reaching up as high as he could, he caught hold of the lowest button of John's waistcoat, and then scrambled up a little higher. At length he got one of his feet firmly planted upon the edge of his waistcoat-pocket, and resting the other upon one of his buttons, he said,
 
 " Stoop, Mr. Kann,  
 You tall man."
