@@ -94,7 +94,7 @@ Mr. Eldridge observed that Mr. Pittis felt that after this ample apology, he sho
 
 In passing, I note the very next article in the column was championing a forthcoming event in support of the "new Church Building Fund".
 
-```{admonition}
+```{admonition} A grand Bazaar
 :class: dropdown
 [Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001)
 
