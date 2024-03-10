@@ -147,7 +147,7 @@ John Chick, a German, was charged with keeping a disorderly house and encouragin
 
 A brief report in the *Hampshire Telegraph* in February 1860 identifies three separate charges of disorderly behaviour along similar lines, although with very different outcomes.
 
-```{todo}
+```{seealso}
 Various of the court appearances of *Caroline Pierce* are collated elsewhere.
 ```
 
@@ -313,7 +313,7 @@ P.C. Jacobs deposed that on Saturday evening, abut ten o'clock, he went to the A
 The Bench fined defendant 5s., with 5s. costs; seven days' hard labour in default of payment.
 ```
 
-### Miss Emily Kent
+## Miss Emily Kent
 
 One name that keeps recurring in the court reports throughout the 1860s is a certain Miss Emily Kent, resident of the House of Industry, whose repeated bad behaviour kept landing her stints of hard labour in Winchester gaol. Despite recognising that the sentences were not having effect on changing her behaviour, the court kept sending her back for more. We can easily imagine "thank you, gentlemen," as her stock reply.
 
