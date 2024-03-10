@@ -36,7 +36,7 @@ Where do you think he took him to? To the very place where the grass was so smoo
 
 Well, John Kann's neighbour took his advice; and, moreover, asked John to his wedding-feast, which took place a day or two afterwards. John passed a very merry evening; and it was late and very dark before he started to return home. There were no roads in this part of the island in those days; so finding one's way home at night was not always an easy matter. Luckily, however, for John, a friend of his, who lived near, had started just before with a lantern, and John followed the light, which was some way on before him, singing to himself as he went along.
 
-Up-hill and down-hill, over rough and smooth, John Kann followed the light: but, somehow or other he did not recognise any part of the road as he went along. "Maybe the ale was strong, and1 am a little fuddled like, though I do not feel so," thought he to himself. "Maybe, all this time I have been following a wrong person with a lantern." However, it was of no use stopping then, as he did not at all know where he was; so he followed on, and on, and on. The ground grew rougher, sometimes up-hill, sometimes downhill, amongst brambles, and rocks, and holes, but there was a firm good path under his feet all the while. When, all of a sudden a new idea flashed across his mind. "Maybe it 's Puck's little star that I have been walking after all this while. What fun!" thought he to himself.
+Up-hill and down-hill, over rough and smooth, John Kann followed the light: but, somehow or other he did not recognise any part of the road as he went along. "Maybe the ale was strong, and I am a little fuddled like, though I do not feel so," thought he to himself. "Maybe, all this time I have been following a wrong person with a lantern." However, it was of no use stopping then, as he did not at all know where he was; so he followed on, and on, and on. The ground grew rougher, sometimes up-hill, sometimes downhill, amongst brambles, and rocks, and holes, but there was a firm good path under his feet all the while. When, all of a sudden a new idea flashed across his mind. "Maybe it 's Puck's little star that I have been walking after all this while. What fun!" thought he to himself.
 
 At length the light seemed to stand still, and John Kann walked up to it. However, as he came nearer, the light seemed to grow paler and smaller; and, when he got close to it, it was no bigger or brighter than a glow-worm's tail, so he was left all in the dark; but just then the moon glided out from behind a cloud, and showed him that he was on the very spot where the grass was smooth, and the fairy rings were, and where his neighbour wanted to have built his house.
 
@@ -218,7 +218,7 @@ We rode on the ripple of the stream.
 And we soothed the lover in his dream;  
 We wove the vision so soft and bright,  
 That he clasp'd his pillow in delight.  
-We sought the coucn of his lady love,  
+We sought the couch of his lady love,  
 And hover'd in the air above.  
 You would have laugh'd. Sir Puck, to see  
 How we tickled her fantasy.  
@@ -301,7 +301,7 @@ Grow small.
 John Kann remains taller:  
 Dust him till he gets smaller."
 
-Immediately the operation of throwing fine brown dust up Kann's nose was resumed, till he sneezed and sneezed, and grew smaller andsmaller. At length, in consequence of his head diminishing in size, the foxglove cap that he wore slipped down over his face. A fairy by his side helped him to take it off, and to put on the flower of a blue harebell, which fitted his head to a T. Upon looking round,he perceived that all the fairies had changed their foxglove caps for bluebells, — their charms apparently having no power to reduce the size of real flowers, although they could vary their own statures at pleasure.
+Immediately the operation of throwing fine brown dust up Kann's nose was resumed, till he sneezed and sneezed, and grew smaller and smaller. At length, in consequence of his head diminishing in size, the foxglove cap that he wore slipped down over his face. A fairy by his side helped him to take it off, and to put on the flower of a blue harebell, which fitted his head to a T. Upon looking round,he perceived that all the fairies had changed their foxglove caps for bluebells, — their charms apparently having no power to reduce the size of real flowers, although they could vary their own statures at pleasure.
 
 A very merry supper they had. Mr. Puck and his friends ate and drank, and danced and sung. It struck John Kann that many of them were getting a cup too much, and that Mr. Puck himself was beginning to be a little fuddled. However, before things went any farther, Mr. Puck nodded to a fairy that was standing close to him, with the long flower of a honeysuckle in his hand; upon which the fairy put the honeysuckle flower to his mouthy as if it had been a horn, and began trumpeting away upon it. John Kaiin could not say that the sound was exactly like a trumpet; but certainly it was more like a trumpet than anything else that he knew of. The moment the merry company heard the trumpet they left off feasting and singing, and became instantly silent, grave, and sober.
 

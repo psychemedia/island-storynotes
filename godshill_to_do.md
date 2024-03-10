@@ -87,7 +87,7 @@ The Church, as we see it, dates from the first quarter of the 15th cent., and is
 
 Garle, Driving tour, p60-61
 Passing through the interesting little village of Godshill, we stopped to visit the church, which is situated on the summit of a steep hill.
-Tradition says the building operations were begun in the valley on a part known as the Devil's Acre, but during the night all the materials were mysteriously carried up to the top of the knoll, and those concerned, taking this for an intimation that the edifice was to be erected on the hill, built it there. In the entrance porch is a memorial tablet to a worthy, Richard Gard by name, who lived in the time of Sir John Oglander. This tablet sets forth his many virtues and generous acts ; but Sir John, who knew him, describes him in his diary as a French refugee, shrewd and dishonest, and as having amassed considerable property by various base practices, such as by getting possession of title deeds of estates under colour of examining them, discovering some flaw, and then by base and fraudulent repre- sentations driving the parties to a com(osition advantageous to himself ; also by stealing cattle and placing hot loaves on their horns to make them supple, and so render it easy to alter their natural shape, in order to deceive their lawful owner, should he come to claim them.
+Tradition says the building operations were begun in the valley on a part known as the Devil's Acre, but during the night all the materials were mysteriously carried up to the top of the knoll, and those concerned, taking this for an intimation that the edifice was to be erected on the hill, built it there. In the entrance porch is a memorial tablet to a worthy, Richard Gard by name, who lived in the time of Sir John Oglander. This tablet sets forth his many virtues and generous acts ; but Sir John, who knew him, describes him in his diary as a French refugee, shrewd and dishonest, and as having amassed considerable property by various base practices, such as by getting possession of title deeds of estates under colour of examining them, discovering some flaw, and then by base and fraudulent representations driving the parties to a com(osition advantageous to himself ; also by stealing cattle and placing hot loaves on their horns to make them supple, and so render it easy to alter their natural shape, in order to deceive their lawful owner, should he come to claim them.
 Sir John Oglander puts rather a different complexion on his deeds to that recorded on the tablet in the church porch. One curious clause in his will was that the stone placed over his grave should \^e broken to enable him to rise the easier on the Day of Judgment
 
 
@@ -553,7 +553,7 @@ Worsley, and are. Canon Venables says, still to be traced.
 Worsley {Hisi. I. W. p. 247) has a note which states that '
 in the family papers is a small rude drawing of this chapel, when entire, from which it appears that it had only a body without a transept; the tower stood at the west end. A description of this tower, with four views of it in its de- cayed state, is seen in the Gentleman's Magazine, vol. xxvii. p. 176.
 With the destruction of the chantry, the morals of the
-people of Chale, as regarded the treatment of shipwrecked marmers, became worse rather than better. Tomkins, in his
+people of Chale, as regarded the treatment of shipwrecked mariners, became worse rather than better. Tomkins, in his
 Tour in the Isle of Wight (London, i 796), vol. i. p. 1 26, having
 described in his how,
 round the
@@ -567,7 +567,7 @@ stratagem said to have been practised on this coast for a number of years, but i
 improbability to be seriously credited. On every stormy night the inhabitants of the coast of Chale are said to have allured the unwary mariner to his destruction by fixing
 
  l6o THE VILLAGE OF CHALE
-a lanthorn to the head of an old horse, one of wliose fore-
+a lanthorn to the head of an old horse, one of whose fore-
 legs had been previously lied up. The limping gait of the animal gave the lantliorn a kind of motion exactly similar to that of a ship's lanthorn, and led the deceived pilot on thefe fatal rocks, a prey to merciless plunderers, who it was said would not even scruple to dispatch any unfortunate individual that survived the wreck, in order to secure their booty more
 completely.'
 Dreadful traditions of such barbarous contrivances as that
@@ -609,7 +609,7 @@ ship it should be no wreck. Henry II made a feeble
 enlargement of this scant mercy, and by his charter declared
 that if on the coasts of either England, Poitou, Oleron, or
 Gascony, any ship should be distressed, and either man or
-beast escape or be found therem alive, the goods should
+beast escape or be found therein alive, the goods should
 remain to the owners if they claimed them within three
 months, but otherwise should be esteemed a wreck and be-
 long to the king, or other lord of the franchise. This was

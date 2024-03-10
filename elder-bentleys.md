@@ -81,13 +81,13 @@ Portsmouth Evening News - Wednesday 19 February 1930
 
 The Seer of Freshwater.
 
-Many half-forgotten folk-taks are contained in Abraham Elder's "Tales and the Isle of Wight". Do Bombridge folk still tell of the ghostly passenger who was ever to be found seated in the local ferry? Do Islanders still live in dread of the giant of Chale, who "loved man's flesh better then pig. . . chose those that were tall and heavy, stewed the fat ones in their own gravy?"
+Many half-forgotten folk-tales are contained in Abraham Elder's "Tales and the Isle of Wight". Do Bombridge folk still tell of the ghostly passenger who was ever to be found seated in the local ferry? Do Islanders still live in dread of the giant of Chale, who "loved man's flesh better then pig. . . chose those that were tall and heavy, stewed the fat ones in their own gravy?"
 
-During his travels, Abraham Elder made the acquaintance "the blind ghost-seer of Freshwater,” who related to him the story of a spectral revenue cutter which was supposed the smugg'era the Western Wight.
+During his travels, Abraham Elder made the acquaintance "the blind ghost-seer of Freshwater,” who related to him the story of a spectral revenue cutter which was supposed the smugglers ?? the Western Wight.
 
-Another "seer" the author relates, recounted an astonishing ghost atory of which he declared he had the ancient manuscript. When Elder asked to see it, a prolonged search of the "seer's" house ensued, and the latter exclaimed that it must heve been "stolen." According Elder, the  "seer" even went so far as to produce a scapegoat and drag him before a magistrate at Newport in order to save face.
+Another "seer" the author relates, recounted an astonishing ghost story of which he declared he had the ancient manuscript. When Elder asked to see it, a prolonged search of the "seer's" house ensued, and the latter exclaimed that it must have been "stolen." According Elder, the  "seer" even went so far as to produce a scapegoat and drag him before a magistrate at Newport in order to save face.
 
-How times have changed! One of these volumes records lhat the population of the Island at the close of the Eighteenth Century was estimated about 18,000, of whom 1,000 were in the Workhouse!
+How times have changed! One of these volumes records that the population of the Island at the close of the Eighteenth Century was estimated about 18,000, of whom 1,000 were in the Workhouse!
 
 ---
 
