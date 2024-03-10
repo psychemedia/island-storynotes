@@ -23,7 +23,6 @@ On Sunday, the 21st init., the new church of St. Thomas will be opened for Divin
 
 Another month was to pass, and then the church was consecrated at the end of January, 1857.
 
-
 ```{admonition} Consecration of St. Thomas' Church, January 1857
 :class: dropdown
 [Hampshire Advertiser - Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18570124/050/0007)
