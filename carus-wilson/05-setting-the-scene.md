@@ -205,7 +205,7 @@ The Rev. R. Walton White read the report of the Committee appointed to ascertain
 
 ## Parkhurst Barracks
 
-Parkurst (Albany) Barracks were located on the northern edge of Newport, next door to Parkhurst prison, previously a military hospital that had been converted to a prison for young male offenders in December 1838.
+Parkhurst (Albany) Barracks were located on the northern edge of Newport, next door to Parkhurst prison, previously a military hospital that had been converted to a prison for young male offenders in December 1838.
 
 As a garrison town, soldiers from a wide variety of regiments were stationed at Parkhurst Barracks, often *en route* to the Crimea via troop ships sailing out of Portsmouth. The muster appears to have reached about 1,300 officers and men at any one time, many of them young men in their teens or early twenties.
 
@@ -238,7 +238,7 @@ I. — England and Wales — continued.*
 |---|---|---|---|---|---|---|
 |Albany, Parkhurst | - | 1,524 | 92 | 24 / 12 | 520 / 333 | 14 ; 16 / 3 ; 975 / 385|
 
-A brief report in the *Hampshire Telegraph* of Saturday, 11th October, 1856, extimates the muster at the barracks at about 1300 men.
+A brief report in the *Hampshire Telegraph* of Saturday, 11th October, 1856, estimates the muster at the barracks at about 1300 men.
 
 ```{admonition} Hampshire Telegraph - Saturday 11 October 1856
 :class: dropdown
@@ -428,4 +428,4 @@ At the Petty Sessions, on Saturday last, before the County Magistrates, at the G
 
 ## What Next?
 
-And so the scene is set. But what of the character — and characters — of the Borough of Newport in the 1840s and 1850s, at least for the puposes of this tale?
+And so the scene is set. But what of the character — and characters — of the Borough of Newport in the 1840s and 1850s, at least for the purposes of this tale?

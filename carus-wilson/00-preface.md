@@ -8,7 +8,7 @@ This set of notes also represents another step in the evolution of a method I am
 
 The process is built around the basis that "a story is what's left when the facts are forgotten". As a source of facts, I am turning to contemporaneous, historical newspaper reports, reports that provided a first draft of history of particular events. These are collated and grouped and imagined to inform the snippets of conversation that folk of the time might have had about particular events.
 
-The collection of contemporaneous material is deliberately biassed. It is not necessarily my intention to give a fair characterisation of Newport in the 1850s. Instead, the search lenses I used were biassed by in terms of "finding more" and chasing down rat-holes on very particular topics (essentially deep-diving on vbery particular aspects of life at that time, and in that place).
+The collection of contemporaneous material is deliberately biassed. It is not necessarily my intention to give a fair characterisation of Newport in the 1850s. Instead, the search lenses I used were biassed by in terms of "finding more" and chasing down rat-holes on very particular topics (essentially deep-diving on very particular aspects of life at that time, and in that place).
 
 In amassing and grouping these "facts", I get a sense of the time, the place and the story.
 

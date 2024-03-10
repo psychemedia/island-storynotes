@@ -228,7 +228,7 @@ This being the annual licensing day for the Borough the Court was pretty full of
 
 ### The Tontine Tap
 
-In 1821, following the death of Mr. John Steane, merchant of Carisbrooke, the Tontine Tap, as well as its parent brewery and several tenements that presumably made up the lodgings around the Tontine Yard, was put up for sale, under acution held by Mr. Francis Pittis.
+In 1821, following the death of Mr. John Steane, merchant of Carisbrooke, the Tontine Tap, as well as its parent brewery and several tenements that presumably made up the lodgings around the Tontine Yard, was put up for sale, under an auction held by Mr. Francis Pittis.
 
 ````{admonition} To be sold by auciton, a capital free inn, July 1821
 :class: dropdown
@@ -392,7 +392,7 @@ The prisoner was then remanded until Thursday.
 
 ```
 
-The same Ann Gladdis, presumably, had also appeared as a witness in a case of the theft of two waistcoats and a pair of trowsers that had been prosecuted earlier that yaer.
+The same Ann Gladdis, presumably, had also appeared as a witness in a case of the theft of two waistcoats and a pair of trowsers that had been prosecuted earlier that year.
 
 ```{admonition}  An impudent request, January 1846
 :class: dropdown
@@ -818,7 +818,7 @@ The magistrateds bound Mrs. James over to keep the peace for a twelevemonth.
 
 ```
 
-Perhaps the same Eliza Young was also involved in another incident a coupleof years later:
+Perhaps the same Eliza Young was also involved in another incident a couple of years later:
 
 ```{admonition} Ill-using a wife, March 1848
 :class: dropdown
@@ -856,6 +856,39 @@ Mary Harvey, common prostitute, was charged by P.C. Hobbs with being drunk and l
 
 ```
 
+The following tale has an interesting possible set-up regarding a lost £10 note.
+
+```{admonition} Making a great noise in the street, November 1853
+:class: dropdown
+[Isle of Wight Observer - Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18531105/008/0003)
+
+BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor ; E. Way, Esq., R. M. Wavell, Esq., and C. W. Estcourt, Esq., magistrates.)
+
+Elizabeth Carr, was charged by P.C. Cave with making a great noise in the street about twelve o'clock on Sunday night. The prisoner denied being out so late as twelve o'clock, and said that she was at home and going to bed, but some own came and wanted her mother, and she went to look for her and found her at the Old King's Arms public house, and as they were coming home they talked rather loud about a £10 note, (it appears that James Mew, Esq., lost a £10 note and very liberally offered £2 reward for it, but it fell into the hands of some of the above woman's gang, and was actually changed at Mr. Mews brothers' brewery by one of them who had decamped), when the police constable took her into custody. The magistrates dismissed her with a reprimand; but the chairman told the mother who was in the court that she ought to have been in her daughter's situation as he feared from the bad example set the girl by her parent, it would not be the last time she would be brought before them. Francis
+
+```
+
+```{admonition} Her first appearance, November 1853
+:class: dropdown
+[Hampshire Telegraph - Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18531105/017/0004)
+
+Borough Petty Sessions, Monday, before F. Pittis, Esq., (Mayor) R. M. Wavell, C. W. Estcourt, and E. Way, Esqrs.
+
+Elizabeth Carr, a young girl, was charged with disorderly conduct on Sunday night. It was her first appearance, and after a severe admonition to her mother and herself, she was discharged.
+```
+
+Perhaps the same Elizabeth Carr receives another mention a few months later.
+
+```{admonition} Caught with turnip greens, March 1854
+:class: dropdown
+[Isle of Wight Observer - Saturday 11 March 1854](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18540311/018/0003)
+
+NEWPORT PETTY SESSIONS. Saturday.—Before the Rev. R. W. White, chairman, and Sir H. P. Gordon, Bart.
+
+Catherine Courtenay and Elizabeth Carr were charged by P.C. Purchase with having two bags of turnip greens in Long-lane, on Friday, and being unable to give a good account as to where they got them, they were committed to Winchester gaol for 21 days.
+
+```
+
 ```{admonition} Drunk and disorderly, December 1853
 :class: dropdown
 [Isle of Wight Observer - Saturday 31 December 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18531231/016/0004)
@@ -889,7 +922,6 @@ Making too much noise could also lead to a fine.
 [Isle of Wight Observer - Saturday 22 April 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540422/014/0003)
 
 BOROUGH SESSIONS. Monday.—Before R. M. Wavell, Esq., E. Way, Esq., and Percy Scott, Esq.
-
 
 Abraham Rackett was charged by P.C. Lockhart with making a great noise in Quay Street, on Friday night, and disturbing the inhabitants. The prisoner said he was sorry for it, he had some drink in him. Fined 5s. and 5s. costs, and in default of payment was committed for 10 days.
 
@@ -1091,7 +1123,7 @@ Ellen Bull and Caroline Heal, two frail beauties, were charged by the Inspector 
 
 ```
 
-Brief reports of creating a disturbance can also be regurlarly found.
+Brief reports of creating a disturbance can also be regularly found.
 
 ```{admonition} Creating a disturbance in the street, November 1854
 :class: dropdown
@@ -1167,7 +1199,7 @@ Ellen Mills, a prostitute, who had nearly succeeded in poisoning herself a few w
 
 ## Charged With Theft
 
-As well as beiung a hotbed of drunkenness and vice, it seems that a certain familiarity with theft was not unknown to the residents of Cosham-street and the Tontine Yard.
+As well as being a hotbed of drunkenness and vice, it seems that a certain familiarity with theft was not unknown to the residents of Cosham-street and the Tontine Yard.
 
 ````{admonition} A wretched denizen of Tontine-yard, May, 1846
 :class: dropdown

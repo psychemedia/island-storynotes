@@ -67,7 +67,7 @@ At a General Meeting or the Subscribers to the New Church, (to replace the old o
 
 ## Time to improve the church and its surroundings?
 
-Around about the same time — June 1849 — it seems as if the magistrates were trying to do something about the prostitution problem in Newport and "were determined to put down such open and gross vice and imnmorality".
+Around about the same time — June 1849 — it seems as if the magistrates were trying to do something about the prostitution problem in Newport and "were determined to put down such open and gross vice and immorality".
 
 ```{admonition} Calling down the judgment of the Almighty, June 1849
 :class: dropdown
@@ -155,7 +155,7 @@ NEWPORT, Saturday, August 5. St. Thomas's Church.— The foundation-stone of the
 
 ```
 
-The Mayor hoped the town officials should welcome to the Prince in "a becoming manner", although one of the councillors, Mr Pinnock, a dissenter, hoped that anyone not attending becuase of differening religious views would not be castigated for showing an assumed disloyalty to the Queen's consort. Pittis magnanimously suggested he would be pleased to see everyone there, and let the matter drop.
+The Mayor hoped the town officials should welcome to the Prince in "a becoming manner", although one of the councillors, Mr Pinnock, a dissenter, hoped that anyone not attending because of dissenting religious views would not be castigated for showing an assumed disloyalty to the Queen's consort. Pittis magnanimously suggested he would be pleased to see everyone there, and let the matter drop.
 
 ```{admonition} A becoming manner, August 1854
 :class: dropdown
@@ -184,7 +184,7 @@ NEWPORT. St. THOMAS'S CHURCH.— The strong rafters and solid walls of the old c
 
 ```
 
-Advertisements announcement the laying of the foundation stone appeared in the local press, and tickets were sold for seats from which the cermeony could be observed in order to raise additional funds for the rebuilding works.
+Advertisements announcement the laying of the foundation stone appeared in the local press, and tickets were sold for seats from which the ceremony could be observed in order to raise additional funds for the rebuilding works.
 
 ```{admonition} Seats affording a view of the ceremony, August 1854
 :class: dropdown
@@ -243,7 +243,7 @@ From a MS. in the British Museum, entitled " Church Motes in the Isle of Wight,"
 
 ```
 
-The weather was not so good the evening before. The wind was blowing a hurricane, and there were regualr showers. Earlier that previous day, the magistrates had overseen the Annual Licensing Day, where several new licenses were granted, licensees were reminded that "public houses are not to be kept open from ten to six on Sundays, Christmas-day, Good Friday, public fasts, and thanksgivings", and "George Machett, of the Blue Ball, was cautioned as to his house being frequented by prostitutes".
+The weather was not so good the evening before. The wind was blowing a hurricane, and there were regular showers. Earlier that previous day, the magistrates had overseen the Annual Licensing Day, where several new licenses were granted, licensees were reminded that "public houses are not to be kept open from ten to six on Sundays, Christmas-day, Good Friday, public fasts, and thanksgivings", and "George Machett, of the Blue Ball, was cautioned as to his house being frequented by prostitutes".
 
 ```{admonition} Annual Licensing Day and Borough Court, August 1854
 :class: dropdown
@@ -387,7 +387,7 @@ The whole mass now moved forward towards the church, the Prince conversing with 
 
 Seating galleries surrounded the site where the foundation stone would be laid, the invited dignitaries arranged around it. Military bands continued to provide music as and when appropriate.
 
-A rather elaborate ritual was then played out. Firstly, the stone was raised, Prince Albert was shown a copy of the plans, and "a bottle, containing the coins of the realm and parchment roll, were deposited in a cavity beneath the stone [and the] The foundation stone was then partly lowered". An inscribed and elaborately decorated silver trowel was presented to Prince Albert, who used it to spread cement on the lower stone before "the upper stone was let down slowly, with solemn music", and his Royal Highness made a dedication, before givin the stone three strokes with a mallet.
+A rather elaborate ritual was then played out. Firstly, the stone was raised, Prince Albert was shown a copy of the plans, and "a bottle, containing the coins of the realm and parchment roll, were deposited in a cavity beneath the stone [and the] The foundation stone was then partly lowered". An inscribed and elaborately decorated silver trowel was presented to Prince Albert, who used it to spread cement on the lower stone before "the upper stone was let down slowly, with solemn music", and his Royal Highness made a dedication, before giving the stone three strokes with a mallet.
 
 The Freemasons then performed their ritual. The senior masons proved the stone to be properly laid using plumbrule, level and square, and the Provincial Grand Master gave three knocks using a maul presented to him by the Architect, "at the same time invoking the blessing of the Grand Architect of the Universe", whereup the brethren responded.— *So mote it be.*. The Provincial Grand Master gave the plan tools to the builder, before scattering corn and pouring wine and oil upon the stone. The Provincial Grand Chaplain closed that part of the ceremony with an appropriate prayer, in response to which the brethren again chanted *So mote it be*.
 
@@ -475,7 +475,7 @@ The bands of the Royal Marines and the 4th Regiment performed " most eloquent mu
 
 ```
 
-In a Town Hall profusely decorated with flowers and paintings of the new Church. The tables were resplendent with silver cups and dishes, "covered with every delicacy and the choicest wines". The principal guests took their seats on a raised platform, the Mayor (Francis Pittis) and the Bishop of Winchester in in pride of place, whereup the Mayor raised a toast to the Her most grapcious majesty, the Queen, and the band fired up the National Anthem to great cheering.
+In a Town Hall profusely decorated with flowers and paintings of the new Church. The tables were resplendent with silver cups and dishes, "covered with every delicacy and the choicest wines". The principal guests took their seats on a raised platform, the Mayor (Francis Pittis) and the Bishop of Winchester in pride of place, whereup the Mayor raised a toast to the Her most gracious majesty, the Queen, and the band fired up the National Anthem to great cheering.
 
 ```{admonition} The Celebratory Banquet is seated
 :class: dropdown

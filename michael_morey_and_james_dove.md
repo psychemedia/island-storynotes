@@ -69,7 +69,7 @@ Early one morning in June, 1736, shortly after sunrise, six a.m. or so, Michal M
 
 Shortly after, Michal must have returned home alone, but then he too disappeared. A week later, Michal returned; "being asked after the Child, he could not give a satisfactory Answer. He was taken up on Suspicion; and upon searching a Chest belonging to him, his bloody Shirt (which was later produced in Court) was found wrapt up in a clean Shirt". He was placed in the care of his son, presumably under some sort of house arrest, and a hue and cry raised to search for James.
 
-Towards the end of July, Michal absconded again. Three days later, he was found again, a small reward paid for his return. Two weeks after that, he was sent to the Big Island, to the mainland, and imprisoned in in Winchester jail on suspicion of murder.
+Towards the end of July, Michal absconded again. Three days later, he was found again, a small reward paid for his return. Two weeks after that, he was sent to the Big Island, to the mainland, and imprisoned in Winchester jail on suspicion of murder.
 
 But there was still no sign of James.
 

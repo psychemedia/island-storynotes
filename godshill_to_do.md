@@ -423,7 +423,7 @@ highdown,wecametothespot; butafallofloose chalk had completely filled up the wel
 safely down the hill, the bishop kept his vow in purchasing the land, and it goes by the name of Bishop's Acre to this day."
 " Well, that is a curious tale ! true V
 Do you think it
-" I hardly know what to say about it ; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; butifhediddoso,allthatIcansayis,it is not very probable that he went down the steep part by the wishing-well."
+" I hardly know what to say about it ; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; but if he did do so, all that I can say is, it is not very probable that he went down the steep part by the wishing-well."
 " What tales were told you about the high cliffs, uncle ?"
 " Several, that I have reason to believe were true. My landlord said that, some years ago, two soldiers who were intoxicated, lost their way by night and became confused. They approached the perpen- dicular cliffs that are seen as you pass between the
 St. Lawrence and Niton, and over they they went. I dare say the cliffs are more than five hundred feet high ; it was a terrible fall, and both of them were killed. There are accidents enough in the world
@@ -434,7 +434,7 @@ without intemperance adding to their number."
 " Poor soldiers ! very likely they were brave
 fellows, with all their faults."
 " They might be so. I like bravery, but I had
-much rather see it employed in saving life, than in destroying it. I met with some lines yesterday thatmuchpleasedme. Theywerescrawledbya prisoner on his dungeon walls, and if he really
+much rather see it employed in saving life, than in destroying it. I met with some lines yesterday that much pleased me. They were scrawled by a prisoner on his dungeon walls, and if he really
 were a Christian and a patriot, they do him credit they were as follows :
 I boast no courage on the battle field,
 Where hostile troops iinmix in horrid fray
@@ -458,14 +458,14 @@ p116-7
  “ THE BISHOP’S ACRE ”
 around which such a halo of mystery has grown, must now be con- sidered. This plot of ground at the foot of the Down stands on the north side of St. Boniface Road, just outside the parish boundaries, and before Ventnor, in 1867, was constituted a separate Urban Authority, formed a part of the Newchurch parish.
 Several interesting stories have arisen in connection with it. The earliest I can find is the following :
-” There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin.”t
+” There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin.”
 Albin, five years later, repeats this version, and further says that :
-''It needs only to be added that a small parcel of land, containing about an acre, was given to the living in this situation, and, as supposed, in consequence of that vow.”2
+"It needs only to be added that a small parcel of land, containing about an acre, was given to the living in this situation, and, as supposed, in consequence of that vow.”2
 
 1 Hassell, Tour to /. JV,, vol. ii, pp. x-a. 3 Albin, ffist. of I, p. 494
 
 The story, as related by Adams, varies the particulars :
-“ Good St. Boniface, during a very stormy night, having missed his path, found himself descending this steep,—not a very pleasant expedition on horse* back,—and thereupon vowed that if he reached the bottom in safety, he would purchase the land where he alighted, and endow with it the Church of Shanktin. He did descend in safety, and he piously kept his vow ; —the land is known in remembrance thereof as the * Bishop’s Acre.* ** l
+“ Good St. Boniface, during a very stormy night, having missed his path, found himself descending this steep,—not a very pleasant expedition on horse* back,—and thereupon vowed that if he reached the bottom in safety, he would purchase the land where he alighted, and endow with it the Church of Shanklin. He did descend in safety, and he piously kept his vow ; —the land is known in remembrance thereof as the "Bishop’s Acre." ** l
 The tradition, as related by Canon Venables is :
 **
 That a certain bishop who, riding over the Downs, lost his way in a thick mist, and to his horror found himself on the brink of the precipitous face
@@ -495,23 +495,22 @@ a spring, which was formerly held in high veneration by the seamen. It was their
 
 1884 Isle of Wight Davenport
 
-Several stone coffins have,at different times,been excavated at Quarr;afewcoinsandsomeotherrelicshavealsobeendiscovered,but not of a nature or in such abundance as to satisfy the antiquary, or throw any vivid light upon the history of the abbey. In 1857 a curious discovery was made by some labourers engaged in the con structionof a new road through the old abbey grounds,of “three smallstoneboxesorchests,eachchestbeingabouttwofeetinlength and one foot wide. They were placed side by side,—two of them nearly close together, and the third a foot or two to the south. Upon removingtheheavystonesofwhichthelidswere composed, three human skeletons in a good state of preservation were found.
- 
- ENVIRONS OF RYDE. 163
+Several stone coffins have,at different times,been excavated at Quarr;afewcoinsandsomeotherrelicshavealsobeendiscovered,but not of a nature or in such abundance as to satisfy the antiquary, or throw any vivid light upon the history of the abbey. In 1857 a curious discovery was made by some labourers engaged in the con structionof a new road through the old abbey grounds,of “three small stone boxes or chests, each chest being about two feet in length and one foot wide. They were placed side by side,—two of them nearly close together, and the third a foot or two to the south. Upon removing the heavy stones of which the lids were composed, three human skeletons in a good state of preservation were found.
+
+ENVIRONS OF RYDE. 163
+
 The leg and arm bones were on either side, the ribs and small bones
-inthecentre,andtheskullsatthewesternend,thelatterbeinginall
-three casesturned upside down. It was evident that these remains
+in the centre, and the skulls at the western end, the latter being in all
+three cases turned upside down. It was evident that these remains
 had been removed at some time or other from the place of their
 original burial ; and that they were of persons of distinction was
 beyond doubt, or such care would not have been bestowed upon
-them”(Isleof WightObserver). One oftheskeletonswas pronounced
-to be that of an aged man,another that of an aged female,and the thirdthatof“a tallfineman aboutfortyyearsofage." Ithasbeen
-suggested, and there is an air of probability about the suggestion, thattheyweretheremainsofCountBaldwin,hiswife,and hisson Henry. TheyarenowintheMuseumatRyde.
+them”(Isleof WightObserver). One of the skeletons was pronounced
+to be that of an aged man,another that of an aged female,and the third that of "a tall fine man about forty years of age." It has been
+suggested, and there is an air of probability about the suggestion, that they were the remains of Count Baldwin, his wife, and his son Henry. They are now in the Museum at Ryde.
 
-This is just the spot where “the violet of a legend " might be ex pected to blossom ; and the traditions connected with the abbey are ofafantasticcharacter. One tellsofadeepsubterraneouspassage,
-closedbyagoldengate,andisevidentlytheoffspringoftheaweand wonder created in the minds of the vulgar by monastic wealth and power. Anotherisnotlesswildlyfabulous:—“Atashortdistance southoftheruinsoftheabbeyisawood,formerlythicklytimbered, but now only consisting of a few decayed oaks and brushwood ; itis
-called Eleanor's Grove,from a tradition that Eleanor of Guienne, queen of Henry II.,was imprisoned at Quarr,and frequented this
-secludedspot,where,afterdeath,itisrelated,shewas interredina golden coffin,which is supposed still to be protected from sacrilegious cupiditybymagicalspells.” Abouthalfacenturyagoasearchwas madeforthisgoldencoffin,withtheresultofdiscoveringoneofcom m o n character, containing a female skeleton .
+This is just the spot where “the violet of a legend " might be ex pected to blossom ; and the traditions connected with the abbey are of a fantastic character. One tells of a deep subterraneous passage, closed by a golden gate, and is evidently the offspring of the awe and wonder created in the minds of the vulgar by monastic wealth and power. Another is not less wildly fabulous:—“At a short distance south of the ruins of the abbey is a wood, formerly thickly timbered, but now only consisting of a few decayed oaks and brushwood ; itis
+called Eleanor's Grove,from a tradition that Eleanor of Guienne, queen of Henry II., was imprisoned at Quarr,and frequented this secluded spot, where, after death, it is related, she was interred in a golden coffin,which is supposed still to be protected from sacrilegious cupidity by magical spells.” About half a century ago a search was made for this golden coffin,with theresultof discovering one of common character, containing a female skeleton .
 
 
 ---
@@ -521,7 +520,7 @@ Boucher letters, 1896
 
 p158?-164?
 
-At Chale still lingers a relic of a curious feature of life in th eMiddleAges, On St. Catherine's Down, 769 feet above the sea, there is undoubted evidence showing that in the fourteenth century a hermit had taken up his residence on the summit. Ahermitwasareligiouspersonagewho,without becoming a member of a monastic community, kept aloof from society. The hermit was a solitary in a cell, as distin-
+At Chale still lingers a relic of a curious feature of life in th eMiddleAges, On St. Catherine's Down, 769 feet above the sea, there is undoubted evidence showing that in the fourteenth century a hermit had taken up his residence on the summit. A hermit was a religious personage who, without becoming a member of a monastic community, kept aloof from society. The hermit was a solitary in a cell, as distin-
 The
 is very good probably the work of the same architect with
 I, W. —'is low and
@@ -572,7 +571,7 @@ a lanthorn to the head of an old horse, one of wliose fore-
 legs had been previously lied up. The limping gait of the animal gave the lantliorn a kind of motion exactly similar to that of a ship's lanthorn, and led the deceived pilot on thefe fatal rocks, a prey to merciless plunderers, who it was said would not even scruple to dispatch any unfortunate individual that survived the wreck, in order to secure their booty more
 completely.'
 Dreadful traditions of such barbarous contrivances as that
-mentioned by Tomkins still linger on other coasts besides thatofthebackoftheIsleofWight. Thehistoryofwreck- ing, as told by the different legislative enactments which have been passed to prevent tliis savage custom, is a dismal chapter in the records of human and ' Wreck,'
+mentioned by Tomkins still linger on other coasts besides that of the back of the Isle of Wight. The history of wrecking, as told by the different legislative enactments which have been passed to prevent this savage custom, is a dismal chapter in the records of human and ' Wreck,'
 greediness cruelty.
 so writes RIackstone in his Co7}wietitan'es, book iv. part i,
 chap.

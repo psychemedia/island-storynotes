@@ -62,7 +62,7 @@ A prostitute, named Fanny Vines, was fined a similar sum [5s. and 5s. costs], fo
 
 ```
 
-The following report sggests some confusion in the reporting of names.
+The following report suggests some confusion in the reporting of names.
 
 ```{admonition} Hard labour for being drunk and creating a disturbance, October 1855
 :class: dropdown
@@ -167,4 +167,4 @@ But the concerns were still very much uppermost in the mind of a recent retiree 
 
 ## What next?
 
-Following on fromn the memorial letter to the magistrates, an evangelical preacher recently retited to the Island published an even more vociferous attack on the low morals of Newport.
+Following on from the memorial letter to the magistrates, an evangelical preacher recently retited to the Island published an even more vociferous attack on the low morals of Newport.

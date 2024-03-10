@@ -4,7 +4,7 @@ Francis Pittis, Alderman of the Borough of Newport (??), .... things he did and 
 
 Memorial to Council
 
-Tempter and Tempted council response
+Tempters and Tempted council response
 
 Libel
 

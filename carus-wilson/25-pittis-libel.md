@@ -148,7 +148,7 @@ Boniface house, Feb. 23, 1856.
 
 I cannot delay a moment in relieving the wounded feelings which must necessarily hasve been created if you supposed that I intended to make the slighitest reference, directly or indirectly in any part either of the tract or letter, to yourself or any other magistrate of the town of Newport.
 
-"The passage you refer to was entirely taken fromn a letter sent me from Bristol, from a party wholly unacquainted with Newport, as a comment upon my endeavours to show where the root of the evil too often lies, and was wholly of a general character and irrespective of any particular locality. I particularly regret that any one should have supposed the passage to refer to yourself, as I had always heard and thought of you with the greatest respect.  
+"The passage you refer to was entirely taken from a letter sent me from Bristol, from a party wholly unacquainted with Newport, as a comment upon my endeavours to show where the root of the evil too often lies, and was wholly of a general character and irrespective of any particular locality. I particularly regret that any one should have supposed the passage to refer to yourself, as I had always heard and thought of you with the greatest respect.  
 "I am, Sir, your's faithfully,  
 Wm. CARUS WILSON.
 
