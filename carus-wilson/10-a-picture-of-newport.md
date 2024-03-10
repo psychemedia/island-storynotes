@@ -695,7 +695,7 @@ Paradise Row was located between Castle Hold and Pyle Street, opposite waw used 
 
 ```
 
-Living in such a place appears not to have been without its hazards, as the following rather amusing incident demomnstrates:
+Living in such a place appears not to have been without its hazards, as the following rather amusing incident demonstrates:
 
 ```{admonition} Sleeping in the wrong house? June 1855
 :class: dropdown

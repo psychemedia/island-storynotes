@@ -36,7 +36,7 @@ France was laying claim to Brittany, and with a threat of invasion, the Bretons 
 
 Woodville pleads with the King, but the King has spoken. And so, Edward returns home, across the Solent. To another island. Accompanied by the two Breton ambassadors.
 
-After a couple of weeks, Edward Woodville has raised a force of 400 men or so, who are joined by 200 more from Southampton. They set off for Brittany, and are well fêted when they arrive: parties, celebrations, more parties. A truce is called, and the Bretons all but stand down, preparing the the oncoming harvest.
+After a couple of weeks, Edward Woodville has raised a force of 400 men or so, who are joined by 200 more from Southampton. They set off for Brittany, and are well fêted when they arrive: parties, celebrations, more parties. A truce is called, and the Bretons all but stand down, preparing the oncoming harvest.
 
 With word afoot about the English support for Brittany, Henry VII writes to King Charles of France explaining that the force is a rogue one, an amateurish one, made up of thieves and reprobates, and certainly not an officially sanctioned expeditionary force.
 

@@ -49,7 +49,7 @@ Mr. Eldridge observed that it had been said a good name was a man's best inherit
 
 ```
 
-It seems that the pamphlet may have made mention of the apparent allegations that Mr. Eldridge, *qua* Town Clerk, rather than just as Pittis's retained prosecutor, had made regarding the Town Missionary's report book in the Council meeting where the mayor had stood up to take issue with Carus WIlson's original "Tempters and Tempted" tract. Eldridge claimed he had been "misunderstood and misreported" and had not been secretly received scurrilous information about anyone in authority by means of the report book.
+It seems that the pamphlet may have made mention of the apparent allegations that Mr. Eldridge, *qua* Town Clerk, rather than just as Pittis's retained prosecutor, had made regarding the Town Missionary's report book in the Council meeting where the mayor had stood up to take issue with Carus Wilson's original "Tempters and Tempted" tract. Eldridge claimed he had been "misunderstood and misreported" and had not been secretly received scurrilous information about anyone in authority by means of the report book.
 
 ```{admonition} A certain journal
 :class: dropdown
@@ -66,7 +66,7 @@ A letter was then brought forward and read.
 
 ```
 
-This is followed by a statement for the defence, which appears to justify the claims that Carus WIlson had made, but also that any perceived libel was a very particular misreading of a more general statement thathad been intended.
+This is followed by a statement for the defence, which appears to justify the claims that Carus Wilson had made, but also that any perceived libel was a very particular misreading of a more general statement thathad been intended.
 
 ```{admonition} Representing Mr. Wilson
 :class: dropdown
@@ -104,13 +104,13 @@ ST. THOMAS'S CHURCH, NEWPORT.— We have much pleasure in calling the attention 
 
 The advert mentioned for the Bazaar appeared on the front page of the paper. It also just happened to be immediately followed by an advert for Carus Wilson's pamphlets!
 
-![Front page of Isle of Wight Mercury - Saturday 01 March 1856 - showing one advert for the Bazaar in aid of Church Building Fund, immedeiatly followed by another for Carus WIlsons tracts](images/mercury_front_page.png)
+![Front page of Isle of Wight Mercury - Saturday 01 March 1856 - showing one advert for the Bazaar in aid of Church Building Fund, immedeiatly followed by another for Carus Wilsons tracts](images/mercury_front_page.png)
 
 The *Isle of Wight Mercury* report of the libel case seems rather concise, even garbled, so can we learn any more from other reports?
 
-In the report in the *Hampshire Telegraph* of Saturday 01 March 1856, which is immediately preceded by the report of the unprosecutable arrest James Lewis for selling Carus Wilson's response the the Mayor, has rather more detail.
+In the report in the *Hampshire Telegraph* of Saturday 01 March 1856, which is immediately preceded by the report of the unprosecutable arrest James Lewis for selling Carus Wilson's response to the Mayor, has rather more detail.
 
-The report opens by reviewing the circustances that led to the Mayor's letter to Carus Wilson, and the response it provoked.
+The report opens by reviewing the circumstances that led to the Mayor's letter to Carus Wilson, and the response it provoked.
 
 ```{admonition} Denunciations and denial, March 1856
 :class: dropdown
@@ -154,7 +154,7 @@ Wm. CARUS WILSON.
 
 ```
 
-We also learn a little more about Mr. Hearn's interruption regarding other libels he claimed Carus WIlson had made.
+We also learn a little more about Mr. Hearn's interruption regarding other libels he claimed Carus Wilson had made.
 
 ```{admonition} The Mayor protests other libels
 :class: dropdown
@@ -173,7 +173,7 @@ The Chairman observed, that the course pursued was very creditable to both parti
 
 A third report, this time in the *Hampshire Advertiser*, reveals a bit more about why Mr. Pittis felt he had been libeled.
 
-The opening provides an implicit set up by mentioning the failed prosecution of James Lewis, aka Nobby Ducks (or "Dux") for selling "libelous" copies of Carus Wolson's tract a couple of days previously.
+The opening provides an implicit set up by mentioning the failed prosecution of James Lewis, aka Nobby Ducks (or "Dux") for selling "libelous" copies of Carus Wilson's tract a couple of days previously.
 
 ```{admonition} Defamation of character, March 1856
 :class: dropdown
@@ -201,7 +201,7 @@ J Eldridge, esq. opened the case by observing it had been well said that a man's
 
 ```
 
-Mr. Eldridge's identification of Mr. Pittis's attempts to do what he could to address the "open immorality" on disoplay in the town are also described in more detail than in the previously mentioned reports.
+Mr. Eldridge's identification of Mr. Pittis's attempts to do what he could to address the "open immorality" on display in the town are also described in more detail than in the previously mentioned reports.
 
 ```{admonition} No apologist for vices too common in their town
 :class: dropdown
@@ -209,7 +209,7 @@ Mr. Eldridge's identification of Mr. Pittis's attempts to do what he could to ad
 He (Mr. Eldridge) felt himself bound further to say, that besides the false and defamatory libel he bad referred to affecting the character of Mr. Pittis, the pamphlet was, in his opinion, not dictated by a Christian spirit; it was penned with a degree of bitterness and exaggeration, and contained unfounded imputations, inuendoes, and sweeping censures, injuriously affecting the character of the Magistrates of the borough, and the inhabitants of the town generally, and not at all creditable to the position of the defendant as a gentleman and a clergyman. Whilst he spoke thus stringently of his conduct, he would wish to be understood that he did not stand there as the apologist for vices which were, unfortunately, too common in their town, although he believed not more so than in other localities; neither did he uphold the evil doings of such men who were well described by the reverend gentlemen as " the mean and dastardly betrayers of female innocence." It was unfortunate for the case of Mr. Wilson, that his pamphlet did not appear until after the Magistrates had earnestly directed their attention to the moral state of the borough, in which they had been strengthened by an influential memorial which had been presented to them, and he (Mr. Eldridge) felt happy in stating that the authorities had not been slack in determinedly and impartially using their endeavours to put down vice and immorality in the town. It was due to them that he should thus publicly state this fact, and he considered it was right the rev. gentleman should know it. He (Mr. Eldridge) had filled the office of Chief Magistrate of their borough, and, consequently, knew from experience they could deal with open immorality only. He instanced a case which came under his own knowledge while presiding over them as Mayor. He knew there was a certain house of ill-fame, where the worst of vices were carried on ; he went to the neighbours, who were cognisant of the fact and the only parties who could testify to it ; but none could be induced to give the necessary testimony, in consequence of which his efforts to remove the evil were frustrated. He mentioned this circumstance to show the rev. gentleman and his informants how difficult it was to deal with such cases.
 ```
 
-Mr. Eldrdige then went on to defend what he felt were misrepresentations of his own statements in the Council meeting where the Mayor felt obliged to make a public stand against the charges levelled in Carus Wilson's first tract, before suggeting that Mr. Pittis would drop his suit if an appropriate apology was provided.
+Mr. Eldridge then went on to defend what he felt were misrepresentations of his own statements in the Council meeting where the Mayor felt obliged to make a public stand against the charges levelled in Carus Wilson's first tract, before suggesting that Mr. Pittis would drop his suit if an appropriate apology was provided.
 
 ```{admonition} No record impugning the characters of those not under actual visitation
 :class: dropdown
@@ -260,7 +260,7 @@ Mr. Hearn observed, all he rose to say was— that the apology offered Mr. Pitti
 
 ```
 
-A report of Mr. Eldrdige's acceptance, as instructed by Mr. Pittis, of the apology is then provided. But we also get some detail about weht Mr. Pittisd felt libeled, and why he thought the libel would be one that would be publicly inferred.
+A report of Mr. Eldridge's acceptance, as instructed by Mr. Pittis, of the apology is then provided. But we also get some detail about why Mr. Pittis felt libeled, and why he thought the libel would be one that would be publicly inferred.
 
 ```{admonition} Let them look at the circumstances of the case
 :class: dropdown
@@ -283,9 +283,9 @@ Mr. Thomas Butler, printer, of Ryde, and Mr. Henry Medley, of Ventnor (the print
 
 ## An Editorial Response
 
-As well as the rather concise report of the proceedings of the libel case that appeared in the *Isle of Wight Mercury*, it is worth noting that the editor of that publicaction also felt compelled to express their own opinion on the matters raised by the case.
+As well as the rather concise report of the proceedings of the libel case that appeared in the *Isle of Wight Mercury*, it is worth noting that the editor of that publication also felt compelled to express their own opinion on the matters raised by the case.
 
-The editorial opens with a reflection that immorilty is on the increase, and cannot be ignored any longer.
+The editorial opens with a reflection that immorality is on the increase, and cannot be ignored any longer.
 
 ```{admonition} The immorality existing in our large towns, March 1856
 :class: dropdown
@@ -325,7 +325,7 @@ For our own part, we hold that "that to the pure all things are pure." We hold t
 
 ## A Man of Note
 
-At this point, Francis Pittis leaves our story. He went on to live to the age of 77 years old, dying in November 1889, having dedicted the majority of his life to public service on behalf of the borough of newport, as well as his business there.
+At this point, Francis Pittis leaves our story. He went on to live to the age of 77 years old, dying in November 1889, having dedicated the majority of his life to public service on behalf of the borough of Newport, as well as his business there.
 
 ```{admonition} Death of Sir Francis Pittis, November 1889
 :class: dropdown

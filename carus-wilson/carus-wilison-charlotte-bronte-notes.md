@@ -539,7 +539,7 @@ The discovery was made when I was passed for review a monogram entitled "The Lif
 
 The school of Jane Eyre was based on Cowan Bridge School, the Clergy Daughters' School on the turnpike road between Leeds and Kendal, attended by Charlotte and three of her sisters, Maria, Elizabeth, and Emily. Maria died front consumption, and Charlotte attributed this to the conditions at their school.
 
-Later the school was moved from Cowan Bridge to a healthier site, Kirkby Lonsdale. As Casterton School, it still flourishes. Jane Ewbank, a pupil at the school, has written a monograph to mark the centenary of the death of the founder William Carus WIlson.
+Later the school was moved from Cowan Bridge to a healthier site, Kirkby Lonsdale. As Casterton School, it still flourishes. Jane Ewbank, a pupil at the school, has written a monograph to mark the centenary of the death of the founder William Carus Wilson.
 
 Roger Fulford has written foreword to the little book, and he says, truly: "We must applaud the courage of anyone attempting to give us a biographical sketch of Mr. Carus Wilson — the 19th Century philanthropist and founder of the Clergy Daughters' School... we can all recognize the poetic justice which enables a pupil at the school to challenge the verdict of the most illustrious of its old girls with this monograph.
 

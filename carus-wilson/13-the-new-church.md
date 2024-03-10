@@ -456,7 +456,7 @@ In ev'ry bosom fix thy throne !
 
 With the benediction complete, the Bishop thanked the Prince Consort, who responded in turn, before departing.
 
-The invited guests then repaired to the Town Hall to await the serving of lunch, with the Fremmasons returning to their Grand Lodge to resume their business before a three o'clock at the Star Hotel.
+The invited guests then repaired to the Town Hall to await the serving of lunch, with the Freemasons returning to their Grand Lodge to resume their business before a three o'clock at the Star Hotel.
 
 ```{admonition} Thanks are given, and the ceremony is completed
 :class: dropdown

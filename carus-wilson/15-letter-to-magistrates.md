@@ -167,4 +167,4 @@ But the concerns were still very much uppermost in the mind of a recent retiree 
 
 ## What next?
 
-Following on from the memorial letter to the magistrates, an evangelical preacher recently retited to the Island published an even more vociferous attack on the low morals of Newport.
+Following on from the memorial letter to the magistrates, an evangelical preacher recently retired to the Island published an even more vociferous attack on the low morals of Newport.

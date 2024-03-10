@@ -1,6 +1,6 @@
 # Tempters and Tempted
 
-As 1855 ended, and 1856 began, work was proceeding well on the the new church, if not on improving Newport's moral character.
+As 1855 ended, and 1856 began, work was proceeding well on the new church, if not on improving Newport's moral character.
 
 ```{admonition} Beautiful new church, now fast developing, January 1856
 :class: dropdown
@@ -182,7 +182,7 @@ Mr. W. B. Mew would like to know by what authority Dr. Wavell and Mr. Eldridge s
 After a desultory conversation it was agreed that the Mayor be empowered to write to the Rev. Carus Wilson, either in his own name or that of the Council, repudiating the description he had given of the Town of Newport in his tract, "The Tempters and Tempted."
 ```
 
-The outcome of the council meeting was that the Mayor should write to the author of the *Tempters and Tempted* tract, the Revd. Carus Wilson, repudiating the claims made against newport in that tract.
+The outcome of the council meeting was that the Mayor should write to the author of the *Tempters and Tempted* tract, the Revd. Carus Wilson, repudiating the claims made against Newport in that tract.
 
 ```{warning}
 I still haven't found a copy of the Mayor's letter, or a copy of its contents, from the mayor to Carus Wilison,  but it seems that it provoked a rapid, and very public, reponse from the Rev. Carus Wilson in the form of another tract.

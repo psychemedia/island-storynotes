@@ -104,7 +104,7 @@ p5
 
 MINIATURE COURSE.
 
-When he was President of the Local Government Board Mr John Burns M.P . opeened the the cricket pavilion on the Brentham Garden Suburb. Another amenity for those dwell on that estate has been provided in the form of a miniature golf course of nine holes, which is to opened by the Mayor of Ealing next Saturday. This is the fourth miniature golf course that has been opened in the country, and provides another example of how garden suburbs developed on the co-partnership principle can cater for the recreations of all.
+When he was President of the Local Government Board Mr John Burns M.P . opeened the cricket pavilion on the Brentham Garden Suburb. Another amenity for those dwell on that estate has been provided in the form of a miniature golf course of nine holes, which is to opened by the Mayor of Ealing next Saturday. This is the fourth miniature golf course that has been opened in the country, and provides another example of how garden suburbs developed on the co-partnership principle can cater for the recreations of all.
 
 
 ---
