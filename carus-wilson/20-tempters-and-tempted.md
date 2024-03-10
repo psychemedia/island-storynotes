@@ -9,13 +9,13 @@ As 1855 ended, and 1856 began, work was proceeding well on the new church, if no
 The old year, with all its cares and sorrows, its clouds and tempests has passed. We stand on the threshold of a new, and we hope, a brighter and a better one. Newport has made but little improvement or progress, excepting its beautiful new church, now fast developing its elegant proportions and exquisite workmanship. It will be a structure worthy of the capital town of the Isle of Wight, and will reflect honour on the names and memories of those, by whose liberality, zeal, and perseverance, the great work will be accomplished.
 ```
 
-In the early summer of the previous year, 1855, the [Saturday 30 June, 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/030/0004) edition of the *Isle of Wight Observer* records in its *Fashionable List* that the Rev. Carus Wilson, and his wife, Mrs Wilson, were in reseidence at Pulpit Rock Villa, Ventnor, Isle of Wight. A couple of months later, by [Saturday 11 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550811/022/0004),  it seems that they had moved on to St. Boniface House, Ventnor.
+In the early summer of the previous year, 1855, the [Saturday 30 June, 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550630/030/0004) edition of the *Isle of Wight Observer* records in its *Fashionable List* that the Rev. Carus Wilson, and his wife, Mrs Wilson, were in residence at Pulpit Rock Villa, Ventnor, Isle of Wight. A couple of months later, by [Saturday 11 August 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550811/022/0004),  it seems that they had moved on to St. Boniface House, Ventnor.
 
 Carus Wilson was a retired evangelical Christian, the founder in 1823 of the Clergy Daughters' School, Cowan Bridge, on the Lancashire side of the Lancashire, Cumbria and West Riding of Yorkshire border. He had also founded, edited and regularly contributed to *The Children's Friend* magazine, launched in 1824, and was author of [Child's First Tales, Chiefly in Words of One Syllable, for the use of Infant Schools and Little Children in General (2 volumes?)](https://archive.org/details/McGillLibrary-rbsc_child-first-tales_61610677-21770/page/n3/mode/2up).
 
 Presumably as a result of a perceived lack of response to the memorial to the Newport magistrates, Carus Wilson published a tract early in 1856 that appears to have been even more outspoken in its condemnation of the vices of Newport and the threats they posed to the morals of the young men stationed in Parkhurst Barracks.
 
-Published by Thomas Butler, Bookseller, also of Ventnor, he pamphlet was entitled *Tempters and Tempted*, and seems to have been widley distributed around Newport.
+Published by Thomas Butler, Bookseller, also of Ventnor, he pamphlet was entitled *Tempters and Tempted*, and seems to have been widely distributed around Newport.
 
 ```{warning}
 *I have not yet tracked down a copy of this work, nor have I yet found any of its contents reproduced anywhere.*
@@ -23,7 +23,7 @@ Published by Thomas Butler, Bookseller, also of Ventnor, he pamphlet was entitle
 
 Its contents were seemingly explosive, and provoked the Mayor of Newport, John Henry Hearn, Esq., to speak out about it at a council meeting of Tuesday, February 4th, 1856.
 
-In the first place, he objected to the way in which the tract appeared to have been distributed, not least to members of his own family and some of the women who worked in his houshold:
+In the first place, he objected to the way in which the tract appeared to have been distributed, not least to members of his own family and some of the women who worked in his household:
 
 ```{admonition} No ordinary feelings of indignation , Saturday 09 February 1856
 :class: dropdown
@@ -82,7 +82,7 @@ The Reported Immoral State of the Inhabitants of Newport
 The Worshipful the Mayor rose and said, there was one painful matter affecting the interests of the town which he considered it his duty, as their chief Magistrate, to bring before the Council. His feelings had been lately shocked on finding that a disgusting pamphlet, entitled, "Tempters and Tempted," had been industriously circulated about the town, and by one means and the other had found its way into almost every house ; and he was sure he was sharing the feelings of every, rightminded head of a household, when he said that such vile slander against their town as was therein contained ought to be emphatically and publicly protested against— (hear, hear). He could not express the indignation he felt on learning its contents, and finding that everyone in his house, excepting his wife, had read its contaminating pages; and greatly astonished was he to find that those tracts had been placed in the hands of the children of their Church Sunday and other schools by females— he would not say by ladies. He would ask if expressions such as these— "Your town is on fire with the flames of licentiousness and lust" — were fit for the minds of tender children to dwell upon? And were they not a gross insult, and a libel on the inhabitants of the town ? And by whom was this shameful tract written? Not by one of the pastors or ministers of the town, but by a non-resident, who had nothing whatever to do with the town, assisted by another meddling, troublesome busybody, who, he should think, would be far better employed in his business at the Prison at Parkhurst. The parties to the tract were Carus Wilson and Henry Smith; that was an undisguised fact, and the stigma with which the town had been branded would doubtless be most pernicious to the interests of it ; and he did say they (the Corporation) ought to do all in their power to destroy its baneful influence. The assertions in it respecting the general depravity and debauchery of our town were infamously false.
 ```
 
-In a report a week later, it seems that the Revd, Henry Smith was not so keen to be recognised as sharing responisbility for the tract.
+In a report a week later, it seems that the Revd, Henry Smith was not so keen to be recognised as sharing responsibility for the tract.
 
 ```{admonition} The Meeting of last week and the Tabooed Tract, February 1856
 :class: dropdown seealso
@@ -127,7 +127,7 @@ A Mr. Pring is also reported as making some suggestions regarding the possible p
 Mr. Pring considered at the time that the said deputation took upon themselves to wait upon the Council and lecture them upon the immoral state of the town, that they were going somewhat out of their way, and could not help thinking that their worthy Town Clerk, who headed that deputation, would have been better employed in his office. However, they thought perhaps there were some matters which might be rectified, and instructed their police to be watchful and keep the streets clear, and people moving; and their inspector had shown that generally speaking there was no necessity for interference except on Sundays, and then it was a delicate matter, as people stood about talking with each other after coming out of the various places of worship. Well, the police, in the execution of their duty, civilly requested a group, who were thus standing together in the High-street, to " move on," and they turned out to be a tradesman's family, who had since been to them complaining of the impertinence of the police in this respect. He had opportunities of being acquainted with the state of other military towns, and he could say with Mr. Pinnock, that Newport was not to be compared with any of them. Take Portsmouth, Winchester, Chatham, or even the fashionable town of Southampton, and immorality exhibited itself in a much greater degree in those towns than in Newport— (hear).
 ```
 
-At this point, an explosive revelation appeared to have been made regarding the "secret reports" from the Town Missionarey, and the implication that members of the council or the magistracy might themselves be indulging in liaisons with some of the lower classes of female company,
+At this point, an explosive revelation appeared to have been made regarding the "secret reports" from the Town Missionary, and the implication that members of the council or the magistracy might themselves be indulging in liaisons with some of the lower classes of female company,
 
 ```{admonition} The shocking state of morals was no surprise
 :class: dropdown
@@ -202,7 +202,7 @@ Also, TEMPTERS AND TEMPTED, a Tract, by the Rev. W CARUS WILSON. Price 1d, or 12
 
 ```
 
-From a debate a week later on the question of maintaing the Sabbath and the appeals of the "Sunday League" party, ripples from some of the accusations that appeared to have been made in the previous Council meeting still seemed to be playing out.
+From a debate a week later on the question of maintaining the Sabbath and the appeals of the "Sunday League" party, ripples from some of the accusations that appeared to have been made in the previous Council meeting still seemed to be playing out.
 
 ```{admonition} An institution for spy purposes, February 1856
 :class: dropdown

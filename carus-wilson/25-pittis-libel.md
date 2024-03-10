@@ -26,7 +26,7 @@ And it was likely the widespread knowledge of this act, at the time, that was to
 
 The trial was widely reported, although the detail differs in the extent of he detail offered respects across each of the accounts.
 
-The charge laid was that the Rev. W. Carus Wilson, *"for having written a false and scandalous libel on his character"*, and the courtroom was packed. Carus Wilson, however, was not presence, a Medical Certficate justifiying his absence.
+The charge laid was that the Rev. W. Carus Wilson, *"for having written a false and scandalous libel on his character"*, and the courtroom was packed. Carus Wilson, however, was not presence, a Medical Certificate justifying his absence.
 
 ```{admonition} Libel Case, March 1856
 :class: dropdown
@@ -40,7 +40,7 @@ Mr. Eldridge appeared for the prosecutor, and Mr. Ford for the defendant. The la
 
 ```
 
-The prosecution opened by establishing the undounted worth of a man retaining his good name, before describing how Alderman Pittis was no "apologist for vice", although he was bound to only prosecute those cases brought before him.
+The prosecution opened by establishing the undoubted worth of a man retaining his good name, before describing how Alderman Pittis was no "apologist for vice", although he was bound to only prosecute those cases brought before him.
 
 ```{admonition} A man's best inheritance
 :class: dropdown
@@ -66,7 +66,7 @@ A letter was then brought forward and read.
 
 ```
 
-This is followed by a statement for the defence, which appears to justify the claims that Carus Wilson had made, but also that any perceived libel was a very particular misreading of a more general statement thathad been intended.
+This is followed by a statement for the defence, which appears to justify the claims that Carus Wilson had made, but also that any perceived libel was a very particular misreading of a more general statement that had been intended.
 
 ```{admonition} Representing Mr. Wilson
 :class: dropdown
@@ -104,7 +104,7 @@ ST. THOMAS'S CHURCH, NEWPORT.— We have much pleasure in calling the attention 
 
 The advert mentioned for the Bazaar appeared on the front page of the paper. It also just happened to be immediately followed by an advert for Carus Wilson's pamphlets!
 
-![Front page of Isle of Wight Mercury - Saturday 01 March 1856 - showing one advert for the Bazaar in aid of Church Building Fund, immedeiatly followed by another for Carus Wilsons tracts](images/mercury_front_page.png)
+![Front page of Isle of Wight Mercury - Saturday 01 March 1856 - showing one advert for the Bazaar in aid of Church Building Fund, immediately followed by another for Carus Wilson's tracts](images/mercury_front_page.png)
 
 The *Isle of Wight Mercury* report of the libel case seems rather concise, even garbled, so can we learn any more from other reports?
 

@@ -110,6 +110,6 @@ The Morning Service was then read most impressively by the Rev. G. H. Connor, M.
 ```{admonition} The Sermon
 :class: seealso
 
-The sermon preaced at the consecration service can be found in the *Isle of Wight Mercury*, dated [Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003)
+The sermon preached at the consecration service can be found in the *Isle of Wight Mercury*, dated [Saturday 24 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570124/020/0003)
 
 ```

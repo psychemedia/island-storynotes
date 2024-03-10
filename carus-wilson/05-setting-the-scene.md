@@ -157,7 +157,7 @@ In the 1850s, disorderly conduct in the public streets had been regulated by the
 
 > ... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner;  ... , shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
 
-Town Commissioners could also adopt regulations defined in the [Town Police Clauses Act 1847](https://www.legislation.gov.uk/ukpga/1847/89/pdfs/ukpga_18470089_en.pdf) as local Bye_laws. Among other things, this allowed them, to explicitly regulate, amongst other things, bad language and disordely conduct:
+Town Commissioners could also adopt regulations defined in the [Town Police Clauses Act 1847](https://www.legislation.gov.uk/ukpga/1847/89/pdfs/ukpga_18470089_en.pdf) as local Bye_laws. Among other things, this allowed them, to explicitly regulate, amongst other things, bad language and disorderly conduct:
 
 > XXVIII. Every Person who in any Street, to the Obstruction, Annoyance, or Danger of the Residents or Passengers, commits any of the following Offences, shall be liable to a Penalty not exceeding Forty Shillings for each Offence, or, in the Discretion of the justice before whom he is convicted, may be committed to Prison, there to remain for a Period not exceeding Fourteen Days, and any Constable or other Officer appointed by virtue of this or the special Act shall take into Custody, without Warrant, and, forthwith convey before a Justice, any Person who within his View commits any such Offence ; (that is to say,) ...
 > 
@@ -234,7 +234,7 @@ According to [Report of the Commissioners appointed to inquire into the regulati
 *Return showing the Amount of Accommodation in each Barrack in the United Kingdom,
 I. — England and Wales — continued.*
 
-| Station | Barrack| The No. of Men Each Barrack is calculated to accommodate | No. of Men's Rooms in the Barrack | No. of Men in a Room (Highest / Lowest) | Cubic Feet of space allowed for wach man (Highest / Lowest) | Hospital (No. of Wards; No. of Patients in a Ward (Highest / Lowest) ; Cubic feet of space for each Patient (Highest / Lowest)) |
+| Station | Barrack| The No. of Men Each Barrack is calculated to accommodate | No. of Men's Rooms in the Barrack | No. of Men in a Room (Highest / Lowest) | Cubic Feet of space allowed for each man (Highest / Lowest) | Hospital (No. of Wards; No. of Patients in a Ward (Highest / Lowest) ; Cubic feet of space for each Patient (Highest / Lowest)) |
 |---|---|---|---|---|---|---|
 |Albany, Parkhurst | - | 1,524 | 92 | 24 / 12 | 520 / 333 | 14 ; 16 / 3 ; 975 / 385|
 
