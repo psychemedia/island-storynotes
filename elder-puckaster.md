@@ -332,7 +332,7 @@ Mr. Puck got very fidgety at this ill-timed interruption, and kept waving his ha
 "There is a spot that you may see  
 When walking on the strand,  
 Half the day beneath the sea,  
-Aud half upon the land.  
+And half upon the land.  
 You shall know when the morning sun  
 Is shining fierce and bright.
 Where the treasure must be won  

@@ -230,7 +230,7 @@ Boniface
 safely down the hill, the bishop kept his vow in purchasing the land, and it goes by the name of Bishop's Acre to this day."
 " Well, that is a curious tale ! true V
 Do you think it
-" I hardly know what to say about it ; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; butifhediddoso,allthatIcansayis,it is not very probable that he went down the steep part by the wishing-well."
+" I hardly know what to say about it ; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; but if he did do so, all that I can say is,it is not very probable that he went down the steep part by the wishing-well."
 
 1846 owen gladdons wanderings isle of wight Old Humphrey.pdf
 Freshwater round - p205-6

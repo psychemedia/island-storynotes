@@ -169,7 +169,7 @@ Mr. Pring, as one of the Watch Committee, said, the memorial had been handed to 
 
 Mr Eldridge (Town Clerk), rose and said, he was one of those who agreed with the memorial ; the memorialists did not intend it as a censure, but called the attention of the magistrates to a fact patent to all. He had nothing to do with the "Tempters and Tempted," but if gentlemen had seen the lists brought to him and Dr. Wavell weekly, they would be astonished at the amount of crime and the persons committing it; he could name some of the higher classes.— (Great sensation.)
 
-The Mayor said they had no right to sit in judgement on their neighbours ; such conduct was indeent, and he held those who stirred in such things as ecxeeding their duty. Persons slandered had not the ordinary means of defence, and if that was the office of the missionary it was using it for evil.
+The Mayor said they had no right to sit in judgement on their neighbours ; such conduct was indecent, and he held those who stirred in such things as exceeding their duty. Persons slandered had not the ordinary means of defence, and if that was the office of the missionary it was using it for evil.
 
 Mr. Eldridge said the missionary had raised up many bowed down with sin.
 
@@ -177,7 +177,7 @@ Mr. Pinnock thought if the missionary was engaged to raise up the frail it was n
 
 Mr. Wilkins and Mr. Morgan expressed opinions in unison with the other members of the Council.
 
-Mr. W. B. Mew would like to know by what authority Dr. Wavell and Mr. Eldridge set themselves up as inquisitors on others ; such conduct raised the indignation of every one worthy the name of man. This missionary was worse than the Paul Pry Newspaper; there you could find out what was said, but this was a private inquisitor. How he could go amongst such vice as he descriibed without contamination he could not think, for it was difficult to handle pitch without being defliled. He was surprisd at the Town Clerk ; he would advise him to break off such acquaintance as early as possible.
+Mr. W. B. Mew would like to know by what authority Dr. Wavell and Mr. Eldridge set themselves up as inquisitors on others ; such conduct raised the indignation of every one worthy the name of man. This missionary was worse than the Paul Pry Newspaper; there you could find out what was said, but this was a private inquisitor. How he could go amongst such vice as he described without contamination he could not think, for it was difficult to handle pitch without being defiled. He was surprised at the Town Clerk ; he would advise him to break off such acquaintance as early as possible.
 
 After a desultory conversation it was agreed that the Mayor be empowered to write to the Rev. Carus Wilson, either in his own name or that of the Council, repudiating the description he had given of the Town of Newport in his tract, "The Tempters and Tempted."
 ```
@@ -256,7 +256,7 @@ A little more detail about why the initial arrest appears to have been made can 
 
 At the Borough Petty Sessions, on Monday, before the Mayor, Thomas Cooke, and Edward Way, Esqrs.
 
-James Lewis, who had been taken into custody on Saturday evening, but liberated on his own recognizance, for whom Mr. G. P. Joyce appeared, was told there wae no charge against him. It appeared that in consequence of a caution signed by Mr. Eldridge, Town Clerk, that the pamphlet containing a letter of the Rev. Carus Wilson, in answer to the Mayer of Newport, was a libel, the defendant was taken into custody for selling the book. Mr. Joyce Wished to know by what authority his client had been taken into custody, and also whether the books would be returned. The Mayor said there was no charge made against James Lewis, and he must apply to the Inspector of Police respecting the books.
+James Lewis, who had been taken into custody on Saturday evening, but liberated on his own recognizance, for whom Mr. G. P. Joyce appeared, was told there was no charge against him. It appeared that in consequence of a caution signed by Mr. Eldridge, Town Clerk, that the pamphlet containing a letter of the Rev. Carus Wilson, in answer to the Mayer of Newport, was a libel, the defendant was taken into custody for selling the book. Mr. Joyce Wished to know by what authority his client had been taken into custody, and also whether the books would be returned. The Mayor said there was no charge made against James Lewis, and he must apply to the Inspector of Police respecting the books.
 
 ```
 

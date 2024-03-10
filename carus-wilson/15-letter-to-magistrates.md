@@ -54,7 +54,7 @@ Drunken Cases
 
 Charles Simmonds was fined 5s, and 5s costs, for being drunk and disorderly at the Swan Inn, on Saturday night, and assaulting Mr. Inspector Grapes in the execution of his office.
 
-James Underwood was also fined 10s, snd 5s costs, for a similar offence, at the Old King's Arms, and assaulting Police-constables Lockhart and Stubbs ; and in default of payment, committed for twenty-one days' hard labour
+James Underwood was also fined 10s, and 5s costs, for a similar offence, at the Old King's Arms, and assaulting Police-constables Lockhart and Stubbs ; and in default of payment, committed for twenty-one days' hard labour
 
 ...
 

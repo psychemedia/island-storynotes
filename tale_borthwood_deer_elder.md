@@ -348,7 +348,7 @@ That many a day he had ronne ere,
 Fful wel he thoght to note hem there.  
 When thei came to the launde on hight.  
 The queues pavylyon thar was pight.  
-That Ihe might fee al the beft.  
+That he might fee al the beft.  
 All the game of the forreft.  
 And to the lady broght mani a beft '',  
 Herte and hynd, buck and doo,  
