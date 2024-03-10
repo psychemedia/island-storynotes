@@ -471,6 +471,42 @@ Benjamin Breaks was cbarged by P.C. Hobbs with being drunk and disorderly, on Sa
 
 ```
 
+Several years later, the Tontine area still seemed to have a reputation where "things happened".
+
+```{admonition} "Take care or I’ll give you more", February 1858
+:class: dropdown
+[Isle of Wight Mercury - Saturday 20 February 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/031/0004)
+
+BOROUGH PETTY SESSIONS. February 15th. Before the Worshipful the Mayor (in the chair), and E. Way, Esq.
+
+M. WOODMORE v. W. GUMMON, 6th Regt.
+
+Mary Woodmore, sworn— I am a single woman. I live in Scarrets-lane. Last Wednesday morning between 10 and 11 o’clock, I was at home in bed. I heard some one breaking open shutters. I got out of bed and looked out of the window, and saw it was the defendant. I asked what he wanted. He said he wanted to come in. I told him to go away. Between 11 and 12 on the same morning of the same day, I was in the Tontine Inn, Defendant came in and asked Eliza West who was there and who lives with me, and what she said. She said that we did not want him up there. He then struck her with his open hand in the face. I asked him why he did it. He then up with his fist and gave me a black eye. He afterwards said, "take care or I’ll give you more." He would have struck me again but he was prevented by Corporal Cox.
+
+Cross-examined— Defendant did strike me, and tore my hat off my head.
+
+John Chick, sworn— I live in Scarrot's-lane, and I was at the Tontine last Wednesday evening before defendant came in. He asked Eliza West what she had been saying about him, and struck her. Many Woodmore asked what he did it for. He immediately struck her, and gave her a black eye. He struck her twice. I am sure she had not a black eye before defendant struck her, but afterwards the eye was swollen.
+
+Cross-examined— I do not live in the same house as the complainant. I have lived in the same house, but that was in another house. My mother takes the house in which Mary Woodmore lives.
+
+Eliza West corroborated the above evidence.
+
+Police-constable, W. H. Stubbs, sworn— I was sent for about 1 last Thursday morning to Scarrot's-lane. I met defendant on the road. He went back to complainants house with me. The girls were in bed. Woodmore complained of his abusing her and breaking the windows, and I took him into custody. Woodmore had a black eye.
+
+Defence— I saw the girls crying, and asked them what they had been saying about me. I put one outside the door. I did not strike the complainant or either of the girls, Rosa Cribb gave complainant the black eye.
+
+Convicted in the penalty 10s., and 5s. costs, or committed to the House of Correction for 21 days. The money was paid.
+```
+
+```{admonition} Hawker charged with indecent exposure, June 1858
+:class: dropdown
+[Hampshire Advertiser - Saturday 05 June 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18580605/047/0007)
+
+BOROUGH COURT. Monday.— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
+
+On Thursday, a hawker, named William Waterworth, was committed to the House of Correction at Winchester for one month, as a rogue and vagabond, for being drunk at the Tontine Tap, and indecent exposure.
+```
+
 ### The Crab and Lobster
 
 Another frequently mentioned establishment, most notably for the landlord's rather cavalier attitude to keeping to the licensed opening hours, was the Crab and Lobster on Deadman's Lane, now known as Trafalgar Road, that goes out of Newport from Nodehill to connect with Carisbrooke Road.
