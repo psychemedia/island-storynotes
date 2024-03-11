@@ -39,6 +39,7 @@ parts:
   - file: carus-wilson/28-following-the-libel-case
   - file: carus-wilson/30-church-opened
   - file: carus-wilson/32-into-the-1860s
+  - file: carus-wilson/40-death-of-currer-bell
 - caption: Appendix — Original Tellings
   chapters:
   - file: elder-godshill
