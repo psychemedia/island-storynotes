@@ -1,4 +1,4 @@
-# The Death of Charlotte Brontë
+# The Death of Currer Bell
 
 At the end of March, 1855, six months or so before the memorial presented to the Newport magistrates decrying the loose morals of the Borough, the pseudonymous Currer Bell, author of "Jane Eyre", and the last of the Brontë sisters, Charlotte, passed away.
 
