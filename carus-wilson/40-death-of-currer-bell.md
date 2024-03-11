@@ -51,7 +51,7 @@ But what intrigues us most is the description of one key locations in the text, 
 
 ## A Retired Clergyman Revisits His Old Haunts
 
-A couple of months after the death of Charlotte Brontë, before heading south to start his retirement on the Isle of Wight sometime in June, 1855, the Revd. Carus Wilson visited Kirby Lonsdale on the Lancashire, Cumbria and Yorkshire border.
+A couple of months after the death of Charlotte Brontë, before heading south to start his retirement on the Isle of Wight sometime in June, 1855, the Revd. W. Carus Wilson visited Kirby Lonsdale on the Lancashire, Cumbria and Yorkshire border.
 
 ```{admonition} A visit to Casterton Hall, June 1855
 :class: dropdown
