@@ -94,7 +94,7 @@ BOROUGH PETTY SESSIONS On Monday, before the Mayor, and Abraham Clarke, Esq.
 
 This being the animal licensing day the court was crowded with persons interested.
 
-On the application of Mr. Robert Dyer, of the old King’s Arms, the mayor addressed him on the complaint which had been made respecting the bad conduct of his house. At a meeting of the Council, remarks were made which the magistrates were bound to notice, and should the same course be pursued the license would be refused another year. Applicant said Mr. John Dyer had better put the saddle on himself than him, for his houses were let to bad characters and allowed nothing of the sort in his house. Mr. Dyer said he had given the parties notice to quit. Mr. W. Mew, as proprietor of the old King's Arms, denied the statements made in the Council, and said the police had been most improperly charged with partiality in their conduct. Mr. Jenkins, of the White Hart, and Hollywood, of the Tontine Tap had similar admonitions.
+On the application of Mr. Robert Dyer, of the old King's Arms, the mayor addressed him on the complaint which had been made respecting the bad conduct of his house. At a meeting of the Council, remarks were made which the magistrates were bound to notice, and should the same course be pursued the license would be refused another year. Applicant said Mr. John Dyer had better put the saddle on himself than him, for his houses were let to bad characters and allowed nothing of the sort in his house. Mr. Dyer said he had given the parties notice to quit. Mr. W. Mew, as proprietor of the old King's Arms, denied the statements made in the Council, and said the police had been most improperly charged with partiality in their conduct. Mr. Jenkins, of the White Hart, and Hollywood, of the Tontine Tap had similar admonitions.
 
 ```
 
@@ -473,7 +473,7 @@ Benjamin Breaks was cbarged by P.C. Hobbs with being drunk and disorderly, on Sa
 
 Several years later, the Tontine area still seemed to have a reputation where "things happened".
 
-```{admonition} "Take care or I’ll give you more", February 1858
+```{admonition} "Take care or I'll give you more", February 1858
 :class: dropdown
 [Isle of Wight Mercury - Saturday 20 February 1858](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18580220/031/0004)
 
@@ -481,7 +481,7 @@ BOROUGH PETTY SESSIONS. February 15th. Before the Worshipful the Mayor (in the c
 
 M. WOODMORE v. W. GUMMON, 6th Regt.
 
-Mary Woodmore, sworn— I am a single woman. I live in Scarrets-lane. Last Wednesday morning between 10 and 11 o’clock, I was at home in bed. I heard some one breaking open shutters. I got out of bed and looked out of the window, and saw it was the defendant. I asked what he wanted. He said he wanted to come in. I told him to go away. Between 11 and 12 on the same morning of the same day, I was in the Tontine Inn, Defendant came in and asked Eliza West who was there and who lives with me, and what she said. She said that we did not want him up there. He then struck her with his open hand in the face. I asked him why he did it. He then up with his fist and gave me a black eye. He afterwards said, "take care or I’ll give you more." He would have struck me again but he was prevented by Corporal Cox.
+Mary Woodmore, sworn— I am a single woman. I live in Scarrets-lane. Last Wednesday morning between 10 and 11 o'clock, I was at home in bed. I heard some one breaking open shutters. I got out of bed and looked out of the window, and saw it was the defendant. I asked what he wanted. He said he wanted to come in. I told him to go away. Between 11 and 12 on the same morning of the same day, I was in the Tontine Inn, Defendant came in and asked Eliza West who was there and who lives with me, and what she said. She said that we did not want him up there. He then struck her with his open hand in the face. I asked him why he did it. He then up with his fist and gave me a black eye. He afterwards said, "take care or I'll give you more." He would have struck me again but he was prevented by Corporal Cox.
 
 Cross-examined— Defendant did strike me, and tore my hat off my head.
 
@@ -665,7 +665,7 @@ Newport
 
 Borough Police Court, Thursday, before R. M. Wavell and Francis Pittis, Esq.
 
-August Jager, keeper of the " Prince Albert," beer shop, was convicted of allowing lewd and disorderly conduct in his house. The evidence disclosed scenes of profligacy and depravity rarely brought before a public court. Fined £5, to be levied by distress, and in default one month’s imprisonment.
+August Jager, keeper of the " Prince Albert," beer shop, was convicted of allowing lewd and disorderly conduct in his house. The evidence disclosed scenes of profligacy and depravity rarely brought before a public court. Fined £5, to be levied by distress, and in default one month's imprisonment.
 
 ```
 
