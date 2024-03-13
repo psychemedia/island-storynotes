@@ -1,2 +1,0 @@
-# Aside — The Soldiers' Institute
-
