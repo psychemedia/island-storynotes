@@ -85,7 +85,7 @@ Remarking on the column the following week (Isle of Wight County Press, [Saturda
 
 > TALES AND LEGENDS OF THE ISLE OF WIGHT.
 >
-> To the Editor of the Isle of Wight County Press. Sir,— In your last number you mention " The Tales aad Legends of the Isle of Wight," written by my father under the name of Abraham Elder. As I am thinking of revising aad republishing, I would be very pleased to get any legends or true smuggling stories connected with the Island that would add to the interest of the new edition.—Yours, &c.
+> To the Editor of the Isle of Wight County Press. Sir,— In your last number you mention " The Tales and Legends of the Isle of Wight," written by my father under the name of Abraham Elder. As I am thinking of revising and republishing, I would be very pleased to get any legends or true smuggling stories connected with the Island that would add to the interest of the new edition.—Yours, &c.
 
 > A. H. Macdonald Moreton. Bembridge, I.W.
 

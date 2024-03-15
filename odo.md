@@ -1078,27 +1078,8 @@ Picot, the Norman sheriff of Cambridgeshire,
 had done to the see of Rochester (Anglia 
 Sacra, i, 886-9), 
 
-Odo was present at the synod which, at 
-Whitsuntide 1072, decided on the claims of 
-Canterbury. In 1076 he was one of the 
-leaders of the host which suppressed the 
-rising of Ralph Guador [q. v. j in Norfolk 
-(Flow. Wig. li. 11), On 23 Oct. 1177 he 
-was present at the consecration of the church 
-of Bee ( Citron . Beceense an. Mjgxe, Patro- 
-logia, el. 046). In 1080 he presided in a 
-court which decided on the liberties of Ely 
-(Hist. Etimsis, pp, 261-2), and in June 1081 
-was present when the claims of the abbey of 
-Bury St. Edmunds were decided (Alomorials 
-of St. Edmund's Abbey, i. 347-9, RollsSor.) In 
-1080 Odo was sent by William to take ven- 
-geance on Northumberland for the murder 
-of Bishop Walcher [q. v.l of Jlurliam, The 
-whole county was harried, the innocent and 
-guilty were punished indiscriminately, and 
-Odo himself carried off from Durham a pas- 
-toral staff of rnro workmanship and material 
+Odo was present at the synod which, at Whitsuntide 1072, decided on the claims of Canterbury. In 1076 he was one of the leaders of the host which suppressed the rising of Ralph Guador [q. v. j in Norfolk 
+(Flow. Wig. li. 11), On 23 Oct. 1177 he was present at the consecration of the church of Bee ( Citron . Beceense an. Mjgxe, Patrologia, el. 046). In 1080 he presided in a court which decided on the liberties of Ely (Hist. Etimsis, pp, 261-2), and in June 1081 was present when the claims of the abbey of Bury St. Edmunds were decided (Alomorials of St. Edmund's Abbey, i. 347-9, RollsSor.) In 1080 Odo was sent by William to take vengeance on Northumberland for the murder of Bishop Walcher [q. v.l of Jlurliam, The whole county was harried, the innocent and guilty were punished indiscriminately, and Odo himself carried off from Durham a pastoral staff of rnro workmanship and material 
 (Stm. Dtjnblm. ii. 210-11). 
 
 Odo had now reached the zenith of his 
@@ -1377,8 +1358,8 @@ l
 https://archive.org/details/historyofnormand03palg/page/420/mode/2up?q=odo
 p420-1
 
-But Odo, so unworthy of the name of a Bishop, and Fitz-Osbern, were carried awav bv excessive
-pride : all justice was entirely denied. All the wise coercion of evil, of needless crime, which had been enforced bv William, was entirely
+But Odo, so unworthy of the name of a Bishop, and Fitz-Osbern, were carried awav by excessive
+pride : all justice was entirely denied. All the wise coercion of evil, of needless crime, which had been enforced by William, was entirely
 thrown aside.   William had caused peace to be injustice  observed and the dwellings to be protected : the
 the Keg«uts.
 Regents gave them up to robbery. William had ensured safe conduct to the wayfarer : the Re- gents gave up the highways to robbery and rapine. Above all, William had most carefully and inexorably protected the honour of the female : the Regents encouraged and supported their followers in sin and violence. It seemed as if the Normans, released from all authority, all restraint, all fear of retaliation, were now determined to reduce the English nation into bodily servitude, and to drive them to despair. This subversion of all discipline, this universal

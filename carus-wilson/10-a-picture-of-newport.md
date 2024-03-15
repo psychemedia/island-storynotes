@@ -341,7 +341,7 @@ Borough Sessions
 
 The case of the suspended licences next came on. Mr. James Green, of the Row Barge, who was charged with harbouring loose women in the house, having removed them, was permitted to resume his business.
 
-William Farrow, of the Hope tavern, Pyle street, who stood charged with the same offense, wu further suspended, the police having deposed to a continuation of disorderly behaviour.
+William Farrow, of the Hope tavern, Pyle street, who stood charged with the same offense, was further suspended, the police having deposed to a continuation of disorderly behaviour.
 
 Daniel Webb, of the Tontine tap, was also suspended, in consequence of the depraved morals and indecency still carried on in the house —Mr. Wavell observed that he would not consent that this house (which is the property of the Mayor) should ever have another licence. as it had been a nuisance to the neighbourhood for years.—The Mayor's son, who was present, acknowledged that the house had been very ill conducted, but as the landlord had been fined heavily for his offences, he thought that it had had the desired effect.—The Bench observed that they were in one sense the guardians of the morals of the town, and they considered that houses would be much better conducted if landlords were made aware that the licence would be taken away altogether if such practices were carried on. The magistrates themselves had seen the rows which were taking place every Sunday in that house. Mr. Mew's argument that the landlord had been fined before, was of little avail, as his subsequent conduct proved.—License refused.
 
@@ -349,7 +349,7 @@ John Magee, landlord the Peckhome inn, soother resort for the abandoned and prof
 
 R. Jenkins, landlord of the White Hart inn, said he had taken a room or two opposite for the girls to sleep in, and the police said an alteration for the better had lately taken place in his house.—License suspended.
 
-[We were glad to sse the Bench act with a proper spirit on this occasion, and we trust they will be properly supported by the inhabitants in their endeavors to silence these dens of infamy and immorality. We have seen much indecency and immorality amongst the labouring class who are known by the term "navies," but we defy any person to compare their behaviour with the outrageous conduct of the military and the swarms of promotes who are allowed to congregate in these receptacles of vice, and to such an extent has it lately been practised, that no decent person having the wish to his family a good example, dare take them past these detestable places on their way to or from church or chapel on a Sunday.]
+[We were glad to see the Bench act with a proper spirit on this occasion, and we trust they will be properly supported by the inhabitants in their endeavors to silence these dens of infamy and immorality. We have seen much indecency and immorality amongst the labouring class who are known by the term "navies," but we defy any person to compare their behaviour with the outrageous conduct of the military and the swarms of promotes who are allowed to congregate in these receptacles of vice, and to such an extent has it lately been practised, that no decent person having the wish to his family a good example, dare take them past these detestable places on their way to or from church or chapel on a Sunday.]
 
 ```
 

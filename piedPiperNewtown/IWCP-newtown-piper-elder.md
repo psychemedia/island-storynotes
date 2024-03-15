@@ -216,7 +216,7 @@ The arrangement of the papers, the hours appointed for the several excursions, a
 
 By the kindness of the managers and proprietors, the Museum of the Isle of Wight Society, and the Athenseum, at Newport, will be open to visitors" during the Congress ; the Museum of the Literary Institution, at Ventnor; and at Southampton, the Lecture Room and Museum of the Polytechnic Institution.
 
-The chief objects of the meeting are to promote a personal intercourse between antiquaries and historical inquirers who reside in different parts of the country and abroad, and to afford a week's amusement and instruction by the reading and discussing of papers on antiquarian aad historical subjects, and in visiting and examining together the antiquities of the locality. Persons desirous of presenting papers or articles for exhibition are requested to forward them as early as possible, that they may be properly arranged.
+The chief objects of the meeting are to promote a personal intercourse between antiquaries and historical inquirers who reside in different parts of the country and abroad, and to afford a week's amusement and instruction by the reading and discussing of papers on antiquarian and historical subjects, and in visiting and examining together the antiquities of the locality. Persons desirous of presenting papers or articles for exhibition are requested to forward them as early as possible, that they may be properly arranged.
 
 TH: related papers can be found in Journal of the British Archaeological Association, Vol. XI, 1855,  https://archive.org/details/journalbritisha26unkngoog/page/n8/mode/2up See also the proceedings of the Twelfth Annual Meeting, Isle of Wight, 1855, August 20th to 25th inclusive*, pp.267-276, p314-343
 

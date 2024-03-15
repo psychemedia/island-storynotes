@@ -95,7 +95,7 @@ The Policeman stated that he ordered her off, but afterwards found her there, wi
 
 Mr. Grapes, Inspector of Police, in answer to the court, said the prisoner was a common prostitute.
 
-The Mayor observed that he had given instructions to the police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce wouid be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
+The Mayor observed that he had given instructions to the police to endeavour to check the nuisance and wickedness of such proceedings, and he hoped the sentence he was about to pronounce would be a lesson to her and others. Such courses end in the destruction of both body and soul, and he hoped the punishment would lead her to reflect on the dreadful life she was pursuing.
 
 Fined 10s and Ss costs, which not being paid, she was committed to the House of Correction for fourteen days.
 

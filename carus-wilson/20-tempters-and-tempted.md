@@ -33,7 +33,7 @@ The Mayor rose, and said, that he should not be doing justice to his own feeling
 
 ```
 
-The Mayor then declared that he felt it his duty to defend the town, and one of the other councillors asked what he mioght do about the exaggerated claims made against the town.
+The Mayor then declared that he felt it his duty to defend the town, and one of the other councillors asked what he might do about the exaggerated claims made against the town.
 
 ```{admonition} Falsehoods and calumnies
 :class: dropdown

@@ -349,7 +349,7 @@ The second response comes from elderly resident of Newtown who claims to have fi
 
 The story as recorded in the newspaper report is then restated:
 
-> The part concerning the Pied Pier was as follows: "At Newtown we have an example of the Pied Piper legend, and in the Island town of Francheville this itinerant musician seems to have created quite as much dismay and destruction among its peaceable but money-loving inhabitants as he did on the occasion of his visit to Hamelin. At this place the children are said to have ben lead down into the Solent, detail which I believe usually takes a local turn in examples of this legend."
+> The part concerning the Pied Pier was as follows: "At Newtown we have an example of the Pied Piper legend, and in the Island town of Francheville this itinerant musician seems to have created quite as much dismay and destruction among its peaceable but money-loving inhabitants as he did on the occasion of his visit to Hamelin. At this place the children are said to have been lead down into the Solent, detail which I believe usually takes a local turn in examples of this legend."
 
 The correspondent then puts forth their own opinion on the matter and the evidence of their neighbours:
 
