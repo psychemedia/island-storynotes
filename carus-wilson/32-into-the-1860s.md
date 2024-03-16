@@ -80,10 +80,24 @@ St. John's Church.— On Sunday last two Sermons were preached at this place of 
 Lecture.— A lecture will be delivered on Monday evening next, at 7 o'clock, in the Queen's rooms, by the Rev. W. Carus Wilson, " the Progress of Morality and Religion in the Sardinian, French, and English Armies ; and with special reference to the important subject of Temperance." George Hale, Esq., governor of Parkhurst Penitentiary, has kindly consented to take the chair. The meeting is specially intended for soldiers, but the public will be accommodated as far as possible.
 ```
 
-Carus Wilson was also engaging in other community based activies, such as the arrangements for a party surround the wedding of H.R.H. The Pricess Royal.
+Rather confusingly, it seems as if there may have been another reverend figure on the Island around about this time, a curate at Cowes, who was also engaging in community based activies including setting up evening classes and supervising the arrangements for a party in celebration of the wedding of H.R.H. The Pricess Royal.
+
+````{admontion} Another Revd. W. C. Wilson on the Island?
+:class: seealso dropdown
+
+```{admonition} Curate of Cowes, May 1857
+[Hampshire Telegraph - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570523/011/0004)
+
+Sermons are to be preached to-morrow (Sunday) at Carisbrooke Church in aid of the funds of the National Schoois established in this parish. The Rev. E. McAll, M.A., Rector of Brighston, preaches in the morning, and the Rev. W. C. Wilson, Curate of Cowes, in the afternoon.
+```
+
+```{admonition} Night Schools for the labouring classes, November 1857
+[Portsmouth Times and Naval Gazette - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571107/069/0005)
+
+The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indafatigabla efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected e east amount of good, and by hit and affability has endeared himself to all classes. We heartily with then were more such reterend rentlemen in the Church of Eng. land ; there plenty of work for them. 
+```
 
 ```{admonition} Roast beef and plum pudding, January 1858
-:class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 30 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580130/052/0005)
 
 COWES
@@ -91,6 +105,7 @@ COWES
 The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by tbe ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for tbe welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
 
 ```
+````
 
 Meanwhile, many of the Court reports suggest a picture of what the comings and goings of life in the streets of Newport must have been like.
 
