@@ -2,10 +2,11 @@
 
 Around the same time as his publication of *Tempters and Tempted* on the Island in early 1856, the Revd. W. Carus Wilson was also busy on the mainland, a short boat trip away in Portsmouth, overseeing the opening of a Soldiers' Institute.
 
+## The Portsmouth Soldiers' Institute
+
 A report a month of say after it opened in the Leeds Mercury gives a sense of what it involved.
 
 ```{admonition} Soldiers' Institutes
-
 :class: dropdown
 [Leeds Mercury - Thursday 28 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18560228/016/0003)
 
@@ -272,6 +273,21 @@ PUBLIC READING OF INDIAN NEWS
 The Rev. J. Knapp, the incumbent of St. John's, Portsea, some time since established religious services for the people, free of all charges, at a building which had formerly been occupied as circus; the congregations every Sabbath have been large, and the plan is in every respect successful. It is, however, to another arrangement of the reverend gentleman to which we would now direct the attention of our readers. Every Wednesday evening there is service conducted nearly as follows— The National Anthem is sung, after which Mr. Knapp reads a well-digested summary of Indian news, and afterwards reads and expounds some portion of Scripture ; a hymn is then sung, and the meeting is dismissed. We congratulate Mr. Knapp upon his triumphant success ; such gatherings are in every way useful, and calculated to do more good than the issuing of 50,000 such tracts, as "Portsmouth in Flames." On Wednesday last not less than 2,000 persons were present, chiefly of the class for which the service was established. We trust the reverend gentleman will persevere in his truly Christian labours. *West Sussex Gazette.*
 ```
 
+In the years that followed, even following the death of Carus Wilson at the end of 1859, the annual meetings of the Institute remembered their founder.
+
+```{admonition} About six years ago, March 1861
+:class: dropdown
+[Hampshire Advertiser - Saturday 02 March 1861](https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18610302/040/0008)
+
+PORTSMOUTH SOLDIERS' INSTITUTE.
+
+The annual meeting of the friends and supporters of this institution was held on Monday afternoon, at the Institute, King-street, Portsmouth.
+
+...
+
+The Chairman said, before be called upon any gentleman to move the adoption of the report, he would say a few words relative to this institution. The objects of soldiers' institutes have now almost become household words ; they were so well known that it was scarcely necessary for him to occupy the time of the meeting in speaking of them. He would say a few words relative to the origin of this institution. About six years ago the Rev. Carus Wilson, who was noted for his great beneficence of character and for his particular love for soldiers, with a few friends, observed a great want in this garrison. He observed that although Government and the War-office had provided liberally for soldiers within the walls of the barracks, libraries, and every amusement the service could allow, yet there was still a want. If they went to London, at four o'clock in the afternoon they would see the merchants and clerks filling the omnibuses and going straight into the country for recreation. In their harbour, they saw boats full of liberty men shoving off and going on shore, and there was a sort of feeling of repulsion in the Anglo-Saxon race against remaining in a place after business hours, which he supposed extended to the barracks also. (Hear, hear.) People naturally seek to get out of sight of business for a little while, and medical men had thought that the best thing men could do, after some hours of labour, was to get sway from the place and change the scene of action. It was therefore very natural that soldiers should seek to leave their barracks and take recreation in the town. Let them see what sort of recreation there was for them. There were the gin palaces, brilliantly lighted, and the men were naturally led into these traps which were provided for them. Soldiers were rational beings; they were not more vicious than others, but they were thrust info vice from want of some proper amusement out of the barrack walls; and he thought that Carus Wilson judged very wisely when he established an institution of this sort. He (the chairman) had always been a warm supporter of this institution, and he was only sorry that he could not attend oftener than he did. Under these circumstances it was certainly surprising that this institution had not received more support from the townspeople ; because, to a great extent, they naturally lived upon the army and navy. There were, unfortunately, some who lived by their vices, and encouraged their ruin by inducing them to do wrong. There were, however, many respectable tradesmen in this place whose natural interest he should suppose it to be to adopt such institutions as this, with a view to improve the moral condition of our soldiers, by giving them recreation in this way. There were some brilliant exceptions; Mr. Emanuel had presented papers, and had been liberal in other ways ; and Messrs. Turner and others had assisted them. The chairman again called upon the tradesmen of the town to lend a helping hand, and then noticed the narrow escapes from breaking up that the society had experienced. It was a matter of encouragement that Government had promised something for a soldiers' institute at Chatham. This gave them every hope that the first garrison in England would very shortly come under the favourable consideration of the War-office, and that through the instrumentality of their excellent Lieutenant Governor this would be very shortly brought about. It was a great pleasure to him, and the supporters of the institution, to see his lordship among them ; and they trusted that his influence would be of great advantage in encouraging soldiers to use it, and also in promoting their interest with the Government. (Applause.)
+```
+
 ## Preaching in Gosport
 
 Throughout 1857, Carus Wilson seemed to be making regular visits over to the mainland to preach the men stationed at Forton Barracks in Gosport, as well as in support of the local commuity.
@@ -357,35 +373,18 @@ MEETINGS AT THE VICTORIA ROOMS. A meeting was held (so we understand, as we had 
 Another meeting was held on Monday evening (but, as in the former case, we were not apprised of it), the object of which was to assist the funds of the London Missionary Society, through the medium of lecture, illustrated by a panorama of the missionary fields, and with specimens the produce the countries where stations are appointed. The lecture, we hear, was highly interesting, and those spacious rooms were crowded on the occasion. The amount collected, however, was very meagre, being only about £6.
 ```
 
-Carus Wilson also seems to have been supportive of fundraisers on the mainland.
+Carus Wilson also seems to have been supportive of community events on the mainland, as the following example of a New Year's tea party for wives and children shows.
 
 ```{admonition} Half a pound of tea, and a proportionate quantity of sugar, January 1858
-
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 09 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580109/084/0005)
 
 The Rev. Carus Wilson, and the Soldiers' Wives.— On Monday a tea party under the superintendence and the expense of the Rev. Carus Wilson, was given to the wives and children located in Portsmouth, of soldiers serving in India, in the schoolroom of Colewort Barracks. There were between eighty and ninety women, and about 160 children present. After tea, which consisted of a plentiful supply of bread and batter, cake, &c., the rev. gentleman addressed the party in a very kind and appropriate speech, referring particularly to the affairs in India, and exhorting them to put their trust in their best Friend, who is always ready comfort and assist them. On the party breaking up about seven o'clock, Mr. Wilson presented each woman with half a pound of tea, and a proportionate quantity of sugar. One of the women thanked the rev. gentleman for his kindness to them, not only on that occasion, but ever since their husbands left for India, and we are sure no thanks were ever more truly deserved. The band of the Royal Artillery was in attendance, and several ladies and gentlemen were present, amongst others the Rev. E. and Mrs. Milner, the Rev. Mr. Windsor, Sir Harry Varney, Bart, M. P. Mr. Wheatey, Colonel end Mrs. Travers, R.A. Mrs. Ozendon.
 ```
 
-
-
-TO DO
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18580109/064/0008
-Hampshire Advertiser - Saturday 09 January 1858
+```{admonition} A New Year's Party to the Soldiers' Wives, January 1858
+:class: dropdown
+[Hampshire Advertiser - Saturday 09 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18580109/064/0008)
 
 A New Year's Party to the Soldiers' Wives. — On Monday afternoon a tea party, consisting of all the soldiers' wives whose husbands are serving with the army in India, with their children, numbering in all between eighty and ninety women, and about 160 children, assembled at Portsmouth, at the invitation and expense of the Rev. W. Carua Wilson, in the schoolroom of the Colenut Barracks. Several ladies and gentlemen were present, including the Rev. E. and Mrs. Milner, the Rev. Mr. Windsor, Sir Harry Varney, Bart, M.P. Mr. Wheatly, Colonel and Mrs. Travers, R.A., Mrs. Oxendon, and sundry other influential ladies and gentlemen ; the band of the Royal Artillery stationed at Portsmouth attended. About four o'clock the children sat down to tea, and the women about an hour afterwards, each party to a comfortable repast of bread and butter, cake, &c. After tea the Rev. Carus Wilson addressed the party in a speech very approriate to the occasion, on matters in which they were highly interested, namely, the affairs in India, and exhorted them to turn to their best Friend, who is at all times ready and willing to assist them. The women appeared highly interested, and well satisfied with the discourse of the rev. gentleman, and after enjoying a few airs from tbe band, they separated about seven o'clock. On parting the Rev. Carus Wilson presented each woman with half a pound of tea and a proportionate quantity of sugar. Mrs. ————, 19th Regiment, on the part of the whole present, rose and returned thanks to the rev. gentleman for the handsome manner in which they had been treated, not only on the present occasion, but ever since they had had the misfortune to be separated from their husbands.
-
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000495/18610302/040/0008
-Hampshire Advertiser - Saturday 02 March 1861
-
-PORTSMOUTH SOLDIERS' INSTITUTE.
-
-The annual meeting of the friends and supporters of this institution was held on Monday afternoon, at the Institute, King-street, Portsmouth.
-
-...
-
-The Chairman said, before be called upon any gentleman to move the adoption of the report, he would say a few words relative to this institution. The objects of soldiers' institutes have now almost become household words ; they were so well known that it was scarcely necessary for him to occupy the time of the meeting in speaking of them. He would say a few words relative to the origin of this institution. About six years ago the Rev. Carus Wilson, who was noted for his great beneficence of character and for his particular love for soldiers, with a few friends, observed a great want in this garrison. He observed that although Government and the War-office had provided liberally for soldiers within the walls of the barracks, libraries, and every amusement the service could allow, yet there was still a want. If they went to London, at four o'clock in the afternoon they would see the merchants and clerks filling the omnibuses and going straight into the country for recreation. In their harbour, they saw boats full of liberty men shoving off and going on shore, and there was a sort of feeling of repulsion in the Anglo-Saxon race against remaining in a place after business hours, which he supposed extended to the barracks also. (Hear, hear.) People naturally seek to get out of sight of business for a little while, and medical men had thought that the best thing men could do, after some hours of labour, was to get sway from the place and change the scene of action. It was therefore very natural that soldiers should seek to leave their barracks and take recreation in the town. Let them see what sort of recreation there was for them. There were the gin palaces, brilliantly lighted, and the men were naturally led into these traps which were provided for them. Soldiers were rational beings; they were not more vicious than others, but they were thrust info vice from want of some proper amusement out of the barrack walls; and he thought that Carus Wilson judged very wisely when he established an institution of this sort. He (the chairman) had always been a warm supporter of this institution, and he was only sorry that he could not attend oftener than he did. Under these circumstances it was certainly surprising that this institution had not received more support from the townspeople ; because, to a great extent, they naturally lived upon the army and navy. There were, unfortunately, some who lived by their vices, and encouraged their ruin by inducing them to do wrong. There were, however, many respectable tradesmen in this place whose natural interest he should suppose it to be to adopt such institutions as this, with a view to improve the moral condition of our soldiers, by giving them recreation in this way. There were some brilliant exceptions; Mr. Emanuel had presented papers, and had been liberal in other ways ; and Messrs. Turner and others had assisted them. The chairman again called upon the tradesmen of the town to lend a helping hand, and then noticed the narrow escapes from breaking up that the society had experienced. It was a matter of encouragement that Government had promised something for a soldiers' institute at Chatham. This gave them every hope that the first garrison in England would very shortly come under the favourable consideration of the War-office, and that through the instrumentality of their excellent Lieutenant Governor this would be very shortly brought about. It was a great pleasure to him, and the supporters of the institution, to see his lordship among them ; and they trusted that his influence would be of great advantage in encouraging soldiers to use it, and also in promoting their interest with the Government. (Applause.)
+```
