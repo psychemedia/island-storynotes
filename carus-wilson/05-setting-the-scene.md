@@ -44,8 +44,7 @@ The Mayor said that as far as the magistrates were concerned, they would much ra
 
 ## Keeping the Streets Lit
 
-In the central part of Newport, steps were being made to introduce street gas lighting in 1820. 
-
+In the central part of Newport, steps were being made to introduce street gas lighting in 1820.
 
 ```{admonition} Preparations in a great state forwardness, October 1820
 :class: dropdown
@@ -95,11 +94,22 @@ ADAM TWIGG, Superintendent.
 Improvements were also made to the gas provision in the early 1850s, albeit at the expense of roadworks!
 
 ```{admonition} leading thoroughfares are being broken-up, January 1852
-:class: doprdown
+:class: dropdown
 [Hampshire Advertiser - Saturday 03 January 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18520103/026/0005)
 
 NEWPORT, SATURDAY, January 3. The Newport Gas Company.— The brilliancy of the new lights, as seen this week, placed alongside of the old ones, seems to have " won golden opinions from all sorts of people," and made new gas the order of the day. Mr. Nunn's extensive lace factory, we hear, is to be supplied with one hundred and fifty burners, and a large number of tradesmen and professional men, as well as private persons, are being supplied. To accomplish this, of course, the leading thoroughfares are being broken-up,— a temporary inconvenience, which if perpetuated, it seems, would now be more tolerable than the light of other days, or rather nights.
 
+```
+
+THe age of electric communication was still a few years away, however. The "electric telegraph" was not to connect Newport with Cowes, and presumably the wider world, until 1859.
+
+```{admonition} The rest of the civilised world, September 1859
+:class: seelalso dropdown
+[Hampshire Telegraph - Saturday 17 September 1859](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18590917/016/0006)
+
+NEWPORT
+
+The Electric Telegraph Wire between this town and Cowes was commenced laying down on Monday last, and from the number of labourers employed, a very short time must elapse before the inhabitants will be supplied with this excellent means communication with the rest of the civilised world. 
 ```
 
 ## Francis Pittis — Mayor, then Alderman
