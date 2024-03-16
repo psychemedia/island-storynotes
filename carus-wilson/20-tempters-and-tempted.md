@@ -27,13 +27,17 @@ His particular passion appears to have been education, along with engaging in co
 ````{admonition} A confusions of Revd. Wilsons
 :class: seealso dropdown
 
+A sample of articles avbout *this* Revd. Wilson shows the apparently universal ahigh regard and deep affection that was held for him.
+
 ```{admonition} The National Schools, December 1855
+:class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 22 December 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18551222/087/0005)
 
 The National Schools. — Through tbe active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson’s exertions are the more be commended as he is a late comer amongst us.
 ```
 
 ```{admonition} Popular Education, but..., October 1856
+:class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 25 October 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18561025/062/0004)
 
 COWES. Popular Education.— We ere exceedingly gratified to learn that our respected curate, the Rev. Mr. Wilson, with the assistance of two or three well meaning gentlemen, has set on foot a plan by which it is proposed, at a nominal cost to the scbolars, to afford the rudiments of ordinary education to all those of the working classes who desire to receive it. Reading, writing, and arithmetic, will be the principal branches of study at first, and such other elements of education as may be found advantageous, will be afterwards introduced. We receive the announcement of this forward movement with pleasure, and trust it will have tbe desired effect, but we have experienced so much of the supineness and ingratitude of the class for whose benefit it is mainly designed, that we almost despair of seeing good result from any efforta, however disinterested.
@@ -41,18 +45,21 @@ COWES. Popular Education.— We ere exceedingly gratified to learn that our resp
 ```
 
 ```{admonition} Preaching in the afternoon, May 1857
+:class: dropdown
 [Hampshire Telegraph - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570523/011/0004)
 
 Sermons are to be preached to-morrow (Sunday) at Carisbrooke Church in aid of the funds of the National Schoois established in this parish. The Rev. E. McAll, M.A., Rector of Brighston, preaches in the morning, and the Rev. W. C. Wilson, Curate of Cowes, in the afternoon.
 ```
 
 ```{admonition} Night Schools for the labouring classes, November 1857
+:class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571107/069/0005)
 
 The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indafatigable efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected a vast amount of good, and by his benevolence and affability has endeared himself to all classes. We heartily wish there were more such reverend rentlemen in the Church of England ; there is plenty of work for them. 
 ```
 
 ```{admonition} Roast beef and plum pudding, January 1858
+:class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 30 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580130/052/0005)
 
 COWES
@@ -61,7 +68,8 @@ The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious
 
 ```
 
-```{admonition} Charitable and Christian kindness to all, November 1858]
+```{admonition} Charitable and Christian kindness to all, November 1858
+:class: dropdown
 [Hampshire Advertiser - Saturday 20 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18581120/083/0012)
 
 COWES
