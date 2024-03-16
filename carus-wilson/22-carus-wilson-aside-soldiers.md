@@ -216,7 +216,7 @@ I am, sir, your obedient servant, JOHN KNAPP.
 
 ```
 
-Back on the Island, Carus Wilson appears to have also been engaged in trying to improve the morals of the young men of Ventor.
+Back on the Island, Carus Wilson appears to have also been engaged in trying to improve the morals of the young men of Ventor, in the following case at a meeting of the Ventnor *"Literary and Scientific Institution"*.
 
 ```{admonition} We come as friends, not as enemies, May 1856
 :class: dropdown
@@ -229,7 +229,7 @@ LECTURE.—Mr. J. Harding, secretary to the Society for the protection of Women,
 Britain's hope is in her youth. We look not to those who have run a long course of vice, but we wish to stop the young man in his downward degrading carter. From my connection for 12 years with my Society, I find a vast amount of female vice in the land, and it is rising to such a pitch, as to threaten even to overthrow this great commercial country. There are signs that our country will soon go down in her scale of influence among the nations. If this is allowed to go on, Then Farewell! The lecturer read quotations from works on "Chastity," and the seventh commandment, by Dr. Wardlaw, Mrs. Stowe's brother Dr. Dick, &c. illustrating the subject by these authorities. The room was crowded both evenings, and Mr. Harding was listened to with the most marked attention.
 ```
 
-```{admonition}
+```{admonition} A lecture was delivered, May 1856
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 31 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18560531/074/0004)
 
@@ -278,7 +278,7 @@ Throughout 1857, Carus Wilson seemed to be making regular visits over to the mai
 
 As well as preaching to troops in advance of being sent off to their overseas postings, he provided them with bibles and prayer books. 
 
-```{admonition} , August 1857
+```{admonition} A powerful and interesting sermon, August 1857
 :class: dropdown
 
 [Hampshire Chronicle - Saturday 08 August 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18570808/067/0008)
@@ -290,7 +290,7 @@ An interesting scene took place on Tuesday morning in the field opposite the bar
 
 A report from later in the year describes the means by which the serving men were presented with bibles offered as a *"joint gift of the Admiralty and the Rev. Carus W. Wilson"*.
 
-```{admonition}
+```{admonition} Presented with a handsome bible and prayer-book, December 1857
 :class: dropdown
 [Hampshire Telegraph - Saturday 05 December 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18571205/017/0005)
 
