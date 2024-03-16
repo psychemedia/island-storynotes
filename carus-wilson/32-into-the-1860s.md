@@ -80,6 +80,16 @@ St. John's Church.— On Sunday last two Sermons were preached at this place of 
 Lecture.— A lecture will be delivered on Monday evening next, at 7 o'clock, in the Queen's rooms, by the Rev. W. Carus Wilson, " the Progress of Morality and Religion in the Sardinian, French, and English Armies ; and with special reference to the important subject of Temperance." George Hale, Esq., governor of Parkhurst Penitentiary, has kindly consented to take the chair. The meeting is specially intended for soldiers, but the public will be accommodated as far as possible.
 ```
 
+Carus Wilson was also engaging in other community based activies, such as the arrangements for a party surround the wedding of H.R.H. The Pricess Royal.
+
+```{admonition} Roast beef and plum pudding, January 1858
+:class: dropdown
+[Portsmouth Times and Naval Gazette - Saturday 30 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580130/052/0005)
+
+The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by tbe ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for tbe welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
+
+```
+
 Meanwhile, many of the Court reports suggest a picture of what the comings and goings of life in the streets of Newport must have been like.
 
 ```{admonition} Sleight of hand, and a pocket picked by one "as innocent a child unborn !", June 1857
