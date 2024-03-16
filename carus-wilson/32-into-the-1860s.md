@@ -80,12 +80,34 @@ St. John's Church.— On Sunday last two Sermons were preached at this place of 
 Lecture.— A lecture will be delivered on Monday evening next, at 7 o'clock, in the Queen's rooms, by the Rev. W. Carus Wilson, " the Progress of Morality and Religion in the Sardinian, French, and English Armies ; and with special reference to the important subject of Temperance." George Hale, Esq., governor of Parkhurst Penitentiary, has kindly consented to take the chair. The meeting is specially intended for soldiers, but the public will be accommodated as far as possible.
 ```
 
-Rather confusingly, it seems as if there may have been another reverend figure on the Island around about this time, a curate at Cowes, who was also engaging in community based activies including setting up evening classes and supervising the arrangements for a party in celebration of the wedding of H.R.H. The Pricess Royal.
+Rather confusingly, it seems as if there may have been another reverend figure on the Island around about this time with very similar intials, the Revd. C. W. (Cornelius William) Wilson — a much loved curate at Cowes.
 
-````{admontion} Another Revd. W. C. Wilson on the Island?
+```{admonition} The Rev. Cornelius William Wilson, M.A., November 1858
+:class: seealso dropdown
+[Portsmouth Times and Naval Gazette - Saturday 27 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18581127/089/0005)
+
+Testimonial of Respect to the Rev. C. W. Wilson, M.A. There are probably few of the inhabitants of Cowes, of whatever sect or denomination, who will not gratefully acknowledge the good which the town at large has derived from the untiring and active exertions of the Rev. C. W. Wilson during his ministration of three years among us as Curate of St. Mary’s. The rev. gentleman, having been presented by the Bishop of Winchester with the perpetual curacy of Northam near Southampton, has this week left us to enter upon his new charge; albeit rejoicing at his good fortune, we cannot avoid expressing our hearty regret that any circumstance should have occurred to compel him to leave us. His many acts of charity ; his indefatigable industry in establishing the night-schools for the working classes; his instrumentality in obtaining from Mr. Ward the grant of a field for public recreation, and his many other deeds of public usefulness have combined to render him deservedly popular, and with this feeling the inhabitants have subscribed together for the purchase of a silver salver of the value of £50 which has this week been presented to him by a deputation appointed for the purpose. The salver bears the following inscription :—" Presented to the Rev. Cornelius William Wilson, M.A., by the inhabitants of West Cowes in the Isle of Wight on the 24th day of November, 1858, as an affectionate token of their esteem, and appreciation of his many excellent qualities both as a Christian minister and a resident, ever ready to alleviate the sufferings of the distressed and to promote the education, happiness and comfort of the poor."
+```
+
+His particular passion appears to have been education, along with engaging in community based activities, such as the arrangements for a commumnity party in celebration of the wedding of H.R.H. The Pricess Royal, in 1858.
+
+````{admontion} A confusions of Revd. Wilsons
 :class: seealso dropdown
 
-```{admonition} Curate of Cowes, May 1857
+```{admonition} The National Schools, December 1855
+[Portsmouth Times and Naval Gazette - Saturday 22 December 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18551222/087/0005)
+
+The National Schools. — Through tbe active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson’s exertions are the more be commended as he is a late comer amongst us.
+```
+
+```{admonition} Popular Education, but..., October 1856
+[Portsmouth Times and Naval Gazette - Saturday 25 October 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18561025/062/0004)
+
+COWES. Popular Education.— We ere exceedingly gratified to learn that our respected curate, the Rev. Mr. Wilson, with the assistance of two or three well meaning gentlemen, has set on foot a plan by which it is proposed, at a nominal cost to the scbolars, to afford the rudiments of ordinary education to all those of the working classes who desire to receive it. Reading, writing, and arithmetic, will be the principal branches of study at first, and such other elements of education as may be found advantageous, will be afterwards introduced. We receive the announcement of this forward movement with pleasure, and trust it will have tbe desired effect, but we have experienced so much of the supineness and ingratitude of the class for whose benefit it is mainly designed, that we almost despair of seeing good result from any efforta, however disinterested.
+
+```
+
+```{admonition} Preaching in the afternoon, May 1857
 [Hampshire Telegraph - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570523/011/0004)
 
 Sermons are to be preached to-morrow (Sunday) at Carisbrooke Church in aid of the funds of the National Schoois established in this parish. The Rev. E. McAll, M.A., Rector of Brighston, preaches in the morning, and the Rev. W. C. Wilson, Curate of Cowes, in the afternoon.
@@ -94,7 +116,7 @@ Sermons are to be preached to-morrow (Sunday) at Carisbrooke Church in aid of th
 ```{admonition} Night Schools for the labouring classes, November 1857
 [Portsmouth Times and Naval Gazette - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571107/069/0005)
 
-The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indafatigabla efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected e east amount of good, and by hit and affability has endeared himself to all classes. We heartily with then were more such reterend rentlemen in the Church of Eng. land ; there plenty of work for them. 
+The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indafatigable efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected a vast amount of good, and by his benevolence and affability has endeared himself to all classes. We heartily wish there were more such reverend rentlemen in the Church of England ; there is plenty of work for them. 
 ```
 
 ```{admonition} Roast beef and plum pudding, January 1858
@@ -105,6 +127,15 @@ COWES
 The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by tbe ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for tbe welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
 
 ```
+
+```{admonition} Charitable and Christian kindness to all, November 1858]
+[Hampshire Advertiser - Saturday 20 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18581120/083/0012)
+
+COWES
+
+Preferment.— The Bishop of Winchester has presented the perpetual curacy of Christchurch, Northam, Southampton, to the Rev. C. W. Wilson, curate of St. Mary's church, West Cowes, and the rev. gentleman preaches his farewell sermon on Sunday evening. We understand that it is the intention of his friends and admirers at Cowes (that is the entire population) to enter into a subscription to purchase a piece of plate to present to him as a trifling mark of the esteem in which they hold him ; and we have no doubt but all, dissenters as well as churchmen, will subscribe to it. Such is the estimation in which he is held for his charitable and Christian kindness to all.
+```
+
 ````
 
 Meanwhile, many of the Court reports suggest a picture of what the comings and goings of life in the streets of Newport must have been like.
