@@ -45,7 +45,7 @@ We can find a contemporary version of the fable in T. James' [Æsop's fables: a 
 
 ```
 
-A couple of years later, in June 1859, an encounter with the pamphlet is preceded by a interesting set-up, that we might twist co-opt along the lines of: *man goes into shop of Pyle Strret*, "Can I help ?", [shiftily] "Er, yes, I'm looking for a copy of *Tempters and Tempted*".
+A couple of years later, in June 1859, an encounter with the pamphlet is preceded by a interesting set-up, that we might twist co-opt along the lines of: *man goes into a bookseller on Pyle Strret*, "Can I help ?", [shiftily] "Er, yes, I'm looking for a copy of *Tempters and Tempted*", and is presented with a rather graphic magazine that was not what he anticipated.
 
 ```{admonition} Irreverence, June 1859
 :class: dropdown
