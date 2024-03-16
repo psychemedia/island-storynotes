@@ -6,7 +6,7 @@ Around the same time as his publication of *Tempters and Tempted* on the Island 
 
 A report a month of say after it opened in the Leeds Mercury gives a sense of what it involved.
 
-```{admonition} Soldiers' Institutes
+```{admonition} Soldiers' Institutes, February 1856
 :class: dropdown
 [Leeds Mercury - Thursday 28 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18560228/016/0003)
 
