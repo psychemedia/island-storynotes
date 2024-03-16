@@ -86,6 +86,8 @@ Carus Wilson was also engaging in other community based activies, such as the ar
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 30 January 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18580130/052/0005)
 
+COWES
+
 The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by tbe ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for tbe welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
 
 ```
