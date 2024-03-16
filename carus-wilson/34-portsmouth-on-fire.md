@@ -3,6 +3,7 @@
 A year on from the publication of "Tempters and Tempted", and it seems that the Revd. W. Carus Wilson could not but help himself, feeling compelled to publish another tract that was almost guaranteed to meet with less than universal approval.
 
 ```{admonition} Portsmouth in Flames, January 1857
+:class: dropdown
 [Hampshire Telegraph - Saturday 17 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570117/017/0005)
 
 PORTSMOUTH IN FLAMES!
@@ -25,7 +26,7 @@ H. F. P.
 
 The previous article ends with a Latin quote — *"Parturiunt montes nascetur ridiculus mus"* — and provides a moral to the tale...
 
-```{admonition} THe Mountain in Labour
+```{admonition} The Mountain in Labour
 :class: dropdown seealso
 
 The commounication to the *Portsmouth Times and Naval Gazette* of [Saturday, 24 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18570124/044/0005) on *"Portsmouth in Flames"* ends with the Latin quote, *"Parturiunt montes nascetur ridiculus mus."*
