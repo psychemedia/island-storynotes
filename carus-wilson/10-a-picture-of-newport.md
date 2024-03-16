@@ -781,7 +781,7 @@ Prisoner, to the Inspector : Did you ever find the money I lost out my pocket in
 
 Inspector: I never heard a word of any money you had or lost until this moment; you had only your trousers on; you did say you would tell the Magistrates where I sold the bad money. I have had you up before for bad conduct.
 
-Defendant professed to be particulalry shocked at the Inspector's falsehood, but an inspection of the black book showed the truth of the assertion.
+Defendant professed to be particularly shocked at the Inspector's falsehood, but an inspection of the black book showed the truth of the assertion.
 
 P.C. Hasler deposed to the outrageous conduct of the prisoner, and said he heard nothing before of his losing any money, but prisoner did say on being had to the station-house that he would tell the Court where Grapes had sold the £10 worth of bad money (laughter).
 

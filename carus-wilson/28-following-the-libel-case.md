@@ -18,7 +18,7 @@ Also TEMPTERS AND TEMPTED, a Tract. by the Rev. W CARUS WILSON. Price 1d, or 12 
 
 ```
 
-It's also worth noting that even a month later, Carus Wilson was still identified as a contentious figure, despite his fundraising efforts for the new Church.
+It's also worth noting that even a month later, Carus Wilson was still identified as something of a celebrity and perhaps a contentious figure, notwithstanding his efforts in support of raising funds for the new Church.
 
 ```{admonition} Much difference of opinion exists, May 1856
 :class: dropdown
@@ -28,6 +28,15 @@ Newport
 
 Two Sermons will be preached in St. John's Church, Newport, on Sunday the 11th inst., in aid of the funds of the Sunday Schools connected with that Church, in which 300 children are taught. Much interest will no await be felt by the Inhabitants of Newport, not only in the good object which the sermons are to promote, but they will be preached by the Rev. Carus Wilson, Incumbent of Casterton, Westmoreland, about the justice of whose remarks in the tract "Tempters and Tempted" much difference of opinion exists.
 
+```
+
+```{admonition} The high celebrity of the preacher, May 1856
+:class: dropdown
+[Portsmouth Times and Naval Gazette - Saturday 10 May 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18560510/100/0005)
+
+NEWPORT.
+
+Two sermons will be preached at St. John's Church, Sunday the 11th inst., by the Rev. Carus Wilson, incumbent of Casterton, Westmoreland, in aid of the funds of the Sunday School connected with that church. The number of children under instruction is upwards of 300, and the high celebrity of the preacher will no doubt attract s large congregation. 
 ```
 
 ```{admonition} Sermons much admired, May 1856
@@ -97,7 +106,7 @@ Caroline Pierce, Sarah Harvey, and Mary Ann Groundsell, three veiled young ladie
 
 P.C. Grey examined: Last Wednesday night, about a quarter to eleven, I was standing in front of the Market House, when I heard some disgraceful screeching and screaming in the Corn Market. I went in that direction, when I saw these women standing under the portico of the Newport Arms. One of them said, " Here comes the policeman," and then they turned about, and went in to the Newport Arms, and I went in and saw who they were. They were not sober, either of them, and there was no one else in the market, or in the house. They are common prostitutes.
 
-Inspector Grapes examined: The inhabitants of the Corn Market are frequently making complaints of the nuisance created by these girls at late heurs, and one of them has been committed for it, but it is of uo use talking to them. These offences recur frequently, and on this occasion, you could hear their screams clear down to the Market House.
+Inspector Grapes examined: The inhabitants of the Corn Market are frequently making complaints of the nuisance created by these girls at late hours, and one of them has been committed for it, but it is of no use talking to them. These offences recur frequently, and on this occasion, you could hear their screams clear down to the Market House.
 
 Defendants said they were not intoxicated, and that they never screamed. They were only enjoying a laugh together.
 

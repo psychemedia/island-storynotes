@@ -2,11 +2,18 @@
 
 Hopeful of the new St. Thomas' Church being completed before the Advent season of 1856, a date for the consecration of the Church appears to have been originally set for November 25th. But as with any building project, it seems that this date was perhaps a little ambitious.
 
+```{admonition} Church opening postponed, November 1856
+:class: dropdown
+[Hampshire Advertiser - Saturday 01 November 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18561101/057/0008)
+
+NEWPORT, Saturday, Nov. 1. The Reopening of St. Thomas's Church. is postponed for a fortnight, in consequence of the elaborate nature of the work connected with the erection of the pulpit and reading-desk, and some other parts of the interior ; but Mr. Dashwood, the builder, has guaranteed that the edifice shall be ready for consecration by the 11th of December next ; so that it will now be about Monday, the 15th, that the consecration will take place, subject to arrangements of the Bishop of Winchester as to the day.
+```
+
 ```{admonition} Consecration date postponed, November 1856
 :class: dropdown
 [Isle of Wight Observer - Saturday 08 November 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18561108/015/0003)
 
-St. Thomas's Church.—The consecration of this beautiful edifice, which was to have taken place the 25th inst., is postponed for another fortnight, in consequence the elaborate nature of the work to be completed rendering it impossible to be advanced sufficiently far before that time. 
+St. Thomas's Church.— The consecration of this beautiful edifice, which was to have taken place the 25th inst., is postponed for another fortnight, in consequence the elaborate nature of the work to be completed rendering it impossible to be advanced sufficiently far before that time. 
 
 ```
 

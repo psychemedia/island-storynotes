@@ -248,7 +248,7 @@ It would be easy, but it is needless, to multiply similar testimonies to an inst
 
 Truth, however, loses nothing by enquiry, as pure gold suffers no diminution in the fire. The ultimate sufferers by calumny are the unhappy authors of it themselves.
 
-The unseemly attacks which have been lately renewed will assuredly redound to the honour of the Clergy Daughters' School and its excellent Founder ; and the more that the lapse of time and the progress of enquiry shall elicit the truth of the case, the more will the kind friends and supporters of the institution find reason to be satisfied that the good effected by means of their generous aid, is extensive, valuable, and permanent ; and that, whoever may disparage his labours, or asperse his character, the Rev. Mr. Carus Wilson will be abundantly justified and richly honoured when all who have benefitted by his works of love shall rise up for ever and call him blessed.
+The unseemly attacks which have been lately renewed will assuredly redound to the honour of the Clergy Daughters' School and its excellent Founder ; and the more that the lapse of time and the progress of enquiry shall elicit the truth of the case, the more will the kind friends and supporters of the institution find reason to be satisfied that the good effected by means of their generous aid, is extensive, valuable, and permanent ; and that, whoever may disparage his labours, or asperse his character, the Rev. Mr. Carus Wilson will be abundantly justified and richly honoured when all who have benefited by his works of love shall rise up for ever and call him blessed.
 
 HENRY SHEPHEARD, M.A.,
 Casterton Parsonage,

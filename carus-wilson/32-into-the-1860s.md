@@ -57,7 +57,46 @@ A LIVELY NYMPH.
 Sarah Coster, a common prostitute, was placed at the bar for being drunk and creating a disturbance in the street on Saturday night last. Police-constable Lockhart having proved the fact defendant was committed to Winchester for one month.
 ```
 
-Many of the Court reports suggest a picture of what the comings and goings of life in the streets of Newport must have been like.
+Elsewhere in the environs of Newport, the Revd. W. Carus Wilson was still using sermons in support of fundraising efforts, this time for the Carisbrooke infant school.
+
+```{admonition} Sermons were preached, April 1857
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18570425/048/0007
+Hampshire Advertiser - Saturday 25 April 1857
+
+Sermons were preached on Sunday last at Carisbrooke Church, by the Rev. Carus Wilson, M.A., in aid of the fund for supporting the Infant School connected with that parish, when about £12 was collected.
+```
+
+Three weeks or so later, Revd. W. Carus Wilson's son, the Revd. W. W. Carus Wilson, could also be seen preaching on the Island, with his father giving a lecture the following week.
+
+```{admonition} The Progress of Morality and Religion, June 1857
+:class: dropdown
+[Isle of Wight Mercury - Saturday 06 June 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18570606/049/0003)
+
+NEWPORT
+
+St. John's Church.— On Sunday last two Sermons were preached at this place of worship, for the benefit of the Day Schools in connection therewith, by the Rev W. W. Carus Wilson, M.A., well known as a writer of popular tracts, and whose father established several charitable institutions,—one at Cowan Bridge, in Westmoreland, which Charlotte Bronte, the authoress of "Jane Eyre", was educated. Collections were made after each service, which were of a satisfactory character. The Day Schools in connection with St. John’s Church contain 327 children, and, from their usefulness, are worthy the extended appreciation of the public.
+
+Lecture.— A lecture will be delivered on Monday evening next, at 7 o'clock, in the Queen's rooms, by the Rev. W. Carus Wilson, " the Progress of Morality and Religion in the Sardinian, French, and English Armies ; and with special reference to the important subject of Temperance." George Hale, Esq., governor of Parkhurst Penitentiary, has kindly consented to take the chair. The meeting is specially intended for soldiers, but the public will be accommodated as far as possible.
+```
+
+Meanwhile, many of the Court reports suggest a picture of what the comings and goings of life in the streets of Newport must have been like.
+
+```{admonition} Sleight of hand, and a pocket picked by one "as innocent a child unborn !", June 1857
+:class: dropdown
+[Isle of Wight Mercury - Saturday 06 June 1857](https://britishnewspaperarchive.co.uk/viewer/BL/0001417/18570606/048/0002)
+
+NEWPORT BOROUGH POLICE.
+
+[Monday.— Before the worshipful the Mayor (W. B. Mew, Esq.), and H. Way, Esq.,]
+
+Sleight of Hand-tricks.— James Rowan, a member of the wizard fraternity, was charged with conjuring a half-crown, by manipulations best known to himself and fellow-craftsmen, from the pocket of Andrew Attrill, and was convicted and sentenced to one week’s imprisonment. Two other charges were brought against the prisoner— one for mysteriously exorcising a half-crown from the pocket of Mr. French, of the Rose and Crown; and another for securing to himself a half-sovereign by some peculiar, but discreditable means,——neither of which charges, however, were gone into.
+
+[Tuesday.— Before R. M. Wavell, Esq. (in the chair), and J. H. Hearn, Esq.]
+
+Injured Innocent.— William Spencer, a well-dressed young fellow with a fair amount of impudence, was charged by Edward Keary, lacemaker, residing near Coppin’s-bridge, with attempting to pick his (Keary’s) pocket, on Monday, "in the fair." Prosecutor said that about ten o’clock on the Monday night he was standing on the pavement outside a crowd of persons who had assembled in Quay-street, to witness the performance of a "little show." He stood with both hands in his pockets, and suddenly discovered a hand, which he knew was not his own, groping about in the vicinity of one of them. He turned round, and saw the prisoner walking off very fast down the street, prosecutor followed him to the Fountain Inn, where he gave prisoner in charge. Mr. Hearn asked whether prisoner came up behind the prosecutor, and whether the latter was satisfied the contiguity of prisoner's hand, to his (prosecutor's) pocket, was not the result of the rush. Mr. Keary answered in the affirmative, and was satisfied as to his attempt to pick his pocket. The Prisoner: Why, people never goes *behind* to endeavour to pick pockets —they always goes *before*. (A laugh.) James Wood, gardener, living in Pyle-street, corroborated the evidence of the last witness in every particular, and persisted in alluding to that individual, in addressing the prisoner as "that gentleman," with which the latter seemed somewhat pleased, satisfied that he had produced an effect on the Bench in his favour. The sequence, however, proved the supposition chimerical in the highest degree. Mr. Superintendent Grapes deposed to taking prisoner into custody, and stated, that he (prisoner) told him, in answer to enquiries, that he was a ship carpenter, and had come from Manchester. He had in his possession 6s. 6d. in silver, and 6 1/2d. in copper. Prisoner, in his defence, said he was "as innocent a child unborn !" and, as a guarantee of his respectability assured the Bench that he was of good family —his father being studgroom to the Hon. Francis Peters, —and he could refer them to "the Hon. Mr. Ashton, and Mr. Sidebotun" for a character, if they doubted his word. The Bench *did* doubt his word, and evinced their doubt thereof by sending him to prison for one month, and to be kept to hard labour,—a decision which the prisoner said he was "very sorry for, seeing as he was so innocent!"
+
+```
 
 ```{admonition} Very drunk at the time, March 1858
 :class: dropdown
@@ -140,7 +179,7 @@ The following account of a disorderly house also paints its own picture of what 
 :class: dropdown
 [Hampshire Telegraph - Saturday 19 March 1859](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18590319/025/0006)
 
-Borough Court, Monday— Before the Mayor, R. M. Wavell and E. W;ty, Esqrs.
+Borough Court, Monday— Before the Mayor, R. M. Wavell and E. Way, Esqrs.
 
 John Chick, a German, was charged with keeping a disorderly house and encouraging prostitution therein. P.C. Stubbs proved that on Sunday morning, the 6th inst., he went to the defendant's beershop, in the High-street, about quarter-past one, when he found in the parlour three of the band of the Limerick Militia, a serjeant, and a civilian. In the passage he found another civilian, lying drunk on the floor with a common prostitute by his side. In one bed-room which the landlady unlocked he found two civilians and two prostitutes, in another bed-room one civilian and one prostitute, two civilians in another room, and another prostitute down stairs, most of whom were well supplied with beer. Defendant said he went to bed at eleven o'clock, and knew nothing about the matter. The Court said his conduct had been disgraceful, and they should fine him in the penalty of 3l. and costs, cautioning him that if he ever came there again he would not be let off so easily.
 ```
@@ -174,7 +213,7 @@ Caroline Pierce, Sarah Harvey, and Mary Ann Groundsell, three veiled young ladie
 
 P.C. Grey examined: Last Wednesday night, about a quarter to eleven, I was standing in front of the Market House, when I heard some disgraceful screeching and screaming in the Corn Market. I went in that direction, when I saw these women standing under the portico of the Newport Arms. One of them said, " Here comes the policeman," and then they turned about, and went in to the Newport Arms, and I went in and saw who they were. They were not sober, either of them, and there was no one else in the market, or in the house. They are common prostitutes.
 
-Inspector Grapes examined: The inhabitants of the Corn Market are frequently making complaints of the nuisance created by these girls at late heurs, and one of them has been committed for it, but it is of uo use talking to them. These offences recur frequently, and on this occasion, you could hear their screams clear down to the Market House.
+Inspector Grapes examined: The inhabitants of the Corn Market are frequently making complaints of the nuisance created by these girls at late hours, and one of them has been committed for it, but it is of no use talking to them. These offences recur frequently, and on this occasion, you could hear their screams clear down to the Market House.
 
 Defendants said they were not intoxicated, and that they never screamed. They were only enjoying a laugh together.
 
@@ -186,7 +225,7 @@ Not so lucky.
 
 Mary Ann Reed, Mary Ann Woodman, and Louisa Bannister, moving in class Z. 99, were charged with being drunk and disorderly in the public streets.
 
-P.C. Tiley examined : On Thursday night about half past ten, I was on duty in St. James's-street, when I saw these girls, with about fourteen soldiers, come out of the Lame Dog. They were beastly drunk, and they came up through the streets swearing and hallooing, and using the most disgraceful language. I should have locked them up then, but for so many soidlers. Bannister fell down several times from drunkenness. They are common prostitutes.
+P.C. Tiley examined : On Thursday night about half past ten, I was on duty in St. James's-street, when I saw these girls, with about fourteen soldiers, come out of the Lame Dog. They were beastly drunk, and they came up through the streets swearing and hallooing, and using the most disgraceful language. I should have locked them up then, but for so many soldiers. Bannister fell down several times from drunkenness. They are common prostitutes.
 
 Defendants said they were not drunk, and they never said nothink to nobody.
 
@@ -289,7 +328,7 @@ At the Borough Licensing Day of September 1869, it seems that town's citizenry h
 :class: dropdown
 [Hampshire Telegraph - Wednesday 01 September 1869](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18690901/019/0004)
 
-BOROUGH COURT.-Monday.-Before the Mayor (R. Pinnock, Esq.) and F. Pittis, and F. Vulliamy, Esqrs.— Liceasing Day.-After the clerk had read several extracts from the new Wine and Beerhouse Act. and from the Habitual Criminals Act, the Mayor said that the magistrates had received a memorial signed by 500 residents of the borough, of Newport. requesting them to refuse licenses to the landlords of those houses whichhad not beent properly kept. A great many complaints had been made of several publicans opening their houses on a Sunday before the proper time, and the magistrates had resolved for the future to be more strict with such houses. William Woodford, of the "Valiant Soldier," South-street, and Charles Morris, of the "Waggon and Horses," Crocker-street, having been complained of, the magistrates, in granting their licenses, informed the applcants that the police would be instructed to keep a watchful eye upon their houses. —...-Mr. Howes, of. the "Tontine" beershop, applied for and was refused his license because he had been fined three times during the past year for irregularities in his house. John Micffin was refused his license for the " Horse and Groom," Upper Pyle-street, from insufficiency of rating.—Henry James was refused his license for the "Orange Tree," Upper Pyle-street, for being twice convicted during the past year, and for the house not having been decently conducted. ...
+BOROUGH COURT.-Monday.-Before the Mayor (R. Pinnock, Esq.) and F. Pittis, and F. Vulliamy, Esqrs.— Liceasing Day.-After the clerk had read several extracts from the new Wine and Beerhouse Act, and from the Habitual Criminals Act, the Mayor said that the magistrates had received a memorial signed by 500 residents of the borough, of Newport. requesting them to refuse licenses to the landlords of those houses which had not been properly kept. A great many complaints had been made of several publicans opening their houses on a Sunday before the proper time, and the magistrates had resolved for the future to be more strict with such houses. William Woodford, of the "Valiant Soldier," South-street, and Charles Morris, of the "Waggon and Horses," Crocker-street, having been complained of, the magistrates, in granting their licenses, informed the applicants that the police would be instructed to keep a watchful eye upon their houses. —...-Mr. Howes, of. the "Tontine" beershop, applied for and was refused his license because he had been fined three times during the past year for irregularities in his house. John Micffin was refused his license for the " Horse and Groom," Upper Pyle-street, from insufficiency of rating.—Henry James was refused his license for the "Orange Tree," Upper Pyle-street, for being twice convicted during the past year, and for the house not having been decently conducted. ...
 
 ```
 

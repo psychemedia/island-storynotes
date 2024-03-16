@@ -364,7 +364,7 @@ life, for which I am now called to render account without
 delay to the most righteous Judge. At the time my father 
 went into voluntary exile, entrusting to me the duchy of 
 Normandy, I was a mere youth of the age of eight years, 
-and from that time to this I have always borne tlie weight 
+and from that time to this I have always borne the weight 
 of arms. I have now ruled this duchy fifty-six years,- 
 amidst the difficulties of incessant wars. My own subjects 
 have often conspired against me, and shamefully exposed me 
@@ -557,7 +557,7 @@ the duke passed. He rode so hard that six only of the men-at-arms who
 formed his escort when he left Valognes were with him when he arrived 
 before Arques. 
 
-^ This revolt occurred in the year 1053, Furtlier details will be found 
+^ This revolt occurred in the year 1053, Further details will be found 
 in the narratives of William of Jumieges and Wace. 
 
 * For Maurilius, archbishop of Rouen, see before p. 1G4, and his 
@@ -744,7 +744,7 @@ I became in consequence an object of jealousy to all my
 neighbours, but by His aid in whom I always put my trust, 
 none of them were able to prevail against me. The Bretons 
 and Anjevins have found this ; the French and Flemings 
-are witnesses of it ; tlie Manceaux have severely felt it. 
+are witnesses of it ; the Manceaux have severely felt it. 
 
 " Geoffrey Martel, count of Anjou,^ Conan, duke of 
 Brittany,^ and Eobert the Frisian, count of Flanders,^ 
@@ -875,7 +875,7 @@ will be truly wretclied. He is a proud and silly prodigal,
 and will have long to sufier severe misfortune. 
 
 ^ It has been already remarked that the nomination of Robert to 
-tlie succession of the duchy was made at least as early as 10G3. See 
+the succession of the duchy was made at least as early as 10G3. See 
 before, p. 14. 
 
 . ^ Epitumo, query epithymnm f a word found only in our author's work, 
@@ -944,7 +944,7 @@ of the dying prince, together with the nobles who had come to visit him, took an
 
 When Robert, earl of Morton, heard that by the king's decision his brother was condemned to perpetual imprison- ment he was much distressed. Herluin de Conteville^ had married Harleve, the concubine of Duke Eobert, by whom he had two sons. Odo and Eobert. AVilliam, who was first duke and afterwards king, had heaped honours and posses- sions on his father-in-law both in Kormandy and England, and had enriched with large domains his sons, Ealph, b
 
-of anotlier w'ife/ and Eobert and Odo, his own uterine brothers. For having expelled from Normandy on slight pretences William, surnamed Werlenge, count of Morton, son of Count Mauger,^ he had conferred the county of Mor- ton on Eobert, son of Herluin, and thus his own brother. Moreover, on the death of Hugh, bishop of Bayeux, son of Count Mauger,^ he gave that bishopric to his brother Odo, whom he afterwards made earl of Kent in England. At length, King William arrested him in the Isle of "Wight,* on account of his overweening pride, as I have before fully related, and having detained him four years in prison, was unwilling, such was the insolence of Odo, to release him even when he was himself at the point of death. In consequence, the earl of Morton, of whom I have lately spoken, was sorely afflicted, and, by his own supplications and those of his friends on behalf of his brother, wearied the suffering prince.
+of another wife/ and Eobert and Odo, his own uterine brothers. For having expelled from Normandy on slight pretences William, surnamed Werlenge, count of Morton, son of Count Mauger,^ he had conferred the county of Morton on Eobert, son of Herluin, and thus his own brother. Moreover, on the death of Hugh, bishop of Bayeux, son of Count Mauger,^ he gave that bishopric to his brother Odo, whom he afterwards made earl of Kent in England. At length, King William arrested him in the Isle of "Wight,* on account of his overweening pride, as I have before fully related, and having detained him four years in prison, was unwilling, such was the insolence of Odo, to release him even when he was himself at the point of death. In consequence, the earl of Morton, of whom I have lately spoken, was sorely afflicted, and, by his own supplications and those of his friends on behalf of his brother, wearied the suffering prince.
 
 The king was exhausted by the numerous solicitations from so many quarters for the release of the bishop of Bayeux ; but at length he said : " I wonder that your penetration has not discovered the character of the man for whom you supplicate me. Are not you making petitions for a prelate who has long held religion in contempt, and who is the subtle promoter of fatal divisions ? Have I not already incarcerated for four years this bishop, who when he ought to have proved himself exemplary in the just government of England, became a most cruel oppressor of the people, and destroyer of the convents of monks? In desiring the liberation of this seditious man, you are ill-advised, and are bringing on yourselves a serious calamity. It is clear that my brother Odo is a man not to be trusted, ambitious, given to fleshly desires, and of enormous cruelty ; and that he will never be converted from his whoredoms and ruinous follies, I satisfied myself of this on several occasions, and therefore I imprisoned, not the bishop, but the tyrannical
 

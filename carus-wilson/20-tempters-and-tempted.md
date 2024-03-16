@@ -82,7 +82,7 @@ The Reported Immoral State of the Inhabitants of Newport
 The Worshipful the Mayor rose and said, there was one painful matter affecting the interests of the town which he considered it his duty, as their chief Magistrate, to bring before the Council. His feelings had been lately shocked on finding that a disgusting pamphlet, entitled, "Tempters and Tempted," had been industriously circulated about the town, and by one means and the other had found its way into almost every house ; and he was sure he was sharing the feelings of every, rightminded head of a household, when he said that such vile slander against their town as was therein contained ought to be emphatically and publicly protested against— (hear, hear). He could not express the indignation he felt on learning its contents, and finding that everyone in his house, excepting his wife, had read its contaminating pages; and greatly astonished was he to find that those tracts had been placed in the hands of the children of their Church Sunday and other schools by females— he would not say by ladies. He would ask if expressions such as these— "Your town is on fire with the flames of licentiousness and lust" — were fit for the minds of tender children to dwell upon? And were they not a gross insult, and a libel on the inhabitants of the town ? And by whom was this shameful tract written? Not by one of the pastors or ministers of the town, but by a non-resident, who had nothing whatever to do with the town, assisted by another meddling, troublesome busybody, who, he should think, would be far better employed in his business at the Prison at Parkhurst. The parties to the tract were Carus Wilson and Henry Smith; that was an undisguised fact, and the stigma with which the town had been branded would doubtless be most pernicious to the interests of it ; and he did say they (the Corporation) ought to do all in their power to destroy its baneful influence. The assertions in it respecting the general depravity and debauchery of our town were infamously false.
 ```
 
-In a report a week later, it seems that the Revd, Henry Smith was not so keen to be recognised as sharing responsibility for the tract.
+In a report a week later, it seems that the Revd, Henry Smith was *not* so keen to be recognised as sharing responsibility for the tract.
 
 ```{admonition} The Meeting of last week and the Tabooed Tract, February 1856
 :class: dropdown seealso
@@ -101,7 +101,7 @@ In passing, I note that it was another Henry Smith, a certain *Captain* Henry Sm
 
 ```
 
-Back in the earlier council report, a stout defence of Newport not being as bad as other garrison towns was also reported.
+Back in the council report, a stout defence of Newport not being as bad as other garrison towns was also reported.
 
 ```{admonition} Less average disease than elsewhere
 :class: dropdown
@@ -109,7 +109,7 @@ Back in the earlier council report, a stout defence of Newport not being as bad 
 There was not a garrison town in England that was so free from the charge as Newport— (hear, hear), and he had it from undoubted authority that there had always been less average disease in the Garrison at Parkhurst than at any other, arising from such vicious habits as are imputed to our town. He would, therefore, once again say, that these infamous and unfounded assertions respecting their borough ought to be thus publicly denounced— (hear, hear).
 
 
-In this report, a Mr. Pinnock lays a charge against certain members of the magistracy that they already new how bad things were.
+In this write-up of the meeting, a certain Mr. Pinnock also lays a charge against certain members of the magistracy that they already new how bad things were.
 
 ```{admonition} The shocking state of morals was no surprise
 :class: dropdown
@@ -185,8 +185,19 @@ After a desultory conversation it was agreed that the Mayor be empowered to writ
 The outcome of the council meeting was that the Mayor should write to the author of the *Tempters and Tempted* tract, the Revd. Carus Wilson, repudiating the claims made against Newport in that tract.
 
 ```{warning}
-I still haven't found a copy of the Mayor's letter, or a copy of its contents, from the mayor to Carus Wilison,  but it seems that it provoked a rapid, and very public, reponse from the Rev. Carus Wilson in the form of another tract.
+I still haven't found a copy of the Mayor's letter, or a copy of its contents, from the mayor to Carus Wilison,  but it seems that it provoked a rapid, and very public, response from the Rev. Carus Wilson in the form of another tract with *"additional invectives and personal charges"*. I haven't tracked down a copy of that second tract either.
+
 ```
+
+The letter was duly written, but rather than the hoped for retraction, is seems that Carus Wilson double downed, and wrote *another* tract, with more condemnatory 
+```{admonition} A reply to letter of the Mayor, February 1856
+:class: dropdown
+[Hampshire Telegraph - Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18560223/014/0004)
+
+In consequence of the resolution of the Newport Town Council, J. H.Hearn, Esq., Mayor, wrote a letter of remonstrance to Rev. Carus Wilson, denying the truth of the charges brought against the morality of the Borough in his tract " The Tempters and Tempted." Large bills arrived in Newport from Ventnor on Thursday, announcing a reply to letter of the Mayor, to be sold at 2d. each, in which there is not only no retraction of the former scandal, but additional invectives and personal charges. We understand that legal proceedings will be taken forthwith against  Mr. Wilson, and a caution has been issued by Mr. James Eldridge, Town Clerk, that the pamphlet entitled "A Letter to the Mayor of Newport," contains a libel, and any person distributing or otherwise publishing such Pamphlet will be prosecuted.
+```
+
+Adverts publicising the sale of the letter were also published.
 
 ```{admonition} Just Published, A Letter to the Mayor of Newport, February 1856
 :class: dropdown

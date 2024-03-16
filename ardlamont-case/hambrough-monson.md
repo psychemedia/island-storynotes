@@ -335,7 +335,7 @@ Mr Monson's brother, and Steven, the factor, arrived at Tignabruaich just after 
 
 ```
 
-Although now under arrest, it seems as if Monson was still enjoying the comforts of life, even as questions were being asked about the state of the insurance policies and the extent to which he may or may not have benefitted from them:
+Although now under arrest, it seems as if Monson was still enjoying the comforts of life, even as questions were being asked about the state of the insurance policies and the extent to which he may or may not have benefited from them:
 
 ```{admonition} *THE INSURANCE QUESTION*, Dundee Courier, Friday 01 September 1893
 :class: dropdown
