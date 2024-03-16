@@ -241,7 +241,6 @@ Literary and Scientific Institution.— A lecture was delivered on the 22d inst.
 ```
 
 In passing, from this first annual report of the Portsea Island Young Men's Christian Association in October 1857, it seems as if Carus Wilson must was also more than happy to support the activities of other evangelical groups, particularly if targeted at young men, even if they were civilians.
-```
 
 ```{admonition} Thanks to Carus Wilison for his donation, October 1857
 :class: dropdown
