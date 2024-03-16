@@ -189,7 +189,8 @@ I still haven't found a copy of the Mayor's letter, or a copy of its contents, f
 
 ```
 
-The letter was duly written, but rather than the hoped for retraction, is seems that Carus Wilson double downed, and wrote *another* tract, with more condemnatory 
+The letter was duly written, but rather than the hoped for retraction, is seems that Carus Wilson double downed, and wrote *another* tract, with more condemnatory accusations.
+
 ```{admonition} A reply to letter of the Mayor, February 1856
 :class: dropdown
 [Hampshire Telegraph - Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18560223/014/0004)
@@ -210,6 +211,17 @@ A LETTER TO THE MAYOR OF NEWPORT, in Reply to his Letter of Remonstrances regard
 "Whether it be right in the sight of God to hearken unto you more than God, judge ye. For we cannot but speak the things which we have seen and heard."—Acts iv., 19, 20.
 
 Also, TEMPTERS AND TEMPTED, a Tract, by the Rev. W CARUS WILSON. Price 1d, or 12 copies free by post, 2s. Published by Thomas Butler, Bookseller, Ventnor, Isle of Wight ; and Sold by Batchelor, Bookseller, Portsmouth; Sharland, Southampton ; Wayland, Ryde ; Pinhorn, Cowes ; and by all Booksellers at Newport.
+
+```
+
+That same week, Carus WIlson could be found attending a meeting of the Protestant Reformation Society in Ventnor.
+
+```{admonition} One of the most interesting meetings ever held in Ventnor, February 1856
+:class: dropdown
+
+[Isle of Wight Observer - Saturday 23 February 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18560223/009/0003)
+
+Protestant Reformation Society.— A public meeting in behalf this society was held at the Institution on Tuesday evening, the Rev. J. N. Coleman in the chair. The meeting was opened by prayer by the Rev. W. Carus Wilson. The first speaker was the Rev. M. Clementson, the secretary, who stated the objects of the society. The Rev. Dr. Cumming, in his usual talented manner, spoke at a considerable length, and greatly interested the audience. The next speaker was the Rev. J. Rogers, of the Irish Church Missionary Society, followed by the Rev. W. Carus Wilson, who closed the meeting. This was one of the most interesting meetings ever held in Ventnor, and the room was crowded to excess. The next morning another meeting was held at the same place, for the same object, and the meeting was equally interesting and well attended. Sunday next sermons will preached in behalf of the same society by the Rev. M. Clementson, at Ventnor Church in the morning and evening, and at Bonchurch Church in the afternoon. 
 
 ```
 
