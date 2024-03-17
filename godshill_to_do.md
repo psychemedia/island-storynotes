@@ -103,14 +103,13 @@ twisted off many of its disagreeable angles, and added beauty to its Gothic appe
 from its having been struck by lightning in
 the year 1778, when great damage was done to it. This church was anciently
 appropriated to the abbey of Lyra,in Normandy .
-Upon our entering the porch [to the Church] we obſerv ed abſtracts from ſeveral acts of parliament
-fixed againſt the door, and among them one that excited both our curioſity and ri
-fibility ; - it was from an act made in the
-ſeventh of James the Firſt , which enacts,
+Upon our entering the porch [to the Church] we observed abstracts from several acts of parliament
+fixed against the door, and among them one that excited both our curiosity and risibility ; - it was from an act made in the
+ſeventh of James the First , which enacts,
 that every female who unfortunately in
-trudes on the pariſh a ſecond illegitimate
-child , ſhall be liable to impriſonment and
-hard labour in Bridewell for ſix months.
+trudes on the pariſh a second illegitimate
+child , shall be liable to imprisonment and
+hard labour in Bridewell for six months.
 · Now as the number of females on this
 iſland much exceeds that of the males; and
 as, from the mild temperature of the cli
@@ -123,12 +122,11 @@ tice.
 We found it was not very unuſual here for the young men , from the deficiency of numbers juſt ſpoken of, to pay their devoirs
 to more than one young woman at a time ;
 and as it is not poſſible for him legally to
-unite himſelf to all of them , he generally
-beſtows his hand on her who had firſt pre
+unite himself to all of them , he generally
+beſtows his hand on her who had first pre
 ſented him with a pledge of their love .
-This, however , is ſeldom done till the ap
-proach of a ſecond pledge from the ſame
-perſon renders ſuch an act of compaſſion
+This, however , is seldom done till the approach of a second pledge from the same
+person renders such an act of compassion
 needful, in order to avoid the conſequences
 of the tremendous anathema fixed on the
 church door.

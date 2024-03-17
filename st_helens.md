@@ -172,14 +172,14 @@ https://archive.org/details/tourislewightdr00hassgoog
 
 Hassell vol 2 1790, p33 St Helens
 Outward - bound ſhips not only take in
-their poultry, & c .here, but likewiſe their water ; which is found to be preferable to that of moſt other parts. Eaſt Indiamen
-have been known to carry it to their deſtin ed ports, and bring ſome of it back , in as Vol. II . ſweet
+their poultry, & c .here, but likewiſe their water ; which is found to be preferable to that of most other parts. East Indiamen
+have been known to carry it to their destined ports, and bring some of it back , in as Vol. II . ſweet
 ( 34 )
-ſweet a ſtate as when taken from the ſpring .
-And it has this further advantage,that when at ſea , it recovers itſelf ſooner than any
+sweet a state as when taken from the spring .
+And it has this further advantage,that when at sea , it recovers itself sooner than any
 other .
-Near the [Nettlestone] priory ſeveral falt-works are eſtabliſhed , which for convenience exceed
-the general run of theſe works.
+Near the [Nettlestone] priory several salt-works are established , which for convenience exceed
+the general run of these works.
 
 
 https://www.countypress.co.uk/news/18185002.isle-wight-childhood-home-pink-panther-actor-david-niven-sale----price-tag-almost-1-million/

@@ -220,7 +220,7 @@ ashore. What then occurred is not clear. The story goes that certain persons wou
 i3i3> ** Association of John Randolph, with Thomas de Warblinton,
 July 24. John de Grymstede, and John le Flemyng, in a Commission of Westminster, oyer and terminer issued touching a complaint by Elcas Biger, Frederick Campanare, and Bernard de Columers, merchants
 of the Duchy of [Aquitaine]. They had freighted a ship called the St. Mary
-of Bayonne, with 174 tuns of white wine at the town of Tormay, on the river Charrante^ in Poitou, for conveyance to England, and on the voyage the vessel was driven ashore on the coast of the Isle of Wight, where the wine was seized as * wreck of sea * by divers men of the county of Southampton, notwithstand- ing that many of the mariners escaped alive to the land.’* 1 The other side of the story is related ten months later in the same
+of Bayonne, with 174 tuns of white wine at the town of Tormay, on the river Charrante^ in Poitou, for conveyance to England, and on the voyage the vessel was driven ashore on the coast of the Isle of Wight, where the wine was seized as *wreck of sea* by divers men of the county of Southampton, notwithstanding that many of the mariners escaped alive to the land.’* 1 The other side of the story is related ten months later in the same
 series of Rolls :
 —
 1314. “ Commission of Oyer and Terminer to Master John de Everesdon May 26. and John de Westecote, on complaint by John Besecu that, whereas
@@ -469,8 +469,8 @@ the ji^iooo by which Henry Tyeys lately made fine for trespasses
 against the King, Edward, earl of Chester, in the Isle of Wight of which he
 was convicted. . .
 .**3
-As the commerce between the continent and the mainland increased in volume this asset must have become much more valuable. It possibly explains the effort the early manorial lords ceem to have made to secure a sea-frontage on the exposed south side of the Island, however con- tracted the area might be.
-The phrase “ flotsam and jetsam ” is often used, but the true mean- ing is not always fully understood. In order to constitute a legal wreck the goods must come to land. If they continue at sea the law distin- guishes them by tHb above terms. “ Jetsam ” is applied where goods are cast into the sea, and there sink and remain under water; “flot- sam,” where the goods continue floating on the surface of the waves, and a third term, “ ligan,” where they are sunk in the sea, but tied to a cork or buoy to be found again, a mode of procedure endeared to the heart of many a bygone smuggler.
+As the commerce between the continent and the mainland increased in volume this asset must have become much more valuable. It possibly explains the effort the early manorial lords ceem to have made to secure a sea-frontage on the exposed south side of the Island, however contracted the area might be.
+The phrase “ flotsam and jetsam ” is often used, but the true meaning is not always fully understood. In order to constitute a legal wreck the goods must come to land. If they continue at sea the law distin- guishes them by tHb above terms. “ Jetsam ” is applied where goods are cast into the sea, and there sink and remain under water; “flot- sam,” where the goods continue floating on the surface of the waves, and a third term, “ ligan,” where they are sunk in the sea, but tied to a cork or buoy to be found again, a mode of procedure endeared to the heart of many a bygone smuggler.
 The following deed is of interest, as showing that some of the rights claimed by the “ Lords of the Island ” in early days still appertained to the later governorship ;
 “ An agreement between Richard Worsley, Captaine of the Isle of Wight, and certyn Merchaunts of London, concerning Goods wrecked on the Island, 35 Henry VIII (1544)*
 
