@@ -2,85 +2,12 @@
 
 In the biography of Currer Bell, née Brontë, published in *Sharpe's London magazine* in 1855., the author describd how Charlotte Brontë was *"placed at the clergy school Cowan Bridge .., [thence] described to the life in "Jane Eyre."*
 
+The proposal to open the school, along with a request for offering support by subscription and an invitation to recommend potential entrants to the new school, was widely syndicated in northern newspapers in November 1823.
 
+```{admonition} School for Clergymen's Daughters, November 1823
+:class: dropdown
 
-
----
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18231025/007/0003
-Westmorland Gazette - Saturday 25 October 1823
-
-Clergyman's Daughters.— A Society is forming Lancaster, whose object is to establish a school, upon an extensive scale, the education at a cheap rate of the daughters of Clergymen whose livings do not afford the means of provision for their famiilies. The chief mover in this benevolent undertaking is the Rev. W. Carus Wilson, vicar of Tunstal.
-
-
----
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0002243/18250611/015/0001
-Baldwin's London Weekly Journal - Saturday 11 June 1825
-
-PREFERMENTS
-
-A dispensation has passed the great seal for the Rev. Wm. Carus Wilson, M.A., chaplain to H.R.H. the Duke of Sussex, to hold the rectory of Whittington with the vicarage of Tunstall ; and on the 16th ult., the Lord Bishop of Chester instituted the Rev. Wm. Carus Wilson to the rectory of Whittington, on the presentation of W. W. Carus Wilson, Esq., M.P.
-
-
---
-Friendly visitor eg The Friendly Visitor, Volumes 4-6
-https://books.google.co.uk/books?id=NjkEAAAAQAAJ
-
-THE  
-FRIENDLY VISITOR,  
-PUBLISHED IN  
-MONTHLY TRACTS,  
-DURING THE YEAR  
-1822.  
-BY THE REV. WILLIAM CARUS WILSON, M. A.  
-VICAR OF TUNSTALL;  
-And Chaplain to His Royal High?ess the Duke of Sussex. 
-
-VOL. IV.  
-“Much good may be done this way to considerable numbers at once, in an acceptable manner, at a trifling expense."— SECKER.  
-KIRKBY LONSDALE:  
-PRINTED AND SOLD BY A. FOSTER.  
-ALSO IN LONDON BY L. B. SHELBY, 169 FLEET STREET, AND ALL OTHER BOOKSELLERS:  
-Of whom may be had complete Sets, or Numbers to make the Sets complete.  
-The Profits will be devoted to charitable purposes.
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18251001/027/0001
-Westmorland Gazette - Saturday 01 October 1825
-
-JUST PUBLISHED,  
-Price One Shilling,  
-A SERMON , Preached in the Parish Church of Lancaster, at the Primary Visitation of the Bishop of Chester, and Published at the request of his Lordship and the Clergy.
-
-By the Rev. W. Carus Wilson, M, A. Rector of Vicar of Tunstal, and Chaplain to His Royal Highness the Duke of Sussex.
-
-Sold by Miller, Lancaster; Clarke, Manchester; Clarke Preston ; Branthwaites, Kendal; and all the Boooksellers.
-
-Of whom may be had by the the same.
-
-Sermons, Two Volumes, price 10s.— The Friendly Visitor and Children's Friend, published monthly, price One Penny each.
-
-
---
-
-https://books.google.co.uk/books?id=YR0FAAAAQAAJ&pg=RA3-PA96
-
-The Children's Friend, June 1, 1864, pp. 95-6
-
-REV. W. CARUS WILSON. MA.
-
-THE name of the late Rev. W. Carus Wilson is a name bvlovcd, nut only amongst thousands of children, but amongst soldiers throughout the British army. Mr. Wilson commenced the "Children's Friend" in 1824, and, for upwards of a quarter of a century, zealously labuured for the welfare of the rising generation. During the later years of his life he spent a large portion of his time in promoting various efforts for lessening the temptations to vice which beset the soldier. The curse of intemperance especially he sought to remove from the barracks and camp, as he found that drink was the chief cause of soldiers getting into trouble. He invited soldiers to regard him as their friend, and consult him when needing advice. When regiments were about to leave England for India or the colonies, Mr. Wilson would visit the ships, and distribute books and tracts for the soldiers to read during the long voyage. For some years prior to his death, Mr. Wilson was in the habit of sending, monthly, hundreds of packets of tracts to suldiers, by post. In many a distant barrack-room of the Queen's dominions the handwriting of Mr. Wilson was familiar to both officer‘s and privates, and the receipt of "Mr. Wilson's monthly packet" was hailed with delight. When the hand of death removed him to a better world, it was feared that his "soldiers' work" would cease, but we rejoice to find that some members of his family continue to send the "monthly packets." As the expense of postage is heavy, help is solicited. Mrs. Shepheard, of Cove House, Silverdale, Lancasater (
-daughter of the late Mr. Wilson), will thankfully receive any contribution for this good work.
-
-
-![THE LATE REV. W. CARUS WILSON, MA. (THE SOLDIER'S FIREND)](images/carus_soldiers_friend.png)
-THE LATE REV. W. CARUS WILSON, MA. (THE SOLDIER'S FIREND)
-
----
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18231122/007/0003
-Lancaster Gazette - Saturday 22 November 1823
+[Lancaster Gazette - Saturday 22 November 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18231122/007/0003) and widely syndicated in other local papers.
 
 SCHOOL FOR CLERGYMEN'S DAUGHTERS.
 
@@ -88,9 +15,9 @@ IT has been a subject of regret amongst the friends of the Established Church, t
 
 In addition to the means already adopted, of administering to the wants of the poorer Clergy, a School is about to be opened for the Education of their Daughlers.
 
-Lancaster was fixed npon for the situation : but the treaty for the purchase of a house having failed, the attention was direcled to other quarters; and a very desirable property bas been purchased at Cowen Bridge, in the parish of TunstnlL The property will be immediately transferred to Trustees; thereby to guard against the uncertainties of the life of the projector; and to perpetuate the establishment for the benefit of those for whom it is designed.
+Lancaster was fixed upon for the situation : but the treaty for the purchase of a house having failed, the attention was direcled to other quarters; and a very desirable property bas been purchased at Cowen Bridge, in the parish of Tunstall The property will be immediately transferred to Trustees; thereby to guard against the uncertainties of the life of the projector; and to perpetuate the establishment for the benefit of those for whom it is designed.
 
-The honse will be enlarged and altered for the accommodation of sixty pupils: each girl is to pay £14 a year (half in advance) for clothing, lodging, boarding, and educating ; and £1 entrance towards the expense of books, &c. The education will be directed according to the capacities of the popils, and the wishes of their friends. In all cases, the great object in view will be their intellectual and religious improvement; and to give that plain and useful education, which may best fit them to return with respectability and advantage to their own homes, or to maintain themselves in the different stations of life to which Providence may call them. If a more liberal education is required for any who may be sent to be educated as teachers and governesses, an extra charge will probably be made.
+The house will be enlarged and altered for the accommodation of sixty pupils: each girl is to pay £14 a year (half in advance) for clothing, lodging, boarding, and educating ; and £1 entrance towards the expense of books, &c. The education will be directed according to the capacities of the popils, and the wishes of their friends. In all cases, the great object in view will be their intellectual and religious improvement; and to give that plain and useful education, which may best fit them to return with respectability and advantage to their own homes, or to maintain themselves in the different stations of life to which Providence may call them. If a more liberal education is required for any who may be sent to be educated as teachers and governesses, an extra charge will probably be made.
 
 In cases where the parents are unable to pay the whole of the annual sum of £14 (which unhappily must frequently occur) it id hoped that more affluent parishioners, and other friends who are locally interested in a Clergyman, will gladly avail themselves of this method of administering to his wants.
 
@@ -110,11 +37,7 @@ Tunstall Vicarage, November 1st, 1823.
 
 `[A list of donations by name and amount is then provided.]`
 
---
-
-
-
----
+```
 
 A more comprehensive treatment of the parallels between life at Cowan Bridge, and life at Lowood School in *Jane Eyre*, was provided a couple of years later in Mrs,Elizabeth Gaskells biography of Charlotte Brontë.
 
@@ -128,11 +51,11 @@ CHAPTER IV.
 
 ... [A] year or so before this time `["About a year after Mrs. Bronte's death,", i.e. 1821]`, a school had been begun in the North of England for the daughters of clergymen. The place was Cowan's Bridge, a small hamlet on the coach-road between Leeds and Kendal, and thus easy of access from Haworth, as the coach ran daily, and one of its stages was at Keighley. The yearly expense for each pupil (according to the entrance-rules given in the Report for 1842, and I believe they had not been increased since the establishment of the schools in 1823) was as follows : —
 
-" Rule 11. The terms for clothing:, lodging; boarding, and educating, are 14l. a year ; half to be paid in advance, when the pupils are sent ; and also 1l. entrance money, for the use of books, &c. The system of education comprehend? history, geography, the use of the globes, grammar, writing and arithmetic, all kinds of needlework, and the nicer kinds of household work — such as getting up fine linen, ironing, &c. If accomplishments are required, an additional charge of SI. a year is made for music or drawing, each."
+" Rule 11. The terms for clothing:, lodging; boarding, and educating, are 14l. a year ; half to be paid in advance, when the pupils are sent ; and also 1l. entrance money, for the use of books, &c. The system of education comprehend? history, geography, the use of the globes, grammar, writing and arithmetic, all kinds of needlework, and the nicer kinds of household work — such as getting up fine linen, ironing, &c. If accomplishments are required, an additional charge of 3l. a year is made for music or drawing, each."
 
 Rule 3d requests that the friends will state the line of education desired in the case of every pupil, having a prospective regard to her future prospects.
 
-Rule 4th states the clothing and toilette articles which a girl is expected to bring with her ; and thus concludes : " The pupils all appear in the same dress. They wear plain straw cottage bonnets, in summer white frocks on Sundays, and nankeen on other days; in winter, purple stuff frocks, and purple cloth cloaks. For the sake of uniformity, therefore, they are required to bring ol. in lieu of frocks, pelisse, bonnet, tippet, and frills ; making the whole sum which each pupil brings with her to the school —
+Rule 4th states the clothing and toilette articles which a girl is expected to bring with her ; and thus concludes : " The pupils all appear in the same dress. They wear plain straw cottage bonnets, in summer white frocks on Sundays, and nankeen on other days; in winter, purple stuff frocks, and purple cloth cloaks. For the sake of uniformity, therefore, they are required to bring 3l. in lieu of frocks, pelisse, bonnet, tippet, and frills ; making the whole sum which each pupil brings with her to the school —
 
 7l half-year in advance.  
 1l. entrance for books.  
@@ -143,8 +66,28 @@ The 8th rule is — " All letters and parcels are inspected by the superintenden
 There is nothing at all remarkable in any of the other regulations, a copy of which was doubtless in Mr. Bronte's hands when he formed the determination to send his daughters to Cowan's Bridge School ; and he accordingly took Maria and Elizabeth thither in July, 1824.
 ```
 
-```{admonition} TO DO 
+A satirical take in *Punch* magazine on the Governesses' Benevolent Institution that was formed twenty or so years later provides another view of what might be expected from such an institution.
+
+```{admonition} Governesses' Benevolent Institution: Preparatory School, *Punch*, 1846
+:class: dropdown seealso
+
+Punch, [Vol 10, 1846, p216](https://archive.org/details/sim_punch_1846_10/page/216/mode/2up).
+
+GOVERNESSES’ BENEVOLENT INSTITUTION.
+
+IN furtherance of the objects of this most useful charity, it is in contemplation to establish a School, for the purpose of preparing young ladies destined to be governesses, for the situations they are intended to fill. The necessity of teaching those who are to be teachers, and of instructing the governess how to govern, is obvious ; the pupils, accordingly, will learn all the modern languages and accomplishments— geography, astronomy, the use of the globes, and so much of moral philosophy as includes the true principles of education. But as the social position of a governess is a peculiar one, being, as anovelty, rather uncomfortable, though, like a certain process to which eels are subjected, nothing when anybody is used to it. One great object of this School will be to familiarise the pupils with the life they may expect to lead. Its arrangements will therefore comprise a system of training calculated for the inculcation of an amount of practical as well as moral philosophy adequate to this purpose.
+
+To the Institution will be attached a Servants' Hall, wherein, at stated times, will attend a number of footmen and other menials, to intercourse with whom the future governess may be habituated, and  whose insults and impertinences she may learn betimes to put up with. A nursery will also be connected with it, in order to exercise her patience in the management of refractory children, at which probation the students will take turns. The children will be selected from the most purse-proud families, and their mammas will drop in every now and then, daily, and reprimand and find fault capriciously and unjustly with their preceptress, so as to inure her to such treatmeat. Some charitable ladies of great style, in the vicinity of Russell-Square, have volunteered their services in this particular. One of these ladies will, moreover, preside regularly at dinner to teach the language of looks, that the learner may understand, from a glance, when she is to refuse wine, or to decline another helping. Evening parties will be given occasionally, in the schoolroom, and to them will be invited a number of agreeable men, that the " young persons" may know how to behave in society; that is, to hold their tongues and sit still. For the due enforcement of these proprieties, one of the ladies aforesaid will also be present, accompanied by her daughters, by whom the scholars are to be studiously snubbed, by way of a lesson to them in meekness under contumely. The novices, during leisure hours, are to sit in separate apartments, accessible to all the servants, who, however, will not be allowed to wait upon them, or bring them any refreshment, if hungry from the insufficiency of their meals. Their dresses are to be such as a young lady can afford upon twenty pounds a year, finding herself in everything but her victuals, and not having, by half, as much of those as she can eat.
+
+Thus, it may be hoped, will governesses be provided with qualifications high enough, wants few enough, and spirit humble enough, to meet the views of any lady in the land.
+
+```
+
+Gaskell's account continues TO DO
+
+```{admonition} Conflictimng evidence
 :class: dropdown
+
 I now come to a part of my subject which I find great difficulty in treating, because the evidence relating to it on each side is so conflicting that it seems almost impossible to arrive at the truth. Miss Bronte more than once said to me, that she should not have written what she did of Lowood in " Jane Eyre," if she had thought the place would have been so immediately identified with Cowan's Bridge, although there was not a word in her account of the institution but what was true at the time when she knew it ; she also said that she had not considered it necessary, in a work of fiction, to state every particular with the impartiality that might be required in a court of justice, nor to seek out motives, and make allowances for human feelings, as she might have done, if dispassionately analyzing the conduct of those who had the superintendence of the institution. I believe she herself would have been glad of an opportunity to correct the over-strong impression which was made upon the public mind by her vivid picture, though even she, suffering her whole life long, both in heart and body, from the consequences of what happened there, might have been apt, to the last, to take her deep belief in facts for the facts themselves— her conception of truth for the absolute truth.
 
 A wealthy clergyman, living near Kirby Lonsdale, the Reverend William Carus Wilson, was the prime mover in the establishment of this school. He was an energetic man, sparing no labour for the accomplishment of his ends, and willing to sacrifice everything but power. He saw that it was an extremely difficult task for clergymen with limited incomes to provide for the education of their children ; and he devised a scheme, by which a certain sum was raised annually in subscription, to complete the amount required to furnish a solid and sufficient English education, for which the parent's payment of 14l. a year would not have been sufficient. Indeed that made by the parents was considered to be exclusively appropriated to the expenses of lodging and boarding, and the education provided for by the subscriptions. Twelve trustees, were appointed; Mr. Wilson being not only a trustee, but the treasurer and secretary ; in fact, taking most of the business arrangements upon himself; a responsibility which appropriately fell to him, as he lived nearer the school than any one else who was interested in it. So his character for prudence and judgment was to a certain degree implicated in the success or failure of Cowan's Bridge School ; and the working of it was for many years the great object and interest of his life. But he was apparently unacquainted with the prime element in good administration — seeking out thoroughly competent persons to fill each department, and then making them responsible for, and judging them by, the result, without perpetual and injudicious interference with the details. So great was the amount of good which Mr. Wilson did, by his constant, unwearied superintendence, that I cannot help feeling sorry that, in his old age and declining health, the errors, which he certainly commit- ted, should have been brought up against him in a form which received such wonderful force from the touch of Miss Bronte's great genius. As I write, I have before me his last words on giving up the secretaryship in 1850 — he speaks of the " withdrawal, from declining health, of an eye, which, at all events, has loved to watch over the schools with an honest and anxious interest," — and again he adds, " that he resigns, therefore, with a desire to be thankful for all that God has been pleased to accomplish through his instrumentality (the infirmities and unworthinesses of which he deeply feels and deplores.)"
@@ -288,14 +231,10 @@ Note.— The substance of the above Review, in the shape of a letter, has appear
 
 
 
---
+```{admontion} TO DO 
+:class: dropdown
 
-https://archive.org/details/janeeyreautobiog11bron/page/238/mode/2up
-Jane Eyre : an autobiography
-by Brontë, Charlotte, 1816-1855
-
-Publication date 1847, vol. 1
-pp.238-9
+Charlotte Brontë, *Jane Eyre : an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/238/mode/2up), 1847, pp.238-9
 
 " I disliked Mr. Brocklehurst ; and I was not alone in the feeling. He is a harsh man ; at once pompous and meddling : he cut off our hair ; and, for economy's sake, bought us bad needles and thread, with which we could hardly sew."
 
@@ -304,18 +243,62 @@ pp.238-9
 " And was that the head and front of his offending 1 " demanded Mr. Rochester.
 
 " He starved us when he had the sole superintendence of the provision department, before the committee was appointed ; and he bored us with long lectures once a week, and with evening readings from books of his own inditing, about sudden deaths and judgments, which made us afraid to go to bed."
+```
 
----
+https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18290910/012/0003
+Worcester Journal - Thursday 10 September 1829
+
+DIED
+
+After a few days' illness, at the Clergy School, Cowen Bridge, Westmoreland, Mary, daughter of the Rev. William Tate, of Wednesbury, Staffordshire, aged 10.
 
 
-Punch, [Vol 10, 1846, p216](https://archive.org/details/sim_punch_1846_10/page/216/mode/2up).
+https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18331012/009/0003
+Lancaster Gazette - Saturday 12 October 1833
 
-GOVERNESSES’ BENEVOLENT INSTITUTION.
 
-IN furtherance of the objects of this most useful charity, it is in contemplation to establish a School, for the purpose of preparing young ladies destined to be governesses, for the situations they are intended to fill. The necessity of teaching those who are to be teachers, and of instructing the governess how to govern, is obvious ; the pupils, accordingly, will learn all the modern languages and accomplishments— geography, astronomy, the use of the globes, and so much of moral philosophy as includes the true principles of education. But as the social position of a governess is a peculiar one, being, as anovelty, rather uncomfortable, though, like a certain process to which eels are subjected, nothing when anybody is used to it. One great object of this School will be to familiarise the pupils with the life they may expect to lead. Its arrangements will therefore comprise a system of training calculated for the inculcation of an amount of practical as well as moral philosophy adequate to this purpose.
+CONSECRATION OF CASTERTON CHAPEL
 
-To the Institution will be attached a Servants' Hall, wherein, at stated times, will attend a number of footmen and other menials, to intercourse with whom the future governess may be habituated, and  whose insults and impertinences she may learn betimes to put up with. A nursery will also be connected with it, in order to exercise her patience in the management of refractory children, at which probation the students will take turns. The children will be selected from the most purse-proud families, and their mammas will drop in every now and then, daily, and reprimand and find fault capriciously and unjustly with their preceptress, so as to inure her to such treatmeat. Some charitable ladies of great style, in the vicinity of Russell-Square, have volunteered their services in this particular. One of these ladies will, moreover, preside regularly at dinner to teach the language of looks, that the learner may understand, from a glance, when she is to refuse wine, or to decline another helping. Evening parties will be given occasionally, in the schoolroom, and to them will be invited a number of agreeable men, that the " young persons" may know how to behave in society; that is, to hold their tongues and sit still. For the due enforcement of these proprieties, one of the ladies aforesaid will also be present, accompanied by her daughters, by whom the scholars are to be studiously snubbed, by way of a lesson to them in meekness under contumely. The novices, during leisure hours, are to sit in separate apartments, accessible to all the servants, who, however, will not be allowed to wait upon them, or bring them any refreshment, if hungry from the insufficiency of their meals. Their dresses are to be such as a young lady can afford upon twenty pounds a year, finding herself in everything but her victuals, and not having, by half, as much of those as she can eat.
+This Chapel has been built, as well for the convenience of the township of Casterton, containing a population of between 300 and 400, situated at a distance from the parish Church, only township, except Lupton, in the parish of Kirkby-Lonsdale, without a Chapel; is for the convenience of the Clergy Daughters' School, which is now removed from Cowen Bridge to Casterton. The confined and public situation of the Cowen Bridge premises, and the inconvenient distance from Leck Chapel, added to other weighty reasons, have led to the removal of the School. The present building affords double the accommodation of the old, under much better arrangements; and standing upon two acres of land, has the advantage of spacious play grounds: while the close contiguity of the new Chapel will be favourable to the regular attendance of the whole household on public worship.
 
-Thus, it may be hoped, will governesses be provided with qualifications high enough, wants few enough, and spirit humble enough, to meet the views of any lady in the land.
+The applications for admission into the School have of late been so numerous, that many have been obliged to be negatived ; and it is a satisfaction that the new arrangement have allowed of the number being raised from 90 to 100.
 
----
+The digging of the foundations commenced on the 11th of last February. The pupils entered on the new premises the 23d of last month ; and tbe Chapel was presented to the Lord Bishop of the Diocese for Consecration on Saturday last.
+
+...
+
+The whole arrangement of the school too, and the beautiful and healthy situation of it were much admired. It stands retired from the turnpike-road leading to Sedbergh, and yet is sufficiently near for all useful purposes. Gently elevated above the chapel, it commands very pleasing views of the vale of Lune, while the chapel is an interesting feature from the grounds. Excellent water is conveyed into every part of the house, and very efficient arrangements are made for hospital rooms, in case of infectious disorders Visiting the school.
+
+The whole of these works, including the removal of tbe school, and the building and endowing of tbe chapel, are completing at an expense of about £3000, towards which above £2,200 has been subscribed, and the old premises have yet to be disposed of.
+
+...
+
+`[description of consecration ceremony and celebration as weall as sundy other detail omitted]`
+
+
+--
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18350228/010/0004
+Kendal Mercury - Saturday 28 February 1835
+
+ASSESSED TAXES.—WESTMORLAND.
+
+In a recently published work, containing the Decisions of the Judges on Cases submitted to them connected with the Assessed Taxes, we find the following:—
+
+No. 906. —County of Westmorland, Division of Lonsdale Ward.
+
+At a meeting of the commissioners of Assessed Taxes for hearing appeals against the supplementary charges, held at the Rose and Crown Hotel, in Kirkby Lonsdale, on the 23rd day of January, 1834; —The Rev. William Carus Wilson appealed against charge of fifty-five windows, and house duty, made by Mr Barker, surveyor of the said division, upon Mrs Harben, the superintendent of a large school for the education of clergymen's daughters.
+
+The commissioners on hearing the case, and with reference to the Book Case No. 504, already decided by the Judges, confirmed the charge.
+
+But the appellant being dissatisfied with such determination, considering the establishment exempt as a charitable institution, demanded a case for the opinion of his Majesty's Judges, which is stated below.
+
+(Case.)
+
+The school, a denominatied charitable institution for the benefit of clergymen's daughters, is a newly-erected building in the township of Casterton ; and the pupils, which are now upwards of ninety, are boarded and educated on the following terms, viz. £14 per annum ; and if instructed in drawing, French, or music, pay £3 extra for each, which in some cases amount to £23 per annum for each pupil. The building, which has been erected expressly for the purpose, and all deficiencies being made up by voluntary subscriptions, which the Rev. W. C. Wilson states he expects will require at the least £500 annually. A printed copy of the report, rules of the institution, amount of subscriptions, and statement of expenditure, will herewith forwarded.
+
+Mo. Grey, Wm. Gibson, Commissioners.
+
+21st May, 1834.— We are of opinion, that the determination of the commissioners is Right.
+
+J. A. Park. W. Bolland. S. Gaselee. J. Patteson. J. Gurney.
