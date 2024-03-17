@@ -1,6 +1,6 @@
 # Carus Wilson Continues To Have His Say
 
-A year on from the publication of "Tempters and Tempted", and it seems that the Revd. W. Carus Wilson could not but help himself, feeling compelled to publish another tract that was almost guaranteed to meet with less than universal approval.
+A year on from the publication of "Tempters and Tempted", and it seems that the Revd. W. Carus Wilson could not but help himself, feeling compelled to publish another New Year's Day tract that was almost guaranteed to meet with less than universal approval.
 
 ```{admonition} Portsmouth in Flames, January 1857
 :class: dropdown
