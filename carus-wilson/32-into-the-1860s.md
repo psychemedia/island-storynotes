@@ -67,6 +67,16 @@ Hampshire Advertiser - Saturday 25 April 1857
 Sermons were preached on Sunday last at Carisbrooke Church, by the Rev. Carus Wilson, M.A., in aid of the fund for supporting the Infant School connected with that parish, when about £12 was collected.
 ```
 
+The memorial printed following his death described his prreaching style.
+
+```{admonition} Preaching with a "round good sense", *Memoir*, 1860
+:class: dropdown
+
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860,
+
+His preaching was characterized less by profound thought or doctrinal argument, than by a fervent warmth, a depth of feeling, and (as it was once described) a "round good sense" which at once carried with him both the understanding and the hearts of his hearers ; while his noble countenance and deep musical voice gave full effect to his words by arresting both the eye and the ear. His sermons, after the earlier years of his ministry, were never written ; and the remarkable readiness and facility with which he preached could arise from nothing else but the constant and devoted occupation of his whole heart and mind with the one great object of his life—the saving of immortal souls. He seemed always ready ; and whether he had come to his pulpit from the hurry of a journey or the retirement of his closet, could never have been argued from any difference in the depth and fervour of his preaching. A course of labour so various, so complicated, and so obnoxious to the advocates of cold orthodoxy and worldly wisdom, was not likely to be exempted from much misrepresentation. The principles of evangelical truth were far more singular, even thirty years ago, than happily they have become since ; and in proportion to their rarity was the odium cast upon those who held up the light amidst the surrounding darkness. Mr. Carus-Wilson was assailed at various times and in various ways ; but the surf-beaten rock abides, while the breakers which dash against it shiver themselves to atoms. Mr. Carus-Wilson's works remain as standing monuments of his zeal, and faith, and love to God and man. His name is affectionately cherished by numbers who regard him as their greatest benefactor for time and eternity. The institutions for which he laboured so assiduously and so long, remain to this day nurseries for heaven and pillars of the truth ; and his memory will long be dear to many who have " owed to him their own selves also," and embalmed by the blessings of the poor, and of those "who had none to help them. "
+```
+
 Three weeks or so later, Revd. W. Carus Wilson's son, the Revd. W. W. Carus Wilson, could also be seen preaching on the Island, with his father giving a lecture the following week.
 
 ```{admonition} The Progress of Morality and Religion, June 1857
