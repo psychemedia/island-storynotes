@@ -167,6 +167,18 @@ As I shall describe in the next chapter, on moving to the Island, Carus Wilson s
 
 > His exertions were not, however, confined to the benefit of the soldiers. His spirit was stirred by witnessing the fearful demoralization which met his eye. Early in his residence at Ventnor a tract was printed, and left on New Year's-day at every house in Newport ...
 
+Despite having moved to Ventnor for health reasons, William Carus Wilson was not the sort of man to slip into a quiet retirement.
+
+```{admonition} A man of indefatigable industry, *Memoir*, 1860
+:class: dropdown
+
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860,
+
+Nothing was more striking, to those who had the opportunity of witnessing his daily life, than his indefatigable industry. Not a moment of time throughout the day seemed wasted. Early, punetual, and rapid in all his habits, he seemed intent upon crowding into the day the utmost possible amount of work. Even his meals were taken with a degree of haste which was probably not without its effect in undermining, during a long course of years, his iron constitution ; and no sooner was the meal concluded, than he again hastened to his desk.
+
+His only recreation was in his garden, which always presented a scene of beauty and fragrance that might well charm and gratify even his ardent love of flowers. His only exercise was found in his necessary walks while visiting his schools, parish, or neighbours.
+```
+
 ## Tempters and Tempted
 
 Presumably as a result of a perceived lack of response to the memorial to the Newport magistrates, which he may or may not have signed, and may nor may not have been instrumental in originating and producing, Carus Wilson published a tract early in 1856 that appears to have been even more outspoken in its condemnation of the vices of Newport and the threats they posed to the morals of the young men stationed in Parkhurst Barracks.
