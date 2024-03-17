@@ -1,6 +1,6 @@
 # The Piper of Hameln
 
-Various studies and and collections of "Pied Pipe of Hamelin" tales are available, if you go for hunting for them. In particular, D. L.  Ashliman's [The Pied Piper of Hameln and related legends from other towns](https://sites.pitt.edu/~dash/hameln.html) is a great place to find alternative tellings of the tale, including, as it does, more than thirty variants of the story.
+Various studies and collections of "Pied Pipe of Hamelin" tales are available, if you go for hunting for them. In particular, D. L.  Ashliman's [The Pied Piper of Hameln and related legends from other towns](https://sites.pitt.edu/~dash/hameln.html) is a great place to find alternative tellings of the tale, including, as it does, more than thirty variants of the story.
 
 The following example also includes several variants of the legend, as well as a rather rambling critique of some of the key thems. It is taken from Sabine Baring-Gould's [*Curious myths of the Middle Ages*](https://archive.org/details/curiousmythsofmi00bariuoft/page/416/mode/2up), published in 1876, pp.417-446.
 
