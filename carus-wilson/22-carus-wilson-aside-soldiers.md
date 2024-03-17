@@ -2,9 +2,19 @@
 
 Around the same time as his publication of *Tempters and Tempted* on the Island in early 1856, the Revd. W. Carus Wilson was also busy on the mainland, a short boat trip away in Portsmouth, overseeing the opening of a Soldiers' Institute.
 
+```{admonition} Frequent excursions to Portsmouth, *Memoir*, 1860
+:class: dropdown
+
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860.
+
+[Rev. W. Carus Wilson] now frequently made excursions to Portsmouth for the purpose of preaching, either in the churches, the barracks, or the circus -a large building which had recently been opened for public worship. He was heard with marked interest, and it may be hoped with abiding effects, by crowded audiences. But there was one result of his largehearted benevolence and practical wisdom which will be remembered, together with the Friendly Visitor and the Clergy Daughters' School, as the offspring of a mind gifted with the originality of genius. This was the establishment of the Soldiers' Institute at Portsmouth. He saw that the poor soldier was beset by a fearful temptation in the total want ofmental occupation for his long intervals of leisure from duty. The natural resource was to drown the weary hours in the drunken and noisy revelry of the ale-house. He rightly judged, that as long as there was no way of escape from this temptation, all efforts to raise the moral and spiritual condition of the soldier would be in a great measure paralysed.
+
+It struck him that a remedy might be found in an institution resembling the Mechanics' and Literary Institutes which have become so general in large towns for other classes. The attempt was forthwith made. A house was taken and suitably furnished, and in a very short time the first " Soldiers' Institute " was opened, with a reading-room, supplied with useful magazines and other books ; a coffee-room, where tea and coffee were supplied at very moderate prices ; and rooms where little parties could meet for the purpose of reading the Scriptures and prayer. The plan succeeded well : the Institute was hailed as a boon by numbers of the men ; and , while many contented themselves with the coffeeroom and the papers, there were not a few who were induced, by the influence and encouragement employed, to meet for reading and prayer.
+```
+
 ## The Portsmouth Soldiers' Institute
 
-A report a month of say after it opened in the Leeds Mercury gives a sense of what it involved.
+A report a month or so after it opened in the Leeds Mercury gives a sense of what it involved.
 
 ```{admonition} Soldiers' Institutes, February 1856
 :class: dropdown
@@ -289,7 +299,15 @@ The Chairman said, before be called upon any gentleman to move the adoption of t
 
 ## Preaching in Gosport
 
-Throughout 1857, Carus Wilson seemed to be making regular visits over to the mainland to preach the men stationed at Forton Barracks in Gosport, as well as in support of the local commuity.
+Throughout 1857, Carus Wilson seemed to be making regular visits over to the mainland to preach the men stationed at Forton Barracks in Gosport, as well as in support of the local community.
+
+```{admonition} Leavening the British army with the Gospel of salvation, *Memoir*, 1860
+:class: dropdown
+
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860
+
+`[On moving to Ventnor,]` [h]ere it was that his energetic spirit, always casting about for opportunities of doing good, was ultimately absorbed in one of the greatest works of his life -that of leavening the British army with the Gospel of salvation to an extent and by means previously unknown. The constant departure of transports from Portsmouth with the brave fellows who so nobly vindicated British honour in India, was a spectacle which stirred his inmost soul. He could not bear that they should leave their native shores, most of them probably to return no more, without some efforts being made that they might carry with them not merely a Bible in their knapsacks, but also the love of Christ in their hearts. He used to watch for the expected sailing of the troop ships , and go on board each, provided with Bibles, Testaments, and tracts, which were freely distributed, and, in general, most gratefully received . He took these opportunities of addressing the men, with the permission of their officers, in words which fell warm from his own heart upon hearts which, though brave as lions' , were then thoughtful and tender. Many a heart-rending scene of sorrowful partings between husband and wife, parent and child, was witnessed at these times ; and many a manly and weather-beaten cheek was moistened with a tear, while he proclaimed the Gospel message of pardon and peace, and dwelt on the touching invitations of the loving and forgiving Saviour.
+```
 
 As well as preaching to troops in advance of being sent off to their overseas postings, he provided them with bibles and prayer books. 
 
@@ -312,6 +330,16 @@ A report from later in the year describes the means by which the serving men wer
 Gosport
 
 The non-commissioned officers and men of the Royal Marines were on Friday last each presented with a handsome bible and prayer-book, at the barracks, at Forton. We are told it was a joint gift of the Admiralty and the Rev. Carus W. Wilson M.A., the reverend gentleman attending at the distribution, and writing the name of each recipient in one book, while the, Adjutant of the dividsion wrote the man's name in the other.Abve 500 bibles and prayer-books will have thus been distributed. The Rev. Carus Wilson has, from the kind interest he at all times manifests in the welfare of the Royal Marines, become a great favourite with them, and this will, no doubt, increase his popularity.
+```
+
+As well as the bible and prayer books, Carius Wilson also wrote to soldiers serving in India.
+
+```{admonition} A correspondence begins, *Memoir*, 1860
+:class: dropdown
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860
+
+
+These efforts for the spiritual good of the soldiers, and the numerous individual acquaintances which Mr. Carus-Wilson was led to make among the men, opened a new and most important field of labour. The interest he had felt in his humble friends at Portsmouth did not cease when they more than ever needed his counsels and prayers amidst the din and dangers of the Indian mutiny. He followed them with his letters, and with little tracts written expressly for their benefit, which were sent over by tens of thousands, to be forwarded to all the regiments on service in Bengal and North-west India. In this way a correspondence was set on foot with about two hundred men, in different regiments, to each of whom Mr. Carus-Wilson regularly wrote every month. The letters received in reply were often such as to fill his heart to overflowing with joy and praise. Many of the poor fellows he had befriended and counselled looked upon him as their spiritual father ; and, while tasting in their own souls the power and sweetness of the grace of God, they delighted in recounting to him the signs of a saving change among their comrades, and of their progress and growth in grace.
 ```
 
 That same year, Carus Wilson also preached in support of local schools, and chaired at least one meeting of a local bible group.
