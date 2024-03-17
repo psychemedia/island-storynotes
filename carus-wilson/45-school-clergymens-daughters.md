@@ -1,4 +1,4 @@
-# Gaskell's Biography of Charlotte Brontë
+# The School for Clergymen's Daughters, Cowen Bridge
 
 In the biography of Currer Bell, née Brontë, published in *Sharpe's London magazine* in 1855., the author describd how Charlotte Brontë was *"placed at the clergy school Cowan Bridge .., [thence] described to the life in "Jane Eyre."*
 
