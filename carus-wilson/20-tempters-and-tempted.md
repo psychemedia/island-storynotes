@@ -1,4 +1,4 @@
-# Tempters and Tempted
+# A Contentious New Year's Day Tract
 
 As 1855 ended, and 1856 began, work was proceeding well on the new church, if not on improving Newport's moral character.
 
@@ -79,9 +79,99 @@ Preferment.— The Bishop of Winchester has presented the perpetual curacy of Ch
 
 ````
 
+## The Revered William Carus Wilsom
+
+Born in 1791, in Wesmorland, and married to Anne Neville, in 1815, William Carus Wilson was a graduate of Trinity College, Cambridge, and early publisher of penny periodicals.
+
+He originally *applied for ordination to the Bishop of Chester*, but *was rejected on account of his " Calvinistic opinions"*, although he was *shortly afterwards ordained by the Archbishop of Canterbury* and became a curate, then vicar, at Tunstall, four miles or so from his paternal home at Casterton Hall, not far from Kirkby Lonsdale, before becoming rector at Whittington. He was also Chaplain to His Royal Highness the Duke of Sussex.
+
+```{admonition} Preferment to the rectory of Whittington, June 1825
+:class: dropdown
+[Baldwin's London Weekly Journal - Saturday 11 June 1825](https://britishnewspaperarchive.co.uk/viewer/bl/0002243/18250611/015/0001)
+
+PREFERMENTS
+
+A dispensation has passed the great seal for the Rev. Wm. Carus Wilson, M.A., chaplain to H.R.H. the Duke of Sussex, to hold the rectory of Whittington with the vicarage of Tunstall ; and on the 16th ult., the Lord Bishop of Chester instituted the Rev. Wm. Carus Wilson to the rectory of Whittington, on the presentation of W. W. Carus Wilson, Esq., M.P
+.
+```
+
+As described in a *[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* published in 1860:
+
+> He has been heard to say incidentally of himself, that from the age of about eight years he was a distributor of tracts ; he was a composer also of tracts occasionally at a very early age. It was this habit which seems to have suggested to him the idea of publishing penny religious periodicals, of which he was the first to set the example ; an example subsequently followed to an extent and with an amount of success which strikingly shows the justness of the original conception.
+>
+> ...
+>
+> In the year 1819 the Friendly Visitor was commenced, and was followed, five years after, by the Children's Friend. These two little periodicals, published monthly at the price of one penny each, were the first religious periodicals of their kind. They gradually attained to a very large circulation, and were carried on for nearly thirty years ; during which long period of time, as Mr. Carus-Wilson used to acknowledge with thankfulness, he was never once prevented from sending his sheets to the press at the proper time. He used also to say, that of all the means of usefulness he had been enabled to employ, none had produced more fruit than these " humble little messengers. "
+
+```{admonition} The Friendly Visitor
+:class: dropdown seealso
+For an example, see *The Friendly Visitor*, [Volumes 4-6](https://books.google.co.uk/books?id=NjkEAAAAQAAJ), 1822.
+
+THE  
+FRIENDLY VISITOR,  
+PUBLISHED IN  
+MONTHLY TRACTS,  
+DURING THE YEAR  
+1822.  
+BY THE REV. WILLIAM CARUS WILSON, M. A.  
+VICAR OF TUNSTALL;  
+And Chaplain to His Royal Highness the Duke of Sussex. 
+
+VOL. IV.  
+“Much good may be done this way to considerable numbers at once, in an acceptable manner, at a trifling expense."— SECKER.  
+KIRKBY LONSDALE:  
+PRINTED AND SOLD BY A. FOSTER.  
+ALSO IN LONDON BY L. B. SHELBY, 169 FLEET STREET, AND ALL OTHER BOOKSELLERS:  
+Of whom may be had complete Sets, or Numbers to make the Sets complete.  
+The Profits will be devoted to charitable purposes.
+
+```
+
+It seems he was also not averse to publishing to his local community.
+
+```{admonition} Just published, A sermon, October 1825
+[Westmorland Gazette - Saturday 01 October 1825](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18251001/027/0001)
+
+JUST PUBLISHED,  
+Price One Shilling,  
+A SERMON , Preached in the Parish Church of Lancaster, at the Primary Visitation of the Bishop of Chester, and Published at the request of his Lordship and the Clergy.
+
+By the Rev. W. Carus Wilson, M, A. Rector of Vicar of Tunstal, and Chaplain to His Royal Highness the Duke of Sussex.
+
+Sold by Miller, Lancaster; Clarke, Manchester; Clarke Preston ; Branthwaites, Kendal; and all the Boooksellers.
+
+Of whom may be had by the the same.
+
+Sermons, Two Volumes, price 10s.— The Friendly Visitor and Children's Friend, published monthly, price One Penny each.
+```
+
+In 1820, he established a School for Training Servants and Teachers, and followed this a few years later by founding a schoolk for the daughters of clergymen.
+
+```{admonition} Clergyman's Daughters School Proposal, October 1823
+[Westmorland Gazette - Saturday 25 October 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18231025/007/0003)
+
+Clergyman's Daughters.— A Society is forming Lancaster, whose object is to establish a school, upon an extensive scale, the education at a cheap rate of the daughters of Clergymen whose livings do not afford the means of provision for their famiilies. The chief mover in this benevolent undertaking is the Rev. W. Carus Wilson, vicar of Tunstal.
+```
+
+Travelling to warmer climes in Italy, on grounds of ill-health, he took an interest in the spiritual welfare of members of the Sardinian army.
+
+> On his journey homewards from Nice, opportunities were found of speaking words in season, and giving Bibles and tracts at several places in France, and especially among the troops then assembled in the camp at Boulogne.
+>
+> After his return to England, it became manifest that Mrs. Carus-Wilson's state of health was such as to make it his duty to remain with her for the future, and from that time his purpose was fixed to go no more abroad, though his own health would have led him still to seek a foreign climate. His warmest interests also had become concentrated in the work at Nice, and thither accordingly both health and his Master's work would have directed his steps.
+>
+> But as duties of another nature required his presence at home, so another field of labour was speedily opened up, which eventually seemed to bear a richer harvest than any in which he had previously sown the precious seed. His work among the troops at Nice seemed to have touched a chord of which the harmonies were soon heard among our own too much neglected soldiers.
+>
+> The advice of his medical attendants had pointed out the Isle of Wight as the locality most favourable to his health in England, and his residence was accordingly fixed at Ventnor from that time forward.
+
+As I shall describe in the next chapter, on moving to the Island, Carus Wilson started to develop a keep interest in supporting the well0being of British soldeiers.
+
+> His exertions were not, however, confined to the benefit of the soldiers. His spirit was stirred by witnessing the fearful demoralization which met his eye. Early in his residence at Ventnor a tract was printed, and left on New Year's-day at every house in Newport ...
+
+## Tempters and Tempted
+
 Presumably as a result of a perceived lack of response to the memorial to the Newport magistrates, which he may or may not have signed, and may nor may not have been instrumental in originating and producing, Carus Wilson published a tract early in 1856 that appears to have been even more outspoken in its condemnation of the vices of Newport and the threats they posed to the morals of the young men stationed in Parkhurst Barracks.
 
-Published by Thomas Butler, Bookseller, also of Ventnor, he pamphlet was entitled *Tempters and Tempted*, and seems to have been widely distributed around Newport.
+Published by Thomas Butler, Bookseller, also of Ventnor, he pamphlet was entitled *Tempters and Tempted*, and was widely distributed around Newport.
 
 ```{warning}
 *I have not yet tracked down a copy of this work, nor have I yet found any of its contents reproduced anywhere.*
@@ -197,6 +287,7 @@ At this point, an explosive revelation appeared to have been made regarding the 
 
 ```{admonition} The shocking state of morals was no surprise
 :class: dropdown
+
 The Town Clerk (Mr. Eldridge) replied, that as far as the memorial which had been spoken of went, he believed he and the other parties connected with that movement had acted with perfect consistency, and had done nothing in it but what was proper. Their attention had been drawn to the retrograding state of the public morals of Newport, and they were anxious to use every exertion legally to stem the growing depravity of the town— which was patent to all. With respect to the tract in question, he had read it, and thought it a very injudicious publication, and feeling this, when their town missionary spoke to him respecting some which he had for circulation, he told him it would be unwise to do so, and that he had best not have anything to do with it. But, nevertheless, he thought the less said about the matter the better. He and Dr. Wavell had the weekly inspection of the Town Missionary's report book, and they unhappily knew that many moving in the higher ranks of life were guilty of fostering the immorality of the town by their own immoral conduct —(great excitement, and cries of "Order" from both sides of the Chamber).
 
 The Chairman must call Mr. Eldridge to order. Such Observations were in very bad taste and most improper, and they could not be heard sitting there in judgment on their fellow-townsmen ; and he was surprised and vexed to learn that such a spy system had been adopted of diving into matters of privacy, for the purpose of getting up a Quixotic crusade against an evil which, by parties thus acting with such indiscreet religious zeal, would be the very means of increasing the evils they would wish to suppress. The utmost they could do was to put down dancing- houses and brothels, prevent broils and lewd and improper conduct in the streets, and keep public-houses as orderly as possible. Beyond this they could not go— (hear).
@@ -280,7 +371,7 @@ Also, TEMPTERS AND TEMPTED, a Tract, by the Rev. W CARUS WILSON. Price 1d, or 12
 
 ```
 
-That same week, Carus WIlson could be found attending a meeting of the Protestant Reformation Society in Ventnor.
+That same week, Carus Wilson could be found attending a meeting of the Protestant Reformation Society in Ventnor.
 
 ```{admonition} One of the most interesting meetings ever held in Ventnor, February 1856
 :class: dropdown
