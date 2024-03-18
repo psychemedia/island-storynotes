@@ -31,6 +31,7 @@ parts:
   chapters:
   - file: carus-wilson/00-preface
   - file: carus-wilson/05-setting-the-scene
+  - file: carus-wilson/07-cuturally-speaking
   - file: carus-wilson/10-a-picture-of-newport
   - file: carus-wilson/13-the-new-church
   - file: carus-wilson/15-letter-to-magistrates

@@ -112,6 +112,8 @@ NEWPORT
 The Electric Telegraph Wire between this town and Cowes was commenced laying down on Monday last, and from the number of labourers employed, a very short time must elapse before the inhabitants will be supplied with this excellent means communication with the rest of the civilised world. 
 ```
 
+The railway, too, was yet to come to Newport, the first branch line, connecting Newport and Cowes, not appearing until 1862.
+
 ## Francis Pittis — Mayor, then Alderman
 
 In November 1852, council members unanimously elected Francis Pittis, a well-regarded local auctioneer and valuer, as well as Conservative councillor, Mayor for the first time, the term of appointment being one year.

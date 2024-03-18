@@ -6,7 +6,16 @@ At the end of March, 1855, six months or so before the memorial presented to the
 JANE EYRE : AN AUTOBIOGRAPHY. Edited by CURRER BELL. 3 vols. Published: October, 1847. [Vol. 1](https://archive.org/details/janeeyreautobiog11bron/), [Vol. 2](https://archive.org/details/janeeyreautobiog21bron/page/n7/mode/2up),[Vol. 3](https://archive.org/details/janeeyreautobiog31bron/page/n5/mode/2up).
 ```
 
-```{admonition} The Author of Jane Eyre
+```{admonition} The Obituary this week, April 1855
+:class: dropdown
+[Hampshire Advertiser - Saturday 07 April 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18550407/009/0003)
+
+THE OBITUARY this week includes—
+
+Mrs. Nichol, formerly Miss Bronte, who, under the nom de piume of Currer Bell established a lasting reputation by the publication of "Jane Eyre." We have two other novels from her pen, "Shirley," and " Vilette," and all are especially distinguished for great power of conception and vigorous portrayal of character. The unfortunate lady, wbo was the last survivor of a family of six, died on Saturday last, at her father's house, at Haworth, Yorkshire.
+```
+
+```{admonition} The Author of Jane Eyre, June 1855
 :class: dropdown
 [Durham County Advertiser - Friday 15 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000614/18550615/077/0006)
 

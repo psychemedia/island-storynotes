@@ -1,0 +1,59 @@
+# Culturally Speaking
+
+In the late 1840s and early 1850s, Charles Dickens and the Brontë sisters, albeit writing originally under the pseudonymous surname "Bell", as well as nonsense poet Edward Lear, were all publishing contemporary, and often very innovative, new works.
+
+Dickens was resident on the Island, in Bonchurch, during the summer of 1849, and Edward Lear was a friend of Tennyson, at least for a time, and visitor at Farringford, during the 1850s.
+
+And in 1847, the ground breaking novel "Jane Eyre" was first published, although there are no contemporary links, at least that I have found, connecting Charlotte Brontë to the Island.
+
+Reading through some early reviews of *Jane Eyre*, Jane's early life in the less than pleasant Lowood School, with its poor fare and micro-management by a controlling clergyman, Mr. Brocklehurst, seems to attract the attention of several of the literary critics.
+
+```{admonition} The orphan daughter of a clergyman, November 1847
+:class: dropdown
+[Liverpool Standard and General Commercial Advertiser - Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0002088/18471116/215/0014)
+
+Jane Eyre. An Autobiography. Edited by Currer Bell. In three volumes. London : Smith, Elder, and Co., Cornhill.
+
+This is one of the most striking works which has for many years past come under our observation. It is full of originality of remark and character, and of vivid and occasionally powerful description. The writer has evidently studied well the human heart. although she (or he) evidently prefers the delineation of those phases of it, which least frequently come under the notice of an ordinary observer. ...
+
+Jane Eyre is the orphan daughter of a clergyman ; and is consigned at an early age to the protection of an aunt,the widow of her mother's brother, in whose family, and by whose ill natured children, she is ill-treated and regarded as an incumbrance. Ultimately she is sent to a charity school, the presiding genius of which is a certain Mr. Brocklehurst, a neighbouring clergyman ; and here, for the consideration of £15 a-year paid by her aunt, she receives a tolerable education, at the cost of having to submit to a short supply of food, and clothing little removed from that of a pauper. The character of Mr. Brocklehurst,—a gentleman of the Squeer's class, but with more hypocrisy in his disposition,—is most racily sketched and a more amiable character, that of Miss Temple, a superior teacher in the estahlishment, is very pleasingly described.
+
+The fate of one of the poor neglected children—Mary Burns—for wham such establishments as Lowood House appear to be especially designed, is thus beautifully told. Helen has been one of those inmates to whom Jane Eyre has especially attached herself; and has been for some months sinking gradually in consumption:—
+
+...
+
+```
+
+```{admonition} Tolerable teachers, intolerable fare, November 1847
+:class: dropdown
+[Manchester Examiner - Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0003398/18471116/033/0003)
+
+LITERARY EXAMINER.
+
+Jane Eyre. An Autobiography. Edited by Currer Bell, 3 vols. London: Smith, Older and Son, 1847.
+
+Currer Bell is one of those three brothers Bell, who lately published in concert, a volume of rhymes;— with success it would seem, to make the name, on the title-page of an annoymons book, a respectable passport for it into the literature of the day. The work so introduced, is not, as : might be fancied from its title, an authentic narrative of anybody's life. It is a novel—a very clever and striking one, moreover, though written in the quiet, sober style of the old school, and, in its interest, entirely independent of contemporary commotions and discussions.
+
+The heroine begins her story pretty far back in her life,— when she is quite a little girl,— an orphan one, moreover, sheltered and fed, but miserably treated, by a wealthy widow lady, her relative, who with her children nearly worry to death the timid little unfortunate outcast. The wretchedness of a shy and tormented child, in such a situation, is vividly pourtrayed ; not less so the sudden outburst with which when goaded to desperation, she turns on the protective widow lady, who in astonishment and almost fear packs her off to school. "Lowood Institution," to wit, a picture, drawn to the life, of an English proprietary girls school,— with its tolerable teachers, intolerable fare, and the pastoral superintendence of a neighbouring clergyman, who with wife and daughters drowned in finery, comes every now and then to inspect, and order here a ribbon, there a curl, to be cut away, for sanctity's sake. It is at Lowood that Jane's turbulence gets calmed down,—the only touch of direct philosophy in the book, and not a very happy one,—by the example of meekness in a fellow pupil, and the precepts of a good head goveruess. Nay, so good does she herself become, that on the removal of the latter to another " sphere of usefulness," Jane is made head of the establishment. But after a few yeats, she wearies of the monotony of her situation, and, wanting another, straightway does, what those who wnt that or anything else, should always do, namely, advertise. The advertisentent is answered; all things go well; and in a few weeks, the young lady of eighteen, impassioned and clever, quiet and demure though she looks, ends herself transported to " Thornfield," a squirearchal manor house in the " North Midland Counties," with a little French girl for her pupil, and for other companion only old lady who teept things trim during the long absence of Mr. Rochester, the owner.
+
+*`[Continues...]`*
+
+```
+
+```{admonition} Bad sanitary circumstances and an insufficient supply of food, November 1847
+:class: dropdown
+[Morning Post - Wednesday 03 November 1847](https://britishnewspaperarchive.co.uk/viewer/BL/0000174/18471103/003/0002)
+
+LITERATURE.
+
+Jane Eyre ; an Autobiography. Edited by Currer Bell. Three Vols.— Smith, Elder, and Co.
+
+This novel many of the features which secure popularity to a work of fiction. Ihe characters introduced are strongly marked, the incidents are various, and of a kind which enlist the sympathies, the style is fresh and vigorous, and scarcely anything is overdone. There is no regular plot : but, what is better, a thrilling interest is excited in each division or department of the story ; the several parts hang toother with sufficient closeness to constitute continuity, and to admit of a winding-up at the close.
+
+...
+
+Such treasonable acts could not be tolerated. Mrs. Reed arranged for banishing the rebel to a distant part of the ountry to become an inmate of Lowood institution, a seminary partly charitable and partly not, famous for " breaking in" haughty dispositions by accustoming the pupils to endure privation, especially such as arise from cold and hunger. The Rev. Mr. Brocklehurst, under the character of "treasurer" exercised the entire control over the discipline and domestic economy of the establishment ; and in the discharge of his arduous duties displayed a combination of qualities such as might have been expected, had he fallen heir to the departed spirits of *Squeers* and *Pecksniff*.
+
+Lowood School was attended by several teachers, and a description of their peculiarities, the system of tuition. and the hardships to which the pupils were exposed in attempting to climb the hill of knowledge, occupies several interesting chapters. Bad sanitary circumstances, combined with an insufficient supply of food, invited the entrance of typhus fever, and so great was the mortality among the pupils, that an inquiry took place, and the Rev. Mr. Brocklehurst's management having been found wanting, he was supplanted, and a better order of things introduced. ...
+
+```
