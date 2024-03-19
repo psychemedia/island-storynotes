@@ -2,6 +2,16 @@
 
 A year on from the publication of "Tempters and Tempted", and it seems that the Revd. W. Carus Wilson could not but help himself, feeling compelled to publish another New Year's Day tract that was almost guaranteed to meet with less than universal approval.
 
+```{admonition} PORTSMOPUTH IN FLAMES!!!
+:class: seelalso
+
+Available in *The lending library of Ipswich temperance tracts, [v. 9](https://babel.hathitrust.org/cgi/pt?id=nyp.33433006521334&seq=139).
+
+![Portsmouth in flames](images/portsmouth_in_flames_tract.png)
+
+See the full tract in the Appendix.
+```
+
 ```{admonition} Portsmouth in Flames, January 1857
 :class: dropdown
 [Hampshire Telegraph - Saturday 17 January 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18570117/017/0005)
