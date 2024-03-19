@@ -13,7 +13,7 @@ In the early summer of the previous year, 1855, the [Saturday 30 June, 1855](htt
 
 William Carus Wilson was a retired evangelical Christian, the founder in 1823 of the Clergy Daughters' School, Cowan Bridge, on the Lancashire side of the Lancashire, Cumbria and West Riding of Yorkshire border. He had also founded, edited and regularly contributed to *The Children's Friend* magazine, launched in 1824, and was author of [Child's First Tales, Chiefly in Words of One Syllable, for the use of Infant Schools and Little Children in General (2 volumes?)](https://archive.org/details/McGillLibrary-rbsc_child-first-tales_61610677-21770/page/n3/mode/2up).
 
-*Rather confusingly, it seems as if there may have been another reverend figure on the Island around about this time with very similar intials, the Revd. C. W. (Cornelius William) Wilson — a much loved curate at Cowes.*
+*Rather confusingly, it seems as if there may have been another reverend figure on the Island around about this time with very similar initials, the Revd. C. W. (Cornelius William) Wilson — a much loved curate at Cowes.*
 
 ```{admonition} The Rev. Cornelius William Wilson, M.A., November 1858
 :class: seealso dropdown
@@ -22,7 +22,7 @@ William Carus Wilson was a retired evangelical Christian, the founder in 1823 of
 Testimonial of Respect to the Rev. C. W. Wilson, M.A. There are probably few of the inhabitants of Cowes, of whatever sect or denomination, who will not gratefully acknowledge the good which the town at large has derived from the untiring and active exertions of the Rev. C. W. Wilson during his ministration of three years among us as Curate of St. Mary’s. The rev. gentleman, having been presented by the Bishop of Winchester with the perpetual curacy of Northam near Southampton, has this week left us to enter upon his new charge; albeit rejoicing at his good fortune, we cannot avoid expressing our hearty regret that any circumstance should have occurred to compel him to leave us. His many acts of charity ; his indefatigable industry in establishing the night-schools for the working classes; his instrumentality in obtaining from Mr. Ward the grant of a field for public recreation, and his many other deeds of public usefulness have combined to render him deservedly popular, and with this feeling the inhabitants have subscribed together for the purchase of a silver salver of the value of £50 which has this week been presented to him by a deputation appointed for the purpose. The salver bears the following inscription :—" Presented to the Rev. Cornelius William Wilson, M.A., by the inhabitants of West Cowes in the Isle of Wight on the 24th day of November, 1858, as an affectionate token of their esteem, and appreciation of his many excellent qualities both as a Christian minister and a resident, ever ready to alleviate the sufferings of the distressed and to promote the education, happiness and comfort of the poor."
 ```
 
-His particular passion appears to have been education, along with engaging in community based activities, such as the arrangements for a commumnity party in celebration of the wedding of H.R.H. The Princess Royal, in 1858.
+His particular passion appears to have been education, along with engaging in community based activities, such as the arrangements for a community party in celebration of the wedding of H.R.H. The Princess Royal, in 1858.
 
 ````{admonition} A confusions of Revd. Wilsons
 :class: seealso dropdown
@@ -79,9 +79,9 @@ Preferment.— The Bishop of Winchester has presented the perpetual curacy of Ch
 
 ````
 
-## The Revered William Carus Wilsom
+## The Revered William Carus Wilson
 
-Born in 1791, in Wesmorland, and married to Anne Neville, in 1815, William Carus Wilson was a graduate of Trinity College, Cambridge, and early publisher of penny periodicals.
+Born in 1791, in Westmorland, and married to Anne Neville, in 1815, William Carus Wilson was a graduate of Trinity College, Cambridge, and early publisher of penny periodicals.
 
 He originally *applied for ordination to the Bishop of Chester*, but *was rejected on account of his " Calvinistic opinions"*, although he was *shortly afterwards ordained by the Archbishop of Canterbury* and became a curate, then vicar, at Tunstall, four miles or so from his paternal home at Casterton Hall, not far from Kirkby Lonsdale, before becoming rector at Whittington. He was also Chaplain to His Royal Highness the Duke of Sussex.
 
@@ -163,7 +163,7 @@ Travelling to warmer climes in Italy, on grounds of ill-health, he took an inter
 >
 > The advice of his medical attendants had pointed out the Isle of Wight as the locality most favourable to his health in England, and his residence was accordingly fixed at Ventnor from that time forward.
 
-As I shall describe in the next chapter, on moving to the Island, Carus Wilson started to develop a keep interest in supporting the well0being of British soldeiers.
+As I shall describe in the next chapter, on moving to the Island, Carus Wilson started to develop a keep interest in supporting the well-being of British soldiers.
 
 > His exertions were not, however, confined to the benefit of the soldiers. His spirit was stirred by witnessing the fearful demoralization which met his eye. Early in his residence at Ventnor a tract was printed, and left on New Year's-day at every house in Newport ...
 

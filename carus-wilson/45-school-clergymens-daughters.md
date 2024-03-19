@@ -236,7 +236,7 @@ One of these fellow-pupils of Charlotte and Maria Bronte's, among other statemen
 
 Maria would die, at home in Haworth, of tuberculosis in May, 1825,m followed six weeks later by the death of Elizabeth from a similar cause.
 
-Whilst Charlotte's sisters did not die at the school, it seems that deaths there were not uknown.
+Whilst Charlotte's sisters did not die at the school, it seems that deaths there were not unknown.
 
 ```{admonition} After a few days' illness, September 1829
 :class: dropdown
@@ -297,7 +297,7 @@ For the reason just stated, the little girls were sent home in the autumn of 182
 ...
 ```
 
-A few months after the publication of *Jane Eyre* under the pseudonym of "Currer Bell", and perhaps independently of it, Charlotte appears to have received a letter enquiring after the suitability of the Clergy Daughters' School, now at Casterton, as "an eligible place". Her opinion seems positive, and constrasts with her expressed opinion as to the favourabiliy of the original school.
+A few months after the publication of *Jane Eyre* under the pseudonym of "Currer Bell", and perhaps independently of it, Charlotte appears to have received a letter enquiring after the suitability of the Clergy Daughters' School, now at Casterton, as "an eligible place". Her opinion seems positive, and contrasts with her expressed opinion as to the favourability of the original school.
 
 ```{admonition} My personal knowledge of that institution is very much out of date, The Life of Charlotte Brontë*, Vol. II
 :class: dropdown
@@ -315,4 +315,4 @@ While her most intimate friends were yet in ignorance of the fact of her authors
 "Since you wish to hear from me while you are from home, I will write without further delay. It often happens that when we linger at first in answering a friend's letter, obstacles occur to retard us to an inexcusably late period. In my last, I forgot to answer a question which you asked me, and was sorry afterwards for the omission. I will begin, therefore, by replying to it, though I fear what information I can give will come a little late. You said Mrs. ————— had some thoughts of sending ————— to school, and wished to know whether the Clergy Daughters' School at Casterton was an eligible place. My personal knowledge of that institution is very much out of date, being derived from the experience of twenty years ago. The establishment was at that time in its infancy, and a sad ricketty infancy it was. Typhus fever decimated the school periodically; and consumption and scrofula, in every variety of form bad air and water, bad and insufficient diet can generate, preyed on the ill-fated pupils. It would not then have been a fit place for any of Mrs. ——————'s children; but I understand it is very much altered for the better since those days. The school is removed from Cowan Bridge (a situation as unhealthy as it was picturesque —low, damp, beautiful with wood and water) to Casterton. The accommodations, the diet, the discipline, the system of tuition—all are, I believe, entirely altered and greatly improved. I was told that such pupils as behaved well, and remained at the school till their education was finished, were provided with situations as governesses, if they wished to adopt the vocation, and much care was exercised in the selection; it was added, that they were also furnished with an excellent wardrobe on leaving Casterton. ... . The oldest family in Haworth failed lately, and have quitted the neighbourhood where their fathers resided before them for, it is said, thirteen generations. . . . Papa, I am most thankful to say, continues in very good health, considering his age; his sight, too, rather, I think, improves than deteriorates. My sisters likewise are pretty well."
 ```
 
-But back in 1857, a very public debate was about to play out across the correpondence items of the local and regional press...
+But back in 1857, a very public debate was about to play out across the correspondence items of the local and regional press...

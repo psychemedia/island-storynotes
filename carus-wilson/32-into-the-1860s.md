@@ -67,7 +67,7 @@ Hampshire Advertiser - Saturday 25 April 1857
 Sermons were preached on Sunday last at Carisbrooke Church, by the Rev. Carus Wilson, M.A., in aid of the fund for supporting the Infant School connected with that parish, when about £12 was collected.
 ```
 
-The memorial printed following his death described his prreaching style.
+The memorial printed following his death described his preaching style.
 
 ```{admonition} Preaching with a "round good sense", *Memoir*, 1860
 :class: dropdown

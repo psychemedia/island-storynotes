@@ -332,7 +332,7 @@ Gosport
 The non-commissioned officers and men of the Royal Marines were on Friday last each presented with a handsome bible and prayer-book, at the barracks, at Forton. We are told it was a joint gift of the Admiralty and the Rev. Carus W. Wilson M.A., the reverend gentleman attending at the distribution, and writing the name of each recipient in one book, while the, Adjutant of the dividsion wrote the man's name in the other.Abve 500 bibles and prayer-books will have thus been distributed. The Rev. Carus Wilson has, from the kind interest he at all times manifests in the welfare of the Royal Marines, become a great favourite with them, and this will, no doubt, increase his popularity.
 ```
 
-As well as the bible and prayer books, Carius Wilson also wrote to soldiers serving in India.
+As well as the bible and prayer books, Carus Wilson also wrote to soldiers serving in India.
 
 ```{admonition} A correspondence begins, *Memoir*, 1860
 :class: dropdown
