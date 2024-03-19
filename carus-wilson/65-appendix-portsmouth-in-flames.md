@@ -1,4 +1,4 @@
-# Portsmouth in Flames
+# Appendix — Portsmouth in Flames (Tract)
 
 In [The lending library of Ipswich temperance tracts v. 9](https://babel.hathitrust.org/cgi/pt?id=nyp.33433006521334&seq=139).
 
