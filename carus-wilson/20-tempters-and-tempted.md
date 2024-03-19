@@ -145,7 +145,7 @@ Of whom may be had by the the same.
 Sermons, Two Volumes, price 10s.— The Friendly Visitor and Children's Friend, published monthly, price One Penny each.
 ```
 
-In 1820, he established a School for Training Servants and Teachers, and followed this a few years later by founding a schoolk for the daughters of clergymen.
+In 1820, he established a School for Training Servants and Teachers, and followed this a few years later by founding a school for the daughters of clergymen.
 
 ```{admonition} Clergyman's Daughters School Proposal, October 1823
 [Westmorland Gazette - Saturday 25 October 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18231025/007/0003)
