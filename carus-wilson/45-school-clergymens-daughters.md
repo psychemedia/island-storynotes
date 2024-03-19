@@ -156,7 +156,7 @@ There is little record remaining of the manner in which the first news of its wo
 
 We might also wonder if she regretted the description of Jane's opinion of Mr. Brocklehurst in *Jane Eyre*, given the unavoidable parallels that might be drawn between that character and Revd. Carus Wilson.
 
-```{admontion} TO DO 
+```{admonition} I disliked Mr. Brocklehurst, *Jane Eyre*, vol. I
 :class: dropdown
 
 Charlotte Brontë, *Jane Eyre : an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/238/mode/2up), 1847, pp.238-9
