@@ -506,7 +506,7 @@ REMOVAL OF MR. MONSON.
 
 A special reporter telegraphing from Inverary on Friday, says:— I am assured by a legal gentleman, who has seen the documents, that the assignments of Mr. Hambrough's life policies to Mrs. Monson were out and out assignments, and not merely in the nature of securities. The question of the validity of such assignments does not arise, so long it can be proved that Mr. Monson, with his non-legal mind, thought they were valid. I am told, too, on semiofficial authority, that Mr. McNaughton, the Deputy-Fiscal, upon returning from inspecting the body the day after the tragedy, expressed confidently the opinion that the dead man had not shot himself either accidentally or intentionally. His suspicion of Mr. Monson may of itself account for the shadowing of Mr. Monson for some time before his arrest, but it renders more inexplicable the mistake of Dr Macmillan in giving the report which he subsequently withdrew.
 
-Mr. Monson, handcuffed to a policeman in plain clothes, left Inverary yesterday on the steamer Lord of the Isles. Monson was taken quielty to the vessel 15 minutes before she was timed to start, passing round the back of the town, so to create as little attention as possible. Monson, on boarding the steamer, was immediately placed in the captain's cabin.
+Mr. Monson, handcuffed to a policeman in plain clothes, left Inverary yesterday on the steamer Lord of the Isles. Monson was taken quietly to the vessel 15 minutes before she was timed to start, passing round the back of the town, so to create as little attention as possible. Monson, on boarding the steamer, was immediately placed in the captain's cabin.
 ```
 
 ```{admonition} *DEATHS*, Pall Mall Gazette, Wednesday 25 May 1870
