@@ -39,6 +39,61 @@ Tunstall Vicarage, November 1st, 1823.
 
 ```
 
+Though the school continued, its physical location changed in 1835, with a move to Casterton.
+
+```{admonition} Consecration of Casterton Chapel, October 1833
+:class: dropdown
+[Lancaster Gazette - Saturday 12 October 1833](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18331012/009/0003)
+
+CONSECRATION OF CASTERTON CHAPEL
+
+This Chapel has been built, as well for the convenience of the township of Casterton, containing a population of between 300 and 400, situated at a distance from the parish Church, only township, except Lupton, in the parish of Kirkby-Lonsdale, without a Chapel; is for the convenience of the Clergy Daughters' School, which is now removed from Cowen Bridge to Casterton. The confined and public situation of the Cowen Bridge premises, and the inconvenient distance from Leck Chapel, added to other weighty reasons, have led to the removal of the School. The present building affords double the accommodation of the old, under much better arrangements; and standing upon two acres of land, has the advantage of spacious play grounds: while the close contiguity of the new Chapel will be favourable to the regular attendance of the whole household on public worship.
+
+The applications for admission into the School have of late been so numerous, that many have been obliged to be negatived ; and it is a satisfaction that the new arrangement have allowed of the number being raised from 90 to 100.
+
+The digging of the foundations commenced on the 11th of last February. The pupils entered on the new premises the 23d of last month ; and tbe Chapel was presented to the Lord Bishop of the Diocese for Consecration on Saturday last.
+
+...
+
+The whole arrangement of the school too, and the beautiful and healthy situation of it were much admired. It stands retired from the turnpike-road leading to Sedbergh, and yet is sufficiently near for all useful purposes. Gently elevated above the chapel, it commands very pleasing views of the vale of Lune, while the chapel is an interesting feature from the grounds. Excellent water is conveyed into every part of the house, and very efficient arrangements are made for hospital rooms, in case of infectious disorders Visiting the school.
+
+The whole of these works, including the removal of tbe school, and the building and endowing of tbe chapel, are completing at an expense of about £3000, towards which above £2,200 has been subscribed, and the old premises have yet to be disposed of.
+
+...
+
+`[description of consecration ceremony and celebration as weall as sundy other detail omitted]`
+```
+
+Despite the improved location, and increased school roll, it seems the move may also have incurred some additional unexpected costs.
+
+```{admonition} Assessed taxes, February 1835
+:class: dropdown
+
+[Kendal Mercury - Saturday 28 February 1835](https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18350228/010/0004)
+
+ASSESSED TAXES.—WESTMORLAND.
+
+In a recently published work, containing the Decisions of the Judges on Cases submitted to them connected with the Assessed Taxes, we find the following:—
+
+No. 906. —County of Westmorland, Division of Lonsdale Ward.
+
+At a meeting of the commissioners of Assessed Taxes for hearing appeals against the supplementary charges, held at the Rose and Crown Hotel, in Kirkby Lonsdale, on the 23rd day of January, 1834; —The Rev. William Carus Wilson appealed against charge of fifty-five windows, and house duty, made by Mr Barker, surveyor of the said division, upon Mrs Harben, the superintendent of a large school for the education of clergymen's daughters.
+
+The commissioners on hearing the case, and with reference to the Book Case No. 504, already decided by the Judges, confirmed the charge.
+
+But the appellant being dissatisfied with such determination, considering the establishment exempt as a charitable institution, demanded a case for the opinion of his Majesty's Judges, which is stated below.
+
+(Case.)
+
+The school, a denominatied charitable institution for the benefit of clergymen's daughters, is a newly-erected building in the township of Casterton ; and the pupils, which are now upwards of ninety, are boarded and educated on the following terms, viz. £14 per annum ; and if instructed in drawing, French, or music, pay £3 extra for each, which in some cases amount to £23 per annum for each pupil. The building, which has been erected expressly for the purpose, and all deficiencies being made up by voluntary subscriptions, which the Rev. W. C. Wilson states he expects will require at the least £500 annually. A printed copy of the report, rules of the institution, amount of subscriptions, and statement of expenditure, will herewith forwarded.
+
+Mo. Grey, Wm. Gibson, Commissioners.
+
+21st May, 1834.— We are of opinion, that the determination of the commissioners is Right.
+
+J. A. Park. W. Bolland. S. Gaselee. J. Patteson. J. Gurney.
+```
+
 ## Mrs. Gaskell's *The Life of Charlotte Brontë*
 
 In 1857, Mrs. Elizabeth Gaskell published *The Life of Charlotte Brontë*, a biography composed over two volumes.
@@ -99,13 +154,31 @@ p28 commenting on reception of "Jane Eyre", Dec 1847
 There is little record remaining of the manner in which the first news of its wonderful success reached and affected the one heart of the three sisters. I once asked Charlotte — we were talking about the description of Lowood school, and she was saying that she was not sure whether she should have written it, if she had been aware how instantaneously it would have been identified with Cowan Bridge — whether the popularity to which the novel attained had taken her by surprise. She hesitated a little, and then said : " I believed that what had impressed me so forcibly when I wrote it, must make a strong impression on any one who read it. I was not surprised at those who read ' Jane Eyre ' being deeply interested in it ; but I hardly expected that a book by an unknown author could find readers."
 ```
 
+We might also wonder if she regretted the description of Jane's opinion of Mr. Brocklehurst in *Jane Eyre*, given the unavoidable parallels that might be drawn between that character and Revd. Carus Wilson.
+
+```{admontion} TO DO 
+:class: dropdown
+
+Charlotte Brontë, *Jane Eyre : an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/238/mode/2up), 1847, pp.238-9
+
+" I disliked Mr. Brocklehurst ; and I was not alone in the feeling. He is a harsh man ; at once pompous and meddling : he cut off our hair ; and, for economy's sake, bought us bad needles and thread, with which we could hardly sew."
+
+" That was very false economy," remarked Mrs. Fairfax, who now again caught the drift of the dialogue.
+
+" And was that the head and front of his offending ? " demanded Mr. Rochester.
+
+" He starved us when he had the sole superintendence of the provision department, before the committee was appointed ; and he bored us with long lectures once a week, and with evening readings from books of his own inditing, about sudden deaths and judgments, which made us afraid to go to bed."
+```
+
+Charlotte's possible regret is also referred to by Mrs. Gaskell in the first volume of the biography.
+
 ```{admonition} Conflicting evidence, (*The Life of Charlotte Brontë*, Vol. I, cont.)
 :class: dropdown
 
 I now come to a part of my subject which I find great difficulty in treating, because the evidence relating to it on each side is so conflicting that it seems almost impossible to arrive at the truth. Miss Bronte more than once said to me, that she should not have written what she did of Lowood in " Jane Eyre," if she had thought the place would have been so immediately identified with Cowan's Bridge, although there was not a word in her account of the institution but what was true at the time when she knew it ; she also said that she had not considered it necessary, in a work of fiction, to state every particular with the impartiality that might be required in a court of justice, nor to seek out motives, and make allowances for human feelings, as she might have done, if dispassionately analyzing the conduct of those who had the superintendence of the institution. I believe she herself would have been glad of an opportunity to correct the over-strong impression which was made upon the public mind by her vivid picture, though even she, suffering her whole life long, both in heart and body, from the consequences of what happened there, might have been apt, to the last, to take her deep belief in facts for the facts themselves— her conception of truth for the absolute truth.
 ```
 
-Mrs. Gaskell then proceeds to describe how the Sdhool for Clergymen's Daughters was establsihed.
+Mrs. Gaskell then proceeds to describe how the School for Clergymen's Daughters was established.
 
 ```{admonition} A wealthy clergyman, willing to sacrifice everything but power (cont.)
 :class: dropdown
@@ -163,7 +236,18 @@ One of these fellow-pupils of Charlotte and Maria Bronte's, among other statemen
 
 Maria would die, at home in Haworth, of tuberculosis in May, 1825,m followed six weeks later by the death of Elizabeth from a similar cause.
 
-Gaskell wonders at the effect the experience at the school might have had on Charlotte.
+Whilst Charlotte's sisters did not die at the school, it seems that deaths there were not uknown.
+
+```{admonition} After a few days' illness, September 1829
+:class: dropdown
+[Worcester Journal - Thursday 10 September 1829](https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18290910/012/0003)
+
+DIED
+
+After a few days' illness, at the Clergy School, Cowen Bridge, Westmoreland, Mary, daughter of the Rev. William Tate, of Wednesbury, Staffordshire, aged 10.
+```
+
+As for Charlotte,  Mrs. Gaskell wonders what the effect of her experiences of the school, as well as those of her sisters, might have been on her.
 
 ```{admonition} An earnest and vigorous mind, (cont.)
 :class: dropdown
@@ -231,162 +315,4 @@ While her most intimate friends were yet in ignorance of the fact of her authors
 "Since you wish to hear from me while you are from home, I will write without further delay. It often happens that when we linger at first in answering a friend's letter, obstacles occur to retard us to an inexcusably late period. In my last, I forgot to answer a question which you asked me, and was sorry afterwards for the omission. I will begin, therefore, by replying to it, though I fear what information I can give will come a little late. You said Mrs. ————— had some thoughts of sending ————— to school, and wished to know whether the Clergy Daughters' School at Casterton was an eligible place. My personal knowledge of that institution is very much out of date, being derived from the experience of twenty years ago. The establishment was at that time in its infancy, and a sad ricketty infancy it was. Typhus fever decimated the school periodically; and consumption and scrofula, in every variety of form bad air and water, bad and insufficient diet can generate, preyed on the ill-fated pupils. It would not then have been a fit place for any of Mrs. ——————'s children; but I understand it is very much altered for the better since those days. The school is removed from Cowan Bridge (a situation as unhealthy as it was picturesque —low, damp, beautiful with wood and water) to Casterton. The accommodations, the diet, the discipline, the system of tuition—all are, I believe, entirely altered and greatly improved. I was told that such pupils as behaved well, and remained at the school till their education was finished, were provided with situations as governesses, if they wished to adopt the vocation, and much care was exercised in the selection; it was added, that they were also furnished with an excellent wardrobe on leaving Casterton. ... . The oldest family in Haworth failed lately, and have quitted the neighbourhood where their fathers resided before them for, it is said, thirteen generations. . . . Papa, I am most thankful to say, continues in very good health, considering his age; his sight, too, rather, I think, improves than deteriorates. My sisters likewise are pretty well."
 ```
 
-## An Initial Respnse to the Outing of Cowan Bridge School
-
-Following the publication of Mrs. Gaskell's characterisation of W. Carus Wilson and the Cowan's Bridge School, a concerted campaign was mounted in his defence. The following letter, for example, appeared widely in the local, regional and national press.
-
-```{admonition} Allow me to make a few remarks, April 1857
-:class: dropdown
-[Morning Herald (London) - Friday 24 April 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18570424/072/0005)
-
-"JANE EYRE." TO THE EDITOR OF THE MORNING HERALD. Sir,—Allow me to make a few remarks on the "Life of Charlotte Bronte," by Mrs. Gaskell, which will be one of the popular works of the day.
-
-I chiefly wish to call attention to the unfounded statements made on the Clergy Daughters' School, where Miss Bronte commenced her school career, when it was at Cowan Bridge.
-
-I have seen letters from teachers and pupils who were there with her, denying all that she stated regarding that invaluable institution; and the lady who was superintendent at the time sent to a review, which was published, a long letter condemning the whole account in "Jane Eyre."
-
-Miss Bronte left the school at the age of nine, Mrs. Gaskell tells us, so what judgment could she form? And her father being a very austere and peculiar man, denying his children animal food, and they all being naturally very delicate, as we read also in Mrs. Gaskell's work, is it fair to trace all her sufferings in after life to the very short time she was at the establishment, as Mrs. Gaskell also informs us?
-
-The attack on my father, the Rev. W. Carus Wilson, coming from the pen of Mrs. Gaskell, who is, I believe, the wife of a Socinian preacher, is intended, from the strain of the whole work, as a sneer at the Evangelical party in the Church.
-
-My father has spent a long life solely for the good of others; and though, from his independent position in life, and the wonderful way in which God has prospered every work he has undertaken for the good of the Church and his fellow creatures, he might have much to boast of, yet I can truly say there lives not a man with a lower opinion of himself, or more opposite to the character Mrs. Gaskell has sketched of him.
-
-Your obedient servant,  
-W. W. CARUS WILSON.
-```
-
-
-```{admonition} TO DO
-:class: dropdown
-
-[Leeds Mercury - Saturday 16 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18570516/017/0007)
-
-CHARLOTTE BRONTE. TO THE EDITORS OF THE LEEDS MERCURY. GENTLEMEN,—
-
-May I ask for a corner for the following, taken out of a Review, which is a complete answer to the Statements in the Life of Charlotte Bronte regarding my father's charitable institutions.— Yours,  
-W. W. CARUS WILSON.
-
-The letter then quotes at length from a review that was also circulated widely, as in the following example:
-
-```{admonition} TO DO
-:class: dropdown
-
-[Essex Standard - Friday 22 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000165/18570522/043/0006)
-
-NEW PUBLICATION
-
-The Life of Charlotte Bronte. "By Mrs. Gaskell, London: Smith, Elder, and Co.
-
-Those who have enjoyed the literary luxury of such works as "Jane Eyre," "Shirley," and " Villette," will peruse with much interest the life of their gifted authoress. Mrs. Gaskell has given to the public a deeply-interesting memoir, and we can hardly realize the mournful fact that Charlotte Bronte now sleeps beneath those wild Yorkshire hills that nursed her genius. But such is the case, and the pen of praise or blame will fall but lightly now upon her tomb.
-
-We remember that on the appearance of "Jane Eyre," it was severely censured by the Quarterly, the Times, and other leading reviews and papers, for its coarse expressions and immoral tendencies. There was a profanity prevading many of its pages, and we grieve to find the same irreverent turn given to passages from Scripture in some parts of Miss Bronte's letters, which appear in her Life by Mrs. Gaskell, and which will make this certainly most touching memoir a prohibited book with many, as was "Jane Eyre." Such expressions, for instance, as the following:— Miss Bronte, in writing to a friend, addresses her as only " a little lower than the angels." Again, in pointing to a picture of Thackeray, for whom she had unbounded worship, she exclaimed to a friend, "A lion shall come out of Judah." Too many other passages of a similar strain in this work could be quoted. It is the Rev. H. Melvill who observes that "it is to sharpen every arrow of the devil to sharpen our wit on the Bible ; " and we cannot see how any one can imagine that the insertion of irreverent expressions can in any tale or memoir add force or interest.
-
-The closing hour, pictured by Mrs. Gaskell, is very painful. Miss Bronte entered into eternity, not with the bright light and joy that cheered and comforted " Leila Ada," or an " Adelaide Newton," but with the simple exclamation (her last on earth) to her husband, " Oh, I am not going to die, am I?— He won't separate us, we have been so happy together!"
-
-She could not have been without religious impressions; we may be sure that in such au establishment as the "Clergy Daughters' School " the seeds of good must have been sown in her ; but we fear her great talents were a snare— they were not used in after-life for the glory and honour of her God. Can we wonder, then, at the bitter attack she made in "Jane Eyre " on the "Clergy Daughters' School," and on the Rev. W. Carus Wilson, its benevolent founder? And, if report be true that Mrs. Gaskell is a Socinian, does she seek to aim a blow at our Church by such unjust and quite unnecessary personal remarks on so influential a member of it?
-
-No one can have laboured so publicly and usefully for the cause of evangelical truth as the Rev. W. Carus Wilson has done without meeting with opponents, and perhaps enemies— but, we are informed by those best capable of judging, that the character sketched of him by Mrs. Gaskell is as false as the assertions about the school at Cowan Bridge.
-
-With much that many might boast of, and envy, the wonderful way in which God has prospered every work he has undertaken, whether it be as regards the charitable institutions he established about 30 years ago ; or his periodicals that so many have owed their conversion to ; or the churches entrusted to him (in the building of some of which he was instrumental) ; or whether as regards his independent fortune, which raises him far above the malicious insinuations of Miss Bronte, that the pupils in the charitable institutions under his control "were starved "—yet we are assured that no one has a lower opinion of himself than Mr. Wilson, or a deeper feeling of thelittle he has done, now, at the close of a long life, spent only for the good of his fellow-creatures.
-
-Mrs. Gaskell, knowing nothing of him or the schools personally, must have grounded her remarks as to his " love of power", his "spiritual pride," his reminding the pupils of their "dependent condition" (a thing most opposite to his nature, for no one was more beloved by them), on the testimony of some enemy, perhaps a turned-off teacher or pupil.
-
-Now, we are in a position to state that when "Jane Eyre " came out many old pupils and teachers, who were at Cowan Bridge when Miss Bronte was there, wrote to Mr. Wilson's family, denying and grieving over her statements as to " bad diet and treatment," &c; and the lady who was the superintendent of that institution in 1824 (whose husband now heads a college in America) wrote in 1855 a long and complete answer to all the assertions in "Jane Eyre." and her able letter appeared in a Review. We wish we could have inserted all this important letter, but we have only space for the following extract. She says : —
-
-"The columns of the leading papers have been for some time past much occupied with obituary notices of the late Miss Bronte and many conveying the impression that her treatment at the Clergy Daughters' School when at Cowan Bridge, was of a character not only to affect her health, but to darken her prospects in afterlife. Now, as I have it in my power entirely to refute these charges. I should consider myself guilty in a measure concerning them, did I not make known to the world the truth of the case, and thereby exonerate an excellent and eminently useful clergyman from the imputations cast on him in 'Jane Eyre,' as well as to vindicate an institution which has been to the Poverty-stricken clergy a blessing of inestimable value."
-
-She then goes on to say —
-
-"In July, 1824, the Rev. Mr. Bronte arrived at Cowan Bridge with two of his daughters, Maria and Elizabeth ; the children were so delicate that there were doubts whether they could be admitted into the school. They were received, and went on so well that their father brought in September two more, Charlotte and Emily. During both these visits Mr. Bronte stayed at the school, sat at the table with the pupils, and saw the whole routine of the establishment. They all inherited consumption from their mother and were taken home; none of them, as has been stated, had any attack of fever or died at the school. I can truly say that none of the pupils were denied a sufficient quantity of food; they were never limited ; meat, vegetable, and puddings daily in abundance; any statement to the contrary is most false. Charlotte was a bright, clever, happy little girl, never in disgrace. In size remarkably diminutive, and if, as has been asserted, she never grew an inch after leaving the school, she must have been a literal dwarf. * * * Let us hope that in caricaturing an institution which has been such a blessing to the daughters of her own Church she had no injurious motives, but, misled by a vivid imagination, and a dim recollection of thirty years, when she was but a child, she published in an unguarded moment, unmindful of the consequences, mis-statements, the tendency of which has been to calumniate a most excellent institution, and to bring disgrace on religion. * * * When it is known that I have been absent 12 years from my native land, and 10 years previously had withdrawn, from conscientious motives from the Church of England, I think I need not fear being considered a partisan ; my only object is to do justice, and to state to the public things as they have been and are."
-
-The whole of this letter Mrs. Gaskell must have seen, as she quotes one sentence out of it word for word, but has carefully suppressed all in it that bears so favourably on the school. She allows "it is a subject she approaches with the greatest difficulty"; and, admitting an improvement in the school seems greatly puzzled how to do this, and yet defend her friend's assertions in "Jane Eyre."
-
-With the above we would take the testimony of hundreds of pupils, who with their parents have gratefully acknowledged the advantages they received at these institutions, rather than the account of one, however talented, who when but a child of nine left the establishment, and has so ungenerously cast an odium upon him who first planned such a help to our poorer clergy, and who has yearly undertaken the risk of the support of near 800 pupils and teachers ; for, including a preparatory school, there are about 150 daughters of clergymen boarded, clothed, and educated, at only £14 a-year each, including everything, and, in the "Servants' School," above 100 girls trained for service, each paying but £10 a-year. The schools are situated in Westmoreland, built on Mr. Carus Wilson's property, half-a-mile from Casterton Hall, his residence. They stand amid beautiful scenery, on high and healthy situations. They require above £1,000 a-year, in addition to the payment of the pupils, to cover all expenses.
-
-We read further in the " Life" that Mr. Bronte was an austere and peculiar man, denying his children animal food, &c., and that they were all naturally very delicate. It is hardly fair then to trace, as is done, all Miss Bronte's after-sufferings to Cowan Bridge. The statement, too, is false, that "fever decimated the pupils yearly ;" there have been but two attacks since the schools were established, which only carried off 6 pupils.
-
-Mrs. Gaskell says that Miss Bronte often regretted her remarks in "Jane Eyre" about the school, as she never thought it would have been so identified. Why then should Mrs. Gaskell have continued them in the "Life". Would it not have been fairer to have given a fuller and more favourable account of the schools ; for in her visit to Cowan Bridge last year, so close to Casterton, she most probably would have visited them, and witnessed their flourishing condition under the able management of a committee, during Mr. Wilson's long absence from ill health? We have not space at present to touch on any parts of the second volume of this popular work, and have only dwelt on those in the first that we consider most open to criticism.
-
-Were the work free from those objectionable points it might be capable of good ; for who can picture the struggles of the suffering sisters, lonely and friendless, in the seclusion of Haworth Parsonage; their affliction with their brother (so public a notice of whom we think a great pity) ; their resignation and devotion to their father, and not extol that peculiar ardour which led them to overcome every obstacle, and to cast such a meteor on the crowded paths of literature? Much as we must admire Miss Bronte's genius we cannot altogether eulogise her character; it seems to have imbibed the coldness and isolation of Haworth. But when we consider her solitude and sufferings we are the more disposed to draw the curtain over much we could have wished otherwise, beyond what we have noticed, in one so gifted, and who by her pen has shed such lustre on the literary world.
-
-Note.— The substance of the above Review, in the shape of a letter, has appeared in the Times, Morning Herald. Daily News, Record, and other papers.
-
-```
-
-
-
-```{admontion} TO DO 
-:class: dropdown
-
-Charlotte Brontë, *Jane Eyre : an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/238/mode/2up), 1847, pp.238-9
-
-" I disliked Mr. Brocklehurst ; and I was not alone in the feeling. He is a harsh man ; at once pompous and meddling : he cut off our hair ; and, for economy's sake, bought us bad needles and thread, with which we could hardly sew."
-
-" That was very false economy," remarked Mrs. Fairfax, who now again caught the drift of the dialogue.
-
-" And was that the head and front of his offending 1 " demanded Mr. Rochester.
-
-" He starved us when he had the sole superintendence of the provision department, before the committee was appointed ; and he bored us with long lectures once a week, and with evening readings from books of his own inditing, about sudden deaths and judgments, which made us afraid to go to bed."
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Worcester Journal - Thursday 10 September 1829](https://britishnewspaperarchive.co.uk/viewer/bl/0000150/18290910/012/0003)
-
-DIED
-
-After a few days' illness, at the Clergy School, Cowen Bridge, Westmoreland, Mary, daughter of the Rev. William Tate, of Wednesbury, Staffordshire, aged 10.
-```
-
-```{admonition} TO DO
-:class: dropdown
-[Lancaster Gazette - Saturday 12 October 1833](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18331012/009/0003)
-
-
-CONSECRATION OF CASTERTON CHAPEL
-
-This Chapel has been built, as well for the convenience of the township of Casterton, containing a population of between 300 and 400, situated at a distance from the parish Church, only township, except Lupton, in the parish of Kirkby-Lonsdale, without a Chapel; is for the convenience of the Clergy Daughters' School, which is now removed from Cowen Bridge to Casterton. The confined and public situation of the Cowen Bridge premises, and the inconvenient distance from Leck Chapel, added to other weighty reasons, have led to the removal of the School. The present building affords double the accommodation of the old, under much better arrangements; and standing upon two acres of land, has the advantage of spacious play grounds: while the close contiguity of the new Chapel will be favourable to the regular attendance of the whole household on public worship.
-
-The applications for admission into the School have of late been so numerous, that many have been obliged to be negatived ; and it is a satisfaction that the new arrangement have allowed of the number being raised from 90 to 100.
-
-The digging of the foundations commenced on the 11th of last February. The pupils entered on the new premises the 23d of last month ; and tbe Chapel was presented to the Lord Bishop of the Diocese for Consecration on Saturday last.
-
-...
-
-The whole arrangement of the school too, and the beautiful and healthy situation of it were much admired. It stands retired from the turnpike-road leading to Sedbergh, and yet is sufficiently near for all useful purposes. Gently elevated above the chapel, it commands very pleasing views of the vale of Lune, while the chapel is an interesting feature from the grounds. Excellent water is conveyed into every part of the house, and very efficient arrangements are made for hospital rooms, in case of infectious disorders Visiting the school.
-
-The whole of these works, including the removal of tbe school, and the building and endowing of tbe chapel, are completing at an expense of about £3000, towards which above £2,200 has been subscribed, and the old premises have yet to be disposed of.
-
-...
-
-`[description of consecration ceremony and celebration as weall as sundy other detail omitted]`
-```
-
-
-```{admonition} TO DO
-:class: dropdown
-
-[Kendal Mercury - Saturday 28 February 1835](https://britishnewspaperarchive.co.uk/viewer/bl/0000429/18350228/010/0004)
-
-ASSESSED TAXES.—WESTMORLAND.
-
-In a recently published work, containing the Decisions of the Judges on Cases submitted to them connected with the Assessed Taxes, we find the following:—
-
-No. 906. —County of Westmorland, Division of Lonsdale Ward.
-
-At a meeting of the commissioners of Assessed Taxes for hearing appeals against the supplementary charges, held at the Rose and Crown Hotel, in Kirkby Lonsdale, on the 23rd day of January, 1834; —The Rev. William Carus Wilson appealed against charge of fifty-five windows, and house duty, made by Mr Barker, surveyor of the said division, upon Mrs Harben, the superintendent of a large school for the education of clergymen's daughters.
-
-The commissioners on hearing the case, and with reference to the Book Case No. 504, already decided by the Judges, confirmed the charge.
-
-But the appellant being dissatisfied with such determination, considering the establishment exempt as a charitable institution, demanded a case for the opinion of his Majesty's Judges, which is stated below.
-
-(Case.)
-
-The school, a denominatied charitable institution for the benefit of clergymen's daughters, is a newly-erected building in the township of Casterton ; and the pupils, which are now upwards of ninety, are boarded and educated on the following terms, viz. £14 per annum ; and if instructed in drawing, French, or music, pay £3 extra for each, which in some cases amount to £23 per annum for each pupil. The building, which has been erected expressly for the purpose, and all deficiencies being made up by voluntary subscriptions, which the Rev. W. C. Wilson states he expects will require at the least £500 annually. A printed copy of the report, rules of the institution, amount of subscriptions, and statement of expenditure, will herewith forwarded.
-
-Mo. Grey, Wm. Gibson, Commissioners.
-
-21st May, 1834.— We are of opinion, that the determination of the commissioners is Right.
-
-J. A. Park. W. Bolland. S. Gaselee. J. Patteson. J. Gurney.
-```
+But back in 1857, a very public debate was about to play out...
