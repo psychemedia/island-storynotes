@@ -140,13 +140,13 @@ Note.— The substance of the above Review, in the shape of a letter, has appear
 
 Elsewhere, the review might be introduced by an editorial statement, rather than via a piece of correspondence.
 
-```{admonition}
+```{admonition} A work of some unkind and unjust allusions, May 1857
 :class: dropdown
 [Lancaster Gazette - Saturday 09 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18570509/049/0008)
 
 THE REV. CARUS WILSON AND THE AUTHOR OF THE BRONTE MEMOIRS.
 
-A work that is chiefly remarkable for what we sbould think a very undesirable revelation of the private affairs of a deceased family, and  entitled *Memoirs of Charlotte Bronte*, is exciting a good deal of interest in the literary world, and in this work some unkind and unjust allusions to the Rev. Carus Wilson, printed in one of Charlotte Bronte's novels, are again brought before the public. The attack made on the rev. gentleman has reference to the clergy daughters' schools, and in consequence of what is said on the subject in the Bronte Memoirs some ignorant reviewers of the public press in London have arrived at the conclusion that at Cowan Bridge or Casterton, a sort of Dotheboys Hall exists. In this neighbourhood the interesting establishments alluded to are well known, and we can only smile at the verdancy of our London contemporaries, but it is rather hard upon Mr. Wilson, whose reputation is an affair of public, we might say national, interest, that his good name should be introduced to his friends in other parts of ths country, under circumstances so prejudicial. To do Mr. Wilson as much justice as in our power lies, we copy with great pleasure the following article, which has appeared in a newspaper in the south of England :—
+A work that is chiefly remarkable for what we should think a very undesirable revelation of the private affairs of a deceased family, and  entitled *Memoirs of Charlotte Bronte*, is exciting a good deal of interest in the literary world, and in this work some unkind and unjust allusions to the Rev. Carus Wilson, printed in one of Charlotte Bronte's novels, are again brought before the public. The attack made on the rev. gentleman has reference to the clergy daughters' schools, and in consequence of what is said on the subject in the Bronte Memoirs some ignorant reviewers of the public press in London have arrived at the conclusion that at Cowan Bridge or Casterton, a sort of Dotheboys Hall exists. In this neighbourhood the interesting establishments alluded to are well known, and we can only smile at the verdancy of our London contemporaries, but it is rather hard upon Mr. Wilson, whose reputation is an affair of public, we might say national, interest, that his good name should be introduced to his friends in other parts of the country, under circumstances so prejudicial. To do Mr. Wilson as much justice as in our power lies, we copy with great pleasure the following article, which has appeared in a newspaper in the south of England :—
 
 Those who have enjoyed the literary luxury of such works as " Jane Eyre," " Shirley," and " Villette," ...
 ```
@@ -161,7 +161,7 @@ He opens with a review of the points he considers the younger Carus Wilson to be
 :class: dropdown
 [Leeds Mercury - Saturday 23 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18570523/016/0006)
 
-The letter also appeard in the [Leeds Intelligencer - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000193/18570523/041/0007).
+The letter also appeared in the [Leeds Intelligencer - Saturday 23 May 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000193/18570523/041/0007).
 
 CHARLOTTE BRONTE. TO THE EDITORS OF THE LEEDS MERCURY. GENTLEMEN,-On Saturday last, you published, by request of Mr. W. W. Carus Wilson, an extract from a review, containing, he says, "a complete answer to the statements regarding his father's charitable institutions."
 
@@ -203,7 +203,7 @@ A. B. NICHOLLS. Haworth Parsonage, May 20th, 1857.
 
 ## W. W. Carus Wilson Promptly Replies
 
-W. W. Carus Wilson responded, by what seems to be almost a return of post, to Mr Nicholls' challenges. His letter includes a direct quote from his father, the Revd. W. Carus Wailson.
+W. W. Carus Wilson responded, by what seems to be almost a return of post, to Mr Nicholls' challenges. His letter includes a direct quote from his father, the Revd. W. Carus Wilson.
 
 ```{admonition} If you will allow me a reply, May 1857
 :class: dropdown
@@ -284,7 +284,7 @@ Mr. Nicholls, in a letter to the editor of the *Manchester Guardian*, says:—
 
 " But mark how easily Mr. W. W. Carus Wilson disposes of witnesses:—'If there are any besides, perhaps a dismissed pupil or teacher.' Even at the risk of incurring such a summary dismissal, I cannot forbear giving him the following extract from a letter which I have received from a former pupil at Cowan Bridge:—
 
-"'On first reading 'Jane Eyre,' several years ago, I recognised immediately the picture then drawn, and was far from considering it in any way exaggerated; in fact I thought at the time, and still think, the matter rather understated than otherwise. I suffered so severely from the treatment, that I was never in the schoolroom daring the last three months I was there, until about a week before I left, and was considered to be far gone in consumption. My mother (whose only child I was) was never informed of my illness, and I might certainly have died there without her being informed of it, had not a severe illness of her own caused her hastily to summon me home. She was so much shocked at my appearance, that she refused to allow me to return, though pressed to so. I was some time before my constitution recovered the blow it then received. I attribute my illness to the unhealthy situation of the school, the long walks to church in bad weather, (for in winter our feet were often wet daring the whole of the service,) and the scanty and ill prepared food. * * * The housekeeper was very dirty. I have frequently seen grease swmimming on the milk and water we had for breakfast, in consequence of its having been boiled in a greasy copper; and I perfectly remember having once been sent for a cup of tea for teacher, who was ill in bed, and no teaspoon being to hand, the housekeeper stirred it with her finger, she being engaged in cutting raw meat at the time. I could give you scores of such instances as these, which fell under my own observation. Our food was almost always badly cooked, and besides that we certainly had not enough of it, whatever may be said to the contrary. * * * In a word the system at Cowan Bridge was a very harsh one, and I was very glad to hear that an improvement took place after the school was removed to Casterton, for it was much needed. I had no knowledge whatever of Mrs. Nicholls personally, and therefore my statement may fairly be considered an impartial one. You are quite welcome to make what use you think proper of this letter.'
+"'On first reading 'Jane Eyre,' several years ago, I recognised immediately the picture then drawn, and was far from considering it in any way exaggerated; in fact I thought at the time, and still think, the matter rather understated than otherwise. I suffered so severely from the treatment, that I was never in the schoolroom daring the last three months I was there, until about a week before I left, and was considered to be far gone in consumption. My mother (whose only child I was) was never informed of my illness, and I might certainly have died there without her being informed of it, had not a severe illness of her own caused her hastily to summon me home. She was so much shocked at my appearance, that she refused to allow me to return, though pressed to so. I was some time before my constitution recovered the blow it then received. I attribute my illness to the unhealthy situation of the school, the long walks to church in bad weather, (for in winter our feet were often wet daring the whole of the service,) and the scanty and ill prepared food. * * * The housekeeper was very dirty. I have frequently seen grease swimming on the milk and water we had for breakfast, in consequence of its having been boiled in a greasy copper; and I perfectly remember having once been sent for a cup of tea for teacher, who was ill in bed, and no teaspoon being to hand, the housekeeper stirred it with her finger, she being engaged in cutting raw meat at the time. I could give you scores of such instances as these, which fell under my own observation. Our food was almost always badly cooked, and besides that we certainly had not enough of it, whatever may be said to the contrary. * * * In a word the system at Cowan Bridge was a very harsh one, and I was very glad to hear that an improvement took place after the school was removed to Casterton, for it was much needed. I had no knowledge whatever of Mrs. Nicholls personally, and therefore my statement may fairly be considered an impartial one. You are quite welcome to make what use you think proper of this letter.'
 
 "If Mr. Wilson's friends had confined themselves to legitimate review of Mrs. Gaskell's work, I should never have written a single line on this subject; but when they attacked the dead, and adopted the questionable course of disseminating their vile slander anonymously through the post-office (actually sending a copy to Mr. Bronte), I should indeed have been inexcusable if I had allowed their assertions to pass unchallenged.
 
@@ -300,7 +300,7 @@ Mr. Shepheard is of course heard on the other side, in reply to a former letter 
 
 "Just so, sir; and Mrs. Gaskell herself, to do her justice, exonerates Mr. Wilson of the charge of indifference and neglect, and rightly lays the blame on the right person—the cook; and this cook was dismissed in a few months.
 
-"The same remark applies to the statements of harsh treatment of the pupils by a teacher. I have not been able to meet with any confirmation of these accounts; and certainly they ought to be either retracted, or authenticated producing the name of the teacher, or at least the names of eye-witnesses. But even supposing, for argument's sake, the story of 'Helen Burns's' ill-treatment to be true, it is a gross injustice and inexcusable calumny to represent the whole Cowan Bridge institution generally characterised by a spirit of harsh and hateful tyranny, on account of the conduct of one teacher at one time. There is also an implied falsehood in representing Maria Bronte under the name of Helen Burns, as having died at the school at all—for she died at her own home, and it is a still further step in calumniating, to represent these things as in any way sanctioned or tolerated by Mr. Carus Wilson, as 'Jane Eyre' unquestionably does. Would Mrs. Gaskell, or did Chariotto Bronte, venture to assert, that Mr. Carus Wilson would permit a child to be treated as Helen Burns is represented to have been? or that he would have retained in the school any teacher who had been guilty of such injustice and cruelty ? If not Mrs. Gaskell is bound, in common justice, to clear him of such odious imputations. * * * *
+"The same remark applies to the statements of harsh treatment of the pupils by a teacher. I have not been able to meet with any confirmation of these accounts; and certainly they ought to be either retracted, or authenticated producing the name of the teacher, or at least the names of eye-witnesses. But even supposing, for argument's sake, the story of 'Helen Burns's' ill-treatment to be true, it is a gross injustice and inexcusable calumny to represent the whole Cowan Bridge institution generally characterised by a spirit of harsh and hateful tyranny, on account of the conduct of one teacher at one time. There is also an implied falsehood in representing Maria Bronte under the name of Helen Burns, as having died at the school at all—for she died at her own home, and it is a still further step in calumniating, to represent these things as in any way sanctioned or tolerated by Mr. Carus Wilson, as 'Jane Eyre' unquestionably does. Would Mrs. Gaskell, or did Charlotte Bronte, venture to assert, that Mr. Carus Wilson would permit a child to be treated as Helen Burns is represented to have been? or that he would have retained in the school any teacher who had been guilty of such injustice and cruelty ? If not Mrs. Gaskell is bound, in common justice, to clear him of such odious imputations. * * * *
 
 "While on the subject, let me point out another gross misrepresentation, Mrs. Carus Wilson and her two daughters are professedly described in "Jane Eyre" as presenting, in their fashionable dress and appearance, a revolting contrast to the plainness enforced by their husband and father's lectures in the schoolroom. It is a sufficient refutation of this disgraceful insinuation to state, that at the time C. Bronte was at Cowan Bridge, Mr. Carus Wilson's eldest daughters were scarcely out of the nursery—not girls of 16 or 17—and could not, therefore, have furnished the originals of the two Misses Brocklehurst in "Jane Eyre."
 
@@ -320,7 +320,7 @@ Mr. Shepheard is of course heard on the other side, in reply to a former letter 
 
 Another long letter from Mr. Shepheard appeared in the *Westmorland Gazette*.
 
-```{admonition} Trusing in the love of justice, May 1857
+```{admonition} Trusting in the love of justice, May 1857
 :class: dropdown
 [Westmorland Gazette - Saturday 30 May 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000399/18570530/022/0005)
 
@@ -486,7 +486,7 @@ P.S.—I enclose my card, with full name and address.
 [We hope that this letter will close all correspondence the subject.—Editor.]
 ```
 
-A few days later, a widely syndicated note remarks that the Rev. W Carus Wilson has published his own refutation. This appears to contain *at least* the letters that had appeared to date in the correpsondence debate between his son, W. W. Carus Wilson, Mr. Nicholls and Mr. Shepheard.
+A few days later, a widely syndicated note remarks that the Rev. W Carus Wilson has published his own refutation. This appears to contain *at least* the letters that had appeared to date in the correspondence debate between his son, W. W. Carus Wilson, Mr. Nicholls and Mr. Shepheard.
 
 ```{admonition} A "Refutation of the Statements", June 1857
 :class: dropdown
@@ -497,7 +497,7 @@ A few days later, a widely syndicated note remarks that the Rev. W Carus Wilson 
 We observe the Rev. W. Carus Wilson has published a "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School." The pamphlet contains, among other matter, the letter which have appeared in the *Examiner and Times* from the pens of Mr, Wilson, Mr. Nicholls, and Mr. Shepherd.
 ```
 
-A second pampphlet, signed on by Mr. Shepheard, also collates much of the material that appeared in the newpaper correspondence, as well as copies of several letters in support of the school.
+A second pamphlet, signed on by Mr. Shepheard, also collates much of the material that appeared in the newspaper correspondence, as well as copies of several letters in support of the school.
 
 ```{admonition} A Vindication ..., June 16th, 1857
 :class: seealso
@@ -509,7 +509,7 @@ A second pampphlet, signed on by Mr. Shepheard, also collates much of the materi
 
 ## Mrs. Gaskill Recants
 
-As well as engaging in a public debate, it seems that W. W. Carus Wilson had also been in correspondence wioth Mrs. Gaskill directly. And that Mrs. Gaskill appears to have agreed to revise her "Life" as a cosequence.
+As well as engaging in a public debate, it seems that W. W. Carus Wilson had also been in correspondence with Mrs. Gaskill directly. And that Mrs. Gaskill appears to have agreed to revise her "Life" as a consequence.
 
 ```{admonition} Rectifying the injury, July 1857
 :class: dropdown
@@ -528,9 +528,9 @@ This is a sufficient answer to the asserted miseries and cruelties at Cowan Brid
 Weston-Super-Mare. W. W. Carus Wilson.
 ```
 
-A review of the third edition in September 1857 appears to have allwayd many of the earlier concerns.
+A review of the third edition in September 1857 appears to have allayed many of the earlier concerns.
 
-```{admonition} Revised and corrected, free from all mistakes and personalities, Septmenber 1857
+```{admonition} Revised and corrected, free from all mistakes and personalities, September 1857
 :class: dropdown
 [Weston-super-Mare Gazette, and General Advertiser - Saturday 26 September 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001443/18570926/021/0004)
 
@@ -544,7 +544,7 @@ We see that Smith, Elder, and Co., have advertised the above as now ready. We tr
 
 Mrs. Gaskell's task has doubtless been a difficult one, and C. Bronte’s system of exaggeration made it the more so. In the *Edinburgh Review*, for last July, the following sentence occurs:—
 
-The observations are addressed to the misrepresentations and exaggerations of modern novelties, who in their descriptions of public institutions have not always respected the domain of private charity. The description of Lowwood, in "Jane Eyre" is evidently the result of a morbid impression on the mind of a highly sensitive child of nine, but it is due the estimable persons who were connected with it to state that the frightful charges brought against it by C. Bronte are denied; and the charitable designs of its founder have not been perverted in the way she has led her readers to believe. Again, we are assured persons who received their education at the school in Bruseels, that nothing can be more unjust than the aspersions she has thrown in ' Villette’ on that establishment, and the excellent persons who managed it. If the habits of social intercourse, if personal peculiarities, and even the arrangements of charitable institutions are to be exhibited to the world in the colors of an auto-de-fé, the novelists will become a pest to society, and will degrade their talents as some have done to the service of malignant passions, calumny, and falsehood."
+The observations are addressed to the misrepresentations and exaggerations of modern novelties, who in their descriptions of public institutions have not always respected the domain of private charity. The description of Lowwood, in "Jane Eyre" is evidently the result of a morbid impression on the mind of a highly sensitive child of nine, but it is due the estimable persons who were connected with it to state that the frightful charges brought against it by C. Bronte are denied; and the charitable designs of its founder have not been perverted in the way she has led her readers to believe. Again, we are assured persons who received their education at the school in Brussels, that nothing can be more unjust than the aspersions she has thrown in ' Villette’ on that establishment, and the excellent persons who managed it. If the habits of social intercourse, if personal peculiarities, and even the arrangements of charitable institutions are to be exhibited to the world in the colors of an auto-de-fé, the novelists will become a pest to society, and will degrade their talents as some have done to the service of malignant passions, calumny, and falsehood."
 
 In the *British Quarterly*, of last July, we read —
 
@@ -552,7 +552,7 @@ In the *British Quarterly*, of last July, we read —
 
 Then in the *National Review*, tor the same month, we also read—
 
-"Of what strong, it is not too much to say, rash and inconsiderate assertions Miss Bronte was capable of, may be judged from a letter she wrote in 1848, giving an account of the school expressly for the purpose af a lady who proposed sending a pupil there. Speaking of it as it was at the time from which her experience dated, she says— 'The establishment was at that time in its infancy, and a sad ricketty infancy it was. Typhus dever decimated the school periodically, and consumption and scrofulain every variety, bad air and water, bad diet preyed on the ill-fated pupils.' This is a description of a lazar-house. Mrs. Gaskell speaks only of one fever, and distinctly states only one pupil died, and that after he removal home."
+"Of what strong, it is not too much to say, rash and inconsiderate assertions Miss Bronte was capable of, may be judged from a letter she wrote in 1848, giving an account of the school expressly for the purpose of a lady who proposed sending a pupil there. Speaking of it as it was at the time from which her experience dated, she says— 'The establishment was at that time in its infancy, and a sad ricketty infancy it was. Typhus dever decimated the school periodically, and consumption and scrofulain every variety, bad air and water, bad diet preyed on the ill-fated pupils.' This is a description of a lazar-house. Mrs. Gaskell speaks only of one fever, and distinctly states only one pupil died, and that after he removal home."
 
 We could give more extracts out of other Reviews, all proving how a corrected memoir was needed. We think the husband C. Bronte would have shown more regard for her memory if he had kept aloof from the controversy; he has only her word to go on, and she left Cowen Bridge when quite a child. At all events he would have made a better use of his pen if he had cleared up the impression Mrs Gaskell has given of him to the public ; he has been victimised also. We quote out of *Blackwood's Magazine*, for July:—
 

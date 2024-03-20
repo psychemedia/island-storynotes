@@ -227,7 +227,7 @@ I am, sir, your obedient servant, JOHN KNAPP.
 
 ```
 
-Back on the Island, Carus Wilson appears to have also been engaged in trying to improve the morals of the young men of Ventor, in the following case at a meeting of the Ventnor *"Literary and Scientific Institution"*.
+Back on the Island, Carus Wilson appears to have also been engaged in trying to improve the morals of the young men of Ventnor, in the following case at a meeting of the Ventnor *"Literary and Scientific Institution"*.
 
 ```{admonition} We come as friends, not as enemies, May 1856
 :class: dropdown
