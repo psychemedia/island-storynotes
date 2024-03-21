@@ -33,14 +33,14 @@ A sample of articles avbout *this* Revd. Wilson shows the apparently universal a
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 22 December 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18551222/087/0005)
 
-The National Schools. — Through tbe active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson’s exertions are the more be commended as he is a late comer amongst us.
+The National Schools. — Through the active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson’s exertions are the more be commended as he is a late comer amongst us.
 ```
 
 ```{admonition} Popular Education, but..., October 1856
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 25 October 1856](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18561025/062/0004)
 
-COWES. Popular Education.— We ere exceedingly gratified to learn that our respected curate, the Rev. Mr. Wilson, with the assistance of two or three well meaning gentlemen, has set on foot a plan by which it is proposed, at a nominal cost to the scbolars, to afford the rudiments of ordinary education to all those of the working classes who desire to receive it. Reading, writing, and arithmetic, will be the principal branches of study at first, and such other elements of education as may be found advantageous, will be afterwards introduced. We receive the announcement of this forward movement with pleasure, and trust it will have tbe desired effect, but we have experienced so much of the supineness and ingratitude of the class for whose benefit it is mainly designed, that we almost despair of seeing good result from any efforta, however disinterested.
+COWES. Popular Education.— We ere exceedingly gratified to learn that our respected curate, the Rev. Mr. Wilson, with the assistance of two or three well meaning gentlemen, has set on foot a plan by which it is proposed, at a nominal cost to the scbolars, to afford the rudiments of ordinary education to all those of the working classes who desire to receive it. Reading, writing, and arithmetic, will be the principal branches of study at first, and such other elements of education as may be found advantageous, will be afterwards introduced. We receive the announcement of this forward movement with pleasure, and trust it will have the desired effect, but we have experienced so much of the supineness and ingratitude of the class for whose benefit it is mainly designed, that we almost despair of seeing good result from any efforta, however disinterested.
 
 ```
 
@@ -64,7 +64,7 @@ The Night Schools for the labouring classes, which were established in this town
 
 COWES
 
-The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by tbe ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for tbe welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
+The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by the ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for the welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
 
 ```
 
@@ -140,7 +140,7 @@ By the Rev. W. Carus Wilson, M, A. Rector of Vicar of Tunstal, and Chaplain to H
 
 Sold by Miller, Lancaster; Clarke, Manchester; Clarke Preston ; Branthwaites, Kendal; and all the Boooksellers.
 
-Of whom may be had by the the same.
+Of whom may be had by the same.
 
 Sermons, Two Volumes, price 10s.— The Friendly Visitor and Children's Friend, published monthly, price One Penny each.
 ```

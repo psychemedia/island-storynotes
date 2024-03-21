@@ -2,6 +2,22 @@
 
 Following the publication of Mrs. Gaskell's characterisation of W. Carus Wilson and the Cowan's Bridge School in her *Life of Chaatlotte Bronte*, W. W. Carus Wilson, the Revd. W. Carus Wilson's son, jumped to his father's defence and provoked a good old-fashioned controversy that would play out in the letter pages of various newspapers for the next couple of months.
 
+At the beginning of April, 1857, the *Lancaster Gazette* remarked on their northern son's life away from Casterton in a report on the Revd. W. Carus WIlson's involvvment with the Soldiers' Institute in Portsmouth.
+
+```{admonition} Our late estimable neighbour, April 1857
+:class: dropdown
+[Lancaster Gazette - Saturday 11 April 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0000488/18570411/034/0008)
+
+THE REV. W. CARUS WILSON
+
+Our late estimable neighbour, the Bey. W. Carus Wilson, is obliged by the delicate state of his health to seek the climate of a warmer region than our own in the north, but whilst absent from the paternal hall at Casterton, the rev. gentleman, in spite of his bodily ailments, finds time and strength to put out his talent to interest, and as usual to be going about doing good. Whilst sojourning in Piedmont Mr. Carus Wilson was ever actively employed in the cause of Christian truth and Christian liberty, and having returned from the continent, he is now, we find, a resident in the neighbourhood of Portsmouth, where it seems a wide field for the exercise of his philanthropy soon opened itself up. His active mind discovered that the routine of the private soldier's life required looking after — that to prevent him from exchanging the listlessness of the barrack room for the debauchery of the canteen, some third-retreat must be offered to him for the occupation of his leisure hours. A library of amusing publications sug- gested itself, and mainly by the rev. gentleman's efforts a Soldiers' Institute baa been established in Portsmouth garrison. We find in a Portsmouth paper the following report of the first annual meeting : 
+
+`[First annual report of the Soldiers' Institute then follows.]`
+
+```
+
+But by the end of April, W. Carus Wilson's name would be appear frequently in the norther papers for another reason.
+
 ## An Initial Response to the Charges Against the Cowan Bridge School
 
 W. W. Carus Wilson's first letter appeared widely, and denounced the claims made by Mrs. Gaskell against both his father and the Cowan Bridge school.
@@ -74,7 +90,7 @@ The author of the review then embarks on a glowing appreciation of the Revd. Car
 
 No one can have laboured so publicly and usefully for the cause of evangelical truth as the Rev. W. Carus Wilson has done without meeting with opponents, and perhaps enemies— but, we are informed by those best capable of judging, that the character sketched of him by Mrs. Gaskell is as false as the assertions about the school at Cowan Bridge.
 
-With much that many might boast of, and envy, the wonderful way in which God has prospered every work he has undertaken, whether it be as regards the charitable institutions he established about 30 years ago ; or his periodicals that so many have owed their conversion to ; or the churches entrusted to him (in the building of some of which he was instrumental) ; or whether as regards his independent fortune, which raises him far above the malicious insinuations of Miss Bronte, that the pupils in the charitable institutions under his control "were starved "—yet we are assured that no one has a lower opinion of himself than Mr. Wilson, or a deeper feeling of thelittle he has done, now, at the close of a long life, spent only for the good of his fellow-creatures.
+With much that many might boast of, and envy, the wonderful way in which God has prospered every work he has undertaken, whether it be as regards the charitable institutions he established about 30 years ago ; or his periodicals that so many have owed their conversion to ; or the churches entrusted to him (in the building of some of which he was instrumental) ; or whether as regards his independent fortune, which raises him far above the malicious insinuations of Miss Bronte, that the pupils in the charitable institutions under his control "were starved "—yet we are assured that no one has a lower opinion of himself than Mr. Wilson, or a deeper feeling of the little he has done, now, at the close of a long life, spent only for the good of his fellow-creatures.
 ```
 
 Mrs. Gaskell's description of him is then challenged.
@@ -223,7 +239,7 @@ That the school was removed at once in consequence of the fever and unhealthy si
 
 I could enter far more into detail had I space, but will conclude with the following extract out of a letter from my father to me.
 
-"I can most truly say that every charge is false. Having suffered once myself at a school from bad food, I was specially sensitive on this polnt when I established the Cowan-bridge school. Often, when quite unexpected, have I sat down at meals with the pupils, and looked into the kitchen. As to my 'lecturing the children on the sin of caring for carnal things when the bad state of the food was represented to me,' I can positively declare that no complaint was *ever* made to me, neither did I ever see one cause for any complaint."
+"I can most truly say that every charge is false. Having suffered once myself at a school from bad food, I was specially sensitive on this point when I established the Cowan-bridge school. Often, when quite unexpected, have I sat down at meals with the pupils, and looked into the kitchen. As to my 'lecturing the children on the sin of caring for carnal things when the bad state of the food was represented to me,' I can positively declare that no complaint was *ever* made to me, neither did I ever see one cause for any complaint."
 
 Let me tell Mr. Nicholls that his wife's sweeping and slanderous charges against my father and his institutions have been quite as painful to some, as the refutation of them has been to himself. Yours respectfully,  
 W. W. CARUS WILSON. Weston-super-Mare, June 2.

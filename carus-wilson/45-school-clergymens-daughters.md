@@ -23,7 +23,7 @@ In cases where the parents are unable to pay the whole of the annual sum of £14
 
 It is calculated, that the sum of £14 will so far defray the whole annual expenditure, as not to require more than £200 or £250 a year, to be raised by subscriptions.
 
-The school is open to the whole kingdom. Donors and Subscribers will of course gain the first attention in the recommendation of pupils: and every effort will be made to confine the benefits of the school to the really necessitous clergy ; and especially to those, who are the most exemplary in their life aud doctrine.
+The school is open to the whole kingdom. Donors and Subscribers will of course gain the first attention in the recommendation of pupils: and every effort will be made to confine the benefits of the school to the really necessitous clergy ; and especially to those, who are the most exemplary in their life and doctrine.
 
 About £1000 is required to cover the purchase, the alterations, and the furnishing of the house. One Governess is already engaged ; and as little repair is necessary in the present apartments, the School will be opened in January ; it will probably be ready to receive the whole number proposed, in March or April.
 
@@ -51,13 +51,13 @@ This Chapel has been built, as well for the convenience of the township of Caste
 
 The applications for admission into the School have of late been so numerous, that many have been obliged to be negatived ; and it is a satisfaction that the new arrangement have allowed of the number being raised from 90 to 100.
 
-The digging of the foundations commenced on the 11th of last February. The pupils entered on the new premises the 23d of last month ; and tbe Chapel was presented to the Lord Bishop of the Diocese for Consecration on Saturday last.
+The digging of the foundations commenced on the 11th of last February. The pupils entered on the new premises the 23d of last month ; and the Chapel was presented to the Lord Bishop of the Diocese for Consecration on Saturday last.
 
 ...
 
 The whole arrangement of the school too, and the beautiful and healthy situation of it were much admired. It stands retired from the turnpike-road leading to Sedbergh, and yet is sufficiently near for all useful purposes. Gently elevated above the chapel, it commands very pleasing views of the vale of Lune, while the chapel is an interesting feature from the grounds. Excellent water is conveyed into every part of the house, and very efficient arrangements are made for hospital rooms, in case of infectious disorders Visiting the school.
 
-The whole of these works, including the removal of tbe school, and the building and endowing of tbe chapel, are completing at an expense of about £3000, towards which above £2,200 has been subscribed, and the old premises have yet to be disposed of.
+The whole of these works, including the removal of the school, and the building and endowing of the chapel, are completing at an expense of about £3000, towards which above £2,200 has been subscribed, and the old premises have yet to be disposed of.
 
 ...
 
