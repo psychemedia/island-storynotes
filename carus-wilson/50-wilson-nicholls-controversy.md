@@ -134,7 +134,7 @@ The review closes with a less than positive view of Charlotte's character, in pa
 
 Were the work free from those objectionable points it might be capable of good ; for who can picture the struggles of the suffering sisters, lonely and friendless, in the seclusion of Haworth Parsonage; their affliction with their brother (so public a notice of whom we think a great pity) ; their resignation and devotion to their father, and not extol that peculiar ardour which led them to overcome every obstacle, and to cast such a meteor on the crowded paths of literature? Much as we must admire Miss Bronte's genius we cannot altogether eulogise her character; it seems to have imbibed the coldness and isolation of Haworth. But when we consider her solitude and sufferings we are the more disposed to draw the curtain over much we could have wished otherwise, beyond what we have noticed, in one so gifted, and who by her pen has shed such lustre on the literary world.
 
-Note.— The substance of the above Review, in the shape of a letter, has appeared in the Times, Morning Herald. Daily News, Record, and other papers.
+Note.— The substance of the above Review, in the shape of a letter, has appeared in the Times, Morning Herald, Daily News, Record, and other papers.
 
 ```
 
@@ -156,6 +156,12 @@ Those who have enjoyed the literary luxury of such works as " Jane Eyre," " Shir
 A copy of the review sent to the *Leeds Mercury* appears to have made its way to the Parsonage at Haworth, where Charlotte Brontê's husband, Mr. Nicholls, took issue with W. W. Carus Wilson's defence of his father and the charges made of Cowen Bridge School by Mrs. Gaskell.
 
 He opens with a review of the points he considers the younger Carus Wilson to be challenging, before going on to consider each in turn.
+
+Mr. Nicholls' letter appears to be originally written to the *Manchester Guardian*, appearing on Friday May 22 1857, and opening:
+
+> Sir,— You have published by request  of Mr. W. W. Carus Wilson, an extract from a review which he asserts "is an ample answer to the statements regarding his father's charitable institutions."
+
+The letter was then republished a day later in various Leeds newspapers.
 
 ```{admonition} The statements referred to, May 1857
 :class: dropdown
@@ -243,7 +249,6 @@ Yours, W. W. CARUS WILSON.
 Weston-super-Mare, May 25th.
 ```
 
-
 ## The Revd. Henry Shepheard Steps In
 
 At this point, another pen joins the fray in defense of W. Carus Wilson, in the form of a letter from the Revd. Henry Shepheard, incumbent of Casterton and the honorary secretary of the Clergy Daughters' School at the time.
@@ -268,7 +273,7 @@ I am willing to hope that neither Charlotte Bronte herself nor her biographer ha
 The publication of the life of CHARLOTTE BRONTE, and the charges contained in it against the Cowen-bridge School has led to a good deal of angry feeling. The Rev. H. Shepheard, M.A., late Fellow and Tutor of Oriel College, Oxford, Incumbent of Casterton, and Chaplain and Secretary of the Clergy Daughters' School, in a letter in Wednesday's *Times*, defends the school, which he says " has been carried on since 1833 at Casterton, and, to borrow the words of a Preston paper the vile attack made on the rev. gentleman (Mr. Carus Wilson) has reference to the Clergy Daughters' Schools; and, in consequence of what is said on the subject in the Bronte memoirs, some ignorant reviewers of the public press in London have arrived at the conclusion that at Cowen-bridge, or Casterton, " there exists," as observes the editor of the Lancaster Gazette, "a sort of Dotheboys' Hall. In this neighbourhood the interesting establishments alluded to are well known, and we can only smile at the verdancy of our London contemporaries," &c.' Now, sir, in the visitors' book of the Casterton school there appears the name of 'Mrs. Gaskill' as having visited the institution in March, 1856. She was shown over the whole house, saw the pupils, and expressed nothing but satisfaction. Would it not have been, then, an act of bare justice, as well an ingenuous and graceful acknowledgment, on her part, to have inserted in her memoir a frank avowal that whatever may have been the merits or demerits of the Cowen-bridge School of 1824, the Casterton School of 1856 presented before her own eyes a spectacle of health and comfort in the pupils, and a result of generous large-hearted benevolence in the founder, such as might well bring upon him, not calumny and vituperation, but blessings and gratitude? Such an avowal is indispensably required on Mrs. Gaskill's part, if she desires to relieve herself from the charge of conduct which I do not choose to characterise. Her own mind evidently has its misgivings as to the truth of the alleged facts even of the Cowen-bridge story.
 ```
 
-A copy of the letter sent to the *Manchester Guardian* also appeared in the *Lancaster Guardian*.
+One letter, originally sent to the *Manchester Guardian*, also appeared in the *Lancaster Guardian*.
 
 ```{admonition} The Casterton School Controversy, June 1857
 :class: dropdown
@@ -318,7 +323,13 @@ Mr. Shepheard is of course heard on the other side, in reply to a former letter 
 "Casterton, 28th May, 1857."
 ```
 
-Another long letter from Mr. Shepheard appeared in the *Westmorland Gazette*.
+A letter that appeared in the *Westmorland Gazette* of Saturday 30 May, 1857, is substantively the same as a letter that appeared in *The Times* of Wednesday 27 May, 1857.
+
+The version in the Times begins as follows:
+
+>,Sir, -In a recent number of *The Times* prominent notice was taken of the *Life of Charlotte Bronté*, authoress of Janc Eyre, and the charges brought against the Cowen-bridge School and its founder, the Rev. W. Carus Wilson, were adopted and commented upon in your article as if they were true.
+>
+> The same sense of justice and indignation against wrong which prompted your severe remarks on the supposed cruelties of the Cowen-bridge School will, I trust, engage you to give equal publicity to the following statements on the other side.
 
 ```{admonition} Trusting in the love of justice, May 1857
 :class: dropdown
@@ -361,7 +372,7 @@ The Clergy Daughters' School is a public institution, open to public inspection;
 As regards the fever which broke out in the school, I have evidence that it existed in the village at the same time; it may therefore very probably have been communicated to the school by infection; at any rate, the fact destroys Mrs. Gaskell's assumption that it was caused by the bad food of the institution. And the same witness, an inmate of the school during the fever, and one who remembers the little Brontes there, can testify that so far from the fever being "aggravated by the cruelty" of the managers, every possible care was taken of the invalids; wine, and everything else recommended by the medical attendant, were liberally supplied, and not one child was attacked who did not recover. The only " cruelty" connected with the event is the cruelty of imputing unfeeling conduct those who were doing their best to alleviate a prudential visitation, and who were spending and being in a great and benevolent and arduous undertaking for the good of others.
 
 It will not do, Sir, for bookmakers to Seize upon the characters of public institutions or private persons as so , much literary capital —  
-" To moral, or adorn a tale."  
+" To point a moral, or adorn a tale."  
 
 The claim of character be respected is a sacred right; and the disregard of it (to use the forcible words of the *Times* on another point) is "a species of criminality which is shamefully neglected in the statutes of the realm." Mr. Carus Wilson, indeed, can well afford a smile of pity for his assailants; and will, I am sure, desire no other revenge upon them than to return them good for evil and blessing for railing. It would occupy too much of your space to answer all Mrs. Gaskell's opprobrious remarks in detail; though I have the means of disproving, point by point, more than one of her alleged facts; but I will conclude these observations with an extract from a letter lately received from a former of Cowan Bridge, as a testimony to the general character both of Mr. Wilson and the school:
 
@@ -444,7 +455,7 @@ Sir,—Will you kindly allow me to thank Mr. W. W. Carus Wilson for his last let
 
 The version in the *Leeds Intelligencer* of Saturday 06 June 1857 is immediately followed on the printed page by the letter from W. W. Carus Wilson that appeared in the *Leeds Mercury* of Thursday 28 May 1857.
 
-This is turn is followed directly on the page by a fragment of the Henry Shepheard letter that appeared in the *Westmoreland Gazette* and which is credited to as a letter that appeared in *The Times* of (presumably) June 3rd.
+This is turn is followed directly on the page by a fragment of the Henry Shepheard letter that appeared in *The Times* and that was reporinted in the *Westmoreland Gazette*.
 
 ```{admonition} Charlotte Bronte's own account of Cowanbridge is not to be trusted, June 1857
 :class: dropdown
