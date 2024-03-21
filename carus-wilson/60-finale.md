@@ -119,7 +119,7 @@ Mr. Wilson departed on the 30th ult., at 20, Montague-place, London, and was int
 
 ```
 
-```{admontion} Brief memoir of the late Rev. W. Carus-Wilson, 1960
+```{admonition} Brief memoir of the late Rev. W. Carus-Wilson, 1960
 :class: seealso
 
 A transcript of a *[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860, can be found in an appendix.
