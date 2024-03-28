@@ -26,7 +26,7 @@ Hassell also relates, at pp207-8, a curious tale regarding the local atmospheric
 
 > When we sat out from Knowle a storm seemed to be pending in the horizon ; and by the time we had reached St. Lawrence we heard several claps of thunder. As every incident which tended to produce picturesque effects instantly attracted our attention, we cast our eyes towards the sea, in order to observe whether any alteration had taken place on its smooth surface ; when, to our great surprise, we plainly perceived a vessel, within eight miles of the shore, labouring under the effects of the storm, and apparently in the greatest distress. And what was extremely striking was, that though the sea where the vessel happened to be, rolled (as it is commonly termed,) mountains high, yet not a breath of that air, which was there so tempestuous, ruffled the water on the beach beneath us.- An operation of Nature that had never before fallen under our inspection; and we greatly regretted not having with us some ingenious painter, in the marine line, to take an exact representation of it.
 
-*From a similiar spot, in "Back of the Wight"??, tales told of seeing mackerel down in the bay around Chale.*
+*From a similar spot, in "Back of the Wight"??, tales told of seeing mackerel down in the bay around Chale.*
 
 A few years later in [*The history of the Isle of Wight; military, ecclesiastical, civil, & natural*](https://archive.org/details/historyofisleofw00warniala/page/180/mode/2up), 1795, pp180-5, Richard Warner seems more believing of the legend, as well as being supportive of the idea that some of the downs are rising, rather than others sinking:
 
