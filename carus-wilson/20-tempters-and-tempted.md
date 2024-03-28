@@ -106,7 +106,7 @@ Testimonial of Respect to the Rev. C. W. Wilson, M.A. There are probably few of 
 
 His particular passion appears to have been education, along with engaging in community based activities, such as the arrangements for a community party in celebration of the wedding of H.R.H. The Princess Royal, in 1858.
 
-````{admonition} A confusions of Revd. Wilsons
+````{admonition} A confusion of Revd. Wilsons
 :class: seealso dropdown
 
 A sample of articles avbout *this* Revd. Wilson shows the apparently universal ahigh regard and deep affection that was held for him.
@@ -292,7 +292,7 @@ He felt it his duty to deny most clearly, and to protest most strongly against t
 
 ```
 
-At this point, it seems as if one of the council members made a claim regarding regular reports made by the Town Missionary, Mr. Tucker, to the Town CLerk (Mr. Eldridge) which he passed on to the Magistrates.
+At this point, it seems as if one of the council members made a claim regarding regular reports made by the Town Missionary, Mr. Tucker, to the Town Clerk (Mr. Eldridge) which he passed on to the Magistrates.
 
 ```{admonition} Secret reports
 :class: dropdown

@@ -8,7 +8,19 @@ If you go by the reports of the Borough Sessions, it seems to have been quite a 
 
 ## A colourful character, and, quite literally, an old offender — Repentance Adams
 
-A character that appears from the 1830s and into the 1850s, often around the winter time — Repentance Adams.
+A character that appears from the 1830s and into the 1850s, often around the winter time — Repentance Adams — although the first time we meet her, it is under her given name, *Patience*.
+
+```{admonition}
+:class: dropdown
+[Hampshire Advertiser - Saturday 11 January 1834](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18340111/024/0003)
+
+NEWPORT.
+
+The Epiphany Sessions was held at the Guildhall, on Tuesday last, for this borough, borougn, before Charles Bassett Roe, Esq. Mayor, Thomas Sewell, esq. Deputy Recorder, and other Justices.
+
+Patience Adams, aged 42, charged with having stolen a bed, the property of Martha Morris, found gUilty, —one months' imprisonment.
+
+```
 
 ```{admonition} Two old offenders stealing turnips, December 1835
 :class: dropdown
@@ -26,11 +38,47 @@ Repentance Adams, an old offender, was committetd to Winchester to take her tria
 
 ```
 
+```{admonition} Peeking out from under her apron, December 1838
+:class: dropdown
+[Hampshire Independent - Saturday 08 December 1838](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18381208/034/0003)
+
+Borough Court.
+
+An old offender, under the singular but inappropriate cognomen of *Repentance* Adams, was charged with stealing a door mat from Messrs. Memis and Bright, dyers, &c. These petty thefts have become so common of late that the police have kept a sharp eye for the offenders, and on Friday last the corner of the aforesaid met was seen peeping from under the corner of Mrs. Adams's apron. Repentance has therefore been committed to Winchester gaol, and as the Sessions will not be holden until January, it cannot be said in this case by the gaoler that Repentance came too late.
+```
+
+```{admonition} Committed to the County Gaol, December 1838
+:class: dropdown
+[Salisbury and Winchester Journal - Monday 10 December 1838](Salisbury and Winchester Journal - Monday 10 December 1838)
+
+Winchester. SATURDAY, Committed to the County Gaol
+
+Repentance Adams, stealing, Newport, I. W., a door-mat, the property of Wm. Minns.
+```
+
+```{admonition} Patience Adams, 2 months imp., January 1839
+:class: dropdown
+[Salisbury and Winchester Journal - Monday 07 January 1839](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18390107/025/0004)
+
+Winchester. SATURDAY, JANUARY 5.
+
+Hants Quarter Sessions— Sentences of the prisoners.
+
+Patience Adams stealing a mat— *2 months' imp.*
+```
+
 ```{admonition} Stealing a rush basket, December 1845
 :class: dropdown
 [Hampshire Advertiser - Saturday 06 December 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008)
 
 A woman named Repentance Adams (an old offender, who some years ago created such a consternation by her numerous robberies of door-mats all over the town), was charged with stealing a new rush basket from the shop of Mrs. Mills, Town Gate. A woman named Inkstone, deposed to seeing her steal it; and Mr. Cooke, the borough policeman, stated he found it exposed for sale, shortly after she had stolen it, at the shop of Mr. Hale, grocer, Cobham-street, to whom, it appeared, she had just before disposed of it. She was committed to take her trial.
+```
+
+```{admonition} Mats from doors, December 1845
+:class; dropdown
+[Hampshire Telegraph - Saturday 13 December 1845](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001)
+
+At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush basket, from thie door of Mr. Mills, in St. James's street, and was fully committed for trial at the sessions.— She was a few years ago tried for stealing mats from doors. 
 ```
 
 ```{admonition} Stealing a basket, January 1846
@@ -44,7 +92,7 @@ Repentance Adams, an old offender, was charged with stealing a basket, the prope
 :class: dropdown
 [Hampshire Chronicle - Saturday 19 January 1850](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18500119/023/0004)
 
-Committed the County Gaol.—For vagrancy— Repentance Adams, 14 days.
+Committed to the County Gaol.— For vagrancy— Repentance Adams, 14 days.
 ```
 
 ```{admonition} Stealing a handkerchief and its contents, aged eighty, April 1858
@@ -55,6 +103,27 @@ An old woman of eighty, named Repentance Adams, was charged with stealing a hand
 
 It appeared that the prosecutor was wending his way homeward with the bundle, and when at the bottom of Hunny Hill, he opened the wicket-gate of the cottage on the bridge, and placed his bundle under the hedge outside; went indoors to light his pipe, where be ttood gossiping a minute or two, and when he came out and looked for his bundle, it was gone. A young man working in the garden, named Windebank, swore that he saw the prisoner carry off a bundle, which he had no doubt was the one lost, although he was not then aware Harwood had just before thrown down the bundle which he saw the old woman pick up. It seems she must have had it under her shawl when Harwood spoke to her just after he left the cottage, as he passed her. Windebank had not then heard of his loss, and as soon as he did, they found out the old woman, who had, however, in the meantime, endeavonred to get rid of the spoil, somehow, and wanted to prove an alibi; but the evidence was too strong against her, and she contented herself by merely asserting she was not guilty, and was committed to Winchester Gaol for one month.
 
+```
+
+In a report of the same case in the *Isle of Wight Mercury*, Mrs. Adams first name is give as *Patience".
+
+```{admonition} An inmate of the House of Industry, April 1858
+:class: dropdown
+[Isle of Wight Mercury - Saturday 17 April 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001417/18580417/013/0002)
+
+NEWPORT. County Petty Sessions, APRIL 10th.
+
+Before Sir P. Gordon, bart. (in the chair), Sir John Simeon, bart., Capt. Hammond, R.N., Capt. Crozier, R.N., James Cope, & Le Marchant Thomas, Esqrs.
+
+Patience Adams was placed at the bar, charged with stealing a bundle, containing various articles, the property of James Harwood.
+
+James Harwood, sworn— I am an inmate of the House of Industry. On Tuesday last, about half-past 4 o'clock in the afternoon, I went to Newport. On returning, I went to a house at the bottom of Hnnny hill, and asked for a light for my pipe. I only stopped the wicket; I did not go in. I put my bundle at the corner of the hedge. It contained 2 1/2 oz. of tobacco, 1/2 lb. of sugar, 2 penny lard cakes, and a small piece of bacon. These things were tied up in a handkerchief. After talking to the young man (Windybank) and had gone about 20 yards, I came back for my bundle and found it was gone. It was out of my sight for about 10 minutes from the time I first put it down. I saw Mrs. Adams just as I was going up the hill. She was out sight when I missed the bundle. She was going towards the town. While talking to the young man, the bundle was close to my feet. No one could have taken it while I stood there. About an hour after I lost the bundle, I went to the prisoner’s lodgings. I asked her if she had seen my bundle. She answered with an oath that she had not. I told her there was a young man who saw her take it up. She said she would face him (James Windybauk). She went with me to him, and strongly denied it.
+
+James Windybank, sworn— I live at the bottom of Hunny hill. Between 4 and 5 o'clock on Tuesday last, James Harwood came to the wicket and asked me for a light. I gave it him. He stopped a few minutes and then went on. Shortly after, I saw Mrs. Adams come along towards town. I saw her stoop down between the wicket and the hedge, and pick up a handkerchief. It appeared to have something in it. I did not notice it before while Harwood was talking. She put it partly under her shawl and went off with it. I did not say anything about it, as I did not know to whom it belonged. She afterwards came to my house with Harwood. She asked if I had seen her take the handkerchief. I said Yes; but she said she did not.
+
+Prisoner, in defence— I have nothing to say, only that I am not guilty.
+
+The prisoner, preferring her fate to be determined in this court, received the sentence of one week's imprisonment at Winchester.
 ```
 
 ## A License to Misbehave?

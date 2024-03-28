@@ -2,15 +2,28 @@
 
 *There's likely a long way to go on this, figuring out a proper story structure, finding the right characters to include and anecodotes to tell. Also finding variants for different time slots: a quick 5 minute tale, an 89, a 12, a 12, a 40, an hour long show. And so on. But for now, here's a quick run throufh of some of what I remember...,*
 
-It's the 1840s, Newport, the Isle of Wight. The telegraph is still a few years away, and the railway, but there are gas lights illuminating the town. Dickens had been resident on the island in '49, and his books were as popular as you might expect. At the end of the summer, "Shirley", a Luddite tale and the new book by Currer Bell, author of the groundbreaking "Jane Eyre" a couple of years previously, was about to go to press. Speculation would surely start up again about who the real author actually was. And perhaps a few, in anticipation, had started re-reading Jane's Eyre tale, of her time in Lowood School, with its miserable food, and cold damp chill, and the typhus, and the tyrannical Mr. Brocklehurst, who controlled the shcool as if it were some of prison camp for clergymen's daughters.
+I'd like to tell you a story. A story I stumbled across and pieced together over a period of about six weeks earlier this year. A story that started when I stumbled across a report of a letter, a *memorial*, presented to the magistrates of Newport whilst looking through the  online British Newspaper Archive. A story of the *nursery of vice* that Newport was at the time. And a story that ended with some literary detective work, and a very public controversy that played out in the northern press.
+
+So let's set the scene.
+
+It's the 1840s. Around the time my grandparent's grandparents parents would have been born. We're on the Isle of Wight. In Newport.
+
+The electric telegraph is still a few years away from reaching town, amd the railway hasn't arrived yet either. But there are gas lights illuminating some of the streets. Dickens stopped over on the island in '49, in Bonchuch, and his books are as popular as you might expect.
+
+At the end of that summer of 1849, "Shirley", a Luddite tale and the new book by Currer Bell, author of the groundbreaking "Jane Eyre" a couple of years previously, is about to go to press. Speculation would surely start up again about who the real author actually was. And perhaps a few, in anticipation, had started re-reading Jane's Eyre tale, of her time in Lowood School, with its miserable food, and cold damp chill, and the typhus, and the tyrannical Mr. Brocklehurst, who controlled the shcool as if it were some of prison camp for clergymen's daughters.
 
 Out on the Cowes road, just past Hunnyhill, Parkhurst Barracks; and the prison: something of an experiment, a facility for boys, something to help them become *useful* members of society, an apprenticeship, or transportation, in exchange for a pardon.
 
-In town, the area around the old St Thomas' Church, between Pyle Street and South Street, or Cosham Street as it was then known, opposite what's now the bus station, that was the area that had a certain *reputation*. For sure, you could find female company on Paradise Row, just down from the Castle Inn, on the other side of the road, but the area around Tontine? Plenty of places for a drink around there. And plenty of places for more.
+In town, the area around the old St Thomas' Church, between Pyle Street and South Street, or Cosham Street as it was then known, opposite what's now the bus station, that was the area that had a certain *reputation*. For sure, you could find company on the appropriately named Paradise Row, just down from the Castle Inn, on the other side of the road there, but the area around Tontine Yard, there were plenty of places there for a drink. And plenty of places for more.
 
-The streets could be lively too. Rarely was week when the borough court  didn't have someone up on a charge of bring drunk, or disorderly. And the men could be just as bad.
+The streets could be lively too. Rarely was week when the borough court  didn't have someone up on a charge of being drunk, or disorderly, shouting and singing in the streets at all hours. And the men could be just as bad.
 
-The 1850s. 1854, to be exact. Francis Pittis, auctioneer, fair-minded and just, as you might hope for one of the borough magistrates, is mid-way through his second, year-long term as Mayor. And a great honour it is, too, to be Mayor at the this time, for the funds have finally been raised, and just within the five year time limit proposed, for replacing the increasingly derelict St. Thomas Church with a new Church. His Royal Highness, Prince Albert, has agreed to lay the foundation stone, and the Bishop of Winchester will preside over the ceremony too. Tickets are sold, seats are erectd, and a procession formed, the local Freemasons providing a strong showing and also taking part in the ceremony.
+If you search through the old archives, you find some of the names coming round again and again, some of them quite quickly, some of them years apart.
+
+And one of the best named was old Repentance Adams, and I use the term advisedly. And you can't help but get the feeling that she someone who was known around town, someone you;d recognise, and would have heard tales of. I first came across her described as an "old offender" in 1835. She'd been hauled up before the court for stealing turnips and was probably in her late fifties at the time. A couple of years later, she was back in court again, at the centre of something of a *cause célèbre*. It seemed that someone in Newport had been stealing doormats. From all over town. When the culprit was at last discovered, it was old Repentance Adams. In the mid-1840s, it was baskets. And four months hard labour for a women now in her sixties. 1850, and she's up before the bench for vagrancy. The last mention I saw of her, she was in her eighties. TO DO
+
+
+Back in Newport, back in 1854, Francis Pittis, auctioneer, fair-minded and just, as you might hope for one of the borough magistrates, is mid-way through his second, year-long term as Mayor. And a great honour it is, too, to be Mayor at the this time, for the funds have finally been raised, and just within the five year time limit proposed, for replacing the increasingly derelict St. Thomas Church with a new Church. His Royal Highness, Prince Albert, has agreed to lay the foundation stone, and the Bishop of Winchester will preside over the ceremony too. Tickets are sold, seats are erectd, and a procession formed, the local Freemasons providing a strong showing and also taking part in the ceremony.
 
 A bottle, containing the coins of the realm and parchment roll, are placed in a cavity beneath the stone. The foundation stone was then partly lowered, and a silver trowel presented to Prince Albert, who uses it to spread cement on the lower stone. The upper stone is let down slowly, with solemn music, and appropriate words are said. His Royal Highness strikes the stone three times with a mallet, and its level is checked with a plumbrule. The Architect presents a maul to the Grand Master, who knocks the stone three times with it. And the brethren respond: *so mote it be*. The tools and the plans now presented to the builder, he in turn scatters corn on the stones then pours wine, and oil, over it. A prayer is offered, and again the brethren respond — 
 so mote it be — and the foundation stone is finally considered laid.
@@ -61,19 +74,19 @@ The Bench conferred and said that as they were pretty sure that Mr. Pittis would
 
 At which point we might imagine that Mr Eldridge, Pittis' council, and Mr. Pittis had a brief exchange, as the apology was accepted on behalf of Mr. Pittis, who, being a fair and just man, had not wanted to push things any further than an honourable resolution, being the good Christian that he, which is to say, Mr. Pittis, certainly was.
 
-Carus Wilson's direct engagement with Island matters seems to tail off at this point, aside from reports of the occasional sermon, fundraising for the new CHurch and the local schools, but that's not to say he wasn't busy.
+Carus Wilson's direct engagement with Island matters seems to tail off at this point, aside from reports of the occasional sermon, fundraising for the new Church and the local schools, but that's not to say he wasn't busy.
 
-Indeed, he seems to have been spending a lot of time on the mainland, in Portsmouth and Gosport, through eighteen fifty six and seven, supporting the soldiers there. although I'm nopt sure how he got there? Was a "through boat" from Ventor?!
+Indeed, he seems to have been spending a lot of time on the mainland, in Portsmouth and Gosport, through eighteen fifty six and seven, supporting the soldiers there. although I'm not sure how he got there? Was there a "through boat" from Ventor?!
 
 Carus Wilson's interests in the moral life of soldiers seems to have started whilst dtravelling in Southern European. Previous encounters with Sardinian soldiers in Nice and French soldiers in Boulogne had resulted in a mission to provide them with Bibles and prayer books. On the Island, his initial concerns appear to have been for the morals of the tempted soldiers at Parkhust. But in Portsmouth, he saw a greater opportunity: an opportunity to *start* something.
 
 Just as he had been motivated three decades before to found a school to support the less well off clergymen by providing an education for their daughters for an affordable fee, in Portsmouth he championed the idea of Soldiers' Institute, a club for soldiers, similir in astyle to Mechanics Insitutes, and importantly, *away from the barracks* where the soldiers could go an relax, play games, drink coffee, consult books an newspapers in the reading room or library. And maybe even attend a few classes or two. Not *just* bible classes, but perhaps those as well.
 
-And so it was — a building was found, money raised by subscription, and the Soldiers' Institute was born.
+And so it was — a building was found, money was raised by subscription, and the Soldiers' Institute was born. TO DO
 
 But still, Carus Wilson couldn't resist making a making a point though his pen.
 
-An so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote another New Year's tract — °Portsmouth in Flames° — and I *have* managed to track a copy of this one down.
+An so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote another New Year's tract — °Portsmouth in Flames° — and I *have* managed to track a copy of this one down, albeit as part of a collection of tracts published by the Ipswich Temperance Society. Which perhaps gives you a clue as to its theme.
 
 The flames it describes are the flames of TO DO
 
@@ -83,7 +96,7 @@ But the response appears to have been mockery.
 
 Through 1857, Carus Wilson continued to visit Gosport, giving out bibles and prayer books; NAME,  his name occasionally appearing in the Hampshire press TO DO
 
-But in the North of England, his name was filling the local and regional press with controversey.
+But in the North of England, his name was filling the local and regional press with controversy.
 
 When Currer Bell had died, and identified to one and all as Charlotte Bronte, of Haworth, TO DO
 

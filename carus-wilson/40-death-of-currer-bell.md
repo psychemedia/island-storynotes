@@ -12,7 +12,7 @@ JANE EYRE : AN AUTOBIOGRAPHY. Edited by CURRER BELL. 3 vols. Published: October,
 
 THE OBITUARY this week includes—
 
-Mrs. Nichol, formerly Miss Bronte, who, under the nom de piume of Currer Bell established a lasting reputation by the publication of "Jane Eyre." We have two other novels from her pen, "Shirley," and " Vilette," and all are especially distinguished for great power of conception and vigorous portrayal of character. The unfortunate lady, wbo was the last survivor of a family of six, died on Saturday last, at her father's house, at Haworth, Yorkshire.
+Mrs. Nichol, formerly Miss Bronte, who, under the nom de plume of Currer Bell established a lasting reputation by the publication of "Jane Eyre." We have two other novels from her pen, "Shirley," and " Vilette," and all are especially distinguished for great power of conception and vigorous portrayal of character. The unfortunate lady, wbo was the last survivor of a family of six, died on Saturday last, at her father's house, at Haworth, Yorkshire.
 ```
 
 ```{admonition} The Author of Jane Eyre, June 1855

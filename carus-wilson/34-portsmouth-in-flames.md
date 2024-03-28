@@ -3,7 +3,7 @@
 A year on from the publication of "Tempters and Tempted", and it seems that the Revd. W. Carus Wilson could not but help himself, feeling compelled to publish another New Year's Day tract that was almost guaranteed to meet with less than universal approval.
 
 ```{admonition} PORTSMOPUTH IN FLAMES!!!
-:class: seelalso
+:class: seealso
 
 Available in *The lending library of Ipswich temperance tracts, [v. 9](https://babel.hathitrust.org/cgi/pt?id=nyp.33433006521334&seq=139).
 
