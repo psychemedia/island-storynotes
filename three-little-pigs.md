@@ -4,24 +4,13 @@ From the archived [December 2020](https://shanklinhistory.net/S&DHS%20Dec%202020
 
 > Henry Smith and Three Little Pigs
 >
-> Nursery rhymes were passed down orally through the generations, with many variations in the detail, until people began to collect and publish them. The earliest printed version of one tale was Pigweeney the Wise: or The History of a Wolf & Three Pigs in 1830. It involved a fairy and a house of iron rather than brick. A variation from Dartmoor, published in 1853, involved a fox stalking a group of pixies. It is thanks to Henry Smith that we have the authentic Shanklin version of the story. It includes a reference to the family farm and the additional feature of an apple tree which does not appear in other versions. Henry's version was sent, with other tales then current in the Isle of Wight, to James Orchard Halliwell, a friend of his brother Charles, who included it in the 1853 5th edition of his *Nursery Rhymes and Nursery Tales of England*. 
+> Nursery rhymes were passed down orally through the generations, with many variations in the detail, until people began to collect and publish them. The earliest printed version of one tale was Pigweeney the Wise: or The History of a Wolf & Three Pigs in 1830. It involved a fairy and a house of iron rather than brick. A variation from Dartmoor, published in 1853, involved a fox stalking a group of pixies. It is thanks to Henry Smith that we have the authentic Shanklin version of the story. It includes a reference to the family farm and the additional feature of an apple tree which does not appear in other versions. Henry's version was sent, with other tales then current in the Isle of Wight, to James Orchard Halliwell, a friend of his brother Charles, who included it in the 1853 5th edition of his *Nursery Rhymes and Nursery Tales of England*.
 
 According to a [note](https://isleofwightfolkarchive.co.uk/Christmas%20Bumper%20Box.pdf) on "Dave and Anwyl's *Isle of Wight Folk Archive*" website:
 
 > The Three Little Pigs is amongst many stories and tales that were collected by Henry Smith. It is thought that his aunt Amelia from Arreton, who used to entertain people with stories, may have told this one. It refers to the Shanklin Fair which would have probably have been the Hiring / MopFair just after Michaelmas. The fair would have been at the beginning of October which also relates to there being apples on the ground. It also talks of the Mr Smith’s Home Field and Merry Garden at Languard.
 
-The claim that the tale was submitted to Halliwell some time earlier is attested to by an acknowledgement in the preface to the 1849 edition, dated April, 1849, [p. ix-x](https://archive.org/details/popularrhymesan00hallgoog/page/n14/mode/2up):
 
-> The compiler's best thanks are due to Captain Henry Smith for the very interesting communication of rhymes current in the Isle of Wight ; ...
-
-```{admonition} Smith's other submissions to Halliwell
-:class: seealso dropdown
-
-Smith is also cited in the 1849 edition in respect of the submission relating to Shrove Tuesday customs, [pp. 246-9](https://archive.org/details/popularrhymesan00hallgoog/page/n266/mode/2up).
-
-That edition also includes references to Isle of Wight folklore regarding wood pigeons, [pp.172-3](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up); dragonfiles, [pp. 174-5](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up); and a New Year wassail, [p. 236](https://archive.org/details/popularrhymesan00hallgoog/page/n256/mode/2up).
-
-```
 
 ```{admonition} *The Three Little Pigs*, in Halliwell's "The nursery rhymes of England", 1886
 :class: dropdown
@@ -175,7 +164,163 @@ Jacobs' also provides some source notes:
 
 ```
 
-A more simplistic and childish variant appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, the pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, and there is no mention of Shanklin or other local Island features:
+The claim that the tale was submitted to Halliwell some time earlier is attested to by an acknowledgement in the preface to the 1849 edition, dated April, 1849, [p. ix-x](https://archive.org/details/popularrhymesan00hallgoog/page/n14/mode/2up):
+
+> The compiler's best thanks are due to Captain Henry Smith for the very interesting communication of rhymes current in the Isle of Wight ; ...
+
+Smith is also cited in the 1849 edition in respect of the submission relating to Shrove Tuesday customs,  [pp. 246-9](https://archive.org/details/popularrhymesan00hallgoog/page/n266/mode/2up):
+
+````{admonition} ISLE OF WIGHT SHROVERS
+:class: dropdown seealso
+
+James Orchard Halliwell-Phillipps, [Popular Rhymes and Nursery Tales: A Sequel to the Nursery Rhymes of England](https://archive.org/details/popularrhymesan00hallgoog/page/n266/mode/2up), 1849, pp. 246-9.
+
+ISLE OF WIGHT SHROVERS
+
+Until within about the last thirty years, it had been the custom in the Isle of Wight from time immemorial at all the farms and some other charitable houses to distribute cakes on Shrove-Tuesday, called Shrove-cakes, to the poor children of the parish or neighbourhood, who assembled early in the morning at the different villages, hamlets, and cottages, in parties of from two to thirty or more, for the purpose of what was denominated " Going Shroving," and the children bore the name of Shrovers. At every house they visited they had a nice Shrove-cake each given them. In those days the winters were much more inclement and of longer duration than at the present time, and it often happened that, in addition to a severe frost, the ground waa covered several inches high with snow, yet however cold or intense the weather, it did not prevent these little ones from what they called in the provincial dialect *Gwine a Shrovun*, and they jogged merrily along hand in hand from one house to another to obtain their cakes ; but, before receiving them, it was expected and deemed necessary that they should all sing together a song suitable to the occasion; those who sang the *loudest* were considered the *best Shrovers*, and sometimes had an extra cake bestowed on them; consequently, there was no want of noise (whatever there might have been of harmony) to endeavour to get another Shroving gift. There were many different versions of the song according to the parishes they lived in. The one generally sang by the children of the East Medina was as follows:
+
+A Shrovun, a Shrovun,  
+I be cum a Shrovun,  
+A piece a bread, a piece a cheese,  
+A bit a your fat beyacun.  
+Or a dish of doughnuts,  
+Aal of your own meyacun !
+
+A Shrovun, a Shrovun,    
+I be cum a Shrovun,  
+Nice meeat in a pie.  
+My mouth is verrey dry !  
+I wish a wuz zoo well a-wet,  
+I'd zing the louder for a nut !
+
+*Chorus.*  
+A Shrovun, a Shrovun,  
+We be cum a Shrovun!
+
+The song of the children of the West Medina was different :
+
+A Shrovun, a Shrovun,  
+I be cum a Shrovun,  
+Linen stuff es good enuff,  
+Vor we that cums a Shrovun.  
+Vine veathers in a pie.  
+My mouth is verrey dry.  
+I wish a wuz zoo well a-wet,  
+Then I'd zing louder vor a nut !
+
+Dame, `[The mistress of the house, if past the middle age« was called Dame, i. e. Madame.]` dame, a igg, a igg, `[An egg an egg]`  
+Or a piece a beyacun.  
+Dro awaay `[Throw away]` the porridge pot.  
+Or crock to bwile the peeazun.  
+Vine veathers in a pie,  
+My mouth is verrey dry.  
+I wish a wuz zoo well a-wet,  
+Then I'd zing louder vor a nut !
+
+*Chorus*.
+
+A Shrovun, a Shrovun,  
+We be cum a Shrovun !
+
+If the song was not given sufficiently loud, they were desired to sing it again. In that case it very rarely required a second repetition. When the Shrovers were more numerous than was anticipated, it not unfrequently happened that, before the time of the arrival of the latter parties, the Shrove-cakes had been expended ; then dough-nuts, pancakes, bread and cheese, or bread and bacon, were given, or halfpence were substituted ; but in no instance whatever were they sent from the door empty-handed. It is much to be regretted that this charitable custom should have become almost extinct ; there being very few houses at the present time where they distribute Shrove-cakes.
+
+" There was another very ancient custom somewhat similar to the Shroving, which has also nearly, if not quite, disappeared ; probably it began to decay within the last half-century : this was a gift of cakes and ale to children on New Year's Day, who, like the Shrovers, went from house to house singing for them ; but, if we may judge from the song, those children were for the most part from the towns and larger villages, as the song begins, *"A sale, a sale in our town!"* there is no doubt but it was written for the occasion some centuries since, when "a sale" was not a thing of such a common occurrence as now, and when there was one, it was often held in an open field in or near the town." So writes my kind and valued correspondent, Captain Henry Smith, but *town* is, I think, merely a provincialism for *village*. It is so, at least, in the North of England. As for the phrase *a seyal*, it seems to be a corruption of *wassail*, the original sense having been lost. The following was the song :
+
+A seyal, a seyal in our town,  
+The cup es white and the eal es brown ; T 
+he cup es meyad from the ashen tree,  
+And the eal es brew'd vrom the good barlie.
+
+*Chorus.* Cake and eal, cake and eal,  
+A piece of cake and a cup of eal ;  
+We zing merrily one and aal  
+For a piece of cake and a cup of eal.
+
+Little maid, little maid, troll the pin\*, 
+Lift up the latch and we'll aal vail in; `[]`
+Ghee us a cake and zum eal that es brown,
+And we dont keer a vig vor the seyal in the town.  
+
+*Chorus.* W'ill zing merrily one and aal  
+Vor a cake and a cup of eal ;  
+God be there and God be here.  
+We wish you aal a happy New Year.
+
+```[\* That is, turn the pin inside the door in order to raise the latch. In the old method of latching doors, there was a pin inside which was turned round to raise the latch. An old Isle of Wight song says, —
+
+Then John he arose.  And to the door goes.  And he trolled, and he trolled at the pin.  
+The lass she took the hint.  
+And to the door she went.  
+And she let her true loye in.]```
+
+The above was the original song, but within the last fifty or sixty years, as the custom began to fall off, the chorus or some other part was often omitted.
+
+````
+
+That edition also includes references to Isle of Wight folklore, presumably from the same source, regarding wood pigeons, [pp.172-3](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up); dragonfiles, [pp. 174-5](https://archive.org/details/popularrhymesan00hallgoog/page/n192/mode/2up); and a New Year wassail, [p. 236](https://archive.org/details/popularrhymesan00hallgoog/page/n256/mode/2up).
+
+```{admonition} The Wood Pigeon
+:class: dropdown seealso
+
+James Orchard Halliwell-Phillipps, [Popular Rhymes and Nursery Tales: A Sequel to the Nursery Rhymes of England](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up), 1849, pp. 172-3.
+
+THE WOOD-PIGEON.
+
+An Isle of Wight legend respecting this bird tells us that, soon after the creation of the world, all the birds were assembled for the purpose of learning to build their nests, and the magpie, being very sagacious and cunning, was chosen to teach them. Those birds that were most industrious, such as the wren and the longtailed-capon, or pie-finch, he instructed to make whole nests in the shape of a cocoa-nut, with a small hole on one side ; others, not so diligent, he taught to make half-nests, shaped something like a teacup. Having thus instructed a great variety of birds according to their capacity, it came to the turn of the wood-pigeon, who, being a careless and lazy bird, was very indifferent about the matter, and while the magpie was directing him how to place the little twigs, &c., he kept exclaiming, " What, athurt and across ! what zoo ! what zoo ! — athurt and, across! what zoo! what zoo!" At length the magpie was so irritated with his stupidity and indolence, that he flew away, and the wood-pigeon, having had no more instruction, to this day builds the worst nest of any of the feathered tribe, consisting merely of layers of cross-twigs.
+
+...
+
+```
+
+```{admonition} Dragon-flies
+:class: seealso dropdown
+
+James Orchard Halliwell-Phillipps, [Popular Rhymes and Nursery Tales: A Sequel to the Nursery Rhymes of England](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up), 1849, pp. 174-5.
+
+
+DRAGON-FLIES.
+
+In some parts of the Isle of Wight, these insects are found of a peculiarly large size, and their colours are extremely beautiful. There is an old legend respecting them which is still current. It is supposed by the country people that their sting or bite is venomous, as bad as that of a snake or adder, and perhaps from this belief their provincial name of snake-stanger or snakestang is derived. It is said that these insects can distinguish the good children from the bad when they go fishing : if the latter go too near the water, they are almost sure to be bitten ; but when the good boys go, the dragon-flies point out the places where the fish are, by settling on the banks, or flags, in the proper direction. This curious myth is commemorated by the following song :
+
+Snakestanger! snakestanger ! viae aal about the brooks ;  
+Sting aal the bad bwoys that vor the vish looks.  
+But lat the good bwoys ketch aal the vish they can.  
+And car'm awaay whooam `[Carry them away home.]` to vry em in a pan;  
+Bred and butter they shall yeat at zupper wi' their vish.  
+While aal the littul bad bwoys shall only lick the dish.
+
+This has of late years been introduced into the nursery, but in different suit of clothes :
+
+Dragon fly! dragon fly! fly about the brook;  
+Sting all the baa boys who for the fish look ;  
+But let the good boys catch all that they can.  
+And then take them home to be fried in a pan ;  
+With nice bread and butter they shall sup upon their fish,  
+While all the little naughty boys shall only lick the dish.
+
+```
+
+```{admonition} Isle of Wight Wassail
+:class: dropdown seealso
+
+James Orchard Halliwell-Phillipps, [Popular Rhymes and Nursery Tales: A Sequel to the Nursery Rhymes of England](https://archive.org/details/popularrhymesan00hallgoog/page/n256/mode/2up), 1849, p236
+
+New Year's Day
+
+Wasael or Wassal, — A remnant of this part of our Saxon manners still exists at Yarmouth, and strange to say, in no other part of the Isle of Wight. On the first day of the new year the children collect together and sing wassel or wassal through the streets ; the following is their song (see p. 249) :
+
+Wassal, wassal, to our town !  
+The cup is white and the ale is brown ;  
+The cup is made of the ashen tree.  
+And so is the ale of the good barley ;  
+Little maid, little maid, turn the pin.  
+Open the door and let us come in ;  
+God be here, God be there.  
+I wish you all a happy new year !
+
+```
+
+A more simplistic and childish variant of the *Three Little Pigs* tale appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, the pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, and there is no mention of Shanklin or other local Island features:
 
 ```{admonition} *The Three Little Pigs*, Lang, 1892
 :class: dropdown
