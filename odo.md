@@ -7,7 +7,7 @@ SEE ALSO godshill.md
 
 
 http://crossbones.org.uk/
-In the back streets of south London, a short walk from Shakespeare’s Globe, Southwark Cathedral and The Shard, is the site of an old burial ground with an extraordinary history. For centuries it was a paupers’ graveyard for the area formerly known as The Mint, one of London’s poorest and most violent slums.  According to local lore, it was once the final resting place for the Winchester Geese, medieval sex workers licensed by the Bishop of Winchester to work in the brothels of The Liberty of the Clink, which lay outside the law of the City of London.
+In the back streets of south London, a short walk from Shakespeare's Globe, Southwark Cathedral and The Shard, is the site of an old burial ground with an extraordinary history. For centuries it was a paupers' graveyard for the area formerly known as The Mint, one of London's poorest and most violent slums.  According to local lore, it was once the final resting place for the Winchester Geese, medieval sex workers licensed by the Bishop of Winchester to work in the brothels of The Liberty of the Clink, which lay outside the law of the City of London.
 
 
 http://www.planetslade.com/cross-bones-05.html
@@ -58,8 +58,8 @@ https://historicalpageants.ac.uk/pageants/1103/
 
 
 https://normannis.co.uk/wp/raggedbanner/2020/10/11/a-historical-vignette-the-graveyard-of-the-outcast-dead/
-Following the Norman conquest, the hide of Southwark was given to William the Conqueror’s brother Bishop Odo, but in 1090 he leased it to a local priory, who later passed it on to the Bishop of Winchester (Henry de Blois, brother to the future King Stephen). The nature of the deal meant that the area became a ‘Liberty’, meaning it was under the jurisdiction of the priory only. It wasn’t policed by the King, nor the county officials of Surrey, and most importantly, not the City of London either. So, with the protection and freedom of the church, the outsiders moved into Southwark. And since they were there to make money, they sold the one thing they had that the citizens of London wanted to buy: sex.
- most pragmatic church and political figures recognised that just being sinful wasn’t going to stop young people having sex, and reasoned that prostitution was a necessary evil to keep the sin somewhere safely out of the way (“Take away the sewer and you will fill the palace with pollution”, as Thomas Aquinas would later put it). And then there was money. Brothels, also known as ‘stews’, could turn over a lot of money and be charged hefty rents, and this made Southwark one of the most profitable bits of land in the country. The Bishop of Winchester was more than happy to tolerate a bit of sin in exchange for filling his coffers. So the Southwark sex trade boomed. The prostitutes even gained the nickname ‘Winchester geese’, in honour of their landlord..
+Following the Norman conquest, the hide of Southwark was given to William the Conqueror's brother Bishop Odo, but in 1090 he leased it to a local priory, who later passed it on to the Bishop of Winchester (Henry de Blois, brother to the future King Stephen). The nature of the deal meant that the area became a ‘Liberty', meaning it was under the jurisdiction of the priory only. It wasn't policed by the King, nor the county officials of Surrey, and most importantly, not the City of London either. So, with the protection and freedom of the church, the outsiders moved into Southwark. And since they were there to make money, they sold the one thing they had that the citizens of London wanted to buy: sex.
+ most pragmatic church and political figures recognised that just being sinful wasn't going to stop young people having sex, and reasoned that prostitution was a necessary evil to keep the sin somewhere safely out of the way (“Take away the sewer and you will fill the palace with pollution”, as Thomas Aquinas would later put it). And then there was money. Brothels, also known as ‘stews', could turn over a lot of money and be charged hefty rents, and this made Southwark one of the most profitable bits of land in the country. The Bishop of Winchester was more than happy to tolerate a bit of sin in exchange for filling his coffers. So the Southwark sex trade boomed. The prostitutes even gained the nickname ‘Winchester geese', in honour of their landlord..
 
 
 https://en.wikisource.org/wiki/Portal:Acts_of_the_Parliament_of_England/James_I#1609_(7_Jas._1)
@@ -78,7 +78,7 @@ https://cristoraul.org/ENGLISH/readinghall/THIRDMILLENNIUMLIBRARY/EMPIRE-AND-PAP
 
 
 https://vergentis.ucam.edu/revistas/numero1/spoliation-and-disseisin.pdf
-In 1072, or a little later, a trial took place [The trial is recorded in various chronicles; see VAN CAENEGEM, R.C., English Lawsuits from William I to Richard I (1066-1199), §5, in the first of two Selden Society publications (abbrev. SS with volume number & year of publication) 106 (published 1990)] between Lanfranc and William’s half-brother, Odo
+In 1072, or a little later, a trial took place [The trial is recorded in various chronicles; see VAN CAENEGEM, R.C., English Lawsuits from William I to Richard I (1066-1199), §5, in the first of two Selden Society publications (abbrev. SS with volume number & year of publication) 106 (published 1990)] between Lanfranc and William's half-brother, Odo
 (in French texts, Odon or Eudes) a son of William the Conqueror's mother Herleva by Herluin
 de Conteville. Lanfranc3 was Abbot of Caen, but William I wanted him as archbishop of
 Canterbury in place of Stigand, the last pre-conquest archbishop. Lanfranc was born in Pavia, a
@@ -87,7 +87,7 @@ law. Before Caen, he had served as prior of the Benedictine house of Bec in Norm
 he had entered in 1042, his scholarly reputation preceding him. He died in 1089.
 Odo had been made bishop of Bayeux before the Conquest and after the Battle of Hastings
 William made him Earl of Kent and was there when Lanfranc arrived to take up office as
-Archbishop. The trial, presided over by bishop Geoffrey of Coutances on the king’s behalf, was
+Archbishop. The trial, presided over by bishop Geoffrey of Coutances on the king's behalf, was
 by the Shire Court at its traditional site, Penenden Heath in mid-Kent . On this occasion the
 court included both French and English, lay and ecclesiastic, who were acquainted with the preConquest laws and customs; one valued expert was Ægelric, bishop of Chichester for whom
 William provided a chariot to ensure his attendance: Ægelricus episcopus Cicestra, vir
@@ -97,7 +97,7 @@ discutiendas et edocendas… 4
 despoiled the Church of Christ at Canterbury of its lands, terras proprias, depriving it of the
 secular jurisdiction it had customarily enjoyed. The lands were extensive and are listed,5
  in
-Kent and seven other counties, north and south of the Thames. The archbishop’s claim is
+Kent and seven other counties, north and south of the Thames. The archbishop's claim is
 described as a “deraignment,” that is, an assertion or accusation of spoliation – what would later
 be thought of as dissesin, and on a grand scale. The parties deliberated for three days: omnes
 consederunt, et quoniam multa placita de diraciocinacionibus terrarum et verba de
@@ -122,9 +122,9 @@ Wikipedia - Southwark Cathedral - The earliest reference to the site was in the 
 
 Odo Doemesdy https://domesday.pase.ac.uk/Domesday?op=5&nameinfo_id=2622
 
-https://www.southwarknews.co.uk/history/the-bishops-brothels/ For one part of Southwark in particular, with street names like Sluts’ Hole, Cuckold Court, Codpiece Lane and Whores’ Nest, this was quite an undertaking and perhaps why in 1107, the Abbot leased the Liberty’s 70 acres of Bankside real estate to the Bishop Gifford of Winchester for eight pounds a year.
-Bishop of Winchester - In 1161 he produced a decree especially for the brothels of Bankside, which shows how notorious they were, comparable to Amsterdam’s modern day equivalent.
-The Ordinances Touching the Government of the Stewholders in Southwark Under the Direction of the Bishop of Winchester set out 39 rules for running the eighteen houses of ill repute and gave Southwark’s brothels what amounted to royal recognition, a special status and protection they would enjoy for the next four centuries.
+https://www.southwarknews.co.uk/history/the-bishops-brothels/ For one part of Southwark in particular, with street names like Sluts' Hole, Cuckold Court, Codpiece Lane and Whores' Nest, this was quite an undertaking and perhaps why in 1107, the Abbot leased the Liberty's 70 acres of Bankside real estate to the Bishop Gifford of Winchester for eight pounds a year.
+Bishop of Winchester - In 1161 he produced a decree especially for the brothels of Bankside, which shows how notorious they were, comparable to Amsterdam's modern day equivalent.
+The Ordinances Touching the Government of the Stewholders in Southwark Under the Direction of the Bishop of Winchester set out 39 rules for running the eighteen houses of ill repute and gave Southwark's brothels what amounted to royal recognition, a special status and protection they would enjoy for the next four centuries.
 
 
 https://archive.org/details/cu31924029262973/page/n291/mode/2up?q=+Stewholders
@@ -132,7 +132,7 @@ An historical introduction to the Marprelate tracts; a chapter in the evolution 
 by Pierce, William
 Publication date 1908
 p260
-See First Part of K. Hen. VII. Act i. sc. iii. The houses on the Bankside are mentioned in the reign of Hen. II., in 1162, being then eighteen in number. Strict rules were issued for their regulation, the Clink prison being originally provided to receive transgressing 'stew -holders.' The title of the rules established by the Act 8 Hen. II. runs, ' Ordinances touching the government of the Stewholders in Southwark under the direc- tion of the Bishop of Winchester.' As further indicating their ecclesiastical patronage, one of the houses bore the sign 'The Cardinal's Hat.' They were not finally abolished till 1546, under Hen. VIII. ; until which time the proiits accruing from their licences were no doubt in the hands of the Bishop of Winchester. See Manning and Bray's Hist, of Surrey (London, 1814), iii. pt. 3, p. 587 ; Stowe's London (ed. 1754), ii. 9 ; Maitland's London, ii. 1391 ; Harrison's Description of England (Furnivall's ed.), App. by W. Rendle, F.R.C.S
+See First Part of K. Hen. VII. Act i. sc. iii. The houses on the Bankside are mentioned in the reign of Hen. II., in 1162, being then eighteen in number. Strict rules were issued for their regulation, the Clink prison being originally provided to receive transgressing 'stew -holders.' The title of the rules established by the Act 8 Hen. II. runs, ' Ordinances touching the government of the Stewholders in Southwark under the direction of the Bishop of Winchester.' As further indicating their ecclesiastical patronage, one of the houses bore the sign 'The Cardinal's Hat.' They were not finally abolished till 1546, under Hen. VIII. ; until which time the profits accruing from their licences were no doubt in the hands of the Bishop of Winchester. See Manning and Bray's Hist, of Surrey (London, 1814), iii. pt. 3, p. 587 ; Stowe's London (ed. 1754), ii. 9 ; Maitland's London, ii. 1391 ; Harrison's Description of England (Furnivall's ed.), App. by W. Rendle, F.R.C.S
 
 https://archive.org/details/topographicalhis04bray/mode/2up?q=Ordinances+Touching+the+Government+of+Stewholders
 A topographical history of Surrey
@@ -171,8 +171,8 @@ If they were not reconciled before their death. And therefore there was a plot o
 
 Then next is the Clinke, a gaol or prison for the trespassers in those parts; namely, in old time, for such as should brabble, irey, or break the peace on the said bank, or in the brothel houses, they were by the inhabitants thereabout apprehended and committed to this gaol, where they were straitly imprisoned.
 
-Next is the bishop of Winchester's house, or lodging, when he cometh to this city; which house was first built by William Gifford, bishop of Winchester, about the year 1107, the 7th of Henry L, upon a plot of ground pertaining to the prior of Bermondsey, as appeareth by a writ directed unto the barons of the Exchequer, in the year 1366, the 41st of Edward III. (the bishop's see being void), for eight pounds, due to the monks of Bermondsey for the bishop of Winchester’s lodging in South- wark. This is a very fair house, well repaired, and hath a large wharf and landing-place, called the bishop of Winchester's stairs.
-Adjoining to this, on the south side the roof, is the bishop of Rochester’s inn or lodging, by whom first erected I do not now remember me to have read; but well I wot the same of long time hath not been frequented by any bishop, and lieth ruinous for any lack of reparations. The abbot of Maverley had a house there.
+Next is the bishop of Winchester's house, or lodging, when he cometh to this city; which house was first built by William Gifford, bishop of Winchester, about the year 1107, the 7th of Henry L, upon a plot of ground pertaining to the prior of Bermondsey, as appeareth by a writ directed unto the barons of the Exchequer, in the year 1366, the 41st of Edward III. (the bishop's see being void), for eight pounds, due to the monks of Bermondsey for the bishop of Winchester's lodging in South- wark. This is a very fair house, well repaired, and hath a large wharf and landing-place, called the bishop of Winchester's stairs.
+Adjoining to this, on the south side the roof, is the bishop of Rochester's inn or lodging, by whom first erected I do not now remember me to have read; but well I wot the same of long time hath not been frequented by any bishop, and lieth ruinous for any lack of reparations. The abbot of Maverley had a house there.
 
 East from the bishop of Winchester's house, directly over against it, standeth a fair church called St. Mary over the Rie, or Overie, that is over the water. This church, or some other in place thereof, was of old time, long before the Conquest, a house of sisters, founded by a maiden named Mary; unto the which house and sisters she left (as was left to her by her parents) the oversight and profits of a cross ferry, or traverse ferry over the Thames, there kept before that any bridge was built. This house of sisters was after by Swithen, a noble lady, converted Into a college of priests, who in place of the ferry built a bridge
 1 - t - ■*•**■“ w in rmnr} rftnara-:' :
@@ -183,7 +183,7 @@ William Gifford, bishop of Winchester, was a good benefactor also, for he, as so
 The canons first entered the said church then; Algodus was the first prior
 
 https://wellcomecollection.org/articles/WxEniCQAACQAvmUE
-The bishop’s profitable sex workers
+The bishop's profitable sex workers
 
 
 Odo  - first chief justice http://www.duhaime.org/LawMuseum/LawArticle-1122/Odo-of-Bayeux-First-Chief-Justice-of-England-1038-1096.aspx
@@ -228,13 +228,13 @@ William Of Malmesburys Chronicle Of The Kings Of England
 by Giles , J. A.
 https://archive.org/details/in.ernet.dli.2015.53640/page/n351/mode/2up?view=theater&q=Iwds
 p 
-.... William’s brothers, by this match, were Robert, a man of heavy, sluggish disposition, whom he made earl of Moreton; and Odo, whom, while he was earl, he made bishop of Bayeux ; and when king, created him earl of Kent. Being of quicker talents than the other, he was governor of all England, under the king, after the death of William Fitz-Osbeme. He had wonderful skill in accumulating treasure; possessed extreme craft in dissembling: so that, though absent, yet, stuffing the scrips of the pilgrims with letters and money, he bad nearly purchased the Roman papacy from the citizens. But when, through the rumour of his intended journey, soldiers eagerly flocked to him from all parts of the kingdom, the king, taking offence, threw him into confinement ; saying, that he did not seize the bishop of Bayeux, but the earl of Kent. His partisans being intimi- dated by threats, discovered such quantities of gold, that the heap of precious metal would surpass the belief of the present age ; and, at last, many sackfuls of wrought gold were also taken out of the rivers, which he had secretly buried in certain places. When released, at the death of his brother, he joined Robert’s party, as he was averse to his nephew William : but then too matters turning out unfavourably, he was banished England, and went over to his nephew and his bishopric in Normandy. Afterwards, proceeding with him on his enterprize to Jerusalem, he died at Antioch while it was besieged by the Christians.
+.... William's brothers, by this match, were Robert, a man of heavy, sluggish disposition, whom he made earl of Moreton; and Odo, whom, while he was earl, he made bishop of Bayeux ; and when king, created him earl of Kent. Being of quicker talents than the other, he was governor of all England, under the king, after the death of William Fitz-Osbeme. He had wonderful skill in accumulating treasure; possessed extreme craft in dissembling: so that, though absent, yet, stuffing the scrips of the pilgrims with letters and money, he bad nearly purchased the Roman papacy from the citizens. But when, through the rumour of his intended journey, soldiers eagerly flocked to him from all parts of the kingdom, the king, taking offence, threw him into confinement ; saying, that he did not seize the bishop of Bayeux, but the earl of Kent. His partisans being intimidated by threats, discovered such quantities of gold, that the heap of precious metal would surpass the belief of the present age ; and, at last, many sackfuls of wrought gold were also taken out of the rivers, which he had secretly buried in certain places. When released, at the death of his brother, he joined Robert's party, as he was averse to his nephew William : but then too matters turning out unfavourably, he was banished England, and went over to his nephew and his bishopric in Normandy. Afterwards, proceeding with him on his enterprize to Jerusalem, he died at Antioch while it was besieged by the Christians.
 
 p327-8
 Of William the Second. [a.d. 1087 — 1100.]
-William then, the eon of William, was born in Normandy many years before his father came to England ; and being educated with extreme care by his parentSi as he had naturally an ambitious mind, he at length reached the summit of dignity. He would no doubt have been a prince incomparable in our time, had not his father’s greatness eclipsed him ; and had not the fates cut short his years too early for his maturer age to correct errors, contracted by the licen- tiousness of power, and the impetuosity of youth. When childhood was passed, he spent the period of youth in military occupations ; in riding, throwing the dart, contending with his elders in obedience, with those of his own age in action : and he esteemed it injurious to his reputation, if he was not the foremost to take arms in military commotions ; unless he was the first to challenge the adversary, or when challenged, to overcome him. To his father he was ever dutiful ; always exerting himself in his sight in battle, ever at his side in peace. His hopes gradually expanding, he already aspired after the succession, especially on the rejection of his elder brother, while the tender age of the younger gave him no uneasiness. Thus, adopted os his successor by his father during his last illness, he set out to take possession of the kingdom ere the king had breathed his last : where being gladly received by the people, and obtaining the keys of the treasury, he by these means subjected all England to his will. Archbishop Lanfranc, the grand mover of every thing, had educated him, and made him a knight,`[ At this period the custom of receiving  a knighthood from the hands of bishops or abbots yet obtained. There is a law of Henry I., prohibiting abbots from making knights. Hardy.]` and now he favoured his pretensions to the throne ; by his authority and assistance William was crowned on the day of the saints Cosmos and Damian, `[The 27th of September.]` and passed the remainder of the winter quietly and with general favour.
+William then, the eon of William, was born in Normandy many years before his father came to England ; and being educated with extreme care by his parentSi as he had naturally an ambitious mind, he at length reached the summit of dignity. He would no doubt have been a prince incomparable in our time, had not his father's greatness eclipsed him ; and had not the fates cut short his years too early for his maturer age to correct errors, contracted by the licen- tiousness of power, and the impetuosity of youth. When childhood was passed, he spent the period of youth in military occupations ; in riding, throwing the dart, contending with his elders in obedience, with those of his own age in action : and he esteemed it injurious to his reputation, if he was not the foremost to take arms in military commotions ; unless he was the first to challenge the adversary, or when challenged, to overcome him. To his father he was ever dutiful ; always exerting himself in his sight in battle, ever at his side in peace. His hopes gradually expanding, he already aspired after the succession, especially on the rejection of his elder brother, while the tender age of the younger gave him no uneasiness. Thus, adopted os his successor by his father during his last illness, he set out to take possession of the kingdom ere the king had breathed his last : where being gladly received by the people, and obtaining the keys of the treasury, he by these means subjected all England to his will. Archbishop Lanfranc, the grand mover of every thing, had educated him, and made him a knight,`[ At this period the custom of receiving  a knighthood from the hands of bishops or abbots yet obtained. There is a law of Henry I., prohibiting abbots from making knights. Hardy.]` and now he favoured his pretensions to the throne ; by his authority and assistance William was crowned on the day of the saints Cosmos and Damian, `[The 27th of September.]` and passed the remainder of the winter quietly and with general favour.
 
-At the expiration of this period, in the beginning of spring, his first contention was with his uncle, Odo, bishop of Bayeux. For when Odo, on his release from confinement, as I have related, had firmly established his nephew, Robert, in the duchy of Normandy, he came to England, and received from the king the earldom of Kent. But when he saw every thing in the kingdom managed, not at his own pleasure, as formerly, for the administration of public affairs was now committed to William, bishop of Durham, he was moved with envy, and having revolted from the king, he tainted many others by insinuating, that the kingdom belonged to Robert, who was of gentler disposition, and whose youthful follies had been corrected by many adversities ; that William, delicately brought up, and overbearing from that ferocity of mind which was manifest in his countenance, would dare every thing, in defiance of right and equity : that it must soon come to pass, that they would lose the honours they had already obtained with so much difficulty ; that nothing was gained by the father’s death, if those whom he had cast into prison, were to be killed by the son. To this effect he used, at first, secretly to mutter, together with Roger Mont- gomery, Gosfrith, bishop of Coutances, with his nephew Robert earl of Northumberland, and others ; afterwards they were more open in their clamours, repeating and disseminating them by letters and by emissaries. Moreover, even William, bishop of Durham, the confidential minister of the king, had join^ in their treachery. This was matter of great concern to William, it is said ; because, together with the breach of friendship, he was disappointed of the resources of the distant provinces. Odo now carried off booty of every kind to Rochester, plundering the king’s revenues in Kent, and especially the lands of the archbishop ; breathing eternal hatred against him, because, he said, it was by his advice that his brother had cast him into chains. Nor was this assertion false : for when William the elder formerly complained to Lanfranc, that he was deserted by his brother : " Seize, and cast him into chains,” Said he. “ What !’ re- plied the king, “he is a clergyman !" Then the archbishop with playful archness, as Persius says, balancing the objecttion with nice antithesis,’’ `[Persius Sat i. 85?]` rejoined, “you will not seize the bishop of Bayeux, but confine the earl of Kent”
+At the expiration of this period, in the beginning of spring, his first contention was with his uncle, Odo, bishop of Bayeux. For when Odo, on his release from confinement, as I have related, had firmly established his nephew, Robert, in the duchy of Normandy, he came to England, and received from the king the earldom of Kent. But when he saw every thing in the kingdom managed, not at his own pleasure, as formerly, for the administration of public affairs was now committed to William, bishop of Durham, he was moved with envy, and having revolted from the king, he tainted many others by insinuating, that the kingdom belonged to Robert, who was of gentler disposition, and whose youthful follies had been corrected by many adversities ; that William, delicately brought up, and overbearing from that ferocity of mind which was manifest in his countenance, would dare every thing, in defiance of right and equity : that it must soon come to pass, that they would lose the honours they had already obtained with so much difficulty ; that nothing was gained by the father's death, if those whom he had cast into prison, were to be killed by the son. To this effect he used, at first, secretly to mutter, together with Roger Mont- gomery, Gosfrith, bishop of Coutances, with his nephew Robert earl of Northumberland, and others ; afterwards they were more open in their clamours, repeating and disseminating them by letters and by emissaries. Moreover, even William, bishop of Durham, the confidential minister of the king, had join^ in their treachery. This was matter of great concern to William, it is said ; because, together with the breach of friendship, he was disappointed of the resources of the distant provinces. Odo now carried off booty of every kind to Rochester, plundering the king's revenues in Kent, and especially the lands of the archbishop ; breathing eternal hatred against him, because, he said, it was by his advice that his brother had cast him into chains. Nor was this assertion false : for when William the elder formerly complained to Lanfranc, that he was deserted by his brother : " Seize, and cast him into chains,” Said he. “ What !' re- plied the king, “he is a clergyman !" Then the archbishop with playful archness, as Persius says, balancing the objection with nice antithesis,'' `[Persius Sat i. 85?]` rejoined, “you will not seize the bishop of Bayeux, but confine the earl of Kent”
 
 
 The ecclesiastical history of England and Normandy
@@ -243,7 +243,7 @@ Publication date 1853
 p372
 https://archive.org/stream/ecclesiasticalhi02orde/ecclesiasticalhi02orde_djvu.txt
 
-Ch. III. Norman oppression.— The English secretly form conspiracies. — Large bodies emigrate to Constantinople and join the emperor's hody-guard.— Attempt of Eustace, count of Boulogne, to surprise Dover Castle. Meanwhile the English were oppressed by the insolence of the :N^rmans, and subjected to grievous outrages by the haughty governors who disregarded the king's injunctions. The° chiefs of inferior rank, who had the custody of the castles, treated the natives, both gentle and simple, with the utmost scorn, and levied on them most unjust exactions. Bishop Odo himself, and William Fitz-Osbern, the king's lieutenants, puffed up with pride, gave no heed to the reasonable complaints of his English subjects and disdained to weigh them in the balance of equity. They screened their men-at-arms who most outrageously robbed the people and ravished the women, and those only incurred their wrath who were driven by these grievous affronts to be loud in their remonstrances. The English deeply lamented the loss of their freedom, and took secret counsel how they might best shake off a yoke so insupportable, and to which they were so little accustomed. They accordingly sent a message to Sweyn,- king of Denmark, entreating him to take measures for recovering the crown of England, which his ancestors Sweyn and Canute had formerly won by their vic- torious arms. Some went into voluntary exile, either to free themselves from the domination of their Norman masters, or for the purpose of obtaining foreign aid to renew the contest with their conquerors. Some, the very llower of the English youth, made their way to distant reo-ions, and served valiantly in the armies of Alexius, emperor of Constantinople,^ a prince of great sagacity and ...
+Ch. III. Norman oppression.— The English secretly form conspiracies. — Large bodies emigrate to Constantinople and join the emperor's hody-guard.— Attempt of Eustace, count of Boulogne, to surprise Dover Castle. Meanwhile the English were oppressed by the insolence of the :N^rmans, and subjected to grievous outrages by the haughty governors who disregarded the king's injunctions. The° chiefs of inferior rank, who had the custody of the castles, treated the natives, both gentle and simple, with the utmost scorn, and levied on them most unjust exactions. Bishop Odo himself, and William Fitz-Osbern, the king's lieutenants, puffed up with pride, gave no heed to the reasonable complaints of his English subjects and disdained to weigh them in the balance of equity. They screened their men-at-arms who most outrageously robbed the people and ravished the women, and those only incurred their wrath who were driven by these grievous affronts to be loud in their remonstrances. The English deeply lamented the loss of their freedom, and took secret counsel how they might best shake off a yoke so insupportable, and to which they were so little accustomed. They accordingly sent a message to Sweyn,- king of Denmark, entreating him to take measures for recovering the crown of England, which his ancestors Sweyn and Canute had formerly won by their victorious arms. Some went into voluntary exile, either to free themselves from the domination of their Norman masters, or for the purpose of obtaining foreign aid to renew the contest with their conquerors. Some, the very flower of the English youth, made their way to distant regions, and served valiantly in the armies of Alexius, emperor of Constantinople,^ a prince of great sagacity and ...
 
 p49
 What shall I say of Odo, bishop of Baieux, who was earl palatine, and generally dreaded by the English people, issuing his orders everywhere like a second king. He had the command over all the earls and barons of the realm,
@@ -267,14 +267,14 @@ The wise king William speedily heard of these preparations but the scheme did no
 
 " Illustrious lords, listen attentively to what I shall say, and give me, I pray you, salutary counsel. Before I went over to Normandy, I entrusted the government ot England to my brother the bishop of Bayeux. There were inNormandy many who revolted against my authority, and, if I may so say, both friends and foes set themselves against me. Even my own son Robert, and the young nobles whom I had brought up and invested with the ensigns of knighthood rebelled against me, while some traitorous vassals and my border foes eagerly joined the ranks of the malcontents. But by God's help, whose servant I am, they failed of success, and got nothing from me but the sword which pierced them with wounds By the terror of my arms I restrained the people of Anjou, who were leagued for war against me and I also curbed the rebellious inhabitants of Maine. Thus occupied, I found myself embarrassed by affairs beyond sea, and was long detained labouring earnestly for the public good.
 
-Meanwhile, my brother grievously oppressed the English robbing the churches of their lands and revenues, and stripping them of the ornaments with which our forefathers enriched them ; while he seduced my knights, whose duty it was to defend England against the Danes- and Irish, and other enemies who threatened hostilities, and has made preparations, in contempt of me, for transportmg them into foreign regions beyond the Alps. My heart is overwhelmed with grief, especially on account of the injury he has done to the churches of God. The Christian kings who reigned before me were devoted to the church, on which they heaped honours and gifts of every kind, and hence, as we believe, they now repose in the seats of bliss, rejoicing in their glorious rewards. Ethelbert, Edwin and St. Oswald, Ethelwulfa and Alfred, Edward the elder and Edgar, with Edward my cousin and most dear lord, richly endowed our holy church, which is the spouse of Christ. And now, my brother, to whom I entrusted the care of my entire kingdom, has laid violent hands on her substance, has cruelly oppressed
+Meanwhile, my brother grievously oppressed the English robbing the churches of their lands and revenues, and stripping them of the ornaments with which our forefathers enriched them ; while he seduced my knights, whose duty it was to defend England against the Danes- and Irish, and other enemies who threatened hostilities, and has made preparations, in contempt of me, for transporting them into foreign regions beyond the Alps. My heart is overwhelmed with grief, especially on account of the injury he has done to the churches of God. The Christian kings who reigned before me were devoted to the church, on which they heaped honours and gifts of every kind, and hence, as we believe, they now repose in the seats of bliss, rejoicing in their glorious rewards. Ethelbert, Edwin and St. Oswald, Ethelwulfa and Alfred, Edward the elder and Edgar, with Edward my cousin and most dear lord, richly endowed our holy church, which is the spouse of Christ. And now, my brother, to whom I entrusted the care of my entire kingdom, has laid violent hands on her substance, has cruelly oppressed
 the poor, has seduced my knights on frivolous pretences, and has spread disorder through the whole of England by his unjust exactions. Consider then prudently what is to be done, and let me know, I pray you, what you advise."
 
 All the council, however, being restrained by fear of the powerful prelate, and hesitating to make a decision against him, the stout-hearted king said : " A dangerous ambition must always be curbed, and an individual must not be spared, for favour or aifection, to the public detriment. Let this man therefore who disturbs the state be arrested, and closely confined, that he may not do further mischief."
 
 No one however daring to lay hands on a bishop, the king was the first to seize him, upon which Odo cried out, " I am a clerk, and the Lord's minister ; it is not lawful to condemn a bishop without the judgment of the pope." To which the prudent king replied : " I do not condemn a clerk or a bishop, but I arrest an earl I have myself created `[William had created his brother earl of Kent.]`, and to whom, as my vicegerent, I entrusted the government of my realm, it being my will that he should render an account of the stewardship I have committed to him."
 
-In this manner the royal authoority was exerted to arrest 
+In this manner the royal authority was exerted to arrest 
 the bishop, who was conducted to Normandy, and being 
 imprisoned in the castle of Rouen, was kept there in close 
 custody four years, that is, as long as the king lived. 
@@ -304,7 +304,7 @@ posterity not to be too eager in the pursuit of honours.
 
 p402
 
-At length, his disorder continuall}^ increasing, and 
+At length, his disorder continually increasing, and 
 perceiving that inevitable death was becoming imminent, he 
 became anxious about the future, which was veiled from his 
 sight, reflecting on which with deep concern, he was 
@@ -350,7 +350,7 @@ volume.
 A.D. 1087.]     THE CONQUEEOE'S DYING WOEDS. ttOS 
 
 Cn. XV. Discourse of King William the Conqueror on his 
-death-bed, in which he recapitulates the princijml events of 
+death-bed, in which he recapitulates the principal events of 
 his life — His disposition of his treasure and states. 
 
 " I tremble," he said, " my friends, when I reflect on the 
@@ -412,14 +412,12 @@ sought my death.
 " The isTormans, when under the rule of a kind but firm 
 master, are a most valiant people, excelling all others in the 
 invincible courage with which they meet difficulties, and 
-strive to conquer every enemy. But under other circum- 
-stances they rend in pieces and ruin each other. They are 
+strive to conquer every enemy. But under other circumstances they rend in pieces and ruin each other. They are 
 eager for rebellion, ripe for tumults, and ready for ever}- 
 sort of crime. They must therefore be restrained by the 
 strong hand of justice, and compelled to walk in the right 
 way by the reins of discipline. But if they are allowed to 
-take their own course without any yoke and like an un- 
-tamed colt, they and their princes will be overwhelmed with 
+take their own course without any yoke and like an untamed colt, they and their princes will be overwhelmed with 
 poverty^ shame, and confusion. I have learnt this by 
 much experience. My nearest friends, my own kindred, 
 who ought to have defended me at all hazards against the 
@@ -523,11 +521,9 @@ But before 1 reached the country between the two rivers,
 the Sie and the Garenne, the advanced guard fell in with 
 Count Engelran pushing forv,' ard to occupy the fortress, and 
 killed him, fighting bravely, for he was a valiant knight, and 
-routed his squadrons. Pressing the siege closely, I com- 
-pelled the perjured count to go into banishment, and did 
+routed his squadrons. Pressing the siege closely, I compelled the perjured count to go into banishment, and did 
 not permit him to return to the domains he lost during all 
-the days of his life.^ I also, by virtue of a papal decree, de- 
-posed the insolent archbishop, who neither observed his 
+the days of his life.^ I also, by virtue of a papal decree, deposed the insolent archbishop, who neither observed his 
 fealty to me, nor his duty to Grod, and raised to the see the 
 venerable monk Maurilius who was providentially sent from 
 Elorence, an Italian city.* 
@@ -547,8 +543,7 @@ his train numbers of most valiant men, who, alas ! never
 saw their own country again, having fallen by my sword and 
 the arms of my followers. 
 
-* The Cotentin was the name given to a district in the extreme north- 
-west of Normandy, nearly surrounded by the sea, in which was situated 
+* The Cotentin was the name given to a district in the extreme north-west of Normandy, nearly surrounded by the sea, in which was situated 
 Valognes, one of the residences most frequented by the duke in his early 
 years. 
 
@@ -644,15 +639,13 @@ season, before Lent, eight years after that of Yal-des-Dunes.'
 Gruy, count of Ponthieu, was taken prisoner and Eudes, 
 E-eynold, and others were put to flight, owing their escape 
 to "the speed with which they ran away. Count Ealph [de 
-Yalois] would also have been taken, if Eoger, my com- 
-mander-in-chief, had not favoured his escape on account of 
+Yalois] would also have been taken, if Eoger, my commander-in-chief, had not favoured his escape on account of 
 the fealty he had formerly sworn to him. In acting thus, 
 in the hour of the count's utmost need, he paid him a noble 
 and legitimate service ; receiving him in his castle, where he 
 entertained him three days, and afterwards conducting him 
 in safety to his own territories. Notwithstanding, for this 
-breach of his duty to me, I banished Eobert from Nor- 
-mandy, but, being soon afterwards reconciled with him, 
+breach of his duty to me, I banished Eobert from Normandy, but, being soon afterwards reconciled with him, 
 restored him all his domains, except the castle of Mortemer, 
 iu which he had sheltered my enemy ; which I think he 
 justly forfeited, and I granted it to his cousin AVilliam de 
@@ -753,8 +746,7 @@ was my protector, though they made great efforts and laid
 many snares for me, they were never able to accomplish 
 their designs. I have placed on my brow a royal diadem, 
 which none of my predecessors wore, having acquired it by 
-the grace of God, not by hereditary right. It would be dif- 
-ficult for me to recount my labours beyond sea, and the 
+the grace of God, not by hereditary right. It would be difficult for me to recount my labours beyond sea, and the 
 perilous conflicts in which I have been engaged with the 
 people of Exeter, Chester, and JN^orthumbria, with the Scots 
 and Welsh, Norwegians, Danes, and other adversaries who 
@@ -787,8 +779,7 @@ ties they were attended, I therefore liumblj entreat you,
 the priests and ministers of Christ, to commend me in your 
 prayers to Almighty Grod for the forgiveness of the sins 
 with which my conscience is burdened, and that through 
-his inexhaustible mercy he will vouchsafe to grant me salva- 
-tion among his elect. I direct my treasure to be given to 
+his inexhaustible mercy he will vouchsafe to grant me salvation among his elect. I direct my treasure to be given to 
 the churches and the poor, that what was amassed in crime 
 may be dispersed among the saints and applied to holy 
 uses. Por you ought to remember how dearly I have loved ' 
@@ -797,8 +788,7 @@ enemies.
 
 " I have never injured the church of Grod, which is our 
 mother, but have always paid her, as circumstances demanded, 
-due honour. I never sold ecclesiastical dignities. I pro- 
-hibited simony, which I always detested. In the election of 
+due honour. I never sold ecclesiastical dignities. I prohibited simony, which I always detested. In the election of 
 prelates my choice was directed by meritorious conduct and 
 wise doctrine, and as far as it has been in my power the 
 government of the church has been committed to the most 
@@ -813,8 +803,7 @@ receive their counsels.
 
 " Nine abbeys of monks and one of nuns, founded in 
 Normandy^ by my predecessors, have, under God's blessing, 
-been augmented by my care, nobly enriched with the splen- 
-did endowments of various kinds I have conferred upon 
+been augmented by my care, nobly enriched with the splendid endowments of various kinds I have conferred upon 
 them. Moreover, during the time I have governed the 
 duchy, seventeen convents of monks and six of nuns have 
 been  erected,^  in  which  the  full  service  is  regularly 
@@ -854,8 +843,7 @@ example, that you may be honoured for ever before Gro'd
 and men. I especially exhort you, who are my own flesh, 
 to cultivate unceasingly the society of good and wise men, 
 and to submit to their rule in all things, if you desire to 
-possess durable glory. From the teaching of pious philoso- 
-phers you will learn to discern good from evil, to adhere to 
+possess durable glory. From the teaching of pious philosophers you will learn to discern good from evil, to adhere to 
 justice on all occasions, and to spare no pains in avoiding 
 iniquity ; to be merciful protectors of the weak, the poor, 
 and the pious, while you bridle and put down the proud and 
@@ -887,14 +875,11 @@ A.D. 1087.]  THE COKQUEllOE COIiFESSES HIS CEUELTIES.  413
 " I appoint no one my heir to the crown of England, but 
 leave it to the disposal of the Eternal Creator, whose I am, 
 and who ordereth all things. For I did not attain that high 
-honour by hereditary right, but I wrested it from the per- 
-jured king Harold in a desperate battle, with much effusion 
-of human blood, and it was by the slaughter and banish- 
-ment of his adherents, that I subjugated England to my rule. 
+honour by hereditary right, but I wrested it from the perjured king Harold in a desperate battle, with much effusion 
+of human blood, and it was by the slaughter and banishment of his adherents, that I subjugated England to my rule. 
 I have persecuted its native inhabitants beyond all reason. 
 Whether nobles or commons, I have cruelly oppressed 
-them; many I unjustly disinherited; innumerable multi- 
-tudes, especially in the county of York, perished through 
+them; many I unjustly disinherited; innumerable multitudes, especially in the county of York, perished through 
 me by famine or the sword. Thus it happened : ^ the Deiri 
 and other people beyond the Humber called in the troops of 
 Sweyn, king of Denmark, as their auxiliaries against me, 
@@ -923,7 +908,7 @@ in the influence of the Spirit of Grod, and should it be the
 the frightful devastations which attended its progress, is given by Ordericus 
 in the fifth chapter of his fourth book (see p. 21 ot the present vol.), 
 which for its clear and vivid details, the boldness of the Anglo-Norman 
-monk's strictures on William's cruelties, and the stjle'of composition, is, 
+monk's strictures on William's cruelties, and the style of composition, is, 
 perhaps, the best specimen of his historical powers this work affords. 
 
 ^ In this passage the king inverts the order of events. 
@@ -961,18 +946,16 @@ p869
 ODO (d. 1097), bishop of Bayeux and 
 earl of Kent, was son of Herluin of Conte- 
 ville hy Herleva of Falaise, the concubine 
-of Robert of Normandy, and mother of 'Wil- 
-liam the Conqueror. Guibert of Nogent 
+of Robert of Normandy, and mother of 'William the Conqueror. Guibert of Nogent 
 actually calls Odo natural son of Duke 
 Robert, and own brother to William the 
 Conqueror (Be Sanotorum Bignoribus, i. ch. 
 3). William of Malmesbury (Oesta Begum, 
 p. 883) expressly states that Herluin and 
-Qetleva were married before Duke Robert’s 
+Qetleva were married before Duke Robert's 
 death in 1036; but Odo, who was their 
 eldest son, was perhaps not born before 103G, 
-Odo’s younger brother was Robert of Mor- 
-tain [q. v.], and he had also two sisters; 
+Odo's younger brother was Robert of Mortain [q. v.], and he had also two sisters; 
 Muriel, who married Odo cum Capello (Waoh, 
 6026), and another, who married the Sire 
 de la Fertfi (Taylok, Translation of Wace, 
@@ -984,11 +967,9 @@ about October 1049 (OnDEEiaus Vitalis, iii.
 288,note2), and, as bishop, witnesses aoharter 
 of St. Evroul on 26 Sept. 1050 (ib. v. 180). 
 Ha witnesses various charters during the 
-subsequent years, and was present at eccle- 
-siastical councils held at Rouen in 1066, 
+subsequent years, and was present at ecclesiastical councils held at Rouen in 1066, 
 1061, and 1063. He was present at the 
-council held at Lillebonne in 1066 to con- 
-sider the projeoted invasion of England, and, 
+council held at Lillebonne in 1066 to consider the projeoted invasion of England, and, 
 according to one account, contributed one 
 hundred ships to the fleet (Lyttelton, Hist. 
 of Henry II, i. 623), though Wace (0180) 
@@ -998,8 +979,7 @@ soldiers the night before the battle, hut,
 despite his ecclesiastical character, fought in 
 fall armour at Hastings, though armed with a 
 mace instead of a sword. When the Normans 
-turned in flight, Odo was prominent in rally- 
-ing the fugitives, and is so depicted in the 
+turned in flight, Odo was prominent in rallying the fugitives, and is so depicted in the 
 Bayeux tapestry (Waoe, 8131). 
 
 After his coronation William bestowed on 
@@ -1008,56 +988,49 @@ Kent; and when, three months later, the
 
 
 king crossed over to Normandy, Odo and 
-William FitzOsbem [q. v.l were left as 
-viceroys in his absence, Odo’s special care 
-as Earl of Kent was to secure commu- 
-nication with the continent, and to guard 
+William FitzOsbern [q. v.l were left as 
+viceroys in his absence, Odo's special care 
+as Earl of Kent was to secure communication with the continent, and to guard 
 against attack from that quarter. The rule 
 of the viceroys was harsh in the extreme ; 
 ‘they wrought castles wide amongst the 
-people, and poor folk oppressed ’ (English 
+people, and poor folk oppressed ' (English 
 Chronicle ); they protected their plundering 
 and licentious followers, and paid no heed 
 to the complaints of the English; while 
-their zeal for William’s policy of castle- 
-building served to increase their unpopu- 
+their zeal for William's policy of castle-building served to increase their unpopu- 
 larity (Floe. Wis. ii. 1). While Odo was 
 absent to the north of the Thames, the men 
 of Kent called in Eustace of Boulogne; 
 but, though Eustace was repulsed by the 
 Norman garrison of Dover, the discontent 
-with the rule of his viceroys compelled Wil- 
-liam to hurry back to England in December 
+with the rule of his viceroys compelled William to hurry back to England in December 
 1067. Odo did not again hold a position of 
 equal authority ; but for fifteen years he was 
 second in power only to William himself. 
 William of Malmesbury styles him ‘Totius 
-Anglise vicedominus sub rege; ’ and Orderic 
-says : ‘ V eluti secundus rex passim j ura dabat.’ 
+Anglise vicedominus sub rege; ' and Orderic 
+says : ‘ V eluti secundus rex passim j ura dabat.' 
 Tnoru is, however, no sufficient reason to 
 describe him as justiciar, though from time 
 to time he discharged functions which were 
 afterwards exercised hy that officer (see 
-Stubbs, Constitutional History, § 120). Or- 
-deric also describes Odo as ‘ palatinus Oantice 
-consul ; ’ but it is uncertain whether he ever 
+Stubbs, Constitutional History, § 120). Orderic also describes Odo as ‘ palatinus Oantice 
+consul ; ' but it is uncertain whether he ever 
 really possessed the regalia as a true palatine 
 earl, or even bore the title of earl, though 
 he certainly exercised the jurisdiction of the 
 ealdorman (ib. § 124). Still he witnesses 
-charters as ‘ Domes Oautira,’ and in 1102 his 
+charters as ‘ Domes Oautira,' and in 1102 his 
 nephew, William of Mortain, unsuccessfully 
 claimed the earldom of Kent as his hem 
-(Will, Malm. Gesta Begum, p. 473). Be- 
-sides a great number of lordships in Kent, 
+(Will, Malm. Gesta Begum, p. 473). Besides a great number of lordships in Kent, 
 Odo received lends in twelve other counties 
-(Domesday Booh, esp. pp. 6-11), and ac- 
-quired vast wealth, in port at least, hy the 
+(Domesday Booh, esp. pp. 6-11), and acquired vast wealth, in port at least, hy the 
 spoliation of abbeys and churches. The 
 most famous instance of such spoliation was 
-his usurpation of certain rights and posses- 
-sions of the see of Canterbury. Lanfranc 
-claimed restitution, and by William’s order 
+his usurpation of certain rights and possessions of the see of Canterbury. Lanfranc 
+claimed restitution, and by William's order 
 the suit was heard before the shire-moot of 
 Kent at Fenenden Heath, with the result 
 that Odo had to surrender his spoil (Anglia, 
@@ -1088,7 +1061,7 @@ to rise yet higher, A soothsayer had fore-
 told that the successor of Hildebrand should 
 bear the name of Odo. This prophecy the 
 Bishop of Bayeux thought to realise in his 
-own person, So ‘ stalling the pilgrims’ wal- 
+own person, So ‘ stalling the pilgrims' wal- 
 lets with letters and coin' ( Will. Mat.m, 
 Gesia Begum, p. 331), he bribed the leading 
 Roman citizens, and even built himself a 
@@ -1102,16 +1075,16 @@ was on the poiut of setting out from Eng-
 land when William heard of his designs. 
 The king hurried across from Normandy, and 
 met Odo on the Isle of Wight. Tliero, in an 
-assembly, William set forth his brother’s 
+assembly, William set forth his brother's 
 oppressions, exactions, and intended ambi- 
-tions. Despite William’s orders, no one 
+tions. Despite William's orders, no one 
 would arrest the bishop, and the King seized 
-him with his own lianas, meeting Odo’s pro- 
+him with his own lianas, meeting Odo's pro- 
 test with a declaration that he arrested, not 
 the bishop, but the earl. Waco (9109- 
-9248) alleges that Odo’s intention was to 
+9248) alleges that Odo's intention was to 
 secure the crown for himself in case of 
-William’s death, and that the immediate 
+William's death, and that the immediate 
 cause of his arrest was Ms failure to render 
 an account of his revenues. Gregory VII 
 severely censured the treatment of the bishop, 
@@ -1127,38 +1100,38 @@ he specially excepted his brother; but on
 the urgent entreaty of Robert of Mortain 
 and others, at length gave way. Odo was 
 at once set free, and was present at his 
- brother’s funeral at Oaon, De speedily re- 
+ brother's funeral at Oaon, De speedily re- 
 covered all his ancient honour in Normandy 
 and, according to Orderic, already plotted 
 to displace William Rufus by Robert in 
 England. In llie autumn of 1087 be went 
 over to England, regained his earldom, and 
-wits present at William II’s first midwinter 
+wits present at William II's first midwinter 
 council. But he could not recover his old 
 import, ance ; and, being envious of the sap u - 
 rior authority of William of St. Calais, bishop 
 of Durham, lie now bucamo the centre of the 
 Norman comqjirnoy against William. When 
 tho war broke out, in Lcnl 1088, Odo him- 
-self plundered Kent, and espocially the lands 
+self plundered Kent, and especially the lands 
 of Liinfmuc, to whose advice his four years' 
 imprisonment was said to have bean duo 
 (Wl i.Tj. Maul Gesia Begum, p. 361). The 
 king miu-cliod against Ilia uuclo in person, and 
 captured Tunbridge Castle. At the news, 
 Ouo lied to Ilia brother Robert at Povensey, 
-whore, after a six woolen’ Biege, he was com- 
+whore, after a six woolen' Biege, he was com- 
 pelled to yield, promising to surrender Ro- 
 chester also, and then leave England. For 
 this purpose Odo was sent with a guard to 
-Rochester ; but the bishop’s friends rescued 
+Rochester ; but the bishop's friends rescued 
 him, and refused to givo up the city. A 
 fresh siege soon forced < )do 1 0 seek peace once 
 more ; but. it was only after a remonstrance 
 from Ria advisers that William would grant 
-any t firms, and even thon tho bialiop’s peti- 
+any t firms, and even thon tho bialiop's peti- 
 tion fur tho honours of war was indignantly 
-rejected. Tho English in William’s army 
+rejected. Tho English in William's army 
 cried! ‘Halt ers 1 halters for the traitor 
 bishop 1 Lot not the doer of evil go un- 
 harmed I ' Odo was, however, permitted to 
@@ -1169,25 +1142,22 @@ returned.
 Odo aspired with more success to hold 
 tho first place in Normandy under the weak 
 rule of Robert. It was by his advice 
-that, in the autumn of 1088, the duke’s 
-brothor Henry and Robert of Bollcme [q.v.] 
+that, in the autumn of 1088, the duke's 
+brother Henry and Robert of Bollcme [q.v.] 
 were arrested ; and when the news brought 
 Roger of Montgomery [q. v,] to Normandy, 
 Odo urged his nephew to destroy the power 
-of tho house of Talvas. He also took a pro- 
-minent part in tho enmpnign of Mans in 
-1089, and in tho opposition to William’s in- 
-vasion of Normandy in 1091 (Oedeeiobs 
+of tho house of Talvas. He also took a prominent part in tho enmpnign of Mans in 
+1089, and in tho opposition to William's invasion of Normandy in 1091 (Oedeeiobs 
 VjtaIjIR, iv. 16). According to 0rdericus,it 
 was Odo who, in 1098, performed the mar- 
 
 
 riage ceremony between Philip of France 
-and the infamous Bertrada of Slontfort, re- 
-ceiving as his reward certain churches at 
+and the infamous Bertrada of Slontfort, receiving as his reward certain churches at 
 Jlantes 1 but it seems probable that he did 
 no moro than countenance the union by his 
-presence (ib. iii. 387, and M. Le Provost’s 
+presence (ib. iii. 387, and M. Le Provost's 
 note ad loc.) Odo was present at the council 
 of Clermont in November 1005, when Pope 
 Urban II proclaimed the first crusado, and 
@@ -1210,19 +1180,15 @@ In history Odo figures, not unnaturally,
 as a turbulent noble, who had nothing of the 
 ecclesiastic but the name. Ordoricus makes 
 the Conqueror describe him as fickle and 
-ambitious, the slave of fleshly lust and mon- 
-strous cruelty, who would never abandon 
+ambitious, the slave of fleshly lust and monstrous cruelty, who would never abandon 
 his vain and wanton wickedness ; the scoruer 
 of religion, the artful author of sedition, 
 the oppressor of the people, the plunderer of 
-churches, whose release meant certain mis- 
-chief to many. But. Ordericus himself is 
-perhaps more just when he says that Odo’s 
-character was a mixture of vices and vir- 
-tues, in which affection for secular affairs 
-prevailed over tho good deeds of the spiri- 
-tual life. William of Poitiers (209 A.B.), 
-writing perhaps before Odo’s fall, eulogises 
+churches, whose release meant certain mischief to many. But. Ordericus himself is 
+perhaps more just when he says that Odo's 
+character was a mixture of vices and virtues, in which affection for secular affairs 
+prevailed over tho good deeds of the spiritual life. William of Poitiers (209 A.B.), 
+writing perhaps before Odo's fall, eulogises 
 him for his eloquence and wisdom in council 
 and debate, for his liberality, justice, and 
 loyalty to his brother; 1 he had no wish to use 
@@ -1231,7 +1197,7 @@ religion permitted him. Normans andBretons
 served under him gladly, and even the Eng- 
 lish were not so barbarous that they could not 
 recognise in tho bishop and earl a man who 
-was to he feared, respected, and loved.’ 
+was to he feared, respected, and loved.' 
 While Odo was thus devoted to secular 
 affairs, and so far forgetful of his sacred 
 calling that he had a son (named John), he 
@@ -1247,51 +1213,44 @@ abbey of Dijon (Ohartor ap. Miune, civ.
 
 
 47 5-0). Quibert describes a curious instance 
-of Odo’s zeal for sacred relics (lie Sancto- 
-rum Pignoribua , i, S). Odo also had in- 
+of Odo's zeal for sacred relics (lie Sanctorum Pignoribua , i, S). Odo also had in- 
 structed, at his own expense, a number of 
-scholars, among whom were Thomas, arch- 
-bishop of York, and his brother Samson, bishop 
-of Worcester ; and Thurstan, abbot of Glaa- 
-tonbuiw. Another dependent of Odo's was 
-Amuli, the first Latin patriarch of Jerusa- 
-lem, who accompanied the Bishop of Bayeux 
+scholars, among whom were Thomas, archbishop of York, and his brother Samson, bishop 
+of Worcester ; and Thurstan, abbot of Glaatonbuiw. Another dependent of Odo's was 
+Amuli, the first Latin patriarch of Jerusalem, who accompanied the Bishop of Bayeux 
 on his departure from Normandy in 1090, 
 and owed his subsequent promotion to the 
 wealth bequeathed him by his patron (Gm- 
 DlffiT or Noqent, Gesta Dei per Francos, 
-viii. 1). It is possible that, among Odo’s 
-benefactions to his cathedral, we must in- 
-clude the famous Bayeux tapestry, which 
+viii. 1). It is possible that, among Odo's 
+benefactions to his cathedral, we must include the famous Bayeux tapestry, which 
 was perhaps executed for him by English 
 artists (Febbman, Norman Conquest, iii. 
 562-572). 
 
-When Ordoricus wrote, Odo’s son John 
+When Ordoricus wrote, Odo's son John 
 was living at the court of Ilonry I. John 
 was perhaps the father of Robert ‘nepas 
-episcopi,’ who married the heiress of Wil- 
-liam du Ilommet, and by her left a son, 
+episcopi,' who married the heiress of William du Ilommet, and by her left a son, 
 Richard de Humez, who became hereditary 
 constable of Normandy (Stapmton, Hot, 
 Scant 1 . Norm. ii. pp. clxxxii-clxxxiv), 
 
-[Ordoricus Vitaliy (Soc. do 1’IIist. de France); 
+[Ordoricus Vitaliy (Soc. do 1'IIist. de France); 
 Will, of Poitiers and Will, of Jwni&ges in 
 Duchesne's Histories Normnnnorum Scriptores ; 
 English CUironicle; William of Malmesbury's 
 Gobtu, Rcgum and Grata Pontificum, 8ymeon 
-Dunelmoneis, Liber de Ilyda, Henry of Hunting- 
-don, pp. 207, 211, 214-15, Memorials of St. 
+Dunelmoneis, Liber de Ilyda, Henry of Huntingdon, pp. 207, 211, 214-15, Memorials of St. 
 Dunstan, pp. 144, 153, 238 (these six in the 
 Rolls Ser.); Flor, Wig. (English Hist. Soc.); 
-Guibort of Nogent’s Gesta Dei per Francos, vii. 
+Guibort of Nogent's Gesta Dei per Francos, vii. 
 15, and viii. 1, and Ds Sanctorum Pignoribua, i. 3, 
-ap. Migne’sPatrologin, p. clvi ; Waee’sRomaii do 
-Rou, od. Andreson, and trnnsl. Taylor; Wilkine’s 
-Concilia, i. 323-4 ; Wharton’s Anglin Sacra, i, 
+ap. Migne'sPatrologin, p. clvi ; Waee'sRomaii do 
+Rou, od. Andreson, and trnnsl. Taylor; Wilkine's 
+Concilia, i. 323-4 ; Wharton's Anglin Sacra, i, 
 334-9 ; Gallia Christiana, xi. 353-60; Froo- 
-man’s Norman Conquest, and William Rufus.] 
+man's Norman Conquest, and William Rufus.] 
 
 
 
@@ -1383,7 +1342,7 @@ WILLIAM  ENRAGED. 555
 experienced warrior, wielding at once the keys . _.1(|aa and the sword, another Julius, when the papal authority was in the fullest vigour, Europe might have sunk under a Latin caliphate.
 Whatever may have been the enterprizes wimam
 jealous of
-projected by Odo, William viewed them as c fraught with great and impending danger. Odo had never shewn any want of fidelity towards his brother ; but William's natural harshness was encreased by age, and still more by the repeated acts of opposition, treachery, and re- bellion, which he had sustained. This harass of spirit had gone on encreasing since Waltheofs death : it seemed as if there were no one whom he could trust in the world. Odo had stationed himself in the Isle of Wight, preparing to cross over with his troops to Normandy, to Barfleur : here he was suddenly prevented by William, whose measures had been taken so secretly and so determinedly, as to be wholly unforeseen by him whose visions were to be at once irrevo- cably dispelled. Before the Proceres assembled in the royal hall, the King declared all the trou- bles he had received from kinsmen and from strangers, from son and from brother, from friend and from foe. It was an impassioned tale of the disappointments of ambition, so often felt and so seldom revealed : an outpouring of his bitter troubles. He charged Odo with mis- gjj° on his government, cruelty, treachery ; and asked them for counsel how he should deal with this great
+projected by Odo, William viewed them as c fraught with great and impending danger. Odo had never shewn any want of fidelity towards his brother ; but William's natural harshness was encreased by age, and still more by the repeated acts of opposition, treachery, and re- bellion, which he had sustained. This harass of spirit had gone on encreasing since Waltheofs death : it seemed as if there were no one whom he could trust in the world. Odo had stationed himself in the Isle of Wight, preparing to cross over with his troops to Normandy, to Barfleur : here he was suddenly prevented by William, whose measures had been taken so secretly and so determinedly, as to be wholly unforeseen by him whose visions were to be at once irrevocably dispelled. Before the Proceres assembled in the royal hall, the King declared all the trou- bles he had received from kinsmen and from strangers, from son and from brother, from friend and from foe. It was an impassioned tale of the disappointments of ambition, so often felt and so seldom revealed : an outpouring of his bitter troubles. He charged Odo with mis- gjj° on his government, cruelty, treachery ; and asked them for counsel how he should deal with this great
 
 556 ODO  IMPRISONED.
 . M82 _ state offender. All were silent : none ventured either to acquiesce in the charges brought against one still so powerful, yet less to con- tradict the angry, the implacable sovereign. William commanded that his brother should be arrested ; yet no one dared to attempt to secure Odo's person. Whatever his conduct may have been, he was still a bishop : they shrunk back, fearing the censures of the Church, and thus
@@ -1402,17 +1361,17 @@ p584
 But Rufus and Henry are standing fcy that bedside, and who is to be the Conqueror's heir ? How are his dominions to be divided ? William must speak of his earthly authority ; but every word relating to the object of his pride is uttered
 Robert. in agony. Robert, as first-born, is to take Normandy : it was granted to him before William met Harold in the field of the valley of blood. " Wretched," declared the King, " will be the country subjected to his rule ; but he has re-
 AND ARRANGEMENTS. 585
-ceived the homage of the barons, and the concession, once made, cannot be withdrawn. Of England, I will appoint no heir : let Him in whose hands are all things, provide according to His will." All the wide wasting wretchedness produced by his ambition rose up before him : it seemed as if the air around him was filled with the waitings of those who had perished at his behest, by the sword, by famine, and by fire. Bitterly lamenting his anger, his harshness, his crimes, he declared that he dared not bestow the realm he thus had won : and yet this re- serve was almost a delusion : the natural feeling of a father prevailed, and he declared his hope that Rufus, who from youth upwards, Rufiu- whatever were his other defects of character, had been an obedient son, might succeed him. And what was Henry Beauclerc to inherit ? Hem> A treasure of five thousand pounds of silver. Henry began to lament this unequal gift. " What will all this treasure profit me," exclaimed he, " if I have neither land, nor house, nor home?" William comforted his youngest son, and that strangely, by intimating his foreboding that Henry, becoming far greater than either brother, would one day possess far greater and ampler power.
+ceived the homage of the barons, and the concession, once made, cannot be withdrawn. Of England, I will appoint no heir : let Him in whose hands are all things, provide according to His will." All the wide wasting wretchedness produced by his ambition rose up before him : it seemed as if the air around him was filled with the waitings of those who had perished at his behest, by the sword, by famine, and by fire. Bitterly lamenting his anger, his harshness, his crimes, he declared that he dared not bestow the realm he thus had won : and yet this reserve was almost a delusion : the natural feeling of a father prevailed, and he declared his hope that Rufus, who from youth upwards, Rufiu- whatever were his other defects of character, had been an obedient son, might succeed him. And what was Henry Beauclerc to inherit ? Hem> A treasure of five thousand pounds of silver. Henry began to lament this unequal gift. " What will all this treasure profit me," exclaimed he, " if I have neither land, nor house, nor home?" William comforted his youngest son, and that strangely, by intimating his foreboding that Henry, becoming far greater than either brother, would one day possess far greater and ampler power.
 But the very words which William had spoken, now excited his own apprehensions : the intimations he had thus given, might, by implying a doubt of his right to confer the sue-
 
  THE LAST MOMENTS
 cession, instigate rebellion. He turned him round in his weary bed, and directed that a writ should be prepared, addressed to Lanfranc, commanding him to place Rufus on the throne ; and the dying man, he who had just vowed that he would not take thought concerning the sinful inheritance, affixed his royal signet to the instrument by which, in fact, he bequeathed the unlawful gain ; and he forthwith delivered the same to Rufus, kissed him, and blessed him ; Rufus leaves and Rufus hastened away towards England, lest
 at once. •>
-he should lose the blood-stained crown. Henry, too, departed, to secure his legacy, and to con- sider how he should best protect himself against the troubles which he might occasion or sus- tain.
-§ 6. Both sons have now left their dying parent. More suspense, more agony. Those who surrounded him had heard of alms and of repentance, of contrition and of distribution of to *^e wea^u no longer his own. Some portions to 8 make amends for the wrongs he had committed, some to the poor ; the ample residue to his sons. But as yet no real charity ; of forgive- ness, nothing had been said by William, nothing of remission to the captives in the dungeon, upon whom the doom of perpetual imprisonment had been past. William assented to the remark, and yet justified himself for his severity. Morcar had been hardly treated, and yet how could he, William, restrain the fear which he
+he should lose the blood-stained crown. Henry, too, departed, to secure his legacy, and to con- sider how he should best protect himself against the troubles which he might occasion or sustain.
+§ 6. Both sons have now left their dying parent. More suspense, more agony. Those who surrounded him had heard of alms and of repentance, of contrition and of distribution of to *^e wea^u no longer his own. Some portions to 8 make amends for the wrongs he had committed, some to the poor ; the ample residue to his sons. But as yet no real charity ; of forgiveness, nothing had been said by William, nothing of remission to the captives in the dungeon, upon whom the doom of perpetual imprisonment had been past. William assented to the remark, and yet justified himself for his severity. Morcar had been hardly treated, and yet how could he, William, restrain the fear which he
 
 OF THE CONQUEROR. 587
-had felt of his influence ? Roger de Breteuil had shewn a fell revenge, yet let them be freed ; Woolnoth, the brother of Harold, a child when he fell into the hands of the Conqueror, who had sternly kept him in bonds since the days of his infancy, and Siward of the North, were to be released; and William ended by command- "Oent'caihi8 ing that all the prison doors in England and°' Normandy should be opened, except to one alone : except to Odo his brother. Much were those about William saddened by this hardness: many arid urgent were the entreaties made, but above all by the third brother, Robert of Mor- taigne. At length William relaxed his severity, but without relenting, declaring his unchange- able conviction of Odo's perfidy, and that he yielded against his will.
+had felt of his influence ? Roger de Breteuil had shewn a fell revenge, yet let them be freed ; Woolnoth, the brother of Harold, a child when he fell into the hands of the Conqueror, who had sternly kept him in bonds since the days of his infancy, and Siward of the North, were to be released; and William ended by command- "Oent'caihi8 ing that all the prison doors in England and°' Normandy should be opened, except to one alone : except to Odo his brother. Much were those about William saddened by this hardness: many arid urgent were the entreaties made, but above all by the third brother, Robert of Mortaigne. At length William relaxed his severity, but without relenting, declaring his unchange- able conviction of Odo's perfidy, and that he yielded against his will.
 
 This act of grudging, coerced, extorted forgiveness was his last. A night of somewhat diminished suffering ensued, when the troubled and expiring body takes a dull, painful, unrestful rest before its last earthly repose. But as the cheerful, life-giving rays of the rising sun were darting above the horizon, across the sad apartment, and shedding brightness on its walls, William was half awakened from his imperfect slumbers by the measured, mellow, reverberating swelling tone of the great cathedral bell. "It is the hour of prime," replied the attendants in answer to his enquiry. Then were the priest- hood welcoming with voices of thanksgiving the
 
@@ -1437,13 +1396,13 @@ Publication date 1815
 
 p376-7
 At the expiration of this period, in the beginning of spring, ofthEnables, his first contention was with his uncle, Odo, bishop of Baieux.
-For when he, on his release from confinement, as I have related, had firmly established his nephew, Robert, in the duchy of Nor¬ mandy, he came to England, and received from the king the earldom of Kent. But when he saw every thing in the kingdom managed, not at his own pleasure, as formerly, for the adminis¬ tration of public affairs was now committed to William, bishop of Durham, moved with envy, he himself revolted from the king, and tainted many others by insinuating, that the kingdom be¬ longed to Robert, who was of gentler disposition, and whose youthful follies had been corrected by many adversities ; that William, delicately brought up, and overbearing from that ferocity of mind which was manifest in his countenance, would dare every thing, in defiance of right and equity : that it must soon come to pass, that they would lose the honours they had already obtained with so much difficulty: that nothing was gained by the father’s death, if those whom he had cast into prison, were to be killed by the son. To this effect he used, at first, secretly to mutter, together with Roger Montgomerie, Galfrid, bishop of Coutances, with his nephew Robert earl of Northumberland, and others; afterwards they were more open in their clamours, repeating and disseminating them by letters and by emissaries. Moreover, even William, bishop of Durham, the confidential minister of the king had joined in their treachery. This was matter of great concern to William, it is said ; because, together with the breach of friendship, he was disappointed of the resources .of the distant provinces. Odo now carried off booty of every kind to Rochester, plundering the king’s revenues in Kent, and espe¬ cially the lands of the archbishop; breathing eternal hatred
+For when he, on his release from confinement, as I have related, had firmly established his nephew, Robert, in the duchy of Normandy, he came to England, and received from the king the earldom of Kent. But when he saw every thing in the kingdom managed, not at his own pleasure, as formerly, for the adminis¬ tration of public affairs was now committed to William, bishop of Durham, moved with envy, he himself revolted from the king, and tainted many others by insinuating, that the kingdom be¬ longed to Robert, who was of gentler disposition, and whose youthful follies had been corrected by many adversities ; that William, delicately brought up, and overbearing from that ferocity of mind which was manifest in his countenance, would dare every thing, in defiance of right and equity : that it must soon come to pass, that they would lose the honours they had already obtained with so much difficulty: that nothing was gained by the father's death, if those whom he had cast into prison, were to be killed by the son. To this effect he used, at first, secretly to mutter, together with Roger Montgomerie, Galfrid, bishop of Coutances, with his nephew Robert earl of Northumberland, and others; afterwards they were more open in their clamours, repeating and disseminating them by letters and by emissaries. Moreover, even William, bishop of Durham, the confidential minister of the king had joined in their treachery. This was matter of great concern to William, it is said ; because, together with the breach of friendship, he was disappointed of the resources .of the distant provinces. Odo now carried off booty of every kind to Rochester, plundering the king's revenues in Kent, and espe¬ cially the lands of the archbishop; breathing eternal hatred
 
 kings of England.
 377
-against him, because, he said, it was by his advice, that his A • & 1<>83 - brother had cast him into chains. Nor was this assertion false : William the for when William the Elder formerly complained to Lanfranc, Second ’ that he was deserted by his brother: “ Seize, and cast him into chains,” said he. “ What !” replied the king,.“ he is a clergy¬ man ?” Then the archbishop with playful archness, as Persius says, “ balancing the objection wifh uice antithesis’,” rejoined;.
+against him, because, he said, it was by his advice, that his A • & 1<>83 - brother had cast him into chains. Nor was this assertion false : William the for when William the Elder formerly complained to Lanfranc, Second ' that he was deserted by his brother: “ Seize, and cast him into chains,” said he. “ What !” replied the king,.“ he is a clergyman ?” Then the archbishop with playful archness, as Persius says, “ balancing the objection wifh uice antithesis',” rejoined;.
 " you will not seize the bishop of Baieux, but confine the earl of,
-Kent.” Bishop Geoffry with his nephew, depopulating Bath, and Berkeley, and part of the county of Wilts, treasured up then- spoils at Bristol. Roger Montgomery sending out his army with the Welsh from Shrewsbury, plundered Worcestershire. They had now hoStilely approached Worcester, when the king’s soldiers who guarded it, relying on the blessing of bishop Wulstan, to whom the custody of the castle was committed, tboffgh few in number, dispersed this multitude ; and after wounding and killing many, took some of them prisoners. Moreover, Roger Bigod at Norwich, and Hugo de Grentmeisnil at Leicester, each with their party, were plundering in their respective neighbour¬ hoods. In vain, however, did the whole power of revolt rage ■ against a man, who was deficient neither in prudence nor in good fortune. For seeing almost all the Normans leagued in one furious conspiracy, he sent alluring letters, summoning to him such brave and honest English as yet remained. And Complaining to them on the subject of his wrongs, he bound then) to his party, by promising them wholesome laws, a diminution of tribute, and free leave to hunt.’  ....
+Kent.” Bishop Geoffry with his nephew, depopulating Bath, and Berkeley, and part of the county of Wilts, treasured up then- spoils at Bristol. Roger Montgomery sending out his army with the Welsh from Shrewsbury, plundered Worcestershire. They had now hostilely approached Worcester, when the king's soldiers who guarded it, relying on the blessing of bishop Wulstan, to whom the custody of the castle was committed, tboffgh few in number, dispersed this multitude ; and after wounding and killing many, took some of them prisoners. Moreover, Roger Bigod at Norwich, and Hugo de Grentmeisnil at Leicester, each with their party, were plundering in their respective neighbour¬ hoods. In vain, however, did the whole power of revolt rage ■ against a man, who was deficient neither in prudence nor in good fortune. For seeing almost all the Normans leagued in one furious conspiracy, he sent alluring letters, summoning to him such brave and honest English as yet remained. And Complaining to them on the subject of his wrongs, he bound then) to his party, by promising them wholesome laws, a diminution of tribute, and free leave to hunt.'  ....
 
 
 

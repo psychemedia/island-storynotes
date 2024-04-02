@@ -22,7 +22,6 @@ The highwayman came riding, up to the old inn-door.
 II.  
 
 He'd a French cocked-hat on his forehead, a bunch of lace at his chin,  
-
 A coat of the claret velvet, and breeches of brown doe-skin ;  
 They fitted with never a wrinkle: his boots were up to the thigh !  
 And he rode with a jewelled twinkle,  
@@ -31,12 +30,9 @@ His rapier hilt a-twinkle, under the jewelled sky.
 
 III.  
 
-Over the oobbles he clattered and clanged in the dark inn-  
-yard,  
-And he tapped with his whip on the shutters, but all was  
-locked and barred ;  
-He whistled a tune to the window, and who should be waiting  
-there  
+Over the cobbles he clattered and clanged in the dark inn-yard,  
+And he tapped with his whip on the shutters, but all was locked and barred ;  
+He whistled a tune to the window, and who should be waiting there  
 But the landlord's black-eyed daughter,  
 Bess, the landlord's daughter,  
 Plaiting a dark-red love-knot into her long black hair.
@@ -45,7 +41,6 @@ IV.
 
 And dark in the dark old inn-yard a stable-wicket creaked,  
 Where Tim the ostler listened : his face was white and peaked ;  
-
 His eyes were hollows of madness, his hair like mouldy hay,  
 But he loved the landlord's daughter,  
 The landlord's red-lipped daughter,  
@@ -170,4 +165,5 @@ But the landlord's black-eyed daughter,
 Bess, the landlord's daughter,  
 Plaiting a dark-red love-knot into her long black hair.  
 
-ALFRED NOYES. 
+ALFRED NOYES.
+

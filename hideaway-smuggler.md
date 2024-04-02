@@ -46,7 +46,7 @@ In death they were united
 The law they took in their own hands  
 The wrong had now been righted
 
-So if you dine at the hideawy,  
+So if you dine at the hideaway,  
 Ask the waitress or the waiter  
 To relate to you the smuggler's tale  
 Of Tailor the loathsome traitor

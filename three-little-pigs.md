@@ -11,11 +11,58 @@ According to a [note](https://isleofwightfolkarchive.co.uk/Christmas%20Bumper%20
 > The Three Little Pigs is amongst many stories and tales that were collected by Henry Smith. It is thought that his aunt Amelia from Arreton, who used to entertain people with stories, may have told this one. It refers to the Shanklin Fair which would have probably have been the Hiring / MopFair just after Michaelmas. The fair would have been at the beginning of October which also relates to there being apples on the ground. It also talks of the Mr Smith’s Home Field and Merry Garden at Languard.
 
 
+```{admonition} In Halliwell's Nursery Rhymes", 5th edition, 1853
+
+James Orchard Halliwell-Phillipps, ed., [The nursery rhymes of England](https://books.google.co.uk/books?id=alsCAAAAQAAJ&printsec=frontcover&&f=false#v=onepage&q&f=false), 1853, pp37-41, also reprinted in 1888, again at [pp. 37-41](https://archive.org/details/nurseryrhymesofe00hall/page/37/mode/).
+
+TALES.
+
+LV.
+THE STORY OF THE THREE LITTLE PIGS.
+
+ONCE upon a time there was an old sow with three little pigs, and as she had not enough to keep them, she sent them out to seek their fortune. The first that went off met a man with a bundle of straw, and said to him, " Please, man, give me that straw to build me a house ; "which the man did, and the little pig built a house with it. Presently came along a wolf, and knocked at the door, and said,—
+
+Little pig, little pig, let me come in. "
+
+To which the pig answered, —
+
+"No, no, by the hair of my chiny chin chin. "
+
+The wolf then answered to that,—
+
+"Then I'll huff, and I'll puff, and I'll blow your house in."
+
+So he huffed, and he puffed, and he blew his house in, and eat up the little pig.
+
+The second little pig met a man with a bundle of furze, and said, " Please, man,
+give me that furze to build a house ; " which the man did, and the pig built his house. Then along came the wolf, and said,—
+
+" Little pig, little pig, let me come in. "
+
+"No, no, by the hair of my chiny chin chin."
+
+" Then I'll puff, and I'll huff, and I'll blow your house in. "
+
+So he huffed, and he puffed, and he puffed, and he huffed, and at last he blew the house down, and he eat up the little pig.
+
+The third little pig met a man with a load of bricks, and said, " Please, man, give me those bricks to build a house with ; " so the man gave him the bricks, and he built his house with them. So the wolf came, as he did to the other little pigs, and said ,—
+
+"Little pig, little pig, let me come in."
+
+"No, no, by the hair of my chiny chin chin."
+
+" Then I'll huff, and I'll puff, and I'll blow your house in. "
+
+Well, he huffed , and he puffed, and he huffed, and he puffed, and he puffed, and he huffed ; but he could *not* get the house down. When he found that he
+could not, with all his huffing and puffing, blow the house down, he said, " Little pig, I know where there is a nice field of turnips." "Where ? " said the little pig. "Oh, in Mr. Smith's Home-field, and if you will be ready tomorrow morning I will call for you, and we will go together, and get some for dinner. "
+little pig, " I will be ready. you mean to go ? " Oh, at six o'clock. " Well, the little pig got up at five, and got the turnips before the wolf came—(which he did about six) -and who said, " Little pig, are you ready ? " The little pig said, 'Ready! I have been, and come back again, and got a nice pot-full for dinner. " The wolf felt very angry at this, but thought that he would be up to the little pig_somehow or other, so he said, " Little pig, I know where there is a nice apple-tree. " "Where? " said the pig. " Down at Merry-garden, " replied the wolf, " and if you will not deceive me I will come for you, at five o'clock to- morrow, and we will go together and get some apples. " Well, the little pig bustled up the next morning at four o'clock, and went off for the apples, hoping to get back before the wolf came ; but he had further to go, and had to climb the tree, so that just as he was coming down from it, he saw the wolf coming, which, as you may suppose, frightened him very much. When the wolf came up he said, " Little pig, what ! are you here before me ? Are they nice apples ?" "Yes, very, " said the little pig. "I will throw you down one ; and he threw it so far, that, while the wolf was gone to pick it up, the little pig jumped down and ran home. The next day the wolf came again, and said to the little pig, "Little pig, there is a fair at Shanklin this afternoon, will you go ? " " Oh yes," said the pig, " I will go ; what time shall you be ready ?" "At three," said the wolf. So the little pig went off before the time as usual, and got to the fair, and bought a butter-churn, which he was going home with, when he saw the wolf coming. Then he could not tell what to do. So he got into the churn to hide, and by so doing turned it round, and it rolled down the hill with the pig in it, which frightened the wolf so much, that he ran home without going to the fair. He went to the little pig's house, and told him how frightened he had been by a great round thing which came down the hill past him. Then the little pig said, " Hah, I frightened you then. I had been to the fair and bought a butterchurn, and when I saw you, I got into it, and rolled down the hill . " Then the wolf was very angry indeed, and declared he would eat up the little pig, and that he would get down the chimney after him. When the little pig saw what he was about, he hung on the pot full of water, and made up a blazing fire, and, just as the wolf was coming down, took off the cover, and in fell the wolf; so the little pig put on the cover again in an instant, boiled him up, and eat him for supper, and lived happy ever afterwards.
+
+```
 
 ```{admonition} *The Three Little Pigs*, in Halliwell's "The nursery rhymes of England", 1886
 :class: dropdown
 
-In *The nursery rhymes of England*, J. O. Halliwell-Phillipps, 1886, [pp. 37-41](https://archive.org/details/nurseryrhymesofe00hall/page/37/mode/):
+:
 
 LV. The Three Little Pigs
 
@@ -684,4 +731,102 @@ Esteem'd for his sense, thus facetiously wrote ;
 FINIS.
 
 ```
+
+
+## Other Tales
+
+Jacobs mentions TO DO
+
+
+
+## News Stories Featuring "Three Little Pigs"
+
+As a possible amusing aside, there are several news stories from the mid-nineteenth century featuring three little pigs.
+
+TO DO
+
+----
+https://britishnewspaperarchive.co.uk/viewer/bl/0000298/18501012/023/0003
+Leicestershire Mercury - Saturday 12 October 1850
+
+Loughbrough, County Court, Monday, Oct. 7. (Before J. Hildyard. Esq.)— ... Keightley v. Gimson.— Claim 10s. 4d. Attorney for plaintiff, Mr. Giles; for defendant, Mr. Coope.— On Saturday, the 7th of September, defendant impounded three little pigs, which he had found in his orchard. The following Tuesday, plaintiff paid 1s. 4d.to redeem the pigs, and now brought this action to obtain the sum above stated ; alleging that he had sustained that loss through the pigs not being well attended to while in defendant's possession: he also thought he ought not to have paid anything to get them liberated, as the fence they got through was in bad condition. His Honour appeared to be disgusted at having such a case brought before him, and after hearing plaintiff's evidence, recommended that it should be referred to arbitration, which was agreed to.
+
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620220/039/0003
+Western Daily Mercury - Thursday 20 February 1862
+
+and reprinted in Western Daily Mercury - [Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620222/079/0007)
+
+THE PRIEST AND THE PIG. The Rev Canon Ager, of the Roman Catholic Nunnery in Abbotsleigh, wan summoned by William Hobart for ill-treating couple of pigs, the property of the complainant. Francis appeared for the defendant. It appears that the complainant is the happy owner of three juvenile pigs, rather given to wandering, and who have taken a liking to the nunnery in question, which they frequent on every convenient opportunity. A good dog, something between bull dog and bloodhound, is kept on the premises as a warning to intruders and a caution to beggars. The unloosing of this dog, which is usually kept chained, is generally considered by the infant porkers to be tantamount to a notice to quit. If they do not avail themselve of this notice, without further ado, a dental application to their ears has generally the desired effect. On Monday week last, however, the pigs—a most unusual thing for the complainant's well-conducted porkers—were more obstinate than ordinary, and all the conciliatory efforts of this gentle dog having failed, and finding that all the applications of his mouth to their ears could not induce them to listen to his suggestions, at once commenced an attack on all quarters, which, as may well be supposed, poor piggy came off second best. Hence the present case.
+
+Wm Hobart, complainant, said : I am woodcutter to the Hon Mrs Hare. On Monday, the 10th inst, I had three little pigs. Somehow they got out of the orchard. At halfpast five I went in search of them, and I found a man named Jackson driving one of my little pigs before him. That one was uninjured. I ascertained from him where my other two pigs were. As I was going on the road I met another of them. One of them had its ears very much torn, and had a bite in the hind leg, which was bleeding "thoroughly." It was bleeding from the head and leg too. I took those two home. Next morning I traced the blood to the fields. After finding the second I went in search of the third. I found that one nearer, but so crippled that I could hardly get it home. That one was the worst pig of the three—(laughter). It had both the ears torn to pieces. The fore leg is so injured that it cannot stand, and it is bitten in the shoulder and in the hind leg. It was bleeding very much. I traced the blood next morning from my house to the field, which is in the occupation of the defendant. When I came to the field next morning I saw the gardener, and had some conversation with him. He afterwards came down and delivered me a message from the house. He could not think from the state of the pig that it would be alive now.
+
+Cross-examined by Mr Francis : I am not on bad terms with the Abbotsleign people, and have seen the defendant before. The pigs are all still alive. When I saw the gardener on the Tuesday morning I told him about the injury done to the pigs. He said Mr Ager was then absent. He asked me not to be in too great a hurry about taking out a summons. I said I would not. I might have told him my pig was worth 30s. He said Mr Ager would be very sorry about what had occurred, and asked me not to take out a summons until he returned. The gardener came to me again about 6 o’clock the same evening, with a sack to carry away the pig, and 30s. I then said that I had had a farmer look at the pig and he said that it was worth more. I said I would not part with the pig for that money unless I had compensation for the injury done to the other. The white pig is the worst. Its ears are nearly torn from its head, and it cannot stand upon two of its legs, one fore and one hind. The black one has the skin torn off one of its ears.
+
+Thomas Flit, gardener, at Abbotsleigh, said: I went round on Monday to take the dog from the front to the back. He is almost always kept tied. The dog is something between a bull-dog and a blood-hound. I found him barking at the pigs and driving them, and I took the dog and tied him up.
+
+Cross-examined by Mr Francis : The dog is not a savage one. I have known him for about a year and a half, and it is a quiet dog. It is not more savage than a house-dog ought be. It is kept for the protection of the premises. We have been very much annoyed by pigs They once came in front of the sitting room, and the defendant drove them away. I have driven away the pigs with this dog many times, and I never knew the dog injure pigs in this way before. I have known him bite the pig by the ear, so as to make him squeak and run away. Hobart told me the pig was worth 30s, and that as he was a poor man he could not afford to lose it. I mentioned the matter to Mr Ager directly he came home, and he at once gave me the money, and I took it to complainant, who refused it because there was no compensation for the other one.
+
+By the Bench: I have known the dog bite pigs' ears, but I have never heard of his attacking people more than a house-dog should.
+
+Complainant to witness : Do you know that the pig's ear is in two halves ?
+
+Witness : No.
+
+Complainant : Then I do—(laughter). Was there not some man who complained of the dog insulting him ?
+
+Witness: I never heard of any.
+
+Mary Coleman said she saw the defendant driving the pigs with his dog, as she was returning from work. It went on for about an hour.
+
+Mr Francis to witness : Had you no other amusement going home besides looking at the pigs?
+
+Witness: No. sir.
+
+Henry Row confirmed the evidence of the complainant as to the state of the pigs. The white one was worth, he should think, about 35s, and the damage to the other he estimated at about 5s.
+
+Mr. Francis: Won’t a dog sometimes lead a pig out by the ear as gently as you would lead a lady 
+
+Witness : I have heard of such dogs, but I never saw one— (laughter).
+
+Mr Francis : Ah, these are highly-educated dogs.
+
+Mr Francis, in his address, asked the Bench to believe that the defendant was the last man in the world who would set to work maliciously to injure two small pigs. The pigs had been found in the shrubbery, as they had been many times before, and what could be done but use a dog? The contrariety of the animals was proverbial, and it was as natural to use a dog as to the case of finding a man in one's house, to apply a motive power behind. The dog had always conducted himself in a proper manner with respect to the pigs, until this time, which was the turning point in his history; and therefore how was the defendant to know that the dog would behave in the manner he did ?
+
+The Bench, after retiring, gave their decision. They considered the defendant to be liable for the acts of his dog, aud would therefore inflict a penalty of 6d upon him, with £1 8s costs; but the conviction and penalty were merely nominal, as they exonerated him from the slightest imputation of cruelty.
+
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18620222/017/0006
+Western Times - Saturday 22 February 1862
+
+TOWN HALL. —Before C. J. Wade, Esq., (chairman); W. Creed, W. J. Watts, Esq., and J. Woodley, Esqrs.
+
+The Protestant's Porkers, and the Catholic's Bull Dog.
+
+The Rev Canon Agar, one of the religious functionaries at the Nunnery, recently built at Abbotsleigh, late the property of Parson Braine, was summoned by William Hobart, a market gardener, of Abbotskerwell, for ill-treating two pigs, his property, by setting a bull dog at them, on the 10th instant. Mr. Francis appeared for defendant.
+
+It will be seen from the evidence that complainant, who lives near the Nunnery, at Abbotsleigh, has two or three pigs, whose roving propensities led them to trespass on the premises belonging to the Nunnery, where the rev. defendant amused himself by setting a dog at them, which worried them, according to one of the witnesses's story, for full an hour. They were much bitten and injured, and the present case was the result.
+
+*Complainant*, who said he was a wood-cutter, to the Hon. Mrs. Hare, stated that on the 10th instant, he had three little pigs in his orchard ; by some means they got out of the orchard, and between five and six he went in search of them. He met a man named Jackson, driving one of the pigs—the uninjured one—and he told him where the other two were. Going along the road, he met another of them ; its ears were much torn, and it had a bite in the hind leg, which was bleeding very much, and witness was enabled, next morning, to trace whence the animals came, by the blood it had lost. Took these two pigs home, and went to look for the other. He found it in the road, but it was so injured that he could scarcely get it home. Both its ears were torn to pieces ; it had been bitten in the hind leg, and in the shoulder ; its fore leg was so injured that it could not stand. He could track this pig from the field where it was worried to his own house, by the spots of blood. Believed the field to belong to defendant. Saw the gardener in the field the next morning and had some conversation with him. He afterwards came to defendant's house with a message. Did not think the pigs would recover from the injuries they received. *Cross-examined by Mr. Francis*—Am not on bad terms with the people at the Nunnery; had seen the defendant before. The pigs are still alive. The gardener, when witness told him of the injury done, said Mr. Agar was absent, and asked him not to be in a hurry about taking out a summons until he returned : he said Mr. Agar would be sorry at what had occurred. Might have told him the pig was worth 30s. The same evening the gardener came to his house with a sack, to take away the pig, for which he brought 30s. Told him a farmer had looked at the pig in the meantime, and had valued it at more money. Also told him he should not part with the pig until he had compensation for the injury done to the other. A white pig is the worst—its ears are nearly torn from its head, and two of its legs, one in front and one behind, are so injured that it cannot stand. It was not unusual for farmers to set a dog at pigs to get them out of a field, but he never saw pigs served as his had been by defendant's dog. In the county he, witness, came from, people were more humane towards their pigs. *Thomas Fripp*, gardener, of Abbotsleigh, saw the dog barking at soma pigs that were in front of the nunnery. When he first saw the dog it was barking at the pigs, and biting them when it could. The dog was a mixed bred one, a cross between a blood-hound and bullterrier. Defendant was present, whistling to the dog. Witness took charge of the dog, and chained it up. It was not a savage dog, and would sometimes run away when a pig turned round at him.
+
+The Chairman remarked that he had known dogs of the same description to be very playful at times, and others to be very savage.
+
+*Cross-examined by Mr. Francis*—The dog had often been set at pigs, but had never before done them any injury. Pigs were in the habit of trespassing on these grounds, and gave them much trouble. Wast told by complainant that the pig most injured was worth 30s. Saw the whole of the pigs ; one was badly hurt about the ears ; but the second was not seriously injured. Defendant was the last man who would act cruelly towards a dumb animal; and had requested witness to express his sorrow to the complainant for what had occurred. *Thomas Jackson*, who was working at Abbotsleigh, saw the pigs in the ground where some shrubs were being planted. He tried to drive them away, but could not. He soon after saw defendant trying to drive them off, but he had no dog, when defendant afterwards unchained the dog, and took it away with him. Subsequently he heard the dog barking, but did not see it. *Mary Coleman* heard the pigs crying as she returned from work ; she went into the field where they were, and saw the dog barking at them, and serving them very bad indeed; defendant was looking on. She staid there a whole hour watching them, and the dog was worrying them all the time. She let one of the pigs out of the field.—This was complainant's case, and Mr. Francis, for defendant, argued that his client was not guilty of cruelty, as he had at first endeavoured to drive the pigs from his premises himself; but failing in that, he had obtained the assistance of the dog to do so, as he had done on former occasions, on neither of which had the dog done any injury. He was sure his client would be the last man to act cruelly to dumb animals ; and as soon as he heard what had happened, he expressed his sorrow for it, and offered to settle the matter with complainant, which he refused to do. He hoped the Bench would not convict his client of cruelty, and said little reliance could be placed on the evidence of the girl Coleman. The Bench, after a short consultation, although exonerating defendant from the charge cruelty, fined him 6d, with £1 8s 6d costs, and adjudged him to pay £1 15s, damage done to the pigs.
+
+
+---
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000162/18621011/008/0003
+Dundee Courier - Saturday 11 October 1862
+
+A Nuisance. —On Friday, at the Police Court, Catherine Luckie, an old woman, residing in North Street, Springfield, was charged with keeping a number of swine in her dwelling-house, so as to be a nuisance in the neighbourhood. Having been asked regarding the nuisance, the panel said she had to pay 14s of police money, and it would be a hard case for her if she would not be allowed to keep swine. Mr Mitchell (sharply) —" Are you to kill everybody by a nuisance because you have 14s to pay ?" (Laughter.) Panel—" The swine are nae nuisance, for they're out a' day, an' keepit in nicht. They are out at this minute." Bailie Ower—" How many have you?" Panel—"There's just five swine, an' twa or three little pigs." (Laughter.) Mr Mackay—" There are thirteen swine." Mr Dunsmore, inspector of nuisances, was called, and deponed that the house of the accused was a perfect nuisance to the neighbourhood in which she lived. There were in all thirteen swine and twenty-two hens in her house, and, in fear of the hens being stolen, the windows were nailed up, and so bad was the ventilation of the house, that the smoke, instead of going Up the chimney, came out at the door. (Laughter.) Mr Mackay (to panel)— Are you willing to remove them?" Panel —"I canna remove them; if I did that I couldna mak' a livin'." (Laughter.) Mr Mackay—" But can you not sell them ?" Panel—" I intend to sell them a' but ane or twa.' Bailie Ower—" Your tenants are complaining of this nuisance." Panel—" There's nae tenants complainin'; not one." Bailie Ower—" Mr Dunsmore says so." Panel—" He canna say that." Mr Mackay said if the panel was to be so very obstinate, he would ask the tenants to attend court, and have Dr Cowper to inspect the place. The case was accordingly adjourned till Tuesday next.
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000206/18681027/037/0001
+Manchester Courier - Tuesday 27 October 1868
+
+TWO POUNDS REWARD.—LOST, on Saturday afternoon, between the hours of two and five, THREE Little PIGS, of the "pure China breed."—Apply at the Pig Store, Robinson-street, off Stanley-square, Stalybridge.
+
 

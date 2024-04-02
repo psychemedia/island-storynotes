@@ -13,7 +13,7 @@ Newport, Jan 4th
 
 At our Guildhall, on Saturday, the 28th ult. ...
 
-An information was laid against Thornas Long, a coachman at Ryde, who keeps a retail beer-house in the neighbourhood, charging him with having, on the 24th ultimo, kept his house after ten o'clock at night, the time allowed by the Magistrates, whereby he had Incurred the penally of 5l. Long, who bears a good character, was laid up with the gout and not able to attend ; his wife (Mary Long) on hearing her husband called, stepped into the box. and on being asked if guilty or not, pleaded not guilty. Mr. Hearn, having proved that Long's house was licensed, and that ten o'clock was the time to close at night by order of the Magistrates, called Nathaniel Ashford. the chief constable at Ryde, who, being sworn, stated that he was sent for on the night of the 24th Dec. by Mrs. Long, to the Horse and Groom. I went there, it was just after eleven at night when I went first. I found several people fighting, and forty or fifty outside, many were stripped fighting, and the blood flying in all directions. I requested them to depart, and in about twenty minutes they dispersed. There were people in the dancing room, and Farrow, the fiddler was there; I cleared the room and then went round the town, when I returned I again found people in the house who were not travellers; there was Dore. Cotton, and Mew there ; it is a disorderly house, and is frequently complained of, and what I complain of is when the constables have cleared the house and the doors are locked and we are gone, the house is again opened to admit company ; when I went the second time there were several men outside with Mrs. Long's daughters, the door was not fastened, and others were inside. The Chairman of the Magistrates, in the course of a very suitable address to Mrs. Long, expressed his sorrow that shs should keep a house of such ill fame, and while her husband was behaving well at his work, she was disgracing him by her dlsorderly conduct at home. Fined 5l.
+An information was laid against Thornas Long, a coachman at Ryde, who keeps a retail beer-house in the neighbourhood, charging him with having, on the 24th ultimo, kept his house after ten o'clock at night, the time allowed by the Magistrates, whereby he had Incurred the penalty of 5l. Long, who bears a good character, was laid up with the gout and not able to attend ; his wife (Mary Long) on hearing her husband called, stepped into the box. and on being asked if guilty or not, pleaded not guilty. Mr. Hearn, having proved that Long's house was licensed, and that ten o'clock was the time to close at night by order of the Magistrates, called Nathaniel Ashford. the chief constable at Ryde, who, being sworn, stated that he was sent for on the night of the 24th Dec. by Mrs. Long, to the Horse and Groom. I went there, it was just after eleven at night when I went first. I found several people fighting, and forty or fifty outside, many were stripped fighting, and the blood flying in all directions. I requested them to depart, and in about twenty minutes they dispersed. There were people in the dancing room, and Farrow, the fiddler was there; I cleared the room and then went round the town, when I returned I again found people in the house who were not travellers; there was Dore. Cotton, and Mew there ; it is a disorderly house, and is frequently complained of, and what I complain of is when the constables have cleared the house and the doors are locked and we are gone, the house is again opened to admit company ; when I went the second time there were several men outside with Mrs. Long's daughters, the door was not fastened, and others were inside. The Chairman of the Magistrates, in the course of a very suitable address to Mrs. Long, expressed his sorrow that she should keep a house of such ill fame, and while her husband was behaving well at his work, she was disgracing him by her dlsorderly conduct at home. Fined 5l.
 
 Henry Scott. of Chale, another retailer of beer had a similar information laid against him for having his house open after ten o'clock on the 24th December. John Spanner, sworn:— I am tything man of Chale , at ten minutes before twelve on the night of the 24th, I went to Scolt's house, found several people there and cups on the table ; I asked him If he knew what time it was, and he said yes. I did not go there a second time but heard that they were fighting outside his house at one in the morning. I told him the week before how It would be If he did not shut up his house in proper time. -Though Scott pleaded guilty at first, he now called a witness, apparently to clear himself of the charge, but he got him further into the scrape, for his witness, Thomae Dore, admitted he went there between six and seven in the evening, and stayed there till twelve wilh many others, and he knew it was twelve by Scott's clock, but said, we never had nothing in the world to drink after Spanner came to the door, which wa. half-past ten.— Convicted In the penalty of 2l. 10s.
 
@@ -57,10 +57,10 @@ p201 tale of a landslip: The Landslip at East End,
 p219 lost and found Bonchurch is celebrated as the birthplace of one of our naval heroes, Admiral Sir Thomas Hopson
 p285 Legend of the Titchbourne Dole.  Lady Isabella Crawles
 p333 ford with the mainland  Leap, on the Hampshire coast, and Rew Street in Gurnard Bay
-p359 Luccombe Chine “ runs” formerly existed, and the chalky edge of the clif was worn into a channel by the ropes with which the casks were hoisted from the beach below
+p359 Luccombe Chine " runs" formerly existed, and the chalky edge of the clif was worn into a channel by the ropes with which the casks were hoisted from the beach below
 p377 The next great calamity from which the island suffered,
 from which indeed it was slow in recovering,was not an
-invasion of French foes ,but an il-judged attempt on the part of the then “Lord,” Sir Edward Woodville, to carry terror into the ranks of their old enemies by actively espousing
+invasion of French foes ,but an il-judged attempt on the part of the then "Lord," Sir Edward Woodville, to carry terror into the ranks of their old enemies by actively espousing
 the cause of the Duke of Brittany against Charles VIII. Having , in opposition to the wishes of Henry VII . , raised a force of 40 gentlemen and 400 yeomen of the island, picturesquely clad in white coats with broad red crosses, he
 joined the Duke's forces — a portion of whom assumed the same
 dress to deceive the enemy into the belief that the English
@@ -68,15 +68,15 @@ allies were more numerous than they really were — and
 engaged the King's army under La Tremouille, July 20,1488. La Tremouille gained a complete and sanguinary victory:
 Woodville's whole force was cut to pieces with the exception of a boy, who carried the disastrous intelligence to his native isle. So overwhelming a calamity had never fallen on the Isle of Wight ; all its noblest and best were swept away at one blow , and there was scarce a single family which had nut personal cause for lamentation .
 p373-4 Edward the First and his two successors reserved the
-title of " lord of the island ” to themselves, governing by
-"custodes” or “wardens,"who were often changed, the ofice being not unfrequently in commission. ... On the accession of Richard II the lordship was again
-granted to a subject,... and from this period till the final ces sation of the office in the reign of Henry VII., the roll of “ Lords of the Wight" contains the names of some of the highest persons in the realm.
+title of " lord of the island " to themselves, governing by
+"custodes" or "wardens,"who were often changed, the office being not unfrequently in commission. ... On the accession of Richard II the lordship was again
+granted to a subject,... and from this period till the final ces sation of the office in the reign of Henry VII., the roll of " Lords of the Wight" contains the names of some of the highest persons in the realm.
 p374 On the disastrous termination of Sir Edward Woodville's rash expedition to Britanny, the title ceased; and the Crown, sensible of the importance of the office, never again be
 stowed it upon a subject. The government of the island
-became a mere military appointment, and the"Captain,”or “Governor," ashe was afterwards styled, was answerable to
+became a mere military appointment, and the"Captain,"or "Governor," ashe was afterwards styled, was answerable to
 the sovereign for the due discharge of his duties.
-p81 Carisbrooke Woodville's Gateway (erected by Anthony Lord Scales,circa 1464,and bearing his arms and the White Rose of York ), a really nobles pecimen of a castellated entrance.
-p383 The low fortunes of the island received a stil more terrible blow forty years later,in the disastrous issue of Woodville's rash expedition to Britanny, which robbed it of al its bravest and best. An ordinance was immediately passed by Parliament, prohibiting any persons to hold lands, &c.,of more than the annual value of ten marks, in order that the isle, which was then “desolate and not inhabited, but occupied with beasts and cattle,” might be again peopled and able to defend itself from an invader. [Froude History of England i. 27] [TO DO  - so this was a response to Woodville's action?]
+p81 Carisbrooke Woodville's Gateway (erected by Anthony Lord Scales,circa 1464,and bearing his arms and the White Rose of York ), a really noble specimen of a castellated entrance.
+p383 The low fortunes of the island received a stil more terrible blow forty years later,in the disastrous issue of Woodville's rash expedition to Britanny, which robbed it of al its bravest and best. An ordinance was immediately passed by Parliament, prohibiting any persons to hold lands, &c.,of more than the annual value of ten marks, in order that the isle, which was then "desolate and not inhabited, but occupied with beasts and cattle," might be again peopled and able to defend itself from an invader. [Froude History of England i. 27] [TO DO  - so this was a response to Woodville's action?]
 
 Davenport The Isle of Wight
 p190 Boniface Wishing Well
@@ -86,7 +86,7 @@ In the old times, on the feast-day of St. Boniface, the village maidens were won
 [See also https://www.nationaltrust.org.uk/ventnor-downs/features/st-boniface-and-the-wishing-well-at-ventnor ; paper https://www.academia.edu/14397772/SAINT_BONIFACE_AND_THE_WISHING_WELL]
 
 
-de Godeton - lots of stroeies say wine bound for Livers in Picardy, but Lire/Lyra in Evreux, Nothern Normandy is not far out of Picardy and is perhaps the more likely destination?
+de Godeton - lots of stories say wine bound for Livers in Picardy, but Lire/Lyra in Evreux, Nothern Normandy is not far out of Picardy and is perhaps the more likely destination?
 
 Boucher, letters relating to Isle of Wight 
 p118  Fitz Osborne pursued in the Isle of Wight the same course
@@ -102,7 +102,7 @@ the clergy, and good friends of the clergy (at the beginning at least), suj)port
 
 Briddon's Illustrated Handbook to the Isle of Wight
 p64 Scratchell's Bay : rn aspect of the cliffs, whose warm reflection has just been quitted. There is a legend connected with this spot of a singular
-character - one John Baldwin, of Lymington, having heard his wife threaten “ to dance over his grave, gave directions in his will to be
+character - one John Baldwin, of Lymington, having heard his wife threaten " to dance over his grave, gave directions in his will to be
 buried out at sea.Accordingly his body was duly submerged in Scratchell's Bay sans ceremonie.
 
 Glimpses of Nature and Interest ISle of Wight Loudon
@@ -151,17 +151,17 @@ de Chale, in infula Vectis, idib. O&obris, A.D. 1312." "Wal- ter de Langftrell, 
 Chale mount, in the Isle of Wight."
 
 Mason's New Handy GUide to Isle of WIght 
-p44 Quarr abbey -  The following legend may not prove uninteresting to the readers:-“At a short distance south of the ruins of the Abbey, is a wood, formerly thickly
+p44 Quarr abbey -  The following legend may not prove uninteresting to the readers:-"At a short distance south of the ruins of the Abbey, is a wood, formerly thickly
 timbered, but now only consisting of a few decayed oaks and brushwood ; it is caled Eleanor's Grove, from a tradition that Eleanor of Guienne, Queen of Henry I.,was imprisoned at Quarr,a nd frequented this secluded spot; where , after death , it is related , she was interred in a golden coffin , which is supposed stil to be protected from sacrilegious cupidity,by magical spels.
-p 76 “ The Wishing Well on St. Boniface Down was once a limpid fountain, consecrated by a fantastic legend. Favoured with the benison of a Saint,it possessed a remarkable and highly useful property. Whatsoever might be the wish you breathed to your own heart,before you first tasted the crystal stream,it would infallibly receive a speedy fulfilment. So,Louisa of the dark deep eyes, and Caroline of the raven locks ,and Kate of the fair broad brow, oft-speeded -in al simplicity and with due faith-for of what use is a legend without ye have faith in it?-speeded to the well of St.Boniface ,and ere they drank of its lucent waters silently formed the wishes on whose fulfilment their souls were most intent.”-Adam'sGarden Iele.
+p 76 " The Wishing Well on St. Boniface Down was once a limpid fountain, consecrated by a fantastic legend. Favoured with the benison of a Saint,it possessed a remarkable and highly useful property. Whatsoever might be the wish you breathed to your own heart,before you first tasted the crystal stream,it would infallibly receive a speedy fulfilment. So,Louisa of the dark deep eyes, and Caroline of the raven locks ,and Kate of the fair broad brow, oft-speeded -in al simplicity and with due faith-for of what use is a legend without ye have faith in it?-speeded to the well of St.Boniface ,and ere they drank of its lucent waters silently formed the wishes on whose fulfilment their souls were most intent."-Adam'sGarden Iele.
 
 Undercliff of Isle of Wight, Whitehead
 p122 Crab and Lobster Inn, Ventnor, Crab Fair
 p177 Smuggler's retreat / shibeen
 Whitwell
-One of the small cottages in the lower part of the village, once used as the village post office, during the i8th century was widely known as the “ smugglers’ retreat,” and kept open as a shebeen or “ pop ” shop, where smuggled spirits could be obtained at a cheap rate. Being an unlicensed house, it was closed later by the lord of the manor. A legendary story attaches to the house, connected with the little spring of water, still seen issuing from a recess in the stone wall, close to, but below the ground level of the house. The story is as follows: "At the base of the down above and on its northern aspect, is a farmstead placed in the valley and situated a short distance off the road to the right, leading from St. Lawrence to Whitwell. In the farm yard is the usual pond, on which a brood of ducks—one of these being a fancy breed —were accustomed to swim about and disport themselves. One morning the latter was missing, and early next day it was reported that the missing duck had been found lying in an exhausted condition by the spring near the cottage. From this fact it was positively asserted that the duck had fallen into the well at the farm, and found its way under- ground to St.Lawrence, a mile and a half distant.” From this circumstance, the house obtained its later name as the “ Duck.” The sign of the “ Dog and Duck ” was a common public house sign in the 17th century, and had reference to a sport in vogue at that period, which consisted in seeing ducks hunted in a pond by spaniels. The pleasure arose from watching the bird escape from the dog’s mouth by diving.
-The house obtained further notoriety from being the residence of a well-known and successful leader in the local contraband trade, and thither all the local free traders resorted. Captain H maintained intimate relations with the opposite coast, crossing the Channel frequently in his dealings with France and Holland. A story is told which throws a side-light on the social aspects of village life at this period. A vessel—commonly known as a “ Dutch Dogger ”—lay anchored off the shore fronting the village one Sunday morning and attracted the villagers on board, for the purpose of obtaining spirits, or, possibly to aid in removing the cargo. When the minister arrived for the usual service, the clerk said : “ It be no use opening th’ church, ail th’ folks begone aboard the dogger.” The clerk was an old man named
-Thos.Paine,living at the “Duck” public-house. His successor, “old John Green,” combined the office of parish clerk with that of schoolmaster. He was widely known for his poetical effusions, and currently credited with maintaining more than a passively sympathetic relation with the contrabandists of the day. There was no church-house, and old John occupied the cottage still standing nearly opposite the church. This served a double purpose as vestry ands choolroom. Here,the rector had to robe himself, putting on a white surplice over his black gown. The arrangements for the religious service were of the primitive type customary in small parish churches at that period. The pulpit and reading desk werec ombined and the clerk sat under. The rector led the singing, and after reciting the first verse of the hymn before the sermon, dis- appeared from view, sitting down on a low stool, to disrobe himself of the white surplice and to reappear in the black gown in which he con- cluded the service.
+One of the small cottages in the lower part of the village, once used as the village post office, during the i8th century was widely known as the " smugglers’ retreat," and kept open as a shebeen or " pop " shop, where smuggled spirits could be obtained at a cheap rate. Being an unlicensed house, it was closed later by the lord of the manor. A legendary story attaches to the house, connected with the little spring of water, still seen issuing from a recess in the stone wall, close to, but below the ground level of the house. The story is as follows: "At the base of the down above and on its northern aspect, is a farmstead placed in the valley and situated a short distance off the road to the right, leading from St. Lawrence to Whitwell. In the farm yard is the usual pond, on which a brood of ducks—one of these being a fancy breed —were accustomed to swim about and disport themselves. One morning the latter was missing, and early next day it was reported that the missing duck had been found lying in an exhausted condition by the spring near the cottage. From this fact it was positively asserted that the duck had fallen into the well at the farm, and found its way under- ground to St.Lawrence, a mile and a half distant." From this circumstance, the house obtained its later name as the " Duck." The sign of the " Dog and Duck " was a common public house sign in the 17th century, and had reference to a sport in vogue at that period, which consisted in seeing ducks hunted in a pond by spaniels. The pleasure arose from watching the bird escape from the dog’s mouth by diving.
+The house obtained further notoriety from being the residence of a well-known and successful leader in the local contraband trade, and thither all the local free traders resorted. Captain H maintained intimate relations with the opposite coast, crossing the Channel frequently in his dealings with France and Holland. A story is told which throws a side-light on the social aspects of village life at this period. A vessel—commonly known as a " Dutch Dogger "—lay anchored off the shore fronting the village one Sunday morning and attracted the villagers on board, for the purpose of obtaining spirits, or, possibly to aid in removing the cargo. When the minister arrived for the usual service, the clerk said : " It be no use opening th’ church, ail th’ folks begone aboard the dogger." The clerk was an old man named
+Thos.Paine,living at the "Duck" public-house. His successor, "old John Green," combined the office of parish clerk with that of schoolmaster. He was widely known for his poetical effusions, and currently credited with maintaining more than a passively sympathetic relation with the contrabandists of the day. There was no church-house, and old John occupied the cottage still standing nearly opposite the church. This served a double purpose as vestry and schoolroom. Here,the rector had to robe himself, putting on a white surplice over his black gown. The arrangements for the religious service were of the primitive type customary in small parish churches at that period. The pulpit and reading desk were combined and the clerk sat under. The rector led the singing, and after reciting the first verse of the hymn before the sermon, dis- appeared from view, sitting down on a low stool, to disrobe himself of the white surplice and to reappear in the black gown in which he concluded the service.
 
 p336-344 smuggling
 p340 ghost horse
@@ -180,16 +180,15 @@ p188 THE MYSTERIOUS EGG. ( witch story)
 
 History Of Isle of Wight, Warner
 p180-2
-A late amiable naturalilt, speaking of a range of chalk downs, in the upper part of Hampfhire, refembling thofe of the ifland, has the following
-obfer-
-obfervation : " perhaps I may be fingular in my opinion, and not fo happy as to convey to you the fame idea; but I never contemplate thefe
-mountains, without thinking I perceive fome- thing analogous to growth, in their gentle
-fwellings, and fmooth fungus like protuberances, their fluted fides, and regular hollows and Hopes, that carry at once the air of vegetative dilatation and expanfion."* The idea is novel and in- genious, and feems to be founded in truth, from
+A late amiable naturalilt, speaking of a range of chalk downs, in the upper part of Hampshire, resembling those of the island, has the following
+
+observation : " perhaps I may be singular in my opinion, and not so happy as to convey to you the same idea; but I never contemplate thefe
+mountains, without thinking I perceive something analogous to growth, in their gentle
+swellings, and smooth fungus like protuberances, their fluted fides, and regular hollows and Hopes, that carry at once the air of vegetative dilatation and expanfion."* The idea is novel and ingenious, and feems to be founded in truth, from
 certain appearances of gradual enlargement which the Ifle of Wight hills have exhibited.
-It is a well-known facl, that, about half a cen-
-tury fince, Shanklin down, which (lands in the
-$outh-Eaftern part of the ifland, was not to be difcerned, from St. Catherine's, owing to the intervention of Week down, whofe magnitude and elevation completely fcreened it from the
-eye. A gradual, but imperceptible expanfion, however, of Shanklin down, has at length reared
+It is a well-known facl, that, about half a century since, Shanklin down, which stands in the
+South-Eastern part of the island, was not to be discerned, from St. Catherine's, owing to the intervention of Week down, whose magnitude and elevation completely screened it from the
+eye. A gradual, but imperceptible expansion, however, of Shanklin down, has at length reared
 it to a greater bulk, and a greater height, (by at
 
 White's Nat. Hift. Selborne, p. 163.
@@ -197,19 +196,19 @@ White's Nat. Hift. Selborne, p. 163.
 lead one hundred feet) than that of its formerly
 invidious neighbour.
 It feems fufficiently clear, that this difference
-in the appearance of the two downs muft have arifen rather from the growth of Shanklin, than the finking of Week ; fince the latter, and all the furrounding downs, bear the fame relative proportion to each other they ever did, which could not be the cafe, had any change taken
+in the appearance of the two downs muft have arisen rather from the growth of Shanklin, than the sinking of Week ; since the latter, and all the surrounding downs, bear the same relative proportion to each other they ever did, which could not be the case, had any change taken
 
 
 Isle of Wight Moncrieff
 p92
 OUR Pisgah for this stage is St Catherine's Down, once held the highest point of the Island, but now dethroned, like Ben Macdhui, in favour of the Ben Nevis of St Boniface. It appears that in Georgian days Week Down was charged with hiding Shanklin Down from the view of St Catherine's, as is no longer the case, the moral being that one or other of these heights has been raised or depressed, as may well have happened to superstructures upon so slipperyfoundation. Insuchaquestionofmeasure-
 ments, at all events, "the self-styled science of the "
-so-callednineteenthcentury withitsmoreelaborate observations, gives a surer title to eminence. But St Catherine's is only a few feet lower than the ridge above Ventnor ; and from it, too, a fine prospect may be had, ranging over the Isle of Wight to the heights of the mainland, and across the Channel to the French coast in clear weather.
+so-called nineteenth century with its more elaborate observations, gives a surer title to eminence. But St Catherine's is only a few feet lower than the ridge above Ventnor ; and from it, too, a fine prospect may be had, ranging over the Isle of Wight to the heights of the mainland, and across the Channel to the French coast in clear weather.
 
 Journey to Isle of Wight Pennant
 p187
-Divines, who feek for the completion of prophecies, may have a more comfortable and authentic proof, from the re- cent appearance of SkanMm Down, from the Tower of $L
-Catherine. Within memory of man, another, called Week Down, interfered fo far as to render the former fcarcely vifi- ble from the Tower; but, at prefent, Shanklin Down appears from that ancient ftructure a hundred feet higher than that of Week: fo that, in this inftance at leaf!:, cc every valley fhall be exalted, and every mountain fhall be made low." remember the infinite fatisfaction I gave to a truly learned and pious Divine on this fubjecl:, by relating to- him, that the later meafures of the height of our boafled Snowdon made
+Divines, who feek for the completion of prophecies, may have a more comfortable and authentic proof, from the recent appearance of SkanMm Down, from the Tower of St.
+Catherine. Within memory of man, another, called Week Down, interfered so far as to render the former fcarcely visible from the Tower; but, at prefent, Shanklin Down appears from that ancient ftructure a hundred feet higher than that of Week: so that, in this instance at least, cc?? every valley shall be exalted, and every mountain shall be made low." remember the infinite satisfaction I gave to a truly learned and pious Divine on this subject:, by relating to him, that the later meafures of the height of our boafled?? Snowdon made
 it about a hundred and fifty feet lower than it was in the preceding century.
 
 
@@ -222,8 +221,8 @@ Catherine's; whereas now it is visible from Chale down; consequently either Week
 down must have funk considerably, or
 Shanklin down must have increased its altitude. And some of the old people tell you
 that this has partly happened within their own
- own remembrance. So wonderfularethe operations of Nature,that it is not for man
-to say,“ It cannot be;"but this is an event so far out of her usual course, that I own I could not readily give credit to it.
+ own remembrance. So wonderful are the operations of Nature, that it is not for man
+to say," It cannot be;" but this is an event so far out of her usual course, that I own I could not readily give credit to it.
 
 https://youtu.be/KHrRHoeVB2Q?t=713  862
 
@@ -234,39 +233,36 @@ There are many things in Nature which
 not only appear incomprehensible to a careful observer,but which cannot always be
 accounted for by the naturalist. Of this we met with an instance here. W e could not help surveying, with a wonder bordering on
 astonishment, the sheep that had got over the edges of the craggy precipices, from the
-downs they grazed on, and lay in the hollows of the rocks, in order to shelter t h e m
-felves from the heat;- we even observed their bleating young ones carefully to de fcend, and reach their dams in safety.-
-How ,thus fearless of danger,they leave the plains,andventure on these hazardous de clivities,where the least false step must be
-attended with destruction,is,we believe,
+downs they grazed on, and lay in the hollows of the rocks, in order to shelter themselves from the heat;- we even observed their bleating young ones carefully to de fcend, and reach their dams in safety.-
+How ,thus fearless of danger, they leave the plains, and venture on these hazardous de clivities, where the least false step must be
+attended with destruction, is, we believe,
 beyond the comprehension of the mostfa
 gacious naturalist.- So extraordinary did it
 appear to us, that nothing but ocular d e
 monstration could have convinced us of the truth of it.- The account received from a
-peasant,had we not seen their situation, would havemet with but little credit from us.
+peasant, had we not seen their situation, would have met with but little credit from us.
 p207-8
  A phoenomenon of another nature, but not less singular, presented itself to us here.
-When wesatout from Knowle a storm seemed to be pending in the horizon ; and by the time we had reached St.Lawrencew eheard
-several claps ofthunder. As every incident which tended to produce picturesque effects instantly attracted our attention ,we cast our eyes towards the sea, in order to observe whether any alteration had taken place on
-its smooth surface ; when , to our great surprise, we plainly perceived a vessel ,within
+When wesatout from Knowle a storm seemed to be pending in the horizon ; and by the time we had reached St.Lawrence we heard
+several claps ofthunder. As every incident which tended to produce picturesque effects instantly attracted our attention, we cast our eyes towards the sea, in order to observe whether any alteration had taken place on
+its smooth surface ; when , to our great surprise, we plainly perceived a vessel, within
 eight miles of the shore, labouring under the effects of the storm , and apparently in the greatest distress. And what was extremely striking was, that though the sea where
 where the vessel happened to be,rolled (as
-it is commonly termed,)mountains high, yet not a breath of that air, which was there fo tempestuous, ruffled the water on the beach beneath us.- An operation of N a
-ture that had never before fallen under our
+it is commonly termed,) mountains high, yet not a breath of that air, which was there fo tempestuous, ruffled the water on the beach beneath us.- An operation of Nature that had never before fallen under our
 inspection ; and we greatly regretted not having with us some ingenious painter, in
 the marine line, to take an exact represents ation of it.
 : A light, rendered more bright by the
-contrast, had spread itselfround the elec
-tric cloud, which was thus venting its rage upon the helpless ship, and rendered the
+contrast, had spread itself round the electric cloud, which was thus venting its rage upon the helpless ship, and rendered the
 scene more gloomy. By a glass, we could
 perceive that she laboured much under the 'violence of the storm , and every wave came full fraught with danger. For near an
 hour did the tempest permit us to behold
 its raging at a distance; but at length a brisk wind springing up, it made its way towards us,and we should have shared in
-its“ pitiless peltings,”had we not retired
+its " pitiless peltings," had we not retired
 to a neighbouring cottage, where we continued til it had passed on.
 
-#
+# TO DO
 
-Irish fairy strories fairytales legends myths
+Irish fairy stories fairytales legends myths
 
 Myths & legends of the Celtic race
 by Rolleston, T. W. (Thomas William), 1857-1920

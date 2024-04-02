@@ -61,7 +61,7 @@ A grammar school was founded here by Sir Richard Worsley, in 1614 ;but though fo
 inadequate, and the intentions of the founder have ceased
 to take effect. The curate for the time being has been
 for some time past the nominal master of the Grammar School, and the occupier of the premises built on the site of
-the old “ Chantry House ."
+the old " Chantry House ."
 
 1850 barbers picturesque guide
 GODSHILL is a picturesque village, much remarked for
@@ -78,7 +78,7 @@ When they returned to the building site early the following morning they discove
 So, the day’s work was to be the moving of everything from the top of the hill back to the field below. So, after another day’s exhausting work they were back to where they were the evening before. They thought no more of it and set off home for a good night’s sleep.
 You can imagine their astonishment the next morning when they found that exactly the same had happened again. Everything had been moved and laid out perfectly once more on top of the hill. They were determined the church should be in their chosen location at the bottom of the hill and again moved everything back and then continued the building work. At the end of the day, the village elders decided to post watchmen around the church to watch over the building works.
 At midnight, in the dark, the watchmen started to hear rumbling sounds. They couldn’t believe their eyes. They saw the giant stones sway from side to side slowly, as if awakening. The smaller stones then started jumping and rolling up the hill, leapfrogging over each other and the various obstacles in the way. The larger stones moved slowly, swaying and rolling. Not only the stones, but marker pegs, ropes, shovels and anything related to the building of the church, flew up the hill with them. At the top of the hill, marker pegs were hammered into the layout of the church with mallets that swung themselves, and string tied itself to the pegs to form the guide for the church building layout.
-After the village elders had heard what had happened, they decreed that the church would be built on the top of the hill, and that from that time on, in honour of the miracle that had happened there, the village would be named “God’s Hill”. The field below the hill where they had initially tried to build their church was from then on known as “Devil’s Acre”.
+After the village elders had heard what had happened, they decreed that the church would be built on the top of the hill, and that from that time on, in honour of the miracle that had happened there, the village would be named "God’s Hill". The field below the hill where they had initially tried to build their church was from then on known as "Devil’s Acre".
 
 
 Isle of WIght, Ward, 1909 
@@ -453,47 +453,47 @@ calling. But another accident of which he told me was very remarkable."
  Undercliff, Isle of Wight
 p116-7
 
- “ THE BISHOP’S ACRE ”
+ " THE BISHOP’S ACRE "
 around which such a halo of mystery has grown, must now be con- sidered. This plot of ground at the foot of the Down stands on the north side of St. Boniface Road, just outside the parish boundaries, and before Ventnor, in 1867, was constituted a separate Urban Authority, formed a part of the Newchurch parish.
 Several interesting stories have arisen in connection with it. The earliest I can find is the following :
-” There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin.”
+" There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin."
 Albin, five years later, repeats this version, and further says that :
-"It needs only to be added that a small parcel of land, containing about an acre, was given to the living in this situation, and, as supposed, in consequence of that vow.”2
+"It needs only to be added that a small parcel of land, containing about an acre, was given to the living in this situation, and, as supposed, in consequence of that vow."2
 
 1 Hassell, Tour to /. JV,, vol. ii, pp. x-a. 3 Albin, ffist. of I, p. 494
 
 The story, as related by Adams, varies the particulars :
-“ Good St. Boniface, during a very stormy night, having missed his path, found himself descending this steep,—not a very pleasant expedition on horse* back,—and thereupon vowed that if he reached the bottom in safety, he would purchase the land where he alighted, and endow with it the Church of Shanklin. He did descend in safety, and he piously kept his vow ; —the land is known in remembrance thereof as the "Bishop’s Acre." ** l
+" Good St. Boniface, during a very stormy night, having missed his path, found himself descending this steep,—not a very pleasant expedition on horse* back,—and thereupon vowed that if he reached the bottom in safety, he would purchase the land where he alighted, and endow with it the Church of Shanklin. He did descend in safety, and he piously kept his vow ; —the land is known in remembrance thereof as the "Bishop’s Acre." ** l
 The tradition, as related by Canon Venables is :
 **
 That a certain bishop who, riding over the Downs, lost his way in a thick mist, and to his horror found himself on the brink of the precipitous face
-Canon Venables says, in alluding to the legend, ” that the story does account, in a manner not altogether incredible, for the singular fact that this little rectangular plot lying by itself in the midst of other pro- perty, and not even in the parish of Bonchurch, has belonged to the Rector from time immemorial.” As the ” old sea captain ” says in his
-Wanderings in the Isle of Wight, ” it is a curious tale, but as to the truth of it—that is quite another story.”
+Canon Venables says, in alluding to the legend, " that the story does account, in a manner not altogether incredible, for the singular fact that this little rectangular plot lying by itself in the midst of other pro- perty, and not even in the parish of Bonchurch, has belonged to the Rector from time immemorial." As the " old sea captain " says in his
+Wanderings in the Isle of Wight, " it is a curious tale, but as to the truth of it—that is quite another story."
 In the Appendix to Worsley’s History a charter of Walter de Insula is given, g?anting land on the side of St. Boniface, next to Luccombe, to the monks of Quarr Abbey. The charter is couched in the following terms :
-” Sciant praesentes et futuri quod ego Walterus de Insula, assensu et voluntate Galfridi filii et haeredis mei, dedi et concessi Deo et beatae Marie de Quarraria et monachis ibidem Deo servientibus terram cultibilem lateris mentis sancti Bonifacii qui est versus Luvecumbam,” etc.3
-Mr. Percy Stone gives the purport of the charter clearly : —” A feoff- ment in fee of Land made to the monks of Quarrer according to boundaries set by common assent of the Parties. Gift by Walter de Insula, with the consent of his son Geoffery, of the side of St. Boniface down next Luccombe : testibus*Will. filio Stur, Will Avenel. Seal, a knight riding at speed in his right hand the bridle, in his left extended a hawk.”^ The date of the charter is not given, and though assigned to the time of Henry III, is probably of an earlier date, towards the close of King John’s reign. Walter de Insula died in 1221; the son, Geoffrey, was probably of full age when he assented to the grant, and therefore born by or before 1201.
+" Sciant praesentes et futuri quod ego Walterus de Insula, assensu et voluntate Galfridi filii et haeredis mei, dedi et concessi Deo et beatae Marie de Quarraria et monachis ibidem Deo servientibus terram cultibilem lateris mentis sancti Bonifacii qui est versus Luvecumbam," etc.3
+Mr. Percy Stone gives the purport of the charter clearly : —" A feoff- ment in fee of Land made to the monks of Quarrer according to boundaries set by common assent of the Parties. Gift by Walter de Insula, with the consent of his son Geoffery, of the side of St. Boniface down next Luccombe : testibus*Will. filio Stur, Will Avenel. Seal, a knight riding at speed in his right hand the bridle, in his left extended a hawk."^ The date of the charter is not given, and though assigned to the time of Henry III, is probably of an earlier date, towards the close of King John’s reign. Walter de Insula died in 1221; the son, Geoffrey, was probably of full age when he assented to the grant, and therefore born by or before 1201.
 The gift could not have been to the church of Shanklin, since that church was not founded till a later period—after 1305 and before 1333. The edifice is not mentioned in the Dean’s return of the Island churches, but is referred to in Bishop Stratford’s register, 1323--33, and is then in the presentation of John de Insula, the probable founder of the church
 ^ Adams, /. IV., p. 199. * W., App., No. 64.
 2 Venables, Ct. to /. W., p. 218. ^ Archit. Antigt., vol. i, p. no.
 and the patron of the Bonchurch tiving. Shankiin was a chapelry—^not having the right of burial or of administering the sacraments, and the residents had to resort to Brading in order to bury their dead. The Bishop could not have been St. Boniface, who lived several centuries earlier. When the temporalities belonging to Quarr Abbey were dis- persed, there is no deed to show how this parcel of land became attached to the Bonchurch living. It was not unusual however, where monas- teries had been previously established, to transfer the tithes, glebe, etc., to a church of later foundation in the locality from whence the offerings were derived, the consent of the Bishop having first been obtained.
-Mr. F. J. Hughes, the present owner of 5, 6. 7, and 8, St. Boniface Terrace, rents part of the glebe land known as “ Bishop’s Acre ” on lease, renewable every twenty-one years, from the Ecclesiastical Com- missioners acid the Rector of Bonchurch, at an annual rental of £12, The land thus leased is included in and forms part of the garden ground attached to the houses.
-^‘ST. BONIFACE WISHING WELL.”
-There is another feature connected w'ith the early history of Ventnor which ought to be noticed. The “Wishing Well,” or “Holywell Spring,” as it is called by Worsley, is situated on the steep face of the down, not far from its summit, and although, in these later days, it has fallen from its high estate, and its claims are barely recognised, has still several interesting points connected . with it which call for notice. Its antiquity is undoubted, and if the past history could be traced we should have to go back many centuries to a period when well-worship was in vogue. This of itself should excite the interest and enlist the sympathies of all who visit the spot. Reverence, or in other words, well- worship, can be traced from the most remote antiquity all the world over. It appears to have been common alike to the Pagan Celts and to the Saxon Christians. It was found difficult to put down this worship, and many edicts of the Church were directed against it, from the 5th to the nth centuries. What could not be suppressed would appear to have been at last sanctioned under the patronage of the Saints; hence we have St. Boniface Well, St. Lawrence Well and Holiwell, Niton, in the neighbourhood, as examples of such holy wells.
-“I think there can be little doubt,” writes Mr. T. W. Shore, “ that the ‘ Wishing Wells ’ are survivals^! the medieval holy wells. In Hampshire and the Isle of Wight we have a considerable number of wells and springs which had a sanctity in previous centuries, and which have, or had, a ‘ Folk Lore ’ of their own down to the last century. First, in point of interest, amon^ these is St. Boniface Well, at Bon- church.”!
+Mr. F. J. Hughes, the present owner of 5, 6. 7, and 8, St. Boniface Terrace, rents part of the glebe land known as " Bishop’s Acre " on lease, renewable every twenty-one years, from the Ecclesiastical Com- missioners acid the Rector of Bonchurch, at an annual rental of £12, The land thus leased is included in and forms part of the garden ground attached to the houses.
+^‘ST. BONIFACE WISHING WELL."
+There is another feature connected w'ith the early history of Ventnor which ought to be noticed. The "Wishing Well," or "Holywell Spring," as it is called by Worsley, is situated on the steep face of the down, not far from its summit, and although, in these later days, it has fallen from its high estate, and its claims are barely recognised, has still several interesting points connected . with it which call for notice. Its antiquity is undoubted, and if the past history could be traced we should have to go back many centuries to a period when well-worship was in vogue. This of itself should excite the interest and enlist the sympathies of all who visit the spot. Reverence, or in other words, well- worship, can be traced from the most remote antiquity all the world over. It appears to have been common alike to the Pagan Celts and to the Saxon Christians. It was found difficult to put down this worship, and many edicts of the Church were directed against it, from the 5th to the nth centuries. What could not be suppressed would appear to have been at last sanctioned under the patronage of the Saints; hence we have St. Boniface Well, St. Lawrence Well and Holiwell, Niton, in the neighbourhood, as examples of such holy wells.
+"I think there can be little doubt," writes Mr. T. W. Shore, " that the ‘ Wishing Wells ’ are survivals^! the medieval holy wells. In Hampshire and the Isle of Wight we have a considerable number of wells and springs which had a sanctity in previous centuries, and which have, or had, a ‘ Folk Lore ’ of their own down to the last century. First, in point of interest, amon^ these is St. Boniface Well, at Bon- church."!
 The earliest reference to the Well is found in the pages of Tomkins’ Tour to the Island, showing that the sanctity of the well and its claims
-: were duly recognised —“
+: were duly recognised —"
 Just above the house (St. Boniface House) is 1 Shore, Memorial VoL, p. 99 (H. F. C).
 
-a spring, which was formerly held in high veneration by the seamen. It was their custom, in passing this place, to lower the fore-topmast in reverence to St. Boniface. A further notice occurs in the pages of Englefield : —“ Near to the top of the slope, and in the steepest part of it, is a small spring, famous by the name of St. Boniface’s Well, and regarded by the people with a sort of religious veneration,” adding later : —“ I climbed up the steep side, by the path which leads to the celebrated Well of St. Boniface, which, however, was at that time a very inconsiderable spring. A spring at this height is a most remarkable circumstance, and the only instance of the kind in the whole range of chalk downs. It indicates some stratum within the hill differing from the chalk, which would certainly let the rain water sink through its substance here, as it does everywhere else. ”2 The late Canon Venables
+a spring, which was formerly held in high veneration by the seamen. It was their custom, in passing this place, to lower the fore-topmast in reverence to St. Boniface. A further notice occurs in the pages of Englefield : —" Near to the top of the slope, and in the steepest part of it, is a small spring, famous by the name of St. Boniface’s Well, and regarded by the people with a sort of religious veneration," adding later : —" I climbed up the steep side, by the path which leads to the celebrated Well of St. Boniface, which, however, was at that time a very inconsiderable spring. A spring at this height is a most remarkable circumstance, and the only instance of the kind in the whole range of chalk downs. It indicates some stratum within the hill differing from the chalk, which would certainly let the rain water sink through its substance here, as it does everywhere else. "2 The late Canon Venables
 : says —
-“ The remarkable fact of a spring bursting forth at so great an elevation is alike interesting to the geologist and to the lover of old superstitions, from the reverence which it is said, was formerly shown to it. The popular belief was, that if the well were reached without once looking back, any wish formed while drinking the water would certainly be granted, and the story goes that the lads and lasses of the neigh- bourhood used to resort to the well on St. Boniface Day to deck it with garlands of flowers.”3 This custom, I need hardly say, no longer exists among the merrymakings of the district, but is buried in oblivion, with many other partially religious observances of the olden times in “ Merrie England.”
+" The remarkable fact of a spring bursting forth at so great an elevation is alike interesting to the geologist and to the lover of old superstitions, from the reverence which it is said, was formerly shown to it. The popular belief was, that if the well were reached without once looking back, any wish formed while drinking the water would certainly be granted, and the story goes that the lads and lasses of the neigh- bourhood used to resort to the well on St. Boniface Day to deck it with garlands of flowers."3 This custom, I need hardly say, no longer exists among the merrymakings of the district, but is buried in oblivion, with many other partially religious observances of the olden times in " Merrie England."
 
 
 ---
 
 1884 Isle of Wight Davenport
 
-Several stone coffins have,at different times,been excavated at Quarr;afewcoinsandsomeotherrelicshavealsobeendiscovered,but not of a nature or in such abundance as to satisfy the antiquary, or throw any vivid light upon the history of the abbey. In 1857 a curious discovery was made by some labourers engaged in the con structionof a new road through the old abbey grounds,of “three small stone boxes or chests, each chest being about two feet in length and one foot wide. They were placed side by side,—two of them nearly close together, and the third a foot or two to the south. Upon removing the heavy stones of which the lids were composed, three human skeletons in a good state of preservation were found.
+Several stone coffins have,at different times,been excavated at Quarr;a few coins and some other relics have also been discovered, but not of a nature or in such abundance as to satisfy the antiquary, or throw any vivid light upon the history of the abbey. In 1857 a curious discovery was made by some labourers engaged in the con structionof a new road through the old abbey grounds,of "three small stone boxes or chests, each chest being about two feet in length and one foot wide. They were placed side by side,—two of them nearly close together, and the third a foot or two to the south. Upon removing the heavy stones of which the lids were composed, three human skeletons in a good state of preservation were found.
 
 ENVIRONS OF RYDE. 163
 
@@ -503,12 +503,12 @@ three cases turned upside down. It was evident that these remains
 had been removed at some time or other from the place of their
 original burial ; and that they were of persons of distinction was
 beyond doubt, or such care would not have been bestowed upon
-them”(Isleof WightObserver). One of the skeletons was pronounced
+them" (Isle of Wight Observer). One of the skeletons was pronounced
 to be that of an aged man,another that of an aged female,and the third that of "a tall fine man about forty years of age." It has been
 suggested, and there is an air of probability about the suggestion, that they were the remains of Count Baldwin, his wife, and his son Henry. They are now in the Museum at Ryde.
 
-This is just the spot where “the violet of a legend " might be ex pected to blossom ; and the traditions connected with the abbey are of a fantastic character. One tells of a deep subterraneous passage, closed by a golden gate, and is evidently the offspring of the awe and wonder created in the minds of the vulgar by monastic wealth and power. Another is not less wildly fabulous:—“At a short distance south of the ruins of the abbey is a wood, formerly thickly timbered, but now only consisting of a few decayed oaks and brushwood ; itis
-called Eleanor's Grove,from a tradition that Eleanor of Guienne, queen of Henry II., was imprisoned at Quarr,and frequented this secluded spot, where, after death, it is related, she was interred in a golden coffin,which is supposed still to be protected from sacrilegious cupidity by magical spells.” About half a century ago a search was made for this golden coffin,with theresultof discovering one of common character, containing a female skeleton .
+This is just the spot where "the violet of a legend " might be ex pected to blossom ; and the traditions connected with the abbey are of a fantastic character. One tells of a deep subterraneous passage, closed by a golden gate, and is evidently the offspring of the awe and wonder created in the minds of the vulgar by monastic wealth and power. Another is not less wildly fabulous:—"At a short distance south of the ruins of the abbey is a wood, formerly thickly timbered, but now only consisting of a few decayed oaks and brushwood ; it is
+called Eleanor's Grove, from a tradition that Eleanor of Guienne, queen of Henry II., was imprisoned at Quarr, and frequented this secluded spot, where, after death, it is related, she was interred in a golden coffin,which is supposed still to be protected from sacrilegious cupidity by magical spells." About half a century ago a search was made for this golden coffin,with the result of discovering one of common character, containing a female skeleton .
 
 
 ---
@@ -518,7 +518,7 @@ Boucher letters, 1896
 
 p158?-164?
 
-At Chale still lingers a relic of a curious feature of life in th eMiddleAges, On St. Catherine's Down, 769 feet above the sea, there is undoubted evidence showing that in the fourteenth century a hermit had taken up his residence on the summit. A hermit was a religious personage who, without becoming a member of a monastic community, kept aloof from society. The hermit was a solitary in a cell, as distin-
+At Chale still lingers a relic of a curious feature of life in the Middle Ages, On St. Catherine's Down, 769 feet above the sea, there is undoubted evidence showing that in the fourteenth century a hermit had taken up his residence on the summit. A hermit was a religious personage who, without becoming a member of a monastic community, kept aloof from society. The hermit was a solitary in a cell, as distin-
 The
 is very good probably the work of the same architect with
 I, W. —'is low and
@@ -538,18 +538,16 @@ de Godyton, who added an endowment for a chantry priest
 to sing masses for the soul of the founder and the souls of
 his ancestors, as also to provide lights at night to warn off
 ships from approaching too near this dangerous coast. The
-abode of this chantry-priest was nothing more than a half-
-timbered hut, containing two rooms, with no fireplace beyond
+abode of this chantry-priest was nothing more than a half-timbered hut, containing two rooms, with no fireplace beyond
 a space of ground on which he burnt some dried turf, and
-with no chimney except a hole in the roof. At the Reforma-
-tion, when some of the wheat was pulled up with the tares by
+with no chimney except a hole in the roof. At the Reformation, when some of the wheat was pulled up with the tares by
 the rude and ruthless hands of those who took part in that
 purifying but destructive process, the lights in this humble
 hermitage were put out, when the masses were forbidden.
 The chapel and the hermitage have entirely disappeared, but in 1753 their foundations were excavated by Sir Richard
 Worsley, and are. Canon Venables says, still to be traced.
-Worsley {Hisi. I. W. p. 247) has a note which states that '
-in the family papers is a small rude drawing of this chapel, when entire, from which it appears that it had only a body without a transept; the tower stood at the west end. A description of this tower, with four views of it in its de- cayed state, is seen in the Gentleman's Magazine, vol. xxvii. p. 176.
+Worsley (Hist. I. W. p. 247) has a note which states that '
+in the family papers is a small rude drawing of this chapel, when entire, from which it appears that it had only a body without a transept; the tower stood at the west end. A description of this tower, with four views of it in its decayed state, is seen in the Gentleman's Magazine, vol. xxvii. p. 176.
 With the destruction of the chantry, the morals of the
 people of Chale, as regarded the treatment of shipwrecked mariners, became worse rather than better. Tomkins, in his
 Tour in the Isle of Wight (London, i 796), vol. i. p. 1 26, having
@@ -565,9 +563,8 @@ stratagem said to have been practised on this coast for a number of years, but i
 improbability to be seriously credited. On every stormy night the inhabitants of the coast of Chale are said to have allured the unwary mariner to his destruction by fixing
 
  l6o THE VILLAGE OF CHALE
-a lanthorn to the head of an old horse, one of whose fore-
-legs had been previously lied up. The limping gait of the animal gave the lantliorn a kind of motion exactly similar to that of a ship's lanthorn, and led the deceived pilot on thefe fatal rocks, a prey to merciless plunderers, who it was said would not even scruple to dispatch any unfortunate individual that survived the wreck, in order to secure their booty more
-completely.'
+a lanthorn to the head of an old horse, one of whose fore-legs had been previously tied up. The limping gait of the animal gave the lanthorn a kind of motion exactly similar to that of a ship's lanthorn, and led the deceived pilot on these fatal rocks, a prey to merciless plunderers, who it was said would not even scruple to dispatch any unfortunate individual that survived the wreck, in order to secure their booty more completely.'
+
 Dreadful traditions of such barbarous contrivances as that
 mentioned by Tomkins still linger on other coasts besides that of the back of the Isle of Wight. The history of wrecking, as told by the different legislative enactments which have been passed to prevent this savage custom, is a dismal chapter in the records of human and ' Wreck,'
 greediness cruelty.
@@ -594,7 +591,7 @@ among other demands in the language of the Pleadings
 she claimed to have wreck of the sea.' And so also, accord-
 ing to Worsley {Hisl. I. W. p. 245), when Sir Thomas Langford leased out the manor of Chale, reservation was
 made in this lease of wards, marriages, reliefs, escheats, wrecks of the sea, with the advowson of the church of Chale. In order to constitute a legal wreck, the goods must come to
-the uncouth terms of 'jetsam,' flotsam,' and ligan.' Jetsam is where goods are cast into the sea, and there sink and remain under water ; flotsam is where they continue swim- ming on the surfiice of the waves ; ligan where they are sunk in the sea, but lied 10 a coik or buoy, in order to be found
+the uncouth terms of 'jetsam,' flotsam,' and ligan.' Jetsam is where goods are cast into the sea, and there sink and remain under water ; flotsam is where they continue swim- ming on the surface of the waves ; ligan where they are sunk in the sea, but lied 10 a coik or buoy, in order to be found
 land. If they continue at sea, the law distinguishes them by ''
 
  AND THE WRECKERS. l6l
@@ -618,14 +615,12 @@ Westminster several reformatory statutes were issued, fur-
 ther progress was made in the maritime law relating to
 wrecks and wreckage. In a. d. 1257, when under Edward III,
 who has been called the father of English commerce, the
-staple was regulated by statute, and the five great commo-
-dities of the kingdom were allowed to be dealt in for
+staple was regulated by statute, and the five great commodities of the kingdom were allowed to be dealt in for
 exportation only by a corporation called the merchants of the staple and in certain specified towns where they were
 disposed of to foreigners, it was also enacted that if any ship be lost on the shore and the goods come to land (which
-cannot, says the statute, be called a wreck) they shall pre-
-sently be delivered to the merchants, paying only a reasonable
+cannot, says the statute, be called a wreck) they shall presently be delivered to the merchants, paying only a reasonable
 reward to those that saved and preserved them, which shall '
-becalled salvage.'
+be called salvage.'
 In spite of all this legislation the barbarous practice of
 wrecking prevailed to the disgrace of the population on our sea-coasts. The fate of a vessel near in shore and driving
 before a gale with people on board likely to perish ought to touch every human heart in one way only ; but in place of

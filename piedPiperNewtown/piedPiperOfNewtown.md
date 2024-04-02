@@ -72,9 +72,10 @@ When he had led his flock of rats down to the water, he got into a boat with hig
 When he landed, he went to the mayor to demand his promised reward. But the danger had now ceased, and the love of economy resumed its reign. They told him that they had thought it would have been a work of great labour and difficulty : indeed they had not anticipated that the reward would ever have been called for, or they never would have offered so large a sum; but as he had certainly done them a great benefit, they would not object to give him fifty pounds, which they considered to be very high wages for the trouble he had had.
 The Pied Piper demanded his reward according to the agreement; and when he could not obtain it, he swore he would be revenged upon them ; but his menaces were only treated with contempt.
 
-The Pied Piper said, " Very well," and turning round he marched off, and strutted down the street as before. But as the in- habitants knew that every rat had been de- stroyed, they felt under no apprehension of his piping them back again, so that they merely laughed at him as he walked down the street, piping a merry tune. The old people ridiculed him as he passed by, but all the children ran after him, hopping and dancing to the music, and quizzing his party- coloured clothing.
+The Pied Piper said, " Very well," and turning round he marched off, and strutted down the street as before. But as the inhabitants knew that every rat had been destroyed, they felt under no apprehension of his piping them back again, so that they merely laughed at him as he walked down the street, piping a merry tune. The old people ridiculed him as he passed by, but all the children ran after him, hopping and dancing to the music, and quizzing his party- coloured clothing.
 
 There was something irresistible in his tunes to the ears of youth. They left their games and their play, and tripped after the Pied Piper. They ran away from their parents and guardians, saying, that they must join in the dance after the Spotted Piper.
+
 Down Silver-street he walked, and up Gold-street, the old people laughing at him, and the children dancing after him. Up the town he went, and into the forest. All the children of the town danced and shouted after him, as if they thought it the veriest fun in the world. The elder folks listened to the quavering of his shrill pipe, as he threaded his way through the old oak trees, till at length the sounds died away in the distance. They waited for the return of their children, but they never returned again. What became of them nobody ever knew : for neither the Pied Piper nor the children were ever heard of again. Thus the Pied Piper had his revenge.
 
 In the course of time the remaining inhabitants of Franchville either died or became feeble from old age ; but the children who would have succeeded them had gone off, nobody knew where. Those who had been born since the time of the Pied Piper were still in their infancy. The borough, in short, consisted only of old men and children.
@@ -89,8 +90,7 @@ Buildings, however, were again erected there, and fresh inhabitants came: and th
 
 Following the relating of the ale, Abraham Elder's response to the story, as narrator, is then provided:
 
-> " Pray, Mr. Winterblossom," said I, when he had concluded his tale, " what do you consider this story to be ? for it can hardly be supposed really to have happened in the manner you relate it. Do you suppose it to be the invention of some story-teller — a mere
-fable ? — or do you think it was founded upon some event that occurred at Newtown ?"
+> " Pray, Mr. Winterblossom," said I, when he had concluded his tale, " what do you consider this story to be ? for it can hardly be supposed really to have happened in the manner you relate it. Do you suppose it to be the invention of some story-teller — a mere fable ? — or do you think it was founded upon some event that occurred at Newtown ?"
 
 The antiquary then begins to describe his own theories onto the historical accuracy, or otherwise, of the story:
 
