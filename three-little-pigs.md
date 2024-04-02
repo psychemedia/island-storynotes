@@ -207,11 +207,11 @@ Jacobs' also provides some source notes:
 
 *Parallels*, — The only known parallels are one from Venice, Bemoni, *Trad. Pop*, punt. iii. p. 65, given in Crane, *Italian Popular Tales* p. 267, " The Three Goslings ; " and a negro tale in *Lippincott's Magazine*, December, 1877, p. 753 ("Tiny Pig").
 
-*Remarks*, — As littie pigs do not have hair on their chinny chinchins, I suspect that they were originally kids, who have. This would bring the tale close to the Grimms' " Wolf and Seven Little Kids," (No. 5). In Steel and Temple's " Lambikin " (*Wide-awake Stories*, p. 71), the Lambikin gets inside a Drumikin, and so nearly escapes the jackal.
+*Remarks*, — As little pigs do not have hair on their chinny chinchins, I suspect that they were originally kids, who have. This would bring the tale close to the Grimms' " Wolf and Seven Little Kids," (No. 5). In Steel and Temple's " Lambikin " (*Wide-awake Stories*, p. 71), the Lambikin gets inside a Drumikin, and so nearly escapes the jackal.
 
 ```
 
-The claim that the tale was submitted to Halliwell some time earlier is attested to by an acknowledgement in the preface to the 1849 edition, dated April, 1849, [p. ix-x](https://archive.org/details/popularrhymesan00hallgoog/page/n14/mode/2up):
+The claim that the tale was submitted to Halliwell some time earlier is attested to by an acknowledgment in the preface to the 1849 edition, dated April, 1849, [p. ix-x](https://archive.org/details/popularrhymesan00hallgoog/page/n14/mode/2up):
 
 > The compiler's best thanks are due to Captain Henry Smith for the very interesting communication of rhymes current in the Isle of Wight ; ...
 
@@ -224,7 +224,7 @@ James Orchard Halliwell-Phillipps, [Popular Rhymes and Nursery Tales: A Sequel t
 
 ISLE OF WIGHT SHROVERS
 
-Until within about the last thirty years, it had been the custom in the Isle of Wight from time immemorial at all the farms and some other charitable houses to distribute cakes on Shrove-Tuesday, called Shrove-cakes, to the poor children of the parish or neighbourhood, who assembled early in the morning at the different villages, hamlets, and cottages, in parties of from two to thirty or more, for the purpose of what was denominated " Going Shroving," and the children bore the name of Shrovers. At every house they visited they had a nice Shrove-cake each given them. In those days the winters were much more inclement and of longer duration than at the present time, and it often happened that, in addition to a severe frost, the ground waa covered several inches high with snow, yet however cold or intense the weather, it did not prevent these little ones from what they called in the provincial dialect *Gwine a Shrovun*, and they jogged merrily along hand in hand from one house to another to obtain their cakes ; but, before receiving them, it was expected and deemed necessary that they should all sing together a song suitable to the occasion; those who sang the *loudest* were considered the *best Shrovers*, and sometimes had an extra cake bestowed on them; consequently, there was no want of noise (whatever there might have been of harmony) to endeavour to get another Shroving gift. There were many different versions of the song according to the parishes they lived in. The one generally sang by the children of the East Medina was as follows:
+Until within about the last thirty years, it had been the custom in the Isle of Wight from time immemorial at all the farms and some other charitable houses to distribute cakes on Shrove-Tuesday, called Shrove-cakes, to the poor children of the parish or neighbourhood, who assembled early in the morning at the different villages, hamlets, and cottages, in parties of from two to thirty or more, for the purpose of what was denominated " Going Shroving," and the children bore the name of Shrovers. At every house they visited they had a nice Shrove-cake each given them. In those days the winters were much more inclement and of longer duration than at the present time, and it often happened that, in addition to a severe frost, the ground was covered several inches high with snow, yet however cold or intense the weather, it did not prevent these little ones from what they called in the provincial dialect *Gwine a Shrovun*, and they jogged merrily along hand in hand from one house to another to obtain their cakes ; but, before receiving them, it was expected and deemed necessary that they should all sing together a song suitable to the occasion; those who sang the *loudest* were considered the *best Shrovers*, and sometimes had an extra cake bestowed on them; consequently, there was no want of noise (whatever there might have been of harmony) to endeavour to get another Shroving gift. There were many different versions of the song according to the parishes they lived in. The one generally sang by the children of the East Medina was as follows:
 
 A Shrovun, a Shrovun,  
 I be cum a Shrovun,  
@@ -304,7 +304,7 @@ The above was the original song, but within the last fifty or sixty years, as th
 
 ````
 
-That edition also includes references to Isle of Wight folklore, presumably from the same source, regarding wood pigeons, [pp.172-3](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up); dragonfiles, [pp. 174-5](https://archive.org/details/popularrhymesan00hallgoog/page/n192/mode/2up); and a New Year wassail, [p. 236](https://archive.org/details/popularrhymesan00hallgoog/page/n256/mode/2up).
+That edition also includes references to Isle of Wight folklore, presumably from the same source, regarding wood pigeons, [pp.172-3](https://archive.org/details/popularrhymesan00hallgoog/page/n190/mode/2up); dragonflies, [pp. 174-5](https://archive.org/details/popularrhymesan00hallgoog/page/n192/mode/2up); and a New Year wassail, [p. 236](https://archive.org/details/popularrhymesan00hallgoog/page/n256/mode/2up).
 
 ```{admonition} The Wood Pigeon
 :class: dropdown seealso
@@ -426,13 +426,13 @@ At this the fox was so angry that he dashed with all his force against the wall,
 
 ' Never mind ! ' he cried angrily as he went off, ' I'll catch yon another day, see if I don't, and won't I grind your bones to powder when I have got you in my den 1 ' and he snarled fiercely and showed his teeth.
 
-Next day Blacky had to go into the neighbouring town to do some marketing and to buy a big kettle. As he was walking home with it slung over his shoulder, he heard a sound of steps stealthily creeping after him. For a moment his heart stood still with fear, and then a happy thought came to him. He had just reached the top of a hill, and could see his own little house nestling at the foot of it among the trees. In a moment he had snatched the lid off the kettle and had jumped in himself. Coiling himself round he lay quite snug in the bottom of the kettle, while with his fore-leg he managed to put the lid on, so that he was entirely hidden. With a little kick from the inside he started the kettle oflEi and down the hill it rolled fall tilt ; and when the fox came up, all that he saw was a large black kettle spinning over the ground at a great pace. Very much disappointed, he was just going to turn away, when he saw the kettle stop close to the little brick house, and in a moment later' Blacky jumped out of it and escaped with the kettle into the house, when he barred and bolted the door, and put the shutter up over the window.
+Next day Blacky had to go into the neighbouring town to do some marketing and to buy a big kettle. As he was walking home with it slung over his shoulder, he heard a sound of steps stealthily creeping after him. For a moment his heart stood still with fear, and then a happy thought came to him. He had just reached the top of a hill, and could see his own little house nestling at the foot of it among the trees. In a moment he had snatched the lid off the kettle and had jumped in himself. Coiling himself round he lay quite snug in the bottom of the kettle, while with his fore-leg he managed to put the lid on, so that he was entirely hidden. With a little kick from the inside he started the kettle off and down the hill it rolled full tilt ; and when the fox came up, all that he saw was a large black kettle spinning over the ground at a great pace. Very much disappointed, he was just going to turn away, when he saw the kettle stop close to the little brick house, and in a moment later' Blacky jumped out of it and escaped with the kettle into the house, when he barred and bolted the door, and put the shutter up over the window.
 
 ' Oho ! ' exclaimed the fox to himself, ' you think you will escape me that way, do you ? We shall soon see about that, my friend,' and very quietly and stealthily he prowled round the house looking for some way to climb on to the roof.
 
-In the meantime Blacky had filled the kettle with water, and having put it on the fire, sat down quietly waiting for it to boil. Just as the kettle was beginning to sing, and steam to come out of the spout, he heard a sound like a soft, muffled step, patter, patter, patter overhead, and the next moment the fox's head and fore-paws were seen coming down the chinmey. But Blacky very wisely had not put the lid on the kettle, and, with a yelp of pain, the fox fell into the boiling water, and before he could escape, Blacky had popped the lid on, and the fox was scalded to death.
+In the meantime Blacky had filled the kettle with water, and having put it on the fire, sat down quietly waiting for it to boil. Just as the kettle was beginning to sing, and steam to come out of the spout, he heard a sound like a soft, muffled step, patter, patter, patter overhead, and the next moment the fox's head and fore-paws were seen coming down the chimney. But Blacky very wisely had not put the lid on the kettle, and, with a yelp of pain, the fox fell into the boiling water, and before he could escape, Blacky had popped the lid on, and the fox was scalded to death.
 
-As soon as he was sure that their wicked enemy was really dead, and could do them no further harm. Blacky started off to rescue Browny and Whitey. As he approached the den he heard piteous grimts and squeals from his poor little brother and sister who lived in constant terror of the fox killing and eating them. But when they saw Blacky appear at the entrance to the den their joy knew no bounds. He quickly found a sharp stone and cut the cords by which they were tied to a stake in the ground, and then all three started off together for Blacky' s house, where they lived happily ever after ; and Browny quite gave up rolling in the mud, and Whitey ceased to be greedy, for they never forgot how nearly these faults had brought them to an untimely end.
+As soon as he was sure that their wicked enemy was really dead, and could do them no further harm. Blacky started off to rescue Browny and Whitey. As he approached the den he heard piteous grunts and squeals from his poor little brother and sister who lived in constant terror of the fox killing and eating them. But when they saw Blacky appear at the entrance to the den their joy knew no bounds. He quickly found a sharp stone and cut the cords by which they were tied to a stake in the ground, and then all three started off together for Blacky' s house, where they lived happily ever after ; and Browny quite gave up rolling in the mud, and Whitey ceased to be greedy, for they never forgot how nearly these faults had brought them to an untimely end.
  
 ```
 
@@ -586,7 +586,7 @@ To receive him just then, for indeed he had dined,
 And was stretched on his straw, for an afternoon's nap,  
 And could not get up to attend to the rap.
 
-The Wo]f, in his fury, kick'd up such a rout,  
+The Wolf, in his fury, kick'd up such a rout,  
 That the House of the Pig was *turn'd inside out*,  
 And the innocent Pig was devour'd in a trice!  
 For this Wolf had less feeling than Cats have for Mice,  
@@ -601,7 +601,7 @@ Of " Ill *scratch*, and I'll *scrape*, and I'll pull down your House,
 " And gobble you up as a cat would a mouse."   
 To work the Wolf set when he'd finish'd his speech,  
 But he found that *Pigweeney* was out of his reach;  
-For the Honse was so strong it oblig'd him to feel,  
+For the House was so strong it oblig'd him to feel,  
 'Twas no joke to scratch against " *Iron and Steel*."
 
 When the treach'rous Wolf found the Pig was secure,  
@@ -627,7 +627,7 @@ Pigweeney replied, behind his strong door,
 
 Next Morning Pigweeney arose with the Sun,  
 For his mind was made up to have excellent fun  
-With this rogue of a W olf-this wicked old Sinner,  
+With this rogue of a Wolf, this wicked old Sinner,  
 Who long'd to be munching the Pig for his dinner.
 
 By *Six* the young Pig, in the midst of the Fair,  
@@ -667,7 +667,7 @@ To see what confusion and wickedness reigns,
 From vices in hearts, and follies in brains!
 
 When Pigweeney was humble, Pigweeney was Wise;  
-When the Y oung grow presumptuous, how soon they despise  
+When the Young grow presumptuous, how soon they despise  
 All the Lessons which Prudence and Wisdom have taught;  
 Which Age has acquir'd from Experience bought.  
 But I'll finish my Moral hereafter,-and now  
@@ -679,7 +679,7 @@ But the Wolf began howling, pretending to weep;
 " Oh tny Chin-Oh my Chin! 'twill be sever'd in two,  
 " Pray let my poor Head in, I beg of you, do!"  
 Pigweeney now lifted the Window still higher;  
-" It is hreaking my Neck," said the wicked old Liar,  
+" It is breaking my Neck," said the wicked old Liar,  
 " I feel in such pain 'twixt my Shoulder, and Back,  
 " That I verily think my Bones will soon crack."
 
@@ -713,7 +713,7 @@ Very soon made a Kettle of Water quite hot,
 All over the Wolf, pour'd the scalding hot water;  
 For the Pig had determin'd to give him no quarter.  
 When the Wolf op'd his Mouth to express his surprise,  
-Down wenr the hot stream! out went both his eyes!—  
+Down went the hot stream! out went both his eyes!—  
 He made a great Yell-stretched himself on his side-  
 Hung over the edge of the Kettle-and died!
 
@@ -809,7 +809,7 @@ The Rev Canon Agar, one of the religious functionaries at the Nunnery, recently 
 
 It will be seen from the evidence that complainant, who lives near the Nunnery, at Abbotsleigh, has two or three pigs, whose roving propensities led them to trespass on the premises belonging to the Nunnery, where the rev. defendant amused himself by setting a dog at them, which worried them, according to one of the witnesses's story, for full an hour. They were much bitten and injured, and the present case was the result.
 
-*Complainant*, who said he was a wood-cutter, to the Hon. Mrs. Hare, stated that on the 10th instant, he had three little pigs in his orchard ; by some means they got out of the orchard, and between five and six he went in search of them. He met a man named Jackson, driving one of the pigs—the uninjured one—and he told him where the other two were. Going along the road, he met another of them ; its ears were much torn, and it had a bite in the hind leg, which was bleeding very much, and witness was enabled, next morning, to trace whence the animals came, by the blood it had lost. Took these two pigs home, and went to look for the other. He found it in the road, but it was so injured that he could scarcely get it home. Both its ears were torn to pieces ; it had been bitten in the hind leg, and in the shoulder ; its fore leg was so injured that it could not stand. He could track this pig from the field where it was worried to his own house, by the spots of blood. Believed the field to belong to defendant. Saw the gardener in the field the next morning and had some conversation with him. He afterwards came to defendant's house with a message. Did not think the pigs would recover from the injuries they received. *Cross-examined by Mr. Francis*—Am not on bad terms with the people at the Nunnery; had seen the defendant before. The pigs are still alive. The gardener, when witness told him of the injury done, said Mr. Agar was absent, and asked him not to be in a hurry about taking out a summons until he returned : he said Mr. Agar would be sorry at what had occurred. Might have told him the pig was worth 30s. The same evening the gardener came to his house with a sack, to take away the pig, for which he brought 30s. Told him a farmer had looked at the pig in the meantime, and had valued it at more money. Also told him he should not part with the pig until he had compensation for the injury done to the other. A white pig is the worst—its ears are nearly torn from its head, and two of its legs, one in front and one behind, are so injured that it cannot stand. It was not unusual for farmers to set a dog at pigs to get them out of a field, but he never saw pigs served as his had been by defendant's dog. In the county he, witness, came from, people were more humane towards their pigs. *Thomas Fripp*, gardener, of Abbotsleigh, saw the dog barking at soma pigs that were in front of the nunnery. When he first saw the dog it was barking at the pigs, and biting them when it could. The dog was a mixed bred one, a cross between a blood-hound and bullterrier. Defendant was present, whistling to the dog. Witness took charge of the dog, and chained it up. It was not a savage dog, and would sometimes run away when a pig turned round at him.
+*Complainant*, who said he was a wood-cutter, to the Hon. Mrs. Hare, stated that on the 10th instant, he had three little pigs in his orchard ; by some means they got out of the orchard, and between five and six he went in search of them. He met a man named Jackson, driving one of the pigs—the uninjured one—and he told him where the other two were. Going along the road, he met another of them ; its ears were much torn, and it had a bite in the hind leg, which was bleeding very much, and witness was enabled, next morning, to trace whence the animals came, by the blood it had lost. Took these two pigs home, and went to look for the other. He found it in the road, but it was so injured that he could scarcely get it home. Both its ears were torn to pieces ; it had been bitten in the hind leg, and in the shoulder ; its fore leg was so injured that it could not stand. He could track this pig from the field where it was worried to his own house, by the spots of blood. Believed the field to belong to defendant. Saw the gardener in the field the next morning and had some conversation with him. He afterwards came to defendant's house with a message. Did not think the pigs would recover from the injuries they received. *Cross-examined by Mr. Francis*—Am not on bad terms with the people at the Nunnery; had seen the defendant before. The pigs are still alive. The gardener, when witness told him of the injury done, said Mr. Agar was absent, and asked him not to be in a hurry about taking out a summons until he returned : he said Mr. Agar would be sorry at what had occurred. Might have told him the pig was worth 30s. The same evening the gardener came to his house with a sack, to take away the pig, for which he brought 30s. Told him a farmer had looked at the pig in the meantime, and had valued it at more money. Also told him he should not part with the pig until he had compensation for the injury done to the other. A white pig is the worst—its ears are nearly torn from its head, and two of its legs, one in front and one behind, are so injured that it cannot stand. It was not unusual for farmers to set a dog at pigs to get them out of a field, but he never saw pigs served as his had been by defendant's dog. In the county he, witness, came from, people were more humane towards their pigs. *Thomas Fripp*, gardener, of Abbotsleigh, saw the dog barking at some pigs that were in front of the nunnery. When he first saw the dog it was barking at the pigs, and biting them when it could. The dog was a mixed bred one, a cross between a blood-hound and bullterrier. Defendant was present, whistling to the dog. Witness took charge of the dog, and chained it up. It was not a savage dog, and would sometimes run away when a pig turned round at him.
 
 The Chairman remarked that he had known dogs of the same description to be very playful at times, and others to be very savage.
 
