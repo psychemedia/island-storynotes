@@ -1,6 +1,6 @@
 # The Three Little Pigs
 
-From the archived [December 2020](https://shanklinhistory.net/S&DHS%20Dec%202020%20Update.pdf) newsletter of the [Shanklin & District History Society](https://shanklinhistory.net/newsletters.html), I learn that an early version of the *Three Little Pigs* that first appeared in the [1853 edition](https://books.google.co.uk/books?id=alsCAAAAQAAJ&printsec=frontcover&dq=Popular+Rhymes+and+Nursery+Tales+1853&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=snippet&q=SHANKLIN&f=false) of J. O. Halliwell's *Popular Rhymes and Nursery Tales*  was collected on the Island, and set in Shanklin.
+From the archived [December 2020](https://shanklinhistory.net/S&DHS%20Dec%202020%20Update.pdf) newsletter of the [Shanklin & District History Society](https://shanklinhistory.net/newsletters.html), Helen Thomas identifies an early version of the *Three Little Pigs* that first appeared in print in the [1853 edition](https://books.google.co.uk/books?id=alsCAAAAQAAJ&printsec=frontcover&dq=Popular+Rhymes+and+Nursery+Tales+1853&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=snippet&q=SHANKLIN&f=false) of J. O. Halliwell's *Popular Rhymes and Nursery Tales*, and that is set in Shanklin,  as havinmg been collected on the Island by Henry Smith.
 
 > Henry Smith and Three Little Pigs
 >
@@ -9,7 +9,6 @@ From the archived [December 2020](https://shanklinhistory.net/S&DHS%20Dec%202020
 According to a [note](https://isleofwightfolkarchive.co.uk/Christmas%20Bumper%20Box.pdf) on "Dave and Anwyl's *Isle of Wight Folk Archive*" website:
 
 > The Three Little Pigs is amongst many stories and tales that were collected by Henry Smith. It is thought that his aunt Amelia from Arreton, who used to entertain people with stories, may have told this one. It refers to the Shanklin Fair which would have probably have been the Hiring / MopFair just after Michaelmas. The fair would have been at the beginning of October which also relates to there being apples on the ground. It also talks of the Mr Smith’s Home Field and Merry Garden at Languard.
-
 
 ```{admonition} In Halliwell's Nursery Rhymes", 5th edition, 1853
 
@@ -211,6 +210,111 @@ Jacobs' also provides some source notes:
 
 ```
 
+In his *Indian fairy tales* collection of 1892, Jacobs also draws a parallel between the rolling butter churn sequence of the story and a similar episode in an Indian tale, *The Lambikin*. Interestingly, this tale also has a rhyming refrain.
+
+```{admonition} The Lambikin, 1892
+:class: dropdown seealso
+
+In Joseph Jacobs, [Indian fairy tales](https://archive.org/details/indianfairytales00jacouoft/page/16/mode/2up), 1892, pp. 17-20.
+
+The Lambikin
+
+ONCE upon a time there was a wee wee Lambikin, who frolicked about on his little tottery legs, and enjoyed himself amazingly.
+
+Now one day he set off to visit his Granny, and was jumping with joy to think of all the good things he should get from her, when who should he meet but a Jackal, who looked at the tender young morsel and said : " Lambikin ! Lambikin ! I'll EAT YOU ! "
+
+But Lambikin only gave a little frisk and said :
+
+" To Granny's house I go,  
+Where I shall fatter grow,  
+Then you can eat me so."
+
+The Jackal thought this reasonable, and let Lambikin pass.
+
+By-and-by he met a Vulture, and the Vulture, looking hungrily at the tender morsel before him, said : " Lambikin ! Lambikin ! I'll EAT YOU ! "
+
+But Lambikin only gave a little frisk, and said :
+
+" To Granny's house I go,  
+Where I shall fatter grow,  
+Then you can eat me so."
+
+The Vulture thought this reasonable, and let Lambikin pass.
+
+And by-and-by he met a Tiger, and then a Wolf, and a Dog, and an Eagle, and all these, when they saw the tender little morsel, said : " Lambikin I Lambikin ! I'll EAT YOU ! "
+
+But to all of them Lambikin replied, with a little frisk :
+
+" To Granny's house I go,  
+Where I shall fatter grow,  
+Then you can eat me so."
+
+At last he reached his Granny's house, and said, all in a great hurry, " Granny, dear, I've promised to get very fat ; so, as people ought to keep their promises, please put me into the corn-bin at once".
+
+So his Granny said he was a good boy, and put him into the corn-bin, and there the greedy little Lambikin stayed for seven days, and ate, and ate, and ate, until he could scarcely waddle, and his Granny said he was fat enough for anything, and must go home. But cunning little Lambikin said that would never do, for some animal would be sure to eat him on the way back, he was so plump and tender.
+
+" I'll tell you what you must do," said Master Lambikin, " you must make a little drumikin out of the skin of my little brother who died, and then I can sit inside and trundle along nicely, for I'm as tight as a drum myself."
+
+So his Granny made a nice little drumikin out of his brother's skin, with the wool inside, and Lambikin curled himself up snug and warm in the middle, and trundled away gaily. Soon he rnet with the Eagle, who called out :
+
+" Drumikin ! Drumikin !  
+Have you seen Lambikin? "
+
+And Mr. Lambikin, curled up in his soft warm nest replied :
+
+" Fallen into the fire, and so will you  
+On little Drumikin. Tum-pa, turn-too ! "
+
+" How very annoying ! " sighed the Eagle, thinking regretfully of the tender morsel he had let slip.
+
+Meanwhile Lambikin trundled along, laughing to himself, and singing :
+
+" Tum-pa, turn-too ;  
+Tum-pa, turn-too ! "
+
+Every animal and bird he met asked him the same question :
+
+" Drumikin ! Drumikin !  
+Have you seen Lambikin ? "
+
+And to each of them the little slyboots replied :
+
+" Fallen into the fire, and so will you  
+On little Drumikin. Tum-pa, turn too ;  
+Tum-pa, turn-too ; Tum-pa, turn-too ! "
+
+Then they all sighed to think of the tender little morsel they had let slip.
+
+At last the Jackal came limping along, for all his sorry looks as sharp as a needle, and he too called out —
+
+" Dfumikin ! Drumikin !  
+Have you seen Lambikin ? "
+
+And Lambikin, curled up in his snug little nest, replied gaily :
+
+" Fallen into the fire, and so will you  
+On little Drumikin ! Tum-pa ————"
+
+But he never got any further, for the Jackal recognised his voice at once, and cried : " Hullo ! you've turned yourself inside out, have you ? Just you come out of that ! "
+
+Whereupon he tore open Drumikin and gobbled up Lambikin.
+
+*NOTES*
+
+p238
+
+III. LAMBIKIN.
+
+Source.— Steel-Temple, Wideawake Stories, pp. 69-72, originally published in Indian Antiquary, xii. 175. The droll is common throughout the Panjab.
+
+*Parallels*. — The similarity of the concluding episode with the finish of the "Three Little Pigs" (Eng. Fairy Tales, No. xiv.) In my notes on that droll I have pointed out that the pigs were once goats or kids with "hair on their chinny chin chin." This brings the tale a stage nearer to the Lambikin.
+
+Remarks. — The similarity of Pig No. 3 rolling down hill in the churn and the Lambikin in the Drumikin can scarcely be accidental, though, it must be confessed, the tale has undergone considerable modification before it reached England.
+
+```
+
+## Henry Smith Acknowledged
+
 The claim that the tale was submitted to Halliwell some time earlier is attested to by an acknowledgment in the preface to the 1849 edition, dated April, 1849, [p. ix-x](https://archive.org/details/popularrhymesan00hallgoog/page/n14/mode/2up):
 
 > The compiler's best thanks are due to Captain Henry Smith for the very interesting communication of rhymes current in the Isle of Wight ; ...
@@ -366,6 +470,8 @@ God be here, God be there.
 I wish you all a happy new year !
 
 ```
+
+## Other Variants
 
 A more simplistic and childish variant of the *Three Little Pigs* tale appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, the pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, and there is no mention of Shanklin or other local Island features:
 
@@ -729,111 +835,6 @@ Esteem'd for his sense, thus facetiously wrote ;
 \* Gay.
 
 FINIS.
-
-```
-
-## Parallels
-
-In his *Indian fairy tales* collection of 1892, Joseph Jacobs draws a parallel between the rolling butter churn sequence of the story and a similar episode in *the Labikin*, which also has a rhyming refrain.
-
-```{admonition} The Lambikin, 1892
-:class: dropdown seealso
-
-In Joseph Jacobs, [Indian fairy tales](https://archive.org/details/indianfairytales00jacouoft/page/16/mode/2up), 1892, pp. 17-20.
-
-The Lambikin
-
-ONCE upon a time there was a wee wee Lambikin, who frolicked about on his little tottery legs, and enjoyed himself amazingly.
-
-Now one day he set off to visit his Granny, and was jumping with joy to think of all the good things he should get from her, when who should he meet but a Jackal, who looked at the tender young morsel and said : " Lambikin ! Lambikin ! I'll EAT YOU ! "
-
-But Lambikin only gave a little frisk and said :
-
-" To Granny's house I go,  
-Where I shall fatter grow,  
-Then you can eat me so."
-
-The Jackal thought this reasonable, and let Lambikin pass.
-
-By-and-by he met a Vulture, and the Vulture, looking hungrily at the tender morsel before him, said : " Lambikin ! Lambikin ! I'll EAT YOU ! "
-
-But Lambikin only gave a little frisk, and said :
-
-" To Granny's house I go,  
-Where I shall fatter grow,  
-Then you can eat me so."
-
-The Vulture thought this reasonable, and let Lambikin pass.
-
-And by-and-by he met a Tiger, and then a Wolf, and a Dog, and an Eagle, and all these, when they saw the tender little morsel, said : " Lambikin I Lambikin ! I'll EAT YOU ! "
-
-But to all of them Lambikin replied, with a little frisk :
-
-" To Granny's house I go,  
-Where I shall fatter grow,  
-Then you can eat me so."
-
-At last he reached his Granny's house, and said, all in a great hurry, " Granny, dear, I've promised to get very fat ; so, as people ought to keep their promises, please put me into the corn-bin at once".
-
-So his Granny said he was a good boy, and put him into the corn-bin, and there the greedy little Lambikin stayed for seven days, and ate, and ate, and ate, until he could scarcely waddle, and his Granny said he was fat enough for anything, and must go home. But cunning little Lambikin said that would never do, for some animal would be sure to eat him on the way back, he was so plump and tender.
-
-" I'll tell you what you must do," said Master Lambikin, " you must make a little drumikin out of the skin of my little brother who died, and then I can sit inside and trundle along nicely, for I'm as tight as a drum myself."
-
-So his Granny made a nice little drumikin out of his brother's skin, with the wool inside, and Lambikin curled himself up snug and warm in the middle, and trundled away gaily. Soon he rnet with the Eagle, who called out :
-
-" Drumikin ! Drumikin !  
-Have you seen Lambikin? "
-
-And Mr. Lambikin, curled up in his soft warm nest replied :
-
-" Fallen into the fire, and so will you  
-On little Drumikin. Tum-pa, turn-too ! "
-
-" How very annoying ! " sighed the Eagle, thinking regretfully of the tender morsel he had let slip.
-
-Meanwhile Lambikin trundled along, laughing to himself, and singing :
-
-" Tum-pa, turn-too ;  
-Tum-pa, turn-too ! "
-
-Every animal and bird he met asked him the same question :
-
-" Drumikin ! Drumikin !  
-Have you seen Lambikin ? "
-
-And to each of them the little slyboots replied :
-
-" Fallen into the fire, and so will you  
-On little Drumikin. Tum-pa, turn too ;  
-Tum-pa, turn-too ; Tum-pa, turn-too ! "
-
-Then they all sighed to think of the tender little morsel they had let slip.
-
-At last the Jackal came limping along, for all his sorry looks as sharp as a needle, and he too called out —
-
-" Dfumikin ! Drumikin !  
-Have you seen Lambikin ? "
-
-And Lambikin, curled up in his snug little nest, replied gaily :
-
-" Fallen into the fire, and so will you  
-On little Drumikin ! Tum-pa ————"
-
-But he never got any further, for the Jackal recognised his voice at once, and cried : " Hullo ! you've turned yourself inside out, have you ? Just you come out of that ! "
-
-Whereupon he tore open Drumikin and gobbled up Lambikin.
-
-*NOTES*
-
-p238
-
-III. LAMBIKIN.
-
-Source.— Steel-Temple, Wideawake Stories, pp. 69-72, originally published in Indian Antiquary, xii. 175. The droll is common throughout the Panjab.
-
-*Parallels*. — The similarity of the concluding episode with the finish of the "Three Little Pigs" (Eng. Fairy Tales, No. xiv.) In my notes on that droll I have pointed out that the pigs were once goats or kids with "hair on their chinny chin chin." This brings the tale a stage nearer to the Lambikin.
-
-Remarks. — The similarity of Pig No. 3 rolling down hill in the churn and the Lambikin in the Drumikin can scarcely be accidental, though, it must be confessed, the tale has undergone considerable modification before it reached England.
 
 ```
 
