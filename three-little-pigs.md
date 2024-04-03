@@ -471,6 +471,12 @@ I wish you all a happy new year !
 
 ```
 
+```{admonition}
+:class: seealso
+
+It wpould be intersting to know if any of the correspondence between Henry Smith and James Halliwell-Phillips are held in the [Collection of James O. Halliwell-Phillipps](https://archives.collections.ed.ac.uk/repositories/2/resources/323) at the University of Edinburgh.
+```
+
 ## Other Variants
 
 A more simplistic and childish variant of the *Three Little Pigs* tale appears in Lang's *Green Fairy Book*, without attribution: the wolf becomes a fox, the pigs are named, some character development is provided, and changes are made to the building materials; the sequence with the third pig tricking the fox is omitted, and there is no mention of Shanklin or other local Island features:
