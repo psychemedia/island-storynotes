@@ -11,6 +11,7 @@ According to a [note](https://isleofwightfolkarchive.co.uk/Christmas%20Bumper%20
 > The Three Little Pigs is amongst many stories and tales that were collected by Henry Smith. It is thought that his aunt Amelia from Arreton, who used to entertain people with stories, may have told this one. It refers to the Shanklin Fair which would have probably have been the Hiring / MopFair just after Michaelmas. The fair would have been at the beginning of October which also relates to there being apples on the ground. It also talks of the Mr Smith’s Home Field and Merry Garden at Languard.
 
 ```{admonition} In Halliwell's Nursery Rhymes", 5th edition, 1853
+:class: dropdown
 
 James Orchard Halliwell-Phillipps, ed., [The nursery rhymes of England](https://books.google.co.uk/books?id=alsCAAAAQAAJ&printsec=frontcover&&f=false#v=onepage&q&f=false), 1853, pp37-41, also reprinted in 1888, again at [pp. 37-41](https://archive.org/details/nurseryrhymesofe00hall/page/37/mode/).
 
