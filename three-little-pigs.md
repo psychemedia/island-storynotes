@@ -842,20 +842,32 @@ FINIS.
 
 As a possible amusing aside, there are several news stories from the mid-nineteenth century featuring three little pigs.
 
-TO DO
+```{admonition} Two Pounds Reward, October 1868
+:class: dropdown
 
-----
-https://britishnewspaperarchive.co.uk/viewer/bl/0000298/18501012/023/0003
-Leicestershire Mercury - Saturday 12 October 1850
+[Manchester Courier - Tuesday 27 October 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000206/18681027/037/0001)
+
+TWO POUNDS REWARD.—LOST, on Saturday afternoon, between the hours of two and five, THREE Little PIGS, of the "pure China breed."—Apply at the Pig Store, Robinson-street, off Stanley-square, Stalybridge.
+
+```
+
+In the following case, three little pigs wandered into an orchard and the own had to pay to retireve them. He then sued the orchard owner for mistreating his pigs, as well as asking for a refund of the fee he paid to retrieve them.
+
+```{admonition} Three little pigs, impounded, October 1850
+:class: dropdown
+
+[Leicestershire Mercury - Saturday 12 October 1850](https://britishnewspaperarchive.co.uk/viewer/bl/0000298/18501012/023/0003)
 
 Loughbrough, County Court, Monday, Oct. 7. (Before J. Hildyard. Esq.)— ... Keightley v. Gimson.— Claim 10s. 4d. Attorney for plaintiff, Mr. Giles; for defendant, Mr. Coope.— On Saturday, the 7th of September, defendant impounded three little pigs, which he had found in his orchard. The following Tuesday, plaintiff paid 1s. 4d.to redeem the pigs, and now brought this action to obtain the sum above stated ; alleging that he had sustained that loss through the pigs not being well attended to while in defendant's possession: he also thought he ought not to have paid anything to get them liberated, as the fence they got through was in bad condition. His Honour appeared to be disgusted at having such a case brought before him, and after hearing plaintiff's evidence, recommended that it should be referred to arbitration, which was agreed to.
 
+```
 
----
-https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620220/039/0003
-Western Daily Mercury - Thursday 20 February 1862
+In another case of pigs going walkabout, a dog takes a rather bigger bite out of them than its usual nip to the ear:
 
-and reprinted in Western Daily Mercury - [Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620222/079/0007)
+```{admonition} The Priest and the Pig, February 1862
+:class: dropdown
+
+[Western Daily Mercury - Thursday 20 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620220/039/0003) and then run a second time on [Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620222/079/0007).
 
 THE PRIEST AND THE PIG. The Rev Canon Ager, of the Roman Catholic Nunnery in Abbotsleigh, wan summoned by William Hobart for ill-treating couple of pigs, the property of the complainant. Francis appeared for the defendant. It appears that the complainant is the happy owner of three juvenile pigs, rather given to wandering, and who have taken a liking to the nunnery in question, which they frequent on every convenient opportunity. A good dog, something between bull dog and bloodhound, is kept on the premises as a warning to intruders and a caution to beggars. The unloosing of this dog, which is usually kept chained, is generally considered by the infant porkers to be tantamount to a notice to quit. If they do not avail themselve of this notice, without further ado, a dental application to their ears has generally the desired effect. On Monday week last, however, the pigs—a most unusual thing for the complainant's well-conducted porkers—were more obstinate than ordinary, and all the conciliatory efforts of this gentle dog having failed, and finding that all the applications of his mouth to their ears could not induce them to listen to his suggestions, at once commenced an attack on all quarters, which, as may well be supposed, poor piggy came off second best. Hence the present case.
 
@@ -895,10 +907,12 @@ Mr Francis, in his address, asked the Bench to believe that the defendant was th
 
 The Bench, after retiring, gave their decision. They considered the defendant to be liable for the acts of his dog, aud would therefore inflict a penalty of 6d upon him, with £1 8s costs; but the conviction and penalty were merely nominal, as they exonerated him from the slightest imputation of cruelty.
 
+```
 
----
-https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18620222/017/0006
-Western Times - Saturday 22 February 1862
+```{admonition} The Protestant's Porkers, and the Catholic's Bull Dog, February 1862
+:class: dropdown
+
+[Western Times - Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18620222/017/0006)
 
 TOWN HALL. —Before C. J. Wade, Esq., (chairman); W. Creed, W. J. Watts, Esq., and J. Woodley, Esqrs.
 
@@ -914,18 +928,15 @@ The Chairman remarked that he had known dogs of the same description to be very 
 
 *Cross-examined by Mr. Francis*—The dog had often been set at pigs, but had never before done them any injury. Pigs were in the habit of trespassing on these grounds, and gave them much trouble. Wast told by complainant that the pig most injured was worth 30s. Saw the whole of the pigs ; one was badly hurt about the ears ; but the second was not seriously injured. Defendant was the last man who would act cruelly towards a dumb animal; and had requested witness to express his sorrow to the complainant for what had occurred. *Thomas Jackson*, who was working at Abbotsleigh, saw the pigs in the ground where some shrubs were being planted. He tried to drive them away, but could not. He soon after saw defendant trying to drive them off, but he had no dog, when defendant afterwards unchained the dog, and took it away with him. Subsequently he heard the dog barking, but did not see it. *Mary Coleman* heard the pigs crying as she returned from work ; she went into the field where they were, and saw the dog barking at them, and serving them very bad indeed; defendant was looking on. She staid there a whole hour watching them, and the dog was worrying them all the time. She let one of the pigs out of the field.—This was complainant's case, and Mr. Francis, for defendant, argued that his client was not guilty of cruelty, as he had at first endeavoured to drive the pigs from his premises himself; but failing in that, he had obtained the assistance of the dog to do so, as he had done on former occasions, on neither of which had the dog done any injury. He was sure his client would be the last man to act cruelly to dumb animals ; and as soon as he heard what had happened, he expressed his sorrow for it, and offered to settle the matter with complainant, which he refused to do. He hoped the Bench would not convict his client of cruelty, and said little reliance could be placed on the evidence of the girl Coleman. The Bench, after a short consultation, although exonerating defendant from the charge cruelty, fined him 6d, with £1 8s 6d costs, and adjudged him to pay £1 15s, damage done to the pigs.
 
+```
 
----
+Finally, a news story from Dundee where pigs living in houses causes something of a nuisance:
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000162/18621011/008/0003
-Dundee Courier - Saturday 11 October 1862
+```{admonition} A Nuisance, October 1862
+:class: dropdown
+
+[Dundee Courier - Saturday 11 October 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000162/18621011/008/0003)
 
 A Nuisance. —On Friday, at the Police Court, Catherine Luckie, an old woman, residing in North Street, Springfield, was charged with keeping a number of swine in her dwelling-house, so as to be a nuisance in the neighbourhood. Having been asked regarding the nuisance, the panel said she had to pay 14s of police money, and it would be a hard case for her if she would not be allowed to keep swine. Mr Mitchell (sharply) —" Are you to kill everybody by a nuisance because you have 14s to pay ?" (Laughter.) Panel—" The swine are nae nuisance, for they're out a' day, an' keepit in nicht. They are out at this minute." Bailie Ower—" How many have you?" Panel—"There's just five swine, an' twa or three little pigs." (Laughter.) Mr Mackay—" There are thirteen swine." Mr Dunsmore, inspector of nuisances, was called, and deponed that the house of the accused was a perfect nuisance to the neighbourhood in which she lived. There were in all thirteen swine and twenty-two hens in her house, and, in fear of the hens being stolen, the windows were nailed up, and so bad was the ventilation of the house, that the smoke, instead of going Up the chimney, came out at the door. (Laughter.) Mr Mackay (to panel)— Are you willing to remove them?" Panel —"I canna remove them; if I did that I couldna mak' a livin'." (Laughter.) Mr Mackay—" But can you not sell them ?" Panel—" I intend to sell them a' but ane or twa.' Bailie Ower—" Your tenants are complaining of this nuisance." Panel—" There's nae tenants complainin'; not one." Bailie Ower—" Mr Dunsmore says so." Panel—" He canna say that." Mr Mackay said if the panel was to be so very obstinate, he would ask the tenants to attend court, and have Dr Cowper to inspect the place. The case was accordingly adjourned till Tuesday next.
 
----
-https://britishnewspaperarchive.co.uk/viewer/bl/0000206/18681027/037/0001
-Manchester Courier - Tuesday 27 October 1868
-
-TWO POUNDS REWARD.—LOST, on Saturday afternoon, between the hours of two and five, THREE Little PIGS, of the "pure China breed."—Apply at the Pig Store, Robinson-street, off Stanley-square, Stalybridge.
-
-
+```
