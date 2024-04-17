@@ -340,7 +340,7 @@ For further particulars apply to Mr. John Pittis; or to Mr. Worsley, Solicitor, 
 
 In the same edition of that newspaper, was another advert, this time advertising the sale of some business premises in Newport associated with the brewing trade. The annual return from the premises was stated as *from 1,500l. to 2,000l. per annum*. The seller was a certain Mr. John Steane, presumably the same person who had been declared bankrupt and was forced to sell of the tools of his brewing trade in 1807. This time, it was ill-health that forced the sale.
 
-```{danger}
+```{seealso}
 *Could it be that the sale of the Caribrooke brewery was also associated in some way with Mr. Steane, perhaps as a result of him wanting to dissolve some sort of partnership?*
 ```
 
