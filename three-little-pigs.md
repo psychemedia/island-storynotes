@@ -365,12 +365,14 @@ Vor a cake and a cup of eal ;
 God be there and God be here.  
 We wish you aal a happy New Year.
 
-```[\* That is, turn the pin inside the door in order to raise the latch. In the old method of latching doors, there was a pin inside which was turned round to raise the latch. An old Isle of Wight song says, —
+```text
+[\* That is, turn the pin inside the door in order to raise the latch. In the old method of latching doors, there was a pin inside which was turned round to raise the latch. An old Isle of Wight song says, —
 
 Then John he arose.  And to the door goes.  And he trolled, and he trolled at the pin.  
 The lass she took the hint.  
 And to the door she went.  
-And she let her true loye in.]```
+And she let her true loye in.]
+```
 
 The above was the original song, but within the last fifty or sixty years, as the custom began to fall off, the chorus or some other part was often omitted.
 
