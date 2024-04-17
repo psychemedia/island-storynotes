@@ -10,7 +10,7 @@ If you go by the reports of the Borough Sessions, it seems to have been quite a 
 
 A character that appears from the 1830s and into the 1850s, often around the winter time — Repentance Adams — although the first time we meet her, it is under her given name, *Patience*.
 
-```{admonition}
+```{admonition} Epiphany Sessions, Patience Adams, January 1834
 :class: dropdown
 [Hampshire Advertiser - Saturday 11 January 1834](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18340111/024/0003)
 
