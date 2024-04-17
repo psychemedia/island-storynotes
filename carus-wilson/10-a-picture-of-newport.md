@@ -75,7 +75,7 @@ A woman named Repentance Adams (an old offender, who some years ago created such
 ```
 
 ```{admonition} Mats from doors, December 1845
-:class; dropdown
+:class: dropdown
 [Hampshire Telegraph - Saturday 13 December 1845](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001)
 
 At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush basket, from thie door of Mr. Mills, in St. James's street, and was fully committed for trial at the sessions.— She was a few years ago tried for stealing mats from doors. 
