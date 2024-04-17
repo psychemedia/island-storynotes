@@ -297,19 +297,128 @@ This being the annual licensing day for the Borough the Court was pretty full of
 
 ### The Tontine Tap
 
-In 1821, following the death of Mr. John Steane, merchant of Carisbrooke, the Tontine Tap, as well as its parent brewery and several tenements that presumably made up the lodgings around the Tontine Yard, was put up for sale, under an auction held by Mr. Francis Pittis.
 
-````{admonition} To be sold by auciton, a capital free inn, July 1821
+In April, 1807, an auction of brewing utensils was advertised in Newport, presumably to help discharge the debts of a bankrupt brewer, Mr. John Steane.
+
+```{admonition} To be sold — brewing utensils, April 1807
 :class: dropdown
+[Hampshire Telegraph - Monday 27 April 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18070427/008/0003) and again in [Hampshire Telegraph - Monday 04 May 1807](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18070504/001/0001).
 
-```{seealso}
-The will of John Stearnes, merchant of Carisbrooke, is available from the National Archives: [PROB 11/1635/302](https://discovery.nationalarchives.gov.uk/details/r/D180885).
+NEWPORT, ISLE 0F WIGHT.
+ 
+Brewing Utensils.
+
+TO BE SOLD. BY AUCTION, By MEW & PORTER,  
+
+On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Asignees of Mr. John Stean, a Bankrupt),
+
+THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport ; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
+```
+
+Just over a decade later, in 1819, a brewery went up for sale in Carisbrooke.
+
+```{admonition} To be sold by private contract, March 1819
+:class: dropdown
+[Hampshire Telegraph - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/001/0001)
+
+ISLE OF WIGHIT.
+
+TO BE SOLD BY PRIVATE CONTRACT,—A complete BREWERY, built on the most approved system, with very extensive Malt-house and Stores, Beer Stores and Cellars, Cooperage, Horse-house, Cart-house, Stables, an extensive range of Outbuildings and Cottage, capable of great improvement, at a trifling expense, situate at Carisbrooke, in the Isle of Wight, one mile from Newport, in a fine Barley Country, adjoining the stream, which is so well known for its uncommon purity, is in full trade, and the Premises are in complete repair.— Immediate possession will be given.
+
+THis Lot is held for a term, of which 699 years are unexpired, at the rent of a pepper-corn.
+
+N.B. The Malt-wheel is so constructed as to do nearly the whole labour of the Brewery, and the carriage draught to Newport is particularly easy.
+
+The principles on which Carisbrooke Brewery is constructed, and the advantages that it derives from its excellent situation, are such as cannot be excelled by any other brewery in the kingdom.
+
+The Vats, Store Casks, Beer Casks, and Fixtures to be taken at a valuation.
+
+The Purchaser of this will have the offer to purchase about three Acres of good Meadow Land near.
+
+For further particulars apply to Mr. John Pittis; or to Mr. Worsley, Solicitor, Newport.
+```
+
+In the same edition of that newspaper, was another advert, this time advertising the sale of some business premises in Newport associated with the brewing trade. The annual return from the premises was stated as *from 1,500l. to 2,000l. per annum*. The seller was a certain Mr. John Steane, presumably the same person who had been declared bankrupt and was forced to sell of the tools of his brewing trade in 1807. This time, it was ill-health that forced the sale.
+
+```{danger}
+*Could it be that the sale of the Caribrooke brewery was also associated in some way with Mr. Steane, perhaps as a result of him wanting to dissolve some sort of partnership?*
+```
+
+```{admonition} To Wine, Spirit and Corn Merchants, March 1819
+:class: dropdown
+[Hampshire Telegraph - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/012/0004)
+
+To Wine, Spirit and Corn Merchants.  
+Wholesale and Retail Wine and Brandy Trade, Newport, Isle of Wight.
+
+TO BE SOLD by PRIVATE CONTRACT, or LET or LEASE, and may be entered on immediately,— The whole of the PREMISES, new within ten years, built on purpose for the Trade; and the returns are at this time, in Wine, Spirits, Porter, and Oats, from 1,500l. to 2,000l. per annum.—A reasonable time allowed for the sale of the Stock on approved bills, or if sold 2000l. may remain on Mortgage.—Stock & Fixtures to be taken at a fair valuation.— None but principals will be treated with.
+
+Apply, if by letter, post-paid, to John Steane, the Proprietor; who from extreme ill health, is compelled to retire from the same, and solely on that account are the Premises and Trade offered for Sale, and on most liberal terms.
+```
+
+A week later, the advert reappeared, along with a correction. The annual return was actually *15,000l. to 20,000l. per annum*, ten times the amount previously stated.
+
+```{admonition} An error appeared in this advertisement last week, April 1809
+:class: dropdown
+[Hampshire Telegraph - Monday 05 April 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18190405/003/0001)
+
+To Wine, Spirit and Corn Merchants.  
+Wholesale and Retail Wine and Brandy Trade, Newport, Isle of Wight.
+
+TO BE SOLD by PRIVATE CONTRACT, or LET or LEASE, and may be entered on immediately,— The whole of the PREMISES, new within ten years, built on purpose for the Trade; and the returns are at this time, in Wine, Spirits, Porter, and Oats, from 15,000l. to 20,000l. per annum.—A reasonable time allowed for the sale of the Stock on approved bills, or if sold 2000l. may remain on Mortgage.—Stock & Fixtures to be taken at a fair valuation.— None but principals will be treated with.
+
+Apply, if by letter, post-paid, to John Steane, the Proprietor; who from extreme ill health, is compelled to retire from the same, and solely on that account are the Premises and Trade offered for Sale, and on most liberal terms.
+
+*An error appeared in this advertisment last week, the returns being from 15,000 to 20,000l.*
+
+```
+
+In just a couple more months, it seems the John Steane's ill health got the better — or the worst — of him.
+
+Two months later, another advert appeared, this time announcing the auction of a *named* part of the deceased John Steane's estate, the Tontine. The auction itself was to be held in a coffee shop in London.
+
+*Was the previous attempted private sale of the same part of the estate?*
+
+```{admonition} To be sold by auction, May, 1819
+:class: dropdown
+[Hampshire Telegraph - Monday 31 May 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190531/008/0003)
+
+NEWPORT, ISLE OF WIGHT
+
+To Brewers, Innkeepers, and Victuallers.— Freehold Inn and Tavern, with excellent Tap, Brewery and eight tenements.
+
+TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'olock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire fromn business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniiture, Fixtures, and the Stock of of about 200 Barrels of Strong Beer, to be taken at a valuatiom.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garrawy's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
 
 ```
 
 ```{seealso}
-Interestingly, "Tontine" is not mentioned on the Ordnamce Survey map a few years later.
+The will of John Steane, merchant of Carisbrooke, is available from the National Archives: [PROB 11/1635/302](https://discovery.nationalarchives.gov.uk/details/r/D180885).
+
 ```
+
+It seems, however, that *that* auction was *not* successful, because a year later, in May 1820, the executors were once again trying to find a buyer for the same part of John Steane's estate. The return is claimed as 12,000-16,000l. per annum, suggesting that the orginal attempted sale in Spring, 1819, was of these premises, and that the return had since fallen?
+
+```{admonition} Valuable Premises and Business, May 1820
+:class: dropdown
+[Hampshire Telegraph - Monday 29 May 1820](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18200529/011/0003)
+
+NEWPORT, ISLE OF WIGHT.
+
+Valuable Premises and Business.
+
+TO be SOLD or LET, on liberal Terms,— The respectable and extensive PREMISES and BUSINESS of the late Mr. John Steane.—The Premises are Freehold, and consist of a modern-built Dwelling-house, with commodious Liquor Shop, Spirit and Beer Stores, Wine Cellars, Corn Stores, and every convenience for carrying on the Wine, Spirit, Porter, Cyder,and Corn Trade, in which the late Proprietor to the time of his disease, returned from 12 to 16,000l. per year, and which trade is still carrying on.
+
+To the above Premnises is attached a respectable and well-accustomed TAP and BREWHOUSE, now in full trade; to the Tap is attached an excellent and well-attended Bowling-Green.
+
+The Stock to be taken or not, at the option of a Purchaser or Tenant.
+
+For further particulars apply to Mr. Steane, on the Premises, Mr. Joseph Kirkpatrick, jun. and Mr. Benj. Mew, Executors to the late Mr. John Steane; who request that all persons having any Claim against the deceased will send in their accounts.
+```
+
+Another year, and still the Tontine hasn't sold. This time, it is offered for sale by way of auctioneer Mr. Francis Pittis.
+
+```{admonition} To be sold by auction, a capital free inn, July 1821
+:class: dropdown
 
 [Hampshire Chronicle - Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004)
 
@@ -317,7 +426,7 @@ A CAPITAL FREE INN,
 
 With an excellent and well-constructed Brewery. Seven brick-built Tenements, a large garden, Stables, &c. &c. 
 
-TO be SOLD by AUCTION, by Mr. Francis Pittis, on the premises, on Tuesday 24th of July. 1821, by order and under the direction of the Executors of the late Mr. John Steane.— This Valuable PROPERTY will be put up in one lot, and if not sold in one lot, will be sold in the under-mentioned lots:—
+TO be SOLD by AUCTION, by Mr. Francis Pittis, on the premises, on Tuesday 24th of July, 1821, by order and under the direction of the Executors of the late Mr. John Steane.— This Valuable PROPERTY will be put up in one lot, and if not sold in one lot, will be sold in the under-mentioned lots:—
 
 In one lot will comprise,—All those capital Freehold and extensive Premises, called The TONTINE INN, situate in Pyle-street, nearly the centre of the town of Newport, with a Tap, extending into South-street; a well-construeted Brewery lately built upon the most approved plan. Seven brick-built TENEMENTS, with a large Garden, Stable, Piggery, and useful Out-buildings.
 
@@ -343,9 +452,51 @@ Lot 8. Ditto, of the same description, occupied by ——— Williams.
 
 Lot 9. Ditto, ditto, occupied by ————.
 
-`[Several other public houses or former public houses were also for sale, presumbaly out of the same estate.]`
+`[Several other public houses or former public houses were also for sale, although it is not clear that they are out of the same estate.]`
 
-````
+```
+
+The advert immediately following also anniunced the sale of fixtures and fittings from the Tontine brewery.
+
+```{admonition} To Brewers, Publicans, Farmers, and others, July 1821
+:class: dropdown
+[Hampshire Chronicle - Monday 23 July 1821](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/18210723/032/0004)
+
+NEWPORT, ISLE OF WIGHT.
+
+*To Brewers, Publicans, Farmers, and others,*
+
+TO be SOLD by AUCTION, by Mr. Francis Pittis, Wednesday tbe 25th July, 1821, and the following day,—The Entire STOCK in TRADE, Fixtures, six-motion Beer Engine, all the Brewing Utensils, four large Vats, Butts, Pipes, Hogsheads, and Half hogshead Beer Casks, Barrels of Strong Beer, Brewing Copper, the whole of the HOUSEHOLD FURNITURE, various other Effects, at the Tontine Inn & Brewery, in Newport, in the Isle of Wight.
+
+The *Brewery* comprises an excellent five-hogshead copper furnace ; mash tub, with false bottom, 6ft. 5in. by 3ft. 6in.; beer cooler, 18ft. by 7ft. 4in.; one ditto, 14ft. by 5ft.; underback, 5ft. 6in. by 3ft. 9in. square, 10ft. by 4ft.; hop back, 5ft. 6in. by 5ft. ; capital force-pump with a large quantity of pipe; one ditto ditto, four stillions, copper pump, several oak beer stands, excellent fifty-barrel beer vats, two 37 barrel ditto, one 20 ditto, about 50 butts, pipes, hogsheads half-hogsheads, and smaller beer and spirit casks, malt mill, a capital six-motion beer engine, spirit engine, counter and fittings in the liquor shop,—about 37 barrels of Strong Beer, numerous other articles in the Brewery.
+
+Household Furniture —Dining, tea, Pembroke card, and claw tables ; mahogany and stained pier glasses, Kidderminster aud Scotch carpets, four post and field bedsteads with cotton and dimity hangings, window curtain to correspond ; goose-feather beds, bolsters, and pillows, blankets, and counterpanes ; chest of drawers, bason stands, dressing glasses, and dressing tables; a good assortment of glass, pewter quarts, pints, and half-pints spirit measures, &c. &c.
+
+Catalogues may be had at Blue Posts, Portsmouth ; Royal Oak, Portsea; Angel, Lymington; George, Yarmouth;  Hotel, Ryde; Vine, Cowes; Bugle, Newport; and of the Auctioneer.
+
+N.B—The Brewing Utensils will be sold on the first day sale, which will commence each day at twelve o'clock, at noon.
+```
+
+Another couple of years on, and it seems *another* of John Steane's holdings was up for sale:
+
+```{admonition} A commodious premises, June 1823
+:class: dropdown seealso
+[Hampshire Telegraph - Monday 23 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18230623/003/0001)
+
+TO BREWERS, CORN, WINE, AND SPIRIT MERCHANTS.  
+A commodious PREMISES, where the above Business has been carried on for several Years.—A Free and Good-accustsmed PUBLIC-HOUSE, now in Full Trade.
+
+NEWPORT, ISLE OF WIGHT. TO be SOLD by AUCTION, by Mr. FRANCIS PITTIS, on Monday the 23rd day of June, 1823, at the Bugle Inn,. in Newport, at five o'clock in the evening,—All that valuable and extensive FREEHOLD PREMISES, also, an excellent and Good-Accustomed FREE PUBLIC-HOUSE, known by the name of THE GRAPES INN, situate in Upper St. James'-street, in Newport, in the Parish of Carisbrooke, late in the occupation of Mr. J. Steane, decd.
+
+The HOUSE comprises, on the ground floor, a dining room, kitchen, pantry; and detached, a wash-house, a large and commodious Shop, fitted up with counters, liquor casks, corn bins, porter and wine cellars two large store-rooms, a counting-house, attached.—Also,, a walled garden, planted with choice fruit trees, four-stalled stable, chaise house, paved court-yard, with every other convenient and useful office.—Second Floor.-A very handsome drawing-room with modern bow-window, five excellent bed-rooms with dressing-room adjoining.
+
+THE GRAPE INN, which is now in full Trade, and is Let to a very respectable Tenant, consists of three sitting rooms, bar, kitchen, pantry, and roomy cellars, with four bed-rooms, also, a detached Cottage.
+
+The above valuable Premises are desirably situated for any Person wishing to embark in the Spirit, Wine, or Corn Business, or any other Business where room is required, being situate in that part of the Town the greatest thoroughfare to the South part of the Island. The House and Premises are in the best repair, thd Rooms handsomely papered and fitted up. The Premises cost the late owner, upward of five thousand pounds, but as it is the wish of the Executors to close the concern of the late Mr. John Steane, it will be offered to the public and sold without the least Reserve.
+
+For particulars and a view of the Premises, apply to the Auctioneer, Newport.
+
+```
 
 Several years later, in 1842, and the premises of the Tontine Tap, licensed to a Mr. James Tansom, seems to have acquired a reputation as a disorderly house, even if it had not had such a reputation before.
 
