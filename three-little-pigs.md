@@ -439,10 +439,9 @@ I wish you all a happy new year !
 
 ```
 
-```{admonition}
-:class: seealso
+```{seealso}
 
-It wpould be intersting to know if any of the correspondence between Henry Smith and James Halliwell-Phillips are held in the [Collection of James O. Halliwell-Phillipps](https://archives.collections.ed.ac.uk/repositories/2/resources/323) at the University of Edinburgh.
+It woould be interesting to know if any of the correspondence between Henry Smith and James Halliwell-Phillips are held in the [Collection of James O. Halliwell-Phillipps](https://archives.collections.ed.ac.uk/repositories/2/resources/323) at the University of Edinburgh.
 ```
 
 ## Other Variants
