@@ -18,7 +18,7 @@ NEWPORT.
 
 The Epiphany Sessions was held at the Guildhall, on Tuesday last, for this borough, borougn, before Charles Bassett Roe, Esq. Mayor, Thomas Sewell, esq. Deputy Recorder, and other Justices.
 
-Patience Adams, aged 42, charged with having stolen a bed, the property of Martha Morris, found gUilty, —one months' imprisonment.
+Patience Adams, aged 42, charged with having stolen a bed, the property of Martha Morris, found guilty, —one months' imprisonment.
 
 ```
 
@@ -34,7 +34,7 @@ At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two
 :class: dropdown
 [Hampshire Telegraph - Monday 10 December 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18381210/022/0004)
 
-Repentance Adams, an old offender, was committetd to Winchester to take her trial, for stealing a mat from the door of Mr. Minns, dyer, at Newport.
+Repentance Adams, an old offender, was committed to Winchester to take her trial, for stealing a mat from the door of Mr. Minns, dyer, at Newport.
 
 ```
 
@@ -49,7 +49,7 @@ An old offender, under the singular but inappropriate cognomen of *Repentance* A
 
 ```{admonition} Committed to the County Gaol, December 1838
 :class: dropdown
-[Salisbury and Winchester Journal - Monday 10 December 1838](Salisbury and Winchester Journal - Monday 10 December 1838)
+[Salisbury and Winchester Journal - Monday 10 December 1838](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18381210/020/0004)
 
 Winchester. SATURDAY, Committed to the County Gaol
 
@@ -71,14 +71,14 @@ Patience Adams stealing a mat— *2 months' imp.*
 :class: dropdown
 [Hampshire Advertiser - Saturday 06 December 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18451206/037/0008)
 
-A woman named Repentance Adams (an old offender, who some years ago created such a consternation by her numerous robberies of door-mats all over the town), was charged with stealing a new rush basket from the shop of Mrs. Mills, Town Gate. A woman named Inkstone, deposed to seeing her steal it; and Mr. Cooke, the borough policeman, stated he found it exposed for sale, shortly after she had stolen it, at the shop of Mr. Hale, grocer, Cobham-street, to whom, it appeared, she had just before disposed of it. She was committed to take her trial.
+A woman named Repentance Adams (an old offender, who some years ago created such a consternation by her numerous robberies of door-mats all over the town), was charged with stealing a new rush basket from the shop of Mrs. Mills, Town Gate. A woman named Inkstone, deposed to seeing her steal it; and Mr. Cooke, the borough policeman, stated he found it exposed for sale, shortly after she had stolen it, at the shop of Mr. Hale, grocer, Cosham-street, to whom, it appeared, she had just before disposed of it. She was committed to take her trial.
 ```
 
 ```{admonition} Mats from doors, December 1845
 :class: dropdown
 [Hampshire Telegraph - Saturday 13 December 1845](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18451213/004/0001)
 
-At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush basket, from thie door of Mr. Mills, in St. James's street, and was fully committed for trial at the sessions.— She was a few years ago tried for stealing mats from doors. 
+At the Borough Court, on Monday, Repentance Adams, an old woman. was charged with stealing a rush basket, from the door of Mr. Mills, in St. James's street, and was fully committed for trial at the sessions.— She was a few years ago tried for stealing mats from doors. 
 ```
 
 ```{admonition} Stealing a basket, January 1846
@@ -101,7 +101,7 @@ Committed to the County Gaol.— For vagrancy— Repentance Adams, 14 days.
 
 An old woman of eighty, named Repentance Adams, was charged with stealing a hand kerchief, containing tobacco, bacon, sugar, cakes, &c., the property of an inmate of the House of Industry, named James Harwood.
 
-It appeared that the prosecutor was wending his way homeward with the bundle, and when at the bottom of Hunny Hill, he opened the wicket-gate of the cottage on the bridge, and placed his bundle under the hedge outside; went indoors to light his pipe, where be ttood gossiping a minute or two, and when he came out and looked for his bundle, it was gone. A young man working in the garden, named Windebank, swore that he saw the prisoner carry off a bundle, which he had no doubt was the one lost, although he was not then aware Harwood had just before thrown down the bundle which he saw the old woman pick up. It seems she must have had it under her shawl when Harwood spoke to her just after he left the cottage, as he passed her. Windebank had not then heard of his loss, and as soon as he did, they found out the old woman, who had, however, in the meantime, endeavonred to get rid of the spoil, somehow, and wanted to prove an alibi; but the evidence was too strong against her, and she contented herself by merely asserting she was not guilty, and was committed to Winchester Gaol for one month.
+It appeared that the prosecutor was wending his way homeward with the bundle, and when at the bottom of Hunny Hill, he opened the wicket-gate of the cottage on the bridge, and placed his bundle under the hedge outside; went indoors to light his pipe, where be stood gossiping a minute or two, and when he came out and looked for his bundle, it was gone. A young man working in the garden, named Windebank, swore that he saw the prisoner carry off a bundle, which he had no doubt was the one lost, although he was not then aware Harwood had just before thrown down the bundle which he saw the old woman pick up. It seems she must have had it under her shawl when Harwood spoke to her just after he left the cottage, as he passed her. Windebank had not then heard of his loss, and as soon as he did, they found out the old woman, who had, however, in the meantime, endeavoured to get rid of the spoil, somehow, and wanted to prove an alibi; but the evidence was too strong against her, and she contented herself by merely asserting she was not guilty, and was committed to Winchester Gaol for one month.
 
 ```
 
@@ -117,7 +117,7 @@ Before Sir P. Gordon, bart. (in the chair), Sir John Simeon, bart., Capt. Hammon
 
 Patience Adams was placed at the bar, charged with stealing a bundle, containing various articles, the property of James Harwood.
 
-James Harwood, sworn— I am an inmate of the House of Industry. On Tuesday last, about half-past 4 o'clock in the afternoon, I went to Newport. On returning, I went to a house at the bottom of Hnnny hill, and asked for a light for my pipe. I only stopped the wicket; I did not go in. I put my bundle at the corner of the hedge. It contained 2 1/2 oz. of tobacco, 1/2 lb. of sugar, 2 penny lard cakes, and a small piece of bacon. These things were tied up in a handkerchief. After talking to the young man (Windybank) and had gone about 20 yards, I came back for my bundle and found it was gone. It was out of my sight for about 10 minutes from the time I first put it down. I saw Mrs. Adams just as I was going up the hill. She was out sight when I missed the bundle. She was going towards the town. While talking to the young man, the bundle was close to my feet. No one could have taken it while I stood there. About an hour after I lost the bundle, I went to the prisoner’s lodgings. I asked her if she had seen my bundle. She answered with an oath that she had not. I told her there was a young man who saw her take it up. She said she would face him (James Windybauk). She went with me to him, and strongly denied it.
+James Harwood, sworn— I am an inmate of the House of Industry. On Tuesday last, about half-past 4 o'clock in the afternoon, I went to Newport. On returning, I went to a house at the bottom of Hunny hill, and asked for a light for my pipe. I only stopped the wicket; I did not go in. I put my bundle at the corner of the hedge. It contained 2 1/2 oz. of tobacco, 1/2 lb. of sugar, 2 penny lard cakes, and a small piece of bacon. These things were tied up in a handkerchief. After talking to the young man (Windybank) and had gone about 20 yards, I came back for my bundle and found it was gone. It was out of my sight for about 10 minutes from the time I first put it down. I saw Mrs. Adams just as I was going up the hill. She was out sight when I missed the bundle. She was going towards the town. While talking to the young man, the bundle was close to my feet. No one could have taken it while I stood there. About an hour after I lost the bundle, I went to the prisoner’s lodgings. I asked her if she had seen my bundle. She answered with an oath that she had not. I told her there was a young man who saw her take it up. She said she would face him (James Windybank). She went with me to him, and strongly denied it.
 
 James Windybank, sworn— I live at the bottom of Hunny hill. Between 4 and 5 o'clock on Tuesday last, James Harwood came to the wicket and asked me for a light. I gave it him. He stopped a few minutes and then went on. Shortly after, I saw Mrs. Adams come along towards town. I saw her stoop down between the wicket and the hedge, and pick up a handkerchief. It appeared to have something in it. I did not notice it before while Harwood was talking. She put it partly under her shawl and went off with it. I did not say anything about it, as I did not know to whom it belonged. She afterwards came to my house with Harwood. She asked if I had seen her take the handkerchief. I said Yes; but she said she did not.
 
@@ -297,8 +297,18 @@ This being the annual licensing day for the Borough the Court was pretty full of
 
 ### The Tontine Tap
 
+In September 1806, an announcement is made calling for creditors of Mr. John Steane, a bankrupt brewer late of Newport, to make themselves known.
 
-In April, 1807, an auction of brewing utensils was advertised in Newport, presumably to help discharge the debts of a bankrupt brewer, Mr. John Steane.
+```{admonition} Dividing the estate of a bankrupt, September, 1806
+:class: dropdown
+[Hampshire Chronicle - Monday 22 September 1806](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18060922/019/0001)
+
+THE Commissioners in a Commission of Bankrupt, bearing date the 3d day of March 1806, awarded and issued against JOHN STEANE, late of Newport, in the Isle of Wight, in the county of Southampton, Liquor-Merchant, Dealer and Chapman, intend to meet on Monday the 13th day of October next, at the Bugle Inn, Newport aforesaid, at one o'clock in the afternoon, in order to make a Dividend of the Estate and Effects of the said Bankrupt ; when and where the Creditors who have not already proved their debts are to come prepared to prove the same, or they will be excluded the benefit of the said Dividend : And all claims not then substantiated, will be disallowed.
+
+N. B. The Dividend will be ordered on the above day, but will not be payable till ten days after, when it may be received, on at application the Office of Messrs. Wright and Bovill, Chancery-lane, London ; Messrs. Sewell and Clarke, Newport.
+```
+
+In April, 1807, an auction of brewing utensils was advertised in Newport, presumably to help further discharge John Steane's debts.
 
 ```{admonition} To be sold — brewing utensils, April 1807
 :class: dropdown
@@ -310,22 +320,55 @@ Brewing Utensils.
 
 TO BE SOLD. BY AUCTION, By MEW & PORTER,  
 
-On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Asignees of Mr. John Stean, a Bankrupt),
+On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Assignees of Mr. John Stean, a Bankrupt),
 
 THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport ; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
 ```
 
-Just over a decade later, in 1819, a brewery went up for sale in Carisbrooke.
+Almost a decade later, in 1816, it seems that Mr. John Steane had re-established his business as a wine merchant, and was now in the process of attempting to dispose of it under his own terms:
+
+```{admonition} To Wine and Corn Merchants, June 1816
+:class: dropdown
+[Hampshire Chronicle - Monday 10 June 1816](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18160610/014/0001)
+
+TO WINE AND CORN MERCHANTS.
+
+TO be DISPOSED OF by PRIVATE CONTRACT, a valuable wholesale and retail WINE, SPIRIT, and CORN TRADE. The Premises are new and freehold, the returns perfectly satisfactory ; situate at Newport, in the Isle of Wight, in the occupation of Mr. John Steane, the Proprietor. The Stock of Wine, &c. to be taken at a fair valuation; and a reasonable time allowed for the payment of the same, on approved Bills. The Purchaser may, at his option, take 18 pipes of old superior Port, two pipes Madeira, and three butts of old Sherry (Mora’s). Half the purchase money of the Premises may remain given time on mortgage.
+
+Further particulars may be known by application to the Proprietor. 
+
+```
+
+A couple of years later, he is advertising the sale of well-established brewery and bar in the Corn-market.
+
+```{admonition} Public House and Liquor Shop, Corn-market, March, 1818
+:class: dropdown
+[Hampshire Chronicle - Monday 30 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18180330/037/0004)
+
+NEWPORT, ISLE OF WIGHT.
+
+FREE PUBLIC-HOUSE & LIQUOR SHOP,  
+To be LET SOLO,  
+*Situate in the Corn-market*.
+
+THE above is the best situation in the Island ; the beer is brewed on the Premises, and pays more duty for that article than any Victualler in the county, and has a regular established in and out door trade. The Premises are roomy, a good Bar and Liquor Shop complete, fitted up Brewery.—The Utensils and Fixtures to be taken at a fair valuation ; and any quantity of fine old Beer and good Malt, the taker may approve of.
+
+For further particulars apply to John Steane, Cornfactor, Newport.
+
+If sold, 1000 guineas may remain on mortgage.
+```
+
+The following year, a brewery went up for sale in Carisbrooke.
 
 ```{admonition} To be sold by private contract, March 1819
-:class: dropdown
+:class: dropdown seealso
 [Hampshire Telegraph - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/001/0001)
 
-ISLE OF WIGHIT.
+ISLE OF WIGHT.
 
 TO BE SOLD BY PRIVATE CONTRACT,—A complete BREWERY, built on the most approved system, with very extensive Malt-house and Stores, Beer Stores and Cellars, Cooperage, Horse-house, Cart-house, Stables, an extensive range of Outbuildings and Cottage, capable of great improvement, at a trifling expense, situate at Carisbrooke, in the Isle of Wight, one mile from Newport, in a fine Barley Country, adjoining the stream, which is so well known for its uncommon purity, is in full trade, and the Premises are in complete repair.— Immediate possession will be given.
 
-THis Lot is held for a term, of which 699 years are unexpired, at the rent of a pepper-corn.
+This Lot is held for a term, of which 699 years are unexpired, at the rent of a pepper-corn.
 
 N.B. The Malt-wheel is so constructed as to do nearly the whole labour of the Brewery, and the carriage draught to Newport is particularly easy.
 
@@ -338,11 +381,11 @@ The Purchaser of this will have the offer to purchase about three Acres of good 
 For further particulars apply to Mr. John Pittis; or to Mr. Worsley, Solicitor, Newport.
 ```
 
-In the same edition of that newspaper, was another advert, this time advertising the sale of some business premises in Newport associated with the brewing trade. The annual return from the premises was stated as *from 1,500l. to 2,000l. per annum*. The seller was a certain Mr. John Steane, presumably the same person who had been declared bankrupt and was forced to sell of the tools of his brewing trade in 1807. This time, it was ill-health that forced the sale.
-
 ```{seealso}
-*Could it be that the sale of the Caribrooke brewery was also associated in some way with Mr. Steane, perhaps as a result of him wanting to dissolve some sort of partnership?*
+*Could it be that the sale of the Carisbrooke brewery was also associated in some way with Mr. Steane, perhaps as a result of him wanting to dissolve some sort of partnership?*
 ```
+
+In the same edition of that newspaper was another advert, John Steane was again advertising the sale of business premises in Newport associated with the wine trade, this time declaring severe ill-health to be the reason for the sale. The annual return from the premises was stated as *from 1,500l. to 2,000l. per annum*.
 
 ```{admonition} To Wine, Spirit and Corn Merchants, March 1819
 :class: dropdown
@@ -356,9 +399,34 @@ TO BE SOLD by PRIVATE CONTRACT, or LET or LEASE, and may be entered on immediate
 Apply, if by letter, post-paid, to John Steane, the Proprietor; who from extreme ill health, is compelled to retire from the same, and solely on that account are the Premises and Trade offered for Sale, and on most liberal terms.
 ```
 
-A week later, the advert reappeared, along with a correction. The annual return was actually *15,000l. to 20,000l. per annum*, ten times the amount previously stated.
+On the same day, the advert appears in another form in the *Hampshire Chronicle*. This makes it clear that Steane was attempting to dispose of two businesses and associated properties: the wine merchant, and in the Market-place (the Corn Market, which is to say, St. Thomas' Square), the pub with its own brewery.
 
-```{admonition} An error appeared in this advertisement last week, April 1809
+```{admonition} Wholesale and retail wine and brandy vaults, March 1819
+:class: dropdown
+
+[Hampshire Chronicle - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18190329/039/0004)
+
+*To Wine, Spirit, and Corn-Merchants.*
+
+WHOLESALE & RETAIL WINE & BRANDY VAULTS,  
+NEWPORT, Isle of Wight,  
+TO be LET on Lease, or SOLD by Private Contract, and may be entered immediately.—The House respectable, and built on purpose for the Trade, which the annual returns are from £15,000 to £20,000, and may be doubled by one or two active youug men. The Stock consists of about 450 dozen fine Old Wine in bottles, and about pipes in wood in bond ; 250 dozen London Brown Stout ; 50 dozen Cyder ; 40 hogsheads home-brewed and Edinburgh Strong Beer; 500 quarters Oats, Beans, &c. to be taken at valuation, with the Fixtures, and a reasonable time allowed for the sale, on approved bills : if sold, £2000 may remain on mortgage.
+
+The Premises consist of a large Store in front for the retail trade; beer stores for 150 pipes of wine and porter ; arched cellar for bottled wine; good garden, walled round, with choice fruit trees ; out-offices, stalled stables ; a reputable Tap detached, with Gentlemen's subscription bowling-green, that lets for 50 guineas per year; granary and stores for 700 quarters of grain ; cart and chaise-house, and from one to ten Tenements, if approved. The whole freehold and built within ten years.
+
+None but principals will treated with.
+
+Apply (by letter, post paid), to John Steane, the Proprietor, Newport, Hants, who, from extreme ill health, is compelled to retire from the same.
+
+If wished for, the Corn Business can be separated from the Wine Trade.
+
+Likewise to be Sold or Let by Private Contract,— A respectable INN, in the centre the Market-place, Newport, and the only one that brews its own beer the Island.—Apply to John Steane, the Proprietor.—Half the purchase money may remain. 
+
+```
+
+A week later, the *Hampshire Telegraph* advert reappeared, along with a correction. The annual return was actually *15,000l. to 20,000l. per annum*, ten times the amount previously stated.
+
+```{admonition} An error appeared in this advertisement last week, April 1819
 :class: dropdown
 [Hampshire Telegraph - Monday 05 April 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18190405/003/0001)
 
@@ -373,9 +441,7 @@ Apply, if by letter, post-paid, to John Steane, the Proprietor; who from extreme
 
 ```
 
-In just a couple more months, it seems the John Steane's ill health got the better — or the worst — of him.
-
-Two months later, another advert appeared, this time announcing the auction of a *named* part of the deceased John Steane's estate, the Tontine. The auction itself was to be held in a coffee shop in London.
+By the end of the following month, another advert had appeared, this time announcing the auction of a *named* part of the deceased John Steane's estate, the Tontine. The auction itself was to be held in a coffee shop in London.
 
 *Was the previous attempted private sale of the same part of the estate?*
 
@@ -387,8 +453,19 @@ NEWPORT, ISLE OF WIGHT
 
 To Brewers, Innkeepers, and Victuallers.— Freehold Inn and Tavern, with excellent Tap, Brewery and eight tenements.
 
-TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'olock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire fromn business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniiture, Fixtures, and the Stock of of about 200 Barrels of Strong Beer, to be taken at a valuatiom.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garrawy's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
+TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'olock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire fromn business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniiture, Fixtures, and the Stock of of about 200 Barrels of Strong Beer, to be taken at a valuatiom.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garraway's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
 
+```
+
+A year later, it seems the John Steane's ill health had got the better — or the worst — of him.
+
+```{admonition} Death notice, John Steane, April 1820
+:class: dropdown
+[Hampshire Chronicle - Monday 10 April 1820](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18200410/016/0004)
+
+ISLE OF WIGHT
+
+Died, on Monday last, John Steane, winemerchant, in the 59th year of his age, after a long aud painful illness. 
 ```
 
 ```{seealso}
@@ -396,7 +473,12 @@ The will of John Steane, merchant of Carisbrooke, is available from the National
 
 ```
 
-It seems, however, that *that* auction was *not* successful, because a year later, in May 1820, the executors were once again trying to find a buyer for the same part of John Steane's estate. The return is claimed as 12,000-16,000l. per annum, suggesting that the orginal attempted sale in Spring, 1819, was of these premises, and that the return had since fallen?
+It also seems that the 1819 auction was *not* successful, because Steane's executors were themselves trying to find a buyer for the same part of John Steane's estate in May 1820. The return is claimed as 12,000-16,000l. per annum, suggesting that the orginal attempted sale in Spring, 1819, was of these premises, and that the return had since fallen?
+
+```{warning}
+
+The details also suggest that the Wine business and the brewery were next to each other and that the various attempts at sale represent different rebundlings of the premises around Tontine Yard. If that is the case, and the subscription bowling green was in the center of the yard, it was presumably quite well-to-do at that point?
+```
 
 ```{admonition} Valuable Premises and Business, May 1820
 :class: dropdown
@@ -626,7 +708,7 @@ Wm. Miller and James Mounser, two privates of the 23rd Regt. were charged by Mr.
 
 A girl, named Ann Gladdis, stated that on the evening in question Miller asked her if she would sell some recruits' clothes which he had. Mounser afterwards brought her the bundle.
 
-Mr. Grapes deposed to finding the bundle at their lodgings in Pyle-street. Miller made a long defence, to the effect that when he was blackberrying he " picked up" the bundle. Mounser simply said the clothes was given him by Miller to give to Giaddis. Their defence had the desired effect, and the jury returned a verdict of Not Guilty. They then had the impudence to demand the clothes, which request, of course, was not acceded to.
+Mr. Grapes deposed to finding the bundle at their lodgings in Pyle-street. Miller made a long defence, to the effect that when he was blackberrying he " picked up" the bundle. Mounser simply said the clothes was given him by Miller to give to Gladdis. Their defence had the desired effect, and the jury returned a verdict of Not Guilty. They then had the impudence to demand the clothes, which request, of course, was not acceded to.
 
 ```
 
@@ -797,7 +879,7 @@ Joseph Anderson, of the " Crab and Lobster" beer shop, was charged with keeping 
 
 P.C. Cave, said — I went to defendant's house about half-past 11 o'clock on Monday night, the 19th of February, with the picket, in search of absent soldiers. I was admitted, and defendant's wife said no soldiers were there. Defendant was present. I went to the coal hole door and found it tied inside. I broke the string, and found a soldier concealed in the corner of the coal hole. I asked defendant and his wife if they had any more in the house, and they said, no. I then went up stairs and found two girls sitting by the fire, and two soldiers lying under the bed.
 
-P.C. Hobbs, said—I went to the defendant's house with the picket, on the night of the 19th of February, at about half-past 10 o'clock, and found three soldiers in the kitchen. The picket took them away, and when they got to Nodehill they escaped from the picket. I went back to the house about half-past 11 o'clock with the last witness. P.C. Cave asked if there were absent soldiers there, and Mrs. Anderson denied that there were. We found one soldier tied in the coal hole, and two up stairs. They were the same three soldiers who had been taken from the house. On Sunday last, about 12 o'clock at night, I went to defendant's house, and saw a soldier in the kitchen. I asked the defendant's wife if there were any more. She said, no. I then went up stairs and found soldier bed with a common prostitute. There were two other prostitutes on the second floor, and two men with them. I believe one of the women was a lodger, but not the other women nor the men. I then came down stairs, and Mrs. Anderson let another soldier out of the back door. There are great complaints of the house from the neighbours.
+P.C. Hobbs, said—I went to the defendant's house with the picket, on the night of the 19th of February, at about half-past 10 o'clock, and found three soldiers in the kitchen. The picket took them away, and when they got to Nodehill they escaped from the picket. I went back to the house about half-past 11 o'clock with the last witness. P.C. Cave asked if there were absent soldiers there, and Mrs. Anderson denied that there were. We found one soldier tied in the coal hole, and two up stairs. They were the same three soldiers who had been taken from the house. On Sunday last, about 12 o'clock at night, I went to defendant's house, and saw a soldier in the kitchen. I asked the defendant's wife if there were any more. She said, no. I then went up stairs and found soldier in bed with a common prostitute. There were two other prostitutes on the second floor, and two men with them. I believe one of the women was a lodger, but not the other women nor the men. I then came down stairs, and Mrs. Anderson let another soldier out of the back door. There are great complaints of the house from the neighbours.
 
 The defendant was fined £2, and 5s. costs, and in default of payment committed to the house of correction for a month.
 
@@ -815,7 +897,7 @@ Joseph Anderson, of the " Crab and Lobster" beer shop, was charged with keeping 
 
 P.C. Cave, said — I went to defendant's house about half-past 11 o'clock on Monday night, the 19th of February, with the picket, in search of absent soldiers. I was admitted, and defendant's wife said no soldiers were there. Defendant was present. I went to the coal hole door and found it tied inside. I broke the string, and found a soldier concealed in the corner of the coal hole. I asked defendant and his wife if they had any more in the house, and they said, no. I then went up stairs and found two girls sitting by the fire, and two soldiers lying under the bed.
 
-P.C. Hobbs, said—I went to the defendant's house with the picket, on the night of the 19th of February, at about half-past 10 o'clock, and found three soldiers in the kitchen. The picket took them away, and when they got to Nodehill they escaped from the picket. I went back to the house about half-past 11 o'clock with the last witness. P.C. Cave asked if there were absent soldiers there, and Mrs. Anderson denied that there were. We found one soldier tied in the coal hole, and two up stairs. They were the same three soldiers who had been taken from the house. On Sunday last, about 12 o'clock at night, I went to defendant's house, and saw a soldier in the kitchen. I asked the defendant's wife if there were any more. She said, no. I then went up stairs and found soldier bed with a common prostitute. There were two other prostitutes on the second floor, and two men with them. I believe one of the women was a lodger, but not the other women nor the men. I then came down stairs, and Mrs. Anderson let another soldier out of the back door. There are great complaints of the house from the neighbours.
+P.C. Hobbs, said—I went to the defendant's house with the picket, on the night of the 19th of February, at about half-past 10 o'clock, and found three soldiers in the kitchen. The picket took them away, and when they got to Nodehill they escaped from the picket. I went back to the house about half-past 11 o'clock with the last witness. P.C. Cave asked if there were absent soldiers there, and Mrs. Anderson denied that there were. We found one soldier tied in the coal hole, and two up stairs. They were the same three soldiers who had been taken from the house. On Sunday last, about 12 o'clock at night, I went to defendant's house, and saw a soldier in the kitchen. I asked the defendant's wife if there were any more. She said, no. I then went up stairs and found a soldier in bed with a common prostitute. There were two other prostitutes on the second floor, and two men with them. I believe one of the women was a lodger, but not the other women nor the men. I then came down stairs, and Mrs. Anderson let another soldier out of the back door. There are great complaints of the house from the neighbours.
 
 The defendant was fined £2, and 5s. costs, and in default of payment committed to the house of correction for a month.
 
@@ -869,7 +951,7 @@ At the Borough Petty Sessions on Monday, before the Mayor and Dr. Wavell—
 
 ...
 
-Joseph Anderson, of the Crab and Lobster, beer-shop, was charged with keeping his house open after legal hours, and with conducting it in a disreputable manner; he was fined 20*l.*, or one month's imprisonment, and the license to be suspended.
+Joseph Anderson, of the Crab and Lobster, beer-shop, was charged with keeping his house open after legal hours, and with conducting it in a disreputable manner; he was fined 20l., or one month's imprisonment, and the license to be suspended.
 
 ```
 
@@ -975,7 +1057,7 @@ BOROUGH COURT. On Monday last, before Mr.  B. Mew, Esq., Mayor, T. Cooke and Abr
 
 The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged  under the head of disorderlies and
 
-P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise (?) Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
+P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
 
 Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourbood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputed common prostitue and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
 
@@ -1007,7 +1089,7 @@ P.C. Hasler deposed to the outrageous conduct of the prisoner, and said he heard
 
 Fined 15s.
 
-The prisoner wanted to exhibit his bruises, and said the usage he had received was worth 10 shillings and more too; full credit, however, was given to his word in this case, and a promise that an imprisonment for ten days only would be an equivalent to the debt, which we believe the young ladypaid for him before the Court adjourned.
+The prisoner wanted to exhibit his bruises, and said the usage he had received was worth 10 shillings and more too; full credit, however, was given to his word in this case, and a promise that an imprisonment for ten days only would be an equivalent to the debt, which we believe the young lady paid for him before the Court adjourned.
 ```
 
 The following report adds a little more colour to the case:
@@ -1068,9 +1150,9 @@ A girl, named Eliza Young, complained against a woman of the name of James, livi
 
 It appeared that the husband of defendant had been beating a younger sister of complainant, and Eliza was just in the act of repaying him, with interest, when at that moment in popped Mrs. James, and checked her with a couple of back-handed blows across the face.
 
-Complainant said sbe wished then to " take the pair," and they would have settled it without bringing the case here: but her friend would not let her.
+Complainant said she wished then to " take the pair," and they would have settled it without bringing the case here: but her friend would not let her.
 
-The magistrateds bound Mrs. James over to keep the peace for a twelevemonth.
+The magistrates bound Mrs. James over to keep the peace for a twelevemonth.
 
 ```
 
@@ -1084,7 +1166,7 @@ Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentleme
 
 James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza . with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
 
-Eliza Young stated that the complainant merely came to her hoause for the purpose of asking her to accompany her to the Quay, to see if ber husband was gone down the river.
+Eliza Young stated that the complainant merely came to her house for the purpose of asking her to accompany her to the Quay, to see if her husband was gone down the river.
 
 The defendant, in his defence, said he caught both of them with soldiers in the house, and she was always out somewhere "cata-walling." He was bound over to keep the peace for a twelve-month.
 
@@ -1120,7 +1202,7 @@ The following tale has an interesting possible set-up regarding a lost £10 note
 
 BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor ; E. Way, Esq., R. M. Wavell, Esq., and C. W. Estcourt, Esq., magistrates.)
 
-Elizabeth Carr, was charged by P.C. Cave with making a great noise in the street about twelve o'clock on Sunday night. The prisoner denied being out so late as twelve o'clock, and said that she was at home and going to bed, but some own came and wanted her mother, and she went to look for her and found her at the Old King's Arms public house, and as they were coming home they talked rather loud about a £10 note, (it appears that James Mew, Esq., lost a £10 note and very liberally offered £2 reward for it, but it fell into the hands of some of the above woman's gang, and was actually changed at Mr. Mews brothers' brewery by one of them who had decamped), when the police constable took her into custody. The magistrates dismissed her with a reprimand; but the chairman told the mother who was in the court that she ought to have been in her daughter's situation as he feared from the bad example set the girl by her parent, it would not be the last time she would be brought before them. Francis
+Elizabeth Carr, was charged by P.C. Cave with making a great noise in the street about twelve o'clock on Sunday night. The prisoner denied being out so late as twelve o'clock, and said that she was at home and going to bed, but some own came and wanted her mother, and she went to look for her and found her at the Old King's Arms public house, and as they were coming home they talked rather loud about a £10 note, (it appears that James Mew, Esq., lost a £10 note and very liberally offered £2 reward for it, but it fell into the hands of some of the above woman's gang, and was actually changed at Mr. Mews brothers' brewery by one of them who had decamped), when the police constable took her into custody. The magistrates dismissed her with a reprimand; but the chairman told the mother who was in the court that she ought to have been in her daughter's situation as he feared from the bad example set the girl by her parent, it would not be the last time she would be brought before them.
 
 ```
 
@@ -1206,7 +1288,7 @@ Before C. W. Estcourt, esq., mayor, R. M. Wavell, esq., and F. Pittis, esq., mag
 
 WEDNESDAY.— John Price was charged with assaulting the Police in the execution his duty.
 
-P.C. Hobbs said—last night about o'clock I was on duty in the High-street, near the Bugle-inn, defendant was playing a violin and singing, and another man with him was playing a banjo. They were both on the pavement. Mr. Mew, the landlord of the Bugle came and requested me to remove them as they had dinner party who were very much annoyed by them. I spoke to defendant and requested him to go way. He said, "these gentlemen (pointing to three men in the Bugle') wish me to sing a song. I said, I had nothing to do with that and wished them to move on. Defendant looked to the men in the Bugle and asked them if they did not want him to sing a song. They made him no answer. Defendant began singing. I told him I should lock him up if he did sing, and he then went to the gentlemen and asked them to give him something. They said, you sing a song and I will. He then began singing and I took him into custody. In coming down the street he struck me with a fist and kicked me in my legs. He got his leg between mine and threw me. He pulled a quantity of hair out of my head with both his hands. He then got away. P.C. Lockhurst and I afterwards apprehended him in Cosham-street. He was very violent and kicked me. We were obliged to take his boots off and to get assistance to bring him to the Station-house.
+P.C. Hobbs said—last night about o'clock I was on duty in the High-street, near the Bugle-inn, defendant was playing a violin and singing, and another man with him was playing a banjo. They were both on the pavement. Mr. Mew, the landlord of the Bugle came and requested me to remove them as they had dinner party who were very much annoyed by them. I spoke to defendant and requested him to go way. He said, "these gentlemen (pointing to three men in the Bugle) wish me to sing a song. I said, I had nothing to do with that and wished them to move on. Defendant looked to the men in the Bugle and asked them if they did not want him to sing a song. They made him no answer. Defendant began singing. I told him I should lock him up if he did sing, and he then went to the gentlemen and asked them to give him something. They said, you sing a song and I will. He then began singing and I took him into custody. In coming down the street he struck me with a fist and kicked me in my legs. He got his leg between mine and threw me. He pulled a quantity of hair out of my head with both his hands. He then got away. P.C. Lockhurst and I afterwards apprehended him in Cosham-street. He was very violent and kicked me. We were obliged to take his boots off and to get assistance to bring him to the Station-house.
 
 The defendant said, he was a little the worse for liquor and was very sorry for it.
 
