@@ -44,7 +44,7 @@ Repentance Adams, an old offender, was committed to Winchester to take her trial
 
 Borough Court.
 
-An old offender, under the singular but inappropriate cognomen of *Repentance* Adams, was charged with stealing a door mat from Messrs. Memis and Bright, dyers, &c. These petty thefts have become so common of late that the police have kept a sharp eye for the offenders, and on Friday last the corner of the aforesaid met was seen peeping from under the corner of Mrs. Adams's apron. Repentance has therefore been committed to Winchester gaol, and as the Sessions will not be holden until January, it cannot be said in this case by the gaoler that Repentance came too late.
+An old offender, under the singular but inappropriate cognomen of *Repentance* Adams, was charged with stealing a door mat from Messrs. Memis and Bright, dyers, &c. These petty thefts have become so common of late that the police have kept a sharp eye for the offenders, and on Friday last the corner of the aforesaid mat was seen peeping from under the corner of Mrs. Adams's apron. Repentance has therefore been committed to Winchester gaol, and as the Sessions will not be holden until January, it cannot be said in this case by the gaoler that Repentance came too late.
 ```
 
 ```{admonition} Committed to the County Gaol, December 1838
