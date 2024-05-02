@@ -26,7 +26,7 @@ Patience Adams, aged 42, charged with having stolen a bed, the property of Marth
 :class: dropdown
 [Hampshire Advertiser - Saturday 12 December 1835](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18351212/020/0003)
 
-At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two old offenders, were sentenced to 14 days in the House of Correction, for stealing turnips from Falrlee.
+At our Petty Sessions, on Saturday last, Repentance Adams, and Jane Wheeler, two old offenders, were sentenced to 14 days in the House of Correction, for stealing turnips from Fairlee.
 
 ```
 
@@ -207,7 +207,7 @@ A later report in the *Hampshire Advertiser* of [Saturday 15 December 1855](http
 
 > Edward Howes, the landlord of the Tontine, a notorious house in Cosham-street, was charged with...
 
-```{admonition} For stealing a pillow, three months' imprisonment, Octoboer 1852
+```{admonition} For stealing a pillow, three months' imprisonment, October 1852
 :class: dropdown
 
 [Hampshire Telegraph - Saturday 23 October 1852](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18521023/042/0008)
@@ -322,7 +322,7 @@ TO BE SOLD. BY AUCTION, By MEW & PORTER,
 
 On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Assignees of Mr. John Stean, a Bankrupt),
 
-THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport ; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
+THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport ; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
 ```
 
 Almost a decade later, in 1816, it seems that Mr. John Steane had re-established his business as a wine merchant, and was now in the process of attempting to dispose of it under his own terms:
@@ -453,7 +453,7 @@ NEWPORT, ISLE OF WIGHT
 
 To Brewers, Innkeepers, and Victuallers.— Freehold Inn and Tavern, with excellent Tap, Brewery and eight tenements.
 
-TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'olock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire fromn business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniiture, Fixtures, and the Stock of of about 200 Barrels of Strong Beer, to be taken at a valuatiom.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garraway's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
+TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'clock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire from business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniture, Fixtures, and the Stock of about 200 Barrels of Strong Beer, to be taken at a valuatiom.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garraway's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
 
 ```
 
@@ -465,7 +465,7 @@ A year later, it seems the John Steane's ill health had got the better — or th
 
 ISLE OF WIGHT
 
-Died, on Monday last, John Steane, winemerchant, in the 59th year of his age, after a long aud painful illness. 
+Died, on Monday last, John Steane, winemerchant, in the 59th year of his age, after a long and painful illness. 
 ```
 
 ```{seealso}
@@ -473,7 +473,7 @@ The will of John Steane, merchant of Carisbrooke, is available from the National
 
 ```
 
-It also seems that the 1819 auction was *not* successful, because Steane's executors were themselves trying to find a buyer for the same part of John Steane's estate in May 1820. The return is claimed as 12,000-16,000l. per annum, suggesting that the orginal attempted sale in Spring, 1819, was of these premises, and that the return had since fallen?
+It also seems that the 1819 auction was *not* successful, because Steane's executors were themselves trying to find a buyer for the same part of John Steane's estate in May 1820. The return is claimed as 12,000-16,000l. per annum, suggesting that the original attempted sale in Spring, 1819, was of these premises, and that the return had since fallen?
 
 ```{warning}
 
@@ -510,7 +510,7 @@ With an excellent and well-constructed Brewery. Seven brick-built Tenements, a l
 
 TO be SOLD by AUCTION, by Mr. Francis Pittis, on the premises, on Tuesday 24th of July, 1821, by order and under the direction of the Executors of the late Mr. John Steane.— This Valuable PROPERTY will be put up in one lot, and if not sold in one lot, will be sold in the under-mentioned lots:—
 
-In one lot will comprise,—All those capital Freehold and extensive Premises, called The TONTINE INN, situate in Pyle-street, nearly the centre of the town of Newport, with a Tap, extending into South-street; a well-construeted Brewery lately built upon the most approved plan. Seven brick-built TENEMENTS, with a large Garden, Stable, Piggery, and useful Out-buildings.
+In one lot will comprise,—All those capital Freehold and extensive Premises, called The TONTINE INN, situate in Pyle-street, nearly the centre of the town of Newport, with a Tap, extending into South-street; a well-constructed Brewery lately built upon the most approved plan. Seven brick-built TENEMENTS, with a large Garden, Stable, Piggery, and useful Out-buildings.
 
 The situation of the above is very desirable, being in front of the Corn Market, where an extensive in- and out-door trade has been carried on for many years. Cellaring for 100 hogsheads of beer. The premises are in complete repair, and the whole of the Plant in the Brewery, Fixtures, and Furniture, may be taken at valuation, optional to the purchaser. Two-thirds of the purchase may remain on mortgage.
 
@@ -538,7 +538,7 @@ Lot 9. Ditto, ditto, occupied by ————.
 
 ```
 
-The advert immediately following also anniunced the sale of fixtures and fittings from the Tontine brewery.
+The advert immediately following also announced the sale of fixtures and fittings from the Tontine brewery.
 
 ```{admonition} To Brewers, Publicans, Farmers, and others, July 1821
 :class: dropdown
@@ -548,11 +548,11 @@ NEWPORT, ISLE OF WIGHT.
 
 *To Brewers, Publicans, Farmers, and others,*
 
-TO be SOLD by AUCTION, by Mr. Francis Pittis, Wednesday tbe 25th July, 1821, and the following day,—The Entire STOCK in TRADE, Fixtures, six-motion Beer Engine, all the Brewing Utensils, four large Vats, Butts, Pipes, Hogsheads, and Half hogshead Beer Casks, Barrels of Strong Beer, Brewing Copper, the whole of the HOUSEHOLD FURNITURE, various other Effects, at the Tontine Inn & Brewery, in Newport, in the Isle of Wight.
+TO be SOLD by AUCTION, by Mr. Francis Pittis, Wednesday the 25th July, 1821, and the following day,—The Entire STOCK in TRADE, Fixtures, six-motion Beer Engine, all the Brewing Utensils, four large Vats, Butts, Pipes, Hogsheads, and Half hogshead Beer Casks, Barrels of Strong Beer, Brewing Copper, the whole of the HOUSEHOLD FURNITURE, various other Effects, at the Tontine Inn & Brewery, in Newport, in the Isle of Wight.
 
 The *Brewery* comprises an excellent five-hogshead copper furnace ; mash tub, with false bottom, 6ft. 5in. by 3ft. 6in.; beer cooler, 18ft. by 7ft. 4in.; one ditto, 14ft. by 5ft.; underback, 5ft. 6in. by 3ft. 9in. square, 10ft. by 4ft.; hop back, 5ft. 6in. by 5ft. ; capital force-pump with a large quantity of pipe; one ditto ditto, four stillions, copper pump, several oak beer stands, excellent fifty-barrel beer vats, two 37 barrel ditto, one 20 ditto, about 50 butts, pipes, hogsheads half-hogsheads, and smaller beer and spirit casks, malt mill, a capital six-motion beer engine, spirit engine, counter and fittings in the liquor shop,—about 37 barrels of Strong Beer, numerous other articles in the Brewery.
 
-Household Furniture —Dining, tea, Pembroke card, and claw tables ; mahogany and stained pier glasses, Kidderminster aud Scotch carpets, four post and field bedsteads with cotton and dimity hangings, window curtain to correspond ; goose-feather beds, bolsters, and pillows, blankets, and counterpanes ; chest of drawers, bason stands, dressing glasses, and dressing tables; a good assortment of glass, pewter quarts, pints, and half-pints spirit measures, &c. &c.
+Household Furniture —Dining, tea, Pembroke card, and claw tables ; mahogany and stained pier glasses, Kidderminster and Scotch carpets, four post and field bedsteads with cotton and dimity hangings, window curtain to correspond ; goose-feather beds, bolsters, and pillows, blankets, and counterpanes ; chest of drawers, bason stands, dressing glasses, and dressing tables; a good assortment of glass, pewter quarts, pints, and half-pints spirit measures, &c. &c.
 
 Catalogues may be had at Blue Posts, Portsmouth ; Royal Oak, Portsea; Angel, Lymington; George, Yarmouth;  Hotel, Ryde; Vine, Cowes; Bugle, Newport; and of the Auctioneer.
 
@@ -566,7 +566,7 @@ Another couple of years on, and it seems *another* of John Steane's holdings was
 [Hampshire Telegraph - Monday 23 June 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18230623/003/0001)
 
 TO BREWERS, CORN, WINE, AND SPIRIT MERCHANTS.  
-A commodious PREMISES, where the above Business has been carried on for several Years.—A Free and Good-accustsmed PUBLIC-HOUSE, now in Full Trade.
+A commodious PREMISES, where the above Business has been carried on for several Years.—A Free and Good-accustomed PUBLIC-HOUSE, now in Full Trade.
 
 NEWPORT, ISLE OF WIGHT. TO be SOLD by AUCTION, by Mr. FRANCIS PITTIS, on Monday the 23rd day of June, 1823, at the Bugle Inn,. in Newport, at five o'clock in the evening,—All that valuable and extensive FREEHOLD PREMISES, also, an excellent and Good-Accustomed FREE PUBLIC-HOUSE, known by the name of THE GRAPES INN, situate in Upper St. James'-street, in Newport, in the Parish of Carisbrooke, late in the occupation of Mr. J. Steane, decd.
 
@@ -632,7 +632,7 @@ Thomas Lynagh, a private in the 97th regiment, charged with stealing a decanter 
 :class: dropdown
 [Hampshire Advertiser - Saturday 28 June 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450628/040/0008)
 
-Newport Borough Court.— Daniel Webb, landlord of the Tontine public-house, was brought up on Monday for further examination, charged with keeping a house of ill fame, also with encouraging drunkenness and gaming on his premise. The principal witnesses were William Coggen aod George Baker, parties who were living within a few yards of the defendant's house. They entered into a description of the demoralizing scenes they had witnessed; and the Magistrates convicted him in the full penalty of 5l and 5s costs. –The defendant wa* allowed a week to pay the fine.
+Newport Borough Court.— Daniel Webb, landlord of the Tontine public-house, was brought up on Monday for further examination, charged with keeping a house of ill fame, also with encouraging drunkenness and gaming on his premise. The principal witnesses were William Coggen and George Baker, parties who were living within a few yards of the defendant's house. They entered into a description of the demoralizing scenes they had witnessed; and the Magistrates convicted him in the full penalty of 5l and 5s costs. –The defendant wa* allowed a week to pay the fine.
 ```
 
 ```{admonition} Depraved morals and indecency, 1845
@@ -1029,7 +1029,7 @@ As well as regular mentions in the court reports for particular establishments, 
 
 ```{note}
 
-Paradise Row was located between Castle Hold and Pyle Street, opposite waw used to be the Post Office, with the Old King's Arms Inn on the corner of Paradise Row and Pyle Street.
+Paradise Row was located between Castle Hold and Pyle Street, opposite which used to be the Post Office, with the Old King's Arms Inn on the corner of Paradise Row and Pyle Street.
 
 ```
 
@@ -1059,7 +1059,7 @@ The next was a dashing young Cyprian, answering to the name of Eliza Brading, wh
 
 P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
 
-Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourbood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputed common prostitue and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
+Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourbood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputed common prostitute and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
 
 Inspector Why your own father was accusing you of being a soldier's ————, and you were retorting on him that you paid the rent of the house and kept the rest of the family.
 
@@ -1429,7 +1429,7 @@ Fighting also appears to have been a problem:
 
 Borough Court
 
-Two nymphs of the pave, named Mary Ann Fry and Martha Bone, appeared before the Court in a most deplorable condition— their bonnets and dresses being torn in ribbons— charged with fighting, and otherwise disturbing the peace, on Sunday night. They were committed to Bridewell for fourteen day, as common prostitutes. 
+Two nymphs of the pave, named Mary Ann Fry and Martha Bone, appeared before the Court in a most deplorable condition— their bonnets and dresses being torn in ribbons— charged with fighting, and otherwise disturbing the peace, on Sunday night. They were committed to Bridewell for fourteen days, as common prostitutes. 
 ```
 
 ```{admonition} Diverting themselves by fighting, May 1852
@@ -1443,7 +1443,7 @@ Elegant Amusements
 
 Ellen Bull and Caroline Heal, two of our most noted nymphs of the pave, were charged with being drunk and disorderly.
 
-Inspector Grapes said that about half past eleven o'clock on Saturday night he heard a loud noise on the High-street, where found six or seven girls of the description of the prisoners, shouting at persons passing by. Half an hour afterward. he heard screeching near the Wheat Sheaf, where he found both the prisoners on the ground diverting themselves by fighting and tearing each other's clothes to pieces. There were three or four more standing looking on. They were all drunk. but Heal (who was bleeding from her face) was the worst. They were common prostitutes by profession, and were parading the serene at all hours, notwithstanding frequent warnings had been given them.
+Inspector Grapes said that about half past eleven o'clock on Saturday night he heard a loud noise on the High-street, where found six or seven girls of the description of the prisoners, shouting at persons passing by. Half an hour afterward, he heard screeching near the Wheat Sheaf, where he found both the prisoners on the ground diverting themselves by fighting and tearing each other's clothes to pieces. There were three or four more standing looking on. They were all drunk. but Heal (who was bleeding from her face) was the worst. They were common prostitutes by profession, and were parading the serene at all hours, notwithstanding frequent warnings had been given them.
 
 Prisoners had nothing to say in their defence, and Heal came the hysterical dodge, but with inconsiderable effect.
 
@@ -1557,7 +1557,7 @@ Prisoner, in defence, entered into a long account of her whereabouts on the nigh
 :class: dropdown
 [Hampshire Advertiser - Saturday 25 July 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460725/029/0006)
 
-ISLE OF WIGHT MIDSUMMER QUARTER SESSIONS. These Sessions commenced on Wednesday, before Sir Wiliam Heathcote, bart.
+ISLE OF WIGHT MIDSUMMER QUARTER SESSIONS. These Sessions commenced on Wednesday, before Sir William Heathcote, bart.
 
 Jane Lock, a prostitute, living in Cosham-street, was indicted for having, on the 11th of May, stolen a shawl, from the toll-house of Shide Gate, the property of Charles Newnham.— Acquitted.
 ```
@@ -1724,7 +1724,7 @@ Elizabeth Sterrett, a common prostitute, living in the Tontine yard, Cosham-stre
 
 Jane Lock, another of those unfortunate girls, living in the same yard as the last witness, said— I know the prisoners. I saw King on Monday night. On Tuesday morning, about half-past seven, I saw him in the Tontine yard. I was in a neighbour's house the time. When I went into my own house, I saw some things there. It was about half-an-hour before I went to my own house. I did not see King away, or what become of him. When I went up stairs I saw a blanket and pillow had been put on my bed, and when I came down stairs again and looked in the cupboard, I found some wet shirts and a sheet. The blanket and pillow were laid loose on the bed as if they belonged to the bed. I am sure they were not there when I left the house. Just after I found these things my house King came in, and I asked him if he had brought the things and put them where I found them. He said, yes. I begged him to take them away. He said he would presently. He had nothing else with him. I then went out and King followed. I went across the yard. I returned in about ten minutes and found the pillow was gone. King was then in Elizabeth Sterritt's. I went into him and asked him if he had taken the pillow. He said, yes. I said to him, I wish you would come and take the rest away. He said he was going home bye-and-bye and he would take them with him. Whilst I was talking to Mrs. Sterritt P.C. Hobbs and the picquet came up the yard. The policeman took charge of the things and carried them away. I did not see anything of Lang.
 
-P.C. Hobbs deposed to having gone with P.C. Purchase in search of the prisoner King, and to having found, at the witness Lock's house, four wet shirts, a wet sheet, and blanket, which he produced; and that he afterwards went to the barracks with Purchase, who took from Lang's foot a shoe and compared it with some footmarks in a garden adjoining the riding school, through which the prisoners must have have passed with the things to get from the barracks unseen, and which marks corresponded exactly with Lang's shoe.
+P.C. Hobbs deposed to having gone with P.C. Purchase in search of the prisoner King, and to having found, at the witness Lock's house, four wet shirts, a wet sheet, and blanket, which he produced; and that he afterwards went to the barracks with Purchase, who took from Lang's foot a shoe and compared it with some footmarks in a garden adjoining the riding school, through which the prisoners must have passed with the things to get from the barracks unseen, and which marks corresponded exactly with Lang's shoe.
 
 P.C. Purchase was next examined, and said— In consequence of information I received on Tuesday morning last, I went to the barracks and received from Sergeant Gough a list of some things that had been stolen. I then went into the riding school and through a door at the side leading into little garden, where I saw some footmarks. There was another door in the garden which led into the summer parade field. Some new buildings had been erected near the garden, and the clay from the foundation had been thrown into the garden which, being quite soft, made the footmarks very plain. There were the marks of the feet of two men in the direction of the field from the door. I got some stones and covered up some of the plainest of the tracks. I then went to the Sergeant Major and asked him if there were any men absent last night. He said, Charles was. I then came into Newport, and went into the Tontine yard with P.C. Hobbs—four soldiers came down with me. I went into the witness Sterritt's house and went up stairs, and received from her a blanket, a polka cloak, pair of boots, and a coat. She said, King had brought them there. I now produce the things. I then came down stairs and apprehended King; he was concealed in a cupboard. I told him I should take him into custody for stealing those things from the riding school. He said, then you'll take me for what I haven't done. As I was coming to the station house with him custody, I said him, how do you account for having those things in your possession? He said, I found them on the side of the road between the barracks and the toll-gate. I asked him, when ? He said, last night, just after nine o'clock, when I was going to the barracks, just after the first tattoo, I picked them and brought them into the town; I was late, and I stopped absent.
 
@@ -1912,7 +1912,7 @@ Verdict,— " The deceased was found dead, and that death was occasioned by inju
 :class: dropdown
 [Isle of Wight Observer - Saturday 16 December 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541216/008/0003)
 
-Ragged Schools.—These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
+Ragged Schools.— These schools which have for some time past been opened the evening for instructing the poor in Cosham-street, both morally and religiously, are now found to be as far increased to require another room, and have consequently removed to Sea-street. We are pleased to observe that the names upwards of 100 children are entered on the books, and we hope that the inhabitants of the town and neighbourhood will assist the Committee, pecuniary and personally, in carrying out good work.
 
 ```
 

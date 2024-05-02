@@ -2,7 +2,7 @@
 
 Following the publication of Mrs. Gaskell's characterisation of W. Carus Wilson and the Cowan's Bridge School in her *Life of Chaatlotte Bronte*, W. W. Carus Wilson, the Revd. W. Carus Wilson's son, jumped to his father's defence and provoked a good old-fashioned controversy that would play out in the letter pages of various newspapers for the next couple of months.
 
-At the beginning of April, 1857, the *Lancaster Gazette* remarked on their northern son's life away from Casterton in a report on the Revd. W. Carus WIlson's involvvment with the Soldiers' Institute in Portsmouth.
+At the beginning of April, 1857, the *Lancaster Gazette* remarked on their northern son's life away from Casterton in a report on the Revd. W. Carus Wilson's involvvment with the Soldiers' Institute in Portsmouth.
 
 ```{admonition} Our late estimable neighbour, April 1857
 :class: dropdown
@@ -102,7 +102,7 @@ Mrs. Gaskell, knowing nothing of him or the schools personally, must have ground
 
 ```
 
-She then suggests that when "Jabne Eyre" first appaear, not only did many previous pupils identify Lowood with the Cowen Bridge school, but they they wrote letters of support directly to Carus Wilson and in praise of their time there. An public letter of support is also claimed to have appeared in a Review in 1855.
+She then suggests that when "Jayne Eyre" first appeared, not only did many previous pupils identify Lowood with the Cowen Bridge school, but that they wrote letters of support directly to Carus Wilson and in praise of their time there. A public letter of support is also claimed to have appeared in a Review in 1855.
 
 ```{admonition} As I have it in my power, (cont.)
 :class: dropdown
@@ -127,7 +127,7 @@ The whole of this letter Mrs. Gaskell must have seen, as she quotes one sentence
 With the above we would take the testimony of hundreds of pupils, who with their parents have gratefully acknowledged the advantages they received at these institutions, rather than the account of one, however talented, who when but a child of nine left the establishment, and has so ungenerously cast an odium upon him who first planned such a help to our poorer clergy, and who has yearly undertaken the risk of the support of near 800 pupils and teachers ; for, including a preparatory school, there are about 150 daughters of clergymen boarded, clothed, and educated, at only £14 a-year each, including everything, and, in the "Servants' School," above 100 girls trained for service, each paying but £10 a-year. The schools are situated in Westmoreland, built on Mr. Carus Wilson's property, half-a-mile from Casterton Hall, his residence. They stand amid beautiful scenery, on high and healthy situations. They require above £1,000 a-year, in addition to the payment of the pupils, to cover all expenses.
 ```
 
-In passing, mention is made of the sickly nature of the Brotës and their envoiced vegetarian diet.
+In passing, mention is made of the sickly nature of the Brontës and their envoiced vegetarian diet.
 
 ```{admonition} they were all naturally very delicate
 :class: dropdown
@@ -343,7 +343,7 @@ A letter that appeared in the *Westmorland Gazette* of Saturday 30 May, 1857, is
 
 The version in the Times begins as follows:
 
->,Sir, -In a recent number of *The Times* prominent notice was taken of the *Life of Charlotte Bronté*, authoress of Janc Eyre, and the charges brought against the Cowen-bridge School and its founder, the Rev. W. Carus Wilson, were adopted and commented upon in your article as if they were true.
+>,Sir, -In a recent number of *The Times* prominent notice was taken of the *Life of Charlotte Bronté*, authoress of Jane Eyre, and the charges brought against the Cowen-bridge School and its founder, the Rev. W. Carus Wilson, were adopted and commented upon in your article as if they were true.
 >
 > The same sense of justice and indignation against wrong which prompted your severe remarks on the supposed cruelties of the Cowen-bridge School will, I trust, engage you to give equal publicity to the following statements on the other side.
 
@@ -496,7 +496,7 @@ On leaving school I was questioned on the subject by friends, one of whom has la
 The writer of this letter allows me to publish her name if necessary. She is one whose name would add weight to her testimony, and whose worth would be attested by high and noble witnesses. I could add abundance more of extracts, did space permit; but I hope enough has been said to throw light upon the real nature of the case. The public will their opinion both of Mr. Wilson and his assailants.
 ```
 
-As well as the main players in the debate, minor other communications also appeared. In the following example, I'm not sure where the letter from "A Lover of Trugth" can be found?
+As well as the main players in the debate, minor other communications also appeared. In the following example, I'm not sure where the letter from "A Lover of Truth" can be found?
 
 ```{admonition} A letter of support, June 1857
 :class: dropdown

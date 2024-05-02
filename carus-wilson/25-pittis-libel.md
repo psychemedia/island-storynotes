@@ -98,7 +98,7 @@ In passing, I note the very next article in the column was championing a forthco
 :class: dropdown
 [Isle of Wight Mercury - Saturday 01 March 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560301/004/0001)
 
-ST. THOMAS'S CHURCH, NEWPORT.— We have much pleasure in calling the attention of our readers to an advertisement in our columns of a grand Bazaar to be held, in August next, under the patronage of the Queen, at Carisbrooke Castle, for the purpose of augmenting the Building Fund of the new Church of St. Thomas at Newport. We are convinced our lady readers will gladly seize this opportunity of encouraging art in connection with religion, by donations to the Bazaar of those curious and highly interesting speeimens of ingenuity in needlework, crotchet. chenille, &c., &c., &c., which only ladies can fabricate. At the same time, it will be in the power of the husband, the tither, the son the brother, to devote his sympathy by contributions of boaks. paintings, or "*hard cash*."— Now this is not a local matter : it appeals to the sympathies of all who love high art. Indeed, every islander is interested in the decoration of the capital of the Island by so noble a specimen of ecclesiastical architecture, —by a structure so vividly exemplifying the pure and refined principles of a cultivated taste as the new Church of St. Thomas. Let it not be said that the Inhabitants of the Isle of Wight are insensible to the beauty of art, when devoted to its grandeat purpose—the illustration of religion.
+ST. THOMAS'S CHURCH, NEWPORT.— We have much pleasure in calling the attention of our readers to an advertisement in our columns of a grand Bazaar to be held, in August next, under the patronage of the Queen, at Carisbrooke Castle, for the purpose of augmenting the Building Fund of the new Church of St. Thomas at Newport. We are convinced our lady readers will gladly seize this opportunity of encouraging art in connection with religion, by donations to the Bazaar of those curious and highly interesting specimens of ingenuity in needlework, crotchet, chenille, &c., &c., &c., which only ladies can fabricate. At the same time, it will be in the power of the husband, the tither, the son the brother, to devote his sympathy by contributions of boaks. paintings, or "*hard cash*."— Now this is not a local matter : it appeals to the sympathies of all who love high art. Indeed, every islander is interested in the decoration of the capital of the Island by so noble a specimen of ecclesiastical architecture, —by a structure so vividly exemplifying the pure and refined principles of a cultivated taste as the new Church of St. Thomas. Let it not be said that the Inhabitants of the Isle of Wight are insensible to the beauty of art, when devoted to its grandeat purpose—the illustration of religion.
 
 ```
 
@@ -308,7 +308,7 @@ The Rev. W. Carus WILSON, M.A.,—a gentleman whose position renders impossible 
 
 ```
 
-THe editor then appeals to the readership to stand with Carus Wilson in calling out the condition of Newport, and admitting its current state, that action may be taken to address it.
+The editor then appeals to the readership to stand with Carus Wilson in calling out the condition of Newport, and admitting its current state, that action may be taken to address it.
 
 ```{admonition} Exposing a great vice and revering decnecy
 :class: dropdown

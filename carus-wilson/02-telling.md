@@ -1,34 +1,53 @@
 # Telling
 
-*There's likely a long way to go on this, figuring out a proper story structure, finding the right characters to include and anecodotes to tell. Also finding variants for different time slots: a quick 5 minute tale, an 89, a 12, a 12, a 40, an hour long show. And so on. But for now, here's a quick run throufh of some of what I remember...,*
+*There's likely a long way to go on this, figuring out a proper story structure, finding the right characters to include and anecdotes to tell. Also finding variants for different time slots: a quick 5 minute tale, an 89, a 12, a 12, a 40, an hour long show. And so on. But for now, here's a quick run through of some of what I remember...,*
 
 I'd like to tell you a story. A story I stumbled across and pieced together over a period of about six weeks earlier this year. A story that started when I stumbled across a report of a letter, a *memorial*, presented to the magistrates of Newport whilst looking through the  online British Newspaper Archive. A story of the *nursery of vice* that Newport was at the time. And a story that ended with some literary detective work, and a very public controversy that played out in the northern press.
 
 So let's set the scene.
 
-It's the 1840s. We're on the Isle of Wight. In Newport. The electric telegraph is still a few years away from reaching town, amd the railway hasn't arrived yet either. But there are gas lights illuminating some of the streets.
+It's the 1840s. We're on the Isle of Wight. In Newport. The electric telegraph is still a few years away from reaching town, and the railway hasn't arrived yet either. But there are gas lights illuminating some of the streets.
 
-In 1849, Charles Dickens had stopped over on the island, in Bonchuch; his books were as popular then as they are today, perhpas even more so. At the end of that summer of 1849, "Shirley", a Luddite tale and the new book by Currer Bell, author of the groundbreaking "Jane Eyre" a couple of years previously, is about to go to press. Speculation would surely start up again about who the real author actually was. Perhaps a few, in anticipation, had started re-reading Jane's Eyre tale, of her time in Lowood School, with its miserable food, and cold damp chill, and the typhus, and the evangelical Mr. Brocklehurst, who controlled the school as if it were some of prison camp for turning clergymen's daughters into faceless governesses.
+In 1849, Charles Dickens had stopped over on the island, in Bonchurch; his books were as popular then as they are today, perhaps even more so. At the end of that summer of 1849, "Shirley", a Luddite tale and the new book by Currer Bell, author of the groundbreaking "Jane Eyre" a couple of years previously, is about to go to press. Speculation would surely start up again about who the real author actually was. Perhaps a few, in anticipation, had started re-reading Jane's Eyre tale, of her time in Lowood School, with its miserable food, and cold damp chill, and the typhus, and the evangelical Mr. Brocklehurst, who controlled the school as if it were some of prison camp for turning clergymen's daughters into faceless governesses.
 
-So what was Newport like aroind that time?
+So what was Newport like around that time?
 
 Out on the Cowes road, just past Hunnyhill, was Albany Barracks; a little further up the road, the prison: something of an experiment, a facility for boys, something to help them become *useful* members of society, a route to an apprenticeship and a pardon, rather than transportation.
 
 In Newport town, the area around the old St Thomas' Church, between Pyle Street and South Street, or Cosham Street as it was then known, opposite what's now the bus station, that was the area that had a certain *reputation*. For sure, you could find company on the appropriately named Paradise Row, just down from the Castle Inn, on the other side of the road there.
 
-A certain Miss Eliza Brading lived thereabouts, in Paradise Row, in the mid-1840s. If you'd lived there too — and I make nc
+A certain Miss Eliza Brading lived thereabouts, in Paradise Row, in the mid-1840s. If you'd lived there too, you might well have been familiar with her... 
 
-And it wasnlt just Paradise Row that had a reputation. The area around Tontine Yard, there were plenty of places there for a drink. And plenty of places for more.
+And it wasn't just Paradise Row that had a reputation. The area around Tontine Yard, there were plenty of places there for a drink. And plenty of places for more.
 
 The streets could be lively too. Rarely was there a week when the borough court didn't have someone up on a charge of being drunk, or disorderly, shouting and singing in the streets at all hours. And the men could be just as bad.
 
 If you search through the old archives, you find some of the names coming round again and again, some of them quite quickly, some of them years apart.
 
-Take Repentance Adams, for example, "repentance" being a cognomen, a commonly used nickname, her real name being "Patience". You can't help but get the feeling that she was someone who was known around town, someone you'd recognise if you saw her, someone you'd know a story about. I first came across her in 1834, when she was charged with having stolen a bed, then next year, this time described as an "old offender" along with another woman, Jane Wheeler, she was said to be aged forty two and had been hauled up before the court for stealing turnips. A couple of years later again, she was at the centre of something of a *cause célèbre*. It seemed that someone in Newport had been stealing doormats. From all over town, doormats had been going missing. People started to set watch; the police started to patrol more. When the culprit was at last discovered, scurrying through the Newport streets with the corner of a mat visiible from underneath her apron, it was none other than old Repentance Adams. A few years further on, in the mid-1840s, she was in the papers again, the notorious doormat thief of the eighteen thirties, this time for stealing baskets. Four months hard labour she got for that. When 1850 came around, she was back before the bench on a charge of vagrancy. The last mention I saw of her, it was 1858.
+Take Repentance Adams, for example, "repentance" being a cognomen, a commonly used nickname, her real name being "Patience". You can't help but get the feeling that she was someone who was known around town, someone you'd recognise if you saw her, someone you'd know a story about. I first came across her in 1834, when she was charged with having stolen a bed, then next year, this time described as an "old offender" along with another woman, Jane Wheeler, she was said to be aged forty two and had been hauled up before the court for stealing turnips. A couple of years later again, she was at the centre of something of a *cause célèbre*. It seemed that someone in Newport had been stealing doormats. From all over town, doormats had been going missing. People started to set watch; the police started to patrol more. When the culprit was at last discovered, scurrying through the Newport streets with the corner of a mat visible from underneath her apron, it was none other than old Repentance Adams. A few years further on, in the mid-1840s, she was in the papers again, the notorious doormat thief of the eighteen thirties, this time for stealing baskets. Four months hard labour she got for that. When 1850 came around, she was back before the bench on a charge of vagrancy. The last mention I saw of her, it was 1858, when the court reports mention her as "an old woman of eighty", charged with stealing a hand kerchief bundle from an inmate of the House of Industry.
 
-TO DO
+He'd been making his way home late one afternoon when he stopped at a cottage on the bridge at the bottom of Hunny Hill, placed his bundle under the hedge outside, and let himself in through the gate. He nodded to young man Windebank working in the garden, then went up to the cottage to get a light for his pipe, had a quick chat, and made his farewell. He'd gone a short or so when he realised he'd forgotten his bundle: some tobacco, and sugar, a small piece of bacon, and to top it off, a couple of penny lard cakes. He went back for it, and.. where had it gone?
 
-The papers claimed she was in her eighties, though by my reckoning it would have been her late seventies. A regular old offender indeed.
+XXX 
+
+DO IT FROM ADAMS PERSPECTIVE
+
+"Hey", he called to the gardener, "did you see anyone going away from here with a bundle in the last few minutes or so?"
+
+Windebank, considered the matter for a moment or two...
+ chatted for a minute or two, and when he came out and looked for his bundle, it was gone. A young man working in the garden, named Windebank, swore that he saw the prisoner carry off a bundle, which he had no doubt was the one lost, although he was not then aware Harwood had just before thrown down the bundle which he saw the old woman pick up. It seems she must have had it under her shawl when Harwood spoke to her just after he left the cottage, as he passed her. Windebank had not then heard of his loss, and as soon as he did, they found out the old woman, who had, however, in the meantime, endeavoured to get rid of the spoil, somehow, and wanted to prove an alibi; but the evidence was too strong against her, and she contented herself by merely asserting she was not guilty, and was committed to Winchester Gaol for one month.
+
+ It contained 2 1/2 oz. of tobacco, 1/2 lb. of sugar, 2 penny lard cakes, and a small piece of bacon. These things were tied up in a handkerchief. After talking to the young man (Windybank) and had gone about 20 yards, I came back for my bundle and found it was gone. It was out of my sight for about 10 minutes from the time I first put it down. I saw Mrs. Adams just as I was going up the hill. She was out sight when I missed the bundle. She was going towards the town. While talking to the young man, the bundle was close to my feet. No one could have taken it while I stood there. About an hour after I lost the bundle, I went to the prisoner’s lodgings. I asked her if she had seen my bundle. She answered with an oath that she had not. I told her there was a young man who saw her take it up. She said she would face him (James Windybank). She went with me to him, and strongly denied it.
+
+James Windybank, sworn— I live at the bottom of Hunny hill. Between 4 and 5 o'clock on Tuesday last, James Harwood came to the wicket and asked me for a light. I gave it him. He stopped a few minutes and then went on. Shortly after, I saw Mrs. Adams come along towards town. I saw her stoop down between the wicket and the hedge, and pick up a handkerchief. It appeared to have something in it. I did not notice it before while Harwood was talking. She put it partly under her shawl and went off with it. I did not say anything about it, as I did not know to whom it belonged. She afterwards came to my house with Harwood. She asked if I had seen her take the handkerchief. I said Yes; but she said she did not.
+
+Prisoner, in defence— I have nothing to say, only that I am not guilty.
+
+The prisoner, preferring her fate to be determined in this court, received the sentence of one week's imprisonment at Winchester.
+
+XXX
+
+So that was Repentance Adams. A regular old offender indeed.
 
 Back in Newport, back in 1854, Francis Pittis, auctioneer, fair-minded and just, as you might hope for one of the borough magistrates, is mid-way through his second, year-long term as Mayor. And a great honour it is, too, to be Mayor at the this time, for the funds have finally been raised, and just within the five year time limit proposed, for replacing the increasingly derelict St. Thomas Church with a new Church. His Royal Highness, Prince Albert, has agreed to lay the foundation stone, and the Bishop of Winchester will preside over the ceremony too. Tickets are sold, seats are erectd, and a procession formed, the local Freemasons providing a strong showing and also taking part in the ceremony.
 
@@ -47,15 +66,15 @@ And if that might not seem as if it were much — toasting the Prince, and the B
 
 On the one hand, the message was clear: Newport was a place "lost to Christianity, and devoted to crime", a home to a *torrent of juvenile profligacy and prostitution*.
 
-There is no doubt that the streets could be described as *vibrant*. The Crimean War was in full flow, and Parkurst Barracks was used to station the troops just before they set off on th ships leaving Portsmpouth, heading off to who knew what future. Up to thirteen hundred young men at a time, barracked there; thirteen hundred new recruits, with coin in their pocket and a perhaps only a short life to live while they still had a chance.
+There is no doubt that the streets could be described as *vibrant*. The Crimean War was in full flow, and Parkurst Barracks was used to station the troops just before they set off on the ships leaving Portsmouth, heading off to who knew what future. Up to thirteen hundred young men at a time, barracked there; thirteen hundred new recruits, with coin in their pocket and a perhaps only a short life to live while they still had a chance.
 
 The Magistrates were doing what they could, but in many cases, they had no case to prosecute if no-one complained.
 
 And so it was that on New Year's day, 1856, an evangelical priest recently retired to the Island — to Ventnor — who had founded a school for Clergymen's Daughters, somewhere up North, thirty years previously, and with a track record in publishing penny publications filled with frankly harrowing Christian tales, on New Year's day, he had delivered to many of the perhaps more deserving households in Newport, a tract.
 
-*"Tempters and Tempted"* it was called. And I still haven't managed to find a copy of it. But it certainly seemed to have had an effect, becuase the very next Council meeting, the new Mayor, a Mr. Hearn, stood up to denounce it and express his anger at it.
+*"Tempters and Tempted"* it was called. And I still haven't managed to find a copy of it. But it certainly seemed to have had an effect, because the very next Council meeting, the new Mayor, a Mr. Hearn, stood up to denounce it and express his anger at it.
 
-One of the other councillors traced it's origins back to *that letter* the magistrates had received a few months before and before the meeting was out, it was decided — not quite pithforks — but that a letter be sent by the mayor to the author of the tract, to the Revd. W. Carus Wilson, of Ventor.
+One of the other councillors traced it's origins back to *that letter* the magistrates had received a few months before and before the meeting was out, it was decided — not quite pithforks — but that a letter be sent by the mayor to the author of the tract, to the Revd. W. Carus Wilson, of Ventnor.
 
 Yes. A letter. A letter. And probably a very strongly worded letter at that. Or at least, a quite strongly worded letter. Probably. But still polite. I'm guessing. Because I haven't managed to find a copy or a transcript of that, either.
 
@@ -63,59 +82,63 @@ And did that letter have the desired effect, whatever that might have been? A re
 
 Erm... nope.
 
-But it did provake *a* response, And quite quickly too. A response in the form of *another* tract, also published out of Ventnor, with the rather snappy, and social media and search engine optimised, title of *A LETTER TO THE MAYOR OF NEWPORT, in Reply to his Letter of Remonstrances regarding the Tract, entitled “Tempters and Tempted", by the Rev. W. CARUS WILSON.*.
+But it did provoke *a* response, And quite quickly too. A response in the form of *another* tract, also published out of Ventnor, with the rather snappy, and social media and search engine optimised, title of *A LETTER TO THE MAYOR OF NEWPORT, in Reply to his Letter of Remonstrances regarding the Tract, entitled “Tempters and Tempted", by the Rev. W. CARUS WILSON.*.
 
-Now, you know how things go in threes in stories? Well, that's the third thing I haven't been able to find a copy of — yet — but there are some clues as to what was in it. Something libelous, for example. Because the tract hadn't really been available for any time at all before a street seller, the rather excellently named Nobby Ducks — which may or may not have been a nickname — was hauled up before the Magistrates for selling a liebelous work. But although the police appeared to have been tipped off that it was libelous, there was no one there to actually prosecute the case, and so Nobby Ducks was released. At which point, his defense council asked for the pamphlets back or he would prosecute the Magistrates for illegally taking them. The Magistrates told him he would have to sort it out with the Police.
+Now, you know how things go in threes in stories? Well, that's the third thing I haven't been able to find a copy of — yet — but there are some clues as to what was in it. Something libelous, for example. Because the tract hadn't really been available for any time at all before a street seller, the rather excellently named Nobby Ducks — which may or may not have been a nickname — was hauled up before the Magistrates for selling a libelous work. But although the police appeared to have been tipped off that it was libelous, there was no one there to actually prosecute the case, and so Nobby Ducks was released. At which point, his defense council asked for the pamphlets back or he would prosecute the Magistrates for illegally taking them. The Magistrates told him he would have to sort it out with the Police.
 
 Despite no-one being in court that day to press the charges of libel, a case was called a few days later. By Mr. Pittis. Against the Reverend W. Carus Wilson. For it seems that the rather snappily titled, the social media and search engine optimised *LETTER TO THE MAYOR OF NEWPORT, in Reply to his Letter of Remonstrances regarding the Tract, entitled “Tempters and Tempted", by the Rev. W. CARUS WILSON* went even further than *Tempters and Tempted* had by calling out several people of the better classes, if not by name, but by implication.
 
 And as evidence of this, Mr. Pittis' defence council, who also happened to be the Town Clerk, read out in Court the sentence on page 13 that he believed identified Mr. Pittis, as *"the magistrate who presides at a dinner toasting a Bishop after the consecration of a church, and spouting about the church of our forefathers"*.
 
-Alough he didn't read the next bit. The bit where such a man is described as being ”known to be a frequenter of the brothel.". He didn't say that. But the report in one of the Hampshire newspapers did. Just so that if you *hadn't* seen the pamphlet, or didn't know what the actual libel was supposed to be, well, now you did.
+Although he didn't read the next bit. The bit where such a man is described as being ”known to be a frequenter of the brothel.". He didn't say that. But the report in one of the Hampshire newspapers did. Just so that if you *hadn't* seen the pamphlet, or didn't know what the actual libel was supposed to be, well, now you did.
 
-At this point, Carus Wilson's defence council got up to defend his clients case, the reverend gentleman himself being absent and having sent a sick note in his place. It was all purely a misunderstanding, and when he wrote the pamphlet he had no thought that could ever be interpreted as referring to Mr. Pittis, whom he had only heard honourable things about, but instead had been referring to a *type* of person. And as evidence of that, the defense council then read out a letter that Carus WIlson had sent to Mr. Pittis explaining that that sentence had been pulled from a letter that Carus Wilson had received from someone in Bristol, sympathising in general terms as a comment about the fight against immorality *in general*. And thar Carus Wilson had certainly not meant to imply anything about anyone in particular in Newport. And he was sorry.
+At this point, Carus Wilson's defence council got up to defend his clients case, the reverend gentleman himself being absent and having sent a sick note in his place. It was all purely a misunderstanding, and when he wrote the pamphlet he had no thought that could ever be interpreted as referring to Mr. Pittis, whom he had only heard honourable things about, but instead had been referring to a *type* of person. And as evidence of that, the defense council then read out a letter that Carus Wilson had sent to Mr. Pittis explaining that that sentence had been pulled from a letter that Carus Wilson had received from someone in Bristol, sympathising in general terms as a comment about the fight against immorality *in general*. And that Carus Wilson had certainly not meant to imply anything about anyone in particular in Newport. And he was sorry.
 
-At this point, the Mayor interjected and said that was all very well but Carus Wilson had also continued to the malign the town and and its inhabitants in the tract. The audience in the court duly applauded and cheered their Mayor, but Carus Wilson's lawyer said that was *not* what the current case was about and that the Mayor's interruption was completely out of order.
+At this point, the Mayor interjected and said that was all very well but Carus Wilson had also continued to the malign the town and its inhabitants in the tract. The audience in the court duly applauded and cheered their Mayor, but Carus Wilson's lawyer said that was *not* what the current case was about and that the Mayor's interruption was completely out of order.
 
-The Bench conferred and said that as they were pretty sure that Mr. Pittis would be accepting the apology, the Mayor's challenges were not directly relevent to anything the Court had heard and he would not be allowed to make any further comments, not least becuase he was also the Chief Magistrate and should know better.
+The Bench conferred and said that as they were pretty sure that Mr. Pittis would be accepting the apology, the Mayor's challenges were not directly relevant to anything the Court had heard and he would not be allowed to make any further comments, not least because he was also the Chief Magistrate and should know better.
 
 At which point we might imagine that Mr Eldridge, Pittis' council, and Mr. Pittis had a brief exchange, as the apology was accepted on behalf of Mr. Pittis, who, being a fair and just man, had not wanted to push things any further than an honourable resolution, being the good Christian that he, which is to say, Mr. Pittis, certainly was.
 
 Carus Wilson's direct engagement with Island matters seems to tail off at this point, aside from reports of the occasional sermon, fundraising for the new Church and the local schools, but that's not to say he wasn't busy.
 
-Indeed, he seems to have been spending a lot of time on the mainland, in Portsmouth and Gosport, through eighteen fifty six and seven, supporting the soldiers there. although I'm not sure how he got there? Was there a "through boat" from Ventor?!
+Indeed, he seems to have been spending a lot of time on the mainland, in Portsmouth and Gosport, through eighteen fifty six and seven, supporting the soldiers there. although I'm not sure how he got there? Was there a "through boat" from Ventnor?!
 
-Carus Wilson's interests in the moral life of soldiers seems to have started whilst dtravelling in Southern European. Previous encounters with Sardinian soldiers in Nice and French soldiers in Boulogne had resulted in a mission to provide them with Bibles and prayer books. On the Island, his initial concerns appear to have been for the morals of the tempted soldiers at Parkhust. But in Portsmouth, he saw a greater opportunity: an opportunity to *start* something.
+Carus Wilson's interests in the moral life of soldiers seems to have started whilst travelling in Southern European. Previous encounters with Sardinian soldiers in Nice and French soldiers in Boulogne had resulted in a mission to provide them with Bibles and prayer books. On the Island, his initial concerns appear to have been for the morals of the tempted soldiers at Parkhurst. But in Portsmouth, he saw a greater opportunity: an opportunity to *start* something.
 
-Just as he had been motivated three decades before to found a school to support the less well off clergymen by providing an education for their daughters for an affordable fee, in Portsmouth he championed the idea of Soldiers' Institute, a club for soldiers, similir in astyle to Mechanics Insitutes, and importantly, *away from the barracks* where the soldiers could go an relax, play games, drink coffee, consult books an newspapers in the reading room or library. And maybe even attend a few classes or two. Not *just* bible classes, but perhaps those as well.
+Just as he had been motivated three decades before to found a school to support the less well off clergymen by providing an education for their daughters for an affordable fee, in Portsmouth he championed the idea of Soldiers' Institute, a club for soldiers, similar in style to Mechanics Institutes, and importantly, *away from the barracks* where the soldiers could go and relax, play games, drink coffee, consult books and newspapers in the reading room or library. And maybe even attend a few classes or two. Not *just* bible classes, but perhaps those as well.
 
 And so it was — a building was found, money was raised by subscription, and the Soldiers' Institute was born. TO DO
 
 But still, Carus Wilson couldn't resist making a making a point though his pen.
 
-An so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote another New Year's tract — °Portsmouth in Flames° — and I *have* managed to track a copy of this one down, albeit as part of a collection of tracts published by the Ipswich Temperance Society. Which perhaps gives you a clue as to its theme.
+And so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote another New Year's tract — °Portsmouth in Flames° — and I *have* managed to track a copy of this one down, albeit as part of a collection of tracts published by the Ipswich Temperance Society. Which perhaps gives you a clue as to its theme.
 
 The flames it describes are the flames of TO DO
 
-claimed some success
+claimed some success - one brewer gave up
 
-But the response appears to have been mockery.
+But the more general response appears to have been mockery.
 
 Through 1857, Carus Wilson continued to visit Gosport, giving out bibles and prayer books; NAME,  his name occasionally appearing in the Hampshire press TO DO
 
 But in the North of England, his name was filling the local and regional press with controversy.
 
-When Currer Bell had died, and identified to one and all as Charlotte Bronte, of Haworth, TO DO
+When Currer Bell had died, and her identity revealed to one and all as Charlotte Bronte, of Haworth, TO DO
 
 
+The open chapters of janey Eyre describe a young girls' experience at Lowood (?) School, a dark, damp institution
 
+Taken to be actually autobiographical
+
+A debate raged in the correspondence columns of the northern press for several weeks between husband of Charlotte Bronte and Carus Wilsons's son. TO DO
 
 
 And there we have it. In ?? 1859, publisher died, then Ann, at their home in Ventnor then as so often happens etc the Revd. W. Carus Wilson, six weeks later in London.
 
 daughter carried on the letters, the school continued, and the Soldiers' Institute struggled on.
 
-In Newport, the ladies of the pave continued to ply their trade, the PUBS et etc.
+In Newport, the ladies of the pave continued to ply their trade, the PUBS etc.
 
 Final story.
 

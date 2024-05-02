@@ -101,7 +101,7 @@ NEWPORT, SATURDAY, January 3. The Newport Gas Company.— The brilliancy of the 
 
 ```
 
-THe age of electric communication was still a few years away, however. The "electric telegraph" was not to connect Newport with Cowes, and presumably the wider world, until 1859.
+The age of electric communication was still a few years away, however. The "electric telegraph" was not to connect Newport with Cowes, and presumably the wider world, until 1859.
 
 ```{admonition} The rest of the civilised world, September 1859
 :class: seealso dropdown
@@ -410,11 +410,11 @@ In defence, Capt. Middleton said, — As far as I remember, about half-past 11 o
 
 Capt. Massey was then sworn, and said, —I was with Capt. Middleton. We were walking on the road towards Carisbrooke in company with two women. When we got to the end of the street we left them there and came back. As we got near a lane, I believe they call it Paradise-row, we heard a great noise, and learning there were two other officers out —two small men— we went up to see if they were there amongst the crowd. On reaching the crowd, one of the girls said, this man, Bagwell, I believe is his name, had struck her; upon which Capt. Middleton said to him you are not Englishman, you are a ———— coward. Bagwell took off his coat and said, do you mean to say I am a coward ? Capt. Middleton said, I don't mean to say that you are a coward, but if you struck a woman you are one. One of the men in the crowd called out, at him Bill, or some other name, I don't exactly remember the name. Capt. Middleton gave me his stick, and said to the man, now strike me if you dare. He said, hold my stick Massey and leave him to me. To the best of my belief the man struck him somewhere about the shoulder, but there was such crowd I could not tell exactly where he struck him or whether he struck him at all, but he struck at him. Capt. Middleton then knocked him down with his fist. I am certain Capt Middleton did not strike him with a stick at all, for I held his stick all the time, I consider the man has been guilty of perjury.
 
-By Capt. Middlcton: I saw a dog there, and I saw the complainant endeavour to set the dog at you.
+By Capt. Middleton: I saw a dog there, and I saw the complainant endeavour to set the dog at you.
 
 Cross-examined by Bagwell: Captain Middleton gave me his stick. You were not struck with a stick by Capt. Middleton at all. Capt. Middleton did not take any sharp instrument out of his pocket to touch your side with. You took off your coat.
 
-P.C. Stubbs said, I was on duty in the High-street and heard a great noise in Paradise-row, I went there and saw a great crowd of persons, Capt. Middleton was coming away from the crowd, Henry Morris was on the ground and some gentlemen were beating him with sticks, Bagwell was also on the ground on his back;, Capt. Middleton had no stick in his hand when he came out from the crowd, I took hold of his arm and if he had had a stick I must have seen it; when Bagwell was lying on the ground he had neither a coat or waistcoat on, had only his shirt above his trowsers and that was partly blue and partly white.
+P.C. Stubbs said, I was on duty in the High-street and heard a great noise in Paradise-row, I went there and saw a great crowd of persons, Capt. Middleton was coming away from the crowd, Henry Morris was on the ground and some gentlemen were beating him with sticks, Bagwell was also on the ground on his back; Capt. Middleton had no stick in his hand when he came out from the crowd, I took hold of his arm and if he had had a stick I must have seen it; when Bagwell was lying on the ground he had neither a coat or waistcoat on, had only his shirt above his trowsers and that was partly blue and partly white.
 
 On hearing this, the magistrates said they could not give credit to one word that Bagwell had spoken, and immediately dismissed the case.
 

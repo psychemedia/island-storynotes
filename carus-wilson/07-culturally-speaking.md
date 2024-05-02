@@ -6,7 +6,7 @@ Dickens was resident on the Island, in Bonchurch, during the summer of 1849, and
 
 At the end of that summer, in the last week of September, "Shirley", a new book from Currer Bell, the author of "Jane Eyre" a couple of years earlier, was announced, for publication later on in October.
 
-Currer Bell's groundbreaking novel "Jane Eyre" was first published in 1847, but I've foind no contemporary links of them having visited the Island.
+Currer Bell's groundbreaking novel "Jane Eyre" was first published in 1847, but I've found no contemporary links of them having visited the Island.
 
 Reading through some early reviews of *Jane Eyre*, the lead character's early life in the less than pleasant Lowood School, with its poor fare and micro-management by a controlling clergyman, Mr. Brocklehurst, seems to attract the attention of several of the literary critics.
 

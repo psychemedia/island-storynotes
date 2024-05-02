@@ -1,10 +1,10 @@
 # Supporting the Troops
 
-Whilst the public battle over his reputation was being fought in the public press by his son, during the secind quarter of 1857, the Revd. W. Carus seems to have contined to support the Soldiers' Institure, as well the soldiers barracked in Gosport, the families of soldier serving overseas, and, by means of a regular correspondence, those soldiers sent recently to India.
+Whilst the public battle over his reputation was being fought in the public press by his son, during the second quarter of 1857, the Revd. W. Carus seems to have continued to support the Soldiers' Institute, as well the soldiers barracked in Gosport, the families of soldier serving overseas, and, by means of a regular correspondence, those soldiers sent recently to India.
 
 ## The Soldiers' Institute, One Year On
 
-The first annual report od the Soldiers' Institute, in March 1857, describes some of its successes.
+The first annual report of the Soldiers' Institute, in March 1857, describes some of its successes.
 
 ```{admonition} The report of the Committee, March 1857
 :class: dropdown
@@ -142,7 +142,7 @@ In passing, from this first annual report of the Portsea Island Young Men's Chri
 
 PORTSEA ISLAND YOUNG MEN'S CHRISTIAN ASSOCIATION
 
-The first annual meeting of this association was held on Tuesday evening at the Queen's-rooms, Portsea, Rev. J. Knapp, president, in the chair. THe attendance of members and their friends was very large.
+The first annual meeting of this association was held on Tuesday evening at the Queen's-rooms, Portsea, Rev. J. Knapp, president, in the chair. The attendance of members and their friends was very large.
 
 ...
 
@@ -213,7 +213,7 @@ A report from later in the year describes the means by which the serving men wer
 
 Gosport
 
-The non-commissioned officers and men of the Royal Marines were on Friday last each presented with a handsome bible and prayer-book, at the barracks, at Forton. We are told it was a joint gift of the Admiralty and the Rev. Carus W. Wilson M.A., the reverend gentleman attending at the distribution, and writing the name of each recipient in one book, while the, Adjutant of the dividsion wrote the man's name in the other.Abve 500 bibles and prayer-books will have thus been distributed. The Rev. Carus Wilson has, from the kind interest he at all times manifests in the welfare of the Royal Marines, become a great favourite with them, and this will, no doubt, increase his popularity.
+The non-commissioned officers and men of the Royal Marines were on Friday last each presented with a handsome bible and prayer-book, at the barracks, at Forton. We are told it was a joint gift of the Admiralty and the Rev. Carus W. Wilson M.A., the reverend gentleman attending at the distribution, and writing the name of each recipient in one book, while the, Adjutant of the division wrote the man's name in the other.Abve 500 bibles and prayer-books will have thus been distributed. The Rev. Carus Wilson has, from the kind interest he at all times manifests in the welfare of the Royal Marines, become a great favourite with them, and this will, no doubt, increase his popularity.
 ```
 
 As well as the bible and prayer books, Carus Wilson also wrote to soldiers serving in India.
@@ -221,7 +221,6 @@ As well as the bible and prayer books, Carus Wilson also wrote to soldiers servi
 ```{admonition} A correspondence begins, *Memoir*, 1860
 :class: dropdown
 *[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860
-
 
 These efforts for the spiritual good of the soldiers, and the numerous individual acquaintances which Mr. Carus-Wilson was led to make among the men, opened a new and most important field of labour. The interest he had felt in his humble friends at Portsmouth did not cease when they more than ever needed his counsels and prayers amidst the din and dangers of the Indian mutiny. He followed them with his letters, and with little tracts written expressly for their benefit, which were sent over by tens of thousands, to be forwarded to all the regiments on service in Bengal and North-west India. In this way a correspondence was set on foot with about two hundred men, in different regiments, to each of whom Mr. Carus-Wilson regularly wrote every month. The letters received in reply were often such as to fill his heart to overflowing with joy and praise. Many of the poor fellows he had befriended and counselled looked upon him as their spiritual father ; and, while tasting in their own souls the power and sweetness of the grace of God, they delighted in recounting to him the signs of a saving change among their comrades, and of their progress and growth in grace.
 ```
@@ -237,7 +236,6 @@ GOSPORT. On Sunday last two sermons were preached by the Rev. W. Carus Wilson, M
 On Monday evening last the Gosport Auxiliary to the British and Foreign Bible Society held its annual meeting the Town Hall, when the chair was taken by the Rev. W. Carus Wilson, M.A., and T. Johnstone Bourne, Esq. one of the society's domestic agents, attended as a deputation. Several reverend gentlemen surrounded the chairman, and many of them, together with the chairman, addressed the meeting, which was more numerous than has been known in this town before. The room was tastefully decorated with flags and literally crowded with auditors, all of whom appeared highly gratified. The meeting was kept up with spirit till 10 o'clock. The collection was liberal.
 ```
 
-
 ## Supporting Soldiers' Wives and Families
 
 Carus Wilson's support for, and interest in, the lives of the wives and families of the soldiers was also evident.
@@ -252,7 +250,7 @@ Sir, —You will, I am sure, readily make your columns available for the purpose
 
 I know of heart-rending cases in Portsmouth at this moment, e.g. a sergeant's wife, with seven children, the youngest just born; two other tidy, respectable women, with four children each, at a loss what to do or where to go, but most anxious for any kind of work, the babe of one at the breast evidently pining for want of necessary nourishment.
 
-At all events, let us cheer our poor soldiers under the heavy anxieties which press upon them, on account of those they have left behind, by letting them see that we are doing all we can to supply their lack:
+At all events, let us cheer our poor soldiers under the heavy anxieties which press upon them, on account of those they have left behind, by letting them see that we are doing all we can to supply their lack.
 
 I do hope that a committee will be formed in Portsmouth to prosecute this work without delay. I am thankful to know that it is contemplated to take up houses, and arrange them for the families at a trifling rent, a plan which has answered admirably for the soldiers families at Parkhurst.
 
