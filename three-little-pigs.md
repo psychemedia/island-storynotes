@@ -880,7 +880,7 @@ Mr Francis : Ah, these are highly-educated dogs.
 
 Mr Francis, in his address, asked the Bench to believe that the defendant was the last man in the world who would set to work maliciously to injure two small pigs. The pigs had been found in the shrubbery, as they had been many times before, and what could be done but use a dog? The contrariety of the animals was proverbial, and it was as natural to use a dog as to the case of finding a man in one's house, to apply a motive power behind. The dog had always conducted himself in a proper manner with respect to the pigs, until this time, which was the turning point in his history; and therefore how was the defendant to know that the dog would behave in the manner he did ?
 
-The Bench, after retiring, gave their decision. They considered the defendant to be liable for the acts of his dog, aud would therefore inflict a penalty of 6d upon him, with £1 8s costs; but the conviction and penalty were merely nominal, as they exonerated him from the slightest imputation of cruelty.
+The Bench, after retiring, gave their decision. They considered the defendant to be liable for the acts of his dog, and would therefore inflict a penalty of 6d upon him, with £1 8s costs; but the conviction and penalty were merely nominal, as they exonerated him from the slightest imputation of cruelty.
 
 ```
 

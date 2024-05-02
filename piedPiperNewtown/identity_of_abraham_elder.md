@@ -28,7 +28,7 @@ That letter, which appeared on Saturday 16 December 1893, was answered a week la
 
 > ABRAHAM ELDER.
 >
-> To the Editor of of Wight County Press. Sir,
+> To the Editor, Isle of Wight County Press. Sir,
 >
 > In reply to the inquiry of your correspondent R.G.D., I can state that author of the "Tales and Legends of the Isle of Wight" was the late Hon. Augustus Moreton, M.P. for Gloucestershire, who wrote the book under the name of Abraham Elder when living with his uncle, Col. Moreton, about that time at Bembridge. —Yours truly. W.W. Osbourne, Bembridge, IW., Dec. 21. 1893
 

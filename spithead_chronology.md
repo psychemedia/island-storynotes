@@ -38,7 +38,7 @@ Morning of Thurs 20th, suggested that some of less mutinous ships be moved round
 
 Discipline: one man smuggling liquor given 12 lashes and ducked in sea three times.
 
-The fleet seemed happy with the offer, but would do what the Queen Charlotte committee said...Gardner, wondering what delay was in delegates returning to his ship on Friday 21st, went on board the Queen Charlotte, but had to wait because the Queen Charlotte and Royal George delegates were ashore. The decision they eventually returned, influenced by those four, was the need for a King's pardon with a royal seal. Gardner blew up, said he'd have th men hung along with every fifth man in the fleet. Pole and Gardner returned ashore to tell the Board, who had letters of pardon available, but these were now worth nothing without the King's proclamation.
+The fleet seemed happy with the offer, but would do what the Queen Charlotte committee said...Gardner, wondering what delay was in delegates returning to his ship on Friday 21st, went on board the Queen Charlotte, but had to wait because the Queen Charlotte and Royal George delegates were ashore. The decision they eventually returned, influenced by those four, was the need for a King's pardon with a royal seal. Gardner blew up, said he'd have the men hung along with every fifth man in the fleet. Pole and Gardner returned ashore to tell the Board, who had letters of pardon available, but these were now worth nothing without the King's proclamation.
 
 A red flag went up at Royal George to summon a delegates meeting, and committee decided to mount guns and prepare a defence.
 
@@ -84,7 +84,7 @@ Howe read the proclamation aboard the Royal George, displayed the Royal Seal, an
 
 Bridport had orders to sail to Brest, but the celebrations delayed things; eventually, final preparations could be mde on the 16th and Bridport could sail on the 17th.
 
-NB Pompee rturned to Portsmouth on June 16th; two days before discoverd that 80 men anted to mutiny and sail the ship into Brest and desert to th French side. Six ringleaders were brought home to be court-martialled.
+NB Pompee rturned to Portsmouth on June 16th; two days before discoverd that 80 men anted to mutiny and sail the ship into Brest and desert to the French side. Six ringleaders were brought home to be court-martialled.
 
 
 the nore... but that is another story for another day

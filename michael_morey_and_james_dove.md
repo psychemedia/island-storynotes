@@ -17,7 +17,7 @@ The gruesome end is captured in a local playground rhyme:
 > He is hung on Arreton Down  
 > For rooks and ravens to peck down.
 
-The original statute regarding hanging in chains was integrated into the "modern" statute book by way of of the *Offences against the Person Act 1828*
+The original statute regarding hanging in chains was integrated into the "modern" statute book by way of the *Offences against the Person Act 1828*
 
 ```{admonition} Offences against the Person Act 1828
 :class: dropdown
@@ -37,7 +37,7 @@ The practice of hanging in chains was repealed in 1834:
 ```{admonition} An Act to Abolish the Practice of hanging Bodies of Criminals in Chains, 1834
 :class: dropdown
 
-In [*A Collection of the Public General Statues Passed in th Fourth and Fifth Year of the Reign of His Majestoy King William the Fourth, 1834*](https://archive.org/details/acollectionpubl05britgoog/page/n168/mode/2up?q=executed), p142.*
+In [*A Collection of the Public General Statues Passed in the Fourth and Fifth Year of the Reign of His Majestoy King William the Fourth, 1834*](https://archive.org/details/acollectionpubl05britgoog/page/n168/mode/2up?q=executed), p142.*
 
 4 & 5 W IV. Bodies of Criminals Cap. 26
 
