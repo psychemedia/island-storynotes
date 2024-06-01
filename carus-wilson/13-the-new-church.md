@@ -522,9 +522,7 @@ The Bishop of Winchester accepted the toast to him with thanks, and a game of pr
 
 In passing the Mayor noted that:
 
-> In the first place there was a strong feeling that the church should be renovated, but this being found impossible, they then set themselves to the work of erecting a new building, and they pledged themselves, collecting subscriptions from year to year, to commence the building within a period of five years. They had to fight a great battle to get together their funds, and had carried out their intention at the expiration of the fifth year of their labours
-
-and commended those responsible for "raising between £7000 and £8000" to support the cause.
+> In the first place there was a strong feeling that the church should be renovated, but this being found impossible, they then set themselves to the work of erecting a new building, and they pledged themselves, collecting subscriptions from year to year, to commence the building within a period of five years. They had to fight a great battle to get together their funds, and had carried out their intention at the expiration of the fifth year of their labours and commended those responsible for "raising between £7000 and £8000" to support the cause.
 
 The "separation of Newport from the united parishes of Carisbrooke and Northwood" into its own parish was also announced to great cheers.
 

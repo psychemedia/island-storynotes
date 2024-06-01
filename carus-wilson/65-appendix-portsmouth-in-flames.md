@@ -23,11 +23,9 @@ EZEK. xxxiii. 11.
 
 "A brand plucked out of the fire."- ZECH. iii. 2.
 
-"I never see a licence to sell spirits, without thinking it is a licence
-to ruin souls."-R. M. M'CHEYNE.
+"I never see a licence to sell spirits, without thinking it is a licence to ruin souls."-R. M. M'CHEYNE.
 
-Societies may receive Twenty-four Sixpenny Packets of Tracts and Hand-
-Bills in any part of London, by a Post-Office Order for 10s. 6d., or Fifty Packets for 21s., being sent to Richard Dykes Alexander, Ipswich, who will send, Free of Postage, Tracts at Retail Prices.  
+Societies may receive Twenty-four Sixpenny Packets of Tracts and Hand-Bills in any part of London, by a Post-Office Order for 10s. 6d., or Fifty Packets for 21s., being sent to Richard Dykes Alexander, Ipswich, who will send, Free of Postage, Tracts at Retail Prices.  
 J. M. BURTON AND CO., STEREOTYPERS AND PRINTERS, IPSWICH.
 
 PORTSMOUTH IN FLAMES!!!

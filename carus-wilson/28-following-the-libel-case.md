@@ -145,7 +145,7 @@ John Love, aged 20, soldier, for assaulting Caroline Pierce, at Newport.— Nine
 
 In the following report, Caroline Pierce is in Court as a prosecutrix. The double trial of the accused offers the potential for an amusing anecdote.
 
-```{admonition} The loss of a shawl, a brroch and a locket, March 1862
+```{admonition} The loss of a shawl, a brooch and a locket, March 1862
 :class: dropdown
 [Hampshire Telegraph - Saturday 01 March 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18620301/016/0005)
 

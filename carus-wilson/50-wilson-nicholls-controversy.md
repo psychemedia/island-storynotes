@@ -1,6 +1,6 @@
 # A Public Controversy Plays Out
 
-Following the publication of Mrs. Gaskell's characterisation of W. Carus Wilson and the Cowan's Bridge School in her *Life of Chaatlotte Bronte*, W. W. Carus Wilson, the Revd. W. Carus Wilson's son, jumped to his father's defence and provoked a good old-fashioned controversy that would play out in the letter pages of various newspapers for the next couple of months.
+Following the publication of Mrs. Gaskell's characterisation of W. Carus Wilson and the Cowan's Bridge School in her *Life of Charlotte Bronte*, W. W. Carus Wilson, the Revd. W. Carus Wilson's son, jumped to his father's defence and provoked a good old-fashioned controversy that would play out in the letter pages of various newspapers for the next couple of months.
 
 At the beginning of April, 1857, the *Lancaster Gazette* remarked on their northern son's life away from Casterton in a report on the Revd. W. Carus Wilson's involvvment with the Soldiers' Institute in Portsmouth.
 
@@ -10,13 +10,13 @@ At the beginning of April, 1857, the *Lancaster Gazette* remarked on their north
 
 THE REV. W. CARUS WILSON
 
-Our late estimable neighbour, the Bey. W. Carus Wilson, is obliged by the delicate state of his health to seek the climate of a warmer region than our own in the north, but whilst absent from the paternal hall at Casterton, the rev. gentleman, in spite of his bodily ailments, finds time and strength to put out his talent to interest, and as usual to be going about doing good. Whilst sojourning in Piedmont Mr. Carus Wilson was ever actively employed in the cause of Christian truth and Christian liberty, and having returned from the continent, he is now, we find, a resident in the neighbourhood of Portsmouth, where it seems a wide field for the exercise of his philanthropy soon opened itself up. His active mind discovered that the routine of the private soldier's life required looking after — that to prevent him from exchanging the listlessness of the barrack room for the debauchery of the canteen, some third-retreat must be offered to him for the occupation of his leisure hours. A library of amusing publications sug- gested itself, and mainly by the rev. gentleman's efforts a Soldiers' Institute baa been established in Portsmouth garrison. We find in a Portsmouth paper the following report of the first annual meeting : 
+Our late estimable neighbour, the Rev. W. Carus Wilson, is obliged by the delicate state of his health to seek the climate of a warmer region than our own in the north, but whilst absent from the paternal hall at Casterton, the rev. gentleman, in spite of his bodily ailments, finds time and strength to put out his talent to interest, and as usual to be going about doing good. Whilst sojourning in Piedmont Mr. Carus Wilson was ever actively employed in the cause of Christian truth and Christian liberty, and having returned from the continent, he is now, we find, a resident in the neighbourhood of Portsmouth, where it seems a wide field for the exercise of his philanthropy soon opened itself up. His active mind discovered that the routine of the private soldier's life required looking after — that to prevent him from exchanging the listlessness of the barrack room for the debauchery of the canteen, some third-retreat must be offered to him for the occupation of his leisure hours. A library of amusing publications suggested itself, and mainly by the rev. gentleman's efforts a Soldiers' Institute has been established in Portsmouth garrison. We find in a Portsmouth paper the following report of the first annual meeting : 
 
 `[First annual report of the Soldiers' Institute then follows.]`
 
 ```
 
-But by the end of April, W. Carus Wilson's name would be appear frequently in the norther papers for another reason.
+But by the end of April, W. Carus Wilson's name would be appear frequently in the northern papers for another reason.
 
 ## An Initial Response to the Charges Against the Cowan Bridge School
 
@@ -473,7 +473,7 @@ The version in the *Leeds Intelligencer* of Saturday 06 June 1857 is immediately
 
 This is turn is followed directly on the page by a fragment of the Henry Shepheard letter that appeared in *The Times* and that was reporinted in the *Westmoreland Gazette*.
 
-```{admonition} Charlotte Bronte's own account of Cowanbridge is not to be trusted, June 1857
+```{admonition} Charlotte Bronte's own account of Cowan-bridge is not to be trusted, June 1857
 :class: dropdown
 [Leeds Intelligencer - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570606/071/0010)
 
@@ -524,7 +524,7 @@ A few days later, a widely syndicated note remarks that the Rev. W Carus Wilson 
 We observe the Rev. W. Carus Wilson has published a "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School." The pamphlet contains, among other matter, the letter which have appeared in the *Examiner and Times* from the pens of Mr, Wilson, Mr. Nicholls, and Mr. Shepherd.
 ```
 
-A second pamphlet, signed on by Mr. Shepheard, also collates much of the material that appeared in the newspaper correspondence, as well as copies of several letters in support of the school.
+A second pamphlet, signed by Mr. Shepheard, also collates much of the material that appeared in the newspaper correspondence, as well as copies of several letters in support of the school.
 
 ```{admonition} A Vindication ..., June 16th, 1857
 :class: seealso
@@ -546,7 +546,7 @@ THE CHARLOTTE BRONTE CONTROVERSY:—
 
 To the Editor of the Examiner and Times.
 
-Sir,— In answer to the most just suggestion of "A Railway Auditor", I may, perhaps, be permitted to say, the in a correspondence I have had with Mrs. Gaskell, I have found her most willing to rectify the injury she hes done my father sad his institutions; and her third edition will be a work I believe which none can cavil at, but all extol. I gladly do her this justice in saying that I am sure she is only anxious to elicit truth. In her "Life" your readers will remember that "Mellany Hayne" is mentioned as the "great friend' of C. Bronte, at Cowan Bridge. Her brother, Mr. Haynes*, the incumbent of Sydenham, and his wife, say that they never heard their sister, who is now in Nova Scotia, speak otherwise than in the highest terms of the school and my father. Then the "Miss Temple," so eulogised in "Jane Eyre," by C. Bronte, died last year, but her husband, a clergyman, thus writes: "Often have I heard my late dear wife speak of her sojourn at Cowan Bridge, always in admiration of Mr. Carus Wilson's parental kindness to the pupils and their Love for him,—of the food and general treatment of the children in terms of approvaL I have heard her allude to some unfortunate cook, who used sometimes to spoil the porridge, but who, she said, was very soon dismissed."
+Sir,— In answer to the most just suggestion of "A Railway Auditor", I may, perhaps, be permitted to say, the in a correspondence I have had with Mrs. Gaskell, I have found her most willing to rectify the injury she has done my father and his institutions; and her third edition will be a work I believe which none can cavil at, but all extol. I gladly do her this justice in saying that I am sure she is only anxious to elicit truth. In her "Life" your readers will remember that "Mellany Hayne" is mentioned as the "great friend' of C. Bronte, at Cowan Bridge. Her brother, Mr. Haynes*, the incumbent of Sydenham, and his wife, say that they never heard their sister, who is now in Nova Scotia, speak otherwise than in the highest terms of the school and my father. Then the "Miss Temple," so eulogised in "Jane Eyre," by C. Bronte, died last year, but her husband, a clergyman, thus writes: "Often have I heard my late dear wife speak of her sojourn at Cowan Bridge, always in admiration of Mr. Carus Wilson's parental kindness to the pupils and their Love for him,—of the food and general treatment of the children in terms of approvaL I have heard her allude to some unfortunate cook, who used sometimes to spoil the porridge, but who, she said, was very soon dismissed."
 
 I think the whole of this controversy is solved in the above testimony. I may add, shortly after C. Bronte had been at Cowan Bridge, the late Bishop of London visited the school, with Mrs. Blomfield; and after an examination of the classes, and a careful inspection of the whole establishment, observed to mu father, " That if it should please God to deprive his daughters their parents he no institution where he could more desire them to be placed."
 
@@ -569,7 +569,7 @@ We see that Smith, Elder, and Co., have advertised the above as now ready. We tr
 
 "When I find that in my own case scarcely one of Miss Bronte’s statements about me is altogether true, I cannot be surprised at her biographer having misled in other cases."
 
-Mrs. Gaskell's task has doubtless been a difficult one, and C. Bronte’s system of exaggeration made it the more so. In the *Edinburgh Review*, for last July, the following sentence occurs:—
+Mrs. Gaskell's task has doubtless been a difficult one, and C. Bronte's system of exaggeration made it the more so. In the *Edinburgh Review*, for last July, the following sentence occurs:—
 
 The observations are addressed to the misrepresentations and exaggerations of modern novelties, who in their descriptions of public institutions have not always respected the domain of private charity. The description of Lowwood, in "Jane Eyre" is evidently the result of a morbid impression on the mind of a highly sensitive child of nine, but it is due the estimable persons who were connected with it to state that the frightful charges brought against it by C. Bronte are denied; and the charitable designs of its founder have not been perverted in the way she has led her readers to believe. Again, we are assured persons who received their education at the school in Brussels, that nothing can be more unjust than the aspersions she has thrown in ' Villette’ on that establishment, and the excellent persons who managed it. If the habits of social intercourse, if personal peculiarities, and even the arrangements of charitable institutions are to be exhibited to the world in the colors of an auto-de-fé, the novelists will become a pest to society, and will degrade their talents as some have done to the service of malignant passions, calumny, and falsehood."
 
