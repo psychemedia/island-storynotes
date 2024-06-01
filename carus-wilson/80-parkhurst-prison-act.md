@@ -8,7 +8,44 @@ https://archive.org/details/acollectionpubl19britgoog/page/n556/mode/2up
 See: Parkhurst Prison Act, 1838,1 & 2 Vict., ch. 82
 
 ---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18430415/018/0003
 
+Hampshire Advertiser - Saturday 15 April 1843
+
+NEWPORT, APRIL 15. Convict Dicipline. — In compliance with a return moved for in the House of Commons, for copies of correspondence on the subject of convict discipline, the following letter was laid on the table, addresssed by Sir James Graham to tbe Committee of Visitors of Parkhurst Prison —
+
+"My Lords and Gentlemen — I am anxious to bring under your notice the copy of a despatch addressed by Lord Stanley to the Lieutenant Governor of Van Diemen's Land, because it contains the announcement of a scheme of convict discipline in the penal colony, which is intimately connected with the future management of the prison placed under your control.
+
+"You will observe, that henceforth the convicts undergoing the sentence of transportation will be divided into three classes :—
+
+"First. The probationary gangs, who will be subject to hard labor without wages, under strict coercion ana every penal privation consistent with health.
+
+"Second. Those to whom probation passes will be granted, which will entitle them to work for hire: under certain restraints gradually diminishing, and for wages progressively increasing in proportion as their character for good conduct is established, and as they recede from crime, and advance in habits of industry and virtue.
+
+"Third. Those who obtain tickets of leave, which, except the restraint of living within the penal colony, the constant survey of tbe controller of convicts, and the pain of forfeiture in case of misconduct, may be considered equivalent to a pardon, and to the restoration to liberty.
+
+"This is the division with respect to adults.
+
+"It is the intention of the Government to extend this same division to Juvenile convicts, except, that instead of the first class, which in the case of adults is termed the probationary gang, the youths will be sent to Point Puer, where the most rigid discipline, combined with forced labor and instruction, is severely maintained, to an extent which amounts to hardship and to unremitted punishment.
+
+"Every boy who enters Parkhurst is doomed to be transported, and this part of the sentence passed on him is immutable.
+
+"He must bid a long farewell to the hopes of revisiting his native home, of seeing his parents, or of rejoining his companions. These are tbe hopes and pleasure, which his crimes have forfeited ; but he should be made to understand that his future prospects in life entirely depend on his conduct at Parkhurst.
+
+"Within a few days after his first arrival in the prison, when his character has been in some degree ascertained, it will be the duty of tbe governor to open to him a distinct view of his new position. He should be informed that his transportation to a distant colony is certain : that to prepare him for his great change immediate instruction is provided ; that he will have full means of acquiring the saving knowledge of the religious and moral truths which may reclaim him from vice, and lead him to virtue — that he will have an opportunity of learning various handicrafts, which, in the distant country where he is going, will enable him to earn an honest livelihood, and to acquire even independant comfort— but that everything depends on his own conduct and exertions in the prison, where he must remain not less than two years, nor more than three— that at tbe expiration of that time his doom will be fixed according to his merits— if he has done well, and if on tbe whole his attainments and conduct are good, he will on landing in Van Diemen's Land, receive a ticket of leave, and virtually be pardoned— if his conduct be different, he will receive, on landing, a probationary pass, which is far short of freedom, and retains the character and many of the pains of punishment— if his conduct be bad, he will be sent to Point Puer, where every hardship and degradation awaits him, and where his sufferings will be severe.
+
+"He should also be informed that if he be intractable or incorrigible he will be instantly dismissed from Parkhurst, and transported to Paint Puer by tha first ship which sails. These are the hopes and fears, the rewards and punishments, which should be brought to operate on the youthful mind of the convict from the first hour of his entrance into Parkhurst until the day of his departure.
+
+"I will not dwell on the scheme of instruction or the system of moral and religious training which are now established ln this prison under your care. Experience mar suggest gradual improvements. I do not desire to effect a change, but I am anxious to call to your aid the advantages which this amended scheme of convict discipline in the colony presents, and to place in your hands this powerful instrument by which the timid may be encouraged, and the hardened may be subdued : which will stimulate the indolent to exertion, and which may bring back the outcast to repentance.
+
+"I rely on your discretion ln the application of these additional means, which will make you the masters of the future fate of these unhappy children. They are generally the victims of gross neglect and of ignorance ; under your superintendence they will be well instructed and trained to industry and useful knowledge. Let neither caprice, nor prejudice, nor favour interfere with a just estimate of their respective characters ; and let the decision on the lot which shall await each convict on his arrival in the penal colony be strictly impartial.
+
+"For this purpose it will be necessary to use caution in receiving reports from those who are placed In authority over them; and prudence will dictate tbe establishment of checks which may counteract hasty conclusions, and the effect of undue prepositions.
+
+" I will not dilate on these details; the extent of the trust confided to you will inspire care; and I rest satisfied in the conviction that you will exercise this new power with sound judgment and discretion —  I have, &c.,  
+(Signed) J. R. G. GRAHAM."
+
+---
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18380509/022/0002
