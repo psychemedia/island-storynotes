@@ -128,6 +128,34 @@ The prisoner, preferring her fate to be determined in this court, received the s
 
 ## A License to Misbehave?
 
+Perhaps not surprisingly, any consideration of the more colourful aspects of life in Newport on the public houses requires some familiarity with the public houses of the town.
+
+The following advert from 1847 gives a sense of the layout of such establishments.
+
+```{admonition} Free Public House, to Let, February, 1847
+:class: dropdown
+[Hampshire Advertiser - Saturday 27 February 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470227/002/0008)
+
+FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if required, in a first-rate situation, beingttn the centre of tbe Town of Newport, wheie toe Cattle Market is beld. The House is convenient, with capital spirit shop, 2 parlours, large club-room, sitting-room, with 9 good bed-rooms, tap, kitchen, cel- lar, Sec. The above desirable premises offer a good opportunity to any per- son with a small capital for carrying on an extensive trade in the Wine and Spirit line— also with a genuine Home Brewed Beer trade, there being but few houses of toe kind in toe town. For further particulars, apply to Mr. HENRY ROPER, House and Estate Agent, West Cowes, Isle of Wigbt. 
+
+```
+
+Another advvert, this time from 1842, gives a sense of the scale of some of the brewery operations:
+
+```{admonition} Breqery and Thirty-Four Public Houses, August, 1842
+:class: dropdown
+[Hampshire Chronicle - Monday 15 August 1842
+](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18420815/054/0004)
+
+NEWPORT, ISLE OF WIGHT. BREWERY *and Thirty-Four PUBLIC HOUSES*.
+
+MR. W. W. SIMPSON has received directions from John Cooke. Esq. the proprietor (who is retiring from business), to SELL by AUCTION, at the Mart, London, on Tuesday the 6th of September, 1842, in oue lot. — An eaccedingly desirable CONCERN ; comprising an old established FREEHOLD BREWERY, with excellent stores, and every requisite appendage : a commodious RESIDENCE with large garden, two Malt Houses with ample stowage for barley, malt, &c. Thirty-four INNS and PUBLIC-HOUSES, eleven of which are situate in the town of Newport, eight in West Cowes, and the remaining fifteen at East Cowes, Ryde, and other places in the island, all within a few miles of the brewery. The houses, which are chiefly freehold, generally are in very good state of repair, and doing considerable trades both in beer and spirits. There is a good free and private trade attached to the brewery, and the average consumption during the last six years has been about 3000 barrels of beer, and 2000 gallons of spirits. The brewery has the advantage of being situate in a district where barley of fine malting quality is readily obtained, and it abuts upon a navigable river, which affords great facility for the shipment of goods ; besides which the water power is made available for grinding, pumping, and other work in the brewery, whereby great saving of labour is effected. The transit of the beer to the customers is attended with very little expense, those houses which are not close to the brewery being chiefly situate at Cowes, to which place the beer is conveyed by water at a very cheap rate.
+
+The proprietor and his ancestors have carried on the business for upwards of a century with great success, and the retirement of Mr. Cooke affords a rare opportunity for the advantageous employment of capital in the brewing trade, as a considerable part of the purchase money would he allowed to remain on mortgage.
+
+The property may be viewed, and particulars may be obtained of Messrs. Griffiths, solicitors, Newport; at the Coach and Horses Hotel, Southampton ; at the Mart; and of Mr. W. W. Simpson, 18, Bucklersbury.
+```
+
 At the annual licensing day in 1851, the Tontine Tap, whose license at the time appears to have been held by a certain Mr. John Hollywood, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution. The Old King's Arms on Pyle Street, was also similarly charged, although that particular characterisation was objected to.
 
 ```{admonition} "Tontine Tap" and "Valiant Soldier" called out, Licensing Day, 1851
@@ -250,7 +278,7 @@ Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosha
 
 ```
 
-At the licensing day of 1854, another establishment, the landlord of the "Race Horse", was also cautioned for similar reasons.
+At the licensing day of 1854, another establishment, the landlord of the "Race Horse" in the Corn Market, was also cautioned for similar reasons.
 
 ````{admonition} Cautioned in consequence of complaints, August 1854
 :class: dropdown
@@ -264,12 +292,27 @@ The applications for licenses for public-houses and billiards occupied the Bench
 
 No license was taken away from any publican, though the landlord of the "Race Horse" was cautioned in consequence of complaints having been made that he kept a room for the use of the prostitutes of the town.
 
+````
 
-```{warning}
-I can't see the Race Horse named on the OS map? Another report mentions the "Race Horse passage", just off the High-street.
+The Race Horse had also receieved mentions several years earlier, once, in 1847, for the inappropriate behaviour of the landlord of the time, and a couple of years later in a rather unusual case of theft apparently from oneself:
+
+```{admonition}, December, 1847
+:class: dropdown
+[Hampshire Advertiser - Saturday 11 December 1847
+](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471211/029/0005)
+
+Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gentlemen.) James Lee, landlord of a low public-house in Corn-market, called tne Race-horse, was fined 5s and costs, for allowing card-playing in his house ; and on Tuesday he was again brought up for being drunk ana disorderly in his own house on the previous evening, and behaving in a most disreputable manner. This time he was fined £3 and costs. 
 ```
 
-````
+```(admonition) Indicted for stealing his own goods, September, 1850
+:class: dropdown
+[Hampshire Telegraph - Saturday 28 September 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18500928/012/0005)
+
+At the Borough Petty Sessions, before R. M. Wavell Esq. and other Magistrates, Joseph Yelf (remanded from Tuesday), was charged with felony, in stealing goods from the Race Horse Inn, Corn Market, Newport. Mr. Hearn appeared for the prosecution; and Mr. Beckingsale for the defence. The case occupied a considerable time; but the following account will present the principal features. An execution was put into the Race Horse on Saturday last, for a judgment of the County Court for the sum of 16l. 5s. 3d., at the suit of Mr. Henry D. Cole. An assistant bailiff, of the name Wm. Leigh, admitted, in his cross-examination, that
+aker drinking and smoking in the tap-room, he went to bed with a woman, but did not think the pillows were removed from under his head! During the evening and night the house was nearly stripped of the furniture, which was afterwards found secreted in a loft near the Green Dragon Inn; the goods were recovered, and this was a criminal proceeding for felony against the owners. Mr. Beckingsale cited several cases, and argued that a man under such circumstances could not be indicted for stealing his own goods. Mr. Hearn on the contrary cited several cases, and argued that the present was a clear case of felony. Mr. Beckingsale afterwards cited the clause in the County Courts' Act, which gave a power to the Magistrates to fine any person rescuing goods or
+assaulting an officer any sum not to exceed 5l., and in default three months' imprisonment. The Bench, after a consultation, committed the prisoner for trial at the Quarter Sessions; but afterwards accepted bail.
+
+```
 
 The licensing day sessions also provided an opportunity for the magistrates to communicate any updates in licensing conditions. In 1855, this included the announcement that house could be kept "open on Sundays now from 12 1/2 till 3 and from 5 till 11".
 
@@ -363,6 +406,8 @@ The following year, a brewery went up for sale in Carisbrooke.
 ```{admonition} To be sold by private contract, March 1819
 :class: dropdown seealso
 [Hampshire Telegraph - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18190329/001/0001)
+
+Also in: [Salisbury and Winchester Journal - Monday 29 March 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0000361/18190329/029/0002)
 
 ISLE OF WIGHT.
 
@@ -1053,9 +1098,9 @@ And the following provides a good example of some of the verbal slapstick that c
 :class: dropdown
 [Hampshire Independent - Saturday 27 June 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18460627/070/0008)
 
-BOROUGH COURT. On Monday last, before Mr.  B. Mew, Esq., Mayor, T. Cooke and Abraham Clarke, Esqrs.
+BOROUGH COURT. On Monday last, before Mr. B. Mew, Esq., Mayor, T. Cooke and Abraham Clarke, Esqrs.
 
-The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged  under the head of disorderlies and
+The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged  under the head of disorderlies and *(sic)*
 
 P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
 
@@ -1071,7 +1116,7 @@ Prisoner: Ah! you'd swear anything.
 
 Inspector: After we got her into the station-house, she swore she would tell the Court that I wanted to come in with her ; the house where she lives is a complete nuisance to the town.
 
-Prisoner said in her defence that the policemen knocked her father down three times in the gutter, and when she interfered to protect him they struck her twice across the back, and that the Inspector would even give her a drop of cold water in the station-house to cool her parched lips.
+Prisoner said in her defence that the policemen knocked her father down three times in the gutter, and when she interfered to protect him they struck her twice across the back, and that the Inspector would not even give her a drop of cold water in the station-house to cool her parched lips.
 
 The Court: There is no doubt but you are a great nuisance to the neighbourhood where you live, and it is our duty to put down such places; at any rate we shall stop your career for a little time at least, by committing you to bridewell for one month.
 
@@ -1164,7 +1209,7 @@ Perhaps the same Eliza Young was also involved in another incident a couple of y
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
-James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza . with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
+James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza, with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
 
 Eliza Young stated that the complainant merely came to her house for the purpose of asking her to accompany her to the Quay, to see if her husband was gone down the river.
 
