@@ -140,9 +140,9 @@ FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if 
 
 ```
 
-Another advvert, this time from 1842, gives a sense of the scale of some of the brewery operations:
+Another advert, this time from 1842, gives a sense of the scale of some of the brewery operations:
 
-```{admonition} Breqery and Thirty-Four Public Houses, August, 1842
+```{admonition} Brewery and Thirty-Four Public Houses, August, 1842
 :class: dropdown
 [Hampshire Chronicle - Monday 15 August 1842
 ](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18420815/054/0004)
@@ -181,6 +181,109 @@ The Mayor, in granting the licenses of the Valiant Soldier, and Tontine Tap, gav
 
 ![Valiant Soldier, Cosham-street (South-street)](images/valient-soldier.png)
 
+```
+
+The item at the Council meeting referred to by Mr. Mew was presumbaly the bye-law for suppressing disorderly houses following any complaint from two or more householders.
+
+```{admonition} The more easy suppression of disorderly houses, August, 1851
+:class: dropdown
+[Hampshire Advertiser - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18510809/027/0005)
+
+COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday last, Edward Way, esq., in the chair. There were eighteen Aldermen and Councillors, present, which was an improvement on the late short attendance.
+
+...
+
+Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given ; proceedings to be taken by tbe police, and tbe fine of £5 to be inflicted on conviction before tbe magistrates.
+
+A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnoek, Mr. Estcourt,and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
+
+```
+
+```{admonition} Two new bye-laws adopted, August 1851
+:class: dropdown
+[Portsmouth Times and Naval Gazette - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18510809/086/0005)
+
+NEWPORT  
+TOWN COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday last at the Town Hall, the Mayor presiding. ...  Two new bye-laws were adopted, one for inflicting a fine on all persons, for taking up or disturbing the pavements and roads within the Borough, without the consent of the Town Council, the other to levy a fine of all keepers of lodging-houses who should harbour common prostitutes after notice.
+```
+
+The long conversation was reported elsewhere:
+
+```{admonition} Houses of Ill Fame, August, 1851
+:class: dropdown
+[Hampshire Independent - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18510809/066/0007)
+
+NEWPORT TOWN COUNCIL. The Quarterly Meeting of the Town Council of this Borough was held at the Guildhall on Tuesday last, the Mayor (Edward Way, Esq.) in the chair. ...
+
+Houses of Ill Fame.—The Town Clerk said he had prepared another byelaw upon a most important subject, in the endeavour to put down the number of disorderly houses in the borough, and which would authorise the Council to levy a penalty upon every person who should persist, after due notice and a complaint from the police, in keeping any house, room, or place of resort for bad and disorderly characters, &c.
+
+Mr. PRING:  Such a law would never the House of Commons.
+
+Mr. ELDRIDGE said these houses were a perfect nuisance, and a general subject of complaint by the inhabitants. The bye-law was only meant to save them the trouble and expense of going to Winchester—a proceeding which prevented many people from coming forward to prosecute the keepers of houses of ill-fame. They did not by these measures amke any new law ; they were only carrying out the old law. The last application at Winchester had cost the Guardians of the Poor no less than £36 expenses to prosecute Mrs. Blow.
+
+Mr. PRING: I don't think we ought to sit here to make laws more stringent than the legislature will allow.
+
+The MAYOR: You cannot make a law any stronger than the laws of the land which were passed to put down these nuisances.
+
+Mr. ELDRIDGE said they only wanted the remedy within the borough, instead of carrying it to Winchester.
+
+Mr. ROBERT PINNOCK said he was afraid this bye-law would act partially, if they could only apply it to private homes, and not to public houses, where all these evils were permitted and encouraged.
+
+Mr. PRING said they wanted to put down a few small private houses; but they took good care they would never touch the Adam and Eve, where it was notorious that these practices were carried on.
+
+The MAYOR: Our publicans have the chance of having their licenses taken away. It is only by enacting a bye-law that we can interfere with private houses.
+
+Mr. PRING: Then you will put them down, too, by a bye-law, I hope; for this is only for the purpose of throwing more trade into the Adam and Eve, which is licensed by the Mayor.
+
+Mr. HEARN said the bye-law was suggested to prevent the disgusting and offensive scenes daily witnessed there.
+
+Mr. PINNOCK said the parties who occupied these premises were the parties who were driven out of Cowes for similar offences.
+
+Mr. ESTCOURT bore testimony to the nuisance created in Paradise Bow. If the same offences were permitted in the Adam and Eve, they were bound to deal with it in a proper manner ; but it was also proper to make a bye-law to prevent it in private houses.
+
+Mr. PRING said they would never hear of any complaint being made against the Adam and Eve, therefore no bye-law would apply to that house.
+
+Mr. HEARN said the bye-laws would apply to all such houses.
+
+Mr. ELDRIDGE: If not, the attention of the Magistrates can be drawn to the doings of that house, and they will not allow such conduct without an attempt to stop it.
+
+Mr. PRING: I beg to say, and say it boldly, that it is of no use to bring a charge against the Adam and Eve. The police never can see a fault committed there; it is one of the favoured spots, and the person who keeps ut is one of the favoured landlords; and, depend upon it, you will find nobody to come forward and give evidence against that house.
+
+Mr. ABRAHAM CLARK said be knew not of any such place as the Adam Eve; there was a public-house licensed as the Old King's Arms, which had never been reported against, and it was impossible for the magistrates to deal with a case which had never been complained of.
+
+The MAYOR: If no charge is brought before the magistrates, they cannot proceed; but if any person will bring a charge he shall be listened to.
+
+The owner of part of the premises in Paradise-row, the locality complained of, being present, stated that directly on learning from the Inspector of Policee the immoral practices carried on there he had given the occupants immediate notice to quit. They, however, had declared that nothing of the kind was carried on within the premises, but that the girls met with every encouragement at the corner house (hear, hear).
+
+The TOWN CLERK read the law as at present enacted against disordelry houses, which could be only put down by an indictment at the Quarter Sessions, the expense of which must be defrayed by the parish of Newport. He had laid this bye-law to prevent these expensive proceedings before them, as their legal officer; besides, in taking these offences to Winchester, there was great difficulty in procuring the evidence of two of the inhabitants to substantiate the charge, many persons feeling a delicacy in coming forward against their neighbours. This objection would be obviated in the proposed bye-laws, which enabled the police to lay the complaint and bring it before the magistrates.
+
+Mr. JOHN COOKE thonght that if the subject had come before the Coucil by a petition or a complaint from the inhabitants, it would have been less objectionable than at present.
+
+Mr. HEARN. said the Council had been a long time in framing their bye-laws, but when they had done so they were found to be so useful that they were copied and adopted by many other boroughs in the kingdom. They were now only making their own bye-laws more stringent than before, the general law being entirely disregarded, as very inconvenient to be carried out.
+
+Mr. PRING said if this was to be a model borough, they must not pass any law which went farther than the law of the land, and he thought it ought not to be permitted that the police alone should have the power to present a house of this description, and bring the matter before the magistrates, in order to eject an occupier or saddle him with a heavy penalty, without a complaint preferred by the inhabitants.
+
+Mr. ELDRIDGE said that when they felt a nuisance it was their duty to do all in their power to remedy it. In this case, many of the Borough Council had laboured to put it down; but they found their hands powerless, from the state of the law which applied to disorderly houses. The general law of the land now required them to proceed to the Quarter Sessions to prosecure an offender, at considerable labour, and at great expense to the Guardians of the Poor; the consequence of which was that the mischief was allowed to go on increasing from year to year, and nothing was done to stay the evil — good order was sacrificed, good morals injured or outraged, both in public and in private, nuisances and annoyances daily given and witnessed by the whole town, and as Christian people he thought they ought to do what they could to put a stop to it. The bye-law did not go beyond the present law, and they ought to do whatever in them lay to bring the criminal, as well as the civil, law to their own doors— offences of this kind could then be brought before their own magistrates; whereas now, they must be taken to Winchester. He should, therefore, support the adoption of the proposed bye-law.
+
+Mr. ABRAHAM CLARK said the only point about which he felt a difficulty, as a magistrate, was, that they must judge for themselves upon the nature and value of the evidence on which the prosecution must be conducted, the power of making the complaint being given to the police ; it was placing a great power in the hands of the Magistrates.
+
+Mr. PRING said the Police woald shut their eyes against one house, and bring up another. It must all rest with their caprice if the matter was entirely trusted to them.
+
+Mr. JAMES ELDRIDGE: I cannot see how we can alter that. It is just the same with the public-houses now.
+
+Mr. HEARN: In nearly every ease which has been prosecuted, the main points of evidence have been supplied by the Police. and I am afraid you would not get evidence sufficient to convict without them, for the neighbours, in most of these cases, cannot be induced to come forward. You can require a notice to be given to these parties to discontinue these evils first, and if not discontinued you can then order the penalty to be enforced.
+
+Mr. ABRAHAM CLARKE: According to the present state of the law it eqires a complaint to be made by two of the inhabitants, and I confess that I think these parties most competent to judge of the inconvenience. I am rather jealous of passing this power in the hands of the Police, who may not prove such very good judges of the fact. The Police may be partial in their practice, but the Magistrates must proceed upon the facts.
+
+The TOWN CLERK said the only instance of a case being brought forward by the inhabitants was that of a recent date at West Cowes. and the expense of carrying out those proceedings were enormous.
+
+THE MAYOR: Well, I think if the nusiance does not reach to such as extent as to induce two of the inhabitants to come forward and lay a complaint, it is not worth touching.
+
+Mr. ALFRED MEW considered that the same law must apply to other nuisances as to this. The Inspector must prove by evidence that such nuisances existed before he could proceed.
+
+The proposed bye-law was then altered as suggested, to the effect that any person, after complaint by any two inhabitants, and a notice thereof from the Inspector, who should continue to keep a disorderly house, or suffer prostitutes to meet therein, should be subject to a penalty of £5 for every day such house was kept open, and every separate offence was to be subject to a separate penalty.
+
+The alteration, being approved of, was passed unanimously.
 ```
 
 ```{admonition} Similar admonitions respecting bad conduct, August 1851
@@ -1179,6 +1282,37 @@ Mr. Grapes deposed that he had found 10 or 12 people in the house drinking beer,
 
 Defendant was liberated on her own recognisance to appear at the Sessions.
 
+```
+
+```{admonition} For keeping a disordely house, January 1850
+:class: dropdown
+[Hampshire Chronicle - Saturday 05 January 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/18500105/019/0005)
+
+Hampshire Epiphany Sessions, ..., in the Grand Jury Chamber, Winchester
+
+Jane Blow, for keeping disorderly house the parish of Newport-Two months.
+```
+
+```{admonition} Proposal to separate the Isle of Wight from Hampshire
+:class: dropdown seealso
+
+*In passing, it is interesting to note the following item that was discussed at the Epiphany Sessions in Winchester.*
+
+[Hampshire Chronicle - Saturday 05 January 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/18500105/019/0005)
+
+The Rev. R. W. White informed the Court that the Committee on Newport Bridewell had no report to make, as they had not received an answer from the Town Council which contained a proposition which they could not agree to. They claimed a right to half of the prison, although the county had expended a considerable sum in improving the accommodation. The letter from the Corporation Committee stated that they should recommend that body, in the event of a separate quarter sessions being obtained, to offer £800 to the county for its interest in the whole property, or for the purchase.
+
+After some discussion it was agreed to refer the matter back to the Committee, with power to take Counsel's opinion.
+
+The Right Hon. the Chairman called the attention of the Court to a notice which appeared in the public papers, of intention to apply to Parliament for a separation of the Isle of Wight from the county. He thought it was the duty of the Magistrates not to allow themselves to be taken by surprise, and suggested the appointment of a Committee to watch the proceedings, and oppose the Bill, should it he brought into Parliament.
+
+Mr H. C. Compton, after the notice had been read by Mr. Woodham, moved that a select Committee be appointed to watch the progress of the Bill to separate the Isle of Wight from the county, with powers to oppose it if brought before Parliament, —to consist of Lord Ashburton. Lord Henry Cholmondeley, Mr. M. Portal, Mr. Sclater. and Mr. Knight.
+
+The Rev. K. W. White said the promoters of the object did not intend going to Parliament.
+
+The Right Hon. the Chairman observed that notice had been given that the Bill would he brought in at the next session of Parliament, and if they had nobody to watch the proceedings, the parties might go on, and the result might be the separation of the Isle of Wight from the county, though it had been subjected to additional expense in the erection of the New Prison, which included the custody and maintenance of prisoners from the Island. It was therefore very desirable that the Magistrates should take some steps in the business, though he believed the Bill would never see daylight: but should it be introduced, it would stand a better chance of being cushioned if no Committee was appointed.
+
+The motion was then put and carried, and made an order of Court.
 ```
 
 ## Drunk and/or disorderly
