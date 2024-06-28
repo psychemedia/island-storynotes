@@ -69,7 +69,7 @@ Mrs Shaw Mellor, characteristic of her breed, was at the centre of village life 
 "Also in the Church is an embroidered banner presented by the Mothers' Union reflecting the skill of among others Dora Shaw Mellor.[2] The Hon Dora Marion Shaw Mellor died in 1954 and her husband, Arthur, 13 years later in 1967."
 
 Box, Wiltshire, on the road from Chippenham to Bath
-"The Box branch (Mothers' Union)was started in 1925 by the indomitable, the Honourable Mrs Dora Marion Shaw Mellor, daughter of Lord Alverstone, Lord Chief Justice. Rev George and Mrs Kate Foster had fundraised to pump-prime the local branch and sixty women met up at the inaugural meeting.[1] Mrs Shaw Mellor spoke about the main concerns of the Box branch: to revive Mothering Sunday observance on the fourth Sunday of Lent and upholding the sanctity of marriage through the power of prayer. "
+"The Box branch (Mothers' Union)was started in 1925 by the indomitable, the Honourable Mrs Dora Marion Shaw Mellor, daughter of Lord Alverstone, Lord Chief Justice. Rev George and Mrs Kate Foster had fundraised to pump-prime the local branch and sixty women met up at the inaugural meeting.[1] Mrs Shaw Mellor spoke about the main concerns of the Box branch: to revive Mothering Sunday observance on the fourth Sunday of Lent and upholding the sanctity of marriage through the power of prayer."
 
 Mew The Movers, based on the Isle of Wight, was established in the 1920 "The Gentlemen of Removers, established over 80 years"
 

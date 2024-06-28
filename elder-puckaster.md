@@ -312,7 +312,7 @@ My little man,
 Though fairies like honey,  
 Men like money.  
 Is it not so?  
-Is it not so ? "
+Is it not so ?"
 
 John Kann took off his harebell cap, made a bow, and said, "Just so."
 

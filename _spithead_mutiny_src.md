@@ -670,7 +670,7 @@ In referring to the difference in the position of the seaman now as compard with
 
 ---
 Portsmouth Evening News - Thursday 15 April 1897
-100 years on...
+100 years on ...
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18970415/015/0002
 
 THE SPITHEAD MUTINY. NOTABLE CENTENARY.  

@@ -40,7 +40,7 @@ After they had feasted, Puck turned to John Kann and said: "'Fairies like honey,
 
 "Enough, John Kann, enough," said Puck, "we will thank you properly, be sure of that", and he explained to John that if he were to go down to Puckaster Cove, and search there at dawn, where the beach was land half the day, and underwater the rest, that there he would find a flat stone, with a hole right through it, a stone we perhaps know as a witch's stone today. And if he were there as the sun was rising he would see, in the sand, grains of gold too. And the gold would be there, each day, at dawn, if the tide allowed it. But that if he ever told anyone where he was getting the gold, that would be the end of it.
 
-And with that, the puff ball under John Kann seemed to explode and he was thrown the ground, and his bluebell hat was thrown off him too... And when he looked around he saw.. he saw that dawn was coming up; and next to him, he saw his hat. But not a giant hat, a normal sized hat. And of the fairies, there was no sight. Just a fairy ring of newly grown mushrooms.
+And with that, the puff ball under John Kann seemed to explode and he was thrown the ground, and his bluebell hat was thrown off him too... And when he looked around he saw... he saw that dawn was coming up; and next to him, he saw his hat. But not a giant hat, a normal sized hat. And of the fairies, there was no sight. Just a fairy ring of newly grown mushrooms.
 
 Well, John got up, and brushed himself down, and wondered at the strange dream he had just had, and set to, to walk home; but as he did so, he noticed a gap in the fairy ring where his hat had been; and in the center of the ring, a burst puff ball; and next to that, a bluebell flower. And scattered around were other flower heads: foxgloves, and bluebells.
 
@@ -66,4 +66,3 @@ And she didn't tell everyone, to her credit. Just one or two of her closest frie
 And so it was: the next day, when John went down to the beach, with the tide out, and the dawn rising, there were a great many people down on the beach. In fact, there were people everywhere... And whilst some of them may have found a few grains of gold that day, there was none there the next. Nor on any day thereafter.
 
 And that is the end of the story.
-

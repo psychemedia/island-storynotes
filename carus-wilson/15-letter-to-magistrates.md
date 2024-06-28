@@ -54,7 +54,7 @@ Drunken Cases
 
 Charles Simmonds was fined 5s, and 5s costs, for being drunk and disorderly at the Swan Inn, on Saturday night, and assaulting Mr. Inspector Grapes in the execution of his office.
 
-James Underwood was also fined 10s, and 5s costs, for a similar offence, at the Old King's Arms, and assaulting Police-constables Lockhart and Stubbs ; and in default of payment, committed for twenty-one days' hard labour
+James Underwood was also fined 10s, and 5s costs, for a similar offence, at the Old King's Arms, and assaulting Police-constables Lockhart and Stubbs; and in default of payment, committed for twenty-one days' hard labour
 
 ...
 
@@ -95,11 +95,11 @@ Despite being assaulted, it seems that working girls could well be prosecuted al
 
 ISLE OF WIGHT PETTY SESSIONS. BOROUGH COURT.
 
-Monday.— Magistrates present : The Mayor (J. H. Hearn, esq.). Dr. Wavell. and E. Way. esqrs.
+Monday.— Magistrates present: The Mayor (J. H. Hearn, esq.). Dr. Wavell. and E. Way. esqrs.
 
 A Batch of Disorderlies.— Edward Howes, the landlord of the Tontine, a notorious house in Cosham-street, was charged with assaulting Ellen Cribb, by striking her, making her nose bleed, and also tearing her clothes. He was fined 5s. and costs.
 
-The last complainant's sister, who gave her name as Rosannah Oates, wife of a Serjeant of the 44th Regiment, preferred a similar charge against the defendant Howes. She admitted that she just stepped into the house with a soldier when a whole lot of them were fighting, and just after she had left, and had got into the middle of the road, the defendant came out and struck her. He accused her, too, of belonging to the opposite shop, and getting the soldiers away from his house to the " Red, White, and Blue." He was once more fined 5s. and 5s. costs.
+The last complainant's sister, who gave her name as Rosannah Oates, wife of a Serjeant of the 44th Regiment, preferred a similar charge against the defendant Howes. She admitted that she just stepped into the house with a soldier when a whole lot of them were fighting, and just after she had left, and had got into the middle of the road, the defendant came out and struck her. He accused her, too, of belonging to the opposite shop, and getting the soldiers away from his house to the "Red, White, and Blue." He was once more fined 5s. and 5s. costs.
 
 The above two girls were now in their turn charged by the police with an offence against the bye-laws, by using obscene language on the occasion of the assaults above referred to, and were fined 5s. each, without costs, which they paid.
 
@@ -111,7 +111,7 @@ By Autumn 1855, the progress being made on the new Church perhaps triggered a re
 
 In particular, they questioned whether more might be done to regulate disorderly groups gathering on the major public thoroughfares who were *"frequently conducting themselves in a manner most offensive to virtue"*. They also called for a closer eye to be kept on lodging rooms, public houses, and beershops *"where attractions are held out to make them the rendezvous of persons whose antecedents create a suspicion that they will prove nurseries of vice"*.
 
-It's not clear what we can read into their assertion that *"they are not seeking any class legislation; their object being the purification of the borough from the social evils which unhappily abound within it"* and that *"it is their wish to see every offender, whatever be his grade in life, made amenable for his conduct"* ? Were they just protecting themselves from claims of attacking what they would see to be the lower orders of society, or were they also sending a message to certain otherwise upstanding members of society who might be engaging in less than virtuous behaviour?!
+It's not clear what we can read into their assertion that *"they are not seeking any class legislation; their object being the purification of the borough from the social evils which unhappily abound within it"* and that *"it is their wish to see every offender, whatever be his grade in life, made amenable for his conduct"*? Were they just protecting themselves from claims of attacking what they would see to be the lower orders of society, or were they also sending a message to certain otherwise upstanding members of society who might be engaging in less than virtuous behaviour?!
 
 ```{warning}
 *I have not yet found a list of the names of the "memorialists" who put their name to the letter.*

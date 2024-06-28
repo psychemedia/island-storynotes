@@ -98,18 +98,18 @@ p535
 TALES AND LEGENDS OF THE ISLE OF WIGHT. 535-6
 ...; for soon afterwards, as we were looking towards the island, I observed to the antiquary [Mr Winterbloassom],
 
-" That high peak that we see is St. Katherine's, the highest point of the island, is it not ? "
+"That high peak that we see is St. Katherine's, the highest point of the island, is it not?"
 
-" Yes," he replied, "St. Katherine's *is at present the highest point of the island*."
+"Yes," he replied, "St. Katherine's *is at present the highest point of the island*."
 
-" *Is at present !* Why, you do not mean to say that there ever was a time when its elevation was different ? "
+"*Is at present !* Why, you do not mean to say that there ever was a time when its elevation was different?"
 
-" That I know nothing about," he replied ; " but it appears very probable that Shanklin Down will soon overtake it in height."
+"That I know nothing about," he replied ; " but it appears very probable that Shanklin Down will soon overtake it in height."
 
-" Why, you don't mean to say that Shanklin Down is growing higher ? "
+" Why, you don't mean to say that Shanklin Down is growing higher?"
 
-" That, indeed, appears to be the case, or, at any rate, relatively to other heights in the island. The inhabitants of Chale will tell vou that formerly Shanklin Down, from the interference of Week Down, could only be seen from the top of St. Katherine's, whereas it is now visible from Chale Down, which is much lower ; consequently, unless Week Down has sunk lower than it was, Shanklin Down must have risen considerably. Now, if Week Down is sinking, it is very probable that St. Katherine's is slipping down too ; so that, whether Shanklin Down is growing higher or not, it seems very probable that it will in the course of time overlook all the rest of the Isle of Wight."
+"That, indeed, appears to be the case, or, at any rate, relatively to other heights in the island. The inhabitants of Chale will tell vou that formerly Shanklin Down, from the interference of Week Down, could only be seen from the top of St. Katherine's, whereas it is now visible from Chale Down, which is much lower; consequently, unless Week Down has sunk lower than it was, Shanklin Down must have risen considerably. Now, if Week Down is sinking, it is very probable that St. Katherine's is slipping down too ; so that, whether Shanklin Down is growing higher or not, it seems very probable that it will in the course of time overlook all the rest of the Isle of Wight."
 
-" Very curious,' said the hero of the foot-tub [previous storyteller], with a kind of supercilious air. "I suppose the two hills playing at see-saw. — Now we go up, up, up ; and now we go down, down, clown. Very curious,—-very," picking his teeth incredulously between the two last words.
+"Very curious,' said the hero of the foot-tub [previous storyteller], with a kind of supercilious air. "I suppose the two hills playing at see-saw. — Now we go up, up, up ; and now we go down, down, clown. Very curious,—-very," picking his teeth incredulously between the two last words.
 
-" There is no animal," thought I to myself, " so jealous of another of the same species as your regular story-teller."
+"There is no animal," thought I to myself, "so jealous of another of the same species as your regular story-teller."

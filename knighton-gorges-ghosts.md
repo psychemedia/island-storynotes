@@ -221,7 +221,7 @@ christian burial. How far this tradition may be true cannot be
 told, but a few years since, the skeleton of a man of large stature
 was found in the walled garden to the west of Knighton
 House. Sir Tristram's estates finally devolved on his two
-sisters, H a n n a h and Mary. H a n n a h died intestate and Mary
+sisters, Hannah and Mary. Hannah died intestate and Mary
 left the Manor of Knighton by will to her nephew Maurice
 Bocland. The second Sir Robert Dyllington had left by his
 second wife a daughter Mabella, who married into the

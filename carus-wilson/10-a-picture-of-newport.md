@@ -149,11 +149,11 @@ Another advert, this time from 1842, gives a sense of the scale of some of the b
 
 NEWPORT, ISLE OF WIGHT. BREWERY *and Thirty-Four PUBLIC HOUSES*.
 
-MR. W. W. SIMPSON has received directions from John Cooke. Esq. the proprietor (who is retiring from business), to SELL by AUCTION, at the Mart, London, on Tuesday the 6th of September, 1842, in oue lot. — An eaccedingly desirable CONCERN ; comprising an old established FREEHOLD BREWERY, with excellent stores, and every requisite appendage : a commodious RESIDENCE with large garden, two Malt Houses with ample stowage for barley, malt, &c. Thirty-four INNS and PUBLIC-HOUSES, eleven of which are situate in the town of Newport, eight in West Cowes, and the remaining fifteen at East Cowes, Ryde, and other places in the island, all within a few miles of the brewery. The houses, which are chiefly freehold, generally are in very good state of repair, and doing considerable trades both in beer and spirits. There is a good free and private trade attached to the brewery, and the average consumption during the last six years has been about 3000 barrels of beer, and 2000 gallons of spirits. The brewery has the advantage of being situate in a district where barley of fine malting quality is readily obtained, and it abuts upon a navigable river, which affords great facility for the shipment of goods ; besides which the water power is made available for grinding, pumping, and other work in the brewery, whereby great saving of labour is effected. The transit of the beer to the customers is attended with very little expense, those houses which are not close to the brewery being chiefly situate at Cowes, to which place the beer is conveyed by water at a very cheap rate.
+MR. W. W. SIMPSON has received directions from John Cooke. Esq. the proprietor (who is retiring from business), to SELL by AUCTION, at the Mart, London, on Tuesday the 6th of September, 1842, in oue lot. — An eaccedingly desirable CONCERN; comprising an old established FREEHOLD BREWERY, with excellent stores, and every requisite appendage: a commodious RESIDENCE with large garden, two Malt Houses with ample stowage for barley, malt, &c. Thirty-four INNS and PUBLIC-HOUSES, eleven of which are situate in the town of Newport, eight in West Cowes, and the remaining fifteen at East Cowes, Ryde, and other places in the island, all within a few miles of the brewery. The houses, which are chiefly freehold, generally are in very good state of repair, and doing considerable trades both in beer and spirits. There is a good free and private trade attached to the brewery, and the average consumption during the last six years has been about 3000 barrels of beer, and 2000 gallons of spirits. The brewery has the advantage of being situate in a district where barley of fine malting quality is readily obtained, and it abuts upon a navigable river, which affords great facility for the shipment of goods; besides which the water power is made available for grinding, pumping, and other work in the brewery, whereby great saving of labour is effected. The transit of the beer to the customers is attended with very little expense, those houses which are not close to the brewery being chiefly situate at Cowes, to which place the beer is conveyed by water at a very cheap rate.
 
 The proprietor and his ancestors have carried on the business for upwards of a century with great success, and the retirement of Mr. Cooke affords a rare opportunity for the advantageous employment of capital in the brewing trade, as a considerable part of the purchase money would he allowed to remain on mortgage.
 
-The property may be viewed, and particulars may be obtained of Messrs. Griffiths, solicitors, Newport; at the Coach and Horses Hotel, Southampton ; at the Mart; and of Mr. W. W. Simpson, 18, Bucklersbury.
+The property may be viewed, and particulars may be obtained of Messrs. Griffiths, solicitors, Newport; at the Coach and Horses Hotel, Southampton; at the Mart; and of Mr. W. W. Simpson, 18, Bucklersbury.
 ```
 
 At the annual licensing day in 1851, the Tontine Tap, whose license at the time appears to have been held by a certain Mr. John Hollywood, and the Valiant Soldier, also on Cosham-street, were both noted with disapproval by the magistrates for being hosts to prostitution. The Old King's Arms on Pyle Street, was also similarly charged, although that particular characterisation was objected to.
@@ -193,7 +193,7 @@ COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday l
 
 ...
 
-Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given ; proceedings to be taken by tbe police, and tbe fine of £5 to be inflicted on conviction before tbe magistrates.
+Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given; proceedings to be taken by tbe police, and tbe fine of £5 to be inflicted on conviction before tbe magistrates.
 
 A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnoek, Mr. Estcourt,and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
 
@@ -204,7 +204,7 @@ A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abrah
 [Portsmouth Times and Naval Gazette - Saturday 09 August 1851](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18510809/086/0005)
 
 NEWPORT  
-TOWN COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday last at the Town Hall, the Mayor presiding. ...  Two new bye-laws were adopted, one for inflicting a fine on all persons, for taking up or disturbing the pavements and roads within the Borough, without the consent of the Town Council, the other to levy a fine of all keepers of lodging-houses who should harbour common prostitutes after notice.
+TOWN COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday last at the Town Hall, the Mayor presiding. ... Two new bye-laws were adopted, one for inflicting a fine on all persons, for taking up or disturbing the pavements and roads within the Borough, without the consent of the Town Council, the other to levy a fine of all keepers of lodging-houses who should harbour common prostitutes after notice.
 ```
 
 The long conversation was reported elsewhere:
@@ -217,9 +217,9 @@ NEWPORT TOWN COUNCIL. The Quarterly Meeting of the Town Council of this Borough 
 
 Houses of Ill Fame.—The Town Clerk said he had prepared another byelaw upon a most important subject, in the endeavour to put down the number of disorderly houses in the borough, and which would authorise the Council to levy a penalty upon every person who should persist, after due notice and a complaint from the police, in keeping any house, room, or place of resort for bad and disorderly characters, &c.
 
-Mr. PRING:  Such a law would never the House of Commons.
+Mr. PRING: Such a law would never the House of Commons.
 
-Mr. ELDRIDGE said these houses were a perfect nuisance, and a general subject of complaint by the inhabitants. The bye-law was only meant to save them the trouble and expense of going to Winchester—a proceeding which prevented many people from coming forward to prosecute the keepers of houses of ill-fame. They did not by these measures amke any new law ; they were only carrying out the old law. The last application at Winchester had cost the Guardians of the Poor no less than £36 expenses to prosecute Mrs. Blow.
+Mr. ELDRIDGE said these houses were a perfect nuisance, and a general subject of complaint by the inhabitants. The bye-law was only meant to save them the trouble and expense of going to Winchester—a proceeding which prevented many people from coming forward to prosecute the keepers of houses of ill-fame. They did not by these measures amke any new law; they were only carrying out the old law. The last application at Winchester had cost the Guardians of the Poor no less than £36 expenses to prosecute Mrs. Blow.
 
 Mr. PRING: I don't think we ought to sit here to make laws more stringent than the legislature will allow.
 
@@ -239,7 +239,7 @@ Mr. HEARN said the bye-law was suggested to prevent the disgusting and offensive
 
 Mr. PINNOCK said the parties who occupied these premises were the parties who were driven out of Cowes for similar offences.
 
-Mr. ESTCOURT bore testimony to the nuisance created in Paradise Bow. If the same offences were permitted in the Adam and Eve, they were bound to deal with it in a proper manner ; but it was also proper to make a bye-law to prevent it in private houses.
+Mr. ESTCOURT bore testimony to the nuisance created in Paradise Bow. If the same offences were permitted in the Adam and Eve, they were bound to deal with it in a proper manner; but it was also proper to make a bye-law to prevent it in private houses.
 
 Mr. PRING said they would never hear of any complaint being made against the Adam and Eve, therefore no bye-law would apply to that house.
 
@@ -265,7 +265,7 @@ Mr. PRING said if this was to be a model borough, they must not pass any law whi
 
 Mr. ELDRIDGE said that when they felt a nuisance it was their duty to do all in their power to remedy it. In this case, many of the Borough Council had laboured to put it down; but they found their hands powerless, from the state of the law which applied to disorderly houses. The general law of the land now required them to proceed to the Quarter Sessions to prosecure an offender, at considerable labour, and at great expense to the Guardians of the Poor; the consequence of which was that the mischief was allowed to go on increasing from year to year, and nothing was done to stay the evil — good order was sacrificed, good morals injured or outraged, both in public and in private, nuisances and annoyances daily given and witnessed by the whole town, and as Christian people he thought they ought to do what they could to put a stop to it. The bye-law did not go beyond the present law, and they ought to do whatever in them lay to bring the criminal, as well as the civil, law to their own doors— offences of this kind could then be brought before their own magistrates; whereas now, they must be taken to Winchester. He should, therefore, support the adoption of the proposed bye-law.
 
-Mr. ABRAHAM CLARK said the only point about which he felt a difficulty, as a magistrate, was, that they must judge for themselves upon the nature and value of the evidence on which the prosecution must be conducted, the power of making the complaint being given to the police ; it was placing a great power in the hands of the Magistrates.
+Mr. ABRAHAM CLARK said the only point about which he felt a difficulty, as a magistrate, was, that they must judge for themselves upon the nature and value of the evidence on which the prosecution must be conducted, the power of making the complaint being given to the police; it was placing a great power in the hands of the Magistrates.
 
 Mr. PRING said the Police woald shut their eyes against one house, and bring up another. It must all rest with their caprice if the matter was entirely trusted to them.
 
@@ -306,11 +306,11 @@ The following year, Hollywood spoke out against one particular drunk and disorde
 
 Borough Petty Sessions, Monday.— Present, C. W. Estcourt, Esq., Mayor, E. Way, and R. M. Wavell, Esqs.
 
-Ann Tayler was charged with being drunk and disorderly at the Tontine Tap on Sunday night. She was turned out of the house, but returned, when she was given into custody. John Hollywood gave evidence that the defendant came his house and drank with the soldiers, using very bad language, which he was determined not to allow. The defendant said was owing to her having had a little drink ; if the Court would forgive her, she would leave the Isle of Wight that day. The Mayor said it was not a very serious charge, and they would dismiss the case provided she would leave the Isle of Wight.
+Ann Tayler was charged with being drunk and disorderly at the Tontine Tap on Sunday night. She was turned out of the house, but returned, when she was given into custody. John Hollywood gave evidence that the defendant came his house and drank with the soldiers, using very bad language, which he was determined not to allow. The defendant said was owing to her having had a little drink; if the Court would forgive her, she would leave the Isle of Wight that day. The Mayor said it was not a very serious charge, and they would dismiss the case provided she would leave the Isle of Wight.
 
 ```
 
-From a court report later that year regarding the theft of a pillow, it seems that Hollywood's mother-in-law  helped out at the Tontine Tap, and also that beds were available there.
+From a court report later that year regarding the theft of a pillow, it seems that Hollywood's mother-in-law helped out at the Tontine Tap, and also that beds were available there.
 
 ```{admonition} Stealing and swindling, October 1853
 :class: dropdown
@@ -328,9 +328,9 @@ Henry Rashleish, Jun., sworn: I am a carrier between Newport and Niton. On Fnday
 
 P. C. Jacobs said he apprehended the prisoner at the Lamb under a charge of stealing the pillow, when the prisoner told him that he bought it for 6d., of a man in Quay Street.
 
-Prisoner went into a long rigmarole story of his frequenting the Tontine out of respect to the landlord, with whom he had a glass of grog before he went to bed ; that he didn't want for money, having seven or eight shillings in his pocket, and had, therefore, no reason to steal ; that he slept until ten o'clock, and then left seven or eight persons asleep in the same room! that he went towards the Quay, when a man asked 1s. 6d. for the pillow now produced, but he offered him sixpence, *all the money he had*, and promised him threepence more if he would come to the Lamb Inn, where he waited for an hour and a half, but he never came, and as he did'nt come, he thought he would send it to his brother-in-law, at Niton, and he had put down the five shillings on the cover because he should see him at Ryde shortly, where he was going to live, and then he knew he could make it all right with him.
+Prisoner went into a long rigmarole story of his frequenting the Tontine out of respect to the landlord, with whom he had a glass of grog before he went to bed; that he didn't want for money, having seven or eight shillings in his pocket, and had, therefore, no reason to steal; that he slept until ten o'clock, and then left seven or eight persons asleep in the same room! that he went towards the Quay, when a man asked 1s. 6d. for the pillow now produced, but he offered him sixpence, *all the money he had*, and promised him threepence more if he would come to the Lamb Inn, where he waited for an hour and a half, but he never came, and as he did'nt come, he thought he would send it to his brother-in-law, at Niton, and he had put down the five shillings on the cover because he should see him at Ryde shortly, where he was going to live, and then he knew he could make it all right with him.
 
-Court : We have no doubt about the case, and we commit you to take your trial at the sessions.
+Court: We have no doubt about the case, and we commit you to take your trial at the sessions.
 
 ```
 
@@ -377,7 +377,7 @@ James Nobbs and Edward Woodford were charged with burglary.
 
 ...
 
-Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport. Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport.  On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner ? He had some, and gave me a sovereign to pay for it, and I gave him the change. ...
+Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport. Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport. On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner? He had some, and gave me a sovereign to pay for it, and I gave him the change. ...
 
 ```
 
@@ -404,7 +404,7 @@ The Race Horse had also receieved mentions several years earlier, once, in 1847,
 [Hampshire Advertiser - Saturday 11 December 1847
 ](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471211/029/0005)
 
-Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gentlemen.) James Lee, landlord of a low public-house in Corn-market, called tne Race-horse, was fined 5s and costs, for allowing card-playing in his house ; and on Tuesday he was again brought up for being drunk ana disorderly in his own house on the previous evening, and behaving in a most disreputable manner. This time he was fined £3 and costs. 
+Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gentlemen.) James Lee, landlord of a low public-house in Corn-market, called tne Race-horse, was fined 5s and costs, for allowing card-playing in his house; and on Tuesday he was again brought up for being drunk ana disorderly in his own house on the previous evening, and behaving in a most disreputable manner. This time he was fined £3 and costs. 
 ```
 
 ```(admonition) Indicted for stealing his own goods, September, 1850
@@ -449,9 +449,9 @@ In September 1806, an announcement is made calling for creditors of Mr. John Ste
 :class: dropdown
 [Hampshire Chronicle - Monday 22 September 1806](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18060922/019/0001)
 
-THE Commissioners in a Commission of Bankrupt, bearing date the 3d day of March 1806, awarded and issued against JOHN STEANE, late of Newport, in the Isle of Wight, in the county of Southampton, Liquor-Merchant, Dealer and Chapman, intend to meet on Monday the 13th day of October next, at the Bugle Inn, Newport aforesaid, at one o'clock in the afternoon, in order to make a Dividend of the Estate and Effects of the said Bankrupt ; when and where the Creditors who have not already proved their debts are to come prepared to prove the same, or they will be excluded the benefit of the said Dividend : And all claims not then substantiated, will be disallowed.
+THE Commissioners in a Commission of Bankrupt, bearing date the 3d day of March 1806, awarded and issued against JOHN STEANE, late of Newport, in the Isle of Wight, in the county of Southampton, Liquor-Merchant, Dealer and Chapman, intend to meet on Monday the 13th day of October next, at the Bugle Inn, Newport aforesaid, at one o'clock in the afternoon, in order to make a Dividend of the Estate and Effects of the said Bankrupt; when and where the Creditors who have not already proved their debts are to come prepared to prove the same, or they will be excluded the benefit of the said Dividend: And all claims not then substantiated, will be disallowed.
 
-N. B. The Dividend will be ordered on the above day, but will not be payable till ten days after, when it may be received, on at application the Office of Messrs. Wright and Bovill, Chancery-lane, London ; Messrs. Sewell and Clarke, Newport.
+N. B. The Dividend will be ordered on the above day, but will not be payable till ten days after, when it may be received, on at application the Office of Messrs. Wright and Bovill, Chancery-lane, London; Messrs. Sewell and Clarke, Newport.
 ```
 
 In April, 1807, an auction of brewing utensils was advertised in Newport, presumably to help further discharge John Steane's debts.
@@ -464,11 +464,11 @@ NEWPORT, ISLE 0F WIGHT.
  
 Brewing Utensils.
 
-TO BE SOLD. BY AUCTION, By MEW & PORTER,  
+TO BE SOLD. BY AUCTION, By MEW & PORTER,
 
 On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Assignees of Mr. John Stean, a Bankrupt),
 
-THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport ; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
+THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
 ```
 
 Almost a decade later, in 1816, it seems that Mr. John Steane had re-established his business as a wine merchant, and was now in the process of attempting to dispose of it under his own terms:
@@ -479,7 +479,7 @@ Almost a decade later, in 1816, it seems that Mr. John Steane had re-established
 
 TO WINE AND CORN MERCHANTS.
 
-TO be DISPOSED OF by PRIVATE CONTRACT, a valuable wholesale and retail WINE, SPIRIT, and CORN TRADE. The Premises are new and freehold, the returns perfectly satisfactory ; situate at Newport, in the Isle of Wight, in the occupation of Mr. John Steane, the Proprietor. The Stock of Wine, &c. to be taken at a fair valuation; and a reasonable time allowed for the payment of the same, on approved Bills. The Purchaser may, at his option, take 18 pipes of old superior Port, two pipes Madeira, and three butts of old Sherry (Mora’s). Half the purchase money of the Premises may remain given time on mortgage.
+TO be DISPOSED OF by PRIVATE CONTRACT, a valuable wholesale and retail WINE, SPIRIT, and CORN TRADE. The Premises are new and freehold, the returns perfectly satisfactory; situate at Newport, in the Isle of Wight, in the occupation of Mr. John Steane, the Proprietor. The Stock of Wine, &c. to be taken at a fair valuation; and a reasonable time allowed for the payment of the same, on approved Bills. The Purchaser may, at his option, take 18 pipes of old superior Port, two pipes Madeira, and three butts of old Sherry (Mora’s). Half the purchase money of the Premises may remain given time on mortgage.
 
 Further particulars may be known by application to the Proprietor. 
 
@@ -497,7 +497,7 @@ FREE PUBLIC-HOUSE & LIQUOR SHOP,
 To be LET SOLO,  
 *Situate in the Corn-market*.
 
-THE above is the best situation in the Island ; the beer is brewed on the Premises, and pays more duty for that article than any Victualler in the county, and has a regular established in and out door trade. The Premises are roomy, a good Bar and Liquor Shop complete, fitted up Brewery.—The Utensils and Fixtures to be taken at a fair valuation ; and any quantity of fine old Beer and good Malt, the taker may approve of.
+THE above is the best situation in the Island; the beer is brewed on the Premises, and pays more duty for that article than any Victualler in the county, and has a regular established in and out door trade. The Premises are roomy, a good Bar and Liquor Shop complete, fitted up Brewery.—The Utensils and Fixtures to be taken at a fair valuation; and any quantity of fine old Beer and good Malt, the taker may approve of.
 
 For further particulars apply to John Steane, Cornfactor, Newport.
 
@@ -558,9 +558,9 @@ On the same day, the advert appears in another form in the *Hampshire Chronicle*
 
 WHOLESALE & RETAIL WINE & BRANDY VAULTS,  
 NEWPORT, Isle of Wight,  
-TO be LET on Lease, or SOLD by Private Contract, and may be entered immediately.—The House respectable, and built on purpose for the Trade, which the annual returns are from £15,000 to £20,000, and may be doubled by one or two active youug men. The Stock consists of about 450 dozen fine Old Wine in bottles, and about pipes in wood in bond ; 250 dozen London Brown Stout ; 50 dozen Cyder ; 40 hogsheads home-brewed and Edinburgh Strong Beer; 500 quarters Oats, Beans, &c. to be taken at valuation, with the Fixtures, and a reasonable time allowed for the sale, on approved bills : if sold, £2000 may remain on mortgage.
+TO be LET on Lease, or SOLD by Private Contract, and may be entered immediately.—The House respectable, and built on purpose for the Trade, which the annual returns are from £15,000 to £20,000, and may be doubled by one or two active youug men. The Stock consists of about 450 dozen fine Old Wine in bottles, and about pipes in wood in bond; 250 dozen London Brown Stout; 50 dozen Cyder; 40 hogsheads home-brewed and Edinburgh Strong Beer; 500 quarters Oats, Beans, &c. to be taken at valuation, with the Fixtures, and a reasonable time allowed for the sale, on approved bills: if sold, £2000 may remain on mortgage.
 
-The Premises consist of a large Store in front for the retail trade; beer stores for 150 pipes of wine and porter ; arched cellar for bottled wine; good garden, walled round, with choice fruit trees ; out-offices, stalled stables ; a reputable Tap detached, with Gentlemen's subscription bowling-green, that lets for 50 guineas per year; granary and stores for 700 quarters of grain ; cart and chaise-house, and from one to ten Tenements, if approved. The whole freehold and built within ten years.
+The Premises consist of a large Store in front for the retail trade; beer stores for 150 pipes of wine and porter; arched cellar for bottled wine; good garden, walled round, with choice fruit trees; out-offices, stalled stables; a reputable Tap detached, with Gentlemen's subscription bowling-green, that lets for 50 guineas per year; granary and stores for 700 quarters of grain; cart and chaise-house, and from one to ten Tenements, if approved. The whole freehold and built within ten years.
 
 None but principals will treated with.
 
@@ -664,9 +664,9 @@ The situation of the above is very desirable, being in front of the Corn Market,
 
 If divided, the License will with lot 2.
 
-Lot I. All that Freehold DWELLING HOUSE which comprises, in front, a large room used as a liquor shop, a good front parlour, back ditto, large kitchen, wash-house, and pantry; on the floor, a very large dining-room and three best bed rooms ; four bed rooms on the third floor. A large courtyard, with the Brewery attached, in the best repair, with a walled Garden, 47 ft. by 52 ft., excellent four-stalled stable, piggery, and other offices.
+Lot I. All that Freehold DWELLING HOUSE which comprises, in front, a large room used as a liquor shop, a good front parlour, back ditto, large kitchen, wash-house, and pantry; on the floor, a very large dining-room and three best bed rooms; four bed rooms on the third floor. A large courtyard, with the Brewery attached, in the best repair, with a walled Garden, 47 ft. by 52 ft., excellent four-stalled stable, piggery, and other offices.
 
-Lot 2. All that good accustomed House, known by the name of the TONTINE TAP, in South-st. consisting of large tap room, bar, cellar, sitting room, and three good bed rooms ; with a right to a large yard, and convenient offices. An excellent supply of water.
+Lot 2. All that good accustomed House, known by the name of the TONTINE TAP, in South-st. consisting of large tap room, bar, cellar, sitting room, and three good bed rooms; with a right to a large yard, and convenient offices. An excellent supply of water.
 
 Lot 3. A Freehold Tenement, fronting South-st. now in the occupation of Wm. Coombs.
 
@@ -698,11 +698,11 @@ NEWPORT, ISLE OF WIGHT.
 
 TO be SOLD by AUCTION, by Mr. Francis Pittis, Wednesday the 25th July, 1821, and the following day,—The Entire STOCK in TRADE, Fixtures, six-motion Beer Engine, all the Brewing Utensils, four large Vats, Butts, Pipes, Hogsheads, and Half hogshead Beer Casks, Barrels of Strong Beer, Brewing Copper, the whole of the HOUSEHOLD FURNITURE, various other Effects, at the Tontine Inn & Brewery, in Newport, in the Isle of Wight.
 
-The *Brewery* comprises an excellent five-hogshead copper furnace ; mash tub, with false bottom, 6ft. 5in. by 3ft. 6in.; beer cooler, 18ft. by 7ft. 4in.; one ditto, 14ft. by 5ft.; underback, 5ft. 6in. by 3ft. 9in. square, 10ft. by 4ft.; hop back, 5ft. 6in. by 5ft. ; capital force-pump with a large quantity of pipe; one ditto ditto, four stillions, copper pump, several oak beer stands, excellent fifty-barrel beer vats, two 37 barrel ditto, one 20 ditto, about 50 butts, pipes, hogsheads half-hogsheads, and smaller beer and spirit casks, malt mill, a capital six-motion beer engine, spirit engine, counter and fittings in the liquor shop,—about 37 barrels of Strong Beer, numerous other articles in the Brewery.
+The *Brewery* comprises an excellent five-hogshead copper furnace; mash tub, with false bottom, 6ft. 5in. by 3ft. 6in.; beer cooler, 18ft. by 7ft. 4in.; one ditto, 14ft. by 5ft.; underback, 5ft. 6in. by 3ft. 9in. square, 10ft. by 4ft.; hop back, 5ft. 6in. by 5ft.; capital force-pump with a large quantity of pipe; one ditto ditto, four stillions, copper pump, several oak beer stands, excellent fifty-barrel beer vats, two 37 barrel ditto, one 20 ditto, about 50 butts, pipes, hogsheads half-hogsheads, and smaller beer and spirit casks, malt mill, a capital six-motion beer engine, spirit engine, counter and fittings in the liquor shop,—about 37 barrels of Strong Beer, numerous other articles in the Brewery.
 
-Household Furniture —Dining, tea, Pembroke card, and claw tables ; mahogany and stained pier glasses, Kidderminster and Scotch carpets, four post and field bedsteads with cotton and dimity hangings, window curtain to correspond ; goose-feather beds, bolsters, and pillows, blankets, and counterpanes ; chest of drawers, bason stands, dressing glasses, and dressing tables; a good assortment of glass, pewter quarts, pints, and half-pints spirit measures, &c. &c.
+Household Furniture —Dining, tea, Pembroke card, and claw tables; mahogany and stained pier glasses, Kidderminster and Scotch carpets, four post and field bedsteads with cotton and dimity hangings, window curtain to correspond; goose-feather beds, bolsters, and pillows, blankets, and counterpanes; chest of drawers, bason stands, dressing glasses, and dressing tables; a good assortment of glass, pewter quarts, pints, and half-pints spirit measures, &c. &c.
 
-Catalogues may be had at Blue Posts, Portsmouth ; Royal Oak, Portsea; Angel, Lymington; George, Yarmouth;  Hotel, Ryde; Vine, Cowes; Bugle, Newport; and of the Auctioneer.
+Catalogues may be had at Blue Posts, Portsmouth; Royal Oak, Portsea; Angel, Lymington; George, Yarmouth; Hotel, Ryde; Vine, Cowes; Bugle, Newport; and of the Auctioneer.
 
 N.B—The Brewing Utensils will be sold on the first day sale, which will commence each day at twelve o'clock, at noon.
 ```
@@ -746,7 +746,7 @@ James Tansom, landlord of the Fountain Tap `[the following week, he was describe
 :class: dropdown
 [Hampshire Independent - Saturday 18 June 1842](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18420618/043/0003)
 
-BOROUGH COURT—  On Monday, before Mr. A. Clarke.— James Tansom, of the Tontine Tap, who was fined 40s. and costs on the previous Monday, for keeping a disorderly house, now stepped into the defendant's box, and pointed out the hardship, injustice, and cruelty, of fining him, he being perfectly innocent according to his own showing. He said be thought it was a very hard case, for he had a sick wife, and scarcely any of the drunkenness was produced in his house; but people got drunk in other houses. and came to his house, and "knocked up a row." Tansom said he had nothing but the public-house to look to for the support of three of them, himself, his wife, and the doctor (immense laughter); and, besides, he had never been brought before magistrates before from infancy to old age (laughter). As soon as he turned his back to draw a drop of beer, they began their rookery again, and he wished the Bench to take "these here things" into consideration.—The Bench said that it was most extraordinary that these rows, by people who get drunk elsewhere, should only occur in his house ; that women and soldiers should be found in his rooms day and night, on Sundays and workdays, and yet he know nothing at all of it. These things must be by his own comment, and the penalty they had inflicted was exceedingly moderate, for if he had had his due he would have been indicted at the sessions. They could not alter their previous decision.—Tansom: " Then you must take me to prison, that's all I have to say."
+BOROUGH COURT— On Monday, before Mr. A. Clarke.— James Tansom, of the Tontine Tap, who was fined 40s. and costs on the previous Monday, for keeping a disorderly house, now stepped into the defendant's box, and pointed out the hardship, injustice, and cruelty, of fining him, he being perfectly innocent according to his own showing. He said be thought it was a very hard case, for he had a sick wife, and scarcely any of the drunkenness was produced in his house; but people got drunk in other houses. and came to his house, and "knocked up a row." Tansom said he had nothing but the public-house to look to for the support of three of them, himself, his wife, and the doctor (immense laughter); and, besides, he had never been brought before magistrates before from infancy to old age (laughter). As soon as he turned his back to draw a drop of beer, they began their rookery again, and he wished the Bench to take "these here things" into consideration.—The Bench said that it was most extraordinary that these rows, by people who get drunk elsewhere, should only occur in his house; that women and soldiers should be found in his rooms day and night, on Sundays and workdays, and yet he know nothing at all of it. These things must be by his own comment, and the penalty they had inflicted was exceedingly moderate, for if he had had his due he would have been indicted at the sessions. They could not alter their previous decision.—Tansom: "Then you must take me to prison, that's all I have to say."
 
 ```
 
@@ -803,7 +803,7 @@ R. Jenkins, landlord of the White Hart inn, said he had taken a room or two oppo
 
 ```
 
-The suspension of his license appears to be not the only misfortune that Daniel Webb, " a diminutive hatchet-faced man, apparently upwards of fifty years of age" suffered at the time.
+The suspension of his license appears to be not the only misfortune that Daniel Webb, "a diminutive hatchet-faced man, apparently upwards of fifty years of age" suffered at the time.
 
 ```{admonition} Bigamy, October, 1845
 :class: dropdown
@@ -813,7 +813,7 @@ Southampton Police
 
 WEDNESDAY.—(Before E. H. Hulton, P. C. Fall, P. Breton, and J. Bernard, esqs.)
 
-Bigamy.— Daniel Webb, a diminutive hatchet-faced man, apparently upwards of fifty years of age, was placed at the bar under the following circumstance: — The complainant in the case was Margaret Leary, a stout, respectably-attired motherly-looking woman, of about forty-five years of age; with three children by a former marriage. She said the prisoner had married her five years ago, in the Isle of Wight, and she had lived comfortably with him till recently, when their harmony was disturbed by the visit of another lady, who claimed the prisoner as her husband, in virtue of priority of engagement. She had not the slightest fault to find with his conduct to her or her children, to whom he always behaved as kindly as if he had been their own father. She did not appear to wish to make any claim on the prisoner; her object being simply to prevent him from having claim any upon her, and she wished the Magistrates to compel him to " sign his hand" to the effect that he would never come near her to trouble her again.
+Bigamy.— Daniel Webb, a diminutive hatchet-faced man, apparently upwards of fifty years of age, was placed at the bar under the following circumstance: — The complainant in the case was Margaret Leary, a stout, respectably-attired motherly-looking woman, of about forty-five years of age; with three children by a former marriage. She said the prisoner had married her five years ago, in the Isle of Wight, and she had lived comfortably with him till recently, when their harmony was disturbed by the visit of another lady, who claimed the prisoner as her husband, in virtue of priority of engagement. She had not the slightest fault to find with his conduct to her or her children, to whom he always behaved as kindly as if he had been their own father. She did not appear to wish to make any claim on the prisoner; her object being simply to prevent him from having claim any upon her, and she wished the Magistrates to compel him to "sign his hand" to the effect that he would never come near her to trouble her again.
 
 The Magistrates said they could not deal with the case, unless she wished to press the charge of bigamy; but as the prisoner had a wife already living, he could have no claim upon her. The complainant declined to press the charge, but gave the prisoner to understand that it was held *in terrorem* over his head, in case he ever annoyed her in future. The parties formerly had kept the Tontine Inn, at Newport, Isle of Wight. Webb said he had never seen nor heard tidings of his former wife for twelve years, till she unluckily made her appearance and caused this expose.
 ```
@@ -826,7 +826,7 @@ The licence of the Tontine Tap then made its way to a Mr. Charles Green, who app
 
 BOROUGH COURT
 
-On Monday last, before  P. Scott, A. Clarke, and R. M. Wavell, Esqrs.
+On Monday last, before P. Scott, A. Clarke, and R. M. Wavell, Esqrs.
 
 Henry Masom was charged by Charles Green, landlord of the Tontine Tap, with stealing 2 bottles containing spirits.
 
@@ -844,7 +844,7 @@ The prisoner was then remanded until Thursday.
 
 The same Ann Gladdis, presumably, had also appeared as a witness in a case of the theft of two waistcoats and a pair of trowsers that had been prosecuted earlier that year.
 
-```{admonition}  An impudent request, January 1846
+```{admonition} An impudent request, January 1846
 :class: dropdown
 [Hampshire Advertiser - Saturday 17 January 1846](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18460117/041/0008)
 
@@ -856,7 +856,7 @@ Wm. Miller and James Mounser, two privates of the 23rd Regt. were charged by Mr.
 
 A girl, named Ann Gladdis, stated that on the evening in question Miller asked her if she would sell some recruits' clothes which he had. Mounser afterwards brought her the bundle.
 
-Mr. Grapes deposed to finding the bundle at their lodgings in Pyle-street. Miller made a long defence, to the effect that when he was blackberrying he " picked up" the bundle. Mounser simply said the clothes was given him by Miller to give to Gladdis. Their defence had the desired effect, and the jury returned a verdict of Not Guilty. They then had the impudence to demand the clothes, which request, of course, was not acceded to.
+Mr. Grapes deposed to finding the bundle at their lodgings in Pyle-street. Miller made a long defence, to the effect that when he was blackberrying he "picked up" the bundle. Mounser simply said the clothes was given him by Miller to give to Gladdis. Their defence had the desired effect, and the jury returned a verdict of Not Guilty. They then had the impudence to demand the clothes, which request, of course, was not acceded to.
 
 ```
 
@@ -874,9 +874,9 @@ Charles Green, landlord of the Tontine tap, was charged with keeping a disorderl
 
 Richard Cogger, lace maker, said he lived in Cosham-street. Defendant kept the Tontine tap close by. On Sunday evening, about six o'clock, there was a great noise with the soldiers around the house, both front and back. The conduct of the house at all times was most disgraceful. The house itself was a disgrace to any civilised country. There was nothing going on there but continual drunkenness. Soldiers and common prostitutes were harboured there, and there was continual rows and disorders. The most awful language and imprecations were in constant use, which it was very shocking to hear. The inhabitants around could not open their doors without their ears being insulted; even the house in itself as a house was unfit fur public purposes, there being no back door or convenience to it, and the soldiers and the girls came either into the street and exposed themselves or went into the yard, which was common to many other houses. He believed the girls lodged in the house, they were there every day, and drunk every day. He had complained to the magistrates, and to the brewer (Mr. Mew), and as it still kept going on, he thought it time something should be done.
 
-Defendant : You say I harbour common prostitutes in my house, can you prove I lodge any there?
+Defendant: You say I harbour common prostitutes in my house, can you prove I lodge any there?
 
-Complainant : I only know they *are* there, I don't know if you lodge them. I don't go into your house to ascertain that.
+Complainant: I only know they *are* there, I don't know if you lodge them. I don't go into your house to ascertain that.
 
 Harriet Cogger fully confirmed the testimony of her husband.
 
@@ -977,7 +977,7 @@ Monday.— Magistrates present: The Mayor (F. Pittis, esq.), Edward Way, esq. an
 
 Joseph Anderson was charged with keeping the Crab and Lobster, in Deadman's-lane, open after ten o'clock on Sunday night, the 24th of September.
 
-Police-constable Lockhart said that on Sunday, the 24th of September, at twenty minutes to eleven at night, he knocked at defendant's house. After some time defendant came to the door. Witness asked who he had in the house? He said no one, and that he would not do anything against the law " for ever so." Witness then went into the yard and let another policeman come in at the back door. They found a man in the closet, and in searching the house found two men in the cupboard, and two also in the coal hole in the back room. There were cups on the sideboard that had been used for beer, also a quart cup and a glass half full of beer in another room.
+Police-constable Lockhart said that on Sunday, the 24th of September, at twenty minutes to eleven at night, he knocked at defendant's house. After some time defendant came to the door. Witness asked who he had in the house? He said no one, and that he would not do anything against the law "for ever so." Witness then went into the yard and let another policeman come in at the back door. They found a man in the closet, and in searching the house found two men in the cupboard, and two also in the coal hole in the back room. There were cups on the sideboard that had been used for beer, also a quart cup and a glass half full of beer in another room.
 
 Defendant said there had been no beer drank after ten minutes to ten. One man was a lodger.
 
@@ -1023,7 +1023,7 @@ BOROUGH SESSIONS.
 
 Monday.— Before C. W. Estcourt, Esq., mayor; and E. Way, Esq.
 
-Joseph Anderson, of the " Crab and Lobster" beer shop, was charged with keeping his house open for the sale of beer after the time allowed by law, and secreting soldiers at such times.
+Joseph Anderson, of the "Crab and Lobster" beer shop, was charged with keeping his house open for the sale of beer after the time allowed by law, and secreting soldiers at such times.
 
 P.C. Cave, said — I went to defendant's house about half-past 11 o'clock on Monday night, the 19th of February, with the picket, in search of absent soldiers. I was admitted, and defendant's wife said no soldiers were there. Defendant was present. I went to the coal hole door and found it tied inside. I broke the string, and found a soldier concealed in the corner of the coal hole. I asked defendant and his wife if they had any more in the house, and they said, no. I then went up stairs and found two girls sitting by the fire, and two soldiers lying under the bed.
 
@@ -1041,7 +1041,7 @@ BOROUGH SESSIONS.
 
 Monday.— Before C. W. Estcourt, Esq., mayor; and E. Way, Esq.
 
-Joseph Anderson, of the " Crab and Lobster" beer shop, was charged with keeping his house open for the sale of beer after the time allowed by law, and secreting soldiers at such times.
+Joseph Anderson, of the "Crab and Lobster" beer shop, was charged with keeping his house open for the sale of beer after the time allowed by law, and secreting soldiers at such times.
 
 P.C. Cave, said — I went to defendant's house about half-past 11 o'clock on Monday night, the 19th of February, with the picket, in search of absent soldiers. I was admitted, and defendant's wife said no soldiers were there. Defendant was present. I went to the coal hole door and found it tied inside. I broke the string, and found a soldier concealed in the corner of the coal hole. I asked defendant and his wife if they had any more in the house, and they said, no. I then went up stairs and found two girls sitting by the fire, and two soldiers lying under the bed.
 
@@ -1059,7 +1059,7 @@ A couple of months later, in May, he was back again for a third time, at least, 
 
 BOROUGH SESSIONS
 
-Monday.—Before C. W. Estcourt, Esq., Mayor ; and Dr. Wavell.
+Monday.—Before C. W. Estcourt, Esq., Mayor; and Dr. Wavell.
 
 ...
 
@@ -1075,15 +1075,15 @@ NEWPORT
 
 BOROUGH COURT
 
-BOROUGH COURT. Monday.— Magistrates present : The Mayor (C. W. Estcourt), and R. M. Wavell. esqrs.
+BOROUGH COURT. Monday.— Magistrates present: The Mayor (C. W. Estcourt), and R. M. Wavell. esqrs.
 
-"Othello's Occupation Gone."— Joseph Anderson, the notorious occupier of the Crab and Lobster beer-shop (who is just out of Winchester Gaol), was again summoned, for " not being able to keep magistrates' hours," as he terms it.
+"Othello's Occupation Gone."— Joseph Anderson, the notorious occupier of the Crab and Lobster beer-shop (who is just out of Winchester Gaol), was again summoned, for "not being able to keep magistrates' hours," as he terms it.
 
 Police-constable Hobbs stated that last Sunday week he went to the house of the defendant, at three o'clock in the afternoon, and found the front door open. There were between forty and fifty soldiers in the house, and some prostitutes; they were sitting about drinking beer. He went there with a piquet the other night, and they found six girls in bed.
 
 Police constable Stubbs deposed that last Tuesday night, at half-past eleven, he caught about eight couple of men and women there. There were beer-cups on the table, and they were sitting down, listening to defendant singing, "John Anderson my Joe John." Stubbs remonstrated with him, and he merely remarked, that would make another charge against him.
 
-Police-constable Cave proved the service of the summons. The man was not there, and his wife would not take it. She said her husband should not appear. He read the summons over, and put it down in the passage ; he then left. She ran after him, and told him he might light his pipe with it, &c., throwing the summons after him.
+Police-constable Cave proved the service of the summons. The man was not there, and his wife would not take it. She said her husband should not appear. He read the summons over, and put it down in the passage; he then left. She ran after him, and told him he might light his pipe with it, &c., throwing the summons after him.
 
 Mr. Inspector Grapes recited several cases of previous convictions. He was called in Court, but no one answered, and the Mayor then adjudged the defendant to be fined £20, the license of the house to be cancelled, and himself to be disqualified for selling beer for two years. In default of payment of the fine, to be committed to Winchester Gaol for two months.
 
@@ -1115,7 +1115,7 @@ Newport
 
 Borough Police Court, Thursday, before R. M. Wavell and Francis Pittis, Esq.
 
-August Jager, keeper of the " Prince Albert," beer shop, was convicted of allowing lewd and disorderly conduct in his house. The evidence disclosed scenes of profligacy and depravity rarely brought before a public court. Fined £5, to be levied by distress, and in default one month's imprisonment.
+August Jager, keeper of the "Prince Albert," beer shop, was convicted of allowing lewd and disorderly conduct in his house. The evidence disclosed scenes of profligacy and depravity rarely brought before a public court. Fined £5, to be levied by distress, and in default one month's imprisonment.
 
 ```
 
@@ -1144,7 +1144,7 @@ From another report, we get the sense that running such a disorderly house was n
 :class: dropdown
 [Isle of Wight Observer - Saturday 19 May 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18550519/010/0003)
 
-BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor ; E. Way, and W. M. Wavell, Esqrs.
+BOROUGH SESSIONS. Monday.—Before C. W. Estcourt, Esq., mayor; E. Way, and W. M. Wavell, Esqrs.
 
 Joseph Rands, shoemaker, was summoned by Rosa Jager for using profane and obscene language to her.
 
@@ -1154,7 +1154,7 @@ The magistrates did not agree with Mr. Beckingsale that his arguments applied to
 
 The complainant then said—I am the wife of August Jager, a German. My husband works for Mr. Rands. Last Thursday week I took some work home to Mr. Rands' shop, and went in three times for the money. He said he had no change and could not pay me, and abused me. I told him my husband wanted the money.
 
-Cross-examined by Mr. Beckingsale—I work with my husband at the trade. We have been making slippers for Mr. Rands. He only paid 6d. for making a pair of slippers. [Mr. Rands : I give them 3s. a dozen more than they get in London.] He did complain to them about a pair being made bad, but how could he expect them made better for sixpence ? He did not say he would not pay me till I got him the last my husband had that belonged to him. He said he had no change.
+Cross-examined by Mr. Beckingsale—I work with my husband at the trade. We have been making slippers for Mr. Rands. He only paid 6d. for making a pair of slippers. [Mr. Rands: I give them 3s. a dozen more than they get in London.] He did complain to them about a pair being made bad, but how could he expect them made better for sixpence? He did not say he would not pay me till I got him the last my husband had that belonged to him. He said he had no change.
 
 George Frederick Mills, a little boy, was then called by Mr. Beckingsale and stated that he was in the shop all three times when the complainant was there, and that Mr. Rands did not make use of any such language that mentioned the complainant. The case was then dismissed.
 
@@ -1187,11 +1187,11 @@ Living in such a place appears not to have been without its hazards, as the foll
 :class: dropdown
 [Hampshire Advertiser - Saturday 30 June 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550630/030/0007)
 
-BOROUGH COURT. MONDAY.-Magistrates present : E. Way, R. M. Wavell. and F. Pittis, esqrs.
+BOROUGH COURT. MONDAY.-Magistrates present: E. Way, R. M. Wavell. and F. Pittis, esqrs.
 
-... William Hinds was charged with being unlawfully in the house of Joseph Guttridge, of Cosham-street. He said he felt something pressing on his chest, which awoke him in a fright, and he saw a man by his bed-side. He shouted " Holoa," and the stranger muttered something, but he could not tell what. He jumped out of bed, and rushed down stairs, intending to get a light, when he ran out and brought in a policeman, who found the man still in his bed-room. He appeared to be somewhat intoxicated. Complainant's door was not locked.
+... William Hinds was charged with being unlawfully in the house of Joseph Guttridge, of Cosham-street. He said he felt something pressing on his chest, which awoke him in a fright, and he saw a man by his bed-side. He shouted "Holoa," and the stranger muttered something, but he could not tell what. He jumped out of bed, and rushed down stairs, intending to get a light, when he ran out and brought in a policeman, who found the man still in his bed-room. He appeared to be somewhat intoxicated. Complainant's door was not locked.
 
-Police-constable William Lockhart deposed to complainant's running up to him with only his shirt on, and could hardly speak for fright. He said a man had got into his house. Witness went with him, when he found the defendant lying on the floor. He refused to go out, and witness pulled him out, when he began violently kicking. He was a militia man, and had taken his cap, coat, and belt off, and also placed a chair and table before the front door. In defence, the defendant said, " I had no intention of going to the house to do any harm. I had some drink, and did not know what I did."— He was fined 10s, and 5s costs.
+Police-constable William Lockhart deposed to complainant's running up to him with only his shirt on, and could hardly speak for fright. He said a man had got into his house. Witness went with him, when he found the defendant lying on the floor. He refused to go out, and witness pulled him out, when he began violently kicking. He was a militia man, and had taken his cap, coat, and belt off, and also placed a chair and table before the front door. In defence, the defendant said, "I had no intention of going to the house to do any harm. I had some drink, and did not know what I did."— He was fined 10s, and 5s costs.
 
 ```
 
@@ -1203,7 +1203,7 @@ And the following provides a good example of some of the verbal slapstick that c
 
 BOROUGH COURT. On Monday last, before Mr. B. Mew, Esq., Mayor, T. Cooke and Abraham Clarke, Esqrs.
 
-The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged  under the head of disorderlies and *(sic)*
+The next was a dashing young Cyprian, answering to the name of Eliza Brading, who has lately been exhibiting in this town under distinguished patronage. She was charged under the head of disorderlies and *(sic)*
 
 P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
 
@@ -1211,13 +1211,13 @@ Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourboo
 
 Inspector Why your own father was accusing you of being a soldier's ————, and you were retorting on him that you paid the rent of the house and kept the rest of the family.
 
-Prisoner : You never saw me with any soldiers.
+Prisoner: You never saw me with any soldiers.
 
 Inspector: But I have with the officers, and arn't they soldiers?
 
 Prisoner: Ah! you'd swear anything.
 
-Inspector: After we got her into the station-house, she swore she would tell the Court that I wanted to come in with her ; the house where she lives is a complete nuisance to the town.
+Inspector: After we got her into the station-house, she swore she would tell the Court that I wanted to come in with her; the house where she lives is a complete nuisance to the town.
 
 Prisoner said in her defence that the policemen knocked her father down three times in the gutter, and when she interfered to protect him they struck her twice across the back, and that the Inspector would not even give her a drop of cold water in the station-house to cool her parched lips.
 
@@ -1227,7 +1227,7 @@ The dashing nymph looked extremely disconcerted at this announcement, as the rea
 
 James Brading, the father, a mason, was then charged with assaulting the police, and being guilty of disorderly conduct: and the evidence was to the same effect as that given against his daughter.
 
-Prisoner, to the Inspector : Did you ever find the money I lost out my pocket in the gutter that night? You said when you came back you'd see about it.
+Prisoner, to the Inspector: Did you ever find the money I lost out my pocket in the gutter that night? You said when you came back you'd see about it.
 
 Inspector: I never heard a word of any money you had or lost until this moment; you had only your trousers on; you did say you would tell the Magistrates where I sold the bad money. I have had you up before for bad conduct.
 
@@ -1329,7 +1329,7 @@ A girl, named Eliza Young, complained against a woman of the name of James, livi
 
 It appeared that the husband of defendant had been beating a younger sister of complainant, and Eliza was just in the act of repaying him, with interest, when at that moment in popped Mrs. James, and checked her with a couple of back-handed blows across the face.
 
-Complainant said she wished then to " take the pair," and they would have settled it without bringing the case here: but her friend would not let her.
+Complainant said she wished then to "take the pair," and they would have settled it without bringing the case here: but her friend would not let her.
 
 The magistrates bound Mrs. James over to keep the peace for a twelevemonth.
 
@@ -1343,7 +1343,7 @@ Perhaps the same Eliza Young was also involved in another incident a couple of y
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
-James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza, with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in ; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried " Murder !" and the police broke open the door, and took him to the station-house.
+James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza, with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried "Murder !" and the police broke open the door, and took him to the station-house.
 
 Eliza Young stated that the complainant merely came to her house for the purpose of asking her to accompany her to the Quay, to see if her husband was gone down the river.
 
@@ -1379,7 +1379,7 @@ The following tale has an interesting possible set-up regarding a lost £10 note
 :class: dropdown
 [Isle of Wight Observer - Saturday 05 November 1853](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18531105/008/0003)
 
-BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor ; E. Way, Esq., R. M. Wavell, Esq., and C. W. Estcourt, Esq., magistrates.)
+BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor; E. Way, Esq., R. M. Wavell, Esq., and C. W. Estcourt, Esq., magistrates.)
 
 Elizabeth Carr, was charged by P.C. Cave with making a great noise in the street about twelve o'clock on Sunday night. The prisoner denied being out so late as twelve o'clock, and said that she was at home and going to bed, but some own came and wanted her mother, and she went to look for her and found her at the Old King's Arms public house, and as they were coming home they talked rather loud about a £10 note, (it appears that James Mew, Esq., lost a £10 note and very liberally offered £2 reward for it, but it fell into the hands of some of the above woman's gang, and was actually changed at Mr. Mews brothers' brewery by one of them who had decamped), when the police constable took her into custody. The magistrates dismissed her with a reprimand; but the chairman told the mother who was in the court that she ought to have been in her daughter's situation as he feared from the bad example set the girl by her parent, it would not be the last time she would be brought before them.
 
@@ -1424,7 +1424,7 @@ Fanny Young, a common prostitute, was fined 5s. with 5s. costs, having been drun
 
 BOROUGH SESSIONS. Monday.—Before R. M. Wavell, Esq., E. Way, Esq., and Percy Scott, Esq.
 
-George Downer was charged with using indecent language in the street. He did not appear. (Mr. Way being a witness in the case did not occupy his seat on the bench during its hearing.) P.C. Hobbs proved to having served the summons on Downer, and Mr. Way said—A few minutes before 9 o'clock on Saturday night, as I was going from my house into the High-street, I heard a great noise, and on getting near where it was I saw Downer pushing woman about and using very indecent language. I told him such language was not allowed to be used in the street, and if he did not home quietly I should find another place for him. He asked me who I was ? I told him a magistrate of the borough, and that it was my duty not to allow such conduct. He then came towards me with the stick I now produce (about 36 inches long and 10 inches round) and threatened to strike me, and made use of similar language to me that he had been doing to the woman. I thought he would have struck me, but he did not. I fancied he had been drinking. I went away down the High-street to fetch a constable, and met Mr. Roach, who had heard what passed, coming with one.
+George Downer was charged with using indecent language in the street. He did not appear. (Mr. Way being a witness in the case did not occupy his seat on the bench during its hearing.) P.C. Hobbs proved to having served the summons on Downer, and Mr. Way said—A few minutes before 9 o'clock on Saturday night, as I was going from my house into the High-street, I heard a great noise, and on getting near where it was I saw Downer pushing woman about and using very indecent language. I told him such language was not allowed to be used in the street, and if he did not home quietly I should find another place for him. He asked me who I was? I told him a magistrate of the borough, and that it was my duty not to allow such conduct. He then came towards me with the stick I now produce (about 36 inches long and 10 inches round) and threatened to strike me, and made use of similar language to me that he had been doing to the woman. I thought he would have struck me, but he did not. I fancied he had been drinking. I went away down the High-street to fetch a constable, and met Mr. Roach, who had heard what passed, coming with one.
 
 P.S. Grapes said the defendant had been once before for assaulting the police.
 
@@ -1513,7 +1513,7 @@ BOROUGH SESSIONS. Monday.— Before F. Pittis, esq. (mayor), and Edw. Way, esq.
 
 Sarah Crib, an elderly woman, was charged with making use of obscene and indecent language in Brewhouse-yard, Sea-street, to Eliza Angel (a rather dark one.)
 
-The complainant, on being sworn, said—On Thursday week Mrs. Crib and Jane Mc'Custom was having a few words to themselves in their door in Brewhouse-yard, and Mrs. Mc'Custom asked her what she meant by calling her a w————, and Mrs. Crib's daughter came out with a saucer full of tea and sop and threw it at Mrs. Mc'Custom's face. Mrs. Crib then turned round to me and said, you b————, I'll do for you. I had not spoken to her at all. I then asked her what she could do ? and she said, you go and take that counterpane back to Mr. Mew's farm which I could swear you stole. I took one of the neighbours with me and went to Mr. Mew's. I asked Mrs. Mew if she could swear to the counterpane ? and she said it was not her's. I asked Mrs. Crib to go with me, but she would not. When I came back I told her I had been, and she abused me shamefully. I did not go to her house at all. She called me other disgusting names. She did not strike me.
+The complainant, on being sworn, said—On Thursday week Mrs. Crib and Jane Mc'Custom was having a few words to themselves in their door in Brewhouse-yard, and Mrs. Mc'Custom asked her what she meant by calling her a w————, and Mrs. Crib's daughter came out with a saucer full of tea and sop and threw it at Mrs. Mc'Custom's face. Mrs. Crib then turned round to me and said, you b————, I'll do for you. I had not spoken to her at all. I then asked her what she could do? and she said, you go and take that counterpane back to Mr. Mew's farm which I could swear you stole. I took one of the neighbours with me and went to Mr. Mew's. I asked Mrs. Mew if she could swear to the counterpane? and she said it was not her's. I asked Mrs. Crib to go with me, but she would not. When I came back I told her I had been, and she abused me shamefully. I did not go to her house at all. She called me other disgusting names. She did not strike me.
 
 This disgusting evidence was confirmed by Mrs. Mc'Custom and Mrs. Whitmaich, and not denied by the defendant, but she said the complainant used as bad.
 
@@ -1550,7 +1550,7 @@ In the following case, the route leads from the High Street to the Mechanics Ins
 
 [Hampshire Advertiser - Saturday 29 July 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18540729/043/0007)
 
-BOROUGH COURT. Monday.— Magistrates present : T. Cooke, and Edward Way, esqrs.
+BOROUGH COURT. Monday.— Magistrates present: T. Cooke, and Edward Way, esqrs.
 
 FEMALE JUVENILE DEPRAVITY.
 
@@ -1794,7 +1794,7 @@ Saturday—Before Sir H. P. Gordon, Bart, (chairman), A. J. Hambrough, Esq., and
 
 Rebecca Smith, a common prostitute, was charged by William Stevens with stealing his coat.
 
-It appeared that the complainant went into field to fight with another man and the defendant held his coat for him and he had never seen it since, but there being no proof against the prisoner that she stole the coat she was discharged in this case, but was then charged with stealing a book, " Light Hearts and Happy Days," from the shop of Mr. Frank Etheridge.
+It appeared that the complainant went into field to fight with another man and the defendant held his coat for him and he had never seen it since, but there being no proof against the prisoner that she stole the coat she was discharged in this case, but was then charged with stealing a book, "Light Hearts and Happy Days," from the shop of Mr. Frank Etheridge.
 
 Mr. Etheridge deposed to having seen the book produced in his shop about a week since, and swore to its being his property by the private mark he had written in it and by his own stamp, which was in the book.
 
@@ -1843,17 +1843,17 @@ Elizabeth Hewitt was next examined and said—I am the wife of John Hewitt. It i
 
 Alfred Hewitt here said there was no access but through a store to the garden in which the window was.
 
-Sarah Woodford: I am the wife of John Woodford and live in Union-road, at West Cowes. Last Saturday night, between 11 and 12 o'clock, the prisoner Nobbs was in my house. He said he was waiting for " Ned " Woodford. I heard Woodford talking in the lane, and I said to Nobbs, there is Woodford. Nobbs then went out. About half-past 2 o'clock Nobbs came back to my house and said, are you not gone to bed yet ? I said, no, but I am just going, and he went away. I went to bed about 3 o'clock. Nobbs had been in the habit of coming to my house for Woodford. I live just between where Nobbs and where Woodford live. I know Woodford very well, but he is no relation of mine.
+Sarah Woodford: I am the wife of John Woodford and live in Union-road, at West Cowes. Last Saturday night, between 11 and 12 o'clock, the prisoner Nobbs was in my house. He said he was waiting for "Ned" Woodford. I heard Woodford talking in the lane, and I said to Nobbs, there is Woodford. Nobbs then went out. About half-past 2 o'clock Nobbs came back to my house and said, are you not gone to bed yet? I said, no, but I am just going, and he went away. I went to bed about 3 o'clock. Nobbs had been in the habit of coming to my house for Woodford. I live just between where Nobbs and where Woodford live. I know Woodford very well, but he is no relation of mine.
 
-Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport. On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner ? He had some, and gave me a sovereign to pay for it, and I gave him the change. He told me that he was going to sea for a nine months' cruise to Alexandria, and he had drawn a month's pay in advance, and that he had come to Newport to have a bit of a spree before he went. I had not asked him where he got the money. When I closed the house in the afternoon he went away and came back again soon as we opened the door. Between 6 and 7 o'clock Woodford came in and stood at the bar, and he had not been there five minutes before a policeman came in and asked me had seen any strange youths there to-day. I then pointed out Woodford and to him. Woodford had changed a sovereign for a pot of beer and quartern of gin just as the policeman came in. The policeman took Nobbs away and left Woodford there. He remained there a minute or two and then went away. In about ten minutes afterwards he came back again and called for something to drink. He staid in the house about five minutes.
+Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport. On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner? He had some, and gave me a sovereign to pay for it, and I gave him the change. He told me that he was going to sea for a nine months' cruise to Alexandria, and he had drawn a month's pay in advance, and that he had come to Newport to have a bit of a spree before he went. I had not asked him where he got the money. When I closed the house in the afternoon he went away and came back again soon as we opened the door. Between 6 and 7 o'clock Woodford came in and stood at the bar, and he had not been there five minutes before a policeman came in and asked me had seen any strange youths there to-day. I then pointed out Woodford and to him. Woodford had changed a sovereign for a pot of beer and quartern of gin just as the policeman came in. The policeman took Nobbs away and left Woodford there. He remained there a minute or two and then went away. In about ten minutes afterwards he came back again and called for something to drink. He staid in the house about five minutes.
 
-Elizabeth Georgina Watson (a common prostitute): I live in the Tontine-yard. On Sunday last Nobbs came to my lodgings. I saw he had a sovereign and a half-sovereign in gold. He shewed it to me. In the evening I was in the Tontine, when Woodford came in, and he went to my lodgings with me. He gave me a shilling to pay for a bed and three shillings for myself. He then took out of his pocket a handful of papers. I said, what have you got there ? I went to snatch at it and he said, for God's sake don't. I said, what have you got here ? and he said, some £5 notes. I then said to him, there will be a chance for me to have my things out of pawn in the morning, wont there ? and he gave me one of the notes. I asked him if he was not going to give me something to drink and he gave me three pence to get a pint of ale. We drank it, and then went to bed. When I went for the ale I saw a policeman and heard that he was searching for some one, and I was afraid and went and threw the note I had in the fire directly. After I had been in bed some time I was called up. Woodford was asleep. I took from his pocket the three other notes and gave them to the man of the house, who came into the room, and he threw them into the fire. Woodford had no other papers in his pocket.
+Elizabeth Georgina Watson (a common prostitute): I live in the Tontine-yard. On Sunday last Nobbs came to my lodgings. I saw he had a sovereign and a half-sovereign in gold. He shewed it to me. In the evening I was in the Tontine, when Woodford came in, and he went to my lodgings with me. He gave me a shilling to pay for a bed and three shillings for myself. He then took out of his pocket a handful of papers. I said, what have you got there? I went to snatch at it and he said, for God's sake don't. I said, what have you got here? and he said, some £5 notes. I then said to him, there will be a chance for me to have my things out of pawn in the morning, wont there? and he gave me one of the notes. I asked him if he was not going to give me something to drink and he gave me three pence to get a pint of ale. We drank it, and then went to bed. When I went for the ale I saw a policeman and heard that he was searching for some one, and I was afraid and went and threw the note I had in the fire directly. After I had been in bed some time I was called up. Woodford was asleep. I took from his pocket the three other notes and gave them to the man of the house, who came into the room, and he threw them into the fire. Woodford had no other papers in his pocket.
 
-P.S. White: I went to Mr. Hewitt's house about 8 o'clock last Sunday morning. I first went into the parlour; the window was then open. I observed from the window a shutter, which separated the garden from the passage, had been taken down. I went from the house to the store. On going into the store I saw two panes of glass broken in the window of the door facing the water. The glass was lying outside. I searched about but could not then find where an entry had been obtained. I went to Newport in the afternoon, and about half-past 7 o'clock I went to the Tontine tap, and there apprehended Nobbs. He was drunk at the time. I searched him and found a sixpence in his pocket. I took him into custody, and when I got to the police-station I asked him how he accounted for the money he had been spending at the tap ? He said, a gentleman gave him five shillings for bringing up a carpet-bag; he met him in the street about 10 o'clock on Saturday night. I asked him where he left the gentleman ? He said, in the street, and he then gave him three halfcrowns. On Tuesday last I was in Newport and went to the station. Woodford was brought into the room where I was, and I said to him, whatever you like to say I shall put down. He then said, " I gave her one and she took the rest away from me, for I had the other three in my pocket when I went up stairs, and when I put on my clothes again I had nothing left but my knife. We both got into the house—Mr. Hewitt's house, the grocer—and we took the desk, what this money was in, and we broke it open and took out four notes, three sovereigns and half-sovereign, one pound six shillings worth of silver, a fourpenny piece, and three penny worth of coppers. We left the desk in Mr. Hewitt's store. The store is close to where he hoists up the the *(sic)* things; it's down stairs. We left it in an old cask, with the remainder of the notes in it. Nobbs brought away one sovereign, half-sovereign, and six shillings. I brought up the rest. I came away from Cowes about half-past 4 in the afternoon. Nobbs and myself broke into the house about half-past 1 or quarter 2 on the Saturday night. We got in a clap up at the side of the store. The little box is in the tub with the desk. The decanters in another tub in the top store." I asked him if he would sign that paper and he did so readily. I then went to Cowes and to Mr. Hewitt's store, where I found the decanters in a butter tub in one of the upper stores. I found the desk and missionary-box in a tea chest in the bottom store, both of which had been wrenched open. I then returned to Newport, and the two prisoners were brought out before me and Mr. Campbell. Mr. Campbell read out what he had taken down, and Nobbs said, that is all true with the exception that the desk was not in tub but in an old tea chest. Nothing else then passed. I now produce the desk, missionary-box, and decanters.
+P.S. White: I went to Mr. Hewitt's house about 8 o'clock last Sunday morning. I first went into the parlour; the window was then open. I observed from the window a shutter, which separated the garden from the passage, had been taken down. I went from the house to the store. On going into the store I saw two panes of glass broken in the window of the door facing the water. The glass was lying outside. I searched about but could not then find where an entry had been obtained. I went to Newport in the afternoon, and about half-past 7 o'clock I went to the Tontine tap, and there apprehended Nobbs. He was drunk at the time. I searched him and found a sixpence in his pocket. I took him into custody, and when I got to the police-station I asked him how he accounted for the money he had been spending at the tap? He said, a gentleman gave him five shillings for bringing up a carpet-bag; he met him in the street about 10 o'clock on Saturday night. I asked him where he left the gentleman? He said, in the street, and he then gave him three halfcrowns. On Tuesday last I was in Newport and went to the station. Woodford was brought into the room where I was, and I said to him, whatever you like to say I shall put down. He then said, "I gave her one and she took the rest away from me, for I had the other three in my pocket when I went up stairs, and when I put on my clothes again I had nothing left but my knife. We both got into the house—Mr. Hewitt's house, the grocer—and we took the desk, what this money was in, and we broke it open and took out four notes, three sovereigns and half-sovereign, one pound six shillings worth of silver, a fourpenny piece, and three penny worth of coppers. We left the desk in Mr. Hewitt's store. The store is close to where he hoists up the the *(sic)* things; it's down stairs. We left it in an old cask, with the remainder of the notes in it. Nobbs brought away one sovereign, half-sovereign, and six shillings. I brought up the rest. I came away from Cowes about half-past 4 in the afternoon. Nobbs and myself broke into the house about half-past 1 or quarter 2 on the Saturday night. We got in a clap up at the side of the store. The little box is in the tub with the desk. The decanters in another tub in the top store." I asked him if he would sign that paper and he did so readily. I then went to Cowes and to Mr. Hewitt's store, where I found the decanters in a butter tub in one of the upper stores. I found the desk and missionary-box in a tea chest in the bottom store, both of which had been wrenched open. I then returned to Newport, and the two prisoners were brought out before me and Mr. Campbell. Mr. Campbell read out what he had taken down, and Nobbs said, that is all true with the exception that the desk was not in tub but in an old tea chest. Nothing else then passed. I now produce the desk, missionary-box, and decanters.
 
 The prisoner Woodford said it was not read over to him until after he had signed it.
 
-P.C. Purchase: on Tuesday last, about 10 o'clock in the morning, I went into the kitchen at the police-station for Woodford's breakfast, and he made some remark about his being heard that day. I said to him, you look as if you are going to tell where you got the £5 notes that you gave to Georgina before night. He said, I never gave her but one, and she must have stolen the rest from my pocket when I was in bed, for I had them there when I went to bed and when you took me I had nothing in my pocket but my knife. I said, stop a-bit, can you write ? He said, no, but if you will get pen and pencil (or pencil or paper) I will tell you what to write. I then left him and went and called the Sergeant. I took Woodford into Mr. Campbell's office before the Sargeant, and he wrote down what Woodford said. I read it aloud, and then the Sergeant said to Woodford, now listen to me, and he read it aloud to him. This was before Woodford signed it. I then said to him, do you wish to say anything else and he said, no. Sergeant White asked him if he would sign it ? and he said, yes, and did so.
+P.C. Purchase: on Tuesday last, about 10 o'clock in the morning, I went into the kitchen at the police-station for Woodford's breakfast, and he made some remark about his being heard that day. I said to him, you look as if you are going to tell where you got the £5 notes that you gave to Georgina before night. He said, I never gave her but one, and she must have stolen the rest from my pocket when I was in bed, for I had them there when I went to bed and when you took me I had nothing in my pocket but my knife. I said, stop a-bit, can you write? He said, no, but if you will get pen and pencil (or pencil or paper) I will tell you what to write. I then left him and went and called the Sergeant. I took Woodford into Mr. Campbell's office before the Sargeant, and he wrote down what Woodford said. I read it aloud, and then the Sergeant said to Woodford, now listen to me, and he read it aloud to him. This was before Woodford signed it. I then said to him, do you wish to say anything else and he said, no. Sergeant White asked him if he would sign it? and he said, yes, and did so.
 
 Herbert Barnes, servant to Mr. Hewitt, deposed to having fastened the doors of the store on Saturday night.
 
@@ -1867,7 +1867,7 @@ Committed to the Assizes.
 
 County Petty Sessions.— Magistrates present: The Hon. A'Court Holmes, and Sir H. P. Gordon, bart.
 
-On Saturday, James Nobbs and Edward Woodford were charged with breaking into the house of Mr. John Hewitt of West Cowes, grocer, and stealing £25. Alfred Hewitt described the premises, which were secured in the usual manner on the previous Saturday night. The next morning a writing-desk, containing £65, a missionary-box, and two spirit decanters, were found to have been taken from the parlour. Mrs. Hewitt gave similar evidence. Sarah, wife of Joseph Woodford, deposed that Nobbs was at her house on the night in question ; he said he was waiting for Ned Woodford. She heard Woodford's voice outside, and said. "There is Woodford." He then left, and at half-past two he returned, and said. " Arn't you gone to bed yet?" Mary Phillips deposed that Nobbs came on Sunday to the Tontine, Newport, and asked to have some dinner, for which she charged 1s. He gave her a sovereign in payment and said he was going to sea, round Alexandria ; that he had drawn a month's pay, and came to have a spree before he went. A Policeman came to inquire about him, and she pointed him out. Elizabeth Georgiana Watson, a woman of the town, deposed she lived in the Tontine-yard. Nobbs came to her lodgings on Sunday evening. She saw that he had a sovereign and half-sovereign ; he gave her 3s. He took out some dark-looking paper from his pocket squeezed together. She endeavoured to snatch it from him, when he said, "Don't; they are £5 notes." Witness said, "There will be a chance to get the things out of pawn, in the morning, won't there?" He gave her one of the notes, such a one as that produced (National and Provincial Bank). Witness asked for some money to get some drink ; he gave her 3d. She went to the Tontine, where she saw a Policeman, and heard he was inquiring for notes. She went back, and put the note in the fire. She afterwards obtained the other three notea from the prisoner, and the man of the house put them also into the fire. Police-serjeant White deposed that he went to Mr. Hewitt's house on the previous Sunday, when he found the shutter had been removed from the court. He could not find where the entry had been effected until Monday. He went to the Tontine, at Newport, and apprehended Nobbs. Woodford was brought to the station on Monday. He made a confession which was produced, signed by him, to the effect that he and Nobbs got into Mr. Hewitt's store about ten o'clock on the previous Sunday morning, by opening a clap, and from thence proceeded to the parlour, where they found the missionary-box, and two decanters of spirits. They carried the things to the store, took out £95 from the desk, partook of the spirits, and left the remainder in a tub in the loft. (The articles were now produced and identified). Nobbs said to witness, when Woodford's confession was read over, that it was all true, except that the desk and missionary box were left in an old tea-chest, and not a tub. Police constable Purchase gave evidence in corroboration. Herbert Barnes, in the service of the prosecutor, gave evidence that he locked up the store, and that one of the prisoners had brought sawdust there on some occasions. No defence was attempted, and both prisoners were committed to the Assizes, on the charge of burglary.
+On Saturday, James Nobbs and Edward Woodford were charged with breaking into the house of Mr. John Hewitt of West Cowes, grocer, and stealing £25. Alfred Hewitt described the premises, which were secured in the usual manner on the previous Saturday night. The next morning a writing-desk, containing £65, a missionary-box, and two spirit decanters, were found to have been taken from the parlour. Mrs. Hewitt gave similar evidence. Sarah, wife of Joseph Woodford, deposed that Nobbs was at her house on the night in question; he said he was waiting for Ned Woodford. She heard Woodford's voice outside, and said. "There is Woodford." He then left, and at half-past two he returned, and said. "Arn't you gone to bed yet?" Mary Phillips deposed that Nobbs came on Sunday to the Tontine, Newport, and asked to have some dinner, for which she charged 1s. He gave her a sovereign in payment and said he was going to sea, round Alexandria; that he had drawn a month's pay, and came to have a spree before he went. A Policeman came to inquire about him, and she pointed him out. Elizabeth Georgiana Watson, a woman of the town, deposed she lived in the Tontine-yard. Nobbs came to her lodgings on Sunday evening. She saw that he had a sovereign and half-sovereign; he gave her 3s. He took out some dark-looking paper from his pocket squeezed together. She endeavoured to snatch it from him, when he said, "Don't; they are £5 notes." Witness said, "There will be a chance to get the things out of pawn, in the morning, won't there?" He gave her one of the notes, such a one as that produced (National and Provincial Bank). Witness asked for some money to get some drink; he gave her 3d. She went to the Tontine, where she saw a Policeman, and heard he was inquiring for notes. She went back, and put the note in the fire. She afterwards obtained the other three notea from the prisoner, and the man of the house put them also into the fire. Police-serjeant White deposed that he went to Mr. Hewitt's house on the previous Sunday, when he found the shutter had been removed from the court. He could not find where the entry had been effected until Monday. He went to the Tontine, at Newport, and apprehended Nobbs. Woodford was brought to the station on Monday. He made a confession which was produced, signed by him, to the effect that he and Nobbs got into Mr. Hewitt's store about ten o'clock on the previous Sunday morning, by opening a clap, and from thence proceeded to the parlour, where they found the missionary-box, and two decanters of spirits. They carried the things to the store, took out £95 from the desk, partook of the spirits, and left the remainder in a tub in the loft. (The articles were now produced and identified). Nobbs said to witness, when Woodford's confession was read over, that it was all true, except that the desk and missionary box were left in an old tea-chest, and not a tub. Police constable Purchase gave evidence in corroboration. Herbert Barnes, in the service of the prosecutor, gave evidence that he locked up the store, and that one of the prisoners had brought sawdust there on some occasions. No defence was attempted, and both prisoners were committed to the Assizes, on the charge of burglary.
 
 ```
 
@@ -1893,7 +1893,7 @@ Committed to the Sessions.
 
 NEWPORT PETTY SESSIONS.
 
-Saturday.—Before Rev. R. W. White, chairman ; Sir H. P. Gordon, Bart., Sir John Simeon, Bart., Hon. W. aCourt Holmes, and A. J. Hambrough.
+Saturday.—Before Rev. R. W. White, chairman; Sir H. P. Gordon, Bart., Sir John Simeon, Bart., Hon. W. aCourt Holmes, and A. J. Hambrough.
 
 George Lang and Charles King, the two privates of the 93rd regiment, who were remanded from Thursday last for breaking into the Riding School at Parkhurst barracks, and stealing therefrom several articles from the baggage which was stored away there, were again brought forward.
 
@@ -1905,13 +1905,13 @@ Jane Lock, another of those unfortunate girls, living in the same yard as the la
 
 P.C. Hobbs deposed to having gone with P.C. Purchase in search of the prisoner King, and to having found, at the witness Lock's house, four wet shirts, a wet sheet, and blanket, which he produced; and that he afterwards went to the barracks with Purchase, who took from Lang's foot a shoe and compared it with some footmarks in a garden adjoining the riding school, through which the prisoners must have passed with the things to get from the barracks unseen, and which marks corresponded exactly with Lang's shoe.
 
-P.C. Purchase was next examined, and said— In consequence of information I received on Tuesday morning last, I went to the barracks and received from Sergeant Gough a list of some things that had been stolen. I then went into the riding school and through a door at the side leading into little garden, where I saw some footmarks. There was another door in the garden which led into the summer parade field. Some new buildings had been erected near the garden, and the clay from the foundation had been thrown into the garden which, being quite soft, made the footmarks very plain. There were the marks of the feet of two men in the direction of the field from the door. I got some stones and covered up some of the plainest of the tracks. I then went to the Sergeant Major and asked him if there were any men absent last night. He said, Charles was. I then came into Newport, and went into the Tontine yard with P.C. Hobbs—four soldiers came down with me. I went into the witness Sterritt's house and went up stairs, and received from her a blanket, a polka cloak, pair of boots, and a coat. She said, King had brought them there. I now produce the things. I then came down stairs and apprehended King; he was concealed in a cupboard. I told him I should take him into custody for stealing those things from the riding school. He said, then you'll take me for what I haven't done. As I was coming to the station house with him custody, I said him, how do you account for having those things in your possession? He said, I found them on the side of the road between the barracks and the toll-gate. I asked him, when ? He said, last night, just after nine o'clock, when I was going to the barracks, just after the first tattoo, I picked them and brought them into the town; I was late, and I stopped absent.
+P.C. Purchase was next examined, and said— In consequence of information I received on Tuesday morning last, I went to the barracks and received from Sergeant Gough a list of some things that had been stolen. I then went into the riding school and through a door at the side leading into little garden, where I saw some footmarks. There was another door in the garden which led into the summer parade field. Some new buildings had been erected near the garden, and the clay from the foundation had been thrown into the garden which, being quite soft, made the footmarks very plain. There were the marks of the feet of two men in the direction of the field from the door. I got some stones and covered up some of the plainest of the tracks. I then went to the Sergeant Major and asked him if there were any men absent last night. He said, Charles was. I then came into Newport, and went into the Tontine yard with P.C. Hobbs—four soldiers came down with me. I went into the witness Sterritt's house and went up stairs, and received from her a blanket, a polka cloak, pair of boots, and a coat. She said, King had brought them there. I now produce the things. I then came down stairs and apprehended King; he was concealed in a cupboard. I told him I should take him into custody for stealing those things from the riding school. He said, then you'll take me for what I haven't done. As I was coming to the station house with him custody, I said him, how do you account for having those things in your possession? He said, I found them on the side of the road between the barracks and the toll-gate. I asked him, when? He said, last night, just after nine o'clock, when I was going to the barracks, just after the first tattoo, I picked them and brought them into the town; I was late, and I stopped absent.
 
 From further information I received, I went to the barracks again in the afternoon with Hobbs. I went to Lang's quarters where he was, and told him I must have his shoes to compare with some footmarks. He took them off. I then went to the garden and compared them with the footmarks there, and they corresponded exactly. I now produce the shoes. I then went back to Lang's quarters and took him into custody. The buffalo skin and the other pillow were found in the field.
 
 This being all the evidence there was against Lang the magistrates thought it insufficient, and discharged him.
 
-Adam Mc'Pherson, sergeant of the 93rd Regiment, said— I know the prisoner King. I have known him for eight years. I was on duty on Monday night, and he was reported absent from tattoo. I remained on duty till Tuesday afternoon two o'clock ; during which time he did not come to the barracks. On Sunday and Monday he was on duty as sentry at the riding school, which gave him an opportunity of seeing what was there. Sometimes the door of the riding school is not locked at night. During the night of the 29th ult., about twelve o'clock, the sentry at that post reported that some one had broken into the riding school. In consequence of which I went over, and discovered the side door which leads into the garden open. I saw the top partly off one box and the things in a ruffled state. That box belonged to the 77th Regiment. The baggage of five different Regiments was there. A box belonging to the 95th had also been disturbed.
+Adam Mc'Pherson, sergeant of the 93rd Regiment, said— I know the prisoner King. I have known him for eight years. I was on duty on Monday night, and he was reported absent from tattoo. I remained on duty till Tuesday afternoon two o'clock; during which time he did not come to the barracks. On Sunday and Monday he was on duty as sentry at the riding school, which gave him an opportunity of seeing what was there. Sometimes the door of the riding school is not locked at night. During the night of the 29th ult., about twelve o'clock, the sentry at that post reported that some one had broken into the riding school. In consequence of which I went over, and discovered the side door which leads into the garden open. I saw the top partly off one box and the things in a ruffled state. That box belonged to the 77th Regiment. The baggage of five different Regiments was there. A box belonging to the 95th had also been disturbed.
 
 The prisoner said, I am guilty of having the things, but not of taking them. I found them on the road-side. I never looked to see what they were; if I had known what they were, I would have had nothing to do with them.
 
@@ -1927,7 +1927,7 @@ The prisoner was then charged with and committed for stealing the shirts from th
 
 Petty Sessions
 
-Saturday.—Before Sir H. P. Gordon, Bart., Chairman ; Sir John Simeon, Bart.; Capt. Hamond, R.N.; Capt. Crozier, R.N.; and Thomas Cooke, Esq.
+Saturday.—Before Sir H. P. Gordon, Bart., Chairman; Sir John Simeon, Bart.; Capt. Hamond, R.N.; Capt. Crozier, R.N.; and Thomas Cooke, Esq.
 
 ...
 
@@ -1955,7 +1955,7 @@ Borough Sessions
 
 Monday.— Before E. Way, Esq. and R. M. Wavell Esq.
 
-Joseph Bailey, Leonard Campbell, John Beadlestone and Thomas Lyons, four privates in the 4th depot, stationed at Parkhurst barracks, were charged with breaking the house of Elizabeth Sterritt, a common prostitute, in the Tontine yard, on Sunday, the 1st inst., about 3 o'clock in the morning. There being no evidence against Bailey, he was discharged ; but the other three being identified they were each fined 10s. and 3s. 6d. costs, and in default of payment were committed to Winchester Gaol for one month hard labour.
+Joseph Bailey, Leonard Campbell, John Beadlestone and Thomas Lyons, four privates in the 4th depot, stationed at Parkhurst barracks, were charged with breaking the house of Elizabeth Sterritt, a common prostitute, in the Tontine yard, on Sunday, the 1st inst., about 3 o'clock in the morning. There being no evidence against Bailey, he was discharged; but the other three being identified they were each fined 10s. and 3s. 6d. costs, and in default of payment were committed to Winchester Gaol for one month hard labour.
 
 ```
 
@@ -1973,9 +1973,9 @@ SOLDIERS" SPREE.
 
 Joseph Bailey, William Campbell, John Beadlestone, and Thomas Lyons, privates in the Sth Regiment, were charged with breaking into a house in Tontine-yard. (Most of the tenements in this den are inhabited by persons of ill-fame, and the general resort of the soldiery).
 
-Elisabeth Sterrett said she lived in Tontine-yard, and was a widow. At about three o'clock in the morning on Sunday week she was in bed and heard a kicking at the door, and then heard a shutter broken open and one or two panes of glass break. When she had got a light four soldiers walked up to her room. Campbell was the first that came in. Beadlestone was another. She did not know the other two. Campbell said "Blood this night I'll have," and tried to tear her night clothes off her. Witness screeched " Murder!" and they went down stairs— she *threw* one down. Went down stairs and found four more— Lyons was one ; did not know the other ; they all got out through the window, and one of them said, " Campbell, smash some more windows," and they smashed several. There were eight panes broken—cost 8d a pane. Witness paid 8d for a bolt to fasten the shutters; the table was broken all to pieces, worth 4s. Witness did not miss anything, and they did not offer her any violence ; she was only frightened. Campbell struck her before the officers, when she was picking them out.
+Elisabeth Sterrett said she lived in Tontine-yard, and was a widow. At about three o'clock in the morning on Sunday week she was in bed and heard a kicking at the door, and then heard a shutter broken open and one or two panes of glass break. When she had got a light four soldiers walked up to her room. Campbell was the first that came in. Beadlestone was another. She did not know the other two. Campbell said "Blood this night I'll have," and tried to tear her night clothes off her. Witness screeched "Murder!" and they went down stairs— she *threw* one down. Went down stairs and found four more— Lyons was one; did not know the other; they all got out through the window, and one of them said, "Campbell, smash some more windows," and they smashed several. There were eight panes broken—cost 8d a pane. Witness paid 8d for a bolt to fasten the shutters; the table was broken all to pieces, worth 4s. Witness did not miss anything, and they did not offer her any violence; she was only frightened. Campbell struck her before the officers, when she was picking them out.
 
-Ann Philips said she lived in Tontine Yard ; heard Sterrett call " murder," looked out of window and saw the soldiers break the window with a stick ; saw they belonged to the 4th Regiment, did not know any of them, there were eight or nine.
+Ann Philips said she lived in Tontine Yard; heard Sterrett call "murder," looked out of window and saw the soldiers break the window with a stick; saw they belonged to the 4th Regiment, did not know any of them, there were eight or nine.
 
 P. C. Hobbs said that on the night of last Saturday week, he saw several soldiers come from Tontine Yard, proceeded there and saw the windows of Sterrett's house were broken. Knew Lyons and Campbell in the party, but could not identify the others.
 
@@ -1983,7 +1983,7 @@ Lyons, in defence, said he never was near the place.
 
 Beadlestone said he was not in the streets— was not with this party all night.
 
-Campbell was " not there at all at all."
+Campbell was "not there at all at all."
 
 Beadlestone called John Windgate, a private in the 8th, who said he was out of the barracks that night in a state of intoxication, and had been to sleep near a mill. When he awoke about daybreak he saw Beadlestone was there. Had not seen him before, and did not know where he had been in the night.
 
@@ -2059,7 +2059,7 @@ P.C. Cooke stated that he found men playing cards there on Saturday evening, and
 
 The defendant, in his defence, said he had been out to a Club on the night in question, and when he came home, and caught them at it, he snatched up what cards he could, and threw them into the fire, for which he was knocked down by a Cowes man.
 
-The Mayor said he should have immediately got the assistance of the police, and cleared his house of them, and not have allowed them to play afterwards.  He should dismiss the case, but advised him to be cautious for the future.
+The Mayor said he should have immediately got the assistance of the police, and cleared his house of them, and not have allowed them to play afterwards. He should dismiss the case, but advised him to be cautious for the future.
 
 ```
 
@@ -2079,9 +2079,9 @@ Joseph Read, being sworn, said— I live in Quaystreet, Newport. Yesterday after
 
 Thomas Denness was next examined, and said— Yesterday afternoon, about one o'clock, I saw bundle tied up and pinned. It resembled the wrapper now produced. It was near the hatch of St. Cross' mill. That was about 300 yards from the place described by the last witness. I tried to reach it, and touched it with my foot. On my touching it, it fell over the hatch. It fell heavy. It was then high water. It must have fallen seven or eight feet—probably two feet of water when it fell.
 
-Mr. Robert Horlock, surgeon, then said— I first saw the body of deceased about four o'clock yesterday afternoon. I examined the forehead and found it had a dark appearance, and there appeared to be extravasted blood beneath the scalp. The face was also a great deal discoloured. The left arm was lying across the upper part the chest, and the flesh of the arm quite flattened. An impression upon the chest where the arm had been lying across the body. The right arm in a flexed position. The umbilical cord had been divided close to the navel, apparently with an instrument, either scissors or a knife; but no ligature had been applied. A medical man or a midwife would have applied a ligature. The legs and thighs were also flexed and flattened. I think the body must have been tied up in the bundle while warm. There was eccleymosis of the blood-vessels on the arms and thighs, which prove that circulation had taken place after delivery. It was a full-grown female child. I should say that it had been dead more than a week—between a week and a fortnight. Decomposition had commenced on the surface. On turning the body over, I observed a good deal of crepitation under the left shoulder. I afterwards made an internal examination of the body. On opening the chest, I found the lungs and heart perfectly healthy. The vessels on the right of the heart, and the pulmonary vessels were much congested. The lungs appeared red and healthy ; and on making an incision into the lungs, blood flowed. It crepitated to the touch. I have not the slightest doubt that the child was born alive. I put a portion of the lungs into water, and they floated. The stomach was perfectly empty. The child had never taken food. The bladder was also empty, which showed that the child must have passed water after its birth. I then removed the scalp ; and underneath the scalp, on the right and upper side of the forehead, over the frontal bone, there was considerable quantity of extravasated blood. No extravasation under the other portion of the scalp. There is a membrane which covers the bone, (called the pericranium) and there was extravasated blood between that membrane and the bone. The place of the extravasation corresponded with the black appearance in the forehead; and I should think it was occasioned by a blow from a blunt instrument, as it did not cause any wound. On opening the head, I found the membrane of the brain a good deal congested, more particularly underneath the frontal bone, corresponding with the extravasation externally. That might have arisen from the same injury. The injuries which I found in the head, were sufficient to have caused death ; and I consider they must have been inflicted while the child was alive. It was a very fine child, and I could find nothing to account for its death from natural causes. If the mother had been delivered while standing, and the child had fallen on a stone floor, it is possible, though not probable, that it may have sustained injuries such as I have described. The injury might have been occasioned either from heavy fall a hard floor, or from a blow from a blunt or flat instrument.
+Mr. Robert Horlock, surgeon, then said— I first saw the body of deceased about four o'clock yesterday afternoon. I examined the forehead and found it had a dark appearance, and there appeared to be extravasted blood beneath the scalp. The face was also a great deal discoloured. The left arm was lying across the upper part the chest, and the flesh of the arm quite flattened. An impression upon the chest where the arm had been lying across the body. The right arm in a flexed position. The umbilical cord had been divided close to the navel, apparently with an instrument, either scissors or a knife; but no ligature had been applied. A medical man or a midwife would have applied a ligature. The legs and thighs were also flexed and flattened. I think the body must have been tied up in the bundle while warm. There was eccleymosis of the blood-vessels on the arms and thighs, which prove that circulation had taken place after delivery. It was a full-grown female child. I should say that it had been dead more than a week—between a week and a fortnight. Decomposition had commenced on the surface. On turning the body over, I observed a good deal of crepitation under the left shoulder. I afterwards made an internal examination of the body. On opening the chest, I found the lungs and heart perfectly healthy. The vessels on the right of the heart, and the pulmonary vessels were much congested. The lungs appeared red and healthy; and on making an incision into the lungs, blood flowed. It crepitated to the touch. I have not the slightest doubt that the child was born alive. I put a portion of the lungs into water, and they floated. The stomach was perfectly empty. The child had never taken food. The bladder was also empty, which showed that the child must have passed water after its birth. I then removed the scalp; and underneath the scalp, on the right and upper side of the forehead, over the frontal bone, there was considerable quantity of extravasated blood. No extravasation under the other portion of the scalp. There is a membrane which covers the bone, (called the pericranium) and there was extravasated blood between that membrane and the bone. The place of the extravasation corresponded with the black appearance in the forehead; and I should think it was occasioned by a blow from a blunt instrument, as it did not cause any wound. On opening the head, I found the membrane of the brain a good deal congested, more particularly underneath the frontal bone, corresponding with the extravasation externally. That might have arisen from the same injury. The injuries which I found in the head, were sufficient to have caused death; and I consider they must have been inflicted while the child was alive. It was a very fine child, and I could find nothing to account for its death from natural causes. If the mother had been delivered while standing, and the child had fallen on a stone floor, it is possible, though not probable, that it may have sustained injuries such as I have described. The injury might have been occasioned either from heavy fall a hard floor, or from a blow from a blunt or flat instrument.
 
-Verdict,— " The deceased was found dead, and that death was occasioned by injuries received on the head, but no sufficient evidence to shew whether the injuries were inflicted wilfully or accidentally."
+Verdict,— "The deceased was found dead, and that death was occasioned by injuries received on the head, but no sufficient evidence to shew whether the injuries were inflicted wilfully or accidentally."
 
 ```
 

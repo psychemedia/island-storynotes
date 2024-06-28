@@ -142,24 +142,34 @@ And so it was — a building was found, money was raised by subscription, and th
 
 But still, Carus Wilson couldn't resist making a making a point though his pen.
 
-And so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote another New Year's tract — "Portsmouth in Flames" — and I *have* managed to track a copy of this one down, albeit as part of a collection of tracts published by the Ipswich Temperance Society. Which perhaps gives you a clue as to its theme.
+And so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote *another* New Year's tract — "Portsmouth in Flames" — and I *have* managed to track a copy of this one down, albeit as part of a collection of tracts published by the Ipswich Temperance Society. Which perhaps gives you a clue as to its theme.
 
 The pamphlet appears to be a response to Carus Wilson's encounters with the "haunts of immorality" and "the bars of the gin palaces" in and around Portsmouth, estabishments which "fanned the flames of sin" and "layed waste the dearest interests of immortal beings".
 
 In particular, he layed the charge of sin not at the patrons of the bars and gin palaces and other "strongholds of Satan", but at the brewers and distillers, who would stoke the flames of sin in Portsmouth, fling souls on to the fires of hell, wholesale, as if they were faggots. He took heart that some of them were already "beginning to tremble at the prospect of their future reckoning", although he wondered at "the consciences of these men" and how "they expect to compose themselves on a dying pillow, or to stand in the judgment day" when the "flame of divine judgement" will surely make its ruling against them.
 
-Anecdotally, it seems that Carus Wilson's mission persuaded "one of the largest brewers in Portsmouth wrote to announce his conviction of the iniquities fostered by the sale of beer, and his determination to abandon his lucrative business for ever" and there were suggestions that "there was a visible decrease in the amount of drunkenness, vice, and disorder in the town", but generally, it seems as if the tract attracted mockery rather than moral improvement.
+Anecdotally, it seems that Carus Wilson's mission persuaded "one of the largest brewers in Portsmouth to announce his conviction of the iniquities fostered by the sale of beer, and his determination to abandon his lucrative business for ever" and there were suggestions that "there was a visible decrease in the amount of drunkenness, vice, and disorder in the town", but generally, it seems as if the tract attracted mockery rather than moral improvement.
 
 Commentators wondered whether Carus Wilson would follow up "Portsmouth in Flames" with other tracts — "Brighton in Blazes,"  maybe, or "Southampton, Storehouse of Sin,", or perhaps return his focus to the island with "Ryde the Ruined," — but increasing ill-health appears to have but an end to his New Year's Day publications.
 
-Through 1857, Carus Wilson continued to visit Gosport, giving out bibles and prayer books; NAME,  his name occasionally appearing in the Hampshire press TO DO
+Through 1857, Carus Wilson continued to visit Gosport, giving out bibles and prayer books; NAME,  his name occasionally appearing in the Hampshire press 
+
+TO DO
 
 But in the North of England, his name was filling the local and regional press with controversy.
 
-When Currer Bell had died, and her identity revealed to one and all as Charlotte Bronte, of Haworth, TO DO
+When Currer Bell had died, and her identity was revealed to one and all as Charlotte Bronte, of Haworth, the Lowood School described so bleakly in Jane Eyre was rapidly identified with the Clergymans' Daughters School at Cowan Bridge, and who else could have been the inspiration for Mr Brocklehurst, the ??? TO DO other than Carus Wilson?
+
+The story wasn't really a story, though. And it may have remained one of those peculiar literary noticings mentioned in a publication such as the rather fantastic *Notes & Queries*, which I'm hoping to weave into another set of historically connected tales, at some point. But then, after the prompting of Patrick Bronte, Charlotte's father, a couple of years earlier, came "The Life", in 1857 — or to give it it's full title, "The Life of Charlotte Bronte" — by Elizabeth Gaskell, or "Mrs Gaskell" as she was more widely known, friend and confidante to Charlotte Bronte, and as a Unitarian was might perhaps be expected to be rather antagonistic to the evangelical Carus Wilson and what may have been his rather fundamentalist position on Original Sin.
+
+TO DO
 
 
-The open chapters of Jane Eyre describe a young girls' experience at Lowood School, a dark, damp institution where the food was inedible and the girls suffered from consumption.
+The opening chapters of Jane Eyre describe a young girls' experience at Lowood School, a dark, damp institution where the food was inedible and the girls suffered from consumption. 
+
+
+On publication of "The Life", *W. W.* Carus Wilson, which is to say, *our* carus Wilson's son, started writing to the papers challenging Mrs. Gaskell's characterisation of his father and defending his good name.
+
 
 Taken to be actually autobiographical
 
@@ -170,23 +180,23 @@ a sneer at the Evangelical party in the Church.
 
 
 
-W. W. Carus Wilson critisicing several ppints in Gaskell's book
+W. W. Carus Wilson critisicing several points in Gaskell's book
 
 Nicholls then replies challenging each point in turn
 
-W. W. Carus Wilson responds immediately, quoting a lertter from his fatehr than claimed the aspersions cast against him and the school were false.
+W. W. Carus Wilson responds immediately, quoting a letter from his father than claimed the aspersions cast against him and the school were false.
 
 Henry Shepheard adds to Carus Wilson's defence
 
-Nicholls replies again, this time quoting a letter form someone who claimed the Jane Eyre Lowod school picture was instantly recognisable and defended the attacks made against his wife
+Nicholls replies again, this time quoting a letter form someone who claimed the Jane Eyre Lowood school picture was instantly recognisable and defended the attacks made against his wife
 
 A pamphlet then appeared — "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School" — that reprinted many of the letters made in support of Carus Wilson. Shepheard also reprinted the letters, as well as other letters in support of the school, in "A Vindication of the Clergy Daughters' School: And of the Rev. W. Carus Wilson, from the Remarks in "The Life of Charlotte Brontë."
 
-W. W. Carus WIlson had also been in correspondence with Mrs. Gaskell, who agreed to make some amendements to the thid edition of her biolgraphy of Chartlotte Bronte.
+W. W. Carus Wilson had also been in correspondence with Mrs. Gaskell, who agreed to make some amendements to the thid edition of her biolgraphy of Chartlotte Bronte.
 
 eg as regards the food - it was the result of a bad cook when the school was setting up
 
-The description of Lowwood, in "Jane Eyre" is evidently the result of a morbid impression on the mind of a highly sensitive child of nine, but it is due the estimable persons who were connected with it to state that the frightful charges brought against it by C. Bronte are denied; and the charitable designs of its founder have not been perverted in the way she has led her readers to believe.
+The description of Lowood, in "Jane Eyre" is evidently the result of a morbid impression on the mind of a highly sensitive child of nine, but it is due the estimable persons who were connected with it to state that the frightful charges brought against it by C. Bronte are denied; and the charitable designs of its founder have not been perverted in the way she has led her readers to believe.
 
 
 Letters bouncing backwards and forwards, corrspondence debate in local press; I girst came across thiese when I was digging ont ti the tale of the sin eater/

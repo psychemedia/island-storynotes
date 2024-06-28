@@ -221,8 +221,8 @@ Fairies are always associated with toadstools and mushrooms: making or sitting o
 p40-1
 Boniface
  Dangerous ! I did my best to look calm and collected ; but I found it very necessary to steady myself with my stick, and to use all my caution, while my landlord related to me some of the popu- lar tales about the high downs and cliffs."
-" Did he tell you those tales while you were standing in that dangerous spot ?"
-" He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon ; and the tale commonly told about it was this : —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
+"Did he tell you those tales while you were standing in that dangerous spot ?"
+"He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon ; and the tale commonly told about it was this : —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
 " What! down the steep side of St. Boniface?"
 " Yes ; the poor animal picked his way, as well as he could, while the bishop kept praying all the way, as he had good reason to do, that his life might be preserved. In his jeopardy he made a vow, that if ever he again set foot on level ground he would buy the place that he first trod on, for pious purposes. The horse carried his master
 safely down the hill, the bishop kept his vow in purchasing the land, and it goes by the name of Bishop's Acre to this day."
@@ -400,38 +400,38 @@ Vectis Scenery - Brannon:  Blackgag illustration, p52 ; also tale sof the claren
 
 Gladdon
 
-" I entertained my landlord with an account of a desperate adventure in which I once engaged at night, to take into custody a party of gipsy robbers, so that we passed the time very pleasantly till we
+"I entertained my landlord with an account of a desperate adventure in which I once engaged at night, to take into custody a party of gipsy robbers, so that we passed the time very pleasantly till we
 came to St. Boniface Down."
-" Will you tell us of that adventure of the gipsy
-robbers, uncle ?"
-" Not now, not now! let me go on with my
+"Will you tell us of that adventure of the gipsy
+robbers, uncle?"
+"Not now, not now! let me go on with my
 story. We went down the side of St. Boniface Down very cautiously, for the place is fearfully steep, and one false step might have precipitated us five or six hundred feet headlong. At last, after descending about a third part of the precipitous
 highdown,wecametothespot; butafallofloose chalk had completely filled up the well, so that had it not been for the rushes which grew there, no one would have suspected that water had ever issued from the place."
-" Then it was of no use your wishing anything, uncle."
-" None at all, none at all ; and if there had been water there, it would have made no difference on that head ; but I thought of what my landlady had told me about wishing herself safe down again, and it appeared to me to be a very natural wish."
+"Then it was of no use your wishing anything, uncle."
+"None at all, none at all ; and if there had been water there, it would have made no difference on that head ; but I thought of what my landlady had told me about wishing herself safe down again, and it appeared to me to be a very natural wish."
  40 WANDERINGS IK
-" Was it so very dangerous ?"
-" Dangerous ! I did my best to look calm and collected ; but I found it very necessary to steady myself with my stick, and to use all my caution, while my landlord related to me some of the popu- lar tales about the high downs and cliffs."
-" Did he tell you those tales while you were standing in that dangerous spot ?"
-" He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon ; and the tale commonly told about it was this : —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
-" What! down the steep side of St. Boniface?"
-" Yes ; the poor animal picked his way, as well as he could, while the bishop kept praying all the way, as he had good reason to do, that his life might be preserved. In his jeopardy he made a vow, that if ever he again set foot on level ground he would buy the place that he first trod on, for pious purposes. The horse carried his master
+"Was it so very dangerous ?"
+"Dangerous ! I did my best to look calm and collected ; but I found it very necessary to steady myself with my stick, and to use all my caution, while my landlord related to me some of the popu- lar tales about the high downs and cliffs."
+"Did he tell you those tales while you were standing in that dangerous spot ?"
+"He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon ; and the tale commonly told about it was this : —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
+"What! down the steep side of St. Boniface?"
+"Yes ; the poor animal picked his way, as well as he could, while the bishop kept praying all the way, as he had good reason to do, that his life might be preserved. In his jeopardy he made a vow, that if ever he again set foot on level ground he would buy the place that he first trod on, for pious purposes. The horse carried his master
 
  THE ISLE OF WIGHT. 41
 safely down the hill, the bishop kept his vow in purchasing the land, and it goes by the name of Bishop's Acre to this day."
-" Well, that is a curious tale ! true V
+"Well, that is a curious tale ! true V
 Do you think it
-" I hardly know what to say about it ; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; but if he did do so, all that I can say is, it is not very probable that he went down the steep part by the wishing-well."
-" What tales were told you about the high cliffs, uncle ?"
-" Several, that I have reason to believe were true. My landlord said that, some years ago, two soldiers who were intoxicated, lost their way by night and became confused. They approached the perpen- dicular cliffs that are seen as you pass between the
+"I hardly know what to say about it ; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; but if he did do so, all that I can say is, it is not very probable that he went down the steep part by the wishing-well."
+"What tales were told you about the high cliffs, uncle ?"
+"Several, that I have reason to believe were true. My landlord said that, some years ago, two soldiers who were intoxicated, lost their way by night and became confused. They approached the perpen- dicular cliffs that are seen as you pass between the
 St. Lawrence and Niton, and over they they went. I dare say the cliffs are more than five hundred feet high ; it was a terrible fall, and both of them were killed. There are accidents enough in the world
 without intemperance adding to their number."
 
 ———; ;
  42 WANDERINGS IN
-" Poor soldiers ! very likely they were brave
+"Poor soldiers ! very likely they were brave
 fellows, with all their faults."
-" They might be so. I like bravery, but I had
+"They might be so. I like bravery, but I had
 much rather see it employed in saving life, than in destroying it. I met with some lines yesterday that much pleased me. They were scrawled by a prisoner on his dungeon walls, and if he really
 were a Christian and a patriot, they do him credit they were as follows :
 I boast no courage on the battle field,
@@ -443,20 +443,20 @@ Yea—put the dagger at my naked breast If I recoil in terror from the flame
 Or recreant prove when peril rears its crest,
 To save a limb, or shun the public scorn
 Then write me down for aye—weakest of woman born.'
-" He must indeed have been a bold man !"
-" My landlord told me, also, of a man who fell over the cliffs, with some water cans, and though badly hurt, he was able afterwards to follow his
+"He must indeed have been a bold man !"
+"My landlord told me, also, of a man who fell over the cliffs, with some water cans, and though badly hurt, he was able afterwards to follow his
 calling. But another accident of which he told me was very remarkable."
-" Let us have it, uncle !" ! let us have it
+"Let us have it, uncle !" ! let us have it
 
  --
 
  Undercliff, Isle of Wight
 p116-7
 
- " THE BISHOP’S ACRE "
+"THE BISHOP’S ACRE"
 around which such a halo of mystery has grown, must now be con- sidered. This plot of ground at the foot of the Down stands on the north side of St. Boniface Road, just outside the parish boundaries, and before Ventnor, in 1867, was constituted a separate Urban Authority, formed a part of the Newchurch parish.
 Several interesting stories have arisen in connection with it. The earliest I can find is the following :
-" There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin."
+"There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin."
 Albin, five years later, repeats this version, and further says that :
 "It needs only to be added that a small parcel of land, containing about an acre, was given to the living in this situation, and, as supposed, in consequence of that vow."2
 

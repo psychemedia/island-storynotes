@@ -20,10 +20,10 @@ ST. NICHOLAS.
 
 "These abominable and impious ceremonies were probably originally instituted with a view to Christianise the *Bacchanalia* and *Saturnalia*. They were called the December Liberties." `[TH: see also eg https://github.com/psychemedia/winter-tales/blob/main/src/lord-of-misrule.md ]`
 
-" Pray, sir, who was this King Stuff, sole monarch of the Isle of Wight, that you spoke of just now? " asked the tutor.
+"Pray, sir, who was this King Stuff, sole monarch of the Isle of Wight, that you spoke of just now?" asked the tutor.
 
-" Never heard of King Stuff? " said the antiquary. " Why, Mr. Elder informed me that you were a Master of Arts, and had taken first-class honours at Oxford. You must at least have read of Stuff and Witgar in the Saxon Chronicles ? "
+"Never heard of King Stuff?" said the antiquary. "Why, Mr. Elder informed me that you were a Master of Arts, and had taken first-class honours at Oxford. You must at least have read of Stuff and Witgar in the Saxon Chronicles?"
 
-" I never heard of the Saxon Chronicles," was the reply. " Never heard of the Saxon Chronicles ! " said the antiquary, lifting up his hands in astonishment. " Perhaps you never heard of King Alfred ? "
+"I never heard of the Saxon Chronicles," was the reply. "Never heard of the Saxon Chronicles!" said the antiquary, lifting up his hands in astonishment. " Perhaps you never heard of King Alfred?"
 
-" I read about him at school ; but I never troubled myself about the history of England after I got to the University. A man may take every degree that Oxford confers without even having heard of William the Conqueror. But I can tell you all about Jupiter, and Mars, and Venus ; and I could give you a very correct account of the lives and the amours of the heathen gods and goddesses, all which it was absolutely necessary for me to learn ; besides which — "
+"I read about him at school ; but I never troubled myself about the history of England after I got to the University. A man may take every degree that Oxford confers without even having heard of William the Conqueror. But I can tell you all about Jupiter, and Mars, and Venus ; and I could give you a very correct account of the lives and the amours of the heathen gods and goddesses, all which it was absolutely necessary for me to learn ; besides which —"
