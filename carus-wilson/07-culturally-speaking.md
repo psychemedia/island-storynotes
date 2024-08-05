@@ -10,6 +10,33 @@ Currer Bell's groundbreaking novel "Jane Eyre" was first published in 1847, but 
 
 Reading through some early reviews of *Jane Eyre*, the lead character's early life in the less than pleasant Lowood School, with its poor fare and micro-management by a controlling clergyman, Mr. Brocklehurst, seems to attract the attention of several of the literary critics.
 
+```{admonition} "Not merely a work of great promise", October 1847
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/BL/0002115/18471023/030/0011?browse=true
+Atlas - Saturday 23 October 1847
+
+*Jane Eyre; an Autobiography.* Edited by CURRER BELL 3 vols. London: Smith, Elder, and Co.
+
+This is not merely a work of great promise; it is one of absolute performance. It is one of the most powerful domestic romances which have been published for many years. It has little or nothing of the old conventional stamp upon it; none of the jaded, exhausted attributes of a worn-out vein of imagination, reproducing old incidents and old characters in new combinations; but is full of youthful vigour, of freshness and originality, of nervous diction and concentrated interest. The incidents are sometimes melodramatic, and, it might be added, improbable; but these incidents, though striking, are subordinate to the main purpose of the piece, which depends not upon incident, but on the development of character; it is a tale of passion, not of action; and the passion rises at times to a height of tragic intensity which is almost sublime. It is a book to make the pulses gallop and the heart beat, and to fill the eyes with tears.
+
+Jane Eyre tells her own story. She is an orphan child, outwardly adopted but inwardly repudiated by a hard, unfeeling woman, her aunt, who outrages the affections of the child, and would fain crush her spirit. The little girl turns at times against her oppressor; and resistance strengthens the hatred and stimulates the cruelty of the bad woman. Jane is sent to a charitable institution, where she spends eight years of her life, emerging thence, at the age of eighteen, in the character of a governess. Here the interest of the story commences. The history of Jane's life at the Lowood institution is, perhaps, unnecessarily lengthened out. There is an air of truth about it; and we do not doubt that the character of Ellen Burns—a youthful inmate of the asylum, who is the very incarnation of Christian charity and forbearance—is an especial favourite with the writer. Helen Burns is just one of those idealities in which young writers are fain to revel—conjuring up with the enchanter's wand beings who belong to a higher sphere and a purer atmosphere than this—dream-children, with the unspotted hearts of babyhood and the wisdom of adolescence. Creations such as these are very beautiful, but very untrue. 
+
+...
+
+We know not whether this powerful story is from the pen of a youthful writer; there is all the freshness and some of the crudeness of youth about it, but there is a knowledge of the profoundest springs of human emotion, such as is rarely acquired without long years of bitter experience in the troubled sea of life. The action of the tale is sometimes unnatural—but the passion is always true. It would be easy to point out incidental defects; but the merits of the work are so striking that it is a pleasure to recognise them without stint and qualification. It is a book with a great heart in it; not a mere sham—a counterfeit.
+
+```
+
+```{admonition} *We do not know who "Currer Bell" might be*, October 1847
+:class: dropdown
+Weekly Chronicle (London) - Saturday 23 October 1847
+
+LITERARY CHRONICLE. JANE EYRE. An Autobiography. Edited by Currer Bell. 3 Vols.—London: Smith and Elder.—What we have to say about this work, may be summed up in a vary few words—it is the most extraordinary production that has issued from the press for years. We know no author who possesses such power as is exhibited in these three volumes—no writer who can sustain such a calm, mental tone, and so deeply interest without having recourse to any startling expedients, or blue-fire colouring, so prominent in modern literature. We do not know who "Currer Bell" might be, but if the name is not assumed, and if this is his first production, he might make his own terms with his booksellers in future, for his name will stand very high in literature. We were tempted more than once to believe that Mrs. Marsh was veiling herself under an assumed editorship, for this autobiography partakes greatly of her simple, penetrating style, and, at times, of her love of nature; but a man's more vigorous hand is, we think,perceptible. The character of Jane Eyre is illustrated in the first few pages of the book, when as a little child in the nursery she undergoes the persecution of her aunt (for she is an orphan) and the whole household. A mind formed of strong affections, quiet observation, and great moral courage, she bears in silence, not without occasional outbursts, the persecution she undergoes, until she is transplanted by her kind aunt to an orphan asylum founded by the class of bitter Christians who impose upon the weak and helpless the miseries of the body in order to purify their souls. Here she remains several years, and a picture is painted of the stagnant life of such institutions with a rare fidelity. 
+
+...
+
+```
+
 ```{admonition} The orphan daughter of a clergyman, November 1847
 :class: dropdown
 [Liverpool Standard and General Commercial Advertiser - Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0002088/18471116/215/0014)
