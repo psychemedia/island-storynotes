@@ -1,5 +1,12 @@
  # The Ardlamont Affair
 
+
+If you walk around the graveyard of St. Catherine's Church in Ventnor, just up the road slightly from Ventnor Exchange, the home of the Ventnor Fringe, you might notice a grave of
+
+![](hambrough_grave_0.jpg)
+
+![](hambrough_grave_2.jpg)
+
 It's 1893. Summer. And news of an accident breaks...
 
 ## A Unfortunate Accident
@@ -529,6 +536,8 @@ DEATHS
 HAMBROUGH— On the 11th inst., Charlotte Ann, second daughter of the late Albert John Hambrough, Esq., of Steephill Castle, Ventnor, Isle of Wight, aged 22.
 ```
 
+![](hambrough_grave_1.jpg)
+
 Certainly, the funeral seems not to have been a typical affair?
 
 ```{admonition} *Funeral of Miss Hambrough*, Hampshire Advertiser - Wednesday 25 May 1870
@@ -536,7 +545,7 @@ Certainly, the funeral seems not to have been a typical affair?
 
 In *Hampshire Advertiser*, Wednesday 25 May 1870, [p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18700525/017/0004):
 
-VENTNOR, May 25 The funeral of Miss Hambrough, eldest unmarried daughter of the late Mr. Albert Hambrough, of Steephill Castle. took place on Monday in the churchyard of St. Catherine's, Ventnor, and was conducted throughout with a rude, unceremonious simplicity, hardly in accordance with the young lady's own worth, and with the high social position of her family. To the numerous inhabitants of Ventnor, by whom the memory of her deceased father is still held in the most affectionate esteem, it was, indeed, painful to observe that not a single shutter was put up, nor a sign of grief displayed, all over the town, upon this melancholy occasion ! This omission, we are sure, was not the result of any want of proper respect or regret for the departed young lady (cut off in her 22nd year), but must rather be ascribed to other and peculiar circumstances.
+VENTNOR, May 25 The funeral of Miss Hambrough, eldest unmarried daughter of the late Mr. Albert Hambrough, of Steephill Castle. took place on Monday in the churchyard of St. Catherine's, Ventnor, and was conducted throughout with a rude, unceremonious simplicity, hardly in accordance with the young lady's own worth, and with the high social position of her family. To the numerous inhabitants of Ventnor, by whom the memory of her deceased father is still held in the most affectionate esteem, it was, indeed, painful to observe that not a single shutter was put up, nor a sign of grief displayed, all over the town, upon this melancholy occasion! This omission, we are sure, was not the result of any want of proper respect or regret for the departed young lady (cut off in her 22nd year), but must rather be ascribed to other and peculiar circumstances.
 
 ```
 

@@ -78,7 +78,7 @@ and when the deed was done he put the gun down on to the table, and gradually sa
 
 ```
 
-Walhampton House had been acquired by Heseltine, a stockbroker, in 1883. Heseltine himself "was a stockbroker and senior partner in the family firm, Heseltine, Powell & Co.", and "lived at 196 Queen's Gate in South Kensington, London", Walhampton House in Walhampton, Hampshire being his country home ([Wikipedia](https://en.wikipedia.org/wiki/John_Postle_Heseltine)).  The family firm was founded in 1848 by Heseltine's father and Charles W. Marten in 1848 as Marten & Heseltine" and "dealt particularly in American railroad bonds and shares". Heseltine was "a collector of oil paintings, drawings and watercolours of the English and Continental schools" and "was a trustee of the National Gallery and advised on the purchase of paintings from 1893 until his death in 1929".
+Walhampton House had been acquired by Heseltine, a stockbroker, in 1883. Heseltine himself "was a stockbroker and senior partner in the family firm, Heseltine, Powell & Co.", and "lived at 196 Queen's Gate in South Kensington, London", Walhampton House in Walhampton, Hampshire being his country home ([Wikipedia](https://en.wikipedia.org/wiki/John_Postle_Heseltine)). The family firm was founded in 1848 by Heseltine's father and Charles W. Marten in 1848 as "Marten & Heseltine" and "dealt particularly in American railroad bonds and shares". Heseltine was "a collector of oil paintings, drawings and watercolours of the English and Continental schools" and "was a trustee of the National Gallery and advised on the purchase of paintings from 1893 until his death in 1929".
 
 It seems that Heseltine was not a stranger to unfortunate accidents. His daughter, Dorothy Heseltine, married Lionel Sackville, Viscount Cantelupe, in 1890, only for him to die in a boating accident a few months after their marriage:
 
@@ -94,6 +94,7 @@ Lord Cantelupe has been drowned in Belfast Lough. It seems that at the height of
 Viscountess Cantelupe is at present staying with her mother at Wallhampton Park, Lymington. The deceased was only 24 years of age.
 
 ```
+
 But that's all by the by...
 
 Returning to the tragic case of Henry Card, and the behaviour he was trying to recreate: what was the *Ardlamont Shooting Case*, aka the *Ardlamont Mystery*, or the *Monson Case*?
