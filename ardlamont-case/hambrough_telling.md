@@ -12,6 +12,9 @@ Isle of Wight County Press - Saturday 06 April 1895
 
 THE AFFAIRS OF MAJOR HAMBROUGH.
 
-entailment
+entailment from great grandfather John Hambrough
 
 And that is what happenend aftervisting Lymingotn for drink on way to boat, end searching from Hambrough in in Newspaper archive when getting home
+
+
+
