@@ -34,11 +34,11 @@ It was the custom of our Norman ancestors, when they gave a grand hunting entert
 
 The hill still called the Queen's Bower derives its name from the circumstance of Isabella de Fortibus, the lady of the Isle of Wight in the reign of Edward the First, having there erected her hunting-pavilion. This lady, so celebrated in the local history of the island, was sometimes styled the Queen of the Isle of Wight; and, indeed, though feudally subject to the Crown of England, her authority within her own dominions was quite despotic, and she lived in her castle of Carisbrook in a magnificence and state worthy of royalty.
 
-A very curious account of a hunting of this lady, or Queen of the Isle of Wight, in Borthwood forest, is preserved in an ancient manuscript `[Ancient MS. Brit. Mus. Harl. MSS. 2252, 44. Wart. Eng. Poet. vol. i. p. 198.]` in the British Museum. It appears that a certain knight visited her court in disguise; and Isabella, wishing to satisfy her doubts as to whether he was come of noble blood or not, without committing a breach of ancient hospitality by asking him questions, proposes a grand hunting-match, that he might prove his noble breeding by his skill in the chase. The manuscript is as follows : —
+A very curious account of a hunting of this lady, or Queen of the Isle of Wight, in Borthwood forest, is preserved in an ancient manuscript `[Ancient MS. Brit. Mus. Harl. MSS. 2252, 44. Wart. Eng. Poet. vol. i. p. 198.]` in the British Museum. It appears that a certain knight visited her court in disguise; and Isabella, wishing to satisfy her doubts as to whether he was come of noble blood or not, without committing a breach of ancient hospitality by asking him questions, proposes a grand hunting-match, that he might prove his noble breeding by his skill in the chase. The manuscript is as follows: —
 
-" On the morrow, whan yt was day,  
+"On the morrow, whan yt was day,  
 To her men she gan to say,
-' To-morrow, whan it is daylight,  
+'To-morrow, whan it is daylight,  
 Lok ye be all redy dight,  
 With your houndis more and lesse  
 In forrest to take my gresse, `[Gresse — game.]`  
@@ -52,7 +52,7 @@ And with hem her houndis ladde, `[Ladde — led.]`
 All that any houndis hadde,  
 Syr Tholomew forgate he nought  
 His maistres houndis thythere he brought,  
-That many a day he had run ere ;  
+That many a day he had run ere;  
 Full well he thought to note hem there.  
 Whan they came to the lande on hight,  
 The queen's pavylyon there was pight, `[Pight — pitched.]`  
@@ -72,9 +72,9 @@ Eche man after his manere:
 Ippomedon a deer gede unto,  
 That full konningly gon he it undo,  
 So fair, that very son he gan to dight  
-That both him byheld squyre and knighte ;
+That both him byheld squyre and knighte;
 The ladye looked out of her pavylyon,  
-And saw hitn dight the venyson ;  
+And saw hitn dight the venyson;  
 There she had grete daintee,  
 And so had alle that dyd hym see.  
 She sawe all that he down threu,  
@@ -104,7 +104,7 @@ pp198-205
 
 Ipomedon  
 
-Ipomedon is mentioned among the romances in the Prologue of Richard Cuer de Lyons which, in an ancient copy of the British museum, is called Syr Ipomydon : a name borrowed from the Theban war, and transferred here to a tale of the feudal times '. This piece is evidently derived from a French original. Our hero Ippomedon is fon of Ermones king of Apulia, and his mistress is the fair heiress of Calabria. About the year 1230, William Ferrabras ', and his brethren, sons of Tancred the Norman, and well known in the romantic history of the Paladins, acquired the signories of Apulia and Calabria. But our English romance seems to be immediately translated from the French ; for Ermones is called king of Poyk, or Apulia, which in French is Pouille. I have transcribed some of the most interesting passages '.
+Ipomedon is mentioned among the romances in the Prologue of Richard Cuer de Lyons which, in an ancient copy of the British museum, is called Syr Ipomydon: a name borrowed from the Theban war, and transferred here to a tale of the feudal times'. This piece is evidently derived from a French original. Our hero Ippomedon is fon of Ermones king of Apulia, and his mistress is the fair heiress of Calabria. About the year 1230, William Ferrabras', and his brethren, sons of Tancred the Norman, and well known in the romantic history of the Paladins, acquired the signories of Apulia and Calabria. But our English romance seems to be immediately translated from the French; for Ermones is called king of Poyk, or Apulia, which in French is Pouille. I have transcribed some of the most interesting passages'.
 
 Ippomedon, although the son of a king, is introduced waiting in his father's hall, at a grand festival. This servitude was so far from being dishonourable, that it was always required as a preparatory step to knighthood ".  
 
@@ -113,13 +113,13 @@ At Whytfuntyde a fest held
 Of dukis, erlis, and barouns,  
 Mani ther com frome diverfe tounes,  
 Ladyes, maydens, gentill and fre.  
-Come thedyr frome ferre countre :  
+Come thedyr frome ferre countre:  
 And grette lordis of ferre lond,  
-Thedyr were prayd by fore the hond ".  
+Thedyr were prayd by fore the hond".  
 Whan all were com to gidyr than  
-Ther was joy of mani a man ;  
+Ther was joy of mani a man;  
 
-' MSS. Harl. 2252. 44. f. 54. And in the library of Lincoln cathedral, (K k. 3, 10.) is an ancient  imperfect printed copy, wanting the first sheet.
+MSS. Harl. 2252. 44. f. 54. And in the library of Lincoln cathedral, (K k. 3, 10.) is an ancient  imperfect printed copy, wanting the first sheet.
 
 *Bras de fer*. Iron arms,  
 
@@ -137,17 +137,17 @@ Ffor better might no man devyfe.
 Ippomedon that day fervyde in halle.  
 All fpake of hym both grete and fmalle,  
 Ladyes and mayden by helde hym on,  
-So goodly a youth they had fene non :  
+So goodly a youth they had fene non:  
 Hys feyre chere in halle theym fmerte  
 That mony a lady fon fmote throw the herte.  
 And in theyr hartys they made mone  
 That there lordis ne were fuche one.  
 After mete they went to pley,  
-All the peple, as I you fay ;  
+All the peple, as I you fay;  
 Some to chambre, and fome to boure,  
-And fome to the hye toure ' ;  
+And fome to the hye toure';  
 And fome on the halle ftode  
-And fpake what hem thoht gode :  
+And fpake what hem thoht gode:  
 Men that were of that cite ^  
 Enquired of men of other cuntre, Sec.
 
