@@ -118,7 +118,7 @@ THE ARDLAMONT MYSTERY
 
 Herewith we give a portrait of the missing Scott for whose arrest a reward of £200 is offered by the police in connection with the Ardlamont tragedy. Concerning Scott a strange story reaches us from Londonderry. A hairdresser in that town states that a person answerting to the official description of the missing man called at his shop on November 15 and had his moustache shaved off. The man's demeanout was uneasy. Questioned as to why he was having his moustache shaved off he explained that he was carrying out a joke, and gave the address of a friend, which turns out to be false. The hairdresser is firmly of opinion that Scott is no other than the stranger he shaved.
 
-IMAGE - TO DO
+![The missing man Scott](images/missing-man-scott-uttoxeter.png)
 
 The hunt for Scott, however, seems to be going forward less keenly because it is noiseless. It is only natural, perhaps, that all sorts of rumours should be floating in the air. Thus it was announced in least one quarter on Saturday, of course from the usual "trustworthy source," that the fugitive might even yet be caught— "if the information received by authorities is correct."  "If" is at all times a pretty safe qualification. The actual fact is, at the time of the receipt of the intelligence on which these remarks are founded, that no official tidings have come to hand of the capture of the one man who is needed to complete the cycle of the Ardlamont mystery.
 
@@ -160,7 +160,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0002933/18940101/023/0001
 
 Toronto Daily Mail - Monday 01 January 1894
 
-IS IT SCOTT ?
+IS IT SCOTT?
 
 A Suicide In London. The Police Suspect the Man to be the Scott of Ardlamout Fame. London, Dec. 31.—The body of a man who had committed suicide was found yesterday a lodging-house in the Old Ford road, East London. The man had shot himself with a revolver in the temple. When the pollee saw the body they were at once struck by its resemblance to the description of the mysterious Scott," for whom they have been looking for months in connection with the alleged murder of Lieut. Hambrough. "Scott " was jointly indicted with Alfred John Monson for the killing of Lieut. Hamhrough, and when the ease came ou for trial at Edinburgh a few days ago, and "Scott " did not appear for trial, be was declared au outlaw. Monson was tried, and escaped by the jury returning a verdict of "Not proven,".but the pollee continued their search for "Scott." The man found dead supposed to have shot himself on Fridge evening. 'lin , have sent for one of "Scott's " relatives in order to have them identify the body, as they think it is undoubtedly his. 
 
@@ -184,7 +184,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0002002/18940414/025/0002
 
 Exmouth Journal - Saturday 14 April 1894
 
-THE ARDLAMONT MYSTERY , scarfs STORY OP THE TRLOEDY• In the Pall Mall Gazette, Scott, the witness who was wanted but could not be found during the investigation of the Ardlamont case, relates the story of ' the death of Lieutenant Hambrough. Scott, according to the account he gives, was roused soon after • daybreak on the morning "f August 10 to go out on the rabbit shooting expedition which had so fatal an ending. The trio had not proceeded far in the wood when Monson and Hambrough separated Scott keeping in the rear to pick up the dead rabbits —when he heard a single shot fired. He called out something to the effect, " what have you got 7" He received no reply, and concluded it was a miss. In a very short time he caught up with Mr. Monson, and about 15 or 20 yards further on the lifeless body of the ill-fated Cecil Hambrough was found. According to Scott, "shortly after midday it was an undoubted, admitted fact, that Mr. Hambrough had met his death by an accidentally self-inflicted wound caused by the going off of his own gun." As to his disappearance from Ardlamoot, he declares that having ascertained from Dr. MacMillan that there would be no inquest, he left the place quite openly, speaking of the accident to a policeman on the pier at Tighnabruaich, and giving that officer his Glasgow address. 
+THE ARDLAMONT MYSTERY, scarfs STORY OF THE TRAGEDY. In the Pall Mall Gazette, Scott, the witness who was wanted but could not be found during the investigation of the Ardlamont case, relates the story of the death of Lieutenant Hambrough. Scott, according to the account he gives, was roused soon after daybreak on the morning of August 10 to go out on the rabbit shooting expedition which had so fatal an ending. The trio had not proceeded far in the wood when Monson and Hambrough separated Scott keeping in the rear to pick up the dead rabbits —when he heard a single shot fired. He called out something to the effect, "what have you got?" He received no reply, and concluded it was a miss. In a very short time he caught up with Mr. Monson, and about 15 or 20 yards further on the lifeless body of the ill-fated Cecil Hambrough was found. According to Scott, "shortly after midday it was an undoubted, admitted fact, that Mr. Hambrough had met his death by an accidentally self-inflicted wound caused by the going off of his own gun." As to his disappearance from Ardlamoot, he declares that having ascertained from Dr. MacMillan that there would be no inquest, he left the place quite openly, speaking of the accident to a policeman on the pier at Tighnabruaich, and giving that officer his Glasgow address.
 
 ---
 
@@ -196,7 +196,7 @@ THE ARDLAMONT MYSTERY. OFFERED SURRENDER OF SCOTT.
 
 Scott, the man who disappeared when the Ardlamomt mystery aroused so much comment, offered to surrender, on Thursday, to the police in London. He has made a declaration to the effect that his name is Edward Sweeney, that at one time he was known as Ted Davies, bookmaker, that in August last year, under the name of Scott, be passed three days at Ardlamont, as Hanson's guest, and that he is the person against whom a warrant was issued for the alleged murder of Cecil Hambrough.
 
-The Press Association says :—" The attempt to impart significance to the appearance of Scott has by no means disturbed the equanimity of the London police authorities. Scott is not in custody, and at present the Scotland Yard authorities have no intention of depriving him of his liberty. Such a course will entirely depend upon the Procurator-Fiscal in Edinburgh who will, it is expected, decide what course will be adopted." 
+The Press Association says:—"The attempt to impart significance to the appearance of Scott has by no means disturbed the equanimity of the London police authorities. Scott is not in custody, and at present the Scotland Yard authorities have no intention of depriving him of his liberty. Such a course will entirely depend upon the Procurator-Fiscal in Edinburgh who will, it is expected, decide what course will be adopted."
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000609/18940503/153/0004
@@ -229,7 +229,7 @@ The Stage - Thursday 24 May 1894
 
 GLASGOW
 
-Gaiety.— The appearance of Scott, who figured so largely in the Ardlamont mystery, served to crowd the Gaiety to witness the clever trick of Morritt's ; ...
+Gaiety.— The appearance of Scott, who figured so largely in the Ardlamont mystery, served to crowd the Gaiety to witness the clever trick of Morritt's; ...
 
 ---
 https://archive.org/details/the-magic-wand-vol-iii-september-1912-to-august-1913/page/391/mode/2up?q=%22charles+morritt%22+%22missing+man%22
@@ -298,7 +298,7 @@ One thing is clear—viz., that none of the jurymen in any of these cases were p
 
 I have always felt great sympathy with juries, especially in capital cases. Not trained to the law, they are torn from their avocations or businesses, shut up for days, it may be for weeks, perplexed by
 
-The Verdict “ Not Proven.”
+The Verdict "Not Proven."
 
 777
 
@@ -342,9 +342,7 @@ Any attempt, at this time of day, to throw further light on what is called the A
 
 The case is of such recent date, and excited such universal interest, that I need not repeat the story. I propose to take up the points of interest as they occur in reading the evidence; and I refer, in the first place, to the important evidence of Mr. Macnaughton, the gunmaker.
 
-Tine of Fire-—Mr. Macnaughton found on the rowan tree, some 6 feet from the ground, the marks of a charge of shot having passed through the tree. Guided by the line of grooving in these marks, he found corresponding marks in the branches of two trees, a beech and a lime, further along the dyke. Noting the position which Hambrough's head would have occupied if he had been standing upright on the spot where his feet lay when he was found dead, Mr.
-
-Macnaughton found on stretching a tape that the head, the marks in the rowan, and the marks in the beech and lime were in a straight line: from this the inference was drawn that part of the charge which killed Hambrough passed through the rowan and beech and lime trees. So far, this is plain enough; but when he proceeds to contend that the gun was necessarily fired from a point along the same line, I think the argument of the defence was perfectly legitimate. If Hambrough's head had been straight between the muzzle of the gun and the rowan tree, the shot would have been deflected from the head, and would not have made the pattern on the tree that was found. Assuming Mr. Macnaughton's line of fire to be the true one, I think that no sufficiently explicit answer was given to the objection raised by the defence.
+Tine of Fire-—Mr. Macnaughton found on the rowan tree, some 6 feet from the ground, the marks of a charge of shot having passed through the tree. Guided by the line of grooving in these marks, he found corresponding marks in the branches of two trees, a beech and a lime, further along the dyke. Noting the position which Hambrough's head would have occupied if he had been standing upright on the spot where his feet lay when he was found dead, Mr. Macnaughton found on stretching a tape that the head, the marks in the rowan, and the marks in the beech and lime were in a straight line: from this the inference was drawn that part of the charge which killed Hambrough passed through the rowan and beech and lime trees. So far, this is plain enough; but when he proceeds to contend that the gun was necessarily fired from a point along the same line, I think the argument of the defence was perfectly legitimate. If Hambrough's head had been straight between the muzzle of the gun and the rowan tree, the shot would have been deflected from the head, and would not have made the pattern on the tree that was found. Assuming Mr. Macnaughton's line of fire to be the true one, I think that no sufficiently explicit answer was given to the objection raised by the defence.
 
 Believing (for reasons to be given hereafter) that the shot was fired at very close quarters, and at a very particular angle to the head, I am of opinion that the charge tore through the parts, most of the pellets (say # of them) missing the head entirely, while those which struck the head were deflected at a very fine angle, and caused the pattern on the rowan and other trees to be indefinitely altered. In fact, the pattern on the trees was valueless in estimating the distance from the tree at which the fatal shot was fired, though it may be very good evidence to show that the shot passed in a more or less horizontal line at the height of a man's head from the ground through these trees.
 
