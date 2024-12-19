@@ -2,6 +2,8 @@
 
 Original reports
 
+Unlawful Oaths Act 1797 -  response to the Spithead and Nore mutinies ?
+
 ----
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970418/021/0004
