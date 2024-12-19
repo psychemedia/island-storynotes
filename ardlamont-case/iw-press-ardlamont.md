@@ -1,6 +1,8 @@
-# Ardlamount — IW Press
+# The Ardlamount Case in the Isle of Wight Press
 
+In the process I am exploring of familiarising myself with the public accounts of particular events as reported in the public press, and then "forgetting the facts" in the hope of discovering the story that remains, I have been taking a broad view over as many news reports I can, irrespective of their geographic locale.
 
+But for this story, it might be worth considering what sort of story surfaces if we limit ourselves to forgetting from a basis of what was reported in the local Island press, along with any other local knowledge still available to us form a consideration of local geography and readily available local history.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001960/18930819/089/0006
 Isle of Wight County Press - Saturday 19 August 1893
