@@ -36,11 +36,11 @@ Dissatisfaction grew, particularly on board Howe's old flagship, the Queen Charl
 
 Small boats started criss-crossing out from the Queen Charlotte to the other ships, and soon a plan was made.
 
-That weekend would be Easter. On Holy Thursday — Maundy Thursday — and again on Good Friday, petitions started to be put together, petitions that would be sent this time to the Admiralty itself. /On Easter Monday, the crews would then take action, hoist a flag, and refuse to sail when next told to weigh anchor.
+That weekend would be Easter. On Holy Thursday — Maundy Thursday — and again on Good Friday, petitions started to be put together, petitions that would be sent this time to the Admiralty itself. On Easter Monday, the crews would then take action, hoist a flag, and refuse to sail when next told to weigh anchor.
 
 Realising that all was not well, an order was made on Easter Sunday for one of the squadrons to sail round to St. Helens, for final preparations before sailing on into the Channel.
 
-But even though the petitions weren't yet ready, this attmept to disrupt any action by the men prompted them to take action immediately. And the mutiny began.
+But even though the petitions weren't yet ready, this attempt to disrupt any action by the men prompted them to take action immediately. And the mutiny began.
 
 But not a violent or riotous mutiny.
 
@@ -48,9 +48,9 @@ The officers were still to be respected, and discipline was to be maintained. Bu
 
 Bridport tried to be reasonable, and he told his Captains to get a list of grievances from each ship. The demands were all much the same and much as you might expect: better pay, a fairer share of provisions, a fairer share of any prize money, pensions for wounded seamen, improved shore leave, and better treatment from the officers.
 
-The next day, on Easter Monday, the men took an oath to the cause: if the men were unanimous, and united, it would be impossible to punish them all for transgressing the Articles of War. They had tried petitioning their old commander,which had got them nowhere; but now they would try the Admiralty: they had tried raising concerns, as the Articles of War said they could, but they had not been heard. So they would try again, but this time in combination.
+The next day, on Easter Monday, the men took an oath to the cause: if the men were unanimous, and united, it would be impossible to punish them all for transgressing the Articles of War. They had tried petitioning their old commander, which had got them nowhere; but now they would try the Admiralty: they had tried raising concerns, as the Articles of War said they could, but they had not been heard. So they would try again, but this time in combination.
 
-The patients at Haslar, the naval hospital that looks out towards Spithead from the mouth of Portsmouth harbour, good hear cheers from on board the ships of the fleet. When news of the mutiny reached them, they raised their voices in three cheers too, hanging banners made of handkerchiefs tied together and waving flags from their windows in a sign of support.
+The patients at Haslar, the naval hospital that looks out towards Spithead from the mouth of Portsmouth harbour, could hear cheers from on board the ships of the fleet. When news of the mutiny reached them, they raised their voices in three cheers too, hanging banners made of handkerchiefs tied together and waving flags from their windows in a sign of support.
 
 By 5pm that day, still Easter Monday, a delegation that included Lord Spencer, the first Lord of the Admiralty himself, had set out from London. It arrived at the Fountain Inn, on the High Street in Portsmouth — the inn is no longer there — by noon the following day. Immediately, a board meeting was held to rule on the men's demands.
 
@@ -58,9 +58,9 @@ Slightly improved wages, and better pensions, were both agreed to.
 
 But the men wanted more... Fairer provisions, better treatment and so on. And a pardon: every man should receive a pardon from taking part in the mutiny.
 
-At this point, the Board grew suspicious: was this a tactic the seamen would continue to play out? Get a concession, ask for more. Get another concession, ask for more again? ?/So they told Bridport to tell the men: take it or leave it, and you can have your pardon. Or suffer the full consequences of being a mutineer as stipulated in the Articles of War.
+At this point, the Board grew suspicious: was this a tactic the seamen would continue to play out? Get a concession, ask for more. Get another concession, ask for more again? So they told Bridport to tell the men: take it or leave it, and you can have your pardon. Or suffer the full consequences of being a mutineer as stipulated in the Articles of War.
 
-At the same time, the Admiralty men believed in a stratgey of divide and conquer. If the less mutinous ships could be sailed round to St. Helens, splitting them from the rest of the fleet, the mutiny could be more easily brought to an end.
+At the same time, the Admiralty men believed in a strategy of divide and conquer. If the less mutinous ships could be sailed round to St. Helens, splitting them from the rest of the fleet, the mutiny could be more easily brought to an end.
 
 Bridport, and his Rear Admirals, advised against it. They knew their men, and they told the Admiralty folk that the only real solution was to make the additional concessions.
 
@@ -74,7 +74,7 @@ As you can imagine, this did not go down well. But, and I don't know quite how, 
 
 Until this point, Bridport's flag had still been flying on the Royal George. But fearing some sort of reprisal, the men started to prepare the guns and set a watch, and Bridport's officers took the flag down, so it would not be further sullied.
 
-Provoked in part by Garner's outburst, the men's suspicions about the good faith of the Admiralty increased further. So they did what you do under such cicrumstances, and doubled down, adding a further demand: that Parliament should sign off on the concessions too. But at the same time, they were still Bridport's men, and being concerned about losing his support, the men of the Royal George wrote to him as the "father of the fleet", asking him not to abandon them, and to reassume his command.
+Provoked in part by Gardner's outburst, the men's suspicions about the good faith of the Admiralty increased further. So they did what you do under such cicrumstances, and doubled down, adding a further demand: that Parliament should sign off on the concessions too. But at the same time, they were still Bridport's men, and being concerned about losing his support, the men of the Royal George wrote to him as the "father of the fleet", asking him not to abandon them, and to reassume his command.
 
 The Admiralty Lords went back to London, and a letter was sent to the privy Council. From there, Pitt, the Prime Minister, went to see the King, at Windsor.
 
@@ -82,7 +82,7 @@ A Royal proclamation was signed, and sealed, and one hundred copies printed off.
 
 On board the Charlotte, the men were still suspicious. It looked like a Royal Pardon, but was it? Thy demanded to see the original, which then had to be brought over from the Royal George.
 
-And so it was that a week or so after the ropes had first been hung ober the yard arms, they were taken down, and the Spithead mutiny was over.
+And so it was that a week or so after the ropes had first been hung over the yard arms, they were taken down, and the Spithead mutiny was over.
 
 Or at least, the *first* Spithead mutiny was over.
 
