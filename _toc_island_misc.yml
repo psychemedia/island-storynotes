@@ -1,0 +1,38 @@
+format: jb-book
+root: preface_wight_misc
+parts:
+- caption: Abraham Elder
+  chapters:
+  - file: piedPiperNewtown/identity_of_abraham_elder
+  - file: godshill
+  - file: elder-godshill-reversioned
+- caption: Other Nursery Rhymes and Tales
+  chapters:
+  - file: three-little-pigs
+- caption: Hanging in Chains
+  chapters:
+  - file: michael_morey_and_james_dove
+- caption: Nurseries of Vice and Invention
+  chapters:
+  - file: carus-wilson/00-preface
+  - file: carus-wilson/05-setting-the-scene
+  - file: carus-wilson/07-culturally-speaking
+  - file: carus-wilson/10-a-picture-of-newport
+  - file: carus-wilson/13-the-new-church
+  - file: carus-wilson/15-letter-to-magistrates
+  - file: carus-wilson/20-tempters-and-tempted
+  - file: carus-wilson/22-carus-wilson-aside-soldiers
+  - file: carus-wilson/25-pittis-libel
+  - file: carus-wilson/28-following-the-libel-case
+  - file: carus-wilson/30-church-opened
+  - file: carus-wilson/32-into-the-1860s
+  - file: carus-wilson/34-portsmouth-in-flames
+  - file: carus-wilson/40-death-of-currer-bell
+  - file: carus-wilson/45-school-clergymens-daughters
+  - file: carus-wilson/50-wilson-nicholls-controversy
+  - file: carus-wilson/55-carus-wilson-end
+  - file: carus-wilson/60-finale
+  - file: carus-wilson/65-appendix-portsmouth-in-flames
+  - file: carus-wilson/70-appendix-shepheard-vindication
+  - file: carus-wilson/72-appendix-carus-wilson-memoir
+
