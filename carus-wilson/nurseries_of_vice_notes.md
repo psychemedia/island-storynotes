@@ -1,6 +1,5 @@
 # Nurseries of Vice
 
-
 The context for this is a reference I happened across to a pamphlet entitled "Tempters and Tempted" which appears to have ranted against Newport as a hotbed of vice corrupting the soldiers barracked at Parkhurst. A later pamphlet also became the subject of a libel case against local dignitary, F. Pittis.
 
 I still haven't managed to track down either pamphlet...
@@ -2527,6 +2526,9 @@ his worship, in the course of the day the bells of St. Thomas's Church rang jubi
 
 ## Further Reading
 
+https://babel.hathitrust.org/cgi/pt?id=umn.31951001996828c&seq=3&q1=%22tempters+and+tempted%22
+Temperance tracts issued by the National temperance society and publication house
+
 
 https://archive.org/details/prostitutioncon00acto
 Prostitution, considered in its moral, social, & sanitary aspects, in London and other large cities : with proposals for the mitigation and prevention of its attendant evils, William Acton, 1857
@@ -2553,3 +2555,14 @@ Marianna Hintikka and Minna Nevala
 https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1178&context=cmc_theses
 The Weight of Words: Discourse, Power and the
 19th Century Prostitute, Yoshan A. Kennedy-Churnac
+
+
+
+---
+
+https://books.google.co.uk/books?id=slcEAAAAQAAJ&printsec=frontcover&dq=children%27s+friend&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=children's%20friend&f=false
+he Children's friend [ed.] by W.C. Wilson [and others]., Volume 1
+
+https://books.google.co.uk/books?id=YR0FAAAAQAAJ&printsec=frontcover&dq=children%27s+friend+carus&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=children's%20friend%20carus&f=false
+The Children's Friend, Volumes 1-5
+edited by William Carus Wilson
