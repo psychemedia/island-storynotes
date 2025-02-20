@@ -6,7 +6,7 @@ So did Carus Wilson's tracts, and the opening of the new Church, lead to an impr
 :class: dropdown
 [Isle of Wight Mercury - Saturday 03 January 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18570103/020/0002)
 
-BOROUGH PETTY SESSIONS. (Monday. Dec. 29.—Before Edward Way, and j. H. Hearn, Esqrs.)
+BOROUGH PETTY SESSIONS. (Monday. Dec. 29.—Before Edward Way, and J. H. Hearn, Esqrs.)
 
 Female Debauchery.
 
