@@ -21,10 +21,77 @@ The mackerel season in the Isle of Wight, which is hailed with much delight by t
 
 A great need has been supplied at the back of the Island, viz., a resident agent for Lloyd's. This coast is often visited with heavy storms of wind from the south-west, and wrecks are the frequent consequence, but until now there has been no one to act for the benefit of the owners of wrecked ships or for the underwriters nearer than Yarmouth or Cowes, and thus it has frequently happened that much valuable time has been lost before the arrival of the agent. We now understand that Messrs. Dabell and Son, of Blackgang Chine, have instructions to act as sub-agents for Mr. Day, of Cowes, who is agent for Lloyd's and consulate of the Netherlands, Belgium, North Germany, France, &c.
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18400530/031/0003
+Hampshire Advertiser - Saturday 30 May 1840
+
+NEWPORT, MAY 30
+
+...
+
+On Saturday morning laat seversl wsggons and carts came into our town laden with mackerel , two fishermen named Bright and Wheeler, having caught upwards of 25,000 on the preceding eveniug in Chale Bay. At first they wsre sold at a penny each, but, by the middle of the day, two dozen could be obtained for a shilling, and towards tbe evening three dozen a shilling.
+
+...
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18400530/030/0003
+Hampshire Advertiser - Saturday 30 May 1840
+
+ISLE OF WIGHT
+
+...
+
+Twenty-five thousand horse mackerel were caught in Chale Bay on Friday last. This species of fish has not been to plentiful here for years past.
+ 
+...
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18690707/015/0003
+Hampshire Advertiser - Wednesday 07 July 1869
+
+THE ISLE OF WIGHT
+
+...
+
+Serious Accident on the Road. — On Saturday, between 12 and 1 o'clock, Mrs. Heal, whose husband resides at Chale and is engaged in the mackerel fishery, was driving a pony in a light market van towards Newport, and when close by Cox's-corner, in the parish of Gatcombe, where the highway is very narrow, she met a waggon and horses coming from Newport at a dangerous pace. She became alarmed at the danger, and was in the act of turning the pony to draw up under the hedge or turn back, when the waggon shaft caught the pony and threw him down. The poor woman was thrown out and her arm was broken; one of the pony's fore legs and his snout were broken by the waggon wheels, and the van was smashed. An end was quickly put to the pony's sufferings, and Mr. R. Urry, of Hilt Farm, Gatcombe, carefully took Mrs. Heal to her home at Chale, where she was attended by Mr. Homan, surgeon, of Niton. She now lies dangerously ill. The team belonged to Mr. Morgan, of Roslin Farm, near Chillerton. It is said that the horses were very fresh, and the man in charge had lost control over them.
+
+...
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18730618/048/0008
+Hampshire Advertiser - Wednesday 18 June 1873
+
+MACKEREL.— Many thousands of mackerel have been taken in Chale Bay during the last twelve days. We regret to hear that a man named Sprake, of Chale, who had been engaged in fishing, fell overboard, off Freshwater Gate, about 6 p.m. on Sunday, and was drowned.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18740523/011/0006
+Isle of Wight Observer - Saturday 23 May 1874
+
+VENTNOR
+
+...
+
+At Chale, during the past few days, there have been large draughts of mackerel, and the fishermen have been reaping a good harvest. At Sandown, about 10,000' mackerel were caught on Friday night, so it was reported.
+...
+
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18861106/022/0003
 Isle of Wight County Press - Saturday 06 November 1886
 
 TO DO
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18880623/113/0008
+Isle of Wight Observer - Saturday 23 June 1888
+
+VENTNOR
+
+MACKEREL—Large quantities of mackerel have been caught off here during the past week, consequently the price has been much lower than usual, the fish having been procurable for 10 and 12 a shilling, the usual price being four a shilling. It is considered cheap if the fish can be obtained at 2d. each. Many of the catches have purchased by Frampton and Sons, fishmongers, who have despatched some thousands to Newport, Cowes, &c. The local boatmen and fishermen have also engaged in these mackerel speculations, purchasing from the Channel boats as brought in. This, together with Messrs. Frampton's enterprise, has combined to reduce the price of mackerel this season. It is remarkable that none of the fish have yet been caught in Chale Bay this year, as usually large numbers of shoals are netted here. This is attributed to the to the *(sic)* comparatively cold whether *(sic)*, which tends to keep the fish at sea. The shoals are getting closer this week, as on Tuesday night the boats caught their fish only several miles from shore, whereas they have been casting their nets halfway across the Channel.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000711/19130527/074/0002
+Lancashire Evening Post - Tuesday 27 May 1913
+
+Also in: [Exmouth Journal - Saturday 31 May 1913](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002003/19130531/085/0006)
+
+BIG HAULS OF MACKEREL.
+
+The mackerel fishing season off the Isle of Wight was opened with remarkable catches. Trawling in Chale Bay, the Sandown fishermen have netted no fewer than 18,000, which have been taken direct to Portsmouth. A message received at Sandown, yesterday, stated that the Chale fishermen had come ashore with a 20,000 catch. 
+
+Exmouth Journal - Saturday 31 May 1913
 
 ---
 
