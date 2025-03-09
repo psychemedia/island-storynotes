@@ -5,11 +5,26 @@ Notes on island villages
 http://woottonbridgeiow.org.uk/wibook/calbourne.php
 
 Mackerel
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18700528/014/0008?browse=true
-May 28, 1870... IW Observer:
-p4(?) sandown"Mackerel Fishing.—By this time last year we had the pleasure of announcing the arrival in our bay [Sandown] of some pretty strong shoals of mackerel, and very welcome visitors they were considered all parties. For this past week or two our bay fishermen have been on the alert for their re-appearance , but unfortunately without success up to the present. One or two shoals have been sighted, but yet they have testified no inclination to make stay the bay. However, there time for them yet, and we are sure when they do come our fishermen will welcome them with a " come as often as you like, and stay as long as you like."
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18700528/011/0005
+Isle of Wight Observer - Saturday 28 May 1870
 
-p6 BLACKGANG. 'flit' in the Isle "VN'iylit, which is hailed "With" modi delight by the fishermen, commenced lit Blarkgahg (Saturday lust, and since that many thousands of this favourite fish hare been . etiught oil the coast. The Clialo hay mackerel have tot many year* great requisition the south Kngland: fact, I hale was the oidy part ■of this coast where they were caught until very re. ceutly, when party of fishermen tried the experiment It proved successful, and since then large numbers have been caught there dittvrout times, hut the coast is not so well adapted fur Hitching Blackgang, where the water deep, very close to the beach, and thus the mackerel come near shore to feed the smaller fish. _ Tile sliuuls are quite distinguishablr on the surface water, where they play and out, !fivi;?,flic spot the appearance in the V.Svuipr. The number of fish in a shoal may be . from the size and blackness of the spot. Uii, sufficiently near the hqarh, one y net ii left on the shore and boat with the jciiaijitCer puts off, throwing the net overboard tlic» l proceed, anil make a complete circle round the sli<Mk again they immediately commence to pull tin' net shore, and unless it hangs iu ( »ck and tear's, the fish are too sharp for them and escape liefore the circle is completed, a jroodlv lonnlier offish. •'all alivo," reward the fishermen for their ]wtiiis, and an uncommonly prcttv sisrht it the fish are being taken out of the water. In the net they appear to be of all the colors of the - , rainbow. A great need has been supplied at the back the Wand. viz.. a resident agent for Lloyd's. This ■coast often visited with heavy 
+SANDOWN
+
+Mackerel Fishing.—By this time last year we had the pleasure of announcing the arrival in our bay of some pretty strong shoals of mackerel, and very welcome visitors they were considered by all parties. For this past week or two our bay fishermen have been on the alert for their re-appearance, but unfortunately without success up to the present. One or two shoals have been sighted, but yet they have testified no inclination to make a stay in the bay. However, there is time for them yet, and we are sure when they do come our fishermen will welcome them with a "come as often as you like, and stay as long as you like."
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18700528/015/0008
+Isle of Wight Observer - Saturday 28 May 1870
+
+BLACKGANG.
+
+The mackerel season in the Isle of Wight, which is hailed with much delight by the fishermen, commenced at Blackgang on Saturday last, and since that many thousands of this favourite fish have been caught on the coast. The Chale bay mackerel have for many years been in great requisition in the south of England: in fact, Chale was the only part of this coast where they were caught until very recently, when a party of fishermen tried the experiment at Sandown. It proved successful, and since then large numbers have been caught there at different times, but the coast is not so well adapted for mackerel catching as at Blackgang, where the water is deep very close to the beach, and thus the mackerel come near shore to feed on the smaller fish. The shoals are quite distinguishable on the surface of the water, where they play in and out, which gives the spot the appearance of ink in the water. The number of fish in a shoal may be judged from the size and blackness of the spot. When the shoal is sufficiently near the beach, one end of a net is left on the shore and a boat with the remainder puts off, throwing the net overboard as they proceed, and make a complete circle round the shoal. Landing again they immediately commence to pull the net to shore, and unless it hangs in a rock and tears, or the fish are too sharp for them and escape before the circle is completed, a goodly number of fish, "all alivo," reward the fishermen for their pains, and an uncommonly pretty sight it is as the fish are being taken out of the water. In the net they appear to be of all the colors of the rainbow.
+
+A great need has been supplied at the back of the Island, viz., a resident agent for Lloyd's. This coast is often visited with heavy storms of wind from the south-west, and wrecks are the frequent consequence, but until now there has been no one to act for the benefit of the owners of wrecked ships or for the underwriters nearer than Yarmouth or Cowes, and thus it has frequently happened that much valuable time has been lost before the arrival of the agent. We now understand that Messrs. Dabell and Son, of Blackgang Chine, have instructions to act as sub-agents for Mr. Day, of Cowes, who is agent for Lloyd's and consulate of the Netherlands, Belgium, North Germany, France, &c.
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18861106/022/0003
+Isle of Wight County Press - Saturday 06 November 1886
+
+TO DO
 
 ---
 
