@@ -119,7 +119,19 @@ The Mayor said he was sorry to see them so soon in such a position. The court ha
 
 ## The New Parish Church of St Thomas
 
-Over the next few years, the fund-raising programme for the new Church went well. By 1854, enough funds had been raised to commit to the rebuilding programme.
+Over the next few years, the fund-raising programme for the new Church went well, including occasional fund-raising sermons around the island.
+
+```{admonition} A sermon in aid of rebuilding funds, Bonchurch, June 1853
+:class: dropdown
+[Isle of Wight Observer - Saturday 04 June 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530604/015/0004)
+
+VENTNOR REPORTER.
+
+A Sermon, in aid of the funds for rebuilding St. Thomas' Church, Newport, was preached in the parish church of Bonchurch on Sundav last by the Rev. G. H. Connor, curate of Newport. The eloquent gentleman selected his text from Zechariah vi. 13, " Even He shall build the temple of the Lord; and He shall bear the glory, and shall sit and rule upon His throne." At the close of the service, a collection made at the doors realised £11 5s.
+
+```
+
+By 1854, enough funds had been raised to commit to the rebuilding programme.
 
 ```{admonition} Closing of St. Thomas's Church, July 1854
 :class: dropdown
