@@ -105,19 +105,23 @@ p64 Scratchell's Bay : rn aspect of the cliffs, whose warm reflection has just b
 character - one John Baldwin, of Lymington, having heard his wife threaten " to dance over his grave, gave directions in his will to be
 buried out at sea.Accordingly his body was duly submerged in Scratchell's Bay sans ceremonie.
 
-Glimpses of Nature and Interest ISle of Wight Loudon
-p209-10
-" The sea here," said he, " over a of spreads piece
-land eight or nine hundred acres in extent, which, tradition tells us, was formerly partly covered with an extensive oak forest, in which the Druids performed their rites. In the centre of the forest was a stone-cased well, in which Merlin, who was a powerful magician, had confined a troublesome water-spirit; and the exact situation of this well was kept a secret, as it was said, that if ever the lid was raised, ruin to the whole country round would follow. The time of the Druids passed away, and all memory of the well was lost, till the time of William the Conqueror, when the Norman knight, Fitz Osborne, who subdued the island and reigned over it as an independent sovereign, gave this tract of land to one of his followers, Robert
-Okelandro. This knight, being fond of hunting, determined to clear away the underwood in the forest, and in doing so he discovered the enchanted well, and ordered its cover to be removed that it might be filled up ; some of the oldest inhabitants of the place remonstrated ; but he would be obeyed ; the cover was taken off, and the waters rushed up with such force as to overwhelm the whole district, and to drown the adventurous knight and several of his attendants."]p142 St. Catherine's Down," continued Mr. Merton, " is about nine hundred feet above the level of the sea, and is the highest part of the island."
-" Yes, but it is lower now than it used to be," said
-"the driver.
-They say it is not above eight hundred
-feet high now in most parts, and that it is gradually
-sinking."
 
-Isle of WIght Moncrieff
-p91 It appears that in Georgian days Week Down was charged with hiding Shanklin Down from the view of St Catherine's, as is no longer the case, the moral being that one or other of these heights has been raised or depressed, as may well have happened to superstructures upon so slippery foundation.
+Glimpses of nature, and objects of interest described during a visit to the Isle of Wight
+Loudon, Jane
+1848
+https://archive.org/details/glimpsesofnature00loudiala
+Glimpses of Nature and Interest Isle of Wight Loudon
+
+p207-10
+
+
+Soon after they arrived at the little town of Brading ; and Mrs. Merton and Agnes went to visit the Church, while Mr. Merton rested for an hour or two at the inn. As they entered the church-yard, they saw, to their great joy, their old acquaintance Mr. Bevan, whom they had not seen before since they left Carisbrook Castle. He told them he had been staying at Newport ; but that he had now come to Brading to see the Church, which was the oldest in the island, part of it being said to have been built in the year 704. " It is also large for the Isle of Wight, which is remarkable for the smallness of its churches," continued he ; " and it contains some curious old tombs of the Oglanders, the founder of whose family came over with William the Conqueror ; also the original of the epitaph which has been so often quoted, beginning : 4 Forgive, blest shade ! the tributary tear* — I do not remember the rest, but the words are doubtless familiar to you."
+
+...
+
+He then endeavoured to turn their attention to another subject, and began speaking of Brading Haven.
+
+"The sea here," said he, " spreads over a piece of land eight or nine hundred acres in extent, which, tradition tells us, was formerly partly covered with an extensive oak forest, in which the Druids performed their rites. In the centre of the forest was a stone-cased well, in which Merlin, who was a powerful magician, had confined a troublesome water-spirit; and the exact situation of this well was kept a secret, as it was said, that if ever the lid was raised, ruin to the whole country round would follow. The time of the Druids passed away, and all memory of the well was lost, till the time of William the Conqueror, when the Norman knight, Fitz Osborne, who subdued the island and reigned over it as an independent sovereign, gave this tract of land to one of his followers, Robert Okelandro. This knight, being fond of hunting, determined to clear away the underwood in the forest, and in doing so he discovered the enchanted well, and ordered its cover to be removed that it might be filled up ; some of the oldest inhabitants of the place remonstrated ; but he would be obeyed ; the cover was taken off, and the waters rushed up with such force as to overwhelm the whole district, and to drown the adventurous knight and several of his attendants."
 
 A History of the County of Hampshire: Volume 5. Originally published by Victoria County History, London, 1912. via https://www.british-history.ac.uk/vch/hants/vol5/pp156-170 , Pages 156-170
 LANDGUARD
@@ -178,18 +182,6 @@ Tales and Legends Wight Elder
 p188 THE MYSTERIOUS EGG. ( witch story)
 
 
-History Of Isle of Wight, Warner
-p180-2
-A late amiable naturalilt, speaking of a range of chalk downs, in the upper part of Hampshire, resembling those of the island, has the following
-
-observation : " perhaps I may be singular in my opinion, and not so happy as to convey to you the same idea; but I never contemplate thefe
-mountains, without thinking I perceive something analogous to growth, in their gentle
-swellings, and smooth fungus like protuberances, their fluted fides, and regular hollows and Hopes, that carry at once the air of vegetative dilatation and expanfion."* The idea is novel and ingenious, and feems to be founded in truth, from
-certain appearances of gradual enlargement which the Ifle of Wight hills have exhibited.
-It is a well-known facl, that, about half a century since, Shanklin down, which stands in the
-South-Eastern part of the island, was not to be discerned, from St. Catherine's, owing to the intervention of Week down, whose magnitude and elevation completely screened it from the
-eye. A gradual, but imperceptible expansion, however, of Shanklin down, has at length reared
-it to a greater bulk, and a greater height, (by at
 
 White's Nat. Hift. Selborne, p. 163.
 
@@ -199,66 +191,10 @@ It feems fufficiently clear, that this difference
 in the appearance of the two downs muft have arisen rather from the growth of Shanklin, than the sinking of Week ; since the latter, and all the surrounding downs, bear the same relative proportion to each other they ever did, which could not be the case, had any change taken
 
 
-Isle of Wight Moncrieff
-p92
-OUR Pisgah for this stage is St Catherine's Down, once held the highest point of the Island, but now dethroned, like Ben Macdhui, in favour of the Ben Nevis of St Boniface. It appears that in Georgian days Week Down was charged with hiding Shanklin Down from the view of St Catherine's, as is no longer the case, the moral being that one or other of these heights has been raised or depressed, as may well have happened to superstructures upon so slipperyfoundation. Insuchaquestionofmeasure-
-ments, at all events, "the self-styled science of the "
-so-called nineteenth century with its more elaborate observations, gives a surer title to eminence. But St Catherine's is only a few feet lower than the ridge above Ventnor ; and from it, too, a fine prospect may be had, ranging over the Isle of Wight to the heights of the mainland, and across the Channel to the French coast in clear weather.
 
-Journey to Isle of Wight Pennant
-p187
-Divines, who feek for the completion of prophecies, may have a more comfortable and authentic proof, from the recent appearance of SkanMm Down, from the Tower of St.
-Catherine. Within memory of man, another, called Week Down, interfered so far as to render the former fcarcely visible from the Tower; but, at prefent, Shanklin Down appears from that ancient ftructure a hundred feet higher than that of Week: so that, in this instance at least, cc?? every valley shall be exalted, and every mountain shall be made low." remember the infinite satisfaction I gave to a truly learned and pious Divine on this subject:, by relating to him, that the later meafures of the height of our boafled?? Snowdon made
-it about a hundred and fifty feet lower than it was in the preceding century.
-
-
-TOur of Isle of WIght vol I Hassell
-p192-3
-Stories are told by the inhabitants of the
-parish of Chale of the sinking of Week down, which lies about three miles off,in the intermediate way between St.Catherine's and
-Shanklin down. They say, that formerly Shanklin down, through the interference of Week down, could only be seen from St.
-Catherine's; whereas now it is visible from Chale down; consequently either Week
-down must have funk considerably, or
-Shanklin down must have increased its altitude. And some of the old people tell you
-that this has partly happened within their own
- own remembrance. So wonderful are the operations of Nature, that it is not for man
-to say," It cannot be;" but this is an event so far out of her usual course, that I own I could not readily give credit to it.
 
 https://youtu.be/KHrRHoeVB2Q?t=713  862
 
-Tour of Isle of WIght vol 1 hassell
-Road to st lawrence
-p 206
-There are many things in Nature which
-not only appear incomprehensible to a careful observer,but which cannot always be
-accounted for by the naturalist. Of this we met with an instance here. W e could not help surveying, with a wonder bordering on
-astonishment, the sheep that had got over the edges of the craggy precipices, from the
-downs they grazed on, and lay in the hollows of the rocks, in order to shelter themselves from the heat;- we even observed their bleating young ones carefully to de fcend, and reach their dams in safety.-
-How ,thus fearless of danger, they leave the plains, and venture on these hazardous de clivities, where the least false step must be
-attended with destruction, is, we believe,
-beyond the comprehension of the mostfa
-gacious naturalist.- So extraordinary did it
-appear to us, that nothing but ocular d e
-monstration could have convinced us of the truth of it.- The account received from a
-peasant, had we not seen their situation, would have met with but little credit from us.
-p207-8
- A phoenomenon of another nature, but not less singular, presented itself to us here.
-When wesatout from Knowle a storm seemed to be pending in the horizon ; and by the time we had reached St.Lawrence we heard
-several claps ofthunder. As every incident which tended to produce picturesque effects instantly attracted our attention, we cast our eyes towards the sea, in order to observe whether any alteration had taken place on
-its smooth surface ; when , to our great surprise, we plainly perceived a vessel, within
-eight miles of the shore, labouring under the effects of the storm , and apparently in the greatest distress. And what was extremely striking was, that though the sea where
-where the vessel happened to be,rolled (as
-it is commonly termed,) mountains high, yet not a breath of that air, which was there fo tempestuous, ruffled the water on the beach beneath us.- An operation of Nature that had never before fallen under our
-inspection ; and we greatly regretted not having with us some ingenious painter, in
-the marine line, to take an exact represents ation of it.
-: A light, rendered more bright by the
-contrast, had spread itself round the electric cloud, which was thus venting its rage upon the helpless ship, and rendered the
-scene more gloomy. By a glass, we could
-perceive that she laboured much under the 'violence of the storm , and every wave came full fraught with danger. For near an
-hour did the tempest permit us to behold
-its raging at a distance; but at length a brisk wind springing up, it made its way towards us,and we should have shared in
-its " pitiless peltings," had we not retired
-to a neighbouring cottage, where we continued til it had passed on.
 
 # TO DO
 
