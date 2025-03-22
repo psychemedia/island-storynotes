@@ -1216,7 +1216,7 @@ abbey of Dijon (Ohartor ap. Miune, civ.
 of Odo's zeal for sacred relics (lie Sanctorum Pignoribua , i, S). Odo also had in- 
 structed, at his own expense, a number of 
 scholars, among whom were Thomas, archbishop of York, and his brother Samson, bishop 
-of Worcester ; and Thurstan, abbot of Glaatonbuiw. Another dependent of Odo's was 
+of Worcester ; and Thurstan, abbot of Glastonbury. Another dependent of Odo's was 
 Amuli, the first Latin patriarch of Jerusalem, who accompanied the Bishop of Bayeux 
 on his departure from Normandy in 1090, 
 and owed his subsequent promotion to the 

@@ -14,7 +14,7 @@ THE AFFAIRS OF MAJOR HAMBROUGH.
 
 entailment from great grandfather John Hambrough
 
-And that is what happenend aftervisting Lymingotn for drink on way to boat, end searching from Hambrough in in Newspaper archive when getting home
+And that is what happenend after visting Lymingotn for drink on way to boat, end searching from Hambrough in a Newspaper archive when getting home
 
 
 

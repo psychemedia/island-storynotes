@@ -136,7 +136,7 @@ The following advert from 1847 gives a sense of the layout of such establishment
 :class: dropdown
 [Hampshire Advertiser - Saturday 27 February 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470227/002/0008)
 
-FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if required, in a first-rate situation, beingttn the centre of tbe Town of Newport, wheie toe Cattle Market is beld. The House is convenient, with capital spirit shop, 2 parlours, large club-room, sitting-room, with 9 good bed-rooms, tap, kitchen, cel- lar, Sec. The above desirable premises offer a good opportunity to any per- son with a small capital for carrying on an extensive trade in the Wine and Spirit line— also with a genuine Home Brewed Beer trade, there being but few houses of toe kind in toe town. For further particulars, apply to Mr. HENRY ROPER, House and Estate Agent, West Cowes, Isle of Wigbt. 
+FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if required, in a first-rate situation, being at the centre of the Town of Newport, where the Cattle Market is held. The House is convenient, with capital spirit shop, 2 parlours, large club-room, sitting-room, with 9 good bed-rooms, tap, kitchen, cellar, Sec. The above desirable premises offer a good opportunity to any person with a small capital for carrying on an extensive trade in the Wine and Spirit line— also with a genuine Home Brewed Beer trade, there being but few houses of toe kind in toe town. For further particulars, apply to Mr. HENRY ROPER, House and Estate Agent, West Cowes, Isle of Wigbt. 
 
 ```
 
@@ -193,7 +193,7 @@ COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday l
 
 ...
 
-Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given; proceedings to be taken by tbe police, and tbe fine of £5 to be inflicted on conviction before tbe magistrates.
+Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given; proceedings to be taken by thr police, and the fine of £5 to be inflicted on conviction before the magistrates.
 
 A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnoek, Mr. Estcourt,and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
 
