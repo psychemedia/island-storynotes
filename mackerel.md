@@ -10,7 +10,7 @@ Isle of Wight
 
 Abundance of mackerel have been caught this week, at the back of the Wight of extraordinary good quality, and has been sold here at 3d. per doz.
 
-Ninety tubs of sumggled liquor were deposited in the Custom House, at Coews, this week, taken with four smugglers, at Bembridge.
+Ninety tubs of smuggled liquor were deposited in the Custom House, at Cowes, this week, taken with four smugglers, at Bembridge.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000493/18300508/014/0003
 Hampshire Advertiser - Saturday 08 May 1830
@@ -45,7 +45,7 @@ NEWPORT, MAY 30
 
 ...
 
-On Saturday morning laat seversl wsggons and carts came into our town laden with mackerel , two fishermen named Bright and Wheeler, having caught upwards of 25,000 on the preceding eveniug in Chale Bay. At first they wsre sold at a penny each, but, by the middle of the day, two dozen could be obtained for a shilling, and towards tbe evening three dozen a shilling.
+On Saturday morning last several waggons and carts came into our town laden with mackerel , two fishermen named Bright and Wheeler, having caught upwards of 25,000 on the preceding evening in Chale Bay. At first they were sold at a penny each, but, by the middle of the day, two dozen could be obtained for a shilling, and towards the evening three dozen a shilling.
 
 ...
 
@@ -63,7 +63,7 @@ Twenty-five thousand horse mackerel were caught in Chale Bay on Friday last. Thi
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530604/007/0002
 Isle of Wight Observer - Saturday 04 June 1853
 
-Atherfieild Bay.— Immense quantities of mackerel have been caught off the back of the island during the week. On Saturday last, the first shoal came in, and in one haul 25 cwt. were taken, and they were cried in the various towns during the morning of Sunday. Good prices are obtained, five for a shilling. 
+Atherfieild Bay.— Immense quantities of mackerel have been caught off the back of the island during the week. On Saturday last, the first shoal came in, and in one haul 25 cwt. were taken, and they were cried in the various towns during the morning of Sunday. Good prices are obtained, five for a shilling.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530604/015/0004
 Isle of Wight Observer - Saturday 04 June 1853
@@ -72,12 +72,12 @@ VENTNOR REPORTER.
 
 ...
 
-A considerable quantity of mackerel hare been caught near Black-gang. On Monday, about 1500; on Tuesday, about 3000 at one haul, they were very fine, and were sold in Ventnor at eight and ten for a shilling. 
+A considerable quantity of mackerel hare been caught near Black-gang. On Monday, about 1500; on Tuesday, about 3000 at one haul, they were very fine, and were sold in Ventnor at eight and ten for a shilling.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18560621/007/0003
 Isle of Wight Observer - Saturday 21 June 1856
 
-YARMOUTH.] —The coast of the Solent have been visited within these last few weeks by immense shoals of mackerel, which are very seldom witnessed inside of the Isle of Wight. They come so close on shore that people would almost imagine that they could be easily caught in a small shrimping net. Fishermen about the neighbourhood appear to very negligent not to make an attempt to throw their nets, and in consequence the fishes have roving commission to go where they please. They are becoming more numerous along our shores every day, and there are in fact fish of all kinds paying a visit in the quiet waters of the Solent Channel; even the shark species are making themselves acquainted with this locality, and we are informed one of those savage monsters nearly bolted man last week whilst bathing in Colwell Bay, but fortunately he made every possible speed and got away from him after having a great struggle with the brute by diving and dodging before he could make an escape to the shore.
+YARMOUTH.] —The coast of the Solent have been visited within these last few weeks by immense shoals of mackerel, which are very seldom witnessed inside of the Isle of Wight. They come so close on shore that people would almost imagine that they could be easily caught in a small shrimping net. Fishermen about the neighbourhood appear to very negligent not to make an attempt to throw their nets, and in consequence the fishes have roving commission to go where they please. They are becoming more numerous along our shores every day, and there are in fact fish of all kinds paying a visit in the quiet waters of the Solent Channel; even the shark species are making themselves acquainted with this locality, and we are informed one of those savage monsters nearly bolted a man last week whilst bathing in Colwell Bay, but fortunately he made every possible speed and got away from him after having a great struggle with the brute by diving and dodging before he could make an escape to the shore.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18580605/011/0002
 Isle of Wight Observer - Saturday 05 June 1858
@@ -110,7 +110,7 @@ Mackerel.— During the week and the latter part of last week we were pleasingly
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18610518/027/0004
 Isle of Wight Observer - Saturday 18 May 1861
 
-NITON]. —On Sunday and Monday several mackerel boats from Brighton were at the back of the Island, and caught a considerable quantity of fish which were of good size, and sold at a remarkable price, three for a shilling. 
+NITON]. —On Sunday and Monday several mackerel boats from Brighton were at the back of the Island, and caught a considerable quantity of fish which were of good size, and sold at a remarkable price, three for a shilling.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18610518/013/0003
 Isle of Wight Observer - Saturday 18 May 1861
@@ -124,7 +124,7 @@ Isle of Wight Observer - Saturday 08 June 1861
 
 Ventnor
 
-A considerable quantity of fine mackerel have been caught by the Brighton fishing boats off the back of the Island, which have been retailed at three and four a shilling, and many have been taken to Portsmouth and forwarded London. 
+A considerable quantity of fine mackerel have been caught by the Brighton fishing boats off the back of the Island, which have been retailed at three and four a shilling, and many have been taken to Portsmouth and forwarded London.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18610608/023/0003
 Isle of Wight Observer - Saturday 08 June 1861
@@ -153,7 +153,7 @@ Isle of Wight Observer - Saturday 31 May 1862
 
 NEWPORT
 
-The Mackerel Season.—Throughout the whole extent of the back of the Island there have been large draughts of fish during the week, but more particularly in Atheifield and Sandown Bays. A Brighton boat had more than 20,000 in one haul, and the bulk of the catches was despatched, per steamer in waiting, to Portsmouth for the London and other markets. Prices ruled from five to eight a-shilling retail.
+The Mackerel Season.—Throughout the whole extent of the back of the Island there have been large draughts of fish during the week, but more particularly in Atherfield and Sandown Bays. A Brighton boat had more than 20,000 in one haul, and the bulk of the catches was despatched, per steamer in waiting, to Portsmouth for the London and other markets. Prices ruled from five to eight a-shilling retail.
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18620614/022/0004
@@ -170,7 +170,7 @@ COUNTY PETTY SESSIONS.
 
 SATURDAY.—Before Admiral Siri A. S. Hamond, bart. (chairman), and. W. G. Shedden, Mayor.
 
-*William Jones*, a child of 11 years of age, was charged by James Netten, fishmonger, West Cowea, with embezzlement.—The prosecutor said that the prisoner was in his employ, and it was his duty go round and receive orders. That on the morning of the 2nd of May he sent him with six mackerel over to Sir Trevor Wheeler's, Tower-hill House, East Cowes Park, as on the previous week the prisoner had told him that his aunt was come there as a cook, and that the family would be there on Monday, and that he had to go on Monday morning for orders. On the Monday morning he sent six mackerel to see if they would like to have them. At half-past 12 o'clock he came back and said they liked them very much, and he was to send up six more, which he gave him and he took them away. About 1 o'clock he returned and aaid he had cleaned them. On the morning of the 6th he went there himself, and found it shut up, and a board to let put up. He made enquiries and found no such person, neither had the house been let. The prisoner had told him that they would pay the 1st every month. On the afternoon of the 6th the prisoner was brought up to his house in the custody of the police, and he asked him what he had done with the fish he had taken away, and told him to tell the truth, but held out neither promise nor threat to him. The prisoner said he sold six fish to Mr. Young for 1s., and the other six to Mr. Harris.—Examined Mr. Hooper, who appeared for the prisoner: It was not until Friday that he went to the house. He saw two women there cleaning the house, who wets sent by Mr. Furner. The house had not been let. He knew the women were no relation to the prisoner. He had never said that, if his mother gave him anything, he would abandon the prosecution.—Mr. Hooper addressed the Bench on behalf of the prisoner. He said the lad went to the house as he was instructed, and found the two women there, who took in the fish; and gave him the order to bring more, and supplied the order.— The Bench, however, in expressing sorrow for a child of his tender age to be charged with such an offence, sentenced him to six weeks' imprisonment, with such hard labour befitting his age.—Besides the above, he appears have got rid of much more in the same way: on the 3rd of May, 100 prawns, eight pounds of salmon, and one lobster; on the 4th, one pair of soles and 100 prawns; on the 6th, one turbet and one lobster.
+*William Jones*, a child of 11 years of age, was charged by James Netten, fishmonger, West Cowes, with embezzlement.—The prosecutor said that the prisoner was in his employ, and it was his duty go round and receive orders. That on the morning of the 2nd of May he sent him with six mackerel over to Sir Trevor Wheeler's, Tower-hill House, East Cowes Park, as on the previous week the prisoner had told him that his aunt was come there as a cook, and that the family would be there on Monday, and that he had to go on Monday morning for orders. On the Monday morning he sent six mackerel to see if they would like to have them. At half-past 12 o'clock he came back and said they liked them very much, and he was to send up six more, which he gave him and he took them away. About 1 o'clock he returned and said he had cleaned them. On the morning of the 6th he went there himself, and found it shut up, and a board to let put up. He made enquiries and found no such person, neither had the house been let. The prisoner had told him that they would pay the 1st every month. On the afternoon of the 6th the prisoner was brought up to his house in the custody of the police, and he asked him what he had done with the fish he had taken away, and told him to tell the truth, but held out neither promise nor threat to him. The prisoner said he sold six fish to Mr. Young for 1s., and the other six to Mr. Harris.—Examined Mr. Hooper, who appeared for the prisoner: It was not until Friday that he went to the house. He saw two women there cleaning the house, who wets sent by Mr. Furner. The house had not been let. He knew the women were no relation to the prisoner. He had never said that, if his mother gave him anything, he would abandon the prosecution.—Mr. Hooper addressed the Bench on behalf of the prisoner. He said the lad went to the house as he was instructed, and found the two women there, who took in the fish; and gave him the order to bring more, and supplied the order.— The Bench, however, in expressing sorrow for a child of his tender age to be charged with such an offence, sentenced him to six weeks' imprisonment, with such hard labour befitting his age.—Besides the above, he appears have got rid of much more in the same way: on the 3rd of May, 100 prawns, eight pounds of salmon, and one lobster; on the 4th, one pair of soles and 100 prawns; on the 6th, one turbet and one lobster.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18640604/008/0003
 Isle of Wight Observer - Saturday 04 June 1864
@@ -272,7 +272,7 @@ VENTNOR, May 20.
 
 ...
 
-Mackerel.— At Chale during the past few days there have been large draughts of mackerel, and the fishermen iave been reaping a good harvest. We are informed, too, that at Sandown about 10,000 heads of mackerel were caught on Friday night.
+Mackerel.— At Chale during the past few days there have been large draughts of mackerel, and the fishermen have been reaping a good harvest. We are informed, too, that at Sandown about 10,000 heads of mackerel were caught on Friday night.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18740523/011/0006
 Isle of Wight Observer - Saturday 23 May 1874
@@ -315,7 +315,7 @@ There was a second charge against the defendant of obstructing the High-street, 
 
 P.S. Hinks said that at 7.55 he saw the defendant in High-street, opposite Mr. Keet's shop. Told him to go on further and not stand in one place so long. He had a barrow with him and a truck. He again saw defendant in the same place and spoke to him again. Instead of moving on, he told a young man named Penfold to draw some trucks by the side of his barrow. He created a great obstruction, and people had to go off the pavement to get round. If defendant had not placed his truck there the road would not have been obstructed.
 
-Mr. White said that the bye-law under which these proceedings were taken stated that defendant was not to wait about longer than was necessary for loading and unloading. In this case the defendant only stayed while he was unloading. He had not unloaded his cart of his fish, and when he had he went away. As for the crowd, that was caused by the joy of the people at seeing such a fine lot of mackerel come into tbe town. Mr. Keet (opposite whose shop defendant had stopped) was asked by defendant whether he objected to his remaining there. He said, "Oh no; glad to see you there, and hope you will sell your fish."
+Mr. White said that the bye-law under which these proceedings were taken stated that defendant was not to wait about longer than was necessary for loading and unloading. In this case the defendant only stayed while he was unloading. He had not unloaded his cart of his fish, and when he had he went away. As for the crowd, that was caused by the joy of the people at seeing such a fine lot of mackerel come into the town. Mr. Keet (opposite whose shop defendant had stopped) was asked by defendant whether he objected to his remaining there. He said, "Oh no; glad to see you there, and hope you will sell your fish."
 
 Defendant was fined 6d., and costs.
 
@@ -328,7 +328,7 @@ Saturday.— Before the Mayor (Ald. Barrow), Major-Gen. Jeffreys, Major Leeds, G
 
 ...
 
-SELLING MACKEREL IN THE HIGH STREET WIHTOUT A TICKET
+SELLING MACKEREL IN THE HIGH STREET WITHOUT A TICKET
 
 *Henry William Frampton*, fishmonger, Castle Street, was charged with unlawfully offering and exposing for sale certain marketable things in High Street, that not being the Market Place.—Mr. White appeared for the defence.—P.C. Burton deposed that on Saturday the 13th, at 8.45 p.m., he saw defendant hawking mackerel in High Street, and asked if he had a ticket. Defendant said he forgot to get one—and, to a boy standing by he said "Run down and get two tickets." About 6 minutes to 10 he asked if he had got those tickets, and he said "No; Mr. Buckett wasn't in." Told him he ought to have tickets the same as the other men.—Henry Buckett deposed that he was Market-keeper. On Saturday week defendant did not take a market-ticket. Was not from home that evening, but stood at the Town Hall doors from 7.30 to 10 10, the Hall being let. Anyone could have got a ticket from him—in fact he served some with tickets for fish at 8 30 —By Mr. White: The market gates were closed; the Act compelled him to close them at 8 p.m.—Mr. White, in addressing the Court, said he was induced to appear as the case was an extremely hard one on defendant, a very respectable young man, and a ratepayer of the borough. On the day in question a quantity of mackerel was sent him from Portsmouth, which, as a duty to himself, and a great benefit to the public, he immediately proceeded to sell, going to the top of High Street, where for many years fish had been sold on Saturday nights. The market was closed, and was he to allow the fish to perish? Under the old law there was always a very good exception, and selling mackerel on Sundays was allowed, the fish being perishable, and the sale being considered such a benefit, especially to the poor. He could not sell in the market, and whilst the Counsell allowed tickets for selling elsewhere to be issued, it appeared to him that the man had committed no offence. He had no ticket at the moment—didn't know the fish were coming. Even a ticket would not legalise the matter. The Corporation ought not to have moved in the matter. He remembered the Council resolving that there should be no proceedings taken in the case of fish hawking.—The Mayor: No corporation, or any body of men, have power to alter an Act of Parliament—can't make bye-laws which contravene the Act.—Mr. White: But they would act wisely if they didn't strain the law too much in matters of this sort.—The Mayor said that other persons with mackerel went and paid a penny, as defendant should have done. The object of having the penny tickets taken out was for the protection of the public—so that no improper persons, or improper food should be taken round the town. Defendant knew he was doing what was illegal, having had tickets before.—Fined 1s. and costs.
 
@@ -369,7 +369,7 @@ The first catch of mackerel of the present season was taken last Wednesday morni
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005
 Isle of Wight Observer - Saturday 08 June 1878
 
-A New Drawback to the Fishmonger. — The recent melancholy accidents which have caused so many corpses to be floating in these waters have created in some minds an unconquerable aversion to fish, which are just now very numerous. The whole of the finny tribe, and the crustaceous, such as crabs, lobsters, shrimps, &c,, are credited with making many a good meal on the body of submerged sailors. We have no doubt that such is the case, and that the dreadfully mutilated state of the bodies washed on shore is due to their depredations, so that there is some cause for the prejudice to which we have referred. At all events a man who was crying Chale Bay mackerel this week soon altered his cry when he found how scarce his customers were. An amusing incident is said to have occurred the other day. An old lady was cheapening some "Chale Bay" mackerel with a street fish-monger, when a woman passed by, and noticing the lady handling the fish, observed, "Oh ma'am, I wouldn't have none of them fish if I was you. Last night my husband bought one, and when we cut it open we found two brass buttons and a piece of blue serge inside it." The old lady dropped the fish as quickly as if it had been a hot potatoe, and incontinently fled. What the fish hawker said to the woman who had lost him his customer our deponent sayeth not— but it waa doubtless something kind and complimentary.
+A New Drawback to the Fishmonger. — The recent melancholy accidents which have caused so many corpses to be floating in these waters have created in some minds an unconquerable aversion to fish, which are just now very numerous. The whole of the finny tribe, and the crustaceous, such as crabs, lobsters, shrimps, &c,, are credited with making many a good meal on the body of submerged sailors. We have no doubt that such is the case, and that the dreadfully mutilated state of the bodies washed on shore is due to their depredations, so that there is some cause for the prejudice to which we have referred. At all events a man who was crying Chale Bay mackerel this week soon altered his cry when he found how scarce his customers were. An amusing incident is said to have occurred the other day. An old lady was cheapening some "Chale Bay" mackerel with a street fish-monger, when a woman passed by, and noticing the lady handling the fish, observed, "Oh ma'am, I wouldn't have none of them fish if I was you. Last night my husband bought one, and when we cut it open we found two brass buttons and a piece of blue serge inside it." The old lady dropped the fish as quickly as if it had been a hot potatoe, and incontinently fled. What the fish hawker said to the woman who had lost him his customer our deponent sayeth not— but it was doubtless something kind and complimentary.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790501/062/0005
 Isle of Wight Times - Thursday 01 May 1879
@@ -390,7 +390,7 @@ Isle of Wight Observer - Saturday 20 May 1882
 
 YARMOUTH.
 
-Extraordinaby Catch of Mackerel at Compton Bat. — On Monday afternoon last a very large haul of mackerel was made by the Hayters, of Brooke, in Compton Bay. The fish were very fine, and numbered about 6,000. This must be a capital "take" for the men, who, we understand, have not done much in their line during the past winter.
+Extraordinary Catch of Mackerel at Compton Bat. — On Monday afternoon last a very large haul of mackerel was made by the Hayters, of Brooke, in Compton Bay. The fish were very fine, and numbered about 6,000. This must be a capital "take" for the men, who, we understand, have not done much in their line during the past winter.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18830623/067/0008
 Hampshire Advertiser - Saturday 23 June 1883
@@ -501,7 +501,7 @@ The Mackerel Season— so far as concerns the Undercliff, may be said to have co
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18900517/034/0003
 Isle of Wight County Press - Saturday 17 May 1890
 
-An unusual spectacle waa seen off Southsea Castle on Sunday evening, when a shoal of porpoises was observed disporting themselves as they were going out to sea with the running tide. As Southsea Esplanade was occupied by some thousands of promenaders, the porpoises were watched with the keenest interest. It is well known that porpoises follow in the wake of mackerel, and it is probable we shall hear of some heavy catches in neighbouring waters.
+An unusual spectacle was seen off Southsea Castle on Sunday evening, when a shoal of porpoises was observed disporting themselves as they were going out to sea with the running tide. As Southsea Esplanade was occupied by some thousands of promenaders, the porpoises were watched with the keenest interest. It is well known that porpoises follow in the wake of mackerel, and it is probable we shall hear of some heavy catches in neighbouring waters.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18960627/026/0002
 Isle of Wight County Press - Saturday 27 June 1896
@@ -537,9 +537,9 @@ Newport, on Saturday, belore Admiral Sir Algernon de Horsey, K.C.B., and full Be
 
 MACKEREL IN THE ROAD.
 
-George Hayden and Bran Loosemore, boatmen, of Shanklln, defended by Mr. J. Marab, were charged with leaving mackerel on the highway to the annoyance of paaaengers.
+George Hayden and Bran Loosemore, boatmen, of Shanklin, defended by Mr. J. Marab, were charged with leaving mackerel on the highway to the annoyance of passengers.
 
-P.C. Shutter said on the morning of the 27th ult., he found mackerel scattered about on the road and the hedges from Shido to Hale Common, and the stench from them was abominable. They were removed by the sanitary inspector. Defendants said they had too many to take home, and they throw them over the hedge between Arreton and Hale Common. One or two might have fallen into the highway.
+P.C. Shutter said on the morning of the 27th ult., he found mackerel scattered about on the road and the hedges from Shide to Hale Common, and the stench from them was abominable. They were removed by the sanitary inspector. Defendants said they had too many to take home, and they throw them over the hedge between Arreton and Hale Common. One or two might have fallen into the highway.
 
 Mr. Marsh submitted that the case had not been proved against defendants, who, however, were each fined 2s. 6d. and 4s. costs. 
 
