@@ -146,7 +146,7 @@ The wolf felt very angry at this, but thought that I would be up to the little p
 
 Well, the little pig bustled up the next morning at four o'clock, and went off for the apples, hoping to get back before the wolf came; but he had further to go, and had to climb the tree, so that just as he was coming down from it, he saw the wolf coming, which, as you may suppose, frightened him very much. When the wolf came up he said:
 
-"Little pig, what ! are you here before me? Are they nice apples?"
+"Little pig, what! are you here before me? Are they nice apples?"
 
 "Yes, very," said the little pig. "I will throw you down one."
 
@@ -307,7 +307,7 @@ Aal of your own meyacun !
 A Shrovun, a Shrovun,    
 I be cum a Shrovun,  
 Nice meeat in a pie.  
-My mouth is verrey dry !  
+My mouth is verrey dry!  
 I wish a wuz zoo well a-wet,  
 I'd zing the louder for a nut !
 
@@ -429,7 +429,7 @@ New Year's Day
 
 Wasael or Wassal, — A remnant of this part of our Saxon manners still exists at Yarmouth, and strange to say, in no other part of the Isle of Wight. On the first day of the new year the children collect together and sing wassel or wassal through the streets; the following is their song (see p. 249):
 
-Wassal, wassal, to our town !  
+Wassal, wassal, to our town!  
 The cup is white and the ale is brown;  
 The cup is made of the ashen tree.  
 And so is the ale of the good barley;  
@@ -728,7 +728,7 @@ And was cleaning his Kettles, and Crockery-ware.
 "At the things you have bought: I'm anxious to see,  
 "How you manag'd so well at the Fair without me."
 
-Pigweeney - Pigweeney - 'tis treachery all !  
+Pigweeney - Pigweeney - 'tis treachery all!  
 Do not listen a minute,-obey not his call:  
 If you open your door you are lost like the Sheep,  
 Who stray'd out of the fold for the sake of a leap.  

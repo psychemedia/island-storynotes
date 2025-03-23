@@ -130,7 +130,24 @@ The prisoner, preferring her fate to be determined in this court, received the s
 
 Perhaps not surprisingly, any consideration of the more colourful aspects of life in Newport on the public houses requires some familiarity with the public houses of the town.
 
-The following advert from 1847 gives a sense of the layout of such establishments.
+The following adverts, from 1826 and 1847 respectively, give a sense of the layout of such establishments, the first advert also indicating the location of the cattle market (St. James' Square), and revealing one of the original locations for Francis Pittis' larger auctions.
+
+
+```{admonition} To Brewers, Inn Keepers, and Others, December 1826
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18261218/026/0003
+Hampshire Chronicle - Monday 18 December 1826
+
+TO BREWERS, INN KEEPERS, AND OTHERS.
+
+Capital Free and Old-established Public-House, in one of the best situations in the town of Newport.
+
+TO SOLD by AUCTION, by Mr FRANCIS PITTIS, by order and under the direction of the Executors of the late Mr. F. Kiddle, on Tuesday the 19th of December, 1826, at the Wheat-sheaf Inn, Newport, Isle of Wight, all that Good Accustomed PUBLIC HOUSE, known the name of the *Red Lion*, situated in the centre of St. James's Square, where the cattle market is held, and now in the occupation of Mr George Pedder. The house is very substantially brick built, and comprises on the ground floor, three sitting rooms in front, two back ditto, a good cellar, large stables, and stores; the second floor, two large rooms in front, and three back bed rooms the attic, six sleeping rooms. The whole of the rooms are well arranged, and the premises are front thirty-seven feet.
+
+*The Sale to commence precisely at Six o'Clock in the Evening.*
+
+...
+```
 
 ```{admonition} Free Public House, to Let, February, 1847
 :class: dropdown

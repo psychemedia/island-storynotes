@@ -28,9 +28,9 @@ LEGENDS OF THE ISLE OF WIGHT.
 
 WITH THE ADVENTURES OF THE AUTHOR IN SEARCH OF THEM. BY ABRAHAM ELDER, ESQ.
 
-BORTHWOOD forest was an extensive tract of wild and well-wooded country, lying on this side of Shanklin. You will see, when you pass that way, a singularly-pointed conical hill, with a peasant's cottage perched upon the top of it, rising out of a comparatively level country. It is known to this day by the name of " The Queen's Bower." Its use, and the origin of its name, are as follow : —
+BORTHWOOD forest was an extensive tract of wild and well-wooded country, lying on this side of Shanklin. You will see, when you pass that way, a singularly-pointed conical hill, with a peasant's cottage perched upon the top of it, rising out of a comparatively level country. It is known to this day by the name of "The Queen's Bower." Its use, and the origin of its name, are as follows:—
 
-It was the custom of our Norman ancestors, when they gave a grand hunting entertainment, to select an open space, as near as might be in the centre of their hunting-ground ; and choosing some natural mount, or forming an artificial one, they erected upon it a pavilion, in which were placed the ladies, and such of their company as did not intend personally to take a part in the chase. A large portion of the forest was then surrounded by as many of the chief retainers as could be got together. These advanced in a circle, making a great noise, gradually contracting the area of the circle, until at length all the beasts that they had disturbed were driven into the appointed hunting-ground. Here the knights who had assembled for the chase, lay in wait for them near the openings through which it was probable that the game would issue from the forest. The knights were generally on horseback, armed with bows and arrows, and attended with their squires holding their dogs in leash. As the deer passed, they shot their arrows, and let their dogs loose upon the game, and generally with fatal effect ; for skill in every branch of the art of hunting appears to have been the great test of a man's being a gentleman.
+It was the custom of our Norman ancestors, when they gave a grand hunting entertainment, to select an open space, as near as might be in the centre of their hunting-ground; and choosing some natural mount, or forming an artificial one, they erected upon it a pavilion, in which were placed the ladies, and such of their company as did not intend personally to take a part in the chase. A large portion of the forest was then surrounded by as many of the chief retainers as could be got together. These advanced in a circle, making a great noise, gradually contracting the area of the circle, until at length all the beasts that they had disturbed were driven into the appointed hunting-ground. Here the knights who had assembled for the chase, lay in wait for them near the openings through which it was probable that the game would issue from the forest. The knights were generally on horseback, armed with bows and arrows, and attended with their squires holding their dogs in leash. As the deer passed, they shot their arrows, and let their dogs loose upon the game, and generally with fatal effect; for skill in every branch of the art of hunting appears to have been the great test of a man's being a gentleman.
 
 The hill still called the Queen's Bower derives its name from the circumstance of Isabella de Fortibus, the lady of the Isle of Wight in the reign of Edward the First, having there erected her hunting-pavilion. This lady, so celebrated in the local history of the island, was sometimes styled the Queen of the Isle of Wight; and, indeed, though feudally subject to the Crown of England, her authority within her own dominions was quite despotic, and she lived in her castle of Carisbrook in a magnificence and state worthy of royalty.
 
@@ -160,7 +160,7 @@ So hardi by his name hym calle,
 Whenfo thei wend farre or neare.  
 Or over the ftraunge ryvere j  
 
-" In the feudal castles, where many persons of both sexes were assembled, and who did not know how to spend the time, it is natural to suppose that different parties were formed, and different schemes of amusement invented. One of these, was to mount to the top of one of the highest towers in the castle.
+"In the feudal castles, where many persons of both sexes were assembled, and who did not know how to spend the time, it is natural to suppose that different parties were formed, and different schemes of amusement invented. One of these, was to mount to the top of one of the highest towers in the castle.
 
  f The Apulians,  
 
@@ -182,7 +182,7 @@ Ther nas ne fuche in that cuntree:
 Ffor many was the riche flone  
 That the mantills were uppon.  
 So long there waie they have nome \  
-That to Calabre they are come :  
+That to Calabre they are come:  
 Thei come to the caftell yate  
 The porter was redy there at,  
 The porter to them thei gan calle  
@@ -192,13 +192,13 @@ That commen are men of farre contree.
 And yf yt pleafe hir we will her pray,  
 That we might ete with hyr to day.  
 The porter feyd full corteflly  
-" Your errand to do I am redy."  
+"Your errand to do I am redy."  
 The ladie to her mete was fette,  
 The porter cam and fayr her grette,  
-" Madame, he feyde, god yow fave,  
-" At your gate geftis you have,  
-" Straunge men us for to fe  
-" Thei afke mete for charyte."  
+"Madame, he feyde, god yow fave,  
+"At your gate geftis you have,  
+"Straunge men us for to fe  
+"Thei afke mete for charyte."  
 The ladie commaundeth fone anone  
 That the gates wer undone,  
 ■" Took.
@@ -206,51 +206,51 @@ That the gates wer undone,
 her castle with much gallantry. Mem. fur lanc. Chev. ii. 69. It is well known that  
 anciently in England ladies were sheriffs of counties.
 
-" And  
+"And  
 
 ENGLISH   POETRY. 201  
-" And brynge them alle bifore mc  
-" Ffor welle at efe Ihall thei be."  
+"And brynge them alle bifore mc  
+"Ffor welle at efe Ihall thei be."  
 Thei took heyr pagis hors and alle,  
 Thefe two men went into the halle,  
 Ippomedon on knees hym fette,  
-And the ladye feyre he grette :  
-" I am a man of ftraunge countre  
-" And prye yow of your will to be  
-" That I myght dwelle with you to gere  
-" Of your nourture for to lere ",  
-" I am com from farre lond ;  
-" Ffor fpeche I here bi fore the hand  
-" That your nourture and your fervyfe,  
-" Ys holden of fo grete empryfe,  
-" I pray yovi that I may dwell here  
-" Some of your fervyfe to here."  
+And the ladye feyre he grette:  
+"I am a man of ftraunge countre  
+"And prye yow of your will to be  
+"That I myght dwelle with you to gere  
+"Of your nourture for to lere ",  
+"I am com from farre lond;  
+"Ffor fpeche I here bi fore the hand  
+"That your nourture and your fervyfe,  
+"Ys holden of fo grete empryfe,  
+"I pray yovi that I may dwell here  
+"Some of your fervyfe to here."  
 The ladye by held Ippomedon,  
 He femed wel a gentilmon,  
 She knew non fuche in her lande,  
 So goodli a man and wel farrand ";  
 She fawe alfo bi his norture  
-He was a man of grete vakire :  
+He was a man of grete vakire:  
 She caft ful fone in hire thoght  
-That for no fervyfe cum he noght ;  
+That for no fervyfe cum he noght;  
 But hit was worlhip her untoo  
 In feir fervyfe hym to do.  
-She fayd, " Syr, welcome ye be,  
-" And al that comyn be with the;  
-" Sithe ye have had fo grete travayle,  
-" Of a fervyfe ye ihall not fayle :  
-" In this cuntre ye n>ay dwell here  
-" And al your will for to here,  
+She fayd, "Syr, welcome ye be,  
+"And al that comyn be with the;  
+"Sithe ye have had fo grete travayle,  
+"Of a fervyfe ye ihall not fayle:  
+"In this cuntre ye n>ay dwell here  
+"And al your will for to here,  
 
 Iicarn. "^ Handfome.  
 D d " Of  
 
 202 THE   HISTORY   OF  
-" Of the cuppe ye fhall ferve me  
-" And all your men with you fhal be,  
-" Ye may dwell here at your wille,  
-" Bote '' your beryng be full ylle."  
-" Madame, he faid, grantmercy,"  
+"Of the cuppe ye fhall ferve me  
+"And all your men with you fhal be,  
+"Ye may dwell here at your wille,  
+"Bote '' your beryng be full ylle."  
+"Madame, he faid, grantmercy,"  
 He thanked the ladye corteyfly.  
 She commandith him to the mete.  
 But or he fette in ony fete.  
@@ -259,7 +259,7 @@ As a gentillmon Ihuld in halle j
 All thei faid fone anon,  
 Thei faw nevir fo godli a mon,  
 Ne fo light, ne fo glad,  
-Ne non that fo ryche atire had :  
+Ne non that fo ryche atire had:  
 There was none that fat nor yede %  
 But thei had merveille of his dede \  
 And feyd, he was no lytell fyre  
@@ -268,12 +268,12 @@ Whan thei had ete, and grace fayd.
 And the tabyll awaye was layd;  
 Upp then aroos Ippomedon,  
 Ant to the bottery he went anon,  
-Ant hys mantyl hym a boute ;  
+Ant hys mantyl hym a boute;  
 On hym lokyd all the route.  
 Ant everie mon feyd to other there,  
-" Will ye fe the proude fqueer  
-" Shall ferve ^ my ladye of the wyne,  
-" In hys mantyll that is fo fyne ?"  
+"Will ye fe the proude fqueer  
+"Shall ferve ^ my ladye of the wyne,  
+"In hys mantyll that is fo fyne?"  
 That they hym fcornyd wift he noght  
 On othyr thyng he had his thoght.  
 He toke the cuppe of the botelere.  
@@ -306,9 +306,9 @@ Full well he loved Ippomedonj
 When that he yed in or oute,  
 Jafon went with hym aboute.  
 The lady lay, but fhe flept noght.  
-For of the fquyerre flie had grete thoght ;  
+For of the fquyerre flie had grete thoght;  
 How he was feyre and fliape wele.  
-Body and amies, and everie dele :  
+Body and amies, and everie dele:  
 Ther was non in al hir londe  
 So wel he femyd dougti of honde.  
 But fhe howde wele for no cafe.  
@@ -324,20 +324,20 @@ D d 2 She
 THE   HISTORY   OF  
 She hire bi thought of a quayntyfe,  
 If fhe miht know in any wife.  
-To wete whereof he were come ;  
+To wete whereof he were come;  
 This was hyr thoght al their fome  
 She thoght to wode hyr men to tame '  
 That file myght knowe hym by his game.  
 On the morow whan yt was day  
 To her men fhe gan to fay,  
-" To morrowe whan it is day light,  
-" Lok ye be al redy dight,  
-" With your houndis more and lefTe,  
-" In fforreft to take my greffe,  
-" And thare I will myfelf be  
-" Your game to by holde and fe."  
+"To morrowe whan it is day light,  
+"Lok ye be al redy dight,  
+"With your houndis more and lefTe,  
+"In fforreft to take my greffe,  
+"And thare I will myfelf be  
+"Your game to by holde and fe."  
 Ippomedon had houndis three  
-That he broght from his cuntree ;  
+That he broght from his cuntree;  
 Whan thei were to the wode gone.  
 This ladye and her men ichone.  
 And with hem her houndis ladde.  
@@ -364,21 +364,21 @@ Drew down both buck and doo.
 More he took with houndes thre  
 Than al that othir cumpagnie,  
 Thare fquyres undyd hyr dere  
-Eche man after his manere :  
+Eche man after his manere:  
 Ippomedon a dere gede unto.  
 That ful konningly gon he hit undo,  
 So feyre that venyfon he gan to dight,  
-That both hym by held iquyere and knight :  
+That both hym by held iquyere and knight:  
 The ladye looked oute of her pavylyon,  
 And fawe hym dight the venyfon.  
 There {he had grete dainte  
-And fo had all that dyd hym fee :  
+And fo had all that dyd hym fee:  
 She fawe all that he down droughe  
 Of huntynge fhe wift he coude ynoghe  
 And thoght in her hert then  
-That he was com of gentillmen :  
+That he was com of gentillmen:  
 She bade Jafon hire men to calle  
-Home then pafTyd grete and fmalle :  
+Home then pafTyd grete and fmalle:  
 Home thei com fon anon.  
 This ladye to hir met gan gon,  
 And of venery ' had her fille  
@@ -404,7 +404,7 @@ Date of publication:
 Author(s):
 Hue, de Rotelande, fl. 1170-1190
 Description:
-In Middle English Title from title page of source text Seijo English monographs ; no. 21-22
+In Middle English Title from title page of source text Seijo English monographs; no. 21-22
 
 [The life of Ipomydon]  
 Of your court and your norture  

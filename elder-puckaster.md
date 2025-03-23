@@ -16,7 +16,7 @@ One day a neighbour of John Kann's said to him, "John, I am going to build mysel
 
 Where do you think he took him to? To the very place where the grass was so smooth and soft, and where the fairy rings were always seen.
 
-"Gracious me!" said John Kann. "You are not going to build here! Are you not afraid of Puck's little star ? By St. Radegund you are making a fool of me!" `[St. Radegund appears to have been the patroness saint of Whitewell. There was anciently a chapel dedicated to her there.]`
+"Gracious me!" said John Kann. "You are not going to build here! Are you not afraid of Puck's little star? By St. Radegund you are making a fool of me!" `[St. Radegund appears to have been the patroness saint of Whitewell. There was anciently a chapel dedicated to her there.]`
 
 "I'm not making a fool of you at all," said he; "but, the fact is, now that I am going to be married, I must get a house of my own to live in; besides, this would be a nice healthy place for the children when they come."
 
@@ -79,7 +79,7 @@ Go. Fetch."
 
 Upon which six little fairies flew away; for they had all a sort of butterfly wings growing out from behind their shoulders, which John Kann had not observed before. After a short time they returned, each bringing in his hand a small acorn-cup full of a brown powder, looking very like snuff. Mr. Puck took a pinch of it; and, walking up to John Kann, said,
 
-" Now — now  
+"Now — now  
 I'll shew you how  
 We make the tall  
 Grow small.
@@ -126,7 +126,7 @@ To be eaten up by a lion or a tiger was, to be sure, a dreadful thing; but then 
 
 While John Kann was thus musing to himself, and lamenting his hard fate, he was suddenly roused by a great bustle among the fairies. The cause was evident:— one of the advanced-posts had been carried, and the picket had been driven in, and a number of fairies rushed back among the others, waving their arms above their heads, and shouting,
 
-" He comes — he comes,  
+"He comes — he comes,  
 Sound the alarm.  
 With whiskers grey  
 As long as my arm,"
@@ -188,7 +188,7 @@ Presently a warm air came up from the sea, and the circle round which they had b
 
 John Kann observed all this with astonishment, and his curiosity was still more excited at the puff-ball, which was diligently puffing itself out.
 
-"What's the puff-ball for?" said John Kann. "Why mayn't I sit upon a mushroom, like the rest of you ?"
+"What's the puff-ball for?" said John Kann. "Why mayn't I sit upon a mushroom, like the rest of you?"
 
 To which question he received for answer, —
 
@@ -281,7 +281,7 @@ However, he just looked round for curiosity sake, to see what the fairy alluded 
 
 Could he move his wings? Flip flap, flip flap — they worked beautifully.
 
-Could he fly with them ? He tried. Up he went into the air as light as a thistle-down.
+Could he fly with them? He tried. Up he went into the air as light as a thistle-down.
 
 Should he fly home at once? Dangerous — dangerous, thought he; there are such a terrible number of hawks about. So, aftertaking two or three spiral skimmings in the air, he alighted down again upon his own proper puff-ball.
 
@@ -312,7 +312,7 @@ My little man,
 Though fairies like honey,  
 Men like money.  
 Is it not so?  
-Is it not so ?"
+Is it not so?"
 
 John Kann took off his harebell cap, made a bow, and said, "Just so."
 

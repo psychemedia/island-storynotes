@@ -6,9 +6,9 @@ Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, conta
 
 "Pray, sir," said I, as we went along,"what is that church that I see yonder perched up at the top of a hill?"
 
-" Godshill," answered the antiquary.
+"Godshill," answered the antiquary.
 
-" Godshill! Pray can you inform me how it got that name? It cannot be because it is nearer to heaven than the country round it."
+"Godshill! Pray can you inform me how it got that name? It cannot be because it is nearer to heaven than the country round it."
 
 "I certainly never heard that reason for it before. I always understood that it had been named Godshill in commemoration of a miracle that tradition tells us was performed at the building of the church. The story, as it is now told, and by many still believed, in the Isle of Wight, is as follows:—
 
@@ -62,7 +62,7 @@ Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, conta
 
 "'What can the man mean?' said the architect, when the little man from the top of the hill stopped to take breath.
 
-" Why, it is just what I thought,' said one of the masons; 'there must be two fields somehow or other so exactly alike, that we must have mistaken the one for the other.'
+"Why, it is just what I thought,' said one of the masons; 'there must be two fields somehow or other so exactly alike, that we must have mistaken the one for the other.'
 
 "'I can assure you,' said our friend the franklin, putting in his word, 'that, although he appears a little excited at present, he is a very sensible, respectable, pious man; but what he is talking about I cannot imagine.'
 

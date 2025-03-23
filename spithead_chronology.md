@@ -91,7 +91,7 @@ the nore... but that is another story for another day
 
 The tale is told in
 https://archive.org/details/historyofmutinya00neal
-History of the mutiny at Spithead and the Nore : with an enquiry into its origin and treatment : and suggestions for the prevention of future discontent in the Royal Navy
+History of the mutiny at Spithead and the Nore: with an enquiry into its origin and treatment: and suggestions for the prevention of future discontent in the Royal Navy
 by Neale, W. Johnson (William Johnson), 1812-1893
 Publication date 1842
 

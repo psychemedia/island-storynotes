@@ -41,7 +41,7 @@ LITERARY CHRONICLE. JANE EYRE. An Autobiography. Edited by Currer Bell. 3 Vols.�
 :class: dropdown
 [Liverpool Standard and General Commercial Advertiser - Tuesday 16 November 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0002088/18471116/215/0014)
 
-Jane Eyre. An Autobiography. Edited by Currer Bell. In three volumes. London : Smith, Elder, and Co., Cornhill.
+Jane Eyre. An Autobiography. Edited by Currer Bell. In three volumes. London: Smith, Elder, and Co., Cornhill.
 
 This is one of the most striking works which has for many years past come under our observation. It is full of originality of remark and character, and of vivid and occasionally powerful description. The writer has evidently studied well the human heart. although she (or he) evidently prefers the delineation of those phases of it, which least frequently come under the notice of an ordinary observer. ...
 
@@ -61,7 +61,7 @@ LITERARY EXAMINER.
 
 Jane Eyre. An Autobiography. Edited by Currer Bell, 3 vols. London: Smith, Older and Son, 1847.
 
-Currer Bell is one of those three brothers Bell, who lately published in concert, a volume of rhymes;— with success it would seem, to make the name, on the title-page of an anonymous book, a respectable passport for it into the literature of the day. The work so introduced, is not, as : might be fancied from its title, an authentic narrative of anybody's life. It is a novel—a very clever and striking one, moreover, though written in the quiet, sober style of the old school, and, in its interest, entirely independent of contemporary commotions and discussions.
+Currer Bell is one of those three brothers Bell, who lately published in concert, a volume of rhymes;— with success it would seem, to make the name, on the title-page of an anonymous book, a respectable passport for it into the literature of the day. The work so introduced, is not, as: might be fancied from its title, an authentic narrative of anybody's life. It is a novel—a very clever and striking one, moreover, though written in the quiet, sober style of the old school, and, in its interest, entirely independent of contemporary commotions and discussions.
 
 The heroine begins her story pretty far back in her life,— when she is quite a little girl,— an orphan one, moreover, sheltered and fed, but miserably treated, by a wealthy widow lady, her relative, who with her children nearly worry to death the timid little unfortunate outcast. The wretchedness of a shy and tormented child, in such a situation, is vividly portrayed; not less so the sudden outburst with which when goaded to desperation, she turns on the protective widow lady, who in astonishment and almost fear packs her off to school. "Lowood Institution," to wit, a picture, drawn to the life, of an English proprietary girls school,— with its tolerable teachers, intolerable fare, and the pastoral superintendence of a neighbouring clergyman, who with wife and daughters drowned in finery, comes every now and then to inspect, and order here a ribbon, there a curl, to be cut away, for sanctity's sake. It is at Lowood that Jane's turbulence gets calmed down,—the only touch of direct philosophy in the book, and not a very happy one,—by the example of meekness in a fellow pupil, and the precepts of a good head governess. Nay, so good does she herself become, that on the removal of the latter to another "sphere of usefulness," Jane is made head of the establishment. But after a few years, she wearies of the monotony of her situation, and, wanting another, straightway does, what those who want that or anything else, should always do, namely, advertise. The advertisement is answered; all things go well; and in a few weeks, the young lady of eighteen, impassioned and clever, quiet and demure though she looks, ends herself transported to "Thornfield," a squirearchal manor house in the "North Midland Counties," with a little French girl for her pupil, and for other companion only an old lady who keeps things trim during the long absence of Mr. Rochester, the owner.
 
@@ -77,7 +77,7 @@ LITERATURE.
 
 Jane Eyre; an Autobiography. Edited by Currer Bell. Three Vols.— Smith, Elder, and Co.
 
-This novel many of the features which secure popularity to a work of fiction. The characters introduced are strongly marked, the incidents are various, and of a kind which enlist the sympathies, the style is fresh and vigorous, and scarcely anything is overdone. There is no regular plot : but, what is better, a thrilling interest is excited in each division or department of the story; the several parts hang together with sufficient closeness to constitute continuity, and to admit of a winding-up at the close.
+This novel many of the features which secure popularity to a work of fiction. The characters introduced are strongly marked, the incidents are various, and of a kind which enlist the sympathies, the style is fresh and vigorous, and scarcely anything is overdone. There is no regular plot: but, what is better, a thrilling interest is excited in each division or department of the story; the several parts hang together with sufficient closeness to constitute continuity, and to admit of a winding-up at the close.
 
 ...
 

@@ -53,7 +53,7 @@ The Golf Clubs Association, [1946]
 Location	Collection	Call Number	Status/Desc
 Local Studies
 	Local History Collection
-	REF : 796.356/BEM
+	REF: 796.356/BEM
 Adult non-fiction
 
 
@@ -264,7 +264,7 @@ p6
 
 BEMBRIDGE. The Isle of "Wight Golf Club. —
 
-This club, which has been estalished in connection with the Royal Spithead Hotel here, held its first autumn meeting on Thursday. Unfortunately the weather was totally against good scoring. Eight couples started to compete for the prizes, consisting of a gold medal, presented by Mr C. Tottenham ; a claret jug, presented by Mrs Henley Grose Smith ; and a set of gold clubs and one dozen balls presented by the club. On examining the cards it was found there was a tie between Captain Corse Scott and Mr R. B. Molesworth at 95 strokes for the Tottenham gold medal, and, on playing off the tie, Mr Molesworth won, doing the round in 88 strokes. Captain C. Scott, with a gross score of 95, reduced by an allowance of 8 to 87, carried off Mrs H. Grose Smith's much coveted prize. The set of clubs was won by Captain Eaton, R.N., with a score of 99 reduced by an allowance of 2 to 97, and the prize of golf balls was won by Mr A. J. Duncan, with a score of 111, reduced by an allowance of 26 to 115, The scores were :
+This club, which has been estalished in connection with the Royal Spithead Hotel here, held its first autumn meeting on Thursday. Unfortunately the weather was totally against good scoring. Eight couples started to compete for the prizes, consisting of a gold medal, presented by Mr C. Tottenham; a claret jug, presented by Mrs Henley Grose Smith; and a set of gold clubs and one dozen balls presented by the club. On examining the cards it was found there was a tie between Captain Corse Scott and Mr R. B. Molesworth at 95 strokes for the Tottenham gold medal, and, on playing off the tie, Mr Molesworth won, doing the round in 88 strokes. Captain C. Scott, with a gross score of 95, reduced by an allowance of 8 to 87, carried off Mrs H. Grose Smith's much coveted prize. The set of clubs was won by Captain Eaton, R.N., with a score of 99 reduced by an allowance of 2 to 97, and the prize of golf balls was won by Mr A. J. Duncan, with a score of 111, reduced by an allowance of 26 to 115, The scores were :
 
 | |Score.| Handicap. | Net.|
 |---|---|---|

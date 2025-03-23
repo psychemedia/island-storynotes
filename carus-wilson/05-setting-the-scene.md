@@ -19,7 +19,9 @@ A Plan of the Town of Newport, Andrews 1759, [[via](https://www.nostalgicpicture
 ```
 
 ```{seealso}
-[Interactive map, Ordnance Survey](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=50.69959&lon=-1.29219&layers=117746211&b=1), (includes many pub names); surveyed 1862, published 1865.
+[Interactive map, Ordnance Survey,  Newport, Isle of Wight, OS 1:500, 1861-4](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=50.69959&lon=-1.29219&layers=117746211&b=1), *via National Library of Scotland*; includes many pub names; surveyed 1862, published 1865.
+
+![Pubs around the centre of Newport, c.1862, Newport, Isle of Wight, OS 1:500, 1861-4](images/newport_pubs_c1862.png)
 ```
 
 Amidst the hustle and bustle of the town, the sound of an accordion might perhaps have been heard.

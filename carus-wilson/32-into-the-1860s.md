@@ -227,7 +227,7 @@ Inspector Grapes examined: The inhabitants of the Corn Market are frequently mak
 
 Defendants said they were not intoxicated, and that they never screamed. They were only enjoying a laugh together.
 
-The Chairman : We are sorry to see young people brought before as on such disgraceful charges as these, and there is no doubt but you are frequently intoxicated. Your conduct is a nuisance to the town, and we shall now bind you over in the sum of £10 each, for your good behaviour for three months.
+The Chairman: We are sorry to see young people brought before as on such disgraceful charges as these, and there is no doubt but you are frequently intoxicated. Your conduct is a nuisance to the town, and we shall now bind you over in the sum of £10 each, for your good behaviour for three months.
 
 Defendants paid the fees of 5s. each, and were liberated, somewhat astonished at having escaped so easily, after having given the required bail.
 
@@ -235,11 +235,11 @@ Not so lucky.
 
 Mary Ann Reed, Mary Ann Woodman, and Louisa Bannister, moving in class Z. 99, were charged with being drunk and disorderly in the public streets.
 
-P.C. Tiley examined : On Thursday night about half past ten, I was on duty in St. James's-street, when I saw these girls, with about fourteen soldiers, come out of the Lame Dog. They were beastly drunk, and they came up through the streets swearing and hallooing, and using the most disgraceful language. I should have locked them up then, but for so many soldiers. Bannister fell down several times from drunkenness. They are common prostitutes.
+P.C. Tiley examined: On Thursday night about half past ten, I was on duty in St. James's-street, when I saw these girls, with about fourteen soldiers, come out of the Lame Dog. They were beastly drunk, and they came up through the streets swearing and hallooing, and using the most disgraceful language. I should have locked them up then, but for so many soldiers. Bannister fell down several times from drunkenness. They are common prostitutes.
 
 Defendants said they were not drunk, and they never said nothink to nobody.
 
-The Chairman : It is a very sad thing to see young women giving way to such practices, endangering both body and soul, and as such we are determined to try and put an end to it, we commit you for one month each, to the house of correction.
+The Chairman: It is a very sad thing to see young women giving way to such practices, endangering both body and soul, and as such we are determined to try and put an end to it, we commit you for one month each, to the house of correction.
 
 Another still.
 

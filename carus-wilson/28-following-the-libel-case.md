@@ -110,7 +110,7 @@ Inspector Grapes examined: The inhabitants of the Corn Market are frequently mak
 
 Defendants said they were not intoxicated, and that they never screamed. They were only enjoying a laugh together.
 
-The Chairman : We are sorry to see young people brought before as on such disgraceful charges as these, and there is no doubt but you are frequently intoxicated. Your conduct is a nuisance to the town, and we shall now bind you over in the sum of £10 each, for your good behaviour for three months.
+The Chairman: We are sorry to see young people brought before as on such disgraceful charges as these, and there is no doubt but you are frequently intoxicated. Your conduct is a nuisance to the town, and we shall now bind you over in the sum of £10 each, for your good behaviour for three months.
 
 Defendants paid the fees of 5s. each, and were liberated, somewhat astonished at having escaped so easily, after having given the required bail.
 ```
