@@ -51,7 +51,7 @@ NEWPORT, MAY 30
 
 ...
 
-On Saturday morning last several waggons and carts came into our town laden with mackerel , two fishermen named Bright and Wheeler, having caught upwards of 25,000 on the preceding evening in Chale Bay. At first they were sold at a penny each, but, by the middle of the day, two dozen could be obtained for a shilling, and towards the evening three dozen a shilling.
+On Saturday morning last several waggons and carts came into our town laden with mackerel, two fishermen named Bright and Wheeler, having caught upwards of 25,000 on the preceding evening in Chale Bay. At first they were sold at a penny each, but, by the middle of the day, two dozen could be obtained for a shilling, and towards the evening three dozen a shilling.
 
 ...
 

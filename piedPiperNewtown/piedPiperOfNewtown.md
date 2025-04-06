@@ -291,7 +291,7 @@ Following the publication of Jacobs' *More English Fairy Tales*, and the telling
 >
 > *To the Editor of the Isle of Wight County Press.*
 >
-> Sir, —Mr. Joseph Jacobs commences his volume of "More English Fairy Tales," recently published by David Nutt, with an account of the doings of the Pied Piper of Newtown. Thanks to Browning, we are all of us familiar with what transpired on the Piper’s visit to Hamelin, but his connection with Newtown is not so generally known.
+> Sir, —Mr. Joseph Jacobs commences his volume of "More English Fairy Tales," recently published by David Nutt, with an account of the doings of the Pied Piper of Newtown. Thanks to Browning, we are all of us familiar with what transpired on the Piper's visit to Hamelin, but his connection with Newtown is not so generally known.
 
 The reference to Browning relates to a popular popular poem by Robert Browning telling the tale of the Pied Piper of Hamelin, that I shall include later in this set of notes.
 
@@ -357,7 +357,7 @@ The correspondent then puts forth their own opinion on the matter and the eviden
 
 We are then teased with a "however":
 
-> I have in my possession an octagonal metal button, about the size of penny-piece, which was dug at Newtown, but whether it belonged to the Pied Piper’s coat I cannot say.
+> I have in my possession an octagonal metal button, about the size of penny-piece, which was dug at Newtown, but whether it belonged to the Pied Piper's coat I cannot say.
 
 The letter closes with a reference to the correspondents own work on the local history of the place:
 
@@ -383,8 +383,8 @@ In his *Iocorum otque Seriorum, tum Novorum, tum Selectorum atque Memorabilium C
 
 Davin FitzGerald. Hammersmith
 
-\* `[footnote]` Since the above was written the writer has re ad Mr. Baring-Gould’s chapter on "The Piper of Hameln" (*Curious Myths*, 1873). He refers to Thorpe and Grimm for a full examination of the story.
+\* `[footnote]` Since the above was written the writer has re ad Mr. Baring-Gould's chapter on "The Piper of Hameln" (*Curious Myths*, 1873). He refers to Thorpe and Grimm for a full examination of the story.
 
-In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan’s account is given. I have before now asked unsuccessfully in "N, & Q." who "Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
+In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan's account is given. I have before now asked unsuccessfully in "N, & Q." who "Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
 
 ```

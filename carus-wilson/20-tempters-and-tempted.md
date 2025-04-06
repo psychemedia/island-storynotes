@@ -101,7 +101,7 @@ Casterton Hall Kirkby Lonsdale, Oct. 2.
 :class: seealso dropdown
 [Portsmouth Times and Naval Gazette - Saturday 27 November 1858](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18581127/089/0005)
 
-Testimonial of Respect to the Rev. C. W. Wilson, M.A. There are probably few of the inhabitants of Cowes, of whatever sect or denomination, who will not gratefully acknowledge the good which the town at large has derived from the untiring and active exertions of the Rev. C. W. Wilson during his ministration of three years among us as Curate of St. Mary’s. The rev. gentleman, having been presented by the Bishop of Winchester with the perpetual curacy of Northam near Southampton, has this week left us to enter upon his new charge; albeit rejoicing at his good fortune, we cannot avoid expressing our hearty regret that any circumstance should have occurred to compel him to leave us. His many acts of charity; his indefatigable industry in establishing the night-schools for the working classes; his instrumentality in obtaining from Mr. Ward the grant of a field for public recreation, and his many other deeds of public usefulness have combined to render him deservedly popular, and with this feeling the inhabitants have subscribed together for the purchase of a silver salver of the value of £50 which has this week been presented to him by a deputation appointed for the purpose. The salver bears the following inscription :—" Presented to the Rev. Cornelius William Wilson, M.A., by the inhabitants of West Cowes in the Isle of Wight on the 24th day of November, 1858, as an affectionate token of their esteem, and appreciation of his many excellent qualities both as a Christian minister and a resident, ever ready to alleviate the sufferings of the distressed and to promote the education, happiness and comfort of the poor."
+Testimonial of Respect to the Rev. C. W. Wilson, M.A. There are probably few of the inhabitants of Cowes, of whatever sect or denomination, who will not gratefully acknowledge the good which the town at large has derived from the untiring and active exertions of the Rev. C. W. Wilson during his ministration of three years among us as Curate of St. Mary's. The rev. gentleman, having been presented by the Bishop of Winchester with the perpetual curacy of Northam near Southampton, has this week left us to enter upon his new charge; albeit rejoicing at his good fortune, we cannot avoid expressing our hearty regret that any circumstance should have occurred to compel him to leave us. His many acts of charity; his indefatigable industry in establishing the night-schools for the working classes; his instrumentality in obtaining from Mr. Ward the grant of a field for public recreation, and his many other deeds of public usefulness have combined to render him deservedly popular, and with this feeling the inhabitants have subscribed together for the purchase of a silver salver of the value of £50 which has this week been presented to him by a deputation appointed for the purpose. The salver bears the following inscription :—" Presented to the Rev. Cornelius William Wilson, M.A., by the inhabitants of West Cowes in the Isle of Wight on the 24th day of November, 1858, as an affectionate token of their esteem, and appreciation of his many excellent qualities both as a Christian minister and a resident, ever ready to alleviate the sufferings of the distressed and to promote the education, happiness and comfort of the poor."
 ```
 
 His particular passion appears to have been education, along with engaging in community based activities, such as the arrangements for a community party in celebration of the wedding of H.R.H. The Princess Royal, in 1858.
@@ -115,7 +115,7 @@ A sample of articles avbout *this* Revd. Wilson shows the apparently universal a
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 22 December 1855](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18551222/087/0005)
 
-The National Schools. — Through the active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson’s exertions are the more be commended as he is a late comer amongst us.
+The National Schools. — Through the active and benevolent exertions of the Rev. Mr. Wilson, our respected curate, the debt, which had been for years suffered to accumulate on this useful institution, has been reduced to an almost nominal amount, and we may henceforth hope to see its sphere usefulness extended, and its financial condition prosperous. Mr. Wilson's exertions are the more be commended as he is a late comer amongst us.
 ```
 
 ```{admonition} Popular Education, but..., October 1856
@@ -216,7 +216,7 @@ It seems he was also not averse to publishing to his local community.
 
 JUST PUBLISHED,  
 Price One Shilling,  
-A SERMON , Preached in the Parish Church of Lancaster, at the Primary Visitation of the Bishop of Chester, and Published at the request of his Lordship and the Clergy.
+A SERMON, Preached in the Parish Church of Lancaster, at the Primary Visitation of the Bishop of Chester, and Published at the request of his Lordship and the Clergy.
 
 By the Rev. W. Carus Wilson, M, A. Rector of Vicar of Tunstal, and Chaplain to His Royal Highness the Duke of Sussex.
 
@@ -275,7 +275,7 @@ Its contents were seemingly explosive, and provoked the Mayor of Newport, John H
 
 In the first place, he objected to the way in which the tract appeared to have been distributed, not least to members of his own family and some of the women who worked in his household:
 
-```{admonition} No ordinary feelings of indignation , Saturday 09 February 1856
+```{admonition} No ordinary feelings of indignation, Saturday 09 February 1856
 :class: dropdown
 [Isle of Wight Mercury - Saturday 09 February 1856](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001417/18560209/015/0005)
 

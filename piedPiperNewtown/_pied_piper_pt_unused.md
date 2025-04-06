@@ -71,9 +71,9 @@ The third area of protection includes an abandoned section of the former Gold St
 The Bishop of Winchester's Court Roll for the year 1254-5 contains the first documentary reference to the settlement, then recorded as the new borough of Francheville or 'Freetown'. There are known to have been 73 plots in the borough, which was the last of the town foundations of the Bishops of Winchester and probably replaced an earlier settlement called Stretley. There is some evidence to suggest that by as early as 1334 the settlement was already in economic decline and in 1377 it was attacked and burned by French raiders. Two years later 31 households were considered eligible to pay the Lay Subsidy. In 1559 it was recorded that there were then no `good houses' standing, and the 1674 Hearth Tax returns indicate that there were only eleven residences within the town, a number which remained relatively constant until the 20th century. Nevertheless, between 1584 and 1832, when it was disenfranchised, Newtown sent two representatives to parliament.
 
 https://www.countypress.co.uk/news/18797069.great-flood-newtown/
-TUCKED away in the wilds of Newtown there is a street called Gold Street, but don’t go looking for it on your satnav.
+TUCKED away in the wilds of Newtown there is a street called Gold Street, but don't go looking for it on your satnav.
 It will deny all knowledge of any such place, but Gold Street is there all the same.
-It’s just round the corner from the High Street and up the road from Silver Street.
+It's just round the corner from the High Street and up the road from Silver Street.
 Today, thanks to the French, Newtown is a nature reserve, home to curlews and oystercatchers, but not long ago the mudflats which attract them there were pasture land, part of Marsh Farm and home to grazing cattle.
 The fields disappeared one night in November, 1954, during a raging storm when the sea level rose and was driven onshore by the wind, until eventually the waves breached the seawalls which had kept the Solent out for more than 200 years.
 Millions of gallons of seawater instantly flooded more than 100 acres of farmland which was lost to the sea, probably for ever.
@@ -124,7 +124,7 @@ As if a cavern was suddenly hollowed;
 And the Piper advanced and the children followed,  
 And when all were in to the very last,  
 The door in the mountain-side shut fast.  
-Robert Browning, The Pied Piper of Hamelin: A Child’s Story
+Robert Browning, The Pied Piper of Hamelin: A Child's Story
 
 Many are familiar with the story of the Pied Piper of Hamelin. Few realize however, that the story is based on real events, which evolved over the years into a fairy tale made to scare children.
 
@@ -135,12 +135,12 @@ Although the piper got rid of the rats by leading them away with his music, the 
 
 
 
-The Pied Piper leading Hamelin’s children away. ( Archivist /Adobe Stock)
+The Pied Piper leading Hamelin's children away. ( Archivist /Adobe Stock)
 
 Nevertheless, one or three children were left behind, depending on which version is being told. One of these children was lame, and could not keep up, another was deaf and could not hear the music, while the third one was blind and could not see where the other children were going.
 
 The Record Shows No Rats
-The earliest known record of this story is from the town of Hamelin itself. It is depicted in a stained glass window created for the church of Hamelin, which dates to around 1300 AD. Although it was destroyed in 1660, several written accounts have survived. The oldest comes from the Lueneburg manuscript (c 1440 – 50), which stated: "In the year of 1284, on the day of Saints John and Paul on June 26, by a piper, clothed in many kinds of colours, 130 children born in Hamelin were seduced, and lost at the place of execution near the koppen." A 1384 entry in Hamelin’s town records also grimly states "It is 100 years since our children left."
+The earliest known record of this story is from the town of Hamelin itself. It is depicted in a stained glass window created for the church of Hamelin, which dates to around 1300 AD. Although it was destroyed in 1660, several written accounts have survived. The oldest comes from the Lueneburg manuscript (c 1440 – 50), which stated: "In the year of 1284, on the day of Saints John and Paul on June 26, by a piper, clothed in many kinds of colours, 130 children born in Hamelin were seduced, and lost at the place of execution near the koppen." A 1384 entry in Hamelin's town records also grimly states "It is 100 years since our children left."
 
 The oldest known picture of the Pied Piper
 
@@ -152,30 +152,30 @@ A Brothers Grimm Story Proven Right: Many Fairy Tales Stem from Ancient Oral Tra
 Exploring the True Origins of Snow White and the Seven Dwarfs
 The Darker Side of Irish Fairy Lore: When Encounters Turn Dangerous
 What Actually Happened in Hamelin?
-If the children’s disappearance was not an act of revenge, then what was its cause for the Pied Piper’s actions? There have been numerous theories trying to explain what happened to the children of Hamelin.
+If the children's disappearance was not an act of revenge, then what was its cause for the Pied Piper's actions? There have been numerous theories trying to explain what happened to the children of Hamelin.
 
-For instance, one theory suggests that the children died of some natural causes, and that the Pied Piper was actually a personification of Death. By associating the rats with the Black Death , it has been suggested that the children were victims of that plague. Yet, the Black Death was most severe in Europe between 1348 and 1350, more than half a century after the event in Hamelin.
+For instance, one theory suggests that the children died of some natural causes, and that the Pied Piper was actually a personification of Death. By associating the rats with the Black Death, it has been suggested that the children were victims of that plague. Yet, the Black Death was most severe in Europe between 1348 and 1350, more than half a century after the event in Hamelin.
 
 
 
 Is the Pied Piper Death personified? ( Archivist /Adobe Stock)
 
-Another theory suggests that the children were actually sent away by their parents, due to the extreme poverty in which they were living. Yet another theory speculates that the children were participants of a doomed 'Children’s Crusade’ , and might have ended up in modern day Romania.
+Another theory suggests that the children were actually sent away by their parents, due to the extreme poverty in which they were living. Yet another theory speculates that the children were participants of a doomed 'Children's Crusade', and might have ended up in modern day Romania.
 
 There is also the suggestion that the departure of Hamelin's children is tied to the Ostsiedlung, in which a number of Germans left their homes to colonize Eastern Europe. Reflecting on this hypothesis, Wibke Reimer, project coordinator at the Hameln Museum, says "In this scenario the Pied Piper played the role of a so-called locator or recruiter. They were responsible for organising migrations to the east and were said to have worn colourful garments and played an instrument to attract the attention of possible settlers."
 
 
 
-Yet another suggestion is that this is an account of dance mania , also known as St. Vitus’ Dance. This affliction gripped mainland Europe between the 14th and 17th centuries, and has been described as individuals dancing "hysterically through the streets for hours, days, and apparently even months, until they collapsed due to exhaustion or died from heart attack or stroke."
+Yet another suggestion is that this is an account of dance mania, also known as St. Vitus' Dance. This affliction gripped mainland Europe between the 14th and 17th centuries, and has been described as individuals dancing "hysterically through the streets for hours, days, and apparently even months, until they collapsed due to exhaustion or died from heart attack or stroke."
 
-Another of the darker theories even proposes that the so-called Pied Piper was actually a paedophile who crept into the town of Hamelin to abduct children during their sleep. Perhaps the horrible nature of the children’s disappearance is the reason why there are few details on what happened. Reimer ponders "Did something happen that officials had been covering up? Something so traumatic that it was transmitted orally for so long in the town’s collective memory, over decades and even centuries?"
+Another of the darker theories even proposes that the so-called Pied Piper was actually a paedophile who crept into the town of Hamelin to abduct children during their sleep. Perhaps the horrible nature of the children's disappearance is the reason why there are few details on what happened. Reimer ponders "Did something happen that officials had been covering up? Something so traumatic that it was transmitted orally for so long in the town's collective memory, over decades and even centuries?"
 
 One of the darker themed representations of the Pied Piper of Hamelin
 
 One of the darker themed representations of the Pied Piper of Hamelin. ( Lui-Gon-Jinn/DeviantArt)
 
 There may be More Truth Found in Fairy Tales…
-Historical records suggest that the story of the Pied Piper of Hamelin was a real event that took place. This could stoke real fear in parent’s hearts – worrying whispers that a number of real children have been lost to some frightening unknown force. The transmission of this story undoubtedly evolved and changed over the centuries, although to what extent is uncertain.
+Historical records suggest that the story of the Pied Piper of Hamelin was a real event that took place. This could stoke real fear in parent's hearts – worrying whispers that a number of real children have been lost to some frightening unknown force. The transmission of this story undoubtedly evolved and changed over the centuries, although to what extent is uncertain.
 
 The mystery of what really happened to those children has never been solved. The story also raises the question, if the Pied Piper of Hamelin was based on reality, how much truth is there in other fairy tales that we were told as children?
 

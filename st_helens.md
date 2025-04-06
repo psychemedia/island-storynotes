@@ -63,7 +63,7 @@ St Helens Church tower stands just off of National Trust land, and is an intrigu
 The first church at St Helens, or 'Etharin' as we think it was then known, was built on the Duver in Saxon times by Hildila who was Chaplain to Wilfred, Bishop of Chichester.
 The wooden church
 Wilfred had been granted land on the Isle of Wight by Caedwalla the Saxon king, who took the Island by force in AD686.
-The simple wooden church with its views over to Chichester was built following Wilfred’s visit to the Island in AD704 and is believed to have survived until it was burnt down by the marauding Danes in AD998.
+The simple wooden church with its views over to Chichester was built following Wilfred's visit to the Island in AD704 and is believed to have survived until it was burnt down by the marauding Danes in AD998.
 Founding the priory
 A priory at St Helens was founded after the Norman Conquest by French Benedictine monks. The church was rebuilt in Norman style to serve both parish and priory.
 It was dedicated to St Helena, mother of the Roman Emperor Constantine, from whom the village subsequently took its name. The tower was added in the 13th century during the reign of Henry III.
@@ -75,17 +75,17 @@ Its exposed position became even more acute in the 1620s when Sir Hugh Myddleton
 Dismantling the church
 In the 1630s, the sea defences were further undermined by the tenant of the priory, who sold off the church stones.
 A dispute arose with his parishioners, but it's likely that they too were removing stones for their own purposes.
-Blocks of soft sandstone from which the church was built – known as 'Holy Stones' - were used by sailors of vessels anchored off St Helens to 'holystone the decks’ - meaning to scour and whiten them.
+Blocks of soft sandstone from which the church was built – known as 'Holy Stones' - were used by sailors of vessels anchored off St Helens to 'holystone the decks' - meaning to scour and whiten them.
 As a result, the church was left jutting out on a peninsula, washed on three sides by the sea. Eventually only the tower remained and this was subsequently bricked up and painted white as a seamark for Navy ships in 1719.
 It fulfils this purpose today and is associated with the high-level seamark on Ashey Down erected 16 years later. A new church for St Helens was built further inland in the 18th century. 
 
 https://www.nationaltrust.org.uk/st-helens-duver/features/maritime-history-of-st-helens-duver
-Although hard to imagine today, at the east end of today’s St Helens Duver on the Isle of Wight, the port of St Helens was important from the end of the 13th-century until the rise of Cowes in the 1700s.
+Although hard to imagine today, at the east end of today's St Helens Duver on the Isle of Wight, the port of St Helens was important from the end of the 13th-century until the rise of Cowes in the 1700s.
 St Helens Roads
-Naval and merchant fleets would often anchor in the sheltered waters of St Helen's Roads just offshore to take supplies on board. Press gangs would come ashore and try to boost crew numbers – hence the name of the Gaggen or Gaggun Edge path at the edge of the Common. The water of St Helens had excellent keeping qualities and would remain fresh for a voyage to the West Indies and back. Legend has it that Admiral Lord Nelson’s last view of England was of the Old Church at St Helens when his ship HMS Victory stopped to take on supplies before setting sail for the Battle of Trafalgar.
+Naval and merchant fleets would often anchor in the sheltered waters of St Helen's Roads just offshore to take supplies on board. Press gangs would come ashore and try to boost crew numbers – hence the name of the Gaggen or Gaggun Edge path at the edge of the Common. The water of St Helens had excellent keeping qualities and would remain fresh for a voyage to the West Indies and back. Legend has it that Admiral Lord Nelson's last view of England was of the Old Church at St Helens when his ship HMS Victory stopped to take on supplies before setting sail for the Battle of Trafalgar.
 Strategic defence
 Of course St Helens was vulnerable to attack, particularly by the French navy who came ashore in 1340. On this occasion they were driven back, and again in 1545 during the campaign in which the Mary Rose capsized and sank off Portsmouth. A watchtower with a beacon was then erected at Nodes Point but although the waters round St Helens were sheltered, shipwrecks were not uncommon and many sailors who were drowned are buried locally.
-By the time of the Second World War, Woodnutt’s boatyard at the west end of the Duver employed 200 workers, building mainly Fairmile-class patrol boats for the admiralty and airborne lifeboats for rescuing RAF crew who had ditched into the sea.
+By the time of the Second World War, Woodnutt's boatyard at the west end of the Duver employed 200 workers, building mainly Fairmile-class patrol boats for the admiralty and airborne lifeboats for rescuing RAF crew who had ditched into the sea.
 More recent activity on the water
 There used to be a ferry from the Duver across the harbour entrance to Bembridge but it finally stopped running in 1993. This area has been used for commercial maritime activities from the end of the 19th-century. In that period, wooden hulls have been replaced by fibreglass, inboard motors have become outboard and new vessels have appeared such as catamarans. 
 
@@ -132,7 +132,7 @@ http://www.smuggling.co.uk/gazetteer_s_10.html
 
 http://www.wightfarmholidays.co.uk/iow/smuggling-and-piracy-on-the-isle-of-wight/
 Operation Eyeful
-Historic - the Bishop of Winchester ordered Island priests to deliver a sermon at least three times a year against such murders, but King Edward1’s Shipwreck Act of 1275, which gave the ship owners a year and a day to claim their cargoes – on condition that 'one living thing’ survived the wreck
+Historic - the Bishop of Winchester ordered Island priests to deliver a sermon at least three times a year against such murders, but King Edward1's Shipwreck Act of 1275, which gave the ship owners a year and a day to claim their cargoes – on condition that 'one living thing' survived the wreck
 WHeelers of Wheelers bay
 
 Maps http://vectisarchaeology.org.uk/pdfs/antiqe_maps_iow.pdf By 1724 [H Moll geographer] map, St Helens butts out to Bembridge, 1805 still water there, and 1837, and 1841, closed off by 1882
@@ -144,15 +144,15 @@ https://www.iwhistory.org.uk/HER/0902sheepwashsites.htm Several places called sh
 http://vectisarchaeology.org.uk/
 
 https://bembridgeharbourtrust.org/local-history/
-Some of the earliest relevant references concern 'St Helens Roads’, being the area to the seaward of the harbour. This has always been a sheltered anchorage and is still used as such, as it is protected from westerly winds. It has often been a departure point for fleets sailing west down the English Channel, perhaps most famously being the departure point for Nelson’s fleet in 1805 en route to Trafalgar.
-The original entrance of Brading Haven was by St Helens Old Church with the spit, known as the Duver, originally extending from the Bembridge side, although this changed, as a result of natural causes, by the early 1600s to the current layout, with the entrance on the Bembridge end of the Duver. The Old Church itself was built in the reign of Henry lll (1215-1272). The Church began to fall into the sea about 1550 and from then on gradually disintegrated until only the portion of the Tower seen today remained. In 1703 it was bricked up on the seaward side for use as a Seamark. Allegedly sailors used to remove the stones of the Old Church for scouring the decks of wooden ships and the term 'holystoning the decks’ is said to have originated here.
+Some of the earliest relevant references concern 'St Helens Roads', being the area to the seaward of the harbour. This has always been a sheltered anchorage and is still used as such, as it is protected from westerly winds. It has often been a departure point for fleets sailing west down the English Channel, perhaps most famously being the departure point for Nelson's fleet in 1805 en route to Trafalgar.
+The original entrance of Brading Haven was by St Helens Old Church with the spit, known as the Duver, originally extending from the Bembridge side, although this changed, as a result of natural causes, by the early 1600s to the current layout, with the entrance on the Bembridge end of the Duver. The Old Church itself was built in the reign of Henry lll (1215-1272). The Church began to fall into the sea about 1550 and from then on gradually disintegrated until only the portion of the Tower seen today remained. In 1703 it was bricked up on the seaward side for use as a Seamark. Allegedly sailors used to remove the stones of the Old Church for scouring the decks of wooden ships and the term 'holystoning the decks' is said to have originated here.
 Several important construction operations have contributed to the development of the harbour into its current location and form. In 1338 the Yarbridge connection to the Isle of Binbridge (Bembridge) was constructed, blocking off the water to Sandham (Sandown). The next reclamation was in 1562 when the area alongside Carpenters Road at the Brading End was cut off. In 1594 land at the bottom of Quay Lane in Brading was reclaimed. Up until this point, small commercial vessels could sail nearly up to Brading High Street. The first attempt to cut off a major portion of the harbour was between 1620 – 1622 when a barrier was constructed from what is now Bembridge Lodge to Woodnutts but it only lasted eight years before being breached.
 The major closure of Brading Haven to form what is now known as Bembridge Harbour was started in 1874 and finally finished, after several abortive attempts, in 1880. After this work was completed the ownership of the Harbour passed into the hands of the local railway company. It passed to the Southern Railway after the First World War and then British Railways following nationalisation. It eventually passed back into private hands in 1968.
-On the 19th July 1545 Bembridge was invaded by the French under the command of Seigneur de Taix and the village set on fire. This was in order to provoke the English fleet in Portsmouth, who were able to see the flames, to come out and fight the French, but they did not, except the Mary Rose, which promptly sank. The French did not stay in Bembridge long, though. They managed to take Bembridge, Whitecliff and St. Helens, getting as far as Yarbridge in Brading and building temporary earthworks just outside Centurions Copse. The English fleet, though, refused to leave the safety of Portsmouth. Also, the local militia, having repelled another invasion at Yaverland, were approaching and were using the Brading Parish cannon, called the 'Fire Engine’ to bombard the French positions over Brading Haven. The French admiral had also calculated that it would take 6,000 men to keep the island over the winter when ships were unable to sail regularly from France, and could not spare that many, and so the French forces soon left.
+On the 19th July 1545 Bembridge was invaded by the French under the command of Seigneur de Taix and the village set on fire. This was in order to provoke the English fleet in Portsmouth, who were able to see the flames, to come out and fight the French, but they did not, except the Mary Rose, which promptly sank. The French did not stay in Bembridge long, though. They managed to take Bembridge, Whitecliff and St. Helens, getting as far as Yarbridge in Brading and building temporary earthworks just outside Centurions Copse. The English fleet, though, refused to leave the safety of Portsmouth. Also, the local militia, having repelled another invasion at Yaverland, were approaching and were using the Brading Parish cannon, called the 'Fire Engine' to bombard the French positions over Brading Haven. The French admiral had also calculated that it would take 6,000 men to keep the island over the winter when ships were unable to sail regularly from France, and could not spare that many, and so the French forces soon left.
 Bembridge Harbour was originally just part of Brading Haven, and the sea extended down as far as Yaverland and Sandown. The whole peninsula was almost an island. Brading was used as a port in Roman times. In 1388 Sir William Russell had drained the southern half of Brading Haven, and in 1562 North Marsh was walled by George Oglander, with further walls built in 1594 and 1620. During this time, St. Helens was used as a port. However, after the flood of March 1630, Brading Haven was not reclaimed until 1878 at a cost of £420,000.
-Bembridge was always too difficult to access as the only route to it was via marshes in Yaverland which flooded in winter. Even at the start of the 19th Century access to Bembridge was difficult, and as there were strong currents across the mouth of the harbour, the only safe time to get to Bembridge was via a 'horse boat’, which only operated in low tide and in fair weather.
+Bembridge was always too difficult to access as the only route to it was via marshes in Yaverland which flooded in winter. Even at the start of the 19th Century access to Bembridge was difficult, and as there were strong currents across the mouth of the harbour, the only safe time to get to Bembridge was via a 'horse boat', which only operated in low tide and in fair weather.
 In 1864, the Bembridge Railway, Tramway and Pier Act was passed by Parliament, authorising the construction of land-reclamation works and the building of a pier. By 1878 over 800 acres of land were reclaimed, and a pier built. Bembridge Harbour Pier was only 250ft long, and quite narrow too. Despite this, it was used by ships such as the 46 tonnes Tynemouth, and after the harbour had been dredged to allow larger ships, such as the 125ft. Island Queen in 1878 and in 1892 the 104 tonnes, 137ft paddle steamer Princess of Wales, which was re-named the Bembridge. This was run by the Southsea and Ventnor Steamship Company. This later merged with the Southsea, Ventnor, Shanklin and Sandown Steamship Company to become the Bembridge and Seaview Steamship Company in 1912. Ships which called at Bembridge regularly on a passenger service included the Sandringham, Prince, Duke of York, Carrier and the 130ft Lord Kitchener. The largest ferry was the Alexandra in 1913, which was a 235-tonne ship and 171ft long.
-Bembridge became even busier when one of Britain 's first golf courses, as the St Helen’s Duver was for many Years the Royal Golf Links. The Royal Isle of Wight Golf Club was founded in 1882 and was responsible for the much of the development of the modern game of Golf, at one point challenging the pre-eminence of St Andrews as the source of the authoritative rules of the game and even forcing changes in some of the St Andrews rules.
+Bembridge became even busier when one of Britain 's first golf courses, as the St Helen's Duver was for many Years the Royal Golf Links. The Royal Isle of Wight Golf Club was founded in 1882 and was responsible for the much of the development of the modern game of Golf, at one point challenging the pre-eminence of St Andrews as the source of the authoritative rules of the game and even forcing changes in some of the St Andrews rules.
 
 
 https://jsbookreader.blogspot.com/2014/05/a-tour-of-isle-of-wight-1790.html
@@ -171,14 +171,14 @@ https://archive.org/details/tourislewightdr00hassgoog
 
 
 Hassell vol 2 1790, p33 St Helens
-Outward - bound ſhips not only take in
-their poultry, & c .here, but likewiſe their water; which is found to be preferable to that of most other parts. East Indiamen
-have been known to carry it to their destined ports, and bring some of it back , in as Vol. II . ſweet
+Outward-bound ships not only take in their poultry, &c. here, but likewise their water, which is found to be preferable to that of most other parts. East Indiamen have been known to carry it to their destined ports, and bring some of it back, in as Vol. II . ſweet
 ( 34 )
-sweet a state as when taken from the spring .
-And it has this further advantage,that when at sea , it recovers itself sooner than any
-other .
-Near the [Nettlestone] priory several salt-works are established , which for convenience exceed
+sweet a state as when taken from the spring.
+
+And it has this further advantage,that when at sea, it recovers itself sooner than any
+other.
+
+Near the [Nettlestone] priory several salt-works are established, which for convenience exceed
 the general run of these works.
 
 
@@ -205,7 +205,7 @@ http://www.vernoncottage.co.uk/p/history.html
 https://victorian-supersleuth.com/smugglers-island/
 	
 https://www.britishhops.org.uk/hops/what-is-a-hop/
-Humulus lupulus or 'wolf of the woods’ is the Latin name for the hop.
+Humulus lupulus or 'wolf of the woods' is the Latin name for the hop.
 
 Holystoning
 
@@ -213,15 +213,15 @@ https://en.wikipedia.org/wiki/Holystone
 
 
 https://joyfulmolly.wordpress.com/2007/11/05/resource-the-secret-diary-of-a-midshipman/
-https://ussconstitutionmuseum.org/2016/07/14/decks/ 'Lieutenant Blockhead keeping the Morning Watch’ shows sailors holystoning the top deck; a study for an illustration for 'The Life of a Midshipman,’ by Frederick Marryat, 1820. [© The Trustees of the British Museum]
+https://ussconstitutionmuseum.org/2016/07/14/decks/ 'Lieutenant Blockhead keeping the Morning Watch' shows sailors holystoning the top deck; a study for an illustration for 'The Life of a Midshipman,' by Frederick Marryat, 1820. [© The Trustees of the British Museum]
 
 https://asailorslifeforme.org/educate/annotated-scenes/holystoning/
 Holy stone and smaller "prayer book"
 
 The Old East Indiamen, by Edward Keble Chatterton, 1914
 https://www.gutenberg.org/files/54561/54561-h/54561-h.htm
-On Wednesdays and Saturdays the 'tween decks were cleaned and holystoned. The origin of the word "holystoned" has been variously derived. To "holystone" is to rub the decks with sandstone or "prayer-books." When ships, both of the East India Company, his Majesty’s navy and other craft, used to anchor in St Helen’s Roads (off Bembridge, Isle of Wight, facing Portsmouth) the place was found convenient for two reasons. There was a convenient dip-well close to the shore, which still exists to-day: and this water kept in wooden butts used to keep so well, and unlike much other water did not turn putrid when the ships had been at sea some time, that East Indiamen were actually known to have brought back some of it home quite fresh after being out to the East and remaining in the ship about a twelvemonth. But besides the excellent water, the men used to be sent ashore here to obtain sand for scrubbing the decks. One day it was discovered that there was nothing so good as a piece of the stone of the old St Helen’s Church, which had recently been abandoned, the relic of which survives to-day only as a sea-mark. In those sacrilegious days there was little respect for hallowed267 things, such as churches or graves, and before long every ship that came to these roads would send men ashore as a matter of course to fetch bits of the church and even gravestones in small blocks. The suggestion is that thus when the decks were rubbed with them the work was known as "holystoning," and the blocks themselves called "Bibles" or "Prayer-books."F
-F Mentioned in Captain E. du Boulay’s "Bembridge, Past and Present."
+On Wednesdays and Saturdays the 'tween decks were cleaned and holystoned. The origin of the word "holystoned" has been variously derived. To "holystone" is to rub the decks with sandstone or "prayer-books." When ships, both of the East India Company, his Majesty's navy and other craft, used to anchor in St Helen's Roads (off Bembridge, Isle of Wight, facing Portsmouth) the place was found convenient for two reasons. There was a convenient dip-well close to the shore, which still exists to-day: and this water kept in wooden butts used to keep so well, and unlike much other water did not turn putrid when the ships had been at sea some time, that East Indiamen were actually known to have brought back some of it home quite fresh after being out to the East and remaining in the ship about a twelvemonth. But besides the excellent water, the men used to be sent ashore here to obtain sand for scrubbing the decks. One day it was discovered that there was nothing so good as a piece of the stone of the old St Helen's Church, which had recently been abandoned, the relic of which survives to-day only as a sea-mark. In those sacrilegious days there was little respect for hallowed267 things, such as churches or graves, and before long every ship that came to these roads would send men ashore as a matter of course to fetch bits of the church and even gravestones in small blocks. The suggestion is that thus when the decks were rubbed with them the work was known as "holystoning," and the blocks themselves called "Bibles" or "Prayer-books."F
+F Mentioned in Captain E. du Boulay's "Bembridge, Past and Present."
 
 
 
@@ -250,7 +250,7 @@ Seamen on Late Eighteenth-Century European Warships
 Niklas Frykman
 International Review of Social History
 https: // www. jstor .org / stable / 44583116 https://www.researchgate.net/publication/232015238_Seamen_on_Late_Eighteenth-Century_European_Warships p78
-. The day’s
+. The day's
 work on a typical battleship began at four in the morning, when one of
 the two watches was ordered to commence holy-stoning the deck, one of
 the most odious activities on board:

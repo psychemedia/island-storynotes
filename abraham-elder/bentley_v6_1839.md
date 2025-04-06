@@ -185,8 +185,7 @@ A very curious account of a hunting of this lady, or Queen of the Isle of Wight,
 
 
 To-morrow, whan it is daylight,  
-Lok ye be all redy dight, ,  
-
+Lok ye be all redy dight,  
 With your houndis more and lesse  
 
 In forrest to take my gresse,*  

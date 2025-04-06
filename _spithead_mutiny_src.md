@@ -598,7 +598,7 @@ That the captains and commanders of his Majesty's ships be particularly attentiv
 
 Given, &c. the 1st of May, 1797.
 
-(L. S.) At the Court of St. James's, the third of May , 1797. Prsent, the King's most Excellent Majesty in council.
+(L. S.) At the Court of St. James's, the third of May, 1797. Prsent, the King's most Excellent Majesty in council.
 
 Whereas there was this day read at the board a report from a committee of the Lords of most Honourable Privy Council, viz.
 

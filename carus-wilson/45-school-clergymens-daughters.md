@@ -132,7 +132,7 @@ A satirical take in *Punch* magazine on the Governesses' Benevolent Institution 
 
 Punch, [Vol 10, 1846, p216](https://archive.org/details/sim_punch_1846_10/page/216/mode/2up).
 
-GOVERNESSES’ BENEVOLENT INSTITUTION.
+GOVERNESSES' BENEVOLENT INSTITUTION.
 
 IN furtherance of the objects of this most useful charity, it is in contemplation to establish a School, for the purpose of preparing young ladies destined to be governesses, for the situations they are intended to fill. The necessity of teaching those who are to be teachers, and of instructing the governess how to govern, is obvious; the pupils, accordingly, will learn all the modern languages and accomplishments— geography, astronomy, the use of the globes, and so much of moral philosophy as includes the true principles of education. But as the social position of a governess is a peculiar one, being, as anovelty, rather uncomfortable, though, like a certain process to which eels are subjected, nothing when anybody is used to it. One great object of this School will be to familiarise the pupils with the life they may expect to lead. Its arrangements will therefore comprise a system of training calculated for the inculcation of an amount of practical as well as moral philosophy adequate to this purpose.
 

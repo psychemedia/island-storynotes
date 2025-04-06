@@ -169,7 +169,7 @@ Mr. Estcourt proposed Mr. F. Pittis as Alderman, and on a ballot being taken, he
 
 In the 1850s, disorderly conduct in the public streets had been regulated by the [Vagrancy Act, 1824](https://www.legislation.gov.uk/ukpga/1824/83/pdfs/ukpga_18240083_en.pdf), which included the following clause:
 
-> ... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner;  ... , shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
+> ... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner;  ..., shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
 
 Town Commissioners could also adopt regulations defined in the [Town Police Clauses Act 1847](https://www.legislation.gov.uk/ukpga/1847/89/pdfs/ukpga_18470089_en.pdf) as local Bye_laws. Among other things, this allowed them, to explicitly regulate, amongst other things, bad language and disorderly conduct:
 

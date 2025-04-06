@@ -2,7 +2,7 @@
 
 
 
-Following is just north, Newbridge, https://www.wightpedia.org.uk/w/File:Calbourne-lower-mill-1896.jpg , Calbourne Lower Mill, aka Mill Green Mill, eg 
+Following is just north, Newbridge, https://www.wightpedia.org.uk/w/File:Calbourne-lower-mill-1896.jpg  Calbourne Lower Mill, aka Mill Green Mill, eg 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18220114/025/0002
 Salisbury and Winchester Journal - Monday 14 January 1822
