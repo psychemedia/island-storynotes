@@ -7,7 +7,7 @@ It includes:
 
 - full length report of visit of Hampshire Field Club to Newtown
 - Robert Browning's poem _"The Pied Piper of Hamelin_"
-- Eliza Gutch's “The Pied Piper of Hamelin”, Folk-Lore, 1892
+- Eliza Gutch's "The Pied Piper of Hamelin", Folk-Lore, 1892
 - Archaeological and Political History of Newtown, including notes from an *Extensive Urban Survey - Hampshire and the Isle of Wight* by Hampshire County Council and English Heritage.
 
 ## The Hampshire Field Club in the Island
@@ -368,7 +368,7 @@ The music stopped and I stood still,
 And found myself outside the hill,  
 Left alone against my will,  
 To go now limping as before,  
-And never hear of that country more! ”"
+And never hear of that country more! ""
 
 XIV.  
 Alas, alas for Hamelin!  
@@ -726,7 +726,7 @@ Beresford, M. 1967 New Towns of the Middle Ages Lutterworth London
 
 Beresford, M. & 1958 Medieval England An Aerial Survey Cambridge University Press St Joseph, J.K.S. 2nd Edition (1979)
 
-Gale, A. 1987 ‘The Location of Brickworks on the Isle of Wight’ in Proceedings of the Isle of Wight Natural History and Archaeological Society 8, Part 1 37-44
+Gale, A. 1987 'The Location of Brickworks on the Isle of Wight’ in Proceedings of the Isle of Wight Natural History and Archaeological Society 8, Part 1 37-44
 
 Hughes, M.F. 1976 The Small Towns of Hampshire. The Archaeological and Historical Implications of Development Hampshire Archaeological Committee
 
@@ -753,7 +753,7 @@ Historic Newtown
 
 5.4 The estate within which Newtown lay was given to the Bishop of Winchester in 826 but at that time the estate centre was probably at Calbourne. Tradition has it that Newtown was destroyed by the Danes in 1001 but there is no evidence for this. It is possible that there was some settlement on the ridge before the foundation of the town, based on a reference to Streetly.
 
-5.5 Newtown was first recorded in 1254-5 under the name ‘Francheville’ (Free Town) and was at that time called a borough. The bishop obtained a grant for a market and fair for his manor of Calbourne the following year but it is presumed that the market and fairs were held at Newtown. At this time there were seventy three burgage plots in the town which was provided with a chapel that was dependant on the parish church at Calbourne.
+5.5 Newtown was first recorded in 1254-5 under the name 'Francheville’ (Free Town) and was at that time called a borough. The bishop obtained a grant for a market and fair for his manor of Calbourne the following year but it is presumed that the market and fairs were held at Newtown. At this time there were seventy three burgage plots in the town which was provided with a chapel that was dependant on the parish church at Calbourne.
 
 5.6 The town is thought to have been destroyed, or at least badly damaged, in the French raids on the Island in 1377 and the economic decline in Newtown is usually attributed to these raids. However it is clear that there were problems in the town’s economy by the early to midfourteenth century.
 

@@ -100,11 +100,11 @@ Have a tender, solemn word, and a suitable tract for the fallen female. Ah, it i
 
 Warn the young men. Be instant in season and out of season. One immortal soul saved will amply repay a life of effort. But how many may be given for your hire! And above all, be much in prayer for the Holy Spirit. We are wholly dependent on his influences. It is ours to work, it is His to bless. Oh, what we want is more of the life-giving power of the Spirit, softening hard hearts, opening blind eyes, and thus enabling poor sinners to see their danger, and understand a Saviour's love. Resolve throughout the new year to be more than ever in prayer for the Divine Spirit. When together in social prayer, in your private devotions, make this prominent: that the Holy Spirit may come in showers of blessings; sanctifying and beautifying with salvation more largely the little flock of Christ, and more and more adding to that flock such as shall be saved. Aim at the best and most extended machinery for good in the midst of your vast population; but be earnest in prayer for enlarged spiritual influence, without which all will be useless.
 
-If Portsmouth is like Moses' bush in flames but not consumed, it is because of the ten righteous that are therein. "Ye are the salt of the earth.” As such, be it yours to put forth more and more of a beneficial influence.
+If Portsmouth is like Moses' bush in flames but not consumed, it is because of the ten righteous that are therein. "Ye are the salt of the earth." As such, be it yours to put forth more and more of a beneficial influence.
 
 Dear friends, I commend you to God and to the Word of His grace.
 
-"Be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.”
+"Be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."
 
 JANUARY, 1857.
 

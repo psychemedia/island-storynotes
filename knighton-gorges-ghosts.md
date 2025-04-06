@@ -1,6 +1,6 @@
 # Knighton Gorges
 
-TO DO - suicide
+TO DO - suicide felo de se
 
 
 Originally a well presented manor house.
@@ -22,7 +22,7 @@ https://upload.wikimedia.org/wikipedia/en/thumb/4/45/KnightonSeatOfBisset.jpg/60
 
 ---
 
-Davis, Rev. R. G. “Historical Notes on the Manor of Knighton, in the Isle of White,” Proceedings of the Hampshire Field Club & Archaeological Society vol. 3 (1898): 295-302.
+Davis, Rev. R. G. "Historical Notes on the Manor of Knighton, in the Isle of White," Proceedings of the Hampshire Field Club & Archaeological Society vol. 3 (1898): 295-302.
 
 https://www.hantsfieldclub.org.uk/publications/hampshirestudies/digital/1885-99/Vol_3/Davis_pt3.pdf
 

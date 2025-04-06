@@ -140,7 +140,7 @@ The Pied Piper leading Hamelin’s children away. ( Archivist /Adobe Stock)
 Nevertheless, one or three children were left behind, depending on which version is being told. One of these children was lame, and could not keep up, another was deaf and could not hear the music, while the third one was blind and could not see where the other children were going.
 
 The Record Shows No Rats
-The earliest known record of this story is from the town of Hamelin itself. It is depicted in a stained glass window created for the church of Hamelin, which dates to around 1300 AD. Although it was destroyed in 1660, several written accounts have survived. The oldest comes from the Lueneburg manuscript (c 1440 – 50), which stated: “In the year of 1284, on the day of Saints John and Paul on June 26, by a piper, clothed in many kinds of colours, 130 children born in Hamelin were seduced, and lost at the place of execution near the koppen.” A 1384 entry in Hamelin’s town records also grimly states “It is 100 years since our children left.”
+The earliest known record of this story is from the town of Hamelin itself. It is depicted in a stained glass window created for the church of Hamelin, which dates to around 1300 AD. Although it was destroyed in 1660, several written accounts have survived. The oldest comes from the Lueneburg manuscript (c 1440 – 50), which stated: "In the year of 1284, on the day of Saints John and Paul on June 26, by a piper, clothed in many kinds of colours, 130 children born in Hamelin were seduced, and lost at the place of execution near the koppen." A 1384 entry in Hamelin’s town records also grimly states "It is 100 years since our children left."
 
 The oldest known picture of the Pied Piper
 
@@ -160,15 +160,15 @@ For instance, one theory suggests that the children died of some natural causes,
 
 Is the Pied Piper Death personified? ( Archivist /Adobe Stock)
 
-Another theory suggests that the children were actually sent away by their parents, due to the extreme poverty in which they were living. Yet another theory speculates that the children were participants of a doomed ‘Children’s Crusade’ , and might have ended up in modern day Romania.
+Another theory suggests that the children were actually sent away by their parents, due to the extreme poverty in which they were living. Yet another theory speculates that the children were participants of a doomed 'Children’s Crusade’ , and might have ended up in modern day Romania.
 
-There is also the suggestion that the departure of Hamelin's children is tied to the Ostsiedlung, in which a number of Germans left their homes to colonize Eastern Europe. Reflecting on this hypothesis, Wibke Reimer, project coordinator at the Hameln Museum, says “In this scenario the Pied Piper played the role of a so-called locator or recruiter. They were responsible for organising migrations to the east and were said to have worn colourful garments and played an instrument to attract the attention of possible settlers.”
+There is also the suggestion that the departure of Hamelin's children is tied to the Ostsiedlung, in which a number of Germans left their homes to colonize Eastern Europe. Reflecting on this hypothesis, Wibke Reimer, project coordinator at the Hameln Museum, says "In this scenario the Pied Piper played the role of a so-called locator or recruiter. They were responsible for organising migrations to the east and were said to have worn colourful garments and played an instrument to attract the attention of possible settlers."
 
 
 
-Yet another suggestion is that this is an account of dance mania , also known as St. Vitus’ Dance. This affliction gripped mainland Europe between the 14th and 17th centuries, and has been described as individuals dancing “hysterically through the streets for hours, days, and apparently even months, until they collapsed due to exhaustion or died from heart attack or stroke.”
+Yet another suggestion is that this is an account of dance mania , also known as St. Vitus’ Dance. This affliction gripped mainland Europe between the 14th and 17th centuries, and has been described as individuals dancing "hysterically through the streets for hours, days, and apparently even months, until they collapsed due to exhaustion or died from heart attack or stroke."
 
-Another of the darker theories even proposes that the so-called Pied Piper was actually a paedophile who crept into the town of Hamelin to abduct children during their sleep. Perhaps the horrible nature of the children’s disappearance is the reason why there are few details on what happened. Reimer ponders “Did something happen that officials had been covering up? Something so traumatic that it was transmitted orally for so long in the town’s collective memory, over decades and even centuries?”
+Another of the darker theories even proposes that the so-called Pied Piper was actually a paedophile who crept into the town of Hamelin to abduct children during their sleep. Perhaps the horrible nature of the children’s disappearance is the reason why there are few details on what happened. Reimer ponders "Did something happen that officials had been covering up? Something so traumatic that it was transmitted orally for so long in the town’s collective memory, over decades and even centuries?"
 
 One of the darker themed representations of the Pied Piper of Hamelin
 

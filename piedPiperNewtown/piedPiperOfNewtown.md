@@ -383,8 +383,8 @@ In his *Iocorum otque Seriorum, tum Novorum, tum Selectorum atque Memorabilium C
 
 Davin FitzGerald. Hammersmith
 
-\* `[footnote]` Since the above was written the writer has re ad Mr. Baring-Gould’s chapter on “ The Piper of Hameln ” (*Curious Myths*, 1873). He refers to Thorpe and Grimm for a full examination of the story.
+\* `[footnote]` Since the above was written the writer has re ad Mr. Baring-Gould’s chapter on "The Piper of Hameln" (*Curious Myths*, 1873). He refers to Thorpe and Grimm for a full examination of the story.
 
-In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan’s account is given. I have before now asked unsuccessfully in "N, & Q." who “ Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
+In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan’s account is given. I have before now asked unsuccessfully in "N, & Q." who "Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
 
 ```

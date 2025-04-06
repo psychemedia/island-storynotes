@@ -63,7 +63,7 @@ The legend of the Pied Piper of Hameln has never been satisfactorily explained. 
 > > Hundert und dreiszig kinder dasiilvest geborn  
 > > Durch einen Piper under den Koppen verlorn.'"
 > >
-> > "Grimm has collected a list of authorities," adds Mr. Baring Gould, "who speak of the event as a historical fact." `['Baring Gould, ‘Curious Myths of the Middle Ages.']`
+> > "Grimm has collected a list of authorities," adds Mr. Baring Gould, "who speak of the event as a historical fact." `['Baring Gould, 'Curious Myths of the Middle Ages.']`
 >
 > As a rule, the queerer and more improbable a story is, the more elements of verity it will be found to possess upon investigation. These details of the day, the year, the commemoration of the disaster, form a hard nut for the unbeliever to crack: and yet nobody would care to vouch for the whole story as it stands. The thing that goes farthest to shake one’s faith in this particular kidnapper as an indigenous product of the Hameln district, is the curious coincidence of an almost identical legend, still prevalent in a town verging on extinction. In Francheville, now called Newtown, on the north shore of the Isle of Wight, a similar piper wrought similar havoc at an approximately similar period.
 >

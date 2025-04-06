@@ -177,7 +177,7 @@ A dispensation has passed the great seal for the Rev. Wm. Carus Wilson, M.A., ch
 .
 ```
 
-As described in a *[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* published in 1860:
+As described in a *[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from "The Christian Observer" ... With extracts from letters to soldiers in India, etc.* published in 1860:
 
 > He has been heard to say incidentally of himself, that from the age of about eight years he was a distributor of tracts; he was a composer also of tracts occasionally at a very early age. It was this habit which seems to have suggested to him the idea of publishing penny religious periodicals, of which he was the first to set the example; an example subsequently followed to an extent and with an amount of success which strikingly shows the justness of the original conception.
 >
@@ -200,7 +200,7 @@ VICAR OF TUNSTALL;
 And Chaplain to His Royal Highness the Duke of Sussex. 
 
 VOL. IV.  
-“Much good may be done this way to considerable numbers at once, in an acceptable manner, at a trifling expense."— SECKER.  
+"Much good may be done this way to considerable numbers at once, in an acceptable manner, at a trifling expense."— SECKER.  
 KIRKBY LONSDALE:  
 PRINTED AND SOLD BY A. FOSTER.  
 ALSO IN LONDON BY L. B. SHELBY, 169 FLEET STREET, AND ALL OTHER BOOKSELLERS:  
@@ -254,7 +254,7 @@ Despite having moved to Ventnor for health reasons, William Carus Wilson was not
 ```{admonition} A man of indefatigable industry, *Memoir*, 1860
 :class: dropdown
 
-*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860,
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from "The Christian Observer" ... With extracts from letters to soldiers in India, etc.* 1860,
 
 Nothing was more striking, to those who had the opportunity of witnessing his daily life, than his indefatigable industry. Not a moment of time throughout the day seemed wasted. Early, punetual, and rapid in all his habits, he seemed intent upon crowding into the day the utmost possible amount of work. Even his meals were taken with a degree of haste which was probably not without its effect in undermining, during a long course of years, his iron constitution; and no sooner was the meal concluded, than he again hastened to his desk.
 

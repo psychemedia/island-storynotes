@@ -1,6 +1,6 @@
 # Appendix — Carus Wilson Memoir
 
-*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from “The Christian Observer” ... With extracts from letters to soldiers in India, etc.* 1860, 32pp.
+*[Brief memoir of the late Rev. W. Carus-Wilson](https://books.google.co.uk/books?id=DQ5hAAAAcAAJ), reprinted by permission from "The Christian Observer" ... With extracts from letters to soldiers in India, etc.* 1860, 32pp.
 
 p3-24
 
