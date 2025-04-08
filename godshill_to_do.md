@@ -32,14 +32,15 @@ Davenport 1884 of Appuldurcombe, are in this parish. The living is a vicarage. T
 of Appuldurcombe, are in this parish. The living is a vicarage. The village formerly boasted of a good grammar school
 (founded in 1595 by one Richard Andrews), whither resorted the sons of the leading gentry of the island, and where Sir Thomas Fleming was educated; but it is now of no account.
 
-?? see Leighbust , ref: Ward
+?? see Leighbust, ref: Ward
 
 
 ---
 
 Wight geologists 1909 p27
 Godshill Church (6rf. each, towards the restoration), one of the six given by William Fitz Osbern soon after the Conquest, to his Abbey of Lyra in Normandy, and perhaps founded by him, was, according to tradition, originally built in the valley at Devil's Acre, Sheepwash, about a mile S.W. Perhaps the monks effected the change of site, attributed as usual to the devil, but of their work nothing is left. On the suppression of the Alien Priories in 1414, Henry V. gave Godshill to Sheen Priory, founded that year.
-The Church, as we see it, dates from the first quarter of the 15th cent., and is, with the exception of later tasteless work, Early Perpendicular. Architecturally it is of little interest. The top stage of the tower was rebuilt in the 16th cent., and restored after being struck by lightning in 1778. The building consists of two equal aisles with short transepts—Sanctus Bell niche in S gable—and a Tower at the W. end of the N. Aisle or Nave. In the S. Porch is a tablet to Eichard Gard, whose virtues are chronicled, but not the oblique ways in which, according to Sir John Oglander, he acquired wealth. Notice the old door, and just within it a piscina. The latter is an insertion, but its left- hand side is Early English, and the sole relic of the church of the Lyra monks. The interior of the Church is fairly lined with memorials, chiefly to the Worsley family of Appuldurcombe. It may be noted that the E. and W. windows, which have apparently Decorated tracery, are really of Perpendicular date, and the arch next W. of the sacrarium is only an imitation of Early English work. On the N. wall is a copy of a picture by Eubens, "Daniel in the den of lions." The only monuments of interest are S. of the sacrarium. Sir John Leigh {temiJ. Henry VIII.) and his wife, with alabaster effigies. At his feet is the boar which killed him, and two monks as weepers. The lady {nee Hackett) whose first husband had been the last of the Fry family of Appuldur- combe, brought that property to Sir John, whose only child married Sir James Worsley, from Lincolnshire, who was Captain of Wight from 1511 to 1538.
+
+The Church, as we see it, dates from the first quarter of the 15th cent., and is, with the exception of later tasteless work, Early Perpendicular. Architecturally it is of little interest. The top stage of the tower was rebuilt in the 16th cent., and restored after being struck by lightning in 1778. The building consists of two equal aisles with short transepts—Sanctus Bell niche in S gable—and a Tower at the W. end of the N. Aisle or Nave. In the S. Porch is a tablet to Eichard Gard, whose virtues are chronicled, but not the oblique ways in which, according to Sir John Oglander, he acquired wealth. Notice the old door, and just within it a piscina. The latter is an insertion, but its left-hand side is Early English, and the sole relic of the church of the Lyra monks. The interior of the Church is fairly lined with memorials, chiefly to the Worsley family of Appuldurcombe. It may be noted that the E. and W. windows, which have apparently Decorated tracery, are really of Perpendicular date, and the arch next W. of the sacrarium is only an imitation of Early English work. On the N. wall is a copy of a picture by Eubens, "Daniel in the den of lions." The only monuments of interest are S. of the sacrarium. Sir John Leigh {temiJ. Henry VIII.) and his wife, with alabaster effigies. At his feet is the boar which killed him, and two monks as weepers. The lady {nee Hackett) whose first husband had been the last of the Fry family of Appuldur- combe, brought that property to Sir John, whose only child married Sir James Worsley, from Lincolnshire, who was Captain of Wight from 1511 to 1538.
 
 
 
@@ -81,7 +82,7 @@ At midnight, in the dark, the watchmen started to hear rumbling sounds. They cou
 After the village elders had heard what had happened, they decreed that the church would be built on the top of the hill, and that from that time on, in honour of the miracle that had happened there, the village would be named "God's Hill". The field below the hill where they had initially tried to build their church was from then on known as "Devil's Acre".
 
 
-Isle of WIght, Ward, 1909 
+Isle of Wight, Ward, 1909 
 p27 Godshill Church (6rf. each, towards the restoration), one of the six given by William Fitz Osbern soon after the Conquest, to his Abbey of Lyra in Normandy, and perhaps founded by him, was, according to tradition, originally built in the valley at Devil's Acre, Sheepwash, about a mile S.W. Perhaps the monks effected the change of site, attributed as usual to the devil, but of their work nothing is left. On the suppression of the Alien Priories in 1414, Henry V. gave Godshill to Sheen Priory, founded that year.
 The Church, as we see it, dates from the first quarter of the 15th cent., and is, with the exception of later tasteless work, Early Perpendicular. Architecturally it is of little interest. The top stage of the tower was rebuilt in the 16th cent., and restored after being struck by lightning in 1778. 
 
@@ -94,42 +95,16 @@ Sir John Oglander puts rather a different complexion on his deeds to that record
 
 Hassell vol 2 p87-89
 Godshill
-The architecture is partly Gothic, but,
-through the usual mode of modern beauti
-fication, the whole is not to be distinguish ed. However, when we viewed it, two of
-its gable ends had just fallen in, which
-broke the formal appearance of its extremity, and introduced a beautiful specimen of its ancient splendour. The ivy had
-twisted off many of its disagreeable angles, and added beauty to its Gothic appearance. Its present shattered state might have arisen
-from its having been struck by lightning in
-the year 1778, when great damage was done to it. This church was anciently
-appropriated to the abbey of Lyra,in Normandy .
-Upon our entering the porch [to the Church] we observed abstracts from several acts of parliament
-fixed against the door, and among them one that excited both our curiosity and risibility; - it was from an act made in the
-ſeventh of James the First , which enacts,
-that every female who unfortunately in
-trudes on the pariſh a second illegitimate
-child , shall be liable to imprisonment and
-hard labour in Bridewell for six months.
-· Now as the number of females on this
-iſland much exceeds that of the males; and
-as, from the mild temperature of the cli
-mate, circumſtances frequently ariſe among
-the lower ranks that render the intention
-of this act of no effect; we could not help
-thinking this public exhibition of the ab
-ſtract as rather a rigorous exertion of Juf
-tice.
-We found it was not very unuſual here for the young men , from the deficiency of numbers juſt ſpoken of, to pay their devoirs
-to more than one young woman at a time ;
-and as it is not poſſible for him legally to
-unite himself to all of them , he generally
-beſtows his hand on her who had first pre
-ſented him with a pledge of their love .
-This, however , is seldom done till the approach of a second pledge from the same
-person renders such an act of compassion
-needful, in order to avoid the conſequences
-of the tremendous anathema fixed on the
-church door.
+The architecture is partly Gothic, but, through the usual mode of modern beautification, the whole is not to be distinguished. However, when we viewed it, two of its gable ends had just fallen in, which broke the formal appearance of its extremity, and introduced a beautiful specimen of its ancient splendour. The ivy had twisted off many of its disagreeable angles, and added beauty to its Gothic appearance. Its present shattered state might have arisen
+from its having been struck by lightning in the year 1778, when great damage was done to it. This church was anciently appropriated to the abbey of Lyra, in Normandy.
+
+Upon our entering the porch [to the Church] we observed abstracts from several acts of parliament fixed against the door, and among them one that excited both our curiosity and risibility; - it was from an act made in the ſeventh of James the First, which enacts, that every female who unfortunately in trudes on the pariſh a second illegitimate child, shall be liable to imprisonment and hard labour in Bridewell for six months.
+
+Now as the number of females on this iſland much exceeds that of the males; and as, from the mild temperature of the climate, circumſtances frequently ariſe among the lower ranks that render the intention of this act of no effect; we could not help thinking this public exhibition of the abstract as rather a rigorous exertion of Justice.
+
+We found it was not very unuſual here for the young men, from the deficiency of numbers just ſpoken of, to pay their devoirs to more than one young woman at a time; and as it is not poſſible for him legally to unite himself to all of them, he generally beſtows his hand on her who had first presented him with a pledge of their love.
+
+This, however, is seldom done till the approach of a second pledge from the same person renders such an act of compassion needful, in order to avoid the conſequences of the tremendous anathema fixed on the church door.
 
 
 
@@ -145,17 +120,12 @@ church door.
 ---
 Worsley, History of the Isle of Wight, Appendix XLVII
 
-In the Synod assembled at Oxford by Archbishop Langton, the thirteenth canon forbids the vicarage of any church to be
-given to a Vicar who shall not serve the church: the fourteenth obliges those who have benefices to reside: the fifteenth appoints a sufficient portion of the benefice to be allowed for the maintenance of the Vicar: and the fortieth forbids the letting to farm , excepting it be done for some cause, which hall be approved by the Bishop.
+In the Synod assembled at Oxford by Archbishop Langton, the thirteenth canon forbids the vicarage of any church to be given to a Vicar who shall not serve the church: the fourteenth obliges those who have benefices to reside: the fifteenth appoints a sufficient portion of the benefice to be allowed for the maintenance of the Vicar: and the fortieth forbids the letting to farm, excepting it be done for some cause, which hall be approved by the Bishop.
 
 
-A neglect in the observation of these canons occasioned the Bishop to collate to those churches which fell to him by lapse :
-as fully appears by the register of William of Wykeham , who
-collated to the Vicarage of Carisbrook , void , as he expressly says, through neglect of the constitutions of Otho and Ottoboni.
-There had been great commotions in the island on this occasion,
-and to what a height they rose at Godshill, are seen in Bishop  Wocdlock's Register, wherein the Monks , with their friends,
-are recorded to have held the church by force: the Bishop's letter to the King on that occasion, with another on a subsequent one, are inserted in the Appendix *. The Bishop also ordered
-the Dean of the island, to put the Clerk, collated by him , in possession of the church of Godshill, devolved to him , by virtue of the canon of the General Council .
+A neglect in the observation of these canons occasioned the Bishop to collate to those churches which fell to him by lapse: as fully appears by the register of William of Wykeham, who collated to the Vicarage of Carisbrook, void, as he expressly says, through neglect of the constitutions of Otho and Ottoboni.
+
+There had been great commotions in the island on this occasion, and to what a height they rose at Godshill, are seen in Bishop  Wocdlock's Register, wherein the Monks, with their friends, are recorded to have held the church by force: the Bishop's letter to the King on that occasion, with another on a subsequent one, are inserted in the Appendix *. The Bishop also ordered the Dean of the island, to put the Clerk, collated by him, in possession of the church of Godshill, devolved to him, by virtue of the canon of the General Council.
 
 
 
@@ -176,10 +146,7 @@ the churches should totally withdraw from and further called on the troops to ca
 
 Alia LiteraEpisc.Winton.ad Regem
 
-Adam, et cetera excellentissimo Principi Dño.Edwardo regi Anglie, et cetera salutate Excellentie vestre regie tenore presentiam intimamus, ad quidam maledictionis filii, sue salutis immemores , et in sui interritum jugiter
-laborantes, Ecclesiam de Goddshull Insule Vecte, ab olim Divinis ob
-sequiis consecratam , nuper cum vario armorum genere violenter ingre dientes, ipsam Ecclesiam vi armata, obstructis ostiis contra sacros ca-, Hones, et cetera per non modica tempora occupare et incastellare ausu facri lego temere presumserint; ipsamque. ad huc potestate laicali detinent, occupatam Divini ministerij cultum nosque quo minus nostrum pastorale officium inibi exercere valeamus dampnabiliter impediendo. Quocirca
-celsitudini vestre attentius supplicamus quatenus dictain potestatem lai, calem a dicta Ecclesia amoveri precipias, et cetera A. D. 1340
+Adam, et cetera excellentissimo Principi Dño.Edwardo regi Anglie, et cetera salutate Excellentie vestre regie tenore presentiam intimamus, ad quidam maledictionis filii, sue salutis immemores, et in sui interritum jugiter laborantes, Ecclesiam de Goddshull Insule Vecte, ab olim Divinis obsequiis consecratam, nuper cum vario armorum genere violenter ingre dientes, ipsam Ecclesiam vi armata, obstructis ostiis contra sacros ca-, Hones, et cetera per non modica tempora occupare et incastellare ausu facri lego temere presumserint; ipsamque. ad huc potestate laicali detinent, occupatam Divini ministerij cultum nosque quo minus nostrum pastorale officium inibi exercere valeamus dampnabiliter impediendo. Quocirca celsitudini vestre attentius supplicamus quatenus dictain potestatem lai, calem a dicta Ecclesia amoveri precipias, et cetera A. D. 1340
 Ex Regis,Adam de Orlton, epi. Winton p88
 
 Adam and the rest excellent prince Dño.Edwardo king of England and the rest of the royal salute your excellence terms of presence, asking for some, children, their safety, and their fearless continually
@@ -216,29 +183,6 @@ Fairies are always associated with toadstools and mushrooms: making or sitting o
 
 ???maybe a collection on Island Saint?
 
-
-1846 owen gladdons wanderings isle of wight Old Humphrey.pdf
-p40-1
-Boniface
- Dangerous! I did my best to look calm and collected; but I found it very necessary to steady myself with my stick, and to use all my caution, while my landlord related to me some of the popu- lar tales about the high downs and cliffs."
-"Did he tell you those tales while you were standing in that dangerous spot ?"
-"He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon; and the tale commonly told about it was this: —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep. "What! down the steep side of St. Boniface?"
-
-"Yes; the poor animal picked his way, as well as he could, while the bishop kept praying all the way, as he had good reason to do, that his life might be preserved. In his jeopardy he made a vow, that if ever he again set foot on level ground he would buy the place that he first trod on, for pious purposes. The horse carried his master
-safely down the hill, the bishop kept his vow in purchasing the land, and it goes by the name of Bishop's Acre to this day."
-
-"Well, that is a curious tale! true V
-Do you think it
-"I hardly know what to say about it; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; but if he did do so, all that I can say is,it is not very probable that he went down the steep part by the wishing-well."
-
-1846 owen gladdons wanderings isle of wight Old Humphrey.pdf
-Freshwater round - p205-6
-"There is a conically formed rock near the
-shore, called the ' deer-bound rock,' and I will tell you why. A deer that was hard-pressed by the hounds, took a flying leap from the cliffs to the rock, and ever since then it has borne the name of the deer-bound rock."
-"Was the deer saved, or did the dogs follow him?"
-4 That I cannot tell.
-two caverns called Lord Holmes's Parlour and Kitchen. Lord Holmes used to bring his friends to drink wine in the cool retreat of the one, and in the other the wine was kept; they are both curious
-places. You must see Frenchman's Hole, too, though the boatman will hardly forget to tell you about it. A poor French prisoner, who had made his escape from confinement, hid himself here; but after all, the poor creature was starved to death
 
 # Isle Be Back
 
@@ -399,123 +343,8 @@ Vectis Scenery - Brannon:  Blackgag illustration, p52; also tale sof the clarend
 
 ---
 
-Gladdon
-
-"I entertained my landlord with an account of a desperate adventure in which I once engaged at night, to take into custody a party of gipsy robbers, so that we passed the time very pleasantly till we
-came to St. Boniface Down."
-"Will you tell us of that adventure of the gipsy
-robbers, uncle?"
-"Not now, not now! let me go on with my
-story. We went down the side of St. Boniface Down very cautiously, for the place is fearfully steep, and one false step might have precipitated us five or six hundred feet headlong. At last, after descending about a third part of the precipitous
-highdown,wecametothespot; butafallofloose chalk had completely filled up the well, so that had it not been for the rushes which grew there, no one would have suspected that water had ever issued from the place."
-"Then it was of no use your wishing anything, uncle."
-"None at all, none at all; and if there had been water there, it would have made no difference on that head; but I thought of what my landlady had told me about wishing herself safe down again, and it appeared to me to be a very natural wish."
- 40 WANDERINGS IK
-"Was it so very dangerous ?"
-"Dangerous! I did my best to look calm and collected; but I found it very necessary to steady myself with my stick, and to use all my caution, while my landlord related to me some of the popu- lar tales about the high downs and cliffs."
-"Did he tell you those tales while you were standing in that dangerous spot ?"
-"He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon; and the tale commonly told about it was this: —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
-"What! down the steep side of St. Boniface?"
-"Yes; the poor animal picked his way, as well as he could, while the bishop kept praying all the way, as he had good reason to do, that his life might be preserved. In his jeopardy he made a vow, that if ever he again set foot on level ground he would buy the place that he first trod on, for pious purposes. The horse carried his master
-
- THE ISLE OF WIGHT. 41
-safely down the hill, the bishop kept his vow in purchasing the land, and it goes by the name of Bishop's Acre to this day."
-"Well, that is a curious tale! true V
-Do you think it
-"I hardly know what to say about it; there is some truth in most of the wildest stories which are told about particular spots and places, though they are often much exaggerated. It is very possible that a bishop's horse might have safely carried his master from the high down to the level ground below; but if he did do so, all that I can say is, it is not very probable that he went down the steep part by the wishing-well."
-"What tales were told you about the high cliffs, uncle ?"
-"Several, that I have reason to believe were true. My landlord said that, some years ago, two soldiers who were intoxicated, lost their way by night and became confused. They approached the perpen- dicular cliffs that are seen as you pass between the
-St. Lawrence and Niton, and over they they went. I dare say the cliffs are more than five hundred feet high; it was a terrible fall, and both of them were killed. There are accidents enough in the world
-without intemperance adding to their number."
-
-———; ;
- 42 WANDERINGS IN
-"Poor soldiers! very likely they were brave
-fellows, with all their faults."
-"They might be so. I like bravery, but I had
-much rather see it employed in saving life, than in destroying it. I met with some lines yesterday that much pleased me. They were scrawled by a prisoner on his dungeon walls, and if he really
-were a Christian and a patriot, they do him credit they were as follows :
-I boast no courage on the battle field,
-Where hostile troops iinmix in horrid fray
-For love or fame I can no weapon wield, With burning lust an enemy to slay.
-But test my spirit at the blazing stake, For advocacy of the rights of man
-And truth—or on the wheel my body break Let persecution place me 'neath its ban Insult, defame, proscribe my humble name
-Yea—put the dagger at my naked breast If I recoil in terror from the flame
-Or recreant prove when peril rears its crest,
-To save a limb, or shun the public scorn
-Then write me down for aye—weakest of woman born.'
-"He must indeed have been a bold man !"
-"My landlord told me, also, of a man who fell over the cliffs, with some water cans, and though badly hurt, he was able afterwards to follow his
-calling. But another accident of which he told me was very remarkable."
-"Let us have it, uncle !"! let us have it
-
- --
-
- Undercliff, Isle of Wight
-p116-7
-
-"THE BISHOP'S ACRE"
-around which such a halo of mystery has grown, must now be con- sidered. This plot of ground at the foot of the Down stands on the north side of St. Boniface Road, just outside the parish boundaries, and before Ventnor, in 1867, was constituted a separate Urban Authority, formed a part of the Newchurch parish.
-Several interesting stories have arisen in connection with it. The earliest I can find is the following :
-"There are few places of antiquity but wj||^t have some extraordinary stories told of them. Among those circulate in this neighbourhood is the following A gentleman mistaking his road during a heavy snow, and descending, in consequence of it, the steep down of St. Boniface, on horseback, he was so affected by the danger he was in, that he vowed if ever he reached the bottom of the hill in safety, he would, as a memento of the kindness of Providence, purchase the land, and present it toihe church of Shanklin."
-Albin, five years later, repeats this version, and further says that :
-"It needs only to be added that a small parcel of land, containing about an acre, was given to the living in this situation, and, as supposed, in consequence of that vow."2
-
-1 Hassell, Tour to /. JV,, vol. ii, pp. x-a. 3 Albin, ffist. of I, p. 494
-
-The story, as related by Adams, varies the particulars :
-"Good St. Boniface, during a very stormy night, having missed his path, found himself descending this steep,—not a very pleasant expedition on horse* back,—and thereupon vowed that if he reached the bottom in safety, he would purchase the land where he alighted, and endow with it the Church of Shanklin. He did descend in safety, and he piously kept his vow; —the land is known in remembrance thereof as the "Bishop's Acre." ** l
-The tradition, as related by Canon Venables is :
-**
-That a certain bishop who, riding over the Downs, lost his way in a thick mist, and to his horror found himself on the brink of the precipitous face
-Canon Venables says, in alluding to the legend, "that the story does account, in a manner not altogether incredible, for the singular fact that this little rectangular plot lying by itself in the midst of other pro- perty, and not even in the parish of Bonchurch, has belonged to the Rector from time immemorial." As the "old sea captain" says in his
-Wanderings in the Isle of Wight, "it is a curious tale, but as to the truth of it—that is quite another story."
-
-In the Appendix to Worsley's History a charter of Walter de Insula is given, g?anting land on the side of St. Boniface, next to Luccombe, to the monks of Quarr Abbey. The charter is couched in the following terms:
-
-"Sciant praesentes et futuri quod ego Walterus de Insula, assensu et voluntate Galfridi filii et haeredis mei, dedi et concessi Deo et beatae Marie de Quarraria et monachis ibidem Deo servientibus terram cultibilem lateris mentis sancti Bonifacii qui est versus Luvecumbam," etc.3
-Mr. Percy Stone gives the purport of the charter clearly: —"A feoff- ment in fee of Land made to the monks of Quarrer according to boundaries set by common assent of the Parties. Gift by Walter de Insula, with the consent of his son Geoffery, of the side of St. Boniface down next Luccombe: testibus*Will. filio Stur, Will Avenel. Seal, a knight riding at speed in his right hand the bridle, in his left extended a hawk."^ The date of the charter is not given, and though assigned to the time of Henry III, is probably of an earlier date, towards the close of King John's reign. Walter de Insula died in 1221; the son, Geoffrey, was probably of full age when he assented to the grant, and therefore born by or before 1201.
-
-The gift could not have been to the church of Shanklin, since that church was not founded till a later period—after 1305 and before 1333. The edifice is not mentioned in the Dean's return of the Island churches, but is referred to in Bishop Stratford's register, 1323--33, and is then in the presentation of John de Insula, the probable founder of the church
-^ Adams, /. IV., p. 199. * W., App., No. 64.
-2 Venables, Ct. to /. W., p. 218. ^ Archit. Antigt., vol. i, p. no.
-and the patron of the Bonchurch tiving. Shankiin was a chapelry—^not having the right of burial or of administering the sacraments, and the residents had to resort to Brading in order to bury their dead. The Bishop could not have been St. Boniface, who lived several centuries earlier. When the temporalities belonging to Quarr Abbey were dis- persed, there is no deed to show how this parcel of land became attached to the Bonchurch living. It was not unusual however, where monas- teries had been previously established, to transfer the tithes, glebe, etc., to a church of later foundation in the locality from whence the offerings were derived, the consent of the Bishop having first been obtained.
-
-Mr. F. J. Hughes, the present owner of 5, 6. 7, and 8, St. Boniface Terrace, rents part of the glebe land known as "Bishop's Acre" on lease, renewable every twenty-one years, from the Ecclesiastical Commissioners acid the Rector of Bonchurch, at an annual rental of £12, The land thus leased is included in and forms part of the garden ground attached to the houses.
-
-"ST. BONIFACE WISHING WELL."
-
-There is another feature connected w'ith the early history of Ventnor which ought to be noticed. The "Wishing Well," or "Holywell Spring," as it is called by Worsley, is situated on the steep face of the down, not far from its summit, and although, in these later days, it has fallen from its high estate, and its claims are barely recognised, has still several interesting points connected . with it which call for notice. Its antiquity is undoubted, and if the past history could be traced we should have to go back many centuries to a period when well-worship was in vogue. This of itself should excite the interest and enlist the sympathies of all who visit the spot. Reverence, or in other words, well- worship, can be traced from the most remote antiquity all the world over. It appears to have been common alike to the Pagan Celts and to the Saxon Christians. It was found difficult to put down this worship, and many edicts of the Church were directed against it, from the 5th to the nth centuries. What could not be suppressed would appear to have been at last sanctioned under the patronage of the Saints; hence we have St. Boniface Well, St. Lawrence Well and Holiwell, Niton, in the neighbourhood, as examples of such holy wells.
-
-"I think there can be little doubt," writes Mr. T. W. Shore, "that the 'Wishing Wells' are survivals^! the medieval holy wells. In Hampshire and the Isle of Wight we have a considerable number of wells and springs which had a sanctity in previous centuries, and which have, or had, a 'Folk Lore' of their own down to the last century. First, in point of interest, amon^ these is St. Boniface Well, at Bonchurch."
-
-The earliest reference to the Well is found in the pages of Tomkins' Tour to the Island, showing that the sanctity of the well and its claims were duly recognised —"
-Just above the house (St. Boniface House) is 1 Shore, Memorial VoL, p. 99 (H. F. C).
-
-a spring, which was formerly held in high veneration by the seamen. It was their custom, in passing this place, to lower the fore-topmast in reverence to St. Boniface. A further notice occurs in the pages of Englefield: —" Near to the top of the slope, and in the steepest part of it, is a small spring, famous by the name of St. Boniface's Well, and regarded by the people with a sort of religious veneration," adding later: —" I climbed up the steep side, by the path which leads to the celebrated Well of St. Boniface, which, however, was at that time a very inconsiderable spring. A spring at this height is a most remarkable circumstance, and the only instance of the kind in the whole range of chalk downs. It indicates some stratum within the hill differing from the chalk, which would certainly let the rain water sink through its substance here, as it does everywhere else. "2 The late Canon Venables says —
-"The remarkable fact of a spring bursting forth at so great an elevation is alike interesting to the geologist and to the lover of old superstitions, from the reverence which it is said, was formerly shown to it. The popular belief was, that if the well were reached without once looking back, any wish formed while drinking the water would certainly be granted, and the story goes that the lads and lasses of the neigh- bourhood used to resort to the well on St. Boniface Day to deck it with garlands of flowers."3 This custom, I need hardly say, no longer exists among the merrymakings of the district, but is buried in oblivion, with many other partially religious observances of the olden times in "Merrie England."
-
 
 ---
-
-1884 Isle of Wight Davenport
-
-Several stone coffins have,at different times,been excavated at Quarr;a few coins and some other relics have also been discovered, but not of a nature or in such abundance as to satisfy the antiquary, or throw any vivid light upon the history of the abbey. In 1857 a curious discovery was made by some labourers engaged in the con structionof a new road through the old abbey grounds,of "three small stone boxes or chests, each chest being about two feet in length and one foot wide. They were placed side by side,—two of them nearly close together, and the third a foot or two to the south. Upon removing the heavy stones of which the lids were composed, three human skeletons in a good state of preservation were found.
-
-ENVIRONS OF RYDE. 163
-
-The leg and arm bones were on either side, the ribs and small bones
-in the centre, and the skulls at the western end, the latter being in all
-three cases turned upside down. It was evident that these remains
-had been removed at some time or other from the place of their
-original burial; and that they were of persons of distinction was
-beyond doubt, or such care would not have been bestowed upon
-them" (Isle of Wight Observer). One of the skeletons was pronounced
-to be that of an aged man,another that of an aged female,and the third that of "a tall fine man about forty years of age." It has been
-suggested, and there is an air of probability about the suggestion, that they were the remains of Count Baldwin, his wife, and his son Henry. They are now in the Museum at Ryde.
-
-This is just the spot where "the violet of a legend" might be ex pected to blossom; and the traditions connected with the abbey are of a fantastic character. One tells of a deep subterraneous passage, closed by a golden gate, and is evidently the offspring of the awe and wonder created in the minds of the vulgar by monastic wealth and power. Another is not less wildly fabulous:—"At a short distance south of the ruins of the abbey is a wood, formerly thickly timbered, but now only consisting of a few decayed oaks and brushwood; it is
-called Eleanor's Grove, from a tradition that Eleanor of Guienne, queen of Henry II., was imprisoned at Quarr, and frequented this secluded spot, where, after death, it is related, she was interred in a golden coffin,which is supposed still to be protected from sacrilegious cupidity by magical spells." About half a century ago a search was made for this golden coffin,with the result of discovering one of common character, containing a female skeleton .
 
 
 ---
