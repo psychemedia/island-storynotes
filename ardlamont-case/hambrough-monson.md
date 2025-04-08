@@ -3,9 +3,9 @@
 
 If you walk around the graveyard of St. Catherine's Church in Ventnor, just up the road slightly from Ventnor Exchange, the home of the Ventnor Fringe, you might notice a grave of
 
-![](hambrough_grave_0.jpg)
+![](images/hambrough_grave_0.jpg)
 
-![](hambrough_grave_2.jpg)
+![](images/hambrough_grave_2.jpg)
 
 It's 1893. Summer. And news of an accident breaks...
 
@@ -92,7 +92,7 @@ Mr. Monson, who was born in May, 1858, is the third son of the late Rev. Thomas 
 
 ```
 
-![](windsor_dudley_cecil_hambrough.jpg)
+![](images/windsor_dudley_cecil_hambrough.jpg)
 
 We can perhaps get a sense of what a coming of age celebration might have been like amongst the upper class members of Ventnor society around that time, from a report of the coming of age dinner held in honour of Hambrough's father, Dudley Albert Hambrough, back in 1870:
 
@@ -536,7 +536,7 @@ DEATHS
 HAMBROUGH— On the 11th inst., Charlotte Ann, second daughter of the late Albert John Hambrough, Esq., of Steephill Castle, Ventnor, Isle of Wight, aged 22.
 ```
 
-![](hambrough_grave_1.jpg)
+![](images/hambrough_grave_1.jpg)
 
 Certainly, the funeral seems not to have been a typical affair?
 

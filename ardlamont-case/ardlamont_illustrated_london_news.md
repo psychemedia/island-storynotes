@@ -9,7 +9,7 @@ COpyright illustrated London news - images require license?
 
 TO DO - over several pages, many images
 
-![https://britishnewspaperarchive.co.uk/viewer/bl/0001860/18931213/014/0013](sweeney_wanted.png)
+![https://britishnewspaperarchive.co.uk/viewer/bl/0001860/18931213/014/0013](images/sweeney_wanted.png)
 
 
 ALos lots of images (some the same?) in:

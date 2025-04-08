@@ -5,7 +5,7 @@ I discovered this tale from a sign in the entrance to what is now [*The Ferryman
 ```{admonition} Tragedy — In the Tap Room
 :class: dropdown
 
-![](ferryman-taproom-henry-card.jpg)
+![](images/ferryman-taproom-henry-card.jpg)
 ```
 
 > Way back in 1893, on September 5th, there was a shooting tragedy in this, the "Waggon and Horses" Inn, Walhampton, of which a local gamekeeper, 38 years old Henry Card, who lived at Snooke's farm, was the victim. He was in the service of Mr. J.P. Heseltine of Walhampton House, a former High Sheriff of the county of Southampton.

@@ -24,7 +24,7 @@ parts:
 - caption: Hanging in Chains
   chapters:
   - file: michael_morey_and_james_dove
-- caption: The Ardlamont Affair
+- caption: Young Mr Hambrough and the Ardlamont Affair (WIP)
   chapters:
   - file: ardlamont-case/henry-card-tragic-accident.md
 - caption: Nurseries of Vice and Invention
@@ -58,11 +58,15 @@ parts:
   chapters:
   - file: elder-godshill-reversioned
   - file: elder-puckaster-reversioned
-- caption: Spithead Mutiny (WIP)
+- caption: Solent Tales — Spithead Mutiny (WIP)
   chapters:
   - file: spithead_mutiny
   - file: spithead_chronology
   - file: _spithead_mutiny_src
+- caption: Solent Tales — The Tale of David Tyrie (WIP)
+  chapters:
+  - file: tyrie/david_tyrie_bankruptcy_scam
+  - file: tyrie/david_tyrie_southsea_quartering
 - caption: Appendix — Resources
   chapters:
   - file: wightnotes-books

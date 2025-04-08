@@ -151,7 +151,7 @@ The tower of St Catharine has been long a sea mark, and has been of the most imp
 
 I am Yours, &c., A, B.
 
-![](pepperpot-gentlemans-magazine-v27-p176.png)
+![](images/pepperpot-gentlemans-magazine-v27-p176.png)
 
 ### Letter
 record.office@iow.gov.uk
