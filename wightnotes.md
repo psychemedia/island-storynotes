@@ -15,7 +15,7 @@ At our Guildhall, on Saturday, the 28th ult. ...
 
 An information was laid against Thornas Long, a coachman at Ryde, who keeps a retail beer-house in the neighbourhood, charging him with having, on the 24th ultimo, kept his house after ten o'clock at night, the time allowed by the Magistrates, whereby he had Incurred the penalty of 5l. Long, who bears a good character, was laid up with the gout and not able to attend; his wife (Mary Long) on hearing her husband called, stepped into the box. and on being asked if guilty or not, pleaded not guilty. Mr. Hearn, having proved that Long's house was licensed, and that ten o'clock was the time to close at night by order of the Magistrates, called Nathaniel Ashford. the chief constable at Ryde, who, being sworn, stated that he was sent for on the night of the 24th Dec. by Mrs. Long, to the Horse and Groom. I went there, it was just after eleven at night when I went first. I found several people fighting, and forty or fifty outside, many were stripped fighting, and the blood flying in all directions. I requested them to depart, and in about twenty minutes they dispersed. There were people in the dancing room, and Farrow, the fiddler was there; I cleared the room and then went round the town, when I returned I again found people in the house who were not travellers; there was Dore. Cotton, and Mew there; it is a disorderly house, and is frequently complained of, and what I complain of is when the constables have cleared the house and the doors are locked and we are gone, the house is again opened to admit company; when I went the second time there were several men outside with Mrs. Long's daughters, the door was not fastened, and others were inside. The Chairman of the Magistrates, in the course of a very suitable address to Mrs. Long, expressed his sorrow that she should keep a house of such ill fame, and while her husband was behaving well at his work, she was disgracing him by her dlsorderly conduct at home. Fined 5l.
 
-Henry Scott. of Chale, another retailer of beer had a similar information laid against him for having his house open after ten o'clock on the 24th December. John Spanner, sworn:— I am tything man of Chale , at ten minutes before twelve on the night of the 24th, I went to Scolt's house, found several people there and cups on the table; I asked him If he knew what time it was, and he said yes. I did not go there a second time but heard that they were fighting outside his house at one in the morning. I told him the week before how It would be If he did not shut up his house in proper time. -Though Scott pleaded guilty at first, he now called a witness, apparently to clear himself of the charge, but he got him further into the scrape, for his witness, Thomae Dore, admitted he went there between six and seven in the evening, and stayed there till twelve wilh many others, and he knew it was twelve by Scott's clock, but said, we never had nothing in the world to drink after Spanner came to the door, which wa. half-past ten.— Convicted In the penalty of 2l. 10s.
+Henry Scott. of Chale, another retailer of beer had a similar information laid against him for having his house open after ten o'clock on the 24th December. John Spanner, sworn:— I am tything man of Chale, at ten minutes before twelve on the night of the 24th, I went to Scolt's house, found several people there and cups on the table; I asked him If he knew what time it was, and he said yes. I did not go there a second time but heard that they were fighting outside his house at one in the morning. I told him the week before how It would be If he did not shut up his house in proper time. -Though Scott pleaded guilty at first, he now called a witness, apparently to clear himself of the charge, but he got him further into the scrape, for his witness, Thomae Dore, admitted he went there between six and seven in the evening, and stayed there till twelve wilh many others, and he knew it was twelve by Scott's clock, but said, we never had nothing in the world to drink after Spanner came to the door, which wa. half-past ten.— Convicted In the penalty of 2l. 10s.
 
 
 ---
@@ -45,8 +45,7 @@ p131
 "The Isle of Wight cannot strictly be said to have any history of its own, as distinct from that of England, of which it always formed a part since England was a kingdom."
 On the traditional accounts of it in the early times
 no reliance can be placed, because we do not know that they have been handed down from anything like authentic sources, or have had their origin at the time of the events
-to which they relate. We must farther bear in mind, that oral traditions are exceedingly treacherous matters, even in those case where there is no motive, and therefore no imaginable intention, to deceive. W e know that, in the case of any event which makes an impression and becomes a tale of the day, scarcely any two relaters of that tale, even though they have been eye-witnesses of that which they relate, give their relations in the same manner. This is the case, to a very considerable extent, even among those who are well-educated,can discriminate between truth and false hood , and are regarded as persons of probity; and, if this holds among them — as it does hold in every instance where a thorough investigation can be made, much more must it
-hold among the ignorant- as proneness to exaggeration is the invariable character of persons of this description."
+to which they relate. We must farther bear in mind, that oral traditions are exceedingly treacherous matters, even in those case where there is no motive, and therefore no imaginable intention, to deceive. W e know that, in the case of any event which makes an impression and becomes a tale of the day, scarcely any two relaters of that tale, even though they have been eye-witnesses of that which they relate, give their relations in the same manner. This is the case, to a very considerable extent, even among those who are well-educated,can discriminate between truth and false hood, and are regarded as persons of probity; and, if this holds among them — as it does hold in every instance where a thorough investigation can be made, much more must it hold among the ignorant- as proneness to exaggeration is the invariable character of persons of this description."
 
 
 Isle of Wight A Guide Venables 1860
@@ -55,18 +54,10 @@ p151 "In 1488 Sir Edward Wydville, Captain of the Isle, embarked here with a for
 force perishing at the batle of St.Aubin, and only one boy surviving to carry home the tale."
 p201 tale of a landslip: The Landslip at East End,
 p219 lost and found Bonchurch is celebrated as the birthplace of one of our naval heroes, Admiral Sir Thomas Hopson
-p285 Legend of the Titchbourne Dole.  Lady Isabella Crawles
-p333 ford with the mainland  Leap, on the Hampshire coast, and Rew Street in Gurnard Bay
-p359 Luccombe Chine "runs" formerly existed, and the chalky edge of the clif was worn into a channel by the ropes with which the casks were hoisted from the beach below
-p377 The next great calamity from which the island suffered,
-from which indeed it was slow in recovering,was not an
-invasion of French foes ,but an il-judged attempt on the part of the then "Lord," Sir Edward Woodville, to carry terror into the ranks of their old enemies by actively espousing
-the cause of the Duke of Brittany against Charles VIII. Having , in opposition to the wishes of Henry VII . , raised a force of 40 gentlemen and 400 yeomen of the island, picturesquely clad in white coats with broad red crosses, he
-joined the Duke's forces — a portion of whom assumed the same
-dress to deceive the enemy into the belief that the English
-allies were more numerous than they really were — and
-engaged the King's army under La Tremouille, July 20,1488. La Tremouille gained a complete and sanguinary victory:
-Woodville's whole force was cut to pieces with the exception of a boy, who carried the disastrous intelligence to his native isle. So overwhelming a calamity had never fallen on the Isle of Wight; all its noblest and best were swept away at one blow , and there was scarce a single family which had nut personal cause for lamentation .
+p285 Legend of the Titchbourne Dole. Lady Isabella Crawles
+
+p333 ford with the mainland Leap, on the Hampshire coast, and Rew Street in Gurnard Bay p359 Luccombe Chine "runs" formerly existed, and the chalky edge of the cliff was worn into a channel by the ropes with which the casks were hoisted from the beach below p377 The next great calamity from which the island suffered, from which indeed it was slow in recovering, was not an invasion of French foes ,but an il-judged attempt on the part of the then "Lord," Sir Edward Woodville, to carry terror into the ranks of their old enemies by actively espousing the cause of the Duke of Brittany against Charles VIII. Having, in opposition to the wishes of Henry VII., raised a force of 40 gentlemen and 400 yeomen of the island, picturesquely clad in white coats with broad red crosses, he joined the Duke's forces — a portion of whom assumed the same dress to deceive the enemy into the belief that the English allies were more numerous than they really were — and engaged the King's army under La Tremouille, July 20,1488. La Tremouille gained a complete and sanguinary victory: Woodville's whole force was cut to pieces with the exception of a boy, who carried the disastrous intelligence to his native isle. So overwhelming a calamity had never fallen on the Isle of Wight; all its noblest and best were swept away at one blow, and there was scarce a single family which had nut personal cause for lamentation.
+
 p373-4 Edward the First and his two successors reserved the
 title of "lord of the island" to themselves, governing by
 "custodes" or "wardens,"who were often changed, the office being not unfrequently in commission. ... On the accession of Richard II the lordship was again
@@ -78,18 +69,10 @@ the sovereign for the due discharge of his duties.
 p81 Carisbrooke Woodville's Gateway (erected by Anthony Lord Scales,circa 1464,and bearing his arms and the White Rose of York ), a really noble specimen of a castellated entrance.
 p383 The low fortunes of the island received a stil more terrible blow forty years later,in the disastrous issue of Woodville's rash expedition to Britanny, which robbed it of al its bravest and best. An ordinance was immediately passed by Parliament, prohibiting any persons to hold lands, &c.,of more than the annual value of ten marks, in order that the isle, which was then "desolate and not inhabited, but occupied with beasts and cattle," might be again peopled and able to defend itself from an invader. [Froude History of England i. 27] [TO DO  - so this was a response to Woodville's action?]
 
-Davenport The Isle of Wight
-p190 Boniface Wishing Well
-He will visit the Well - St. Bonny's or The Wishing Well — which once bubbled brightly out of the chalky bosom of the hill, but is now reduced to a sandy pool. It was first discovered, says the legend, by a certain bishop, who,riding across the hill on a misty night, lost his way, and found his steed, to his horror, slowly sliding down the precipitous side, until at length he suddenly drew up with his hoofs
-fixed in the hollow of this well. The bishop thereupon vowed to St. Boniface that if he reached the bottom securely he would dedicate to his honour an acre of land. The saint closed with the bargain; the bishop reached home without further let or mishap; and the land, known as The Bishop's Acre,still belongs to the glebe of Bonchurch. It lies at the foot of the hill, and is marked out by a ridge of turf.
-In the old times, on the feast-day of St. Boniface, the village maidens were wont to ascend the down and place garlands of flowers about the well, in honour of the patron saint. A superstition attached to it,that a wish breathed inwardly by the stranger who for the first time drank of its water, would assuredly be fulfilled,- a pleasant enough fancy, which the lads and lasses of Bonchurch doubtlessly, in their love-making days, turned to good account.
-[See also https://www.nationaltrust.org.uk/ventnor-downs/features/st-boniface-and-the-wishing-well-at-ventnor; paper https://www.academia.edu/14397772/SAINT_BONIFACE_AND_THE_WISHING_WELL]
-
-
-de Godeton - lots of stories say wine bound for Livers in Picardy, but Lire/Lyra in Evreux, Nothern Normandy is not far out of Picardy and is perhaps the more likely destination?
+de Godeton - lots of stories say wine bound for Livers in Picardy, but Lire/Lyra in Evreux, Nothern Normandy is not far out of Picardy and is perhaps the more likely destination and eg has links with Godshill Church? https://en.wikipedia.org/wiki/Lyre_Abbey
 
 Boucher, letters relating to Isle of Wight 
-p118  Fitz Osborne pursued in the Isle of Wight the same course
+p118 Fitz Osborne pursued in the Isle of Wight the same course
 of conduct towards the Church, which his master and
 relative, the Conqueror, had adopted on the mainland. Like many of the Norman nobles and gentry, Fitz Osborne was what would be now called a strong churchman; in 1045 he had founded the Abbey of Lire, or Lyra, in the diocese of Evreux in Normandy, where also he was the founder of the Abbey of Coulanges, in which he died. As was the case with most of the Norman abbeys, a legend is attached to the foundation of Lire, which can be read in the
 church history of Normandy {A\'t/s/rm Pia, p. 545). The monk William of Poitiers says that Normandy was an Egypt,
@@ -151,11 +134,6 @@ Isle of Wight Redding Ware
 fpotforafelf-indulgenthermit. Thus runs the registration: "Walter de Langftrell, ad miffus ad hermitorium fupra montem
 de Chale, in infula Vectis, idib. O&obris, A.D. 1312." "Wal- ter de Langftrell, admitted to the hermitage at the summit of
 Chale mount, in the Isle of Wight."
-
-Mason's New Handy GUide to Isle of WIght 
-p44 Quarr abbey -  The following legend may not prove uninteresting to the readers:-"At a short distance south of the ruins of the Abbey, is a wood, formerly thickly
-timbered, but now only consisting of a few decayed oaks and brushwood; it is caled Eleanor's Grove, from a tradition that Eleanor of Guienne, Queen of Henry I.,was imprisoned at Quarr,a nd frequented this secluded spot; where , after death , it is related , she was interred in a golden coffin , which is supposed stil to be protected from sacrilegious cupidity,by magical spels.
-p 76 "The Wishing Well on St. Boniface Down was once a limpid fountain, consecrated by a fantastic legend. Favoured with the benison of a Saint,it possessed a remarkable and highly useful property. Whatsoever might be the wish you breathed to your own heart,before you first tasted the crystal stream,it would infallibly receive a speedy fulfilment. So,Louisa of the dark deep eyes, and Caroline of the raven locks ,and Kate of the fair broad brow, oft-speeded -in al simplicity and with due faith-for of what use is a legend without ye have faith in it?-speeded to the well of St.Boniface ,and ere they drank of its lucent waters silently formed the wishes on whose fulfilment their souls were most intent."-Adam'sGarden Iele.
 
 Undercliff of Isle of Wight, Whitehead
 p122 Crab and Lobster Inn, Ventnor, Crab Fair
@@ -222,7 +200,7 @@ http://www.bashha.org.uk/pdfs/history2.pdf
 
 --- 
 
-godeton livers ??  abbey ?? corruption of Lyra?
+godeton livers ?? abbey ?? corruption of Lyra?
 
 Undercliff of Isle of Wight, p264
 his inference is strengthened by the fact of the church being one of the six benefices presented by the first Lord of the Island to the Norman abbey of Lyra soon after the conquest took place—^between 1066 and 1071—^probably for the very reason that the benefice was a valuable one.

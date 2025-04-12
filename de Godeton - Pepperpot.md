@@ -139,7 +139,7 @@ Mr Urban,
 
 I Send you four views of the tower of St Catharine's which stands upon the summit of St Catharine's Hill Down, on the back of the Isle of Wight, about 750 feet higher than high-water mark, and about half a mile from the sea, commanding the most extensive view, both by sea and land, of any place in Britain. It is part of a consecrated building of great antiquity, as appears by the Winchester register, in which there is this entry :
 
-"Walter de Langsterell, admijssus ad Hermitorium supra montem de Chale in  insula Victis. Idil. Octobris A.D. 1312."
+"Walter de Langsterell, admijssus ad Hermitorium supra montem de Chale in insula Victis. Idil. Octobris A.D. 1312."
 
 The figure of this tower within, is quadrangular, and without octagonal; each side both of the octagon and quadrangle is just four feet, its height to the roof is 27 feet, and the perpendicular height of the roof is two feet.
 
@@ -163,7 +163,7 @@ Jesus Christ 1318? https://www.pastscape.org.uk/hob.aspx?hob_id=899227
  
 I've found mentions in the Calendar of Patent Rolls, eg as cited in the above records via archive.org, but I'm not sure where to find the records or transcripts of the actual court hearings or their decisions.
  
-Many local tellings of the wreck of the Saint Mary also mention more detail of hearings on 8th June 1313 (Southampton), then Winchester 20th July 1313 and  finally 22nd February 1314  (location?) which resulted not least in a fine of 227.5 (?) marks to de Goditon.
+Many local tellings of the wreck of the Saint Mary also mention more detail of hearings on 8th June 1313 (Southampton), then Winchester 20th July 1313 and finally 22nd February 1314  (location?) which resulted not least in a fine of 227.5 (?) marks to de Goditon.
  
 QUESTION: do you know where I might find or access records, copies or transcripts of the actual court hearings or their decisions?
  
@@ -171,13 +171,13 @@ A Gotten Manor history (https://www.gottenmanor.co.uk/history/) suggests "[de Go
  
 QUESTION: do you know where I might find or access records, copies or transcripts of actions taken relating to the fine, the distraining action, the payment and relaxation of this sentence?
  
-The Saint Mary stories also mention how a Papal court was involved by a monastery from Picardy for whom the lost goods of the Saint Mary were presumably intended, and as a result de Godeton was threatened with excommunication unless he  built what we now know as St. Catherine's Oratory, and also "to provide a 'chaunting priest' and to establish 'a light for the benefit of mariners, to be lit every night for ever'" [https://www.pharology.eu/history/britishisles/BR02_eccliasticallights.html]
+The Saint Mary stories also mention how a Papal court was involved by a monastery from Picardy for whom the lost goods of the Saint Mary were presumably intended, and as a result de Godeton was threatened with excommunication unless he built what we now know as St. Catherine's Oratory, and also "to provide a 'chaunting priest' and to establish 'a light for the benefit of mariners, to be lit every night for ever'" [https://www.pharology.eu/history/britishisles/BR02_eccliasticallights.html]
  
 QUESTION: do you know where I might find or access records, copies or transcripts of actions taken relating to the papal court action and perhaps how it played out with respect to local Church courts (eg how does the "acre of land with Buildings on St Catherine's Down" fit into the various sentences imposed on de Godeton)? [I did wonder if the Quarr Abbey library might be a place to start?]
  
  --
 
- I  am sorry for my slowness in giving you a full reply. We are down to a single member of staff rather than our usual team of four due to redeployments in this lockdown.
+ I am sorry for my slowness in giving you a full reply. We are down to a single member of staff rather than our usual team of four due to redeployments in this lockdown.
 I have now had a chance to look at some of the references cited in the links that you have provided. I think that there is very little here that is going to get you close to the original sources, but I hope that there may be a few leads that will prove of use
 Sir Richard Worsley in his History of the Isle of Wight of 1781 refers to one source as Reg Winton 1323 and later to the fact that it was already a hermitage in 1312 quoting from a register for the diocese of Winchester. Both of these references will presumably lead to items at the Hampshire Record Office, in the records of that diocese. My colleagues at that office may be able to suggest how to get closer to the source through their finding aids. There is a useful on-line catalogue that is searchable and it may be worth looking at that.
 The majority of the sources quoted in the Shipwreck Index of the Isle of Wight relate to the Calendars of Patent Rolls at the National Archive, which you have already had access to. There are some secondary sources that we hold here which are referred to, including an article on the wreck of the Blessed Mary (TPT 75) and books such as the volumes on shipwrecks and the Back of Wight by Fred Mew, Ken Phillips and John Medland.
@@ -186,10 +186,10 @@ So sadly I don't think that there are any sources at this office that would help
 We don't have any on-line sequence of maps along the lines of the ones that you have shared. We do have some images that might be scannable from the Ordnance Survey editions and from 18th century maps such as that for Andrews, and some of these might be scannable. Is there a particular part of the haven that you are interested in, or is it the shape of the whole inlet that is of interest
 Yours sincerely
 Richard Smout
-Richard Smout Isle of Wight Heritage Service Manager,  Culture and Partnership Development
+Richard Smout Isle of Wight Heritage Service Manager, Culture and Partnership Development
 Isle of Wight County Record Office, 26 Hillside, Newport, Isle of Wight PO30 2EB
 Tel: 01983 823820  (Mailbox 2232)
-Email: richard.smout@iow.gov.uk  Web: https://www.iwight.com/recordofficeandarchive
+Email: richard.smout@iow.gov.uk Web: https://www.iwight.com/recordofficeandarchive
 
 --
 
@@ -328,7 +328,7 @@ island graves https://iw-bereavementservices.co.uk/
 
 https://en.wikipedia.org/wiki/Flotsam,_jetsam,_lagan_and_derelict
 In terms of maritime law, the definition of flotsam pertains to goods that are floating on the surface of the water as the result of a wreck or an accident. As there is no clear way of defining ownership, one who discovers flotsam is allowed to claim it, unless someone claims ownership to the items in question.
-Jetsam  designates any cargo that is intentionally discarded from a ship or wreckage. Legally jetsam also floats, although floating is not part of the etymological meaning.[8] Generally, "jettisoning" connotes the action of throwing goods overboard to lighten the load of the ship if it is in danger of sinking.Per maritime law, one who discovers these artifacts is not required to return them to their rightful owner except in the case that the latter makes a legally abiding claim
+Jetsam designates any cargo that is intentionally discarded from a ship or wreckage. Legally jetsam also floats, although floating is not part of the etymological meaning.[8] Generally, "jettisoning" connotes the action of throwing goods overboard to lighten the load of the ship if it is in danger of sinking.Per maritime law, one who discovers these artifacts is not required to return them to their rightful owner except in the case that the latter makes a legally abiding claim
 
 [https://oceanservice.noaa.gov/facts/flotsam-jetsam.html Flotsam may be claimed by the original owner, whereas jetsam may be claimed as property of whoever discovers it.]
 Lagan  (also called "ligan") refers to goods that are cast overboard and are heavy enough to sink to the ocean floor, but are tied or otherwise linked to a floating marker, such as a buoy or cork, so that they can be found again by whoever marked the item. Lagan can also refer to large objects that are trapped within the sinking vessel. According to maritime law, a buoy, or otherwise floating object, constitutes as sufficient grounds in laying claim to an artifact. In other words, when faced with a lagan, one is required to return the artifact to its rightful owner
@@ -359,11 +359,11 @@ Undercliff of Isle of Wight, Whitehead
 p332, 333 Worsley on rights of lord to wreck "revenue of wrecks"
 
 
-Via http://www.invectis.co.uk/iow/wl_ventnor.html#scd,  Percy Stone, in his Architectural Antiquities of the Isle of Wight, gives some interesting particulars. A hermitage appears to have been founded here early in the fourteenth century: "Three years after the foundation of this isolated chapel a circumstance occurred . . . explaining very clearly the raison d'être of the still existing lighthouse. One stormy night in the winter of A.D. 1314, a vessel- one of a fleet chartered by sundry merchants of the King's Duchy of Aquitaine to convey a large consignment of white wine to England- drove ashore on Atherfield Ledge. The sailors escaped . . . and sold the cargo to the Island folk- 174 casks of wine, each worth five marks. The merchants took proceedings against the receivers of the stolen cargo, for it clearly did not belong to the sailors, who were, however, apparently not deemed worth prosecuting, even if they could have been traced. One Island landowner, Walter de Godeton, was found guilty of receiving 53 casks and had to pay 2271/2 marks. But another party besides the merchants had to be reckoned with, namely, the Church; for the wine, it appeared, belonged to the religious community of Livers, in Picardy, who had lodged a complaint against de Codeton in the Roman Court. This resulted in the culprit having to build, on the Down above the scene of the disaster, a lighthouse to warn ships, and to found an oratory for a priest to say masses for the souls of those lost at sea, and to trim the light. De Codeton, before 1328, did as he was required, and the existing ruin, repaired at the end of the eighteenth century, is the relic of his work."
+Via http://www.invectis.co.uk/iow/wl_ventnor.html#scd, Percy Stone, in his Architectural Antiquities of the Isle of Wight, gives some interesting particulars. A hermitage appears to have been founded here early in the fourteenth century: "Three years after the foundation of this isolated chapel a circumstance occurred . . . explaining very clearly the raison d'être of the still existing lighthouse. One stormy night in the winter of A.D. 1314, a vessel- one of a fleet chartered by sundry merchants of the King's Duchy of Aquitaine to convey a large consignment of white wine to England- drove ashore on Atherfield Ledge. The sailors escaped . . . and sold the cargo to the Island folk- 174 casks of wine, each worth five marks. The merchants took proceedings against the receivers of the stolen cargo, for it clearly did not belong to the sailors, who were, however, apparently not deemed worth prosecuting, even if they could have been traced. One Island landowner, Walter de Godeton, was found guilty of receiving 53 casks and had to pay 2271/2 marks. But another party besides the merchants had to be reckoned with, namely, the Church; for the wine, it appeared, belonged to the religious community of Livers, in Picardy, who had lodged a complaint against de Codeton in the Roman Court. This resulted in the culprit having to build, on the Down above the scene of the disaster, a lighthouse to warn ships, and to found an oratory for a priest to say masses for the souls of those lost at sea, and to trim the light. De Codeton, before 1328, did as he was required, and the existing ruin, repaired at the end of the eighteenth century, is the relic of his work."
 
-de geodeton -  gotten manor https://historicengland.org.uk/listing/the-list/list-entry/1209206 
+de geodeton - gotten manor https://historicengland.org.uk/listing/the-list/list-entry/1209206 
 https://www.gottenmanor.co.uk/history/ Gotten seems to have been inhabited for a least a thousand years, originating probably as an early Jutish settlement with the name of Godyngton.
-[NOT LORD IF MANOR OF CHALE  https://www.british-history.ac.uk/vch/hants/vol5/pp235-240 ]
+[NOT LORD IF MANOR OF CHALE https://www.british-history.ac.uk/vch/hants/vol5/pp235-240 ]
 
 By 1066 it was held by two brothers called Bruning, as recorded in the Domesday Book. Under the Normans it passed to William, son of Stur and is described with the name of Gadetune as comprising one hide (about 120 acres), worked by two brothers (smallholders) and valued at 20 shillings (Domesday).
 

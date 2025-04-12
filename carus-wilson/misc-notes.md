@@ -7,7 +7,7 @@ Bridewell
 
 https://www.prisonhistory.org/2021/09/why-are-there-so-many-bridewells/
 
-TO DO  https://www.theprison.org.uk/NewportTGCB/
+TO DO https://www.theprison.org.uk/NewportTGCB/
 
 
 ---

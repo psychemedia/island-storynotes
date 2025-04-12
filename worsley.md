@@ -59,7 +59,7 @@ Today, the famous Joshua Reynolds painting of Lady Wolsey hangs in the Cinnamon 
 [But see also, National Portrait Gallery, 
 'Sir Richard Worse-than-sly, exposing his wife's bottom; - o fye!'" https://www.npg.org.uk/collections/search/portrait/mw63181/Sir-Richard-Worse-than-sly-exposing-his-wifes-bottom---o-fye by James Gillray, published by William Humphrey
 hand-coloured etching, published 14 March 1782]
-Also [Seymour Dorothy, Lady Worsley ('A peep into Lady W!!!!!y's seraglio') https://www.npg.org.uk/collections/search/portrait/mw63186/Seymour-Dorothy-Lady-Worsley-A-peep-into-Lady-Wys-seraglio?LinkID=mp62143&role=sit&rNo=2  and 'Sir Richard Worse-than-sly, exposing his wife's bottom; - o fye!' by James Gillray, published by H. Brown
+Also [Seymour Dorothy, Lady Worsley ('A peep into Lady W!!!!!y's seraglio') https://www.npg.org.uk/collections/search/portrait/mw63186/Seymour-Dorothy-Lady-Worsley-A-peep-into-Lady-Wys-seraglio?LinkID=mp62143&role=sit&rNo=2 and 'Sir Richard Worse-than-sly, exposing his wife's bottom; - o fye!' by James Gillray, published by H. Brown
 etching, published 14 March 1782 https://www.npg.org.uk/collections/search/portrait/mw63178/Sir-Richard-Worse-than-sly-exposing-his-wifes-bottom---o-fye?LinkID=mp62142&role=sit&rNo=0]
 
 https://blog.english-heritage.org.uk/lady-worsley/
@@ -95,7 +95,7 @@ Perhaps Sir Richard's longest lasting legacy was his workhouse. The Isle of Wigh
 
 
 https://www.loc.gov/item/2002714564/
-A bath of the moderns,     Captain Bissett on the shoulders of Richard Worsley, Colonel of the Hampshire Militia, watching Lady Worsley pull up her stockings. 
+A bath of the moderns, Captain Bissett on the shoulders of Richard Worsley, Colonel of the Hampshire Militia, watching Lady Worsley pull up her stockings. 
 Created / Published
     1782 March 4. Engraving published by E. Darchery. 
 ---

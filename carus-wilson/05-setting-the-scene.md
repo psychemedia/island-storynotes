@@ -19,7 +19,7 @@ A Plan of the Town of Newport, Andrews 1759, [[via](https://www.nostalgicpicture
 ```
 
 ```{seealso}
-[Interactive map, Ordnance Survey,  Newport, Isle of Wight, OS 1:500, 1861-4](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=50.69959&lon=-1.29219&layers=117746211&b=1), *via National Library of Scotland*; includes many pub names; surveyed 1862, published 1865.
+[Interactive map, Ordnance Survey, Newport, Isle of Wight, OS 1:500, 1861-4](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=50.69959&lon=-1.29219&layers=117746211&b=1), *via National Library of Scotland*; includes many pub names; surveyed 1862, published 1865.
 
 ![Pubs around the centre of Newport, c.1862, Newport, Isle of Wight, OS 1:500, 1861-4](images/newport_pubs_c1862.png)
 ```
@@ -126,7 +126,7 @@ In November 1852, council members unanimously elected Francis Pittis, a well-reg
 
 TOWN COUNCIL
 
-A general meeting of the council was held  in the Council Chamber, at the Guildhall, on Tuesday last, for general business. The names of the members of the council being called over, the town clerk gave notice that the first business to be transacted was the
+A general meeting of the council was held in the Council Chamber, at the Guildhall, on Tuesday last, for general business. The names of the members of the council being called over, the town clerk gave notice that the first business to be transacted was the
 
 ELECTION OF A MAYOR.
 
@@ -169,7 +169,7 @@ Mr. Estcourt proposed Mr. F. Pittis as Alderman, and on a ballot being taken, he
 
 In the 1850s, disorderly conduct in the public streets had been regulated by the [Vagrancy Act, 1824](https://www.legislation.gov.uk/ukpga/1824/83/pdfs/ukpga_18240083_en.pdf), which included the following clause:
 
-> ... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner;  ..., shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
+> ... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner; ..., shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
 
 Town Commissioners could also adopt regulations defined in the [Town Police Clauses Act 1847](https://www.legislation.gov.uk/ukpga/1847/89/pdfs/ukpga_18470089_en.pdf) as local Bye_laws. Among other things, this allowed them, to explicitly regulate, amongst other things, bad language and disorderly conduct:
 
@@ -243,7 +243,7 @@ A committee were then appointed to report on the subject.
 
 ```
 
-According to [Report of the Commissioners appointed to inquire into the regulations affecting the sanitary condition of the army, the organization of military hospitals, and the treatment of the sick and wounded  with evidence and appendix. Presented to both Houses of Parliament by Command of Her Majesty](https://archive.org/details/b21365210/page/440/mode/2up?q=parkhurst):
+According to [Report of the Commissioners appointed to inquire into the regulations affecting the sanitary condition of the army, the organization of military hospitals, and the treatment of the sick and wounded with evidence and appendix. Presented to both Houses of Parliament by Command of Her Majesty](https://archive.org/details/b21365210/page/440/mode/2up?q=parkhurst):
 
 *Return showing the Amount of Accommodation in each Barrack in the United Kingdom,
 I. — England and Wales — continued.*

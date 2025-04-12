@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Category:Regiments_of_the_British_Army_in_the_Crim
 
 
 
-Pub history census 1911  Newport https://pubshistory.com/IsleofWight/Newport/
+Pub history census 1911 Newport https://pubshistory.com/IsleofWight/Newport/
 
 
 https://archive.org/details/b21516911/page/232/mode/1up?q=%22tontine+yard%22
@@ -104,7 +104,7 @@ Isle of Wight Observer - Saturday 13 November 1852
 
 TOWN COUNCIL
 
-A general meeting of the council was held  in the Council Chamber, at the Guildhall, on Tuesday last, for general business. The names of the members of the council being called over, the town clerk gave notice that the first business to be transacted was the
+A general meeting of the council was held in the Council Chamber, at the Guildhall, on Tuesday last, for general business. The names of the members of the council being called over, the town clerk gave notice that the first business to be transacted was the
 
 ELECTION OF A MAYOR.
 
@@ -187,7 +187,7 @@ ELSEWHERE IN SAME ISSUE (p5):
 
 NEWPORT, ISLE OF WIGHT
 
-The Foundation Stone of the New Church of St. Thomas will be laid by  H.R.H. Prince Albert at One p.m., on Thursday, 24th August, 1854.
+The Foundation Stone of the New Church of St. Thomas will be laid by H.R.H. Prince Albert at One p.m., on Thursday, 24th August, 1854.
 
 Seats affording a view of the ceremony will be erected.
 
@@ -313,7 +313,7 @@ Spacious galleries had been erected, and these were filled by the fashionables o
 His Royal Highness, accompanied by the Mayor and Masonic officers, walked through the portal of the church tower, and the positions were taken up as follows :—
 
  Town Clerk, Equerries. The Bishop's Chaplain, James Eldridge, esq. Rev. E. M'All.  
-The Mayor, F. Pittis, esq. His Royal Highness Prince Albert. The Lord Bishop of   Winchester.  
+The Mayor, F. Pittis, esq. His Royal Highness Prince Albert. The Lord Bishop of Winchester.  
 The Mayor's Chaplain, Rev. Mr. Wallis. THE STONE. The Rev. E. D. Scott, Vicar of Carisbrooke.  
 Provincial Grand Master, T. W. Fleming, esq. The Rev. G. H. Connor.  
 Deputy Provincial Grand Master. Architect, Mr Daukes. Minister of St. Thomas's Church.  
@@ -406,7 +406,7 @@ Mr. W. B. Mew also acknowledged the compliment.
 
 The Mayor said with the next toast he had really arrived at the foundation. They looked around and thought of the men who had originated the work, and, with the exception of those who had been called to their fathers, had steadily persevered in it up to the present time, those gentlemen being the Church Building Committee— (cheers). In the first place there was a strong feeling that the church should be renovated, but this being found impossible, they then set themselves to the work of erecting a new building, and they pledged themselves, collecting subscriptions from year to year, to commence the building within a period of five years. They had to fight a great battle to get together their funds, and had carried out their intention at the expiration of the fifth year of their labours— (cheers). There was one gentleman whose exertions had been most strenuous, who had given them sound advice, and had been constant in his attendance on the committee: the Rural Dean was known throughout the length and breadth of the Island—(cheers), his kindness and condescension were proverbial, and they had much thank him for that the church was commenced that day He called upon them to drink the health of the Rev. E. M'All and the Church Building Committee —(cheers).
 
-The Rev. E. M'All * could not express the gratitude he felt at the high consummation at which they had arrived that day, a consummation which would give to the town of Newport, and to the whole of the Isle of Wight,  a church worth of its metropolis— (cheers).
+The Rev. E. M'All * could not express the gratitude he felt at the high consummation at which they had arrived that day, a consummation which would give to the town of Newport, and to the whole of the Isle of Wight, a church worth of its metropolis— (cheers).
 
 The Mayor said the next health was that of the Rev. E. D. Scott, the Vicar of Carisbrooke, whose desire at all times was do that which would prove of advantage to them, and add to their general contentment here and happiness hereafter. The gentleman would make a most important announcement but before doing so they would have the gratification of drinking his health — (great cheering ).
 
@@ -538,7 +538,7 @@ James Nobbs and Edward Woodford were charged with burglary.
 
 ...
 
-Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport.  On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner? He had some, and gave me a sovereign to pay for it, and I gave him the change. ...
+Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosham-street, Newport. On Sunday last, at dinner time, when we opened the house, Nobbs came in and asked me if he could have some dinner? He had some, and gave me a sovereign to pay for it, and I gave him the change. ...
 
 ---
 
@@ -749,7 +749,7 @@ James Lewis, who had been taken into custody on Saturday evening, but liberated 
  
 "TEMPTERS AND TEMPTED."
 
-At the County Police Court, on Wednesday, before the  Hon. A'Court Holmes, Chairman, Sir John Simeon, Bt., Capt. Kerr, Thomas Cooke, Esq. Capt. Brigstocke, R.N., and J. A. Hamburgh, Esq., the Rev. Wm. Carus Wilson was charged with writing a false, scandalous, and malicious libel on Mr. Francis Pittis. The Court was crowded in every part, and the proceedings excited the most intense interest. The libel arose out of the publication of a tract, "The Tempters and Tempted; or a solemn Address and Warning to the Inhabitants of the Town And Neighbourhood;" in which the state of morals is put as the very worst that language can describe; and fierce denunciations are hurled on its devoted population. At a meeting of the Town Council a strong denial of the justice of the charges was made and the conduct of the conduct of the author, Mr. Carus Wilson, his informants, and the distributors of the tracts, was severely condemned. The Mayor was requested to write to Mr. Wilson a statement of the views and feelings of the Council on the subject, which he complied with; and then Mr. Wilson wrote and published answer to the letter, as a tract, in which the former charges were repeated, and many new ones made. The charge against Mr. Pittis was of that gross character that he felt it to be his duty to take criminal proceedings against Mr. Wilson, and the Magistrates now  assembled to hear the case. Mr. Eldridge was engaged for the prosecution, and Mr. Ford, of Portsea, for the defence.
+At the County Police Court, on Wednesday, before the Hon. A'Court Holmes, Chairman, Sir John Simeon, Bt., Capt. Kerr, Thomas Cooke, Esq. Capt. Brigstocke, R.N., and J. A. Hamburgh, Esq., the Rev. Wm. Carus Wilson was charged with writing a false, scandalous, and malicious libel on Mr. Francis Pittis. The Court was crowded in every part, and the proceedings excited the most intense interest. The libel arose out of the publication of a tract, "The Tempters and Tempted; or a solemn Address and Warning to the Inhabitants of the Town And Neighbourhood;" in which the state of morals is put as the very worst that language can describe; and fierce denunciations are hurled on its devoted population. At a meeting of the Town Council a strong denial of the justice of the charges was made and the conduct of the conduct of the author, Mr. Carus Wilson, his informants, and the distributors of the tracts, was severely condemned. The Mayor was requested to write to Mr. Wilson a statement of the views and feelings of the Council on the subject, which he complied with; and then Mr. Wilson wrote and published answer to the letter, as a tract, in which the former charges were repeated, and many new ones made. The charge against Mr. Pittis was of that gross character that he felt it to be his duty to take criminal proceedings against Mr. Wilson, and the Magistrates now assembled to hear the case. Mr. Eldridge was engaged for the prosecution, and Mr. Ford, of Portsea, for the defence.
 
 Mr. Ford handed in a medical certificate that the state of the health of the defendant would not allows him to appear in Court; and, after some delay, the case went on in his absence.
 
@@ -864,7 +864,7 @@ On Sunday last, May 11th, two Sermons were preached at St. John's Newport, by th
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18560524/012/0004
 Hampshire Telegraph - Saturday 24 May 1856
 
-At the Borough Police Court, on Thursday, before Dr. Wavell (Chairman), and Edward Way, Esq.,— John Dalemere, a young man, was convicted of having been drunk and breaking some crockery ware  in the house of Mr. Beel, Cosham-street, and fined 5s., damage 1s. 10 1/2 d., and costs  5s., which he immediately discharged.
+At the Borough Police Court, on Thursday, before Dr. Wavell (Chairman), and Edward Way, Esq.,— John Dalemere, a young man, was convicted of having been drunk and breaking some crockery ware in the house of Mr. Beel, Cosham-street, and fined 5s., damage 1s. 10 1/2 d., and costs  5s., which he immediately discharged.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001365/18560126/104/0005
@@ -900,7 +900,7 @@ SOLDIERS' INSTITUTES.—
 
 On the 23rd January last, the Soldiers' Institute at Portsmouth was opened. It was described in the prospectus, a copy of which has been forwarded to us by a gentleman who takes much interest in the soldiers' welfare, the Rev. W. Carus Wilson:—
 
-"The Soldiers' Institute comprises a reading-room, supplied with daily and weekly newspapers, and most of the  leading and useful periodicals and current literature of the day. Joined to this, a library for the exclusive use of the members, embracing works in every department in literature, as well as others that may prove useful in their profession. Class-rooms for mutual improvement, and occasional lectures, add another feature to the general object. United with the above are two coffee-rooms, which it is hoped will contribute to the comfort of the members, and tend to lessen the frequenting of public-houses. The subscription is fixed at one penny per week, for which a cheque is given, the possession of which entitles the holder to all the advantages of the institute, for so long a period as it is dated for."
+"The Soldiers' Institute comprises a reading-room, supplied with daily and weekly newspapers, and most of the leading and useful periodicals and current literature of the day. Joined to this, a library for the exclusive use of the members, embracing works in every department in literature, as well as others that may prove useful in their profession. Class-rooms for mutual improvement, and occasional lectures, add another feature to the general object. United with the above are two coffee-rooms, which it is hoped will contribute to the comfort of the members, and tend to lessen the frequenting of public-houses. The subscription is fixed at one penny per week, for which a cheque is given, the possession of which entitles the holder to all the advantages of the institute, for so long a period as it is dated for."
 
 It will thus be seen that the Soldiers' Institute is analagous to the Mechanics' Institute, and is calculated to effect much good by furnishing useful employment and the means of innocent recreation during leisure hours. We heartily wish success to the Portsmouth Institute, and should be glad to see a similar plan adopted in other towns. The country would thus in some measure repay that debt which she owes to our brave soldiers.
 
@@ -919,7 +919,7 @@ Laws of England by Stephen, James, 1883
 https://www.legislation.gov.uk/ukpga/1824/83/pdfs/ukpga_18240083_en.pdf
 Vagrancy Act 1824
 
-... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner;  ..., shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
+... every Common Prostitute wandering in the public Streets or public Highways, or in any Place of public Resort, and behaving in a riotous or indecent Manner; ..., shall be deemed an idle and disorderly Person within the true Intent and Meaning of this Act.
 
 It's possible that Newport Magistrates ruled according to local bye-laws. For example, the Town Police Clauses Act 1847:
 https://www.legislation.gov.uk/ukpga/1847/89/pdfs/ukpga_18470089_en.pdf allowed Town Commissioners to create Bye-Laws regulating, among other things, bad language or drunken and disorderly conduct:
@@ -973,7 +973,7 @@ A comparative survey of laws in force for the prohibition, regulation, and licen
 As a garrison town, soldiers from a wide variety of regiments were stationed at Parkhurst Barracks, often *en route* to the Crimea via troop ships sailing out of Portsmouth. The muster appears to have reached about 1,300 officers and men at any one time, many of them young men in their teens or early twenties.
 
 
-According to [Report of the Commissioners appointed to inquire into the regulations affecting the sanitary condition of the army, the organization of military hospitals, and the treatment of the sick and wounded  with evidence and appendix. Presented to both Houses of Parliament by Command of Her Majesty](https://archive.org/details/b21365210/page/440/mode/2up?q=parkhurst):
+According to [Report of the Commissioners appointed to inquire into the regulations affecting the sanitary condition of the army, the organization of military hospitals, and the treatment of the sick and wounded with evidence and appendix. Presented to both Houses of Parliament by Command of Her Majesty](https://archive.org/details/b21365210/page/440/mode/2up?q=parkhurst):
 
 Return showing the Amount of Accommodation in each Barrack in the United Kingdom,
 I. — England and Wales — continued.
@@ -1120,7 +1120,7 @@ James Tansom, landlord of the Fountain Tap `[the following week, he was describe
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18420618/043/0003
 Hampshire Independent - Saturday 18 June 1842
 
-BOROUGH COURT—  On Monday, before Mr. A. Clarke.— James Tansom, of the Tontine Tap, who was fined 40s. and costs on the previous Monday, for keeping a disorderly house, now stepped into the defendant's box, and pointed out the hardship, injustice, and cruelty, of fining him, he being perfectly innocent according to his own showing. He said be thought it was a very hard case, for he had a sick wife, and scarcely any of the drunkenness was produced in his house; but people got drunk in other houses. and came to his house, and "knocked up a row." Tansom said he had nothing but the public-house to look to for the support of three of them, himself, his wife, and the doctor (immense laughter); and, besides, he had never been brought before magistrates before from infancy to old age (laughter). As soon as he turned his back to draw a drop of beer, they began their rookery again, and he wished the Bench to take "these here things" into consideration.—The Bench said that it was most extraordinary that these rows, by people who get drunk elsewhere, should only occur in his house; that women and soldiers should be found in his rooms day and night, on Sundays and workdays, and yet he know nothing at all of it. These things must be by his own comment, and the penalty they had inflicted was exceedingly moderate, for if he had had his due he would have been indicted at the sessions. They could not alter their previous decision.—Tansom: "Then you must take me to prison, that's all I have to say."
+BOROUGH COURT— On Monday, before Mr. A. Clarke.— James Tansom, of the Tontine Tap, who was fined 40s. and costs on the previous Monday, for keeping a disorderly house, now stepped into the defendant's box, and pointed out the hardship, injustice, and cruelty, of fining him, he being perfectly innocent according to his own showing. He said be thought it was a very hard case, for he had a sick wife, and scarcely any of the drunkenness was produced in his house; but people got drunk in other houses. and came to his house, and "knocked up a row." Tansom said he had nothing but the public-house to look to for the support of three of them, himself, his wife, and the doctor (immense laughter); and, besides, he had never been brought before magistrates before from infancy to old age (laughter). As soon as he turned his back to draw a drop of beer, they began their rookery again, and he wished the Bench to take "these here things" into consideration.—The Bench said that it was most extraordinary that these rows, by people who get drunk elsewhere, should only occur in his house; that women and soldiers should be found in his rooms day and night, on Sundays and workdays, and yet he know nothing at all of it. These things must be by his own comment, and the penalty they had inflicted was exceedingly moderate, for if he had had his due he would have been indicted at the sessions. They could not alter their previous decision.—Tansom: "Then you must take me to prison, that's all I have to say."
 
 ---
 
@@ -1150,7 +1150,7 @@ Hampshire Independent - Saturday 02 May 1846
 
 BOROUGH COURT
 
-On Monday last, before  P. Scott, A. Clarke, and R. M. Wavell, Esqrs.
+On Monday last, before P. Scott, A. Clarke, and R. M. Wavell, Esqrs.
 
 Henry Masom was charged by Charles Green, landlord of the Tontine Tap, with stealing 2 bottles containing spirits.
 
@@ -1219,7 +1219,7 @@ Hampshire Telegraph - Saturday 02 June 1849
 
 At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the magistrates were determined to put down such open and gross vice and immorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
 
-Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
+Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.— Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
 
 ---
 
@@ -1489,7 +1489,7 @@ BOROUGH COURT. Monday.— Magistrates present: T. Cooke, and Edward Way, esqrs.
 
 FEMALE JUVENILE DEPRAVITY.
 
-Caroline Pierce and Ellen Pierce, two girls of the town, were charged with loitering in the High-street, on Wednesday night, at half-past twelve, for an improper purpose. Police-constable Hobbs said that he saw several girls there on the occasion, among whom were Caroline Pierce and, he believed, Ellen Pierce, but was not certain. He went towards the girls, when they passed through the Corn Market and stood under the Mechanics' Institution. He made towards them again, and they then moved towards the Green Dragon-yard. Caroline Pierce and another came back; the other girls went in different directions. He ordered them to go home, but instead of doing so, they went into the High-street. They were constantly in the High-street, and he had seen them speak to gentlemen, and go away with them. They were generally quiet, but the street swarms with girls of that description.— Police-constable Grapes said the girls were continually in the street at an improper hour.— Ellen said she was not in the High-street at all, and Caroline said she had been to a party at the Beehive, and only went into Cosham-street  with her companions, who lived there, and she was going home when she met police-constable Hobbs. It should never occur again, and she was very sorry it had now happened.— Mr. Cooke said he had no doubt but that Ellen was as profligate as her sister, and warned them and other girls in Court about strolling the streets at night.— Caroline was fined 10s, and 5s costs, which she paid immediately. 
+Caroline Pierce and Ellen Pierce, two girls of the town, were charged with loitering in the High-street, on Wednesday night, at half-past twelve, for an improper purpose. Police-constable Hobbs said that he saw several girls there on the occasion, among whom were Caroline Pierce and, he believed, Ellen Pierce, but was not certain. He went towards the girls, when they passed through the Corn Market and stood under the Mechanics' Institution. He made towards them again, and they then moved towards the Green Dragon-yard. Caroline Pierce and another came back; the other girls went in different directions. He ordered them to go home, but instead of doing so, they went into the High-street. They were constantly in the High-street, and he had seen them speak to gentlemen, and go away with them. They were generally quiet, but the street swarms with girls of that description.— Police-constable Grapes said the girls were continually in the street at an improper hour.— Ellen said she was not in the High-street at all, and Caroline said she had been to a party at the Beehive, and only went into Cosham-street with her companions, who lived there, and she was going home when she met police-constable Hobbs. It should never occur again, and she was very sorry it had now happened.— Mr. Cooke said he had no doubt but that Ellen was as profligate as her sister, and warned them and other girls in Court about strolling the streets at night.— Caroline was fined 10s, and 5s costs, which she paid immediately. 
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540729/013/0003
@@ -2079,7 +2079,7 @@ Charles Gosling, a private of the 96th depôt, stationed at Parkhurst Barracks, 
 
 In answer to questions from the prisoner, the prosecutor said he did not ask him for any money before he left the barracks, neither did he say "There's the bag in the box." He never entrusted him with the key, neither did he say "There's the key behind the box, you can take what yon like." All that he said to him before he went away was, that he had given out some crime papers to a Serjeant.
 
-Serjeant Jobn Platt, of the 96th  depôt, stated that he was in the same room with the prosecutor, and on the evening in question saw the prisoner go to the box of Serjeant Wolfe, open it, and take something out. There was only a fire-light, but he did it openly. His wife told him she had seen him go there before, so he thought it was all right. They spoke a word or two to each other in a general way. He had seen the prisoner in town between four and five that afternoon. He had the key then, and told him he was going home to get some "tin." Witness thought Serjeant Wolfe had sent him.
+Serjeant Jobn Platt, of the 96th depôt, stated that he was in the same room with the prosecutor, and on the evening in question saw the prisoner go to the box of Serjeant Wolfe, open it, and take something out. There was only a fire-light, but he did it openly. His wife told him she had seen him go there before, so he thought it was all right. They spoke a word or two to each other in a general way. He had seen the prisoner in town between four and five that afternoon. He had the key then, and told him he was going home to get some "tin." Witness thought Serjeant Wolfe had sent him.
 
 Catherine Platt, wife of the last witness, also deposed to seeing the prisoner unlock the box, and take something out; she told her husband of the circumstance.
 
@@ -2167,7 +2167,7 @@ Rev. A. J. Wade, Holy Trinity, Ryde.
 Rev. —— Wilkinson.  
 Rev. E. Venables.
 
-The Right Rev. the Lord Bishop of Winchester was received at the door of the Church by the Worshipful the Chancellor of the Diocese; the Rural  Dean, (Rev. E. McAll); the Vicar of Carisbrooke, (Rev. E. D. scott); by the Minister and Curate of St. Thomas', the Clergy, Churchwardens, &c.
+The Right Rev. the Lord Bishop of Winchester was received at the door of the Church by the Worshipful the Chancellor of the Diocese; the Rural Dean, (Rev. E. McAll); the Vicar of Carisbrooke, (Rev. E. D. scott); by the Minister and Curate of St. Thomas', the Clergy, Churchwardens, &c.
 
 At this moment, the spectacle was one peculliarly interesting. The crowded Church, the clergy in their robes, the solemn strains of the organ, the dimly-lighted interior, offered points worthy of a poet's skill.
 

@@ -447,7 +447,7 @@ Isle of Wight Observer - Saturday 05 June 1858
 
 Ryde
 
-We have always considered the question of hawking a very difficult one to deal with; and it is strongly illustrated in Ryde at the present time.  A fortnight ago the Commissioners prosecuted several parties for hawking perishable commodities; the consequence is, that vessels have since arrived loaded with mackerel, and the greater part of the cargoes brought on shore has spoiled. Here, then, is the anomoly of a good demand and a good supply, with the natural mode of distribution so interfered with as to neutralise both. The same may be said, with regard to other articles.
+We have always considered the question of hawking a very difficult one to deal with; and it is strongly illustrated in Ryde at the present time. A fortnight ago the Commissioners prosecuted several parties for hawking perishable commodities; the consequence is, that vessels have since arrived loaded with mackerel, and the greater part of the cargoes brought on shore has spoiled. Here, then, is the anomoly of a good demand and a good supply, with the natural mode of distribution so interfered with as to neutralise both. The same may be said, with regard to other articles.
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18760527/009/0005

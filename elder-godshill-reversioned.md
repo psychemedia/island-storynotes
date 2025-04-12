@@ -14,7 +14,7 @@ The stones to begin the construction duly arrived from a local quarry, the site 
 
 Just as the men really were starting to doubt that they had right field, the owner of the land at the top of the hill turned up, and he was in angry mood, a gravely offended mood. "What in the Devil's name are you doing?" he said. "I've heard tell that the Church will take a man's land for no compensation to put a Church on it, but to start the work without even telling the man, that's not right. That's not right at all", and on and on he went.
 
-Now, the architect had no idea what Franklin's neighbour was talking about. "What am I talking about? What am I talking about? That's what I'm talking about...", and he pointed up the hill; and then he started to drag them up the slope, "come on. come on'....  Well, they hadn't gone far when they saw the stone, and the pegs, and the ropes, laid out exactly as they had been before; only this time, on top of the hill.
+Now, the architect had no idea what Franklin's neighbour was talking about. "What am I talking about? What am I talking about? That's what I'm talking about...", and he pointed up the hill; and then he started to drag them up the slope, "come on. come on'.... Well, they hadn't gone far when they saw the stone, and the pegs, and the ropes, laid out exactly as they had been before; only this time, on top of the hill.
 
 Well, they immediately set to, and with the other other masons and builders who had by now started to arrive and follow the commotion, they took everything back down the hill, and put it back how it was. Just in time for the Bishop and his retinue to arrive, the Bishop, seated, royally, looking as princely as he could, given that he was sitting on a donkey.
 

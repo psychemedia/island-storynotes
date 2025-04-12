@@ -5,7 +5,7 @@
 *There's likely a long way to go on this, figuring out a proper story structure, finding the right characters to include and anecdotes to tell. Also finding variants for different time slots: a quick 5 minute tale, an 8, a 12, a 20, a 40, an hour long show. And so on. The general arc of the telling has scope for allowing different shorter set pieces, character sketches, etc., to be included as required. For now, here's a quick run through of some of what I remember...*
 ```
 
-I'd like to tell you a story. A story I stumbled across and pieced together over a period of about six weeks earlier this year. A story that started when I stumbled across a report of a letter, a *memorial*, presented to the magistrates of Newport whilst looking through the  online British Newspaper Archive. A story of the *nursery of vice* that Newport was at the time. And a story that ended with some literary detective work, and a very public controversy that played out in the northern press.
+I'd like to tell you a story. A story I stumbled across and pieced together over a period of about six weeks earlier this year. A story that started when I stumbled across a report of a letter, a *memorial*, presented to the magistrates of Newport whilst looking through the online British Newspaper Archive. A story of the *nursery of vice* that Newport was at the time. And a story that ended with some literary detective work, and a very public controversy that played out in the northern press.
 
 So let's set the scene.
 
@@ -150,9 +150,9 @@ In particular, he layed the charge of sin not at the patrons of the bars and gin
 
 Anecdotally, it seems that Carus Wilson's mission persuaded "one of the largest brewers in Portsmouth to announce his conviction of the iniquities fostered by the sale of beer, and his determination to abandon his lucrative business for ever" and there were suggestions that "there was a visible decrease in the amount of drunkenness, vice, and disorder in the town", but generally, it seems as if the tract attracted mockery rather than moral improvement.
 
-Commentators wondered whether Carus Wilson would follow up "Portsmouth in Flames" with other tracts — "Brighton in Blazes,"  maybe, or "Southampton, Storehouse of Sin,", or perhaps return his focus to the island with "Ryde the Ruined," — but increasing ill-health appears to have but an end to his New Year's Day publications.
+Commentators wondered whether Carus Wilson would follow up "Portsmouth in Flames" with other tracts — "Brighton in Blazes," maybe, or "Southampton, Storehouse of Sin,", or perhaps return his focus to the island with "Ryde the Ruined," — but increasing ill-health appears to have but an end to his New Year's Day publications.
 
-Through 1857, Carus Wilson continued to visit Gosport, giving out bibles and prayer books; NAME,  his name occasionally appearing in the Hampshire press 
+Through 1857, Carus Wilson continued to visit Gosport, giving out bibles and prayer books; NAME, his name occasionally appearing in the Hampshire press 
 
 TO DO
 

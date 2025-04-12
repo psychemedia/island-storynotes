@@ -117,7 +117,7 @@ https://www.ancient-origins.net/myths-legends/pied-piper-hamelin-001969
 
 3 NOVEMBER, 2020 - 23:15 DHWTY
 The Disturbing True Story of the Pied Piper of Hamelin
-READ LATER  PRINT
+READ LATER PRINT
 When, lo! as they reached the mountain-side,  
 A wondrous portal opened wide,  
 As if a cavern was suddenly hollowed;  
@@ -193,7 +193,7 @@ See also: https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin
 
 TO FIND
 
-"Historical Gleanings of Newtown,"  J. H. Woolgar. ~1890
+"Historical Gleanings of Newtown," J. H. Woolgar. ~1890
 
 
 Book list

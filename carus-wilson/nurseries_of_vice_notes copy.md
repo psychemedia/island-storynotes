@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Category:Regiments_of_the_British_Army_in_the_Crim
 
 
 
-Pub history census 1911  Newport https://pubshistory.com/IsleofWight/Newport/
+Pub history census 1911 Newport https://pubshistory.com/IsleofWight/Newport/
 
 
 https://archive.org/details/b21516911/page/232/mode/1up?q=%22tontine+yard%22

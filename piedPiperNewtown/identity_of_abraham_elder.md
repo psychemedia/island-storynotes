@@ -14,7 +14,7 @@ A query on the same topic has also been raised in *Notes & Queries*, [Vol 12 Iss
 
 It seems the question went unanswered, as the correspondent reiterated the query (again, as far as I can tell, without any response), in *Notes & Queries* [Vol 6 Iss 147](https://archive.org/details/sim_notes-and-queries_1876-10-21_6_147/page/338/mode/2up), p338, dated October 21st, 1876:
 
-> In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan's account is given. I have before now asked unsuccessfully in "N, & Q." who "Abraham Elder, Esq.," was or is. His book is  clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
+> In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan's account is given. I have before now asked unsuccessfully in "N, & Q." who "Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
 
 So let us put our detective caps on, and see what we might learn.
 

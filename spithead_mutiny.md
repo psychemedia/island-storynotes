@@ -4,7 +4,7 @@ Storynotes on the Spithead Mutiny of 1797, when men aboard several ships the lin
 
 ## A Telling (*Work in Progress*)
 
-It's 1797. Look out from Ryde towards Spithead, and you would see Lord Bridport's Channel fleet — the Grand Fleet of 16 ships of the line, and sundry other smaller vessels — assembling there. They were making ready to head out on patrol against the French fleet preparing, which itself was preparing to set sail out of Brest, just below  the entrance to the English Channel. This was, of course, a time of war with the French... again...
+It's 1797. Look out from Ryde towards Spithead, and you would see Lord Bridport's Channel fleet — the Grand Fleet of 16 ships of the line, and sundry other smaller vessels — assembling there. They were making ready to head out on patrol against the French fleet preparing, which itself was preparing to set sail out of Brest, just below the entrance to the English Channel. This was, of course, a time of war with the French... again...
 
 These were not the happiest of times for the sailors in His Majesty's Royal Navy. Many would have been pressed into service against their will, others taken or relieved from bankruptcy in exchange for serving as one of His Majesty's men.
 

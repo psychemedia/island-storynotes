@@ -2,7 +2,7 @@ What connects a pamphlet against the excesses of 1850s Newport entitled "Tempter
 
 Following a chance encounter with a letter to Newport's magistrates encouraging a "stricter supervision over lodginghouses, lest they [...] prove nurseries of vice" (Isle of Wight Observer, Saturday, October 6th, 1855) local storyteller Tony "Monty" Hirst has pieced together a tale of Victorian Newport that receives its first telling at Babushka Bookshop, Shanklin, next Thursday (May 9th) at 7pm.
 
-Also featuring a legend of Godshsill, a macabre tale from Arreton, and a children's tale  originally set in Shanklin that is still told today, "An Isle of Wight Miscellany" provides a great introduction to traditional storytelling "for grown-ups" from a popular island storyteller.
+Also featuring a legend of Godshsill, a macabre tale from Arreton, and a children's tale originally set in Shanklin that is still told today, "An Isle of Wight Miscellany" provides a great introduction to traditional storytelling "for grown-ups" from a popular island storyteller.
 
 
 Additional notes:

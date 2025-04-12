@@ -104,7 +104,7 @@ Rev. A. J. Wade, Holy Trinity, Ryde.
 Rev. —— Wilkinson.  
 Rev. E. Venables.
 
-The Right Rev. the Lord Bishop of Winchester was received at the door of the Church by the Worshipful the Chancellor of the Diocese; the Rural  Dean, (Rev. E. McAll); the Vicar of Carisbrooke, (Rev. E. D. scott); by the Minister and Curate of St. Thomas', the Clergy, Churchwardens, &c.
+The Right Rev. the Lord Bishop of Winchester was received at the door of the Church by the Worshipful the Chancellor of the Diocese; the Rural Dean, (Rev. E. McAll); the Vicar of Carisbrooke, (Rev. E. D. scott); by the Minister and Curate of St. Thomas', the Clergy, Churchwardens, &c.
 
 At this moment, the spectacle was one peculliarly interesting. The crowded Church, the clergy in their robes, the solemn strains of the organ, the dimly-lighted interior, offered points worthy of a poet's skill.
 

@@ -28,7 +28,7 @@ The next day they came back, and... nothing. They searched around, and about, an
 
 So they set to and carried everything back down the hill, again, and started again, again.
 
-This was getting to be more than a joke, so a guard was set. As night fell, some say they saw the stones start to jiggle, and roll, and sway, and dance –  and it really was as if they were dancing – they danced their way right up the hill. Some say that it was the doing of the fairy folk, come to feast, and finding their meeting space had been converted to a building site, who had rolled and carried and carried and rolled the stones out of their place, and up the hill to another place. Others say it the Devil's work. Others still that it must have been a miracle, and God's doing. But whatever happened, whoever's story you believed, be in no doubt: those stones made their way back up to the top of the hill.
+This was getting to be more than a joke, so a guard was set. As night fell, some say they saw the stones start to jiggle, and roll, and sway, and dance – and it really was as if they were dancing – they danced their way right up the hill. Some say that it was the doing of the fairy folk, come to feast, and finding their meeting space had been converted to a building site, who had rolled and carried and carried and rolled the stones out of their place, and up the hill to another place. Others say it the Devil's work. Others still that it must have been a miracle, and God's doing. But whatever happened, whoever's story you believed, be in no doubt: those stones made their way back up to the top of the hill.
 
 The next morning, as folk turned up to continue working on the foundations — what, again? Everything's moved, again? — and another meeting was held. And the story was told by those who'd seen the stones moving; but no way had they'd tried to stop them.
 
@@ -40,7 +40,7 @@ And so it was that the Church was built on top of the hill, God's hill; and the 
 
 The pseudonymous Abraham Elder's *Tales and Legends of the Isle of Wight*, first published in 1839, takes the form of a road trip around the island by the author and his sidekick, Mr Winterblossom, an antiquary well versed in the lore of the island and related by him to the author, as well as by others encountered aling the way, in the course of their journey.
 
-The tale of how the church at Godshill came to built be on top of the hill there is *not* included in the book, but an account of that story *was* published by the author in *Bentley's Miscellany* [Vol.  VI.](https://archive.org/details/bentleysmiscella06dickuoft/page/66/mode/2up?q=+godshill), p255-262, 1839, in an article entitled *Legends of the Isle of Wight, with the adventures of the author in search of them, by Abraham Elder, Esq.*, starting at page 253.
+The tale of how the church at Godshill came to built be on top of the hill there is *not* included in the book, but an account of that story *was* published by the author in *Bentley's Miscellany* [Vol. VI.](https://archive.org/details/bentleysmiscella06dickuoft/page/66/mode/2up?q=+godshill), p255-262, 1839, in an article entitled *Legends of the Isle of Wight, with the adventures of the author in search of them, by Abraham Elder, Esq.*, starting at page 253.
 
 ```{admonition} Abraham Elder's _"Legends of the Isle of Wight: Godshill"_, in *Bentley's Miscellany*, 1839
 :class: dropdown
@@ -190,7 +190,7 @@ A slightly more religious telling is provided in "The Isle of Wight" by George C
 
 > The people of this village, having long lived in pagan darkness, were at length visited by a holy man who came and lived among them. He told the wondrous story of Divine self-sacrifice, and taught the Catholic religion of love and mercy. This so touched the hearts of the people that they cast down their blood-stained altars and acknowledged the true God.  
 >  
-> Then cried the elders of the village: "We will build a temple to His honour, where we and our children's children may worship, and by which generations yet  unborn may know how the Saxon reverenced God."  
+> Then cried the elders of the village: "We will build a temple to His honour, where we and our children's children may worship, and by which generations yet unborn may know how the Saxon reverenced God."  
 >  
 > They chose, therefore, a level place, and all day long they wrought and toiled, and when night came they rested from their labours. But on the morrow, when borne during the night by invisible hands to the top of a round knoll.  
 >  
@@ -206,7 +206,7 @@ In *Legends and Lays of the Wight* first published in 1912, Percy G. Stone lifts
 
 > They had gathered them in from the countryside round  
 > To settle a serious matter.  
-> The question was this:  They sore needed a church  
+> The question was this: They sore needed a church  
 > But they seemed very like to be left in the lurch,  
 > And the whole thing to finish in chatter.  
 >
@@ -358,7 +358,7 @@ place,
 > "Though I'm flattered, the honour I needs must decline  
 > — Besides I'm bespoken elsewhere  
 > When everything's finished, to carving and paint,  
->  Let your church be invoked in the name of each saint  
+> Let your church be invoked in the name of each saint  
 > By whom you're accustomed to swear."  
 >
 > All humbly they cried, 'It shall be as you wish.  
@@ -398,7 +398,7 @@ A [little digging](https://archive.org/details/statutesatlarge50britgoog/page/n2
 > Fourth session of Parliament, February 9th, 1609
 CAP.IV A act for the due execution of divers laws and statutes heretofore made against rogues, vagabonds and sturdy beggars and other lewd and idle persons.
 >
-> Paragraph VII.  And because great charge ariseth upon many places within this realm by reason of bastardy besides the great dishonour of Almighty God, be it therefore enacted by the authority aforesaid. That every lewd Woman, which after this present session of parliament shall have any bastard which may be chargeable to the parish, the justices of peace shall commit such lewd woman to the house of correction, there to be punished and set on work, during the term of one whole year; (2) and if she shall estsoons offend again. That then to be committed to the said house of correction as aforesaid, and there to remain until she can put in good sureties for her good behaviour, not to offend so again.
+> Paragraph VII. And because great charge ariseth upon many places within this realm by reason of bastardy besides the great dishonour of Almighty God, be it therefore enacted by the authority aforesaid. That every lewd Woman, which after this present session of parliament shall have any bastard which may be chargeable to the parish, the justices of peace shall commit such lewd woman to the house of correction, there to be punished and set on work, during the term of one whole year; (2) and if she shall estsoons offend again. That then to be committed to the said house of correction as aforesaid, and there to remain until she can put in good sureties for her good behaviour, not to offend so again.
 
 The act also goes on in more general terms:
 

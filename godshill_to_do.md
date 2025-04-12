@@ -2,7 +2,7 @@
 ---
 
  in 
-Isle  of WIght Clinch
+Isle of Wight Clinch
 https://archive.org/details/isleofwightwithi00clinuoft
 The Isle of Wight
 Front Cover
@@ -125,7 +125,7 @@ In the Synod assembled at Oxford by Archbishop Langton, the thirteenth canon for
 
 A neglect in the observation of these canons occasioned the Bishop to collate to those churches which fell to him by lapse: as fully appears by the register of William of Wykeham, who collated to the Vicarage of Carisbrook, void, as he expressly says, through neglect of the constitutions of Otho and Ottoboni.
 
-There had been great commotions in the island on this occasion, and to what a height they rose at Godshill, are seen in Bishop  Wocdlock's Register, wherein the Monks, with their friends, are recorded to have held the church by force: the Bishop's letter to the King on that occasion, with another on a subsequent one, are inserted in the Appendix *. The Bishop also ordered the Dean of the island, to put the Clerk, collated by him, in possession of the church of Godshill, devolved to him, by virtue of the canon of the General Council.
+There had been great commotions in the island on this occasion, and to what a height they rose at Godshill, are seen in Bishop Woodlock's Register, wherein the Monks, with their friends, are recorded to have held the church by force: the Bishop's letter to the King on that occasion, with another on a subsequent one, are inserted in the Appendix *. The Bishop also ordered the Dean of the island, to put the Clerk, collated by him, in possession of the church of Godshill, devolved to him, by virtue of the canon of the General Council.
 
 
 
@@ -161,9 +161,9 @@ island stories docx
 Noyes, anthology
 Brother Hardekyn Goes Poaching P17 Quarr Abbey Tale
 Fair Handsome Women of the Island P22
-The Tythes of Bonchurch  P34
+The Tythes of Bonchurch P34
 The Charming Behaviour of the Island's Ghosts P35
-The Premature Resurrection of Smuggler Mussel  P45
+The Premature Resurrection of Smuggler Mussel P45
 
 
 Puckaster
@@ -222,7 +222,7 @@ by Warner, Richard, 1763-1857 1795
 https://archive.org/details/MemoirsOfMissionaryPriests
 Memoirs Of Missionary Priests And Other Catholics Of Both Sexes That Have Suffered Death In England On Religious Accounts From The Year 1577 To 1684, Two Volumes In One, 1839
 
-Also Lyre / Lire  etc? Maybe in one of vols of [https://archive.org/details/MemoirsOfMissionaryPriests](https://archive.org/details/monasticonanglic03dugd) Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales: also of all such Scotch, Irish, and French monastaries, as did in any manner relate to those in England
+Also Lyre / Lire etc? Maybe in one of vols of [https://archive.org/details/MemoirsOfMissionaryPriests](https://archive.org/details/monasticonanglic03dugd) Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales: also of all such Scotch, Irish, and French monastaries, as did in any manner relate to those in England
 
 
 https://archive.org/details/bim_eighteenth-century_curious-and-diverting-jo_defoe-daniel_1734/page/n13/mode/2up?q=kett
@@ -338,7 +338,7 @@ By Robert Mudie 1840
 ---
 
 
-Vectis Scenery - Brannon:  Blackgag illustration, p52; also tale sof the clarendon
+Vectis Scenery - Brannon: Blackgang illustration, p52; also tale sof the clarendon
 
 
 ---

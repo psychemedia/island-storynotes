@@ -107,7 +107,7 @@ Ipswich Journal - Saturday 18 December 1779
 Last week at the sessions at the Old Bailey, the counsel for the prosecution of Michael Green, (late of St. Nicholas parish, Ipswich) who pleaded guilty the last sessioms to an indictment for perjury, and sentence was deferred in order that he might make discovery of the real persons who seduced him, informed the court the said Michael Green had at first charged some respectable characters in the city of London; that he had since declared the same to be false, and he had falsely charged other characters equally respectable; that having prevaricated so much, not the least credit could be given any thing he said; that by such means he had aggravated his offence, and moved for judgment accordingly, whereupon the court ordered him to be put in the pillory, and to be imprisoned 12 months in Newgate. *See B 9, Oct. 30.*
 ```
 
-Three months later, a case appears to have been filed against Crowe,  presumably as a result of attempts being made to foreclose on the property mortgaged in the original deal, suggesting that he had not been in a position to mortage the property in the first place:
+Three months later, a case appears to have been filed against Crowe, presumably as a result of attempts being made to foreclose on the property mortgaged in the original deal, suggesting that he had not been in a position to mortage the property in the first place:
 
 > On the 8th of *March* 1780, *Anne Evans* and *William Putland* filed a bill in the *Exchequer*, for the foreclosure of a mortgage of the same premises, alleged to have been executed to *Anne*, by *Robert Crowe*, on the first of November, 1776.
 

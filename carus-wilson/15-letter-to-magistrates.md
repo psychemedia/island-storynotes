@@ -143,7 +143,7 @@ Dr. Wavell, on the part of the magistrates, replied that the bench would do ever
 
 ```
 
-The editors of the Hampshire Advertiser, apparently against their better judgment, also appear to have been entreated to print the memorial in full, finding it hard *"to believe that there exists in the Isle of Wight a place so lost to Christianity, and so devoted to crime, beyond the crying evils of any other place in the kingdom"* and that *"such a social ulceration has been left to fester amidst the general moral healthiness of the island"*. But that does not prevent them from repeating the words of their correspondent who  comments on *"__the torrent of juvenile profligacy and prostitution__, the streams of which literally choke up our principal thoroughfares of an evening"*.
+The editors of the Hampshire Advertiser, apparently against their better judgment, also appear to have been entreated to print the memorial in full, finding it hard *"to believe that there exists in the Isle of Wight a place so lost to Christianity, and so devoted to crime, beyond the crying evils of any other place in the kingdom"* and that *"such a social ulceration has been left to fester amidst the general moral healthiness of the island"*. But that does not prevent them from repeating the words of their correspondent who comments on *"__the torrent of juvenile profligacy and prostitution__, the streams of which literally choke up our principal thoroughfares of an evening"*.
 
 ```{admonition} *The Retrograding State of Morals in Newport*, Hampshire Advertiser, Saturday 06 October 1855
 :class: dropdown

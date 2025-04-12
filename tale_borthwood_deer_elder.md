@@ -119,7 +119,7 @@ Thedyr were prayd by fore the hond".
 Whan all were com to gidyr than  
 Ther was joy of mani a man;  
 
-MSS. Harl. 2252. 44. f. 54. And in the library of Lincoln cathedral, (K k. 3, 10.) is an ancient  imperfect printed copy, wanting the first sheet.
+MSS. Harl. 2252. 44. f. 54. And in the library of Lincoln cathedral, (K k. 3, 10.) is an ancient imperfect printed copy, wanting the first sheet.
 
 *Bras de fer*. Iron arms,  
 
@@ -131,7 +131,7 @@ Before-hand.
 
 Ffull  
 
-ENGLISH   POETRY. 199  
+ENGLISH POETRY. 199  
 FfuU ryche I wene were there pryfe,  
 Ffor better might no man devyfe.  
 Ippomedon that day fervyde in halle.  
@@ -170,7 +170,7 @@ Or over the ftraunge ryvere j
 
 Ne  
 
-200 THE   HISTORY   OF  
+200 THE HISTORY OF  
 Ne no man telle what I am  
 Where I fchall go, ne where I came.  
 All they graunted his commaundement.  
@@ -208,7 +208,7 @@ anciently in England ladies were sheriffs of counties.
 
 "And  
 
-ENGLISH   POETRY. 201  
+ENGLISH POETRY. 201  
 "And brynge them alle bifore mc  
 "Ffor welle at efe Ihall thei be."  
 Thei took heyr pagis hors and alle,  
@@ -245,7 +245,7 @@ She fayd, "Syr, welcome ye be,
 Iicarn. "^ Handfome.  
 D d " Of  
 
-202 THE   HISTORY   OF  
+202 THE HISTORY OF  
 "Of the cuppe ye fhall ferve me  
 "And all your men with you fhal be,  
 "Ye may dwell here at your wille,  
@@ -282,7 +282,7 @@ And drewe a lace of fylke ful clere.
 * Unlefs. « Walked. ' Behaviour. « " Who is to fcrvc."  
 Adowne  
 
-ENGLISH   POETRY. 203  
+ENGLISH POETRY. 203  
 Adowne than felle hys mantylle by,  
 He preyed hym for hys curtefy,  
 That lytell gyfte ^ that he wold nome  
@@ -321,7 +321,7 @@ D d 2 She
 
 204  
 
-THE   HISTORY   OF  
+THE HISTORY OF  
 She hire bi thought of a quayntyfe,  
 If fhe miht know in any wife.  
 To wete whereof he were come;  
@@ -358,7 +358,7 @@ Plucked down dere all atryfe,
 » f. Tempt. '' Beaft.  
 Ippomedon  
 
-ENGLISH   POETRY. 205  
+ENGLISH POETRY. 205  
 Ippomedon he with his hounds throo  
 Drew down both buck and doo.  
 More he took with houndes thre  

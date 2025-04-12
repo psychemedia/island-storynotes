@@ -75,7 +75,7 @@ Around about the same time — June 1849 — it seems as if the magistrates were
 
 At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up fron the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as conmon prostitutes, and having been found in the streets late at night. The mayor said the magistrates were determined to put down such open and gross vice and immorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
 
-Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.—  Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
+Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.— Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
 
 ```
 
@@ -204,7 +204,7 @@ Advertisements announcement the laying of the foundation stone appeared in the l
 
 NEWPORT, ISLE OF WIGHT
 
-The Foundation Stone of the New Church of St. Thomas will be laid by  H.R.H. Prince Albert at One p.m., on Thursday, 24th August, 1854.
+The Foundation Stone of the New Church of St. Thomas will be laid by H.R.H. Prince Albert at One p.m., on Thursday, 24th August, 1854.
 
 Seats affording a view of the ceremony will be erected.
 
@@ -411,7 +411,7 @@ Spacious galleries had been erected, and these were filled by the fashionables o
 His Royal Highness, accompanied by the Mayor and Masonic officers, walked through the portal of the church tower, and the positions were taken up as follows :—
 
 Town Clerk, Equerries. The Bishop's Chaplain, James Eldridge, esq. Rev. E. M'All.  
-The Mayor, F. Pittis, esq. His Royal Highness Prince Albert. The Lord Bishop of   Winchester.  
+The Mayor, F. Pittis, esq. His Royal Highness Prince Albert. The Lord Bishop of Winchester.  
 The Mayor's Chaplain, Rev. Mr. Wallis. THE STONE. The Rev. E. D. Scott, Vicar of Carisbrooke.  
 Provincial Grand Master, T. W. Fleming, esq. The Rev. G. H. Connor.  
 Deputy Provincial Grand Master. Architect, Mr Daukes. Minister of St. Thomas's Church.  
@@ -518,7 +518,7 @@ We cannot close our report without making mention of the scurvy treatment got at
 
 ```
 
-The Queen duly toasted, Mayor Pittis then raised a toast to "the illustrious Prince" and the other members of the royal family, followed by a toast to the health of the  Lord Bishop of Winchester and his faithful clergy.
+The Queen duly toasted, Mayor Pittis then raised a toast to "the illustrious Prince" and the other members of the royal family, followed by a toast to the health of the Lord Bishop of Winchester and his faithful clergy.
 
 ```{admonition} The Mayor's toasts to the Prince and the Bishop
 :class: dropdown
@@ -563,7 +563,7 @@ Mr. W. B. Mew also acknowledged the compliment.
 
 The Mayor said with the next toast he had really arrived at the foundation. They looked around and thought of the men who had originated the work, and, with the exception of those who had been called to their fathers, had steadily persevered in it up to the present time, those gentlemen being the Church Building Committee— (cheers). In the first place there was a strong feeling that the church should be renovated, but this being found impossible, they then set themselves to the work of erecting a new building, and they pledged themselves, collecting subscriptions from year to year, to commence the building within a period of five years. They had to fight a great battle to get together their funds, and had carried out their intention at the expiration of the fifth year of their labours— (cheers). There was one gentleman whose exertions had been most strenuous, who had given them sound advice, and had been constant in his attendance on the committee: the Rural Dean was known throughout the length and breadth of the Island—(cheers), his kindness and condescension were proverbial, and they had much thank him for that the church was commenced that day He called upon them to drink the health of the Rev. E. M'All and the Church Building Committee —(cheers).
 
-The Rev. E. M'All * could not express the gratitude he felt at the high consummation at which they had arrived that day, a consummation which would give to the town of Newport, and to the whole of the Isle of Wight,  a church worth of its metropolis— (cheers).
+The Rev. E. M'All * could not express the gratitude he felt at the high consummation at which they had arrived that day, a consummation which would give to the town of Newport, and to the whole of the Isle of Wight, a church worth of its metropolis— (cheers).
 
 The Mayor said the next health was that of the Rev. E. D. Scott, the Vicar of Carisbrooke, whose desire at all times was do that which would prove of advantage to them, and add to their general contentment here and happiness hereafter. The gentleman would make a most important announcement but before doing so they would have the gratification of drinking his health — (great cheering ).
 

@@ -62,12 +62,12 @@ On the 11th inst., at Ventnor, Mary, wife of the Rev. Carus Wilson, aged 70 year
 
 And then, as so often happens with couples that have lived closely together, and nursed each other through old age, Revd. W. W. Carus Wilson died, at the very end of the year, in London, just six weeks after the death of his own dear wife.
 
-```{admonition} On the 30th  ult., January 1860
+```{admonition} On the 30th ult., January 1860
 [Isle of Wight Observer - Saturday 07 January 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600107/029/0004)
 
 Died.
 
-On the 30th  ult., at 20, Montague-place, Russell-square, the Rev. William Carus Wilson, aged 68 years, six weeks after the death of his beloved wife.
+On the 30th ult., at 20, Montague-place, Russell-square, the Rev. William Carus Wilson, aged 68 years, six weeks after the death of his beloved wife.
 ```
 
 ```{admonition} At 20, Montagu-place, Russell-square, January 1860
@@ -186,9 +186,9 @@ Yet a more agreeable light falls upon Mr. Carus Wilson when we read of his work 
 
 One of the largest brewers in Portsmouth was "convinced of the sin which the sale of his beer caused and decided to abandon his prosperous business altogether," writes Miss Ewbank. The police reported that there was a "visible decrease in the amount of drunkenness and disorder." Many of us, by no means teetotal fanatics, could wish for a Carus Wilson today.
 
-The great Lord Shaftesbury  praised his work in Portsmouth. Week after week Mr. Wilson came over from Ventnor to Portsmouth to preach to the soldiers despite bad weather and ill-health; he was in continual pain.
+The great Lord Shaftesbury praised his work in Portsmouth. Week after week Mr. Wilson came over from Ventnor to Portsmouth to preach to the soldiers despite bad weather and ill-health; he was in continual pain.
 
-In St John's Church, Newport, Isle of Wight, is a fine, white  marble monument, sculptured by R. Westmacott. R.A., erected to the memory of the Rev. Carus Wilson, by "The Non-Commissioned Officers and  Privates of the British Army in token of their love and gratitude."
+In St John's Church, Newport, Isle of Wight, is a fine, white marble monument, sculptured by R. Westmacott. R.A., erected to the memory of the Rev. Carus Wilson, by "The Non-Commissioned Officers and Privates of the British Army in token of their love and gratitude."
 
 "THAT GOOD MAN"
 
