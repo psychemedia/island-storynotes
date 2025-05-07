@@ -7,6 +7,12 @@ http://woottonbridgeiow.org.uk/wibook/calbourne.php
 
 ---
 
+https://www.victorianresearch.org/atcl/show_title.php?tid=10388&aid=2767
+Title: The Spies of the Wight
+Author and Title: Headon Hill. The Spies of the Wight
+First Edition: London: C. Arthur Pearson, 1899. 1 volume, cr. 8vo., 3s. 6d.
+https://www.victorianresearch.org/atcl/show_author.php?aid=2767 (lived on the Island)
+
 ## Judas Trees
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18850613/095/0008
