@@ -14,25 +14,25 @@ I'm sure you've all heard of him? From the later 1400s, the time of the War of t
 
 If not, you'll have heard of his sister. Or at least, her sons, Edward's nephews: the Princes in the Tower, killed by Richard III to shore up his claim to throne.
 
-In fact, many of the Woodville family had interesting tales to tell: let's start with Edward Woodville's mother, Jacquetta. Her brother-in-law, from the House of *Lancaster*, was Henry V, and her nephew Henry VI, also of *Lancaster*.
+In fact, many of the Woodville family had interesting tales to tell, starting with Edward Woodville's mother, Jacquetta. She was sister-in-law to Henry V, the second of the Lancastrian kings, and aunt to Henry VI.
 
-When her husband, the Duke of Bedford (Henry IV's brother) died, Jacquetta, still aged only 21, remarried one of her husband's knights, Richard Woodville, Edward's father.
+When her husband, the Duke of Bedford, Henry V's brother, died, Jacquetta was still young, oonly 21 or so, and, amid some scandal, was quickly remarried to one of her husband's knights: Richard Woodville.
 
-Edward's aforementioned sister, Elizabeth, whose first marriage ended with the untimely death of *her* husband, who had been a supporter of the House of Lancaster. But then she secretly married the *York*ist King Edward IV. As well as being mother to "the Princes in the Tower", Elizabeth had had several other notable children, not least the short lived King Edward V, and a daughter called Elizabeth.
+Between them they had several children including a son, Anthony, who became something of tournament superstar, well known for his jousting ability, and another, Edward, who this story is about. They also had several daughters.
 
-That Elizabeth, Edward's niece, Elizabeth *of York*, went on to marry the first of the *Tudors*, Henry Tudor, which is to say, Henry VII.
+Like her mother, Edward's sister, Elizabeth, married young, then remarried again at the death of her first husband. He had been a supporter of the House of Lancaster, but on his death, as the story has it, Elizabeth's mother, Jacquetta, had worked some magic on the new Yorkist King, Edward the IV, and beguiled him with a charm that caused him to fall madly in love with Elizabeth. They married in secret, and ?? TO DO
 
-So looking sideways across three generations, this makes Edward's mother the sister-in-law of a Lancastrian King, and his sister the wife of a Yorkist King and the mother-in-law of a Tudor one.
+Even if you haven't heard of that Elizabeth before — Edward Woodville's sister —  you probably have heard of her sons, if only by reputation: they were "the Princes in the Tower", as famously killed by their uncle, Richard the Third, who immediately put an end to any future claims on the throne from that particular branch of the House of York to an end. At least for a while. Because Elizabeth Woodville's eldest daughter, who was also called Elizabeth, would complete the set of marrying into royal houses by marrying the first of the Tudors - Henry Tudor, Henry the Seventh. Again, you may not have heard of him, buyt you probably have heard of *his* son: Henry the Eighth, he of the many wives, and father of another Elizabeth you really will have heard of: Queen Elizabeth the First.
 
-Needless to say, it also means that Edward's niece had an interesting family story. Not only was she the daughter of Edward IV (York), she was also the sister of Edward V (York), the niece of Richard III (York), and, incidentally, by virtue of her marriage to Henry VII (Tudor), the mother of two queens: Margaret, Queen of Scotland, and Mary, Queen of France; she was also the mother of our very own English Henry VIII, and the grandmother of Edward VI, Mary I, and Elizabeth I. Got that?
+But this story isn't about them. It's about Edward Woodville, son of a knight to the brother of a Lancastrian King, Henry the Fifth, brother-in-law to the Yorkist king Edward the Fourth,  uncle to another, briefly, Edawrd the Fifth, who died as one of the Princes in the Tower, and then uncle-in-law, if such a thing exists, to the first of the Tudor Kings, Henry the Seventh.
 
-But this story isn't about them. It's about Edward.
+At one time, he'd been a drinking buddy of King Edward IV (his brother in law, remember) and he'd now been called up to court to be invested in the order of the Garter by Henry Tudor, which is to say, Henry the Seventh, who'd married his niece.
 
-Edward: one time drinking buddy of the King Edward IV and now called up to court to be invested in the order of the Garter by Henry VII. It's 1488, and waiting outside are two emissaries from Bittany. When Henry had been exile, he'd been protected by Brittany, although it was France that helped him take the English throne. Brittany and France were, at that time, two separate kingdoms.
+It's 1488. Waiting outside, are two emissaries from Brittany. At the time, Brittany and France were two separate kingdoms, at loggerheards with each other. In previous years, Henry had done a stint in exile in Brittany, although it would end up being France who helped him out to take the English throne.
 
-France was laying claim to Brittany, and with a threat of invasion, the Bretons sought the help of the King of England. In a master stroke of diplomacy, Henry, who perhaps owed both sides his allegiance, had been given the role of mediator, but now the Bretons explicitly asked for his help.
+But now, with France laying claim to Brittany, and threatening invasion, the Bretons sought the help of the King of England they'd previously protected. Henry, who perhaps owed both sides his allegiance, had been given the role of mediator, but now the Bretons were explicitly asking for his help.
 
-"No can do" he said, although we might perhaps imagine the language he used was very particular, very Johnsonian... "No one from *this* island, *this island of __Britain__*, of which I am sovereign, and *upon which I now stand* will help you" perhaps? Listening closely, a long time ally of Brittany, is Edward Woodville. Edward Woodville, Captain of the Isle of Wight. An island just a short hop away from what some locals still today call "the big Island".
+"No can do" he'd apparently said, but perhaps in such a way that perhaps included a get out clause ... "No one from *this* island can help you" perhaps? "No-one, from this island, *this island of __Britain__*, of which I am sovereign, and *upon which I now stand*, can help you." So did you hear the get out clause? Because Edward Woodville, now Captain of the Isle of Wight, and a long time ally of the Bretons, thought he did. That'll be no-oe help from the Big Island then...? But that's not the Isle of Wight, is it?
 
 Woodville pleads with the King, but the King has spoken. And so, Edward returns home, across the Solent. To another island. Accompanied by the two Breton ambassadors.
 
