@@ -146,7 +146,7 @@ The Night Schools for the labouring classes, which were established in this town
 
 COWES
 
-The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by the ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for the welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed iheir sbops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
+The Marriage of H.R.H. the Princess Royal. — In celebration of this auspicious event, the children of National Schools of this town were regaled on Monday last with dinner after the good old English style of roast beef and plum pudding, provided by the ever-active benevolence of the Misses Ward and a few other charitable persons. The arrangements were ably superintended by the Rev. W. C. Wilson, whose energetic efforts for the welfare and improvement of our juvenile population since he has been among us have won for him golden opinions from all parties. Many of the leading tradesmen of the town closed their shops so as to give their assistants a holiday, but no other manifestation of rejoicing took place, nor was there any public dinner or ball, although we are so near the favourite abode of Royalty.
 
 ```
 

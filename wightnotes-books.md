@@ -301,7 +301,8 @@ Bullar, John
 1825
 https://books.google.co.uk/books?id=wBIHAAAAQAAJ
 
-A companion to the Isle of Wight; comprising the history of the island, and the description of its local scenery, as well as all objects of curiosity, Albin, John
+A companion to the Isle of Wight; comprising the history of the island, and the description of its local scenery, as well as all objects of curiosity,
+Albin, John
 1823
 https://archive.org/details/companiontoisleo00albi
 
@@ -314,7 +315,6 @@ A new and accurate description of all the direct and principal cross roads in En
 Paterson, Daniel,
 1811
 https://archive.org/details/anewandaccurate00freegoog
-
 
 Vectiana, or a Companion to the Isle of Wight
 By John Albin
@@ -365,6 +365,11 @@ A Tour to the Isle of Wight volume II
 Tomkins, Charles
 1796
 https://archive.org/details/atourtoislewigh01tomkgoog
+
+A new, correct, and much-improved history of the Isle of Wight
+Albin, John
+1795
+https://archive.org/details/bim_eighteenth-century_a-new-correct-and-much_albin-john_1795
 
 The history of the Isle of Wight; military, ecclesiastical, civil, & natural: to which is added a view of its agriculture
 Warner, Richard
