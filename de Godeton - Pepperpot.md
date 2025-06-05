@@ -1,37 +1,6 @@
 # Walter de Godeton and the Pepperpot
 
-*An account, then a story...*
 
-## The History of the Pepperpot
-
-If you look at map of the Isle of Wight, you'll see it takes the form of a diamond sitting just off the south coast of the Big Island, mainland England, across the Solent from Portsmouth and Southampton.
-
-The southernmost tip is known as St Catherine's Point; it's flanked by the village of Niton to the East, and Blackgang Chine to the West.
-
-Looking inland, you'll see St Catherine's Hill looming in front of you, topped off by St Catherine's Oratory, commonly known as *the Pepperpot*.
-
-In the early 1300s, in the reign of Edward II, the sea provided as much of an income to the Islanders living thereabouts as the farming. And not just from fishing... 
-
-...but also from wrecks.
-
-In year of 1313, on the Sunday after Easter, the Saint Mary, of Bayonne, went down on Atherfield Ledge in Chale Bay. Carrying 174 tuns [large casks, each containing approximately 252 gallons] of white wine from France, the majority of the crew survived, and many of the barrels were washed ashore.
-
-According to chapter of IV of Edward I's Statute of Westminster of 1275, *CONCERNING Wrecks of the Sea*, it was agreed "That where a Man, a Dog, or a Cat escape quick out of the Ship, that such Ship nor Barge, nor any thing within them, shall be adjudged Wreck"; any goods washing ashore from them would be held for a year and a day so that the owner could reclaim them.
-
-Some stories have it that the survivors proceeded to sell the wrecked barrels at a discount rate; but whatever happened that night, the barrels made their way into the hands of the Islanders.
-
-The merchants who had lost their goods were, unsurprisingly, not very happy about it, and took the case to court in Southampton at the start of June; they appealed their £1000 loss, perhaps three quarters of a million pounds in today's money, perhaps more, with charges laid against those who ended up receiving the goods.
-
-The case dragged on in further sessions until a hearing in the first week of Lent the following year, February 1314. Islander Walter de Godeton, of Gotten Manor, was charged with receiving over fifty barrels of the salvaged wine and fined a considerable sum: 150 pounds or so in the money of the time. To compel the payment of such a hefty amount, much of his goods and lands were seized until payment could be made.
-
-The fine does not appear to have changed his attitudes much though: his name appears again court records of 1323 regarding receiving goods from the wreck of the Jesus Christ, a Portuguese cargo vessel wrecked off Brighstone in 1318.
-  
-But the story doesn't stop there for de Godeton. At least some of the cargo that had been lost from the St Mary had been destined for a monastery in Northern France; to plunder it was sacrilege. According to [web legend](https://h2g2.com/edited_entry/A87770334) / some accounts, the Pope summoned de Godeton to the ecclesiastical court in Rome, where he was told that he would be "excommunicated from the church and his soul would be damned to burn in Hell for all eternity" unless he performed an act of penance. To atone for his sin, he agreed to provide a 'chaunting priest' to say masses for his soul, for those of his ancestors, and for all those souls lost at sea, along with 'a light for the benefit of mariners, to be lit every night for ever'. The site was to be on Chale Down, where a smaller hermitage had been established the previous year. Although only the foundations of the oratory have survived as earthworks still visible today (??), the lighthouse remains in the form of the 35 foot high tower known locally as "the Pepper Pot", Britain's only surviving medieval lighthouse. (Only the Roman lighthouse at Dover is older.)
-
-The old lighthouse itself has an eight-sided pyramid shaped roof with eight rectangular openings, unglazed windows, you might say, to allow the light from a fire set at the top of the tower to be seen at sea. The four buttresses that strengthen the lower part of the tower were not part of the original lighthouse, but were added in the 18th century.  ??date
-
-
-completed 1728, de godeton died the year before
 
 The end of the oratory as a religious site came with the dissolution of the monasteries in ???, but the lighthouse continued to operate until 17??; another one started in 1785 ?? (circular stump forming the base remains still there), but never completed.
 
@@ -43,61 +12,7 @@ And thereby lays another tale...
 
  The lighthouse, which formed the western tower of the oratory is all that survives of the original building. However, the remains of the walls, are visible as earthworks forming three sides of a square with the lighthouse on the open, west, side. The oratory walls are about 12 metres apart and survive to a height of one metre
 
-  
 
-
-
----
-
-## Walter de Godeton and the Shipwrecked Wine
-
-Walter de Godeton, Lord of the Manor, liked nothing better than supplementing his meals with a large goblet of wine.
-
-And why not?
-
-Life was good. He had land, and it was productive enough. There was trade for those who had a mind to dabble in such things. And living on an island, and close to the sea at that, the sea would often provide: crab, lobster, the oyster beds to the north of the island; and mackerel: on a fair day, at the right time of year, you could fair see the mackerel from the top of the cliff, swimming just above the sea ledge below.
-
-And oh, my, how the sea had provided today. With Easter just a week gone by, bringing with it the end of Lent, the time for self-restraint was over. And whilst it wasn't the nicest of Sundays – a storm had rolled in after all – the Lord had provided: a ship, the Saint Mary — oh, Hail Mary for providing for us so – sailing too close to shore in an attempt to avoid the worst of the sea, had run aground.
-
-*Now don't me wrong, there was no sign of wrecking in these parts, it was an unfortunate accident, no more no less, God's doing if anyone's. And the saving of the crew was surely God's work too.*
-
-The islanders were quick to make the shore, they always were: the law of the kingdom was quite clear: if Man, Dog, or Cat escape the ship alive, it would be judged a wreck, and as such, any goods washing ashore were to be held for a year and a day so that the owner could reclaim them. But the local tradition was also a bit more circumspect: if things washed ashore where your land abutted the sea, well, then those things were rightfully yours.
-
-True, if it looked like there may only be one or two survivors, then maybe, maybe, the sea would reclaim them, and, ahem, well, then maybe things could turn out a little differently. But when it was clear that many of the sailors could be saved, the islanders would be quick to come their aid; and no less quick to help salvage what they could.
-
-Now it was also true that merchant sailors were a resourceful and pragmatic bunch too. After all, goods could be lost to the sea as easily as they could come ashore; and, well, if an agreement could be made to sell, at a discount, what might have been lost were it not helpfully brought ashore, well, then you did what you could to make the best of a bad job and try to recover something having lost your ship.
-
-Who knows whether the sailors were complicit, or profited that day. Nor how many of the 174 barrels of wine on board the St Mary, each containing 250 gallons or so of the finest wine, the finest wine indeed, made it ashore. But many of the barrels did... And so whether a hasty deal was done, right there, right there on the shore, or perhaps more leisurely, in one of island inns when the storm had abated and the salvage accounted for, or whether the sailors had no choice in the matter as the barrels were whisked up the chines, de Godeton had done well for himself: for he had secured near enough fifty of the barrels for himself. 50 barrels. Oh, he'd be able to turn a tidy profit on that, no doubt.
-
-Yes, thought de Godeton. Things were going well.
-
-But... there's always a but... The merchant who had chartered the ship was not happy; not happy at all.
-
-When he heard of the wreck, he was keen to recover his wine. But those good for nothing sailors - why, by whatever law of the sea you cared to reckon against: that wine was still his. The sailors for sure would not be able to pay him back, but he'd make those pay who had profited from the sale of that wine, God Preserve his soul. The charges were laid, first at the county court, then, when he still failed to get restitution, to a Commission at Westminster. By God, he would take it to the very King himself if he must.
-
-de Godeton played the innocent. First, he claimed to have had nothing to do at all with *illegally* receiving the wine; then, he claimed he had bought it, fair and square, from the crew of the wrecked ship. He was not a sailing man, after all, and the law of the sea, well, he took it on trust that the sailors were entitled to sell him the wreckage. It had been their ship after all.
-
-The jury, city men, not sailors, not provincial landowners, sided with the merchant. de Godeton, for the 50 barrels or so of wine he had received, should pay for his crime. At five marks a barrel (that's 13s 4d in new old money), the fine came in at well over 200 marks, £150 or so, maybe £100k in today's money.
-
-Now there was no way that de Godeton could cover that sort of fine just like that. It would take time to pay off such a sum, even for a relatively wealthy landowner. And the rate he would have got selling on the wine, and perhaps the costs of transporting it for sale to the mainland, would surely not have been the full market price used to calculate the fine.
-
-And so it was, that until such a time as de Godeton could pay off the debt, his goods and half his lands and tenement leases would be used as surety. The horses and oxen to pull his ploughs he could keep: he would need to have some means of paying back the fine, after all.
-
-Now, you might think that was punishment enough. But God works in a mysterious way. For it wasn't just the merchant who was so affronted by the loss of his wine from the St Mary. The Church wasn't happy either. De Godeton's luck was about to get to get a whole lot worse.
-
-For the wine, the very fine wine, wasn't just any wine. It was intended as communion wine, headed for an Abbey in another Kingdom. And the Abbott who had been looking forward to the arrival of the wine, for religious purposes, of course, was livid. This was plunder. This was SACRILEGE, an offence against the Church, an offence against God, the very despoilation of the Blessed Virgin Mary. No mere county assizes this time. As the story has it, this was a matter for a Papal court.
-
-And so it was: having been convicted once already in a legal court, the Papal Court had no hesitation in finding against de Godeton and his crimes against the Church, his crimes against God: de Godeton would have to pay the ultimate sacrifice, excommunication, his soul damned to burn in Hell for all eternity, unless he atoned for his sins by creating a marker, a beacon, to benefit mariners and warn them of the treacherous nature of the coastal boundary to de Godeton's land; and de Godeton was also to pay for a chaunting priest in that place to keep the light burning and to pray for his very soul, for his ancestors, and for all those souls lost at sea.
-
-And here the tale does end. The lighthouse was built, although de Godeton was to die before it was fully completed. As to whether his soul was saved in time, or damned to eternity, who can say?
-
-The lighthouse still stands to this day, on the high down just inland from the southernmost point of the Isle of Wight, Britain's only surviving medieval lighthouse, with only the Roman lighthouse at Dover being older. Known officially as St Catherine's Oratory, it's rather unusual octagonal shape gives it its more colloquial, local name: The Pepperpot.
-
-If you are fortunate enough to ever walk up there, you can look down onto the ledge, where on a dark and stormy day in 1313, on the Sunday after Easter, the Saint Mary of Bayonne was blown onto the ledge, and her cargo of communion wine washed ashore.
-
-And de Gotten's ancestral home: that exists still, too, as Gotten Manor. It's a B&B now. Tell them I sent you.
-
-Cheers...
 
 ----
 
@@ -232,215 +147,6 @@ Percy Stone, architect & antiquary, acts as advisor. [A programme for this is in
 1910 Percy Stone excavates at St Catherine’s Oratory (and earlier at Quarr Abbey).
 Lived at Merstone, died 1934
 The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth centuries inclusive, 1891
-
-https://archive.org/details/legendslaysofwig00ston/page/30/mode/2up?ref=ol
-Legends and lays of the Wight
-by Stone, Percy Goddard
-
-Publication date 1912
-
-pp. 31-37
-
-ST. CATHERINE'S (1314)
-
-On a stormy night in the winter of 1314, one of a fleet of ships chartered by merchants of Aquitaine to convey a consignment of wine to England, struck on the treacherous Atherfield ledge with the result told in the legend. An account is given — in the Abbreviation of Pleas, Hilary Term, 1315 — of the merchants' claim for redress against Walter de Godyton, urging the cargo was no 'wreck of the sea.' Certain it is that De Godyton built the oratory and pharos on the down, as an inquisition as to its endowment, held in August 1328, states that he was the founder and that it was built 'to give light to those sailing these perilous seas by night.' The amount of wine in question was considerable, being one hundred and seventy-four casks, each of the value of five marks, of which De Godyton had fifty-three. How Holy Church came in is not so plain, but a Papal Bull threatening excommunication was fulminated against the delinquent unless due restitution and penance was made. The rest is legend.
-
-Wild sweeps the wrack from the gates of the West.  
-Loud roars the rage of the sea;  
-Bitter the edge of the Atherfield-ledge,  
-From the which God keep us free!  
-White gleam the teeth of the surges high  
-And ghsten the rocks for their toll;  
-Black race the clouds o'er the face of the sky  
-Like fiends in pursuit of a soul.  
-Go, all who have kin on the sea this night  
-And pray on your bended knee;  
-That, while you sleep, the good Lord will keep  
-Those who sail on this storm-swept sea.
-
-The 'Bon Venture' of the Abbot of Quarr  
-Is home from the land of France,  
-Deep lade with cloth and the good red wine  
-That makes the red blood dance.  
-The leadsman checks the knotted line  
-That guides the helmsman's hand,  
-The look-out's beard is stiff with rime  
-As he strains his eyes for land.  
-'I cannot the narrowing coast descry,  
-Nor the Abbey's beacon see.  
-*Christ's body! We've missed the Needle's eye,*  
-*And there's broken water a-lee.*
-
-'Now, lady of Whitwell, be our aid —  
-We vow thee an altar light.  
-Good Nicholas, saint of shipmen bold.  
-Preserve us all this night.'  
-But the pitiless wind and the treacherous tide  
-Hold the good ship in their sway;  
-In vain the anchor is cast — it drags.  
-She strikes ere break of day.  
-And it's, oh! the crash of timbers rent,  
-By the grim rocks' savage edge.  
-And it's, ah! the shrieks of drowning men  
-Who for want of a light must perish this night  
-By the cursed Atherfield-ledge.
-
-Sir Walter de Godyton sits in hall  
-And makes him right good cheer:  
-'A stormy night on the shores of Wight  
-Should drive the wreckage here.  
-Good ship oak to mend the hearth,  
-Rich stores that may not sink,  
-And, if perchance she hail from France,  
-Good Gascon wine to drink.  
-So haste ye down by morrow's dawn  
-And search along the bay  
-For flotsam and jetsam — 'Tis my right,  
-Which none shall me gainsay.'
-
-The Abbot of Quarr in his chapter-house  
-Reclines in his oaken stall,  
-And the monks sit round on the narrow bench  
-That skirts the pillared wall.  
-They weigh the convent's state full well  
-And deal with the good and ill,  
-And reckon the rents of the broad fat lands  
-They own in dale and hill.  
-Anon they 're aware of a hatless man  
-At the arch of the cloister door.  
-'Father Abbot,' he cries, 'a wreck she lies.  
-Your ship, on the southern shore.'
-
-'She drove on the teeth of the Atherfield-ledge,  
-In the storm of yesternight;  
-Between the rocks and the waters' swirl  
-She was gone ere morning light,  
-And her cargo lies scattered along the shore  
-From Chale to Compton-chine —  
-Corded bales of broidered cloth  
-And casks of Gascon wine.  
-And, good Father Abbot, alack-a-day,  
-The worst is yet to tell:  
-The lord of Gotten hath seized the whole  
-And defies you, book and bell.'
-
-The Abbot starts from his cushioned seat  
-And his brow grows black with wrath.  
-'By our Lady of Quarr, I'll have the law  
-Of the rogue!' he thunders forth.  
-'With ruffled plumes and ratings sharp  
-I'll send this hawk to perch.  
-Who dares to lay his greedy claws  
-On goods of Holy Church.  
-Haste, Brother Gervase, warn him well  
-Who would with abbots cope.  
-An he refuse, we'll bear the news  
-To His Holiness the Pope.
-
-The lord of Gotten he laughed aloud 
-When the message he received.  
-'So it's leaving home on a journey to Rome  
-Is your master. News, indeed!  
-For the empty threats of a greasy monk  
-I care not a *maravedi*.  
-I'll hold to my right like a gallant knight —  
-All else may go hang for me.  
-Possession's nine points of the law, I've heard,  
-So tell this abbot of thine  
-I'll clothe my men in his dornix cloth  
-And drink his Gascon wine.'
-
-The Abbot has sought his father the Pope  
-And unfolded his tale of woe.  
-And the Pope has sworn by his triple crown  
-That the matter shall not rest so.  
-'The scurvy knight shall feel the might  
-Of Holy Church,' quoth he,  
-'Go, bring me candle, book, and bell,  
-I here pronounce decree.  
-Be he living or be he dead,  
-Be it early or late,  
-No prayers for him shall hence be said —  
-Be he excommunicate.'
-
-The Abbot he hies him home again  
-And gathers his chapter round.  
-'I 've here,' said he, 'the Pope's decree,  
-'Twill bring this knave to ground.  
-I'll teach him pious monks to flout  
-And Holy Church defy.  
-This robber Knight, despite his boast,  
-*Peccavi* soon shall cry.  
-Go wide proclaim him now without  
-The Church's pale to be.  
-Who'll win the fight 'twixt Church and might,  
-We'll see right speedily.'
-
-So Gotten's lord ere long doth feel  
-The weight of Church's hand.  
-For none will bring him bite or sup  
-And none will till his land.  
-All Church's rites from him withheld,  
-He's now in parlous way;  
-Of all he meets, there's none that greets  
-Or gives him e'en good day.  
-'Alas! my deeds on me recoil,  
-My sins I here declare;  
-I will ere too late to the Abbey gate,  
-And crave for mercy there.'
-
-Sir Walter had saddled his hackney stout  
-And sought the Convent gate,  
-But the doors are shut against the face  
-Of the excommunicate.  
-'I have sinned, I have sinned, Father Abbot,' he cried;  
-'Take pity — take pity on me.  
-I here repent of a life misspent,  
-Annul this fell decree.  
-Remove this ban from me and mine;  
-I'll restitution make,  
-And any penance Mother Church  
-Doth set, will undertake.'
-
-Whereat the oaken gates swing back.  
-And he falls on bended knee  
-As the Abbot, with chant and incense sweet.  
-Comes forth to set him free.  
-'Of a life misspent, an thou true repent.  
-This shall thy penance be —  
-On Catherine's height shalt burn a light  
-And pray for those at sea.  
-A beacon fair of goodly stone  
-Shalt rear on the cliff's steep edge,  
-That never again in the annals of Wight  
-A vessel be lost for need of a light  
-On the deadly Atherfield-ledge.'
-
-So he rose from his knees all humble wise  
-And led his horse within,  
-And he took the vows of the brotherhood,  
-Salvation's crown to win.  
-'Thy blessing, my father, thy blessing I crave.'  
-'My son, *Benedicite*.  
-Sir Walter de Godyton erst thou wast,  
-Brother Walter henceforth shalt be.'  
-So he builded the Tower of Island stone  
-And he set the lamp therein,  
-And ever at night he tended the light  
-And thus atoned for sin.
-
-By day he prays for all mankind,  
-By night he trims the lamp  
-On the lonely crown of Catherine's Down,  
-Where the mists hang chill and damp.  
-In storm and stress that beacon bears  
-A welcome message far.  
-And shipmen call a blessing down  
-Upon its guiding star.  
-And the good monk vows at the altar's step.  
-As the flame shines clear and bright,  
-'No vessel more on that treacherous shore  
-Shall be lost for want of a light.'
 
 
 https://archive.org/details/in.ernet.dli.2015.502008
@@ -729,5 +435,52 @@ February 5, 1887.
 Also gives a history of Quarr
 
 
+--
+
+https://archive.org/details/historywinetrad01simogoog/mode/2up
+
+The History of the Wine Trade in England
+by André Louis Simon
+
+Publication date 1906
+
+pp. 180-3
+
+TO DO
+
+The reign of Edward II., like that of every weak monarch, was characterised by a recrudescence of outrages at sea.
+
+No fact in the naval history of the 13th and early part of the 14th centuries is more remarkable than the piratical habits of the sailors of this and other countries. During a truce or peace, ships were boarded, plundered, and captured by vessels of a friendly power, as if there had been actual war. Even English merchant-ships were attacked and robbed, as well in port as at sea, by English vessels, and especially by those of the Cinque Ports, which seem to have been nests of robbers. Judging from the numerous complaints recorded, it would appear that a general system of piracy existed which no Government was strong enough to restrain. Remonstrances and demands for satisfaction were constantly made by one sovereign or another, for some aggression committed against his subjects at sea ; and when justice was not obtained, letters of marque and reprisals were granted, which were, in fact, permission for individuals to take the law into their own hands, and to obtain compensation for their own private injuries from any innocent countryman of the aggressor. `[Nicolas, Hist, of the Royal Navy, vol. I., p. 357.]` Many of these lawless proceedings were directed against wine merchants.
+
+In 1308, a complaint was lodged by Luke Stuyit, merchant of Southampton, that certain Spaniards, some of whom he asserted were staying in the town of Southampton, had attacked his ship laden with wines, when on the high seas on a voyage from Gascony to Southampton, and having plundered the cargo, had scuttled the ship, which was worth £100 sterling. `[Commission of oyer and torminer to John Randolph and Thomas de Warblington, respecting this complaint, 8th August 1308. Cal. of Pat. Rolls, 2 Ed. II., part I. m. 20d.]`
+
+In 1313, another complaint was made by some merchants of Aquitaine who had laden a ship, the *St. Mary of Bayonne* with 174 tuns of white wine at the town of Tonnay, upon the river Charente, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wight; their wine being cast ashore at divers places in the island, it was seized and carried away by some men of the county of Southampton, although it could not be considered as wreck of sea, since many mariners of the said ship had escaped alive to the land. `[8th June, 1313. Calend. Pat. Rolls, 6 Ed. II. m. 5 d.]`
+
+In 1314, William de Forbernard, a merchant of Gascony, was coming to England with a cargo of wine, when he was boarded off the foreland of St. Botolph by Peter Bert, of Sandwich, Gervays Alard, of Winchelsea, and Robert Cleves, of Greenwich; the first took six tuns of wine, the second took two tuns and a pipe, and the third was satisfied with a pipe. As these three men were officers of the King, the merchant petitioned Edward to obtain redress of this robbery, but he was simply told to apply to the common law. `[Rot. Parl. Vol. I. p. 327, a.d. 1314.]`
+
+A still more flagrant instance of violence and contempt for law and justice happened about 1314. A ship called the *Blessed Mary*, of Fontarabie, near Bayonne, belonging to the King's subjects, with a cargo worth £2,200, was driven on shore on the coast of Angoumois. The wreck was immediately plundered by sailors belonging to Winchelsea, Rye, and Romney; and when an inquiry to discover the perpetrators of the robbery was ordered to be held at Winchelsea by Robert de Kendale, Warden of the Cinque Ports, the people of that town. Rye and Romney, most probably the thieves themselves, interfered, and by force and violence, prevented the investigation from taking place. The King's Council decided that, as nothing had been done by Robert de Kendale, an inquiry should be made by Henry de Cobham, the present Warden of the Cinque Ports, who was to do full and speedy justice in the matter.*
+
+In 1316, a ship called *La Hynde*, of Ipswich, freighted by a merchant of Bazas with eighty-four tuns and four pipes of wine, was seized by some English ships at the entance of the Humber, opposite Kingston-upon-Hull.f
+
+In 1317, La Cogge Ste. Marie, of Winchelsea, was captured by some English ships, off Calais, and her cargo of ninety- three tuns of Rochelle wines, to the value of 930 marks, was plundered.^
+
+Towards the close of the same year, or early in 1318, John Domynges and Peter Domynges, merchants of Portugal, on their way to Flanders with a ship laden with wine and other goods, anchored
+
+♦ Rot. Pari. 15 & 16 Ed. II. Vol. L, p. 231). Nirnlas, Hist, of the Royal Navy, T. I., ji. 3<)0.
+
+t Calend. of Pat. Rolls. 10 Ed. II. Part I., lucmb. 36 d.
+
+t Calend. of Pat. Rolls. 10 Ed. II., Part II., menib. 18 d.
+
+
+on account of contrary winds in the port of Patristowe, in Cornwall ; their ship was cast ashore owing to the cables having parted, and the inhabitants, whom one feels inclined to accuse of having caused the mishap, immediately carried away the wine and other goods as being wreck of sea.*
+
+This incident is all the more interesting that it furnishes the earliest absolutely definite evidence of the existence of the wine trade of Portugal, and although, in this instance, the wines of these Portuguese merchants were destined to Flanders, there are many proofs of the commercial relations existing at the time between their country and England.
+
+On November 22nd, 1318, for instance, a complaint was lodged by Martin de Bek, merchant of Oporto in Portugal {Tortus de Portynggcde) and his fellow merchants of the same place, that whereas they had laden a ship, called the Ship of Jesus Christ of Oporto {navis Jehsu Christi de Portu)^ in that port with goods for conveyance to England, and the ship was driven ashore at Brighteston, in the Isle of Wight, their merchandise was carried away by John de Presford and others.f
+
+Calend. of Pat. Rolls. 11 Ed. f Calcnd. of Pat. Rolls*, 12 Ed.
+
+II., Part II., memb. 37 d. and 13 | II., Part. I., memb. 14 d. ; 14 Ed. Ed. n., mcrnb. 27. , 11. , Part L, memb. 20 d. and 8d.
 
 ## Additional Notes - Done
