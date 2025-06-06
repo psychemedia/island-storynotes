@@ -40,6 +40,8 @@ __Contribution__: make an index available of historical books about the Island, 
 
 __Contribution__: links to / transcripts of interesting historical newspaper articles (BNA is searchable but the text transripts are often corrupted, which also hinders search indexing, etc.)
 
+*The Isle of Wight History Centre provides quite a [rich source](https://www.iwhistory.org.uk/) of Island related hostory resources.*
+
 The above contributions can provide a starting point for story discovery / research, as well as identifying stories than can act as triggers for learning more about those stories. They surface resources that already exist and make them more visible, more accessible, more usable.
 
 *Why is this important? There are collections available but who knows about them, or what they contain?*
