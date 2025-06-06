@@ -60,8 +60,9 @@ The community process can by triggered by / supported using prompts of stories i
 
 Some things change, some things don't. What glimpses are there of the past that can be triggered by, or continue in some form, in craft based trades, and what tales exist in the records that can be retriggered by living examples today:
 
-- book-binding
+- glass-making
 - clock-making / repair
+- book-binding
 - wood-working
 - blacksmithing
 - harness making etc.
