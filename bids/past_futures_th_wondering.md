@@ -1,6 +1,6 @@
 # Past Futures
 
-Uncovering heritage on the Isle of Wight.
+Uncovering heritage on the Isle of Wight: a response to [Creative Island *Past Futures* call for bids (£5-10k, 1 year 9/25-9/26)](https://creativeisland.org/past-futures-a-peoples-history-of-the-isle-of-wight/).
 
 *(TH personal take, reflecting my own interests and possible contribution areas. Mileage may vary for anyone not me... Also note this project would sit within the context of other current and historical projects, initiatives, groups etc. extant on the Island and online.)*
 
