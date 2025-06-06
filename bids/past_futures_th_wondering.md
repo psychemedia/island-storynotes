@@ -2,6 +2,8 @@
 
 Uncovering heritage on the Isle of Wight.
 
+*(TH personal take, reflecting my own interests and possible contribution areas. Mileage may vary for anyone not me...)*
+
 ![Sketch of related components](overview.png)
 
 Stories exist:
