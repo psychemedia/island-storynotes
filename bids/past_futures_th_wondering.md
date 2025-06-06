@@ -101,7 +101,15 @@ Having identified, developed and articulated stories:
 
 __Contribution__: live performance / telling at site specific locations.
 
-__Contribution__: capstone performance feathiring headline stories (e.g. at *Ventnor Fringe 2026).*
+__Contribution__: capstone performance featuring headline stories (e.g. at *Ventnor Fringe 2026).*
+
+## Recreation of Isle of Wight Pageant?
+
+The Isle of Wight Pageant, 1907
+
+![Isle of Wight pageant, 1907, souvenir (Castle Museum Library)](IW_pageant_souvenir_1901.png)
+
+[Details](https://historicalpageants.ac.uk/pageants/1103/)
 
 ## Somewhen Festival, Take 2
 
