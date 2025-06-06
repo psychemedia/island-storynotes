@@ -2,7 +2,6 @@
 
 Uncovering heritage on the Isle of Wight.
 
-
 ![Sketch of related components](overview.png)
 
 Stories exist:
@@ -21,7 +20,7 @@ Stories can be triggered:
 
 ## Documentary sources
 
-*Focussing on documentary sources more than 100 years old: out ot copyright; no-one still living to retell the tales first hand.*
+*Focussing on documentary sources more than 100 years old: out of copyright; no-one still living to retell the tales first hand.*
 
 One aim of the project is to expose "hidden heritage". So what physical or digital collections exist that might act as a source of hidden, in the sense of *forgotten*, local stories?
 
@@ -33,7 +32,7 @@ One aim of the project is to expose "hidden heritage". So what physical or digit
 
 __Contribution__: make an index available of historical books about the Island, ideally with brief summaries. For example, using OpenLIbriary lists [e.g. https://openlibrary.org/people/psychemedia/lists/OL294450L/Isle_of_Wight_Travel_Guides ]
 
-__Contribution__: links to / transcripts of interesting historical newspaper articles (BNA is searchable but the text transripts are often corrupted, which also hinders searsearch indexingach)
+__Contribution__: links to / transcripts of interesting historical newspaper articles (BNA is searchable but the text transripts are often corrupted, which also hinders search indexing, etc.)
 
 The above contributions can provide a starting point for story discovery / research, as well as identifying stories than can act as triggers for learning more about those stories. They surface resources that already exist and make them more visible, more accessible, more usable.
 
@@ -88,7 +87,9 @@ Having identified, developed and articulated stories:
 - they can be captured, e.g. as an audio recording of a telling, video recording of an informal telling, performance, etc.
 - they can be illustrated or act as a provocation for a visual reprepresentation.
 
-__Contribution
+__Contribution__: live performance / telling at site specific locations.
+
+__Contribution__: capstone performance feathiring headline stories (e.g. at *Ventnor Fringe 2026).*
 
 ## Somewhen Festival, Take 2
 
