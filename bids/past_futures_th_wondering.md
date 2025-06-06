@@ -60,7 +60,8 @@ Community contributions might include:
 
 The community process can by triggered by / supported using prompts of stories identified in documentary collections, backed up by / further triggered by research from documentary collections, etc.
 
-*I don't have a clear idea about who or what this "community" or "communities"  is or are, how it/they might be identified, approached, recruited? FB provides ones possible entry point, I guess, though limited to people in it and with access to it? (E.g. [Isle of Wight History and Heritage group](https://www.facebook.com/IsleOfWightHistoryAndHeritage), which is not accessible / requires being logged in to FB). For a specific location, I imagine it might include regular walkers, dog-walkers, etc., as well as occasional, one-off visitors, etc. Related interested might be generated from offering "work in progress" talks to local history societies, interest groups, etc? Chatting to folk in cafes, pubs, etc.?*
+*I don't have a clear idea about who or what this "community" or "communities"  is or are, how it/they might be identified, approached, recruited? FB provides ones possible entry point, I guess, though limited to people in it and with access to it? (E.g. [Isle of Wight History and Heritage group](https://www.facebook.com/IsleOfWightHistoryAndHeritage), which is not accessible / requires being logged in to FB. See also [*Isle of Wight History Centre — Heritage Organisations
+on the Isle of Wight*](https://www.iwhistory.org.uk/heritageorganisations/)). For a specific location, I imagine it might include regular walkers, dog-walkers, etc., as well as occasional, one-off visitors, etc. Related interested might be generated from offering "work in progress" talks to local history societies, interest groups, etc? Chatting to folk in cafes, pubs, etc.?*
 
 ## Trades
 
