@@ -105,4 +105,4 @@ __Contribution__: capstone performance feathiring headline stories (e.g. at *Ven
 
 ## Somewhen Festival, Take 2
 
-Building on ideas and reflections arising from the original Somewhen Festival, use the project as an input into a "Somewhen Traditional Fayre" — stories, music and crafts with an Island focus, celebrating things about the Island once commonly known...
+Building on ideas and reflections arising from the original Somewhen Festival, use the project as an input into a "Somewhen Traditional Fayre" — stories, music and crafts with an Island focus, celebrating things about the Island once commonly known... Ideally situated at an industrial heritage sight (e.g. Calbourne Water Mill).
