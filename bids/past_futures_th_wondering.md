@@ -60,7 +60,7 @@ Community contributions might include:
 
 The community process can by triggered by / supported using prompts of stories identified in documentary collections, backed up by / further triggered by research from documentary collections, etc.
 
-*I don't have a clear idea about who or what this "community" or "communities"  is or are, how it/they might be identified, approached, recruited? For a specific location, I imagine it might include regular walkers, dog-walkers, etc., as well as occasional, one-off visitors, etc. Related interested might be generated from offering "work in progress" talks to local history societies, interest groups, etc? Chatting to folk in cafes, pubs, etc.?*
+*I don't have a clear idea about who or what this "community" or "communities"  is or are, how it/they might be identified, approached, recruited? FB provides ones possible entry point, I guess, though limited to people in it and with access to it? (E.g. [Isle of Wight History and Heritage group](https://www.facebook.com/IsleOfWightHistoryAndHeritage), which is not accessible / requires being logged in to FB). For a specific location, I imagine it might include regular walkers, dog-walkers, etc., as well as occasional, one-off visitors, etc. Related interested might be generated from offering "work in progress" talks to local history societies, interest groups, etc? Chatting to folk in cafes, pubs, etc.?*
 
 ## Trades
 
@@ -83,6 +83,8 @@ Approching craftworkers as community members has the advantage that, if they are
 *Island farming recollections were collected in recent years as part of the [Farming Memories project](https://farmingmemories.com/).*
 
 Trade / craft workers are knoweldgeable in tools, practice, apprentice-based transmission of skill and knowledge.
+
+*Transport is another area with highly engaged communities, but is maybe out of scope if we want to avoid becoming too sprawling.*
 
 ## Story realisation
 
