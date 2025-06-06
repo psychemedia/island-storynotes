@@ -111,7 +111,7 @@ The Isle of Wight Pageant, 1907
 
 [Details](https://historicalpageants.ac.uk/pageants/1103/)
 
-A full recreation might be a little ambitious (though biddable for as a 120 year celbration in 2027?), but we could perhaps retell many of the same tales?
+A full recreation might be a little ambitious (though biddable for as a 120 year celbration in 2027?), but we could perhaps retell many of the same tales? Or do a "natural pageant" of tales from the landscape?
 
 ## Somewhen Festival, Take 2
 
