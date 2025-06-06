@@ -17,6 +17,10 @@ Stories can be triggered:
 - by artefacts
 - by trades
 - by stories
+- by songs
+- by smells and tastes
+- by sound
+- by weather
 - in conversation
 - etc.
 
