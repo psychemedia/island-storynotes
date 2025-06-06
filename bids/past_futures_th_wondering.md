@@ -28,7 +28,7 @@ One aim of the project is to expose "hidden heritage". So what physical or digit
 
 *(There are also other possible collections which may be in or out of scope, e.g. pictures, photographs, postcards (front and back...); traditional songs and tunes.)*
 
-__Contribution__: make an index available of historical books about the Island, ideally with brief summaries. For example, using OpenLIbriary lists [ https://openlibrary.org/people/psychemedia/lists/OL294450L/Isle_of_Wight_Travel_Guides ]
+__Contribution__: make an index available of historical books about the Island, ideally with brief summaries. For example, using OpenLIbriary lists [e.g. https://openlibrary.org/people/psychemedia/lists/OL294450L/Isle_of_Wight_Travel_Guides ]
 
 __Contribution__: links to / transcripts of interesting historical newspaper articles (BNA is searchable but the text transripts are often corrupted, which also hinders searsearch indexingach)
 
