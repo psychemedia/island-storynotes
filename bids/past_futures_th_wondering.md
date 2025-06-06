@@ -2,7 +2,7 @@
 
 Uncovering heritage on the Isle of Wight.
 
-*(TH personal take, reflecting my own interests and possible contribution areas. Mileage may vary for anyone not me...)*
+*(TH personal take, reflecting my own interests and possible contribution areas. Mileage may vary for anyone not me... Also note this project would sit within the context of other current and historical projects, initiatives, groups etc. extant on the Island and online.)*
 
 ![Sketch of related components](overview.png)
 
