@@ -103,13 +103,15 @@ __Contribution__: live performance / telling at site specific locations.
 
 __Contribution__: capstone performance featuring headline stories (e.g. at *Ventnor Fringe 2026).*
 
-## Recreation of Isle of Wight Pageant?
+## Retelling the tales that featured in the Isle of Wight Pageant, 1907?
 
 The Isle of Wight Pageant, 1907
 
 ![Isle of Wight pageant, 1907, souvenir (Castle Museum Library)](IW_pageant_souvenir_1901.png)
 
 [Details](https://historicalpageants.ac.uk/pageants/1103/)
+
+A full recreation might be a little ambitious (though biddable for as a 120 year celbration in 2027?), but we could perhaps retell many of the same tales?
 
 ## Somewhen Festival, Take 2
 
