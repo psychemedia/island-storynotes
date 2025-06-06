@@ -2,6 +2,9 @@
 
 Uncovering heritage on the Isle of Wight.
 
+
+![Sketch of related components](overview.png)
+
 Stories exist:
 
 - in peoples' heads
