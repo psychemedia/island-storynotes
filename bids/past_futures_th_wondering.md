@@ -87,7 +87,7 @@ Approching craftworkers as community members has the advantage that, if they are
 
 Trade / craft workers are knoweldgeable in tools, practice, apprentice-based transmission of skill and knowledge.
 
-*Transport is another area with highly engaged communities, but is maybe out of scope if we want to avoid becoming too sprawling.*
+*Transport is another area with highly engaged specialist interest communities, but is maybe out of scope if we want to avoid becoming too sprawling.*
 
 ## Story realisation
 
