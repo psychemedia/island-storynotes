@@ -1,6 +1,6 @@
 # Past Futures
 
-Uncovering heritage on the Isle of Wight: a response to [Creative Island *Past Futures* call for bids (£5-10k, 1 year 9/25-9/26)](https://creativeisland.org/past-futures-a-peoples-history-of-the-isle-of-wight/).
+Uncovering heritage on the Isle of Wight: a response to [Creative Island *Past Futures* call for bids (£5-10k, 1 year 9/25-9/26)](https://creativeisland.org/past-futures-a-peoples-history-of-the-isle-of-wight/) with a focus on intangible cultural heritage.
 
 *(TH personal take, reflecting my own interests and possible contribution areas. Mileage may vary for anyone not me... Also note this project would sit within the context of other current and historical projects, initiatives, groups etc. extant on the Island and online.)*
 
@@ -21,6 +21,7 @@ Stories can be triggered:
 - by smells and tastes
 - by sound
 - by weather
+- by roadnames, placenames, field names etc.
 - in conversation
 - etc.
 
@@ -88,6 +89,14 @@ Approching craftworkers as community members has the advantage that, if they are
 Trade / craft workers are knoweldgeable in tools, practice, apprentice-based transmission of skill and knowledge.
 
 *Transport is another area with highly engaged specialist interest communities, but is maybe out of scope if we want to avoid becoming too sprawling.*
+
+## Place names / Street names
+
+The Ordnance Survey *OpenNames* product has a list of current road names and place names ([example data](https://github.com/ouseful-datasupply/housing_prices_ownership_homelessness/blob/main/os_placenames/os_placenames_doodles.ipynb)). Many names recall a person or family, a place, or perhaps an event (e.g. *Burnt House Lane*).
+
+__Prompt__: *do folk know the story behind the name of the road on which they live?*
+
+*Field names represent more of a challenge. They can be found on old tithe maps, so is there a good source of those?*
 
 ## Story realisation
 
