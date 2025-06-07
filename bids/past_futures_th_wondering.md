@@ -1,6 +1,6 @@
 # Past Futures
 
-Uncovering heritage on the Isle of Wight: a response to [Creative Island *Past Futures* call for bids (£5-10k, 1 year 9/25-9/26)](https://creativeisland.org/past-futures-a-peoples-history-of-the-isle-of-wight/) with a focus on intangible cultural heritage.
+Uncovering heritage on the Isle of Wight: a response to [Creative Island *Past Futures* call for bids (£5-10k, 1 year 9/25-9/26; intangible cultural heritage)](https://creativeisland.org/past-futures-a-peoples-history-of-the-isle-of-wight/).
 
 *(TH personal take, reflecting my own interests and possible contribution areas. Mileage may vary for anyone not me... Also note this project would sit within the context of other current and historical projects, initiatives, groups etc. extant on the Island and online.)*
 
@@ -120,7 +120,7 @@ The Isle of Wight Pageant, 1907
 
 [Details](https://historicalpageants.ac.uk/pageants/1103/)
 
-A full recreation might be a little ambitious (though biddable for as a 120 year celbration in 2027?), but we could perhaps retell many of the same tales? Or do a "natural pageant" of tales from the landscape?
+A full recreation might be a little ambitious (though biddable for as a 120 year celebration in 2027?), but we could perhaps retell many of the same tales? Or do a "natural pageant" of tales from the landscape?
 
 ## Somewhen Festival, Take 2
 
