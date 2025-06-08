@@ -1,10 +1,8 @@
 # A Visit to Godshill
 
-If you approach the chocolate box village of Godshill from the Whitwell Road, you'll clearly see the church as you approach. But once you're in the tourist heart of the village, the Church disappers from view.
+If you're driving up to the chocolate box village of Godshill, from Whitwell, the chances are that you'll miss noticing Sheepwash Lane branch off to the right. The junction is just at the point where Godshill Road (*out of* Whitwell) becomes Whitwell Road (*into* Godshill). And despite years of searching, I've still to find a map that shows which of the fields around Sheepwash Farm was the "Devil's Acre", even though the old tales tell us it must be around thereabouts.
 
-Unless you're particularly looking out for it, you're also unlikely to notice the old road south, Sheepwash Lane. This minor road creeps out of the very heart of the village, leading down to the practically named Sheepwash Farm, and to an area that used to be referred to as "Devil's Acre", although you won't see that name mentioned on any map.
-
-The story most often told about the origins of the Church, and how Godshill got its name, goes something like this.
+As you get closer to Godshill, the Church can clearly be seen, again over to the right, but once you're in the tourist heart of the village, it often seems to disappear from view. At times, it seems as if the Church has removed itself, if not from the village, at least from view. A memory, perhaps, of the origins of the Church, when the very foundations of the Church appeared to go walkabout, and the tale of how Godshill got its name.
 
 Back in the seventh century, as the old inhabitants of the island were converted to Christianity, the local folk had to decide where their church should be. There had been an old pagan site on top of a nearby hill. If the church were built there, then it would certainly command the landscape; but, as with all these things, there was a but: there was nothing on top of the hill from which you could build a church; so everything that was required would have to be transported up there. By hand. So it would be much more, you might say, "convenient" to build the church down here, on the flat, rather than up there, on the hill.
 
