@@ -301,3 +301,707 @@ butthat fuch Lord or Lords for the time being, and all Perſons claiming or to c
 LXX. And be it further enacted by the Authority aforesaid, `[Limitation of Actions.]` That if any Action or Suit ſhall be commenced against any Perfon or Perſons for any Thing done in pursuance of this Act, the ſame ſhall be commenced within fix Calendar Months next after the Fact committed, and not afterwards, and ſhall be laid and brought in the County of Southampton, and not elsewhere; and the Defendant or Defendants, in fuch Action or Suit, ſhall and may plead the General Iſſue, and give this Act, and the Special Matter in Evidence at any Trial to be had thereupon, and that the fame was done in pursuance and by the Authority of this Act; and if it ſhall appear fo to be done, or that fuch Action or Suit ſhall be commenced after the Time before limited for bringing the fame, or ſhall be brought in any other County or Place than as aforesaid, that then theJury thall find for the Defendant or Defendants; and upon a Verdict for the Defendant, or if the Plaintiff or Plaintiffs ſhall be nonſuited, or diſcontinue his, her, or their Action or Suit, after the Defendant or Defendants ſhall have appeared, or if, upon Demurrer, Judgement ſhall be given against the faid Plaintiff or Plaintiffs, the Defendant or Defendants ſhall and may recover Treble Coſts, and have the like Remedy for the fame, as any Defendant or Defendants hath or have in any other Cafes by Law: And in all Actions or Suits ſo commenced or profecuted, the Inhabitants of the faid Iſland ſhall be deemed and admitted to be good Evidences ; any Law, Uſage, or Cuſtom to the contrary notwithstanding.
 
 LXXI. And be it further enacted by the Authority aforesaid, That this Act ſhall be deemed and taken to be a Public Act; and be judicially taken Notice of as ſuch by all Judges, Juſtices, and other Perſons whatsoever, without ſpecially pleading the fame.
+
+
+
+---
+
+
+https://archive.org/details/byelawsforregul00goog
+
+Bye-laws for the Regulation & Government of the House of Industry, in the Isle of Wight
+by House of Industry (Isle of Wight, England )
+
+Publication date 1792
+Publisher printed by John Albin
+
+
+
+BYE-LAWS,
+
+
+■ REGULATION & GOVERNMENT
+
+
+HOUSE OF INDUSTRY,
+
+
+ISLE OF WIGHT.
+
+
+NEWPORT :
+PRINTED BY JOHN ALBIN.
+
+
+MDCCXCII.
+
+
+BYE-LAWS,
+
+
+REGULATION & GOVERNMENT
+
+
+HOUSE OF INDUSTRY, &c.
+
+
+I. THAT all poor perfons, fingle or married, without families, who are unable to maintain themfelves, be taken into the houfe, and not fupported out of it by any fettled allowance or pen Bon.
+
+II.
+That all poor perfons, whofe families are too large to be maintained by their own labour, may offer one or more of their children to be received into the houfe, at the difcretion of the weekly committee.
+
+III.
+That orders for admiflion into the houfe be made by a committee only ; except in cafualties^ or fudden illncfs fubfequent to the laft committee, when an immediate admittance may be necef- fary : in fuch cafes (and in fuch only), two diredt- prs, or adling guardians, may give an order for the fame on any other day ; as may the furgeon alone, in cafes which happen in the night; with the further exception, that perfons fent by order of removal, or ^by a vagrant pafs, be immedi- ately received, without any other authority ; but that the perfons thus admitted be repor^pd to the next committee.
+
+
+I
+
+
+IV.
+That poor perfons received into the houfe, for temporary relief only, fhall not be deprived of their houlhold goods, furniture or other pro- perty. But fuch wearing *apparel, and other goods, as any pauper may bring into the houfe, fhall be deemed and taken to be the property of the guardians of the poor, during the time fuch perfon fhall be maintained in the houfe.
+• V.
+4
+That penfions may be granted by a quarterly meeting — but in extraordinary cafes only ; fuch as blindnefs, lunacy, epilepfy, and the like; in which, admiflion into the houfe may be judged improper; provided, that an examination be previoufly taken on oath, refpeding the place of
+tjie
+
+
+~ [ 5 ]
+the pauper's fettlement, and the inability of himfelf, and fuch of his relations as are compella- ble by law to maintain him : provided alfo, that nothing herein contained be conftrued to m^ke. void any penfion already granted ; but that the fame be continued and renewed, unlefs fuch penfioners appear, on a fimilar examination, to be improper objedls of relief from any parifli within the ifland.
+
+VI.
+That a weekly committee may grant to the ufe <>f any poor labourer's wife, on the birth of a fourth, fifth, or fixth child, the refpediive fums of five fhillings, feven (hillings and fixpence, or ten ihillings and fixpence, according, as he may then have living, four, five, or fix, children, under fourteen years of age; — b\it, that five fhillings thereof be applied, by the overfeer, to the payment of the midwife.
+
+' VII.
+That one churchwarden, or overfeer of the poor, of (svery parifh, be obliged to apply to the weekly committee on every fitting, either in perfon, or by a direcflor, or afting guardian, and to report (after due enquiry made by himfelf, at the refpedlive dwellings of the poor) the number and ages of the family, and other circumftances, including the place of fettlement, as well as the illnefs of all perfons in his parifh, who may afk for, and ftand in need of, relief, under the pe- nalty of any fum, not lefs than forty fhillings and not exceeding five pounds, as dire(5led by the adt ; but that relief may be granted to any pau- per, who may be in the fame manner reported by the furgeon^ a director, or ading guardian.
+
+VIII.
+That in cafe of an application wherein the preceding regulation hath not been adhered to, the committee, if it fee proper, may entruft a direftor, or adling guardian, or the furgeon, with an order of relief, to be delivered, or not, to the pauper, according as the perfon, thus en- trufted, may find the circumftances of the cafe; or the committee may order the furgeon, or parifh-officer, to vifit the faid pauper, and to make a report, as before required, tb the next committee, which may then give relief from the time of the firft application.
+
+.IX.
+That when any poor perfon, by cafualty, or fudden illnefs, fubfequent to the laft holden committee, may ftand in need of immediate re- lief, before application can be made to the next cnfuing ; a diredlor, or adting guardian, on the knowledge of the fadt and neceffity of the cafe, may recommend fuch perfon to the care of the furgeon, (which may likewife be done in all cafes of ficknefs among the poor, though no pecuni- ary relief be applied for) and may, where necef- fary, order, in writing, a reafonable fum, not exceeding the ufual earnings of the fick perfon, after ihc rate of one ihilling a day for a man, and
+fo
+
+
+C 7 ]
+fo for others in proportion, as a temporary fup- port till the next weekly committee ; to which the overfeer of the refpe<5live parifli muft in perfon report the circumftances, and receive diredlions for the farther relief of the pauper ; and (to be entitled to the allowance of the fum ordered on the fettling of his accounts) muft, at the fame time, return the faid order for confirm- ation, by being figned by the chairman.
+X.
+That all cafual poor, relieved by the order of a diredlor, or afting guardian, Ihall, on the re- port of the furgeon at the next weekly commit- tee, be ordered into the houfe, or relieved out of it, as ihall appear expedient for the health of the patient.
+
+XL
+That the weekly committee, on application of an overfeer, may grant monthly relief out of the houfe to the families of men impreffed into the fea^fervice, during their continuance as impref- fed men, not exceeding the fum of one fhilling and fixpence a week, for two children under the age of ten years; the fum of two (hillings a week, for three fuch children ; and the fum of three Ihillings a week, for four fuch; to be paid weekly by the refpedlive overfeers, who are re- quired to ftop payment on the death or difcharge of any fuch man, and report the ftaie of the family to the next weekly committee ; and that this proportion of relief be adopted in all fimilar cafes.
+
+
+r 8 1 ^
+XII.
+That when it Ihall appear to a weekly com- mittee that labodr in hufbandry cannot be ob-- tained at the ufual wages, on account of a gene- ral exifting fcarcity of work, the committee may order any reafonable fum, not exceeding one fourth of the real earnings of fuch labourers, employed by its con fen t, to be paid by bverfeers to the different perfons employing them, fo that fuch earnings do not exceed fix ftiillings a week for each man, and fo in proportion for others. And when fuch earnings do neceffarily fall Ihort of fix fhillings a week, merely on account of the unfeafonablcnefsof the weather (as in deepfnow orchard f rolls), the deficiency may be made up to that fum, for a man who has a family to niain- tain;
+
+
+r
+
+
+
+
+
+XIII.
+• • • • •
+That a fum, hot exceeding ten pounds in any one year, be laid out in purchafing fpinning- wheels, cards, and fuch like implements of work^ for the ^fe of the induftrious poor women and children ; which, after being mark- ed " House of Industry," may be lent or given them, at the difcretion of the weekly com- mittee ; and that work in fpinning, knitting, &c. fliall be fupplied from the houfe, by an order from the faid committee, to all perfons of the above defcription, who may not be able to pro- cure any fuch work elfewhere,
+XIV. That
+
+
+C 9 ]
+
+
+That fervants, who are legally entitled to a maintenance fromiheiripafte''s during an illnefs, fliall not be received on any terms into the houfe ;' PQr be relieved in mpppv during the term aeyfuch fervipe may legally cyiitioHp.
+. ^y-
+Xhat in cafe any doubt (hall arife, whether the fettlement of any paiiper, applvmg for reljpf, be in the idand, fucb pauper fliall be tm- ipefiiately faken before twojufticesj, fo be exa- fnined, in order to be reippyed, ■t^F'be fettlemejit ^ppe^r tq bf elf^evyhere.
+
+XVI.
+That a book be kept, in which fliall be made an entry of the admiffioii of every pauper into the houfe, exprelfing his or her name — age — place to which be or flie belongs — the reafon of his or her admiflion — by whom fent and certi- fied, and the day when admitted; wiih blank columns, to be filled up with the time and man- ner of fuch pauper's difcharge j which book fhall be produced to every weekly commiliee, and figned by the chairmari.
+
+XVU.
+T^t the rejatioji? a^d irjeijds pf paupers,
+^ti,imaijied in th^ ihpufe, be permitted to tep
+^% ftt i^pQpt ^ii?^> uppn^ Ff odr^cing ^ "o^p
+JB ' from
+
+
+" C IP ]
+from a diredlor, adting guardian^ or pariih-offi-» cer, to the governor or matron.
+xvin.
+That the poor in the houfe Ihali at all times demean themfelves peaceably and quietly ;*— fliall not fwear, curfe, quarrel or give rude language^ nor be guilty of any uncivil or indecent beha^ viour 5— (hall not refufe or negledt to execute the work or feryice they may be required to per- form, nor be retnifs therein (fuch work and fer- vice being fuited to their ftrength and ability), on pain of lofing their next meal, for the firft offence ; and foT every repeated offence^ fuch other puniftiment, within the direftion of tlje Ac^ of Incorporation^ as the weekly committee fhall chufe to inflidt.
+
+XIX.
+That no perfon fhall ftrike, or abufe^ the governor^ or matron, or their affillants, but ihall at all times obey their lawful commands;— and if any of the poor fhall think themfelves aggrieved by the governor, or other officers of ^the houfe, they are to make their complaints to the weekly committee : But if any perfon fhall ftrike, or abufe, the governor, or matron, or their afliftants; or fhall, after admonition, or correction by the weekly committee, continue difobedient, or refufe to work, the governor •fhall inimediately carry fuch offender before •ne of his Majefly's juftices of the peace for the
+county
+
+
+county of Southampton, ading for the diviHon 6f the ifle of Wight, to be dealt with according to law.
+
+
+XX.
+
+
+That every fingle woman, becoming charg* able to this corporation the fecond time, on account of baftardy, fhall be carried before two juftices of the peace, to be dealt with according to law; and that all fuch women in the houfe (except thofe, who are employed in the hard work of the houfe, and thofe who have been puniflied as aforefaid), as well as all other per- fons, who, by reafon of their own criminality or mifcondud:, are there kept and maintained, fliali be placed in feparate apartments from the other poor, provided for that purpofe,— fhall have their names entered in the black book,— fhall be allowed no folid meat on meat-days, and wear coarfe yellow coats or gowns, or other difgrace- ful diftindtions, at the difcretion of the weekly committee*
+
+XXL
+That, for the encouragement of thofe paupers who fhall difcharge the bufinefs to which they may be appointed, with care and diligence, re- wards fhall be given them from time to time, at the difcretion of the quarterly committee.
+
+XXII. That no poor perfon in the houfe {hall a(k alms-^but a box (hall be provided, and fixed in fome place to be appointed by the directors and a(5ling guardians, for occafional donations ; to ^hich there (hall be two locks, and the key of Che of them (hall be kept by the governor, and the othet by the clerk for the time being ; and the money put into the box^ Ihall be at the ^tf-. pofal 6f tht cfommittee.
+
+XXIII.
+That the men and boys fhall apply to the ^governor, for leave of temporary abfence from the houfe ; and the women and <girls, to the matron, for the fame purpofe.
+
+XXIV,
+irhatthe gbv^rrfo'r fhall^ Yh'ftb cife, place any ^anpe'r in the Nvards, Vith'odt previoxis careful examination, and waffling ; and (if it be thought neceffary by the weekly committee) new cloth- ing ; — and, in that cafe, t*he governor Ihall caufe the old dothes to be well cleanfed ; ^Hfd, if there be a probability that fuchpaupeYtnay be dif- charged from the houfe, his old clothes Ihall be kept, in order to be delivered to him, on his difcharge, in exchange for the clothes fupplied by the houfe.
+
+XXV.
+That the governor ftiall fee the meat, flour, and other articles, >^eighed and meafured, and keep an account of the quantity and price thereof: — fllall give an account every Saturday to the comtnittee, of all provifions, a,nd other, ftores, brought in, ufed, and expended, the week preceding— likewife of all work done in the houfe^ and make his complaint againft all perfons that i»ay have, in any refpeCl, milbc-* liaved*
+
+XXVI,
+That t'he governor fhall make, or caufe to be 1made, all the entries into liis weekly book of provifions, with all poffible exacftneTs ; fpecify- ing, in a marginal note, the prices of fuch as are not contracted for, and marking, as fuch, the produce of the corporatioa's land ; and that no provifions, beyond what have been adtually confumed, fhall be entered in the weekly book, under the article of expenditure. He (hall alfo jpuTidtually infert in a book, to be ufed as a day- book, all articles brought into the "houfe, every day as they are brought in ; the faid articles to be regularly polled every week in the ledger, to be produced, with the feveral bills, for the exa- mination and allowance of the weekly com- .4X)ittee.
+
+
+XXVII. That
+
+
+I
+
+
+I u 1
+XXVII.
+That the governor fhall take care that the outward doors be not opened before fix in the •morning, and locked at eight in the evening, from Lady-day to Michaelmas— and not opened before eight in the morning, and locked at fix in the evening, from Michaelmas to Lady-day ; except, upon fpecial occafions — fliall lock the door at ten o'clock every evening, with the fnafter-key, which is entirely entrufted to his care ; but is to open the faid door for the matron at any time before he retire to reft, and to re- port the fame to the next weekly committee j and fhall read prayers, or caufe them to be read, every day— in the morning, before the bell ring FOR WORK, and in the evening, after fupper.
+
+XXVIII.
+That the governor fhall employ no perfoh out •f work, but by an order of the weekly commit*
+tee ; to which it is recommended rather to admit
+' i
+into the houfe, than to employ under the gover- nor any poor man, who has no children to main- tain, and no view of any other employment.
+
+XXIX.
+That the governor fhall make a monthly muf- ter of all the paupers in the houfe, and give m his return to the firft weekly committee in each month : fhall frequently exercife the paupers in playing the fi^re-engine, given by Mr. HefTe,
+that
+
+
+C 15 ]
+that they may be expert in the ufe of it, in cafe of fire : fhall, once in every month, read, or caufe to be read, to the poor, the bye-laws, rules, and orders, that none may pretend to plead ignorance thereof; — and the fame fhall be read over, yearly, at the general meetingj^ on the laft Thurfday in June, immediately after the election of the officers of this corporation.
+
+XXX.
+«
+That the governor be never fent out of the ifland on public bufinefs, except in cafes of neceffity.
+
+XXXI.
+That the matron fhall deliver out the foapi, and fee all the linen waflied and got up, and all the beds fheeted once a month : Ihall take care that no linen be hung up to dry in any of the fick wards : fliall (as far as flie and the fervants of the houfe are capable of teaching them) inftrU'dt and employ fuch girls as are of a proper age, in cookery, houfewifery, walhing, and fcouring, and other work, in order to. qualify them for fervice : and Ihall, on the laft Saturday in qvery month, produce her accounts, for the examina^ tion of the committee, and to receive the figna-« ture of the chairman.
+
+
+XXXII.
+
+That the governor and matron^ or one of thena^ shall attend divine fervice in the chapel^ and never be both abfent from the houfe at the fame time : they Ihall make ready the provifions in a clean and wholefome manner, and fee that breakfaft be ready at eight o'clock, dinner at twelve, and fupper at the time the workers leave off M(ork : they fhall caufe grace to be faid before and after meat — keep all the rooms neat and clean; fee them fwept every day — or at leaft three times a week, and wafhed as often as they can conveniently have it done : fliall caufe the windows to be fet open every day (except in rainy weather), and fufFer no viduals to be j^aten out of the dining-room by any*^-but the fick, and fuch a^ officiate as fervants of thje )»puf^«
+
+XXXIIL
+That the governor and matron (hall caufe the children's heads and hands to be kept, clean-^ likewife all the clothes and beds: ihall deliver to every one of the poor, clean linen on every Saturday evening, and take in their foul every Sunday morning: ihall fee all the poor to bed by nin^ o'clock in fummer, and by eight in the winter: ihall be careful to have all fires and candles put out (except in the fick wards), and fulFer no perfon to fmoke tobacco on any ac- ' county fave in the men's kitchen; and by no
+mean*
+
+
+i7 3
+thbatis above ftairs (except by an exprefs ordef bF the furgeon) : fhall fee that no candles be ufed in the evenings, in the months of May, Jund, July, and Auguft, except by the governor, and in the infirmaries: Ihall take fpecial care to pre- vent all perfons, particularly the children, from making wafte in their provifions, or in the mate- rials on which they are employed to work: and that this article be particularly attended to by the fuperintendants of the different work-rooms*
+
+XXXIV*
+'f hat the governor and niatfori fliall riot, but by ordqrofthe furgeon^ fuffer any poor perfons, belonging to the hoiife, to drink tea therein : — and neither the governor, matron, or other officer, fhali buy or fell, or fuEFer any diflilled liquors to be brought into the houfe, without leave of the committee j nor fhall any tobacco or tea be allowed, but to fuck perfons for whom the furgeon may think them neceffary.
+
+XXXV,
+Tbat the governor and triatfdh fkall execute all bye-laws, niade by the diredtors and adting guardians under the authority of the kdl of par- liament; and alfo fuch temporary orderS as both Or either of them fhall receive from the weekly committee— the fame being firft entered in the liommittee-book^ and attefted by the clerk ;-^
+C fuch
+
+
+fuch temporary orders to continue in fotct, till altered by fome fubfequeht committee.
+
+xxxvi.
+That tlie chaplain fhall perform divine fervicft feVerv Sunday (morning and evening), ac- cording to the eftablifhed rites of the Church of Ehgland : Ihall preach a fiermoh every Sundat ttiorniiig — ttiall read prayers every Wedhefdajr morning — and publicly ^dminifter the Sacrament four times in every year, viz* on Christmas and Easter days, on Whit or Trinity Sun- aay, and the Sunday next before, or ntxX after, Mich aelmAs-day : Aiall catechife the children once a month — vifit the fick — and perform ill other occafional duties of his fun<3:ioti.
+
+xxxVil.
+That the fame perfon fhall ad as furgfeon, apothecary, and man-midwife : fhall by himfelf (or occafionally by a deputy, approved of by a quarterly meeting) dtily attend, and adminifter proper medicines to all fuch perfons in the houfe, and fuch poor out of the houfe, as ^ commtttee, a diiedlor^ or acting guardian, may recomtnferi'd to his cafe ; arid fhall make k report (noted in a book provided for that purpofe) to every weekly committee of the illnefs, and other citcirmftariees, of every fuch patient ^hom he has vifited in tl)e cour'fe of the Sveek : fhall, Vhen called rn to Sriy.
+poor
+
+
+C t9 1
+poor wonjan in any difficult obftetrical c^f^, iii which a midwife hath been inefFedtully employed^ be allowed two guineas for every luch attend- ance ; and fhall be paid two shillings and sixPENjc.E for every jpatieqt he may inoculate and ?it,tend, by order of a committee — of a direAor — or of an a(5lii?g guardian, in cafes not admitting of any delay.
+
+XXXVIII.
+That as bft^en as anyperfon Ihall fall {ick, or- lame, in the houfe, notice thereof fhall be given to. the furgeon: — and the nurfes, in whofe ward any perfon fhall die, fhall immediateiy acquaint the governor therewitjh, y^^bo fhall caufe the cotpfe to be carried into the proper place, and a X^OTfin and jQirpwd immediately provided; — they ihall take care to deliver the apparel of perfon^ idying in the houfe to the governor j who Ihall lay up the fame in the wardrqbe, and deliver an Itcppupt thereof to the next weekly committee* '
+
+XXXIX.
+That a book fhall be procured^ in which the aiarae of ^ny officer or feryant of the houfe, who Ihall be proved guilty of a wilful breach or neg- ledtof any bye-law, or order of any committee,^ .delivered to him in writing, fhall be entered by the committee before which fuch proof is made : and that during the continuance of fuch entry, not er^fed, fuch officer, or fervant, fhall be incapaci- tated from receiving any gratuity or promotion ;
+C 2 and
+
+
+and if bis name (hall be entered tbree time^^ and iill tbree entries remain unerafed^ fuch officer, or fervant, fliall be difcharged from bis office, or fervice, at any time^ at the difcretion of a quar^ terly, or other meeting, having a power to diC- charge officers and fervants ; but — that any fuch entry, or entries, if made by a weekly committee, may be expunged by a quarterly meeting, on lippeal — or on account of s^ny fubfequent good behaviour, or any other circumftances arifing io fiivor of fuch officer or fetvant : but nothing berein (hall extend to defeat, or diminiffi, any power or authority previoufly vetted in any con^mittee, of difcharging^ any officer or fervant,
+
+XL.
+Ths^t only one fort of flour be ferved into the hoiife, and that from the whole meal drefled through a 14s. cloth ; and that only one meal of folid meat be ferved weekly — the other meat- dinner to be compofed of meat cut into very fmall pieces, the bones broken very fmall, and boiled into broth, properly thickened with ve- getables, &g. and that only i5olbs. of mqat be flowed for that dinner; but that fat pork or bacon (to be bought in the flitch, without the hams) may be boiled, cut into very fmall flice$, M^ith peafe, beans, or pota^toes ; for one dinner in the week, not exceeding gplbs, — and that the annexed bill of fare* be particularly obferved ; iubjed:^, however, to fqch alteration, as the fea-
+fpH
+♦ ^ Appendix^
+
+
+fon of the year, or other circumftances, may render expedient in the opinion of the iveekly jcommittee,
+
+XLI.
+That the paupers, in the fick-rooms, be fed, in every refpedt, in conformity to the directions given by the furgeon ; and that he be requefted to give orders for «iny meat, flour, or other provifion^ which may be wanted for that pur- pofe, over and above the ufual dreffings; of which, a feparate account fhall be kept.
+
+XLII.
+That the officers of the houfe be allowed a joint of meat, of any butcher's meat of the fame price as the meat contracted for, with a puddings from the flour ufed in the houfe daily; but that a feparate account of the expence of their table, beyond the ufual provifions of the houfe, be kept, for the infpeCtion of the committee : and that the waflier- women, and the two men who go with the horfes, fliall be allowed a pint of ale each a day ; but no other pauper in the houfe fhall be entitled to ale, unlefs it be ordered by the furgeon.
+
+XLIII.
+That all contractors fliall deliver their goods at the Houfe of Induftrv, either by themfelves or their QW{i fcrvantsi ana all meat^ flour, and other
+provifionc
+
+
+C ^z ]
+
+
+XLVL
+That in contrafts for coals, a meter fhall be employed, and paid by the corporation, for re- meafuring that article, when delivered at the houfe.
+
+XLVIL
+That no perfon, appointed to any ftation m the houfe, Ihall prefume, at any time, on pain of difmiffion, to take (in refpedl of fuch ftation) of any tradefman, ftranger, or other perfon, any fee, reward, or gratuity, of any kind^ dire<ftly, or indireftly : and that if any tradefman, or other perfon, having any dealing with this corporation, ftiall offer or give any fuch fee or gratuity ; or 'fliall Terve into the houfe any article, different from the contract or charge, made by him for the fame; fuch perfon fhall be peremptorily dif- qualified from ferving the faid corporation with any kind of goods whatever.
+
+XLVIII.
+That aifl bye-law3, which concern the dfficer«>
+. Sec. 'fhall be fairly tranfcribed, and given to fu(?h
+of them as are to carry them into execution j— -
+and every officer of the houfe, not obeyiitg the
+fame, fhall, on convidion, be drfcharged.
+XLIX. Thai
+
+
+i: M j
+
+
+XLIX.
+That every perfon, who, being duly qualified fliall be eledled a direftor, and fhall refufe to ad:, Ihall forfeit the fum of six pounds ; — and every guardian, refufing to aft when felefted an adling guardian, fhall forfeit the fum of four POUNDS— unlefs reafonable caufe fhall be fhewn and allowed by the majority of the directors and ad:ing guardians^ prefent at the next general quarterly meeting after fuch eleftion.
+1.
+i^hat if there fhall not be prefent tw6 diredofs ^nd three afting guardians at any weekly coni- mitteej each direftor of that month ndt being prefent, fhall forfeit twenty shillings — and every fuch ading guardian^ tsn shillings*
+ii.
+That a chairman be chofen, by every c6ni- mittee, to^'prefide and regulate the proceedings; and every member of any committee, who fhall not appear in the committee-room within half an hour of the time appointed for their meeting, fliall, if a diredor, forfeit four shilling^ — if an ading guardian, two shillings — in cale fuch default fhall delay the proceeding to bufi- nefs : and no member (under the fame penalty) &all leave the committee while fittings without
+leave
+
+
+and other provi&ons brought into the houfe be wholefome and agreeable to the contract— whe- ther there be any infe&ious diforder in the houfe — and whether the poor want necelTary clothing, &c. or have any juft matter of complaint — and fliall make'report of fuch things as they think fit, which fhall be entered in the committee-book: and the faid weekly committee fliall^ once in every month, give diretftions for the quantity of meat to be brought into the houfe for the ufe of the paupers : fhall have a bill of fare laid before it the firft week in every month, to be figned by the chairman ; and that one or more members fhall fee the meat weighed, and report the weight and quality thereof to the rell of the committee.
+
+LIII.
+That the chairman of every weekly committee fhall, as often as there may be caufe, make com- plaint to fome magiftrate, againft fuch overfeers  as may negleft to vifit and appear at the Houfe of Induftfy, in behalf of any poor perfon applying for, and (landing in need of, relief t and that the feveral penalties on diredlors and afting guardians, as well as thofe on churchwardens, and other perfons liable thereto, ihali be impar- tially fued for by the refpe<ftive committees.
+
+LIV.
+That oftediredlorahd one afting guardian of the rommittee of the preceding month, fliall attend the two firft meetings of the next month, to ex- plain the proceedings of the laft to the fitting committee, and otherwife affift it as far as they are able ; and that the adding guardian to attend fuch meetings, fhall be determined by ballot among the five adting guardians of the fame committee ; and that the diredtors, and fuch afting guardians fo to be chofen by ballot, not attending, fhall be fubjedl to the fame penalties as are now in force (by virtue of the aft of par- liament or any bye-law), for non-attendance on a weekly committee : that no weekly committee fliall be permitted to break up before one o'clock —and that this order be fixed up, over the chim« ney-piece, in the committee-room.
+
+LV.
+That a book fhall, at all times, lie open in the committee-room, with pen and ink at hand ; tbat in cafe any diredlor, or guardian, or other per-, fons^ vifiting the houfe occafionally» fhall per«
+ceivo
+
+
+C ^7 ]
+ceive any thing improper, or can fuggeft any thing for the benefit of the inftitution, they may write their thoughts or obfervations therein, that the weekly committee may confider the fame, and make report (if it fee proper) to the next meeting, to be held for the purpofe of noaking bye-iaws.
+
+LVl.
+That if the direftors and ading guardians fliall refufe or negledt to hold any annual or quarterly meeting.; every dired:or or a<3:ing guardia^n, failing in his duty in this refpedl (if in the iiland)^ fhali forfeit the fum of forty fhillings.
+
+LVII.
+That on the Saturday immediately preceding every quarterly meeting, the dired:ors and adling guardians of the poor for that quarter, fhall, on notice to be given them by the fecretary, take a furvey of the feveral paupers in the houfe ; and fuch perfons as appear to be improper objedls, fhall (at their own option) either be difcharged from the houfe, or allowed only fo much provi- fion as they earn ; and that every fuch furvey fhall be returned in writing (figned by the chairman) to the next quarterly meeting : and aH perfons fo difcharged, and not quitting the houfe accordingly — or returning without fuch caufe as fhall be approved by the weekly committee — ihall be immediately fet to hard labour, and have nothing allowed for their fupporl and maintenance beyond their own earnings.
+
+LVIII.
+That the committee (hall» every year, caufe a new inventory of all the goods and furniture in the houfe to be taken, and laid before it on the lad Thurfday in June, and (hall then compare fuch inventory with that of the preceding yean
+
+LIX.
+That every quarterly committee of accounts fiiall examine into all the accounts of the pre- ceding quarter, and (hall prepare them for publication, and after they have thoroughly examined them, they fhall fet their hands to the fame ; and the feparate articles of the incidental cxpences, paid by the governor, fhall be entered in the quarterly account-book, in the fame manner as the bills, &c. and no bills or falaries of officers (ball be paid by the treafurer, till a printed * order be produced, iigned by the chairman of the committee of accounts.
+
+
+LX.
+That any fubfcriber to the county hofpital, who Ihall fend thither a pauper belonging to any parrih in the ifle of Wight, ihall be repaid by any
+weekly
+* Stc Appendix*
+
+
+C «9 3
+weekly committee all neceflary charges thereby incurred.
+
+
+LXI.
+That any fum, not exceeding twelve shil- LiNGS^ may be allowed for the burial of any poor perfon dying out of the houfe, on applica,- tion being made to the next weekly committee, or to a magiftrate— on oath, that the deceafed did not leave effe<Sls fufficient for defraying funeral expences: but that nothing (hall be allowed when the perfon is not buried at the fole expence of the corporation, and in the ufual manner of fuch paupers ; of which the officiating clergyman is defired to give a certificate*
+
+LXII.
+That the direAors and adding guardians will enforce the laws againft all offenders, who, by begging from door to door, in flreets or high- ways, may make themfelves liable as idle difor- derly perfons (by 17th Geo. U.)— to be commit- ted to the houfe of correction, there to be kept to hard labour for the fpace of one month :— and will caufe information to be made againfl all perfons as liable to the fame penalties, under the adt for eflablifhing this corporation, who Ihall order, or knowingly fuffer, their children to feek a maintenance by begging from door to door, in flreets or highways, under the pretence of opening gatcs^ or any other whatfoever— fuch
+children
+
+
+[ 3^ 3
+children being too young to be legally puniflied in their own perfons»
+
+LXIII.
+That the churchwardens and overfeers of the poor, and the furveyors of the highways, of every parifh, (hall affift the directors and adiing guar- dians in procuring work for, and ih employing, labourers out of employ (and capable of working on the highways, and elfewhere), for the wages they itiay earn, according as fuch churchwardens and overfeers may be refpeclively required fo to do, by an order of a weekly committee ; and that for this purpofe they Ihall, on an order to them given by a weekly committee, call a veftry on the next Sunday, not only to enquire into the caufe of fuch labourers being out of employ— but into the bed means of employing them on the high- ways, or elfewhere, according to the particular feafon of the year, and the ftate and condition of the highways; and that the faid churchwardens or overfeers of the poor, or one of them, fhall make a report to the next weekly committee, fubfequent to the faid veftry, of all the proceed- ings had in confequence of fuch orders— and in particular, how far the furvtyors have obeyed the fame, in employing fuch poor on the high- ways, or for the ufe thereof — fuch furveyors being liable, as parifti officers, to the penalty of FIVE POUNDS, for difobeying fuch reafonable orders — if the faid labourers become chargeable to the guardians of the poor, for want of employment.
+
+
+LXIV.
+That no churchwarden, or overfeer of the poor, who may be fent to convey paupers to their places of fettlement, or on any other bufi- nefs out of the ifle of Wight, on the part of the Houfe of Induftry, (hall be allowed more than ONE SHILLING for brcakfaft, two shillings for dinner, and two shillings for fupper: that no more than one parifh officer (hall be paid on any fuch buiinefs, unlefs an additional one be* ordered under the hand of the chairman of the committee, or by the juftice figning the order : and that in all removals of paupers to their parifhes, the officers fhall go on horfeback, and the paupers {hall be conveyed in a cart, and have TWO shillings each per day allowed them for fupport.
+
+LXV.
+That the churchwardens, and overfeers of the poor, of every parifh, on notice being fent them three months before any ballot of children to be put apprentices may take place (fpecifying the number of apprentices to be bound in the pariffi, and the day of balloting), fliall call a veflry, within a fortnight after fuch notice, for the pur- pofe of nominating proper perfons (as they come in rotation, according to the value of lands and tenements they occupy in the parifh) to receive apprentices; and the faid churchwardens and overfeers fliall return to the next weekly com*mittee, the name or names of every perfon or perfons fo nominated at fuch veftry, and acquaint every fuch perfon of the return made, and of the day fixed for balloting for apprentices at the Houfe of Induftry: and that a premium of TWENTY SHILLINGS ftiall be paid to every apprentice, at the expiration of their refpedtive terms—on a certificate of their good behaviour,, during the time of their apprenticefliip, being produced, and that they have entered into a frefh fervice for a year.
+
+LXVI.
+That the overfeers of the poor (hall pay the } average rates into the hands of the treafurer
+\ within SIX DAYS after the time required in the
+J warrant ;r..that all defaulters in this refpedt (hall
+be immediately fummoned, to fhew caufe why the penalty incurred by the adt fhould not be levied upon them 2— and that notice to this effcA Ihall be printed under the warrant of the average rates. "
+
+
+LXVII.
+That orders for the relief of the occafional poor, and letters of recommendation of the poor applying for relief; be printed and diftributed to the diredors and adting guardians, and church- wardens and overfeers of the poor, containing directions to the faid officers how to ufe them, and to make returns to the weekly committee*.
+
+f See Appendix.
+
+LXVIII.
+That eveiy diredlor, or aSing guardian^ who Ihall give any order for the relief (in money, or by adniiffion into the houfe) of any pauper, con« trary to the general adt of parliament, or to any bye-law exifting, fhall be liable to pay the fum Or turns fo ordered ; ot the weekly expences of fnch perfonsi thus admitted by their order.
+
+LXIX.
+That in cafes of baftardy, general bonds of indemnity fhall always be required^ where pro-* per fecurrtt^s can b^ had ; but where th^ reputed father cannot find a fufficient perfon to join with him in fach fecurity, he fhall be indulged with piacing TVr£NTY founds in the hands of the treafui^eri as a depofit, and receive the interefl thereof as long as he fhall maintain the .child % but, if the fum of twenty pounds cannot be obtained, any fum, not lefs than ten pounds^ may be received as a collateral fecurity^ at the difcretion of the weekly committee, or magiftiiate before Whom the reputed father is brought^^pro- vid^etf the intereft be left in the hands of the treafurer, to accumulate and mak^ up the fum of TWFi^TY pounds: and that> in all cafel when ihoney is paid as a collateral fecurity^ a general bond of indemnity without a bondfmah fh^srtl be given — provided aMb, that it be agfeed berwcenr a^l the faid partiea'-^and that it be fo,
+E ^ cxptefTed
+
+
+C 84 ]
+cxprefTed in the receipt, that if the reputed father fhall not well and truly perform the con- dition of the faid bond, but fhall negleft to pay for th^ maintenance of fuch baftard child, for three calendar months fucceffively, the money thus placed in the treafurer*s hands fhall, from thenceforth, be forfeited, and become the fole property of the fuid guardians of the poor ; and as fuch, be transferable to their general account with .the treafurer^ by order of any committee : and that the faid forfeiture fhall not defeat the faid guardians from fuing the faid bond, when they may fee occailon : and that in all cafes of fuch depofits, if the reputed fathers do not maintain their children agreeable to the con- dition of the faid bonds, and on fuch default an application for relief be made to a weekly com- mittee, no fum exceeding one shilling a week fliall be allowed the mother towards the mainte- naniceof any fuch child— unlefs a larger fum be ordered by two juflices, on her appeal.
+
+LXX.
+That when it fhall be found necefTary to make ufe of any part, or the whole, of the fund of okb THOUSAND pounds, which has been raifed from the favings of the avarage rates, and is vefled on bond from the treafurer, to anfwer any extraordinary demands the great extent of the buildings, and the various articles of furniture, may require, beyond what can be fpared for the fame, from the average rates in any one year—
+fuch fum, fo ufed, fliall be re-placed from the lirft favings that may be afterwards made.
+
+LXXI.
+That Rev. Henry Worsley^ L.L.D. Tho- mas WoRSLEY, and Daniel Collins^ Efqrs, Rev. James Worsley^ and Mr. Thomas Cooke, jun. (any three of them to conftitute a committee) be empowered to fee that the road^ leading from Town^gate to New-bridge, be kept in good and fubftantial repair by this corporation^ under an agreement, that the parifli of Carif*. brooke do annually contribute five pounds tcu wards that purpofe.
+
+LXXII.
+That the gentlemen who have the management of the farm, at the Houfe of Induftry^ are delired to lay the land down in grafs as foon as it is prac- ticable ; and ihat no gratuity be given to any fuch manager, till h^ report a progrefs made therein, to the fatisfadion of the quarterly laeetin^^
+
+
+THE END.
+
+
+THE APPENDIX CONTAINING
+
+
+No. 1. Bill of Fare.
+Ko. 2. Order of Immediate Admiffion, by two Piredors or Acting Guardians,
+No. 3. Order for Immediate Relief, by a Director or Acting Guardian,
+No. 4. Recommendation to the Surgeon, by a Direftor or Ading Guardian.
+No. 5. Order on the Treafurer, ivUh bis
+Receipt,
+
+
+C 3 1
+
+
+THE
+
+
+APPENDIX, &c
+
+
+mniBER L
+
+
+BILL OF FARE,
+
+
+i\
+I C Ditto.
+*§ ( Ditto.
+•f I Ditto.
+6 y Ditto.
+3 ^ Ditto.
+
+
+Ifteaft&S*
+
+
+i^xcaa^
+
+
+Bread and butter. 1 Boiled beef*.
+
+
+ittOw
+
+
+
+
+
+
+
+
+Pcafc — with the beef liijuor. Bread and butter.
+»
+Frefh beef foup.
+Bread and butter— «or baked pudding.
+Potatoes— —or green peafe— or beans— with fat bacon~or pork-^not exceeding ^oJbs.
+Rice-milk.
+
+
+PotMoes.
+Bread and baUer.
+Ditto*
+I
+Potatoes.
+Bread and butunfi
+Ditto.
+Ditto.
+
+
+* When the beef cannot be kept fwcet a week, the Sunday's and Wed- ncfday's dinners may be exchanged.
+N.B. The (kk have fre(h meat and broth, with other proviHons, ac- cording to the furgeon's direAions«-who is defired to give written ordert for the famcf
+
+
+[ 5 ]
+NUMBER IV.
+Ko ii3n ' — -♦ feargcon of tlje J&oufr of 3!nDttffrp.
+I BEG to recommend a poor
+perfon, living at in the parifh
+of now ill of
+whom you will altehd, ^rid report the ftate of illnefs and other circumftanccs, as you fee neceffary, to the next weekly committee.
+Dated this day of 179
+fj B. To hefigntd by a dircBor or aBing guardian.
+
+
+NUMBER V.
+
+
+UDmr on t^ ^rcafurer^ toitfi \fiA Krceipt*
+
+
+Ordered to be paidjn^ the
+of '' ' ' 179
+
+
+day
+
+
+N.B. This order to be Jtgntd by tlit chairman <f the
+cotHmiuee.
+
+
+RECEIVED, the day of
+179 of the overfeers of the poor of the pari{h of
+
+
+being
+
+
+M
+
+
+t 6 3
+being for one quarter's average of the poor rates of the faid parilh, due 179
+£■ ■'■ d.
+In cafli, - - Allowed out -
+
+
+TreafuKTt la the Corporation of the Guirdiaiu of the Poor,
+la the i^e of 1*ighi.
+
+
+iniofWishtHoufeof In^ullry, a»y of tj^
+Utffrs. ^ Co.
+TREASUnmS, NEWPORT. On demand, pay Mr.
+an3 plate it to the account of the quarterj 179
+/
+Entered — No.
+Secretary. Chiiniiui (tf the CotnOittM of AccoDQlg.
+INDEX.
+
+
+
+INDEX.
+
+
+A.
+
+
+A
+
+
+Fage
+
+
+CCOUNTS quarterly to be figned - 25
+-«——.- —_- of governor's incidental
+expences - - - - ibid.
+Admiffion into the houfe — when, by order of direAors, adding guardians, or furgeon - - - - 4
+»..■ ■ by vagrant pafs - -. ibid.
+- - 21
+3^
+
+
+Ale — to whom allowed Apprentices — how to b« put out
+when entitled to a premium
+
+
+Average rates — to be paid treafurer, within fix days after time required by war* rani - - « - ibid.
+
+
+F %
+
+
+fiaftards
+
+
+I « D £ X.
+B.
+B^^ards — fcrurity {or - - - 3J
+^___ nomen having a fecond, puaiih-
+nienc of - - - **
+^ vonien bavirg tbem, and difar-
+derlv pcribns, to be kcrt frparatc.
+Sec. - - - . 13.**-
+u hat ailowaacc to ibe mochcr in
+
+
+keeping them - * • ^ 34
+Building fund of loccl. to be kept op ibid.
+Bye-laws refpe&ng officers, to be tranf-
+cribed and given them - - *3
+. to be read rocnthly by the gover-
+nor, and annually after clodion of officers - - - • *5
+
+
+C.
+Chaplain— his duty • • \ ^^
+Children not to fcek a maintenance by
+begging • • - - •S
+Churchwardens and overfeers— to apply to weekly committee for relief of pau- pers, under 5I. penalty - 5 to call a veftry for nominating
+
+
+fons to receive apprentices • - 3^
+- to find work for men out of employ 30
+- allowance to, vhen conveying pau-
+
+
+31
+
+
+pcrs - - • . •
+Coals to be meafured by meter appointed
+by corporation - - - *3
+Committee— what time of breaking up 26
+Commit*
+
+
+
+
+
+Governor and matron— duty of - 15
+,„ — — ditto '- - 1$
+» ^ _ — ditto - 17
+
+
+Iniprcffed feamen's families— how relieved 7 Inventory to be taken annually ' . s8
+
+
+Labourcrsout of work— relief of _ _ 8 l,ic|uors diililled, not to be brought into the houfe without leave of, com- ' wittce - ^ - ly
+M.
+Matron— duty of - . - 15
+Meetings quarterly - - 27
+, penalty of, neglediog . ibid^
+N-
+NurCes to give notice of death • tg
+O.
+Officers of the houfe to accept of no gra- tuity , _ zg
+difobeying orders, to be di&
+charged - - ibid;
+,. ., feparate table— accottnt kept of st
+Over-
+
+
+Overfeers— allowance of, when adting under
+orders of removal - - 31
+> to make return of all money paid
+by them, by order of a diredlor or adting guardian , -^ - 7
+%.. •... default in attendingsweekly com- mittee, penalty of - -. g *
+P.
+Parents — punifliment of, for permitting
+their children to feek a maintenance
+by begging - - 29
+Penfions to be granted at quafterly meetings
+only, and to whom .- - 4
+Poor, fent to county hofpltal, expences of
+to be paid by weekly committee 28
+■ drfcharged from the hbufe^ how treated
+on return - - - 57
+^ muftered once ambnth - 14
+not to afk alms - . . 12
+not to be deprived of their goods, &c. 4
+*. m^y be vifited by relations - 9
+••..... leave of temporary abfence from the
+houfe granted them, and by whom 12 ....... to pradtice the ufe of the fire-engine 14
+....... to be reviewed quarterly, and the idle
+difcharged, or put to labour - 27
+Provifions to be entered in governor's
+weekly book - - 13
+
+
+Relief
+
+
+INDEX.
+
+
+R.
+
+
+Page Relief conftant - - 3
+cafual « - .6
+i. on improper application - ibid.
+Rewards may be given to induftrious poor 11 Road to be kept in repair^ for 5I. yearly 35
+
+
+S.
+Salaries and bills not to be paid without
+printed order Servants not to be relieved, or admitted
+into the hoiife - - -
+Sick, how treated
+Spinning-wheels, &c. allowed poor wotnen Superintendants of work to prevent wstfte
+of materials - -^ -
+Surgeon, duty of - Surveyors of highways Co employ the poor
+
+
+28
+9
+Si
+8
+
+
+17 18
+30
+
+
+T.
+Tea to be delivered by the governor Ditto and tobacco to whom allowed
+Wives of poor labourers— allowance to
+
+
+- 22 17
+
+
+5
+
+
+FINIS.
+
+
+ERRATUM.
+
+
+A-
+
+
+
+
+
+
+Page 19 — line 2 — for ineffeftully, read inefftclually*
+
+
