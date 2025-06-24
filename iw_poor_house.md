@@ -11,6 +11,220 @@ Isle of Wight workhouse:
 - https://iowhospitals.org.uk/workhouse.php
 - https://discovery.nationalarchives.gov.uk/details/r/1288fd19-b8d0-44aa-a4ad-0720a6b59503
 
+
+
+https://archive.org/details/b28773135_0002/page/232/mode/2up?q=wight
+The state of the poor; or, an history of the labouring classes in England, from the conquests to the present period. In which are particularly considered, their domestic economy, with respect to diet, dress, fuel, and habitation; and the various plans which, from time to time, have been proposed, and adopted, for the relief of the poor: together with parochial reports relative to the administration of work-houses, and houses of industry; the state of friendly societies; and other public institutions ...
+by Eden, Frederick Morton, Sir, 1766-1809. n 86135420
+
+Publication date 1797
+
+pp. 233-266
+
+TO DO
+
+ISLE OF WIGHT.
+
+THE Poor belonging to the various parllhes in the Ifle of Wight arc chiefly relreved ataHoufe of Induflry fituated near the town of Newport. It was ercdled under the authority of an Adi of Parliament paffed in .1 771 whereby 80 acres of the foreft of Parkhurfl; were veiled in the gentlemen of the ifland for the 'term of 999 years, under the title of the Corporation or Guardians of the Poor of the Ifle of Wight ; and, in order that each parilh might contribute it’s fair proportion, an account was taken of the amount of their refpedlive Poor’s Rates for the preceding 7 years, and, according to the average, the ratio of their future payments was determined on ; fo that thofe parllhes, whofe parochial charges were the heavieft at the time of the valuation, are now burthened with the greatell: quota towards the confolidated fund. One pays 2s. in the pound on the rack rent; another, ijd,; and a third, 3s. 3d. in the pound upon twothirds of the rent. The Corporation was authorized to borrow 12,000. for the purpofe of ereding the Houfe of Induflry ; but this fum being found inadequate to complete the defign, a fecond application was made to Parliament, and by an Ad palTed in 1 776, the Corporation was empowered to borrow an additional fum not exceeding jTS 000. ; and as the provifions of the former Ad had been found by experience to be extremely defedive, the whole was repealed, and new powers and regulations provided \
+
+The members of the Corporation are fiich inhabitants of the ifland as are feifed in fee, or for life, or of leafehold upon lives, in their own or their wives* right, of lands or property rated to the Poor’s Rate at jfyo. a year ; heirs apparent to property rated at 00. a year ; all redors and vicars of the ifland ; and all occupiers of lands or property rated at 100. whether in one or more pariflies within the ifland. On the laft Thurfday in June, in every year, 24 diredors, (of whom 12 are to be fuch as were not diredors in the preceding year,) are eleded by the Corporation from their own body ; proper perfons for ading guardians are iikewife nominated in each parifh by the Inhabitants alTelTed to the Poor’s Rate, and lifts tranfmitted to the diredors, from which reprefentatives for each
+
+• • * t
+
+* ir Geo. 3. c. 43. * i<5 Geo. 3. c, 53. f. 2.
+
+pariflij (according to the proportion they pay towards the Poor’s Rate,} are chofen by ballot, to make up the number of 36 ading guardians, who. continue in office one year. A clerk and other neceffiu y officers are likewife appointed. The diredors and guardians are divided into quarterly,, monthly, and w'eekly committees, the laft of which confid of 2 diredors and 5 ading ‘guardians. They meet at the houfe every Saturday, to fettle the governor and ftew^ards’ accounts of the preceding w'eek, to give diredions for the enfuing week, to hear complaints, to grant occafional relief to perfons out of the houfe, and to attend to fuch cafes as require immediate invelligation. The following are the moft material of the bye.laws enaded by the Corporation for the regulation and government of the Houfe of Induftry ;
+
+1, That all poor perfons, fingle or married, without families, who are unable to maintain themfelves, be taken into the houfe, and not fupported out of it by any fettled allowance or penfion..
+
+2, That all poor perfons, whofe families are too large to be maintained by their owm labour, may offer one or more of their, children, to he received into the houfe, at the dlfcretion of the weekly committee,.
+
+4, That poor perfons received into the houfe, for temporary relief only, Ihall' not be deprived of their houflrold goods, furniture or other property. But fuch wearing apparel, and other goods, as any pauper may bring into the houfe, fhall be deemed and taken to be the property of the guardians of the poor, during the. time fuch perfon Ihalh be maintained in the houfe.
+
+6, That a: weekly committee may grant to the. ufe of any poor labourer’s w'ife, on the birth of a fourth, fifth, or fixth child, the refpedive fums of five fliillings, feven Ihillings and fixpence, or ten fhillings and fixpence, according as he may then have living, four, five, or fix children, under fourteen years of age ; but, that five Ihillings thereof be applied, by the overfeer, to the payment of- the midwife,
+
+y, That one churchwarden, or overfeer of the poor, of every parilh, he obliged to apply to the weekly committee on every fitting, either in perfon, or by a director, or acting guardian, and to report, (after due enquiry made by himfelf, at the^refpe<5live dwellings of the poor,) the number and ages of the family, and other ciicumftances, including
+
+the place of fettlement, as well as the Illnefs of all perfons in his parllh, who may afk for, or Hand in need of, relief, under the penalty of any fum, not lefs than forty (hillings, and not exceeding five pounds, as diredled by the A6t ; but that relief may be granted to any pauper, who may be in the fame manner reported by the furgeon, a diredor, or ading guardian.
+
+8, That in cafe of an application wherein the preceding regulation hath not been adhered to, the committee, if it fee proper, may entruft a eliredor, or ading guardian, or the furgeon, with an order of relief, to be delivered, or not, to the pauper, according as the perfon, thus entrufted, may find the circurnftances of the cafe ; or the committee may order the furgeon, or parilh-officer, to vifit the faid pauper, and to make a report, as before required, to the next committee, which may then give relief from the time of the firft application.
+
+1 1, That the weekly committee, on application of an overfeer, may grant monthly relief out of the houfe to the families of men imprefled Into the fea-fervice, during their continuance as imprefled men, not exceeding the fum of one fhilllng and fixpence a week, for two children under the age of ten years ; the fum of two (hillings a week, for three fuch children ; and the fum of three (hillings a week, for four fuch ; to be paid weekly by the refpedive overfeers, who are required to (lop payment on the death or difeharge of any fuch man, and report the (fate of the family to the next weekly committee ; and that this proportion of relief be adopted In all fimilar cafes.
+
+12, That when it (hall appear to a weekly committee that labour In hufbandry cannot be obtained at the ufual wages, on account of a general exifting fcarcity of work, the committee may order any reafonable fum, not exceeding one fourth of the real earnings of fuch labourers, employed by its confent, to be paid by overfeers to the dllferent perfons employing them, fo that fuch earnings do not exceed fix (hillings a week for each man, and fo in proportion for others. And when fuch earnings do neceffarily fall (hort of fix (hillings a week, merely on account of the unfeafonablenefs of the weather, (as in deep fnow or hard frofts,) the deficiency may be made up to that fum, for a man who has a family to maintain.
+
+13, That a fum not exceeding ten pounds In any one year, be laid out In purchafing fpinning-wheels, cards, and fuch like implements of work,
+
+or the ufe of the induftrious poor women and children ; which, after being marked “House of Industry,” maybe lent or given them, at the difcretion of the \veekly committee ; and that woi-k in fpinning, knitting, &c. fliall be fupplied from the houfc, by an order from the faid committee, to all perfons of the above defcription, who may not be able to procure any fuch work elfewhere.
+
+20, That every fingle woman, becoming chargeable to this corporation the fecond time, on account of baftardy, fhall be carried before two juftices of the peace, to be dealt with according to law ; and that all fuch women in the houfe, (except thofe, who are employed in the hard work of the houfe, and thofe who have been punilhed as aforefaid,) as well as all other perfons, who, by reafon of their own criminality or mifcondu(R, are there kept and maintained, fhall be placed in feparate apartments from the other poor, provided for that purpofe ; fhall have their names entered in the black book; fhall be allowed no folid meat on meat-days ; and wear coarfe yellow coats or gowns, or other difgraceful dirtindions, at the difcretion of the weekly committee.
+
+40, That only one fort of flour be ferved into the houfe, and that, from the whole meal drefled through a 14s. cloth ; and that only one meal of folid meat be ferved weekly ; the other meat-dinner to be compoled of meat cut into very fmall pieces, the bones broken very fmall, and boiled into broth, properly thickened with vegetables, &c. ; and that only 150 lbs. of meat be allowed for that dinner ; but that fat pork or bacon (to be bought in the flitch, without the hams) may be boiled, cut into very fmall flices, with peafe, beans, or potatoes; for one dinner in the week, not exceeding 50 lbs. j and that the annexed bill of fare ’ be particularly obferved : fubjed, however,, to fuch alteration,.
+
+'BILL OF FARE.
+
+Bveakfaft.
+
+Sunday, Bread and butter.
+
+Monday, Ditto. —
+
+Tuefday, Ditto. •—
+
+Wednefday, Ditto. —
+
+T'hurfday, Ditto. —
+
+Friday, Ditto, —
+
+Saturday, Ditto. —
+
+* When the beef cannot be kept cha'nged. ^
+
+Dinner. i . . Supper.
+
+Boiled beef.* ■ • — — • — ' Potatoes., ,
+
+Peafe, with the beef liquor. — — Bread and butteri
+
+Bread and butter. — — — Ditto. ■
+
+Frelh beef foup. . — -7- Potatoes.
+
+Bread and butter 5 or baked pudding. Bread and butter.
+
+Potatoes, oi' green peafe, or beans; with Ditto.
+
+fat bacon, or pork, not exceeding jolbs.
+
+Rice-milk. — — — Ditto.
+
+fweet a week, the Sunday’s and Wednefday.’i, dinny# may be ex
+
+eration as the feafon of the year, or other circiim (lances, may render expedient in the opinion of the weekly committee.
+
+45, That the tea for the poor fick people in the houfe, fliall be bought at the fame place, and of the fame peiTon, who contrafts for fugar j and fhall be received by the governor, and delivered out in like manner as the other ftores.
+
+49, That every perfon, who, being duly qualified, fhall l>e eletfled a director, and (hall refiife to aCt, fliali forfeit the fum of six pounds ; and every guardian, refufing to aCt when elected an aCting guardian, fhall forfeit the fum of FOUR pounds ; unlefs reafonable caufe fhall be fhewn and allowed by the majority of the directors and adting guardians prefent at the next general quarterly meeting after fuch election.
+
+50, That if there fliall not be prefent two directors and three aCtmg guardians at any weekly committee, each director of that month not being prefent, fhall forfeit twenty shillings j and every fuch aCting guardian, ten shillings.
+
+51, That a chairman be chofen, by every committee, to prefide and regulate the proceedings; and every member of any committee, who fhall not appear in the committee-room within half an hour of the time appointed for their meeting, fhall, if a direCtor, forfeit four shillings ; if an aCting guardian, two shillings ; in cafe fuch default fhall delay the proceeding to bufinefs: and no member (under the fame penalty) fhall leave the committee while fitting, without leave of the chairman : and on no account, if there be not a fuflicient number of members remaining to conflitute a committee.
+
+Thefe fines are extremely moderate ; and can never operate as compulfory penalties on gentlemen of property. They feem, however* in
+
+N. B. The fick have frefh meat and broth, with other provifions, according to the furgeon’s divcAions — who is defired to give written orders for the fame.
+
+The courfe of diet has lately been altered ; the following Bill of Fare, which is now ufed in the houfe, was, obligingly, communicated to me, with other information, by the governor ;
+
+Sunday,
+
+Breakfaft. Onion broth.
+
+Monday,
+
+Tuefday,
+
+Wednefday,
+
+Thurfday,
+
+Friday,
+
+Saturday,
+
+Ditto.
+
+Ditto.
+
+Ditto.
+
+Ditto.
+
+Ditto.
+
+Ditto.
+
+Dinner.
+
+Beef cut fmall ; the bones broken, and boiled into foup, and thickened with vegetables : bread.
+
+Pork, greens, beer, and bread. —
+
+Beef in foup. thickened with rice.
+
+Rice milk, with butter and treacle.
+
+Pork with greens, or potatoes, beer, and bread.
+
+Bread, cheefe, and beer. — .
+
+Pork and peaie ; no bread, —
+
+7
+
+Supper. ^
+
+Potatoes, butter, fait, and beer.
+
+Bread, butter, and beer. Potatoes, butter, fait, and beer. Bread, cheefe, and beer. Potatoes, butter, fait, and beer.
+
+Ditto.
+
+Ditto.
+
+the
+
+he prefertt ftate of the inftitution to be very unneceflary. The dIre£lor$ and guardians are very regular in their attendance on committee days, &c. ; and only one inftance occurs in the annexed accounts of a fine having been paid by either a guardian or diredor, during the laft 3 years.
+
+59, That every quarterly committee of accounts fhall examine into all the accounts of the preceding quarter, and Hiall prepare them for publication, and after they have thoroughly examined them, they fliall fet their hands to the fame : and the feparate articles of the incidental expences, paid by the governor, ftiall be entered in the quarterly account-book, in the fame manner as the bills, &c. ; and no bills or falaries of olEcers fliall be paid by the treafurer, till a printed order be produced, figned by the chairman of the committee of accounts. i5i, That any fum, not exceeding twelve shillings, may be allowed for the burial of any poor perfon dying out of the houfe, on application being made to the next weekly committee, or to a magiflrate, on oath, that the deceafed did not leave effedts fufEcient for defraying funeral cxpcnces : but that nothing fliall be allowed when the perfon is not buried at the foie expencc of the corporation, and in the ufual manner of fuch paupers ; of which the officiating clergyman is defired to give a certificate.
+
+70, That when it ffiall be found neceffiary to make ufe of any part, or the whole, of the fund of one thousand pounds, which has been raifed from the favings of the average rates, and is vefted on bond from the treafurer, to anfwer any extraordinary demands the great extent of the buildings, and the various articles of furniture may require, beyond what can be fpared for the fame, from the average rates in any one year : fuch fum, fo ufed, ffiall be re-placed from the firft favings that may be afterwards made.
+
+The principal part of the building Is 300 feet in length from eaft to weft, by 37 wide in the clear ; having windows on both fides, for the advantage of a thorough draught of air : at the diftance of 200 feet from the weft end, a wing from the main building ranges fouthward, 170 feet by 24 ; from the cud of which, are built work-ffiops for the manufadurers and mechanics ; and thefe, with a walk on the weft, form a fquare of 200 feet by 1 70.
+
+
+On the eaft fide of the wing is a court, 170 feet by 50, formed by offices on the north ; fuch as dairy, walh-houfe,. brew-houfe, wood-houfc, ftore rooms, See. and a wall on the fouth. In the principal building Is a large ftore-room, Reward’s room, dining hall-, 1 18 feet long by 27 wide, and a common fitting room, for the impotent and aged poor.
+
+Under the eafl: end there are cellars for beer, meat. See. Over this building are the governor’s and matron’s lodging rooms, the laundry, nurferie?^ and fick wards*
+
+In the wing on the ground floor are die fchool rooms, apothecary’s fhop, kitchen, fcullery, bake-houfe, bread-room, governor’s and matron’s fitting room, and pantry; and over are the lying-in rooms, fick wards, and 20 feparate rooms or apartments for married men and their wives, with two common fitting rooms adjoining, for the old and infirm, who are unable to go dov/n flairs. In front of the principal building is a large gate-way; on the eaft fide of which is a mafter weaver’s room, and fpinning room; 96 feet long by 1 8 wide, with flore-rooms over it ; at the weft fide of this gate- way are the flioe-maker’s and tailor’s fhops, with a fpinning room, 150 feet long by 18 wide, with weaving rooms and florerooms over;
+
+The chapelfis ereded on the north fide of the principal building: over it is a ftore-room. Four hundred yards diftance is a peft-houfe, with a burying ground, walled in, clofe adjoiningi
+
+To the north of the peft-houfe a building has been lately eredled for the admiflion of perfons under inoculation : it confifts of four roomSj each of about 15 feet by 14. On the fouth is a large garden, which fupplies the houfe with vegetables. On the eaft, behind the offices, are placed -the hog-flies^ barn, ftable, and other out-houfes*.
+
+The houfe can.accommodate 700 people : the number of inmates;, how* ever, feldom exceeds 550. The following is a lift of the prefent inmates: they amount to 495. ‘ (3d of April, 1796.)
+
+86 men; from. 20, to 90. years of age, confifting of cripples,, bllnd^ idiots, lunatics, &c.
+
+1 15 women; from 20 to 90 years of age ; of whom the. younger part; are blind, &c. or fent hither in cafes of baftardy.
+
+* Warner’s Hamplhire, iii. 73.
+
+131 boys; from Infants to 13 years; among whom are many cripples, who are ufually employed under the tailors, or fhoc-makers, in the houfe ; or in knitting, &c. according to their ftrength, and ability.
+
+163 girls ; from infants to 13 years; cripples, &c. fome of whom can fpin worRed, yarn, or flax.
+
+The manufadfure carried on in the houfe chiefly confifts in making facks for coal, flour, and bifcuit ; befides which, linfey, kerfeys, and other articles of that nature, are made, principally, for the ufe of the houfe. The quantity of each, annually manufaiStured during the laft 3 years, and in the years ending at midfummer 1783, may be feen in the annexed accounts ; which alfo fpecify the falaries paid to the governor, matron, and other officers.
+
+The baptifms in the houfe, during the laft 3 years were: 20 — 12 — 12 : and the burials, 68 — 32 — 61.
+
+The number of regular out-penfioners is, at prefent, 44 : they receive, each, from is. to 3s. a week. The number of cafual weekly poor, and the amount of cafual weekly allowances, is very fluduating ; and depends much on the feverity of the weather, and other circumftances. In January, and February, 1 793, the reliefs granted on Saturdays, amounted, for feveral weeks, to 130. ^ 150. jT 170. and upwards. Laft winter the weekly reliefs, granted on Saturdays, w^ere from ^ 9. to jT 17.
+
+The debt paid off amounts to £ 5250. : the debt now owing is ^ 12,200. The land belonging to the corporation, amounting to near 80 acres, is laid down in a grafs farm. The produce is fold by a manager, and the receipts placed to the general account of the houfe.
+
+The following ftatements of the receipts and expenditure for 4 years, are copied from printed papers, which are annually prepared and laid be* fore the corporation. They are, drawn up with great perfpicuity and accuracy, and afford a clearer view of the various circumftances conne^fed with this inftitution, than any general obfervations could convey. Perhaps but few improvements could be made in the mode of framing up this annual amount ; but I would venture to fuggeft to the guardians, that the quantity of flax, hemp, wool, and other materials purchafed, fhould be particularized, as well as the fums paid for them. The public would thereby be enabled to judge whether a houfe of induftry bought their raw
+
+materials dearer or cheaper than a common manufacturer. It Is like wife extremely defirable that the average number of men, women, and children, in the houfe, each month in the year, fhould be annexed to tlie account, as is done, (in a general manner,) at St. Peter’s hofpital in BriftoT; and that the average number of men, women, and children, employed weekly, or monthly, in the manufactory, and cf the goods actually manufactured in the year, fhould be printed : it is only from comparing fuch particulars, with the amount of expenditure, that a fair eftimatc can be formed of the work annually performed in a houfe of induftry, and of the annual charge attending the maintenance of a Pauper, under thefe inflitutions.
+
+The following table is extrated from the Returns made to Parliament
+
+in 1786 : [accounts follow]
+
+
+---
+
 11 Geo. 3. c.43
 
 https://books.google.co.uk/books?id=8qRFAAAAcAAJ&pg=PA74#v=onepage&q&f=false
