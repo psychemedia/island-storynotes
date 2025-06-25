@@ -67,7 +67,7 @@ the old "Chantry House."
 1850 barbers picturesque guide
 GODSHILL is a picturesque village, much remarked for
 the bold position of its Church, which, standing on a very abrupt hill, surrounded by the cottages of the inhabitants,
-may be supposed to have given name to the place, from its erection on so commanding a site. Rustic tradition, indeed, tells that a more lowly spot was at first selected; but that the materials employed for that purpose by day, being regularly removed, by invisible agents, to the summit of the hill during the night, the workmen at length wisely determined to save themselves further unnecessary trouble, and built the church where some supernatural authority so plainly intimated that it must be erected !
+may be supposed to have given name to the place, from its erection on so commanding a site. Rustic tradition, indeed, tells that a more lowly spot was at first selected; but that the materials employed for that purpose by day, being regularly removed, by invisible agents, to the summit of the hill during the night, the workmen at length wisely determined to save themselves further unnecessary trouble, and built the church where some supernatural authority so plainly intimated that it must be erected!
 
 
 
