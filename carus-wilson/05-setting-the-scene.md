@@ -315,12 +315,12 @@ Owing to the severity of the weather, our poor would have fared badly had it not
 During the week we have had fresh arrivals of recruits for Parkhurst Barracks, and several hundred soldiers of different regiments have left for Portsmouth *en route* for the Crimea, all of whom wore a cheerful countenance and did not appear at all depressed at leaving England; but on the contrary, they cheered lustily, and vowed they would give a good account oft the Russians if they should have the good luck to meet them.
 ```
 
-```{admonition} *28th Slashers-Sebastopol, or death !*, Hampshire Telegraph - Saturday 14 April 1855
+```{admonition} *28th Slashers-Sebastopol, or death!*, Hampshire Telegraph - Saturday 14 April 1855
 :class: dropdown
 
 [Hampshire Telegraph - Saturday 14 April 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18550414/011/0004)
 
-A large draft of upwards of 300 left Parkhurst Barracks, on Friday, for the Crimea, in excellent spirits, and eager for the fight. A flag was unfurled which had been got up by the men, inscribed "The 28th Slashers-Sebastopol, or death !"
+A large draft of upwards of 300 left Parkhurst Barracks, on Friday, for the Crimea, in excellent spirits, and eager for the fight. A flag was unfurled which had been got up by the men, inscribed "The 28th Slashers-Sebastopol, or death!"
 ```
 
 ```{admonition} 48th, Hampshire Telegraph - Saturday 07 July 1855
@@ -356,7 +356,7 @@ The officer class of regiments stationed at the garrison seem to have integrated
 :class: dropdown
 [Isle of Wight Observer - Saturday 17 September 1853](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18530917/007/0002)
 
-HURRAH FOR THE WELSH FUSILIERS !
+HURRAH FOR THE WELSH FUSILIERS!
 
 On Tuesday last the officers of the 23rd Royal Welsh Fusiliers gave a grand entertainment at the Queen's Rooms, Newport, which was brilliantly attended. The rooms were decorated with consummate taste, and presented a very gay and elegant tromp d'oeil. On the walls were portrayed animals of various kinds, around which gracefully depended festoons and bouquets; and from the side windows, avenues filled with choice exotic and native plants branched off, presenting charming perspective. Rarely, indeed, have we witnessed a more delightful reunion. Dancing commenced at ten o'clock to the music of the excellent Ryde Quadrille band, and alternately with that of the regiment, under the able superintendence of Mr. Handley. Quadrille, polka, valse, and galop followed each other rapid succession, and were kept till an advanced hour in the morning, giving ample occupation to the votaries of Terpsichore; the gay uniforms of the officers contrasting with the sober dress of the civilian, and intermingling with the beautiful costumes of "the fairest of the fair, presented scene charming in the extreme. At 12, the supper room, magnificently adorned with a profusion of plate and vases of flowers, and provided with the most luxuriant viands in the greatest profusion for the assembled guests, which reflected much credit upon the caterer, Mr. Jelly, the messman of the regiment, was thrown open.
 

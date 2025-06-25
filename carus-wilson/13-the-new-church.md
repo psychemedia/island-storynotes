@@ -457,12 +457,12 @@ And be it with thy presence fill'd.
 Here, when thy people seek thy face,  
 And dying sinners pray to live. 
 Hear thou in heaven, thy dwelling-place;  
-And when thou nearest, Lord, forgive !
+And when thou nearest, Lord, forgive!
 
 Thy glory never hence depart;  
 Yet choose not, Lord, this house alone:  
 Thy kingdom come to ev'ry heart;  
-In ev'ry bosom fix thy throne !
+In ev'ry bosom fix thy throne!
 
 ```
 

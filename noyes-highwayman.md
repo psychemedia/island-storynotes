@@ -91,7 +91,7 @@ They had bound a musket beside her, with the barrel beneath her breast!
 "Now keep good watch!" and they kissed her. She heard the dead man say —  
 Look for me by moonlight;  
 Watch for tine by moonlight;  
-I'll come to thee by moonlight, though hell should bar the way !
+I'll come to thee by moonlight, though hell should bar the way!
 
 IV.
 

@@ -77,7 +77,7 @@ Once again, we might wonder if Abraham Elder drew on such observations as he fra
 >
 > "Yes," he replied, "St. Katherine's *is at present the highest point of the island*."
 >
-> "*Is at present !* Why, you do not mean to say that there ever was a time when its elevation was different?"
+> "*Is at present!* Why, you do not mean to say that there ever was a time when its elevation was different?"
 >
 > "That I know nothing about," he replied; "but it appears very probable that Shanklin Down will soon overtake it in height."
 >

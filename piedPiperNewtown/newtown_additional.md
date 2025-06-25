@@ -147,7 +147,7 @@ Save when at noon his paunch grew mutinous
 For a plate of turtle green and glutinous)  
 "Only a scraping of shoes on the mat?  
 Anything like the sound of a rat  
-Makes my heart go pit-a-pat !"
+Makes my heart go pit-a-pat!"
 
 V.  
 "Come in!" — the Mayor cried, looking bigger:  
@@ -255,7 +255,7 @@ Ringing the bells till they rocked the steeple.
 Poke out the nests and block up the holes!  
 Consult with carpenters and builders,  
 And leave in our town not even a trace  
-Of the rats !" — when suddenly, up the face  
+Of the rats!" — when suddenly, up the face  
 Of the Piper perked in the market-place,  
 With a, "First, if you please, my thousand guilders!"
 
@@ -278,7 +278,7 @@ And a matter of money to put in your poke;
 But as for the guilders, what we spoke  
 Of them, as you very well know, was in joke.  
 Beside, our losses have made us thrifty.  
-A thousand guilders! Come, take fifty !"  
+A thousand guilders! Come, take fifty!"  
 
 X.  
 The Piper's face fell, and he cried  
@@ -482,7 +482,7 @@ and it is plain that the distinction between the two is more than one of size or
 
 So, in spite of the naturalists, I think there might well be rats in Hamela in 1284, and, indeed, the memorable swarm may actually mark the epoch of their first appearance there. We do not wonder that the civic fathers were disturbed, and that somebody was ready to help them out of the difficulty; the trial to faith comes in when we hear how he set about it and succeeded. For myself, I frankly confess that I do not regard the performance of the "Pied Piper" as being indubitably "a fond thing vainly invented"; I want more proof that it is so than the poor thing, popular belief. When I was young, oil and troubled water were associated only in a figure of speech, supposed to be born of the ignorance and poetical exuberance of the ancients; whereas now the rule of oil over the waves is considered less questionable than that of Britannia. *Multa renascentur*. That the lower animals are affected by musical sounds has been known for centuries; and rats, from what one reads of the rhyming `[*As You Like It*, Act iii, Sc 2, 188; *Of Poetry*, Temple's *Miscellanea* P. ii, p. 244.]` of the Irish contingent, and of the survival of poetical conjurations in France and elsewhere,`[Rolland, *Faune Populaire: Les Mammifères Sauvages*, pp. 24-7,]` may be specially susceptible to the influence of the Muses; if we did but know the Piper's tune, it may be *fin-de-siècle* rats would rush forth with the same mad eagerness as those of old. The *very* strain it ought to be: "open Barley" had a goodly sound, but it served not Cassim's turn when he failed to think of "open Sesame".
 
-Our Hameln artist does not stand alone. Once upon a time the district about Lorch `[Cited in *Curious Myths* pp. 422, 432, from Wolf's *Beitrage zur deutschen Mythologie* i, 171]` was delivered from ants, crickets, and rats by three pipers, who being defrauded of the guerdon, played off pigs, sheep, and little ones respectively; and in 1240 a Capuchin named Angionini `[Sprenger, p. 16, from *Le Corsaire*, of December 1824.]` lured into the river all kinds of domestic animals and stock at Draucy-les-Nouis near Paris, because the villagers refused him the reward for freeing them of rats and mice by means of a small book and a little demon. Other cases might be found for the comfort of those who, instead of agreeing that recurrence of an alleged experience goes to confirm the reality of it, regard multiplication of examples as tending to the discredit of them all. It is only when such students have collected half-a-dozen "variants" that they feel their incredulity justifiable, range their treasure in a "cycle" and account their attitude as being truly scientific !
+Our Hameln artist does not stand alone. Once upon a time the district about Lorch `[Cited in *Curious Myths* pp. 422, 432, from Wolf's *Beitrage zur deutschen Mythologie* i, 171]` was delivered from ants, crickets, and rats by three pipers, who being defrauded of the guerdon, played off pigs, sheep, and little ones respectively; and in 1240 a Capuchin named Angionini `[Sprenger, p. 16, from *Le Corsaire*, of December 1824.]` lured into the river all kinds of domestic animals and stock at Draucy-les-Nouis near Paris, because the villagers refused him the reward for freeing them of rats and mice by means of a small book and a little demon. Other cases might be found for the comfort of those who, instead of agreeing that recurrence of an alleged experience goes to confirm the reality of it, regard multiplication of examples as tending to the discredit of them all. It is only when such students have collected half-a-dozen "variants" that they feel their incredulity justifiable, range their treasure in a "cycle" and account their attitude as being truly scientific!
 
 If what is told of more than one place, cannot be told with truth of any, and what has never happened in our time never happened at all, the exodus of the Hameln innocents is in "a parlous state". We have just glanced at the musical kidnapping of Lorch,`[*Curious Myths* p. 422.]` and Baring-Gould also reports how Brandenburg was once visited by a man who went fiddling through the streets till he had a troop of little listeners whom he wiled to the Marienberg, which opened to enclose both him and them. Nearer home, according to Dr. Kirkpatrick in *The Sea Piece* a narrative, philosophical, and descriptive poem published in 1750, a like tradition is attached to Cave Hill near Belfast, though I believe the memory of it is now grown dim.
 
@@ -493,7 +493,7 @@ A blinking Piper once with magic Spells
 And Strains beyond a vulgar Bagpipe's sound,  
 Gathered the dancing Country wide around;  
 When hither as he drew the tripping Rear  
-(Dreadful to think and difficult to swear !)  
+(Dreadful to think and difficult to swear!)  
 The gaping Mountain yawn'd from side to side,  
 A hideous Cavern, darksome, deep, and wide;  
 In skipt th' exulting Demon, piping loud,  

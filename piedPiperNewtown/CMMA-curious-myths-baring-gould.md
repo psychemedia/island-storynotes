@@ -140,7 +140,7 @@ A hymn by the late Dr. Faber, now very popular, is unquestionably founded on thi
 "Hark! hark, my soul! Angelic songs are swelling  
 O'er earth's green fields and ocean's wave-beat shore:  
 How sweet the truth those blessed strains are telling  
-Of that new life when sin shall be no more !
+Of that new life when sin shall be no more!
 
 "Onward we go, for still we hear them singing,  
 Come, weary souls, for Jesus bids you come:  

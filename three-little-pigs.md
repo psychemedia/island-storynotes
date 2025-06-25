@@ -302,14 +302,14 @@ I be cum a Shrovun,
 A piece a bread, a piece a cheese,  
 A bit a your fat beyacun.  
 Or a dish of doughnuts,  
-Aal of your own meyacun !
+Aal of your own meyacun!
 
 A Shrovun, a Shrovun,    
 I be cum a Shrovun,  
 Nice meeat in a pie.  
 My mouth is verrey dry!  
 I wish a wuz zoo well a-wet,  
-I'd zing the louder for a nut !
+I'd zing the louder for a nut!
 
 *Chorus.*  
 A Shrovun, a Shrovun,  
@@ -324,7 +324,7 @@ Vor we that cums a Shrovun.
 Vine veathers in a pie.  
 My mouth is verrey dry.  
 I wish a wuz zoo well a-wet,  
-Then I'd zing louder vor a nut !
+Then I'd zing louder vor a nut!
 
 Dame, `[The mistress of the house, if past the middle age« was called Dame, i. e. Madame.]` dame, a igg, a igg, `[An egg an egg]`  
 Or a piece a beyacun.  
@@ -333,12 +333,12 @@ Or crock to bwile the peeazun.
 Vine veathers in a pie,  
 My mouth is verrey dry.  
 I wish a wuz zoo well a-wet,  
-Then I'd zing louder vor a nut !
+Then I'd zing louder vor a nut!
 
 *Chorus*.
 
 A Shrovun, a Shrovun,  
-We be cum a Shrovun !
+We be cum a Shrovun!
 
 If the song was not given sufficiently loud, they were desired to sing it again. In that case it very rarely required a second repetition. When the Shrovers were more numerous than was anticipated, it not unfrequently happened that, before the time of the arrival of the latter parties, the Shrove-cakes had been expended; then dough-nuts, pancakes, bread and cheese, or bread and bacon, were given, or halfpence were substituted; but in no instance whatever were they sent from the door empty-handed. It is much to be regretted that this charitable custom should have become almost extinct; there being very few houses at the present time where they distribute Shrove-cakes.
 
@@ -438,7 +438,7 @@ And so is the ale of the good barley;
 Little maid, little maid, turn the pin.  
 Open the door and let us come in;  
 God be here, God be there.  
-I wish you all a happy new year !
+I wish you all a happy new year!
 
 ```
 
@@ -589,7 +589,7 @@ At which they thought proper to squeak and to cry.
 "Shall I build it of Mud-or of Straw-or of Stone?  
 "But in chusing these things I must let you alone,  
 "For the Fairy declared you n1ust use your discretion,  
-"As if ye were Pigs of a *learned Profession* !"
+"As if ye were Pigs of a *learned Profession*!"
 
 "I will have it of *Straw*— and of *Mud*- but no *Stone*"-  
 The Eldest replied,-"and live in it alone."-  
@@ -766,7 +766,7 @@ Pigweeney now lifted the Window still higher;
 "That I verily think my Bones will soon crack."
 
 The Window was rais'd to a moderate height,  
-When in jump'd the Wolf !-the Pig, in a fright,  
+When in jump'd the Wolf!-the Pig, in a fright,  
 Ran behind his new Gridiron, more dead than alive;  
 At this moment of horror! a Bee, from its hive,  
 Flew into the Room, stung the Wolf in his Eye,  
