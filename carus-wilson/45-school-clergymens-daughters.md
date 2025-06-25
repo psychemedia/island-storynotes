@@ -4,6 +4,14 @@ In the biography of Currer Bell, née Chartlotte Brontë, published in *Sharpe's
 
 The proposal to open the school, along with a request for offering support by subscription and an invitation to recommend potential entrants to the new school, was widely syndicated in northern newspapers in November 1823.
 
+```{admonition} A note on the spelling...
+:class: warning
+
+A look at the sign as you enter the hamlet today shows the spelling today to be *Cowan Bridge*. But on the Ordnance Survey map of 1847, and in many contemporary publications, the spelling was *Cow__e__n Bridge*. I have tended to use the spelling as it appeared in each printed work.
+```
+
+![Ordnance Survey Six Inch England Wales,Lancashire Sheet XX, Surveyed: 1844 to 1845, Published: 1847 https://maps.nls.uk/view/102343766](images/cowen_bridge_os_1847.png)
+
 ```{admonition} School for Clergymen's Daughters, November 1823
 :class: dropdown
 
@@ -156,7 +164,7 @@ There is little record remaining of the manner in which the first news of its wo
 
 We might also wonder if she regretted the description of Jane's opinion of Mr. Brocklehurst in *Jane Eyre*, given the unavoidable parallels that might be drawn between that character and Revd. Carus Wilson.
 
-```{admonition} I disliked Mr. Brocklehurst, *Jane Eyre*, vol. I
+```{admonition} "I disliked Mr. Brocklehurst", *Jane Eyre*, vol. I
 :class: dropdown
 
 Charlotte Brontë, *Jane Eyre: an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/238/mode/2up), 1847, pp.238-9
@@ -213,6 +221,24 @@ If the food was not up to much, the cold and damp also took its toll on the girl
 :class: dropdown
 
 There was another trial of health common to all the girls. The path from Cowan's Bridge to Tunstall Church, where Mr. Wilson preached, and where they all attended on the Sunday, is more than two miles in length, and goes sweeping along the rise and fall of the unsheltered country, in a way to make it a fresh and exhilarating walk in summer, but a bitter cold one in winter, especially to children whose thin blood flowed languidly in consequence of their half-starved condition. The church was not warmed, there being no means for this purpose. It stands in the midst of fields, and the damp mists must have gathered round the walls, and crept in at the windows. The girls took their cold dinner with them, and ate it between the services, in a chamber over the entrance, opening out of the former galleries. The arrangements for this day were peculiarly trying to delicate children, particularly to those who were spiritless, and longing for home, as poor Maria Bronte must have been. For her ill health was increasing; the old cough, the remains of the hooping-cough, lingered about her; she was far superior in mind to any of her play-fellows and companions, and was lonely amongst them from that very cause; and yet she had faults so annoying that she was in constant disgrace with her teachers, and an object of merciless dislike to one of them, who is depicted as "Miss Scatcherd" in "Jane Eyre," and whose real name I will be merciful enough not to disclose. I need hardly say, that Helen Burns is as exact a transcript of Maria Bronte as Charlotte's wonderful power of reproducing character could give. Her heart, to the latest day on which we met, still beat with unavailing indignation at the worrying and the cruelty to which her gentle, patient, dying sister had been subjected by this woman. Not a word of that part of "Jane Eyre "but is a literal repetition of scenes between the pupil and the teacher. Those who had been pupils at the same time knew who must have written the book, from the force with which Helen Burns' sufferings are described. They had, before that, recognized the description of the sweet dignity and benevolence of Miss Temple as only a just tribute to the merits of one whom all that knew her appear to hold in honour; but when Miss Scatcherd was held up to opprobrium they also recognized in the writer of "Jane Eyre" an unconsciously avenging sister of the sufferer.
+```
+
+![Ordnance Survey 6 inch Lancashire Sheet XX Surveyed: 1844 to 1845, Published: 1847 https://maps.nls.uk/view/102343766 Cowen Bridge, Leck Church, Tunstall Church](images/cowen_bridge_leck_tunstall.png)
+
+The walk from the shcool at Cowan Bridge to Tunstall Church was also satirised in *Jane Eyre*:
+
+```{admonition} "We had to walk two miles", *Jane Eyre*, vol. I
+:class: dropdown
+
+Charlotte Brontë, *Jane Eyre: an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/106/mode/2up), 1847, pp.106-7
+
+Sundays were dreary days in that wintry season. We had to walk two miles to Brocklebridge church, where our patron officiated : we set out cold, we arrived at church colder ; during the morning service we became almost paralyzed. It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services.
+
+At the close of the afternoon service, we returned by an exposed and hilly road, where the bitter winter wind, blowing over a range of snowy summits to the north, almost flayed the skin from our faces.
+
+I can remember Miss Temple walking lightly and rapidly along our drooping line, her plaid cloak, which the frosty wind fluttered, gathered close about her, and encouraging us, by precept and example, to keep up our spirits, and march forward, as she said, " like stalwart soldiers." The other teachers, poor things, were generally themselves too much dejected to attempt the task of cheering others.
+
+How we longed for the light and heat of a blazing fire when we got back! But, to the little ones at least, this was denied : each hearth in the school-room was immediately surrounded by a double row of great girls, and behind them the younger children crouched in groups, wrapping their starved arms in their pinafores.
 ```
 
 From an article in the *Brontë Society Transactions*, we learn from the register that the Brontë sisters were admitted to the school at various points during 1824.
