@@ -107,6 +107,21 @@ In suche passe tyme, in moste secrete maner, vpon the firste claye of May, kynge
 
 And this' yere was king Henry takyn in a wood in the North countre, by one named Cantlowe, and presentyd to the kyng, and after sent to the Tower, where lie remayned ionge after'
 
+
+-- 
+
+Old account:
+
+https://archive.org/details/hallschronicleco00hall/page/438/mode/2up?q=%22prosperous+wynde+and+wether%22+woduile
+Hall's chronicle; : containing the history of England, during the reign of Henry the Fourth, and the succeeding monarchs, to the end of the reign of Henry the Eighth, in which are particularly described the manners and customs of those periods.
+by Hall, Edward, d. 1547; Ellis, Henry, 1777-1869, editor; Grafton, Richard, d. 1572?
+
+Publication date 1809
+pp439-40
+
+via: Captain of the Wight, Dorothy Davies
+
+
 ---
 
 ![](Elizabeth_Woodville_-_family_tree_-_EntiTree.png)
