@@ -108,6 +108,27 @@ In suche passe tyme, in moste secrete maner, vpon the firste claye of May, kynge
 And this' yere was king Henry takyn in a wood in the North countre, by one named Cantlowe, and presentyd to the kyng, and after sent to the Tower, where lie remayned ionge after'
 
 
+
+--
+Jacquetta witch trial
+
+https://archive.org/details/calendarofpatent00grea/page/190/mode/2up
+Calendar of the patent rolls preserved in the Public Record Office : Edward IV, Henry VI, A.D. 1467-1477
+by Great Britain. Public Record Office
+
+Publication date 1900
+
+p. 190
+
+1470
+
+Membrane 5.
+
+Feb. 21. Westminster.
+
+Exemplification, at the supplication of Jaquetta, duchess of Bedford, late the wife of Richard, earl of Ryvers, of the tenour of an act in the great council, remaining in the office of the privy seal in the chamber of the great council called 'le Parlment chambre' within the palace of Westminster, made on 10 February, 9 Edward IV. In the presence of the king and the cardinal archbishop of Canterbury, the archbishop of York, the bishops of Bath, chancellor, Ely, treasurer, Rochester, keeper of the privy seal, London, Durham and Carlisle, the earls of Warwick, Essex, Northumberland, SJirevvsbury and Kent, and the lords Hastings, Mountjoye, Lyle, Cromwell, Scrope of Bolton, Saye and others a supplication addressed to the king on behalf of the said duchess and two schedules in paper annexed were openly read, and afterwards his highness by the advice of the said lords of the council accepting the declaration of the said lady commanded the same to be enacted of record and letters of exemplification to be made. The tenours of the supplication and schedules above mentioned ensue in this wise. The duchess complains that Thomas Wake, esquire, in the time of the late trouble caused her to be brought in a common noise and slander of witchcraft throughout a great part of the realm, insomuch as he caused to be brought to Warwick to divers of the lords present when the king was last there an image of lead made like a man of arms of the length of a man's finger broken in the middle and made fast with a wire, saying that it was made by her to use with witchcraft and sorcery, and for the performing of his malicious intent entreated one John Daunger, parish clerk of Stoke Brewerne, co. Northampton, to say that there were two other images made by her, one for the king and one for the queen, whereunto the said John Daunger neither could nor would be entreated, and the king commanded the said Wake and John Daunger to attend upon the bishop of Carlisle, the earl of Northumberland, the lords Hastynges and Mountjoye and Master Roger Radcliff to be examined, and their examination is here annexed, and in the great council on 19 January last she was cleared of the said slander, wherefore she prays that the same may be enacted of record. Thomas Wake says that this image was shown and left in Stoke with an honest person who delivered it to the clerk of the church and so showed it to divers neighbours after to the parson in the church openly to men both of Schetllanger and Stoke and after it was shown in Sewrisley, a nunnery, and to many other persons, and of all this he heard or wist nothing till after it was sent him by Thomas Kymbell from the said clerk. John Daunger of Shetyllanger said that Thomas Wake sent to him one Thomas Kymbell, then his bailiff, and bad the said John send him the image of lead that he had and so he sent it, at which time he heard no witchcraft of the lady of Bedford, and that the image was delivered to him by one Harry Kyngeston of Stoke, who found it in his house after the departing of soldiers, and that the said Thomas Wake after he came from London from the king sent for him and said that he had excused himself and laid all the blame on John and bad him say that he durst not keep the image and for that cause sent it to Thomas and also bad him say that there were two other images, one for the king and one for the queen, but he refused to say so. English. [Rolls of Parliament, VI. 232.] By p.s. [3033.]
+
+
 -- 
 
 Old account:
