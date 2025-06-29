@@ -232,7 +232,7 @@ The walk from the shcool at Cowan Bridge to Tunstall Church was also satirised i
 
 Charlotte Brontë, *Jane Eyre: an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/106/mode/2up), 1847, pp.106-7
 
-Sundays were dreary days in that wintry season. We had to walk two miles to Brocklebridge church, where our patron officiated : we set out cold, we arrived at church colder ; during the morning service we became almost paralyzed. It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services.
+Sundays were dreary days in that wintry season. We had to walk two miles to Brocklebridge church, where our patron officiated : we set out cold, we arrived at church colder; during the morning service we became almost paralyzed. It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services.
 
 At the close of the afternoon service, we returned by an exposed and hilly road, where the bitter winter wind, blowing over a range of snowy summits to the north, almost flayed the skin from our faces.
 

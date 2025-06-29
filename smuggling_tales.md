@@ -57,7 +57,7 @@ Two remarkable incidents in the Isle of Wight in connection with the contraband 
 
 And by section II of the same statute it is enacted : —
 
-"That the names of each and every Person, so impanelled shall be written, on distinct pieces of parchment or paper, and delivered to the Marshalls to be put into a Box or Glass, and when any cause is brought to trial, some indifferent person shall, in open Court, draw twelve of the said Parchments, or Papers only ; and the Persons whose names shall be so drawn shall be the Jury to try the Cause." ^
+"That the names of each and every Person, so impanelled shall be written, on distinct pieces of parchment or paper, and delivered to the Marshalls to be put into a Box or Glass, and when any cause is brought to trial, some indifferent person shall, in open Court, draw twelve of the said Parchments, or Papers only; and the Persons whose names shall be so drawn shall be the Jury to try the Cause." ^
 
 This very material alteration in trials by jury was occasioned by the following circumstance:— Hatch and Boyce, two noted smugglers, had for several years, before the above-mentioned Act was passed, carried on the smuggling trade (particularly in French and other foreign wines) to a degree that was never known before, between the Isle of Wight and the Hampshire coast. Boyce, originally a blacksmith by trade, built and lived at Apley House, near Ryde, and Hatch resided at Berry on the opposite coast, about half a mile from Stokes Bay. They had large and roomy cellars under the houses, in which they lodged the cargoes. The trade they carried on could not escape the notice of the Government, and proceedings were frequently instituted against them by the Crown, but notwithstanding that the most positive proofs were adduced, the Government could never secure a conviction. They not only had witnesses at hand, prepared to swear whateve^ they were bid,
 
@@ -71,7 +71,7 @@ The ^modus pperandi has often been described. Each village had a chosen leader, 
 
 The business was conducted on co-operative principles, each shareholder subscribing a sum of money varying in amount, for investment in spirits, tea, tobacco, etc., and towards the outgoing expenses, incidental to the run and subsequent landing of the cargo. Two classes of boats were used, the one most in request being a lightly built rowing boat, for four or six oars, painted white, having a broad beam affording ample stowage room for the return cargo. These galleys would stow away 40 to 50 four gallon tubs of spirits, and in fine weather, manned by a crew of four to six stalwart men, with one or two others commissioned to purchase the cargo, could be rowed across the channel in a few hours. The second class were small sailing vessels, ranging in size from forty tons, with a stowage capacity of from one hundred to two hundred and fifty tubs, down to smaller deck vessels of ten tons. These generally hailed from Bembridge, St. Helen's, or Ryde.
 
-The money having been handed in, the boats w»3uld depart during the night. The greatest caution was necessary to avoid being overhauled or run down by the numerous craft always on the look out to intercept them, either going or retuFfting. The price paid for the raw spirit at Cherbourg was an established one, fourteen shillings being paid for each keg of spirits ; the charge for freightage across was three shillings, and the other incidental expenses of landing, jhore hands, etc., came to an equal amount. The four gallon cask of proof spirit would thus cost a pound. After being diluted with an equal quantity of water, and colouring matters — consisting of burnt sugar — shaving been added, the sale price of the cask would be fifty shillings, and retailed to the public at half a crown a bottle, would command a ready sale, realising a hundred per cent, profit.
+The money having been handed in, the boats w»3uld depart during the night. The greatest caution was necessary to avoid being overhauled or run down by the numerous craft always on the look out to intercept them, either going or retuFfting. The price paid for the raw spirit at Cherbourg was an established one, fourteen shillings being paid for each keg of spirits; the charge for freightage across was three shillings, and the other incidental expenses of landing, jhore hands, etc., came to an equal amount. The four gallon cask of proof spirit would thus cost a pound. After being diluted with an equal quantity of water, and colouring matters — consisting of burnt sugar — shaving been added, the sale price of the cask would be fifty shillings, and retailed to the public at half a crown a bottle, would command a ready sale, realising a hundred per cent, profit.
 
 The return journey, "running the cargo" as it was called, was more risky and dangerous than the departure from the island, seeing
 
@@ -89,7 +89,7 @@ It was a clever device of the smugglers, who made use of the horse for a two-fol
 
 In The Story of my Life, by Augustus J. C. Hare, there is an interesting local allusion, and as it relates to St. Boniface House it is here given m extenso,
 
-" February 4, 1866. — I spent yesterday evening with the Henry Feildens. Mrs. Feilden told me that in her girlhood her family went to the Isle of Wight and rented St. Boniface House, between Bonchurch and Ventnor. She slept in a room on the first floor with her sister Ghita : the French governess and her^sister Cha slept in the next room, the English governess above. If they talked in bed they were always punished by the English governess, who could not bear them ; so they never spoke except in a whisper. One night, when they were^n bed, with the curtains closely drawn, the door was suddenly burst open with a bang, and something rushed into the room and began to whisk about in it, making a great draught and disturbance. They were not frightened, but very angry, thinking someone was playing them a trick. But immediately the curtains were drawn aside and whisked up over their heads, and one by one all the bed'Clothes were dragged away from them, though when they stretched out their hands they could feel nothing. First the counterpane went, then the blankets, then the sheet, then the pillows, and lastly the lower sheet was drawn away from under them. When it came to this she (Ellinor Hornby) exclaimed, * I can bear this no longer,* and she and her sister both jumped out of bed at the foot, which was the side nearest the door. As they jumped out, they felt the mattress graze against their legs, as it also was dragged oflf the bed. Ghita Hornby rushed into the next room to call the French governess, while Ellinor screamed for assistance, holding the door of their room tightly on the outside, fully believing that somebody would be found in the room. The English governess and the servants, roused by the noise, now rushed downstairs, and the door was opened. The room was perfectly still, and there was no one there. It was all tidied. The curtains were carefully rolled, and tied up above the head of the bed : the sheet and counterpane were neatly folded up in squares and laid in three corners of the room : the mattress was reared against the wall under the window : the blanket was in the fireplace. Both the governesses protested that the girls must have done it themselves in their sleep, but nothing would induce them to return to the room, and they were surprised the next morning, when they expected a scolding from their mother, to find that she quietly assented to the room being shut up. Many years after Mrs. Hornby met the lady to whom the property belonged, and after questioning her about what happened to her family, the lady told her that the same thing had often happened to others.'*
+" February 4, 1866. — I spent yesterday evening with the Henry Feildens. Mrs. Feilden told me that in her girlhood her family went to the Isle of Wight and rented St. Boniface House, between Bonchurch and Ventnor. She slept in a room on the first floor with her sister Ghita : the French governess and her^sister Cha slept in the next room, the English governess above. If they talked in bed they were always punished by the English governess, who could not bear them; so they never spoke except in a whisper. One night, when they were^n bed, with the curtains closely drawn, the door was suddenly burst open with a bang, and something rushed into the room and began to whisk about in it, making a great draught and disturbance. They were not frightened, but very angry, thinking someone was playing them a trick. But immediately the curtains were drawn aside and whisked up over their heads, and one by one all the bed'Clothes were dragged away from them, though when they stretched out their hands they could feel nothing. First the counterpane went, then the blankets, then the sheet, then the pillows, and lastly the lower sheet was drawn away from under them. When it came to this she (Ellinor Hornby) exclaimed, * I can bear this no longer,* and she and her sister both jumped out of bed at the foot, which was the side nearest the door. As they jumped out, they felt the mattress graze against their legs, as it also was dragged oflf the bed. Ghita Hornby rushed into the next room to call the French governess, while Ellinor screamed for assistance, holding the door of their room tightly on the outside, fully believing that somebody would be found in the room. The English governess and the servants, roused by the noise, now rushed downstairs, and the door was opened. The room was perfectly still, and there was no one there. It was all tidied. The curtains were carefully rolled, and tied up above the head of the bed : the sheet and counterpane were neatly folded up in squares and laid in three corners of the room : the mattress was reared against the wall under the window : the blanket was in the fireplace. Both the governesses protested that the girls must have done it themselves in their sleep, but nothing would induce them to return to the room, and they were surprised the next morning, when they expected a scolding from their mother, to find that she quietly assented to the room being shut up. Many years after Mrs. Hornby met the lady to whom the property belonged, and after questioning her about what happened to her family, the lady told her that the same thing had often happened to others.'*
 
 The property which belonged to Mrs. James White was sold fifty 3^ears ago, and theje does not appear to have been any repetition of these unaccountable occurrences since. These, and many other stories of a like nature, then current, are becoming more and more legendary as time slips along.
 
@@ -309,7 +309,7 @@ Coming to the year
 
 we find the first entry under date February 12:
 
-s. d, 'I payd John Burt, millier, ten shillings and fourpence 10 4 'and now owe him two bushels of wheat. . . 6 0 'and half a bushel of barley ' . ; . a a x
+s. d, 'I payd John Burt, millier, ten shillings and fourpence 10 4 'and now owe him two bushels of wheat. . . 6 0 'and half a bushel of barley ' .; . a a x
 
 To-day wheat would have cost him 8s. for two bushels, and barley, as then, 1*s.* 6*d.* for the haf. On February 20 he writes :
 
@@ -371,7 +371,7 @@ In
 
 1777 he paid, during the month of February, 6s. for 'a pare of new shoes, and on March 6, in the same year, a quarter bag of flour cost him 188*s.* 9*d.* To-day a sack of flour, fourteen score, fetches 248,
 
-For some reason unexplained, there occurs at this point a gap of thirteen years, during which there is no entry. It is difficult to conjecture the reason of Wheeler's silence. Whether the pressgang took him, or he found an outlet for his energies in some other direction, it is impossible to decide. These thirteen years of silence were years eventful enough to have led him into many things. Almost at the moment when his entries break off England became embroiled with France, Spain, and Holland, owing to their recognition of American Independence. In the next year the long and strenuous siege of Gibraltar was begun, and Captain Cook met his death in the South Seas. Before Wheeler makes his next entry, in 1790, the Gordon Riots had come and gone, throwing the Metropolis into a state of turmoil ; the siege of Gibraltar had been raised, Cornwallis had surrendered to the American colonists at York Town, legislative independence had been granted to Ireland; the war, which had cost 100,000,000/., had been concluded, the King's mind had given way, Warren Hastings had been put upon his trial, and the French Revolution had deluged France with blood.
+For some reason unexplained, there occurs at this point a gap of thirteen years, during which there is no entry. It is difficult to conjecture the reason of Wheeler's silence. Whether the pressgang took him, or he found an outlet for his energies in some other direction, it is impossible to decide. These thirteen years of silence were years eventful enough to have led him into many things. Almost at the moment when his entries break off England became embroiled with France, Spain, and Holland, owing to their recognition of American Independence. In the next year the long and strenuous siege of Gibraltar was begun, and Captain Cook met his death in the South Seas. Before Wheeler makes his next entry, in 1790, the Gordon Riots had come and gone, throwing the Metropolis into a state of turmoil; the siege of Gibraltar had been raised, Cornwallis had surrendered to the American colonists at York Town, legislative independence had been granted to Ireland; the war, which had cost 100,000,000/., had been concluded, the King's mind had given way, Warren Hastings had been put upon his trial, and the French Revolution had deluged France with blood.
 
 From these matters of world importance we are brought back by Wheeler's diary in
 
@@ -421,7 +421,7 @@ he duly sets forth that he
 
 'Measured a deal plank which measured s. d. 32 ft. at 1*s.* 4*d.* per squaretimber cometo 4 10 'Had out of it 24 iron R , R . 0 8
 
-'6*s.* 3*d.* between John and | : ; _-s
+'6*s.* 3*d.* between John and | :; _-s
 
 The arithmetic is wrong as usual, but the fact remains that by a windfall he makes 3*s.* 3*d.* He and his companions would be old shore-walkers, and in some of his peregrinations he had picked up this bit of wreckage, a waif from the sea.
 
@@ -447,7 +447,7 @@ On May 30 he says, 'There came a hard gale of wind at S. and S.W. which cut ever
 
 'June 1.—Reseved for catching and for £ s. d. use of my boat for carrying mackerel to
 
-Portsmouth : ' , . 818 O 12 0 'For prans . ; ; : ' — om
+Portsmouth : ' , . 818 O 12 0 'For prans .; ; : ' — om
 
 On July 15 he pays 30s. for half a bag of flour, and at the same time purchases two bushels of malt and a pound of hops. A larger brewing than in 1795.
 
@@ -531,7 +531,7 @@ On July 2 there is copied into the book an account against Mr. Burt of moneys du
 
 'July 2.—Mr. Burt to Robert Whiller.
 
-£ es. d. ' Makin two gounds for Mr. Burt's two daughters 1 2 'Makin two gounds . ' , : ' 1 4 'Fittina gound , ; , . R 2 'Makin a gound . R : , : 1 2 'Fittina gound ss. : ' . . ; 4 ' For a plank ' . ' , ' , 2 0
+£ es. d. ' Makin two gounds for Mr. Burt's two daughters 1 2 'Makin two gounds . ' , : ' 1 4 'Fittina gound ,; , . R 2 'Makin a gound . R : , : 1 2 'Fittina gound ss. : ' . .; 4 ' For a plank ' . ' , ' , 2 0
 
 'For a gallon of gin . , , . 'Dittoatub . , , ' : . - 1
 
@@ -601,7 +601,7 @@ a great gathering for Hampshire people. Cheese to-day makes from 40s. to 50s. a 
 
 saw the Peace of Amiens and the National Debt of England raised to 520,000,000/. It also saw Wheeler paying out
 
-s. d, 'For cloth for shirts ' ; : . 12 O 'For gloves. ' ' , ' . 2 0 * For four handkerchiefs . 3 0 ' Pare of trousers and maken 8 0 ' Buttons for westcote , . F ; 4'
+s. d, 'For cloth for shirts '; : . 12 O 'For gloves. ' ' , ' . 2 0 * For four handkerchiefs . 3 0 ' Pare of trousers and maken 8 0 ' Buttons for westcote , . F; 4'
 
 This year 'the measure of copperus at Atherfield Rock was 57 bags, 1*l.* 0*s.* 9*d.*' On March 6, he says, ' I Jaid out four bushels of lime and half a hundred bricks for reparing the house on John Whiller's account. 1*l.* 10*s.*'
 
@@ -629,7 +629,7 @@ This year he was busily engaged in smuggling, and his book has the following amo
 
 ' May 9. Reseved by cash at Gatten 118 0 'May 13. Ditto Ditto 117 0 'May 18. For tub of gin 119 0O 'June 12. Resed by cash 2 0 0 'June 13. Resed by cash 2 0 0 'June 29. Tub of gin 118 ¢ ' August Reseved by cash at Gatten 2 0 C ' August Tub of gin , . 117 +0 Tobacco . ' . 2 0
 
-Had at Gatten tub of br andy 113 0O 'Aug. 14. Tub of gin . ; tue @ ' Sept. Gin in harvest - 119 0 'Oct. 13. Tub of gin 118 0 Tub of gin 118 0O 'Dec. 24. Tub of gin 118 0O
+Had at Gatten tub of br andy 113 0O 'Aug. 14. Tub of gin .; tue @ ' Sept. Gin in harvest - 119 0 'Oct. 13. Tub of gin 118 0 Tub of gin 118 0O 'Dec. 24. Tub of gin 118 0O
 
 A fairly good year's work in smuggled goods for a single customer.
 
