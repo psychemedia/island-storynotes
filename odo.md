@@ -65,6 +65,7 @@ Following the Norman conquest, the hide of Southwark was given to William the Co
  most pragmatic church and political figures recognised that just being sinful wasn't going to stop young people having sex, and reasoned that prostitution was a necessary evil to keep the sin somewhere safely out of the way ("Take away the sewer and you will fill the palace with pollution", as Thomas Aquinas would later put it). And then there was money. Brothels, also known as 'stews', could turn over a lot of money and be charged hefty rents, and this made Southwark one of the most profitable bits of land in the country. The Bishop of Winchester was more than happy to tolerate a bit of sin in exchange for filling his coffers. So the Southwark sex trade boomed. The prostitutes even gained the nickname 'Winchester geese', in honour of their landlord..
 
 
+
 https://en.wikisource.org/wiki/Portal:Acts_of_the_Parliament_of_England/James_I#1609_(7_Jas._1)
 
 https://www.iwhistory.org.uk/ehsundials/
@@ -284,6 +285,68 @@ Of William the Second. [a.d. 1087 — 1100.]
 William then, the son of William, was born in Normandy many years before his father came to England; and being educated with extreme care by his parents, as he had naturally an ambitious mind, he at length reached the summit of dignity. He would no doubt have been a prince incomparable in our time, had not his father's greatness eclipsed him; and had not the fates cut short his years too early for his maturer age to correct errors, contracted by the licentiousness of power, and the impetuosity of youth. When childhood was passed, he spent the period of youth in military occupations; in riding, throwing the dart, contending with his elders in obedience, with those of his own age in action: and he esteemed it injurious to his reputation, if he was not the foremost to take arms in military commotions; unless he was the first to challenge the adversary, or when challenged, to overcome him. To his father he was ever dutiful; always exerting himself in his sight in battle, ever at his side in peace. His hopes gradually expanding, he already aspired after the succession, especially on the rejection of his elder brother, while the tender age of the younger gave him no uneasiness. Thus, adopted os his successor by his father during his last illness, he set out to take possession of the kingdom ere the king had breathed his last: where being gladly received by the people, and obtaining the keys of the treasury, he by these means subjected all England to his will. Archbishop Lanfranc, the grand mover of every thing, had educated him, and made him a knight, `[At this period the custom of receiving a knighthood from the hands of bishops or abbats yet obtained. There is a law of Henry I., prohibiting abbats from making knights. Hardy.]` and now he favoured his pretensions to the throne; by his authority and assistance William was crowned on the day of the saints Cosmos and Damian, `[The 27th of September.]` and passed the remainder of the winter quietly and with general favour.
 
 At the expiration of this period, in the beginning of spring, his first contention was with his uncle, Odo, bishop of Bayeux. For when Odo, on his release from confinement, as I have related, had firmly established his nephew, Robert, in the duchy of Normandy, he came to England, and received from the king the earldom of Kent. But when he saw every thing in the kingdom managed, not at his own pleasure, as formerly, for the administration of public affairs was now committed to William, bishop of Durham, he was moved with envy, and having revolted from the king, he tainted many others by insinuating, that the kingdom belonged to Robert, who was of gentler disposition, and whose youthful follies had been corrected by many adversities; that William, delicately brought up, and overbearing from that ferocity of mind which was manifest in his countenance, would dare every thing, in defiance of right and equity: that it must soon come to pass, that they would lose the honours they had already obtained with so much difficulty; that nothing was gained by the father's death, if those whom he had cast into prison, were to be killed by the son. To this effect he used, at first, secretly to mutter, together with Roger Mont- gomery, Gosfrith, bishop of Coutances, with his nephew Robert earl of Northumberland, and others; afterwards they were more open in their clamours, repeating and disseminating them by letters and by emissaries. Moreover, even William, bishop of Durham, the confidential minister of the king, had join^ in their treachery. This was matter of great concern to William, it is said; because, together with the breach of friendship, he was disappointed of the resources of the distant provinces. Odo now carried off booty of every kind to Rochester, plundering the king's revenues in Kent, and especially the lands of the archbishop; breathing eternal hatred against him, because, he said, it was by his advice that his brother had cast him into chains. Nor was this assertion false: for when William the elder formerly complained to Lanfranc, that he was deserted by his brother: "Seize, and cast him into chains," Said he. "What!' replied the king, "he is a clergyman!" Then the archbishop with playful archness, as Persius says, balancing the objection with nice antithesis," `[Persius Sat i. 85]` rejoined, "you will not seize the bishop of Bayeux, but confine the earl of Kent"
+
+
+
+
+---
+
+https://archive.org/details/bub_gb_L9DE_ER5tAsC/page/422/mode/2up?q=odo
+
+The History of Great Britaine Vnder the Conquests of Ye Romans, Saxons, Danes and Normans. Their Originals, Manners, Warres, Coines & Seales with Ye Successions, Liues, Acts & Issues of the English Monarchs from Iulius Cæsar, to Our Most Gracious Soueraigne King Iames. By Iohn Speed
+by John Speed
+
+Publication date 1614
+
+p422
+
+(49) This *Gregory* (before called *Hildebrand*) fate in Peters chaire with fuch pranks of impietie, that his gouemment was odious to the Romans, who willed an end of his raigne and life, fo that certainc Southfaiers imploied in that bufines gaue forth, that after Gregory, Odo fhould be Pope. Odo, our faid Earle, the Conquerours brother, fed with ful hope that hee was the man, fendeth to Rome to buy him a Pallacc, adorning it with ftately and ouer-lauifh trimmings; Salutes the Senators with great gifts & complements, ftuffeth bagges with money, and letters to fuch as might doe much in the election, and prouides honourable perifonages to attend him to Rome. Among the which for chiefe was Hugh Earle of Chefter, with many great men and Knights of the land: for the Normans variable, and defirous to fee forraine Countries, were contented to forfake their faire lands in the weft climate, to accompany this proud Prelate ouer the riuer Poo.
+
+This iolly traine was fet forward into the Ifle of Wight, and there in great pompe ready to fet faile into Normandy, whcn on the fodain Kingsn William vnlooked for, was euen among them, and in his great Hall in prefence of his Nobles thus fpake:
+
+"(50) Excellent Peeres, I befeech you hearken to my words, and giue me your counfell: at my failing into Normandy, I commended England to the gouemment of Odo my brother Bifhop. In Normandy many forraine foes haue rifen up againft me, yea and inward friends I may fay, haue inuaded me: for Robert my fonne, and other yonglings whom I haue brought up, and giuen Armes, haue rebelled; vnto whom my falfe Clients, and other bordering enemies haue giuen their affiftance: but they haue not profpered, God (whofe feruant I am) euer defending mee: neither haue they gotten any thing of mine, befides iron in their wounds: They of Aniou prepared againft me, whom with the onely feare of warre I haue pacificd. Thefe bufineffes you know haue drawn me into Normandy, where I haue ftaied long anf imploied my painfull endeuours on publike behoofes. But in the meane time, my brother hath greatly oppreffed England, fpoiling the Churches of Lands and Rents, hath made them naked of Ornaments giuen by our Predeceffors, and hath feduced my Knightes, with purpofe to traine them ouer the Alpes, who ought to defend the Land againft the inuafions of the Danes, Irifh, and other Enemies ouer ftrong for me; but my greareft dolour is for the Church of God, which he hath afflicted, and vnto which the Chriftian Kings that raigned before me, haue giuen many gifts, and with their loues honored,for which now (as we beleeue) they reft, rejoicing with a happy retribution in a pleafant State : Ethelbert, Edward, Saint Ofwald, Althulph, Aefred, Edward the Eleer, Edgar, and my cofen and moft deere Lord Edward, haue giuen Riches to the Church, the fpoufe of God: But my Brother to whom I committed the whole Kingdome, violently plucketh away their goods, cruelly grindeth the poore, and with a vaine hope ftealeth away my Knights from me, and by opprefsion hath exafperated the whole Land wirh uniuft taxations; confider thereof, moft Noble Lords, and giue mee (I pray you) your aduice, what is heerein to bee done.
+
+(51) At which paufe when all ftood mute, as fearing to giue their opinions in fo weighty a point, concerning fo great a Perfon, the King thus continued his fpeech.
+
+"Hurtfull rafhnefffe is euer vnfufferable, and muft at length be repreffed. This man hath oftentimes banded himfelfe againft his owne father, and vpon a ftmacke blowne vp with pride and folly, hath fallen off to the King of France: therefore left with ouermuch lenity, we buy too late a repentance, he fhall remaine Prifoner, yet not as a Btjhop, whofe name I both honour and reuerence, but as an Earle, fubiect to the Lawes and Cenfure of his King.
+
+Which accordingly was done; vpon feizure of whofe eftate, this Prelate was found fo well lined in purfe,bthat the heapes of yellow mettall did moue admiration to the beholders, and many of his bags were taken vp out of the bottome of Riuers, where they were hidden full of gold ground into powder.
+
+---
+
+https://archive.org/details/nelsonshandbook01adamgoog/mode/2up
+Nelson's Handbook to the Isle of Wight: Its History, Topography, and ...
+by William Henry Davenport Adams
+
+Publication date 1873
+
+pp. 19-21
+
+A.D. 1065
+
+On one occasion only did the Conqueror visit his island-fortress, and that was in an hour of peril which vividly brought out the manly qualities of his kingly mind. His half-brother, Odo, bishop of Bayeux, half-warrior half-priest, who had received from King William the province of Kent, and fat estates and manifold honours, collected during the Conqueror's absence in Normandy a large and powerful following in the Isle of Wight, with the view of going forth into Italy and intriguing for the Popedom.
+
+The king, apprised of his brother's ambitious design, suddenly returned, and summoned to Oarisbrooke Castle his knights and men-at-arms, and other vassals.
+
+They met in the Royal Hall (*regalis aula*), by the shifting lights of a hundred torches, which wavered and flickered merrily enough upon the glittering armour of the knightly throng. William, with moody brow and angry eye, sate in stern silence upon the dais; and when the murmur of voices was hushed, he recounted, one by one, the oflFences which Odo had done against him:—
+
+"Excellent peers," he cried, if we may believe the old historian, "I beseech you hearken to my words, and give me your counsel. At my sailing into Normandy I commended England to the government of Odo, my brother, the bishop. In Normandy my foreign foes have risen up against me, — yea, and inward friends, I may say, have invaded me; for Robert my son, and other young lords whom I have brought up, and given arms, have rebelled, unto whom my false clients, and other bordering enemies, have given their assistance. But they have not prospered, God (whose servant I am) even defending me; neither have they gotten anything of mine besides iron in their wounds. They of Anjou prepared against me whom, with the fear only of war, I have pacified. These businesses, you know, have drawn me into Normandy, where I have stayed long, and employed my painful endeavours on public behoofs. But, in the meantime, my brother hath greatly oppressed England, spoiling the Church of lands and rents; hath made it naked of ornaments given by our predecessors, and hath seduced my knights, with purpose to train them over the Alps, who ought to defend the land against the invasion of the Danes, Irish, and other enemies overstrong for me; but my greatest dolour is for the Church of God, which he hath afflicted, and unto which the Christian kings that reigned before me have given many gifts, and with their loves honoured; for which now (as we believe), they rest, rejoicing with a happy retribution in a pleasant state. But my brother, to whom I committed the whole kingdom, violently plucketh away their goods, cruelly grindeth the poor, and with a vain hope stealeth away my knights from me, and by oppression hath exasperated the whole land with unjust taxations. Consider thereof, most noble lords, and give me (I pray you) your advice what is herein to be done." — *Speed, Book ix.*
+
+But Odo was a prelate, and sacred — a noble wealthy and powerful, and not over-slow in his punishment of an enemy. What marvel, then, that out of all that knightly gathering not one dared raise his voice against him?
+
+"Seize him!" shouted the Conqueror, as if resolved to construe their silence into an acknowledgment of his brother's offences, — "seize him, and let him be closely guarded."
+
+But not a knight laid his finger upon the prince of the Church. All stood mute and aghast at the king's wrath. With instant decision, he sprang from his seat, strode through his astonished followers, and grasped his brother's robes.
+
+Whereupon Odo exclaimed, "I am a priest and a servant of the Lord! None but the Pope has the right to judge me."
+
+The monarch, prepared for the crafty excuse, replied, "I do not punish thee as a priest, but as my own vassal, and a noble whom I myself have made."
+
+And Odo was surrounded by armed men, and borne from his sovereign's presence; and in due time he was despatched across the seas to wear out many years in a Norman fortress.
+
+Great spoil fell into William's hands. "Heaps of yellow metal did move admiration in the beholders, and many of his bags were taken up out of the bottom of a river (the Medina?), where they were hidden, full of gold ground into powder." — *Speed*.
+
+---
 
 
 https://archive.org/details/ecclesiasticalhi02orde/mode/2up
