@@ -1,10 +1,8 @@
-
-
-## When the Island Went to War With France — An Account
+# When the Island Went to War With France — An Account
 
 Many cultures are defined, in part at least, by the battles that you might be expected to remember that somehow shaped a country's history: the battle of Hastings, for example ("1066 and all that" as W. C. Sellar and R. J. Yeatman had it in 1930), Culloden, or the Battle of Stirling Bridge; the Battle of the Boyne, or the Battle of Irfon Bridge. Or the battle of Bosworth Field, the last great battle of the Wars of the Roses. Amongst them all, the *Battle of St Aubin* may not familiar to many today, or indeed, to anyone. But it does feature in Isle of Wight history, as the time the Island went to war with France, and lost.
 
-### Backstory — Both Sides of the Roses
+## Backstory — Both Sides of the Roses
 
 *Edward Woodville, the Isle of Wight Army and the Battle of St Aubin*
 
@@ -110,7 +108,13 @@ And this' yere was king Henry takyn in a wood in the North countre, by one named
 
 
 --
-Jacquetta witch trial
+Jacquetta 
+
+
+See [./pdfs/JacquettaofLuxembourg](./pdfs/JacquettaofLuxembourg)
+
+
+- witch trial
 
 https://archive.org/details/calendarofpatent00grea/page/190/mode/2up
 Calendar of the patent rolls preserved in the Public Record Office : Edward IV, Henry VI, A.D. 1467-1477
