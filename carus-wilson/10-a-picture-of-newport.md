@@ -153,7 +153,7 @@ TO SOLD by AUCTION, by Mr FRANCIS PITTIS, by order and under the direction of th
 :class: dropdown
 [Hampshire Advertiser - Saturday 27 February 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470227/002/0008)
 
-FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if required, in a first-rate situation, being at the centre of the Town of Newport, where the Cattle Market is held. The House is convenient, with capital spirit shop, 2 parlours, large club-room, sitting-room, with 9 good bed-rooms, tap, kitchen, cellar, Sec. The above desirable premises offer a good opportunity to any person with a small capital for carrying on an extensive trade in the Wine and Spirit line— also with a genuine Home Brewed Beer trade, there being but few houses of toe kind in toe town. For further particulars, apply to Mr. HENRY ROPER, House and Estate Agent, West Cowes, Isle of Wigbt. 
+FREE PUBLIC HOUSE WITH BREWERY COMPLETE.— TO LET with immediate possession if required, in a first-rate situation, being at the centre of the Town of Newport, where the Cattle Market is held. The House is convenient, with capital spirit shop, 2 parlours, large club-room, sitting-room, with 9 good bed-rooms, tap, kitchen, cellar, Sec. The above desirable premises offer a good opportunity to any person with a small capital for carrying on an extensive trade in the Wine and Spirit line— also with a genuine Home Brewed Beer trade, there being but few houses of toe kind in toe town. For further particulars, apply to Mr. HENRY ROPER, House and Estate Agent, West Cowes, Isle of Wight. 
 
 ```
 

@@ -1017,7 +1017,7 @@ The judge, with that humanity which marks his character on all occasions, adjure
 
 A letter from David Tyrie to John Graham, taken up for altering bank notes, was found on Graham when he was apprehended. This letter was written from Newgate; and it appears from it that Graham had proposed a plan for rescuing Tyrie, when carrying to Winchester for trial.
 
-The prisoner heard his dreadful and the pathetic exordium, undaunted, and without any apparent emotion. He appeared to be a most artful, indefatigable, and enterprising man. During the trial, he wrote a great number of notes to his counsel, containing questions which he wished to have put to the witnesses, and was astonishiingly collected in his mind.
+The prisoner heard his dreadful and the pathetic exordium, undaunted, and without any apparent emotion. He appeared to be a most artful, indefatigable, and enterprising man. During the trial, he wrote a great number of notes to his counsel, containing questions which he wished to have put to the witnesses, and was astonishingly collected in his mind.
 
 The trial did not conclude till near eight in the evening.
 

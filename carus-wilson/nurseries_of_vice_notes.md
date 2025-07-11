@@ -281,7 +281,7 @@ The Grand Chaplain.
 A Grand Officer with a golden vessel containing corn.  
 Two Grand Officers with silver vessels, one containing wine, the other oil.  
 Grand Sword Bearer.  
-Grand Steward. The Right Worshipful Deputy Grand Master of the Proviince. Grand Steward.  
+Grand Steward. The Right Worshipful Deputy Grand Master of the Province. Grand Steward.  
 The Right Worshipful Grand Master of the Province, (Thomas James Willis Fleming esq.)  
 Grand Tyler.  
 The Church Building Committee.  

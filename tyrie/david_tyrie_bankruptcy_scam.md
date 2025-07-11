@@ -134,7 +134,7 @@ The year turned. And in *April*, 1781, and even though Crowe had paid the assign
 
 In the summer, *another* court case came around. This time, it was Robert Crowe who was the plaintiff, raising the stakes and attempting to make a case *against* the assignees  — *"Mr. Halliday, the Banker; Mr. Cooper, the Builder; and Mr. Daniel, their Solicitor"* — for *"maliciously suing out and prosecuting a Commission of Bankruptcy against the Plaintiff as a joint Trader with Mess. Parker and Tyrie"*. Parker also made a similar complaint independently.
 
-But they were pushing their luck too far, because evidence presented during tha case made it clear that Crowe, Parker and Tyrie *had been* in an active business partnership with each other, and were, *jointly*, and *considerably*, indebted to the defendants.
+But they were pushing their luck too far, because evidence presented during the case made it clear that Crowe, Parker and Tyrie *had been* in an active business partnership with each other, and were, *jointly*, and *considerably*, indebted to the defendants.
 
 In both cases, the Jury for the defendants, who were found to have behaved honourably and appropriately. Unlike the plaintiffs.
 
