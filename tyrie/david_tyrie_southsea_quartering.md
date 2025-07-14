@@ -4,9 +4,11 @@ In recent years, around the weekend of the 20th of August or so, up to 80,000 or
 
 But if you were to look back to Saturday the 24th, in *17*82, I have heard it said that a *hundred* thousand people were gathered there that day. Although that's possibly an exaggeration. A more reasonable estimate might be twenty thousand or so. But still, a large number. A *very* large number, for almost two hundred and fifty years ago.
 
-So why were they gathered there? Was it to look out at the ships of the line, perhgaps, moored at Spithead to take on supplies for an upcoming trip down to Gibraltar? Or was it in premonition of the tragedy that would play out there the following week?
+So why were they gathered there?
 
-No. Although, there *is* a tale to be told about *that* fateful event.
+Was it to look out at the ships of the line, perhaps, moored at Spithead to take on supplies for an upcoming trip down to Gibraltar?
+
+Or was it in premonition of the tragedy that would play out there the following week, and about which there is another story...
 
 Or were they there for some great spectacle, some great *amusement*, expected to take place on the common itself that summer's day? I suppose that depends on how you define "entertainment", although this was over two hundred years ago, remember...
 
@@ -36,7 +38,7 @@ TO DO
 
 ## Setting the Scene
 
-It's 1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before what is often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
+It's 1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before that period of regal profligacy often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
 
 ```{admonition} Being the anniversary of her Majesty's birth-day, January, 1782
 :class: dropdown
@@ -1050,17 +1052,6 @@ After Tyrie was tried, and under sentence of death, no communication could be ha
 This morning at four o'clock, David Tyrie was conveyed from hence in coach and six, under a strong guard, to Portsmouth, where he was executed pursuant to his sentence. His behaviour to the last, even when surrounded by the horrible apparatus of death, used in cases such as this, was undaunted and bold to an extreme.
 ```
 
-## The Execution of David Tyrie
-
-TO DO
-
-```{admonition} Winchester, August 24, 1782
-:class: dropdown
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001?browse=true
-The Scots Magazine - August 1782
-
-*Winchester, Aug. 24.* The crowd people of all ranks assembled by four o'clock this morning at the gates of the gaol, to see Tyrie set off for the place of execution, was very great. About five o'clock he was put into a coach with six horses, attended by the ordinary, under-sheriff, gaoler, &c. and conveyed to Portsmouth, where being delivered to the Mayor and police of the town, he was drawn on a sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead; he was then cut down, his head severed from his body, his bowels taken out, and his heart shewed to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered and put into coffin. The concourse of people was immense, and beyond description, and such the singular conduct of many who were near the body, that happy was he who could procure a finger, or some vestige the criminal. Tyrie supported to the last the same hardened and intrepid conduct as marked him on his condemnation, boldly leaping into the coach at his leaving Winchester; on his journey to Portsmouth, by his words and conduct expressing great indifference at his approaching fate, and even laughing at the place execution.
-```
 
 TO DO
 
@@ -1071,6 +1062,19 @@ Manchester Mercury - Tuesday 27 August 1782
 
 Tyrie has written to Mr. Vowel, the Gentleman with whom he lived as a Clerk in London, requesting to see him before his Execution. We understand that Mr. V. communicated this to one of the Ministry, who expects that this unfortunate Man may make Discoveries of other Parties concerned in his late treasonable Correspondence.
 ```
+
+## The Execution of David Tyrie
+
+The site for the execution was to be Southsea Common, close the Naval Dockyard that we might think of as being the place closest to the crime. Or at least, the place where a lesson might best me made about what penalty you might expect for divulging intelligence of the Royal Navy to a hostile power. Tyrie was being held at Winchester, 30 miles or so away, and so it was that early on the morning of his execution, he was transported from the one, to the other, his departure witnessed by a large crowd assembeld at the prison gates.
+
+```{admonition} Winchester, August 24, 1782
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000545/17820801/002/0001?browse=true
+The Scots Magazine - August 1782
+
+*Winchester, Aug. 24.* The crowd people of all ranks assembled by four o'clock this morning at the gates of the gaol, to see Tyrie set off for the place of execution, was very great. About five o'clock he was put into a coach with six horses, attended by the ordinary, under-sheriff, gaoler, &c. and conveyed to Portsmouth, where being delivered to the Mayor and police of the town, he was drawn on a sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead; he was then cut down, his head severed from his body, his bowels taken out, and his heart shewed to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered and put into coffin. The concourse of people was immense, and beyond description, and such the singular conduct of many who were near the body, that happy was he who could procure a finger, or some vestige the criminal. Tyrie supported to the last the same hardened and intrepid conduct as marked him on his condemnation, boldly leaping into the coach at his leaving Winchester; on his journey to Portsmouth, by his words and conduct expressing great indifference at his approaching fate, and even laughing at the place execution.
+```
+
 
 ```{admonition} A certain American, August 1782
 :class: dropdown
@@ -1101,7 +1105,7 @@ by J. Williams
 
 Publication date 1781
 
-See also: [Complete Collection of State Trials and Proceedings for High Treason, Volume 21](https://books.google.co.uk/books?id=waMrAQAAMAAJ&pg=PA7#v=onepage&q=tyrie&f=false)
+See also: [Complete Collection of State Trials and Proceedings for High Treason, Volume 21](https://archive.org/details/acompletecollec03cobbgoog/page/n417/mode/2up) Type col. 817- , De la Motte, col. 687-817
 ```
 
 ```{admonition} The Sinking of the Royal George, September, 1782
@@ -1432,4 +1436,6 @@ The last man to suffer the completed sentence of being hung and quartered, on So
 ```{admonition} Sentences of hanging, drawing and quartering thereafter
 :class: dropdown seealso
 
-Whilst the Despard plot conspirators in 1803, the Pentridge rebels in 1817, and the Cato Street conspirators in 1820, were also sentenced to hanging, beheading and quartering, their sentences differed in that they were to be hung until dead; the quartering part of the sentence was also commuted in each case by the Prince Regent.
+Whilst the Despard plot conspirators in 1803, the Pentridge rebels in 1817, and the Cato Street conspirators in 1820, were also sentenced to hanging, beheading and quartering, their sentences were commuted in each case by the Prince Regent to hanging until dead, and then beheading.
+
+```
