@@ -550,7 +550,7 @@ No. XXVI. and XXVII.— (The prisoner's hand-writing.)
 
 "It is possible to get all those particulars from the N. O. but the most certain mode would be from the Admiralty, Navy, Ordnance, and Victualling-offices, and the respective dock-yards where vessels rendezvous for cleaning and repairing.
 
-"Provisions are transported from the Victualling-office in London to the different ports where vessels of war fit out, where they are committed to the care of the store-keepers who victuals the outward-bound ships by orders from the Admiralty. The same mode is observed with ordnance and naval stores. Official lists in general are inaccurate, and the state of our havy from them cannot be be depended upon; a communication with an intelligent person at each of the dock-yards is the best channel for procuring and keeping an exact state of the navy.
+"Provisions are transported from the Victualling-office in London to the different ports where vessels of war fit out, where they are committed to the care of the store-keepers who victuals the outward-bound ships by orders from the Admiralty. The same mode is observed with ordnance and naval stores. Official lists in general are inaccurate, and the state of our havy from them cannot be depended upon; a communication with an intelligent person at each of the dock-yards is the best channel for procuring and keeping an exact state of the navy.
 
 "I estimate the first expence in settling the correspondence from London to Plymouth and back, by way of Portsmouth, 450 miles, which with road expenses, posting costs 1*s.* 1*d.* per mile: 24*l.* 7*s.* 6*d.*
 
@@ -1325,7 +1325,7 @@ Salisbury and Winchester Journal - Monday 21 October 1782
 
 London, Tuesday Ocober 15.
 
-This morning the following convicts were carried from Newgate to Tyburn, and there executed, pursuant to their senrences. John Graham, Charlotte Goodall, and John Edmonds, in the first cart; Henry Berthaud, Wiiliam Jones, and Peter Verrier, in the second; Wm. Odem, Thomas Claddenboul, and Charles Woollett, in the third cart. John Weatherby, and John Lafee, tor coining, were drawn on a sledge. They all behaved very penitently.
+This morning the following convicts were carried from Newgate to Tyburn, and there executed, pursuant to their senrences. John Graham, Charlotte Goodall, and John Edmonds, in the first cart; Henry Berthaud, William Jones, and Peter Verrier, in the second; Wm. Odem, Thomas Claddenboul, and Charles Woollett, in the third cart. John Weatherby, and John Lafee, tor coining, were drawn on a sledge. They all behaved very penitently.
 ```
 
 ```{admonition} The Tragic Last Meeting of Graham and His Wife, October, 1782

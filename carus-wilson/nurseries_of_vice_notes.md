@@ -2305,7 +2305,7 @@ Hampshire Advertiser - Saturday 08 May 1858
 
 BOROUGH COURT. Monday.— Magistrates present: The Mayor, and R. M. Wavell and E Way, esqrs.
 
-John Cave, a yonng man of Barton's Village, was charged with being found by the police, lying on the pavement, dead. drunk, at four o'clock the previous Friday night, in Cosham-street. He managed a decent excuse, saying he went to have some beer wiih a young man he had not seen for years, and they closed up with a glass of rum each, a liquor he was quite unaccustomed to drink, and he was immediately overcome.
+John Cave, a yonng man of Barton's Village, was charged with being found by the police, lying on the pavement, dead. drunk, at four o'clock the previous Friday night, in Cosham-street. He managed a decent excuse, saying he went to have some beer with a young man he had not seen for years, and they closed up with a glass of rum each, a liquor he was quite unaccustomed to drink, and he was immediately overcome.
 
 The Magistrates dismissed him, with advice never to touch rum again.
 

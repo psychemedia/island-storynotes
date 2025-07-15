@@ -232,7 +232,7 @@ In 1820, he established a School for Training Servants and Teachers, and followe
 ```{admonition} Clergyman's Daughters School Proposal, October 1823
 [Westmorland Gazette - Saturday 25 October 1823](https://britishnewspaperarchive.co.uk/viewer/bl/0000399/18231025/007/0003)
 
-Clergyman's Daughters.— A Society is forming Lancaster, whose object is to establish a school, upon an extensive scale, the education at a cheap rate of the daughters of Clergymen whose livings do not afford the means of provision for their famiilies. The chief mover in this benevolent undertaking is the Rev. W. Carus Wilson, vicar of Tunstal.
+Clergyman's Daughters.— A Society is forming Lancaster, whose object is to establish a school, upon an extensive scale, the education at a cheap rate of the daughters of Clergymen whose livings do not afford the means of provision for their families. The chief mover in this benevolent undertaking is the Rev. W. Carus Wilson, vicar of Tunstal.
 ```
 
 Travelling to warmer climes in Italy, on grounds of ill-health, he took an interest in the spiritual welfare of members of the Sardinian army.

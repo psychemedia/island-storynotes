@@ -72,7 +72,7 @@ So there we have it. Brittany asks the King of England for help. Several voices 
 
 Now, folk from the Big Island might read that as a simple enough ban on getting involved.
 
-But to Edward, what could be clearer? He had lobbied to support Brittany, and surely Henry knew full well that he held the captaincy of the island. Clearly, the Isle of Wight was exempt, not being a part of the mainland. And so, Edward *should* set to to raise an army to take to Brittany. Which he duly did.
+But to Edward, what could be clearer? He had lobbied to support Brittany, and surely Henry knew full well that he held the captaincy of the island. Clearly, the Isle of Wight was exempt, not being a part of the mainland. And so, Edward *should* set to raise an army to take to Brittany. Which he duly did.
 
 My, how clever the King was, to have found a way to command Edward to lend support, whilst at the same time keeping France happy that he was doing no such thing. And if he kept things secret and didn't tell the King that he had decoded the King's secret command, there would be plausible deniability on the part of Henry. Brilliant!
 

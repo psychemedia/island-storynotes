@@ -427,7 +427,7 @@ The arithmetic is wrong as usual, but the fact remains that by a windfall he mak
 
 Wheeler mentions that this year wheat sold for 29/. a load. To-day a load of wheat—five quarters—sells for 7/. 10s.
 
-On March 27 he ' payd David Jones 1/. for a quarter bag of flour." In 1777 it was 18*s.* 9*d.* In 1901 flour sells for 248. the sack.
+On March 27 he "payd David Jones 1/. for a quarter bag of flour." In 1777 it was 18*s.* 9*d.* In 1901 flour sells for 248. the sack.
 
 In April of this year (1796) the gallon loaf sold for 1*s.* 94*d.*, fresh butter for 1ld.a pound, and cheese for 74d. On June 8, Wheeler paid 1*l.* 8*s.* 6*d.* for half a bag of flour. This year mackerel came early and were less plentiful. There are several entries concerning them.
 
@@ -617,7 +617,7 @@ On January 14, 1804,
 
 he 'bouth a quarter of a sack of flour for 11*s.* 3*d.*' On January 17
 
-for a sack of barley at Westside he paid 12*s.* 6*d.* On March 6 a quarter of a sack of fine flour cost him 9*s.* 9*d.* On February 15, 18, and 19, he ' made a load of fus (furze) faggots at Kingston at Farmer Dyer's.' By April 6 the price of flour had risen, a quarter of a sack costing 10*s.* 3*d.*
+for a sack of barley at Westside he paid 12*s.* 6*d.* On March 6 a quarter of a sack of fine flour cost him 9*s.* 9*d.* On February 15, 18, and 19, he 'made a load of fus (furze) faggots at Kingston at Farmer Dyer's.' By April 6 the price of flour had risen, a quarter of a sack costing 10*s.* 3*d.*
 
 This year he was busily engaged in smuggling, and his book has the following among other entries :
 

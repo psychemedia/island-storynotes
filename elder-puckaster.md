@@ -70,7 +70,7 @@ Though broad and tall.
 We'll make you small,  
 If you'll dance with me  
 On the fairy lea.  
-There's dust on the feni —  
+There's dust on the fern —  
 The lady's fern,  
 That waves o'er the burn.  
 Brown stripes are seen  
@@ -122,7 +122,7 @@ The dancers left their ring, and ran about in all directions in search of arms. 
 
 Scouts were sent out in all directions, and small parties of the most active fairies were ordered to advance, and form pickets indifferent directions. Then followed a few minutes of awful suspense. John Kann was terribly frightened, and he wished with all his heart, that he had never come near the fairy-ground, or become acquainted with Mr. Puck. He at first thought of hiding himself under his own hat. But, to his utter dismay there was not room enough to creep under, and he found that he was not near strong enough to lift up the brim. At length he found a stalk of ragwort, and he contrived to climb up nearly as high as the yellow flower on the top. But this was by no means a place of safety. What, thought he, could be more likely than that the rat should smell him out, and just bite off his leg, to see how he tasted: or the rat might pull him down; and begin nibbling at his head, till he had ate him all up, like a raddish.
 
-To be eaten up by a lion or a tiger was, to be sure, a dreadful thing; but then there was something grand in the idea. It would be put in all the newspapers; and, no doubt an account of it would be engraved upon his tomb; and so his name be handed down to posterity. But, to think of having been snifted with brown powder till one was only a few inches high, and then to be nibbled up by a rat like a piece of toasted cheese. It was horrible! horrible! If the rat really did come that way, he considered his death as certain. No rat of any sense or taste would think of eating one of those flimsy gossamer fairies, when he could find a real bit of substantial flesh and blood. Besides, if he should prefer a fairy, they were so much more active, and would be sure to get out of the way. The fairies, too, knew all the footpaths, and nooks and corners, amongst the blades of grass. And, as for what Mr. Puck called his arms, whoever saw a more complete farce in his life. What would an old rat care for spears made of grass straw, or swords made of briar thorns. It was most ridiculous, and at the same time, most melancholy.
+To be eaten up by a lion or a tiger was, to be sure, a dreadful thing; but then there was something grand in the idea. It would be put in all the newspapers; and, no doubt an account of it would be engraved upon his tomb; and so his name be handed down to posterity. But, to think of having been sniffed with brown powder till one was only a few inches high, and then to be nibbled up by a rat like a piece of toasted cheese. It was horrible! horrible! If the rat really did come that way, he considered his death as certain. No rat of any sense or taste would think of eating one of those flimsy gossamer fairies, when he could find a real bit of substantial flesh and blood. Besides, if he should prefer a fairy, they were so much more active, and would be sure to get out of the way. The fairies, too, knew all the footpaths, and nooks and corners, amongst the blades of grass. And, as for what Mr. Puck called his arms, whoever saw a more complete farce in his life. What would an old rat care for spears made of grass straw, or swords made of briar thorns. It was most ridiculous, and at the same time, most melancholy.
 
 While John Kann was thus musing to himself, and lamenting his hard fate, he was suddenly roused by a great bustle among the fairies. The cause was evident:— one of the advanced-posts had been carried, and the picket had been driven in, and a number of fairies rushed back among the others, waving their arms above their heads, and shouting,
 
@@ -277,13 +277,13 @@ My man."
 
 "My wing!" said John Kann; "that's a good one!"
 
-However, he just looked round for curiosity sake, to see what the fairy alluded to. Never was man before so astonished as John Kannwas when he saw two beautiful little pale rose-coloured butterfly-wings attached to his back, just behind his shoulders. "It's very funny," said he to himself. "I suppose they must be hooked on outside. They can never be fixed on my back, and me with my coat on the while." However, upon putting his hand behind, he felt that there were two holes in his coat, just big enough to let the wings come through.
+However, he just looked round for curiosity sake, to see what the fairy alluded to. Never was man before so astonished as John Kann was when he saw two beautiful little pale rose-coloured butterfly-wings attached to his back, just behind his shoulders. "It's very funny," said he to himself. "I suppose they must be hooked on outside. They can never be fixed on my back, and me with my coat on the while." However, upon putting his hand behind, he felt that there were two holes in his coat, just big enough to let the wings come through.
 
 Could he move his wings? Flip flap, flip flap — they worked beautifully.
 
 Could he fly with them? He tried. Up he went into the air as light as a thistle-down.
 
-Should he fly home at once? Dangerous — dangerous, thought he; there are such a terrible number of hawks about. So, aftertaking two or three spiral skimmings in the air, he alighted down again upon his own proper puff-ball.
+Should he fly home at once? Dangerous — dangerous, thought he; there are such a terrible number of hawks about. So, after taking two or three spiral skimmings in the air, he alighted down again upon his own proper puff-ball.
 
 He found the fairies busily employed preparing their supper from the honey and bee-bread that they had taken from their prisoner. They had scraped the bee-bread from the thighs of the bee, and were rolling them up into very small balls, somewhat smaller than the many-coloured sugarplums that pastry cooks sell under the name of fairies' eggs. This name, however, is derived from a vulgar error. Fairies never lay any eggs at all. But the very little round balls that are sometimes found where fairies have been dancing and enjoying themselves, and been suddenly disturbed, are their loaves of bread, and not their eggs.
 
@@ -347,11 +347,11 @@ John Kann here stood up again, and made another bow. Upon which Mr. Puck said,
 "Puff-ball, turn brown—  
 John Kann, sit down."
 
-The puff-ball immediately began changing from its snow-white colour, as if it had been baking in an oven, and the outer skin became shrivelly all over, and when John Kann sat down again, it burst as if its covering had been no stronger than a cobweb, and immediately he was enveloped in a cloud of dust, which got into hiseyes and made them smart so, that for a long time he was completely blinded. When, by dint of rubbing and rubbing his eyes, he began to see a little again, he was surprised to find ail his fairy companions flown, and himself restored to his original size, sitting alone on the little level spot on the hill side, which has been described before. The sun was shining bright and clear.
+The puff-ball immediately began changing from its snow-white colour, as if it had been baking in an oven, and the outer skin became shrivelly all over, and when John Kann sat down again, it burst as if its covering had been no stronger than a cobweb, and immediately he was enveloped in a cloud of dust, which got into his eyes and made them smart so, that for a long time he was completely blinded. When, by dint of rubbing and rubbing his eyes, he began to see a little again, he was surprised to find ail his fairy companions flown, and himself restored to his original size, sitting alone on the little level spot on the hill side, which has been described before. The sun was shining bright and clear.
 
 "I will have a look for the gold, at any rate," thought he, "before I return home."
 
-He descended the hill, and walked along the shore, as he had been directed. The tide was low, and the rays of the morning sun were reflected brightly on the wet sand. After a little search, he found alarge flint stone with a hole in it, lying by itself upon the level smooth sand. The sand thereabouts certainly did appear to glisten rather more than elsewhere; he took some up in his hand, and found a number of little bright grains amongst it.
+He descended the hill, and walked along the shore, as he had been directed. The tide was low, and the rays of the morning sun were reflected brightly on the wet sand. After a little search, he found a large flint stone with a hole in it, lying by itself upon the level smooth sand. The sand thereabouts certainly did appear to glisten rather more than elsewhere; he took some up in his hand, and found a number of little bright grains amongst it.
 
 This is gold, then," said he to himself, as he cut a caper in the air from .very joy. "What a lucky fellow I am! or, as my friend Mr. Puck would say,
 
@@ -364,7 +364,7 @@ After turning the matter over in his mind for some time, he thought that his bes
 
 But whenever he went down to the sea side he took with him a small tub, in which he used to put sand and water, and then shake it about for some time, so that the grains of gold, being heavier than the sand, would collect together at the bottom. He used afterwards to cover the gold up with limpets and periwinkle-shells, and walk home.
 
-Three or four times a year he used to take a trip to London to sellhis gold dust, and return to the island as rich as a Jew. The neighbours wondered how he made his lobster and shell trade turn out so profitably. However, nobody guessed at the fact.
+Three or four times a year he used to take a trip to London to sell his gold dust, and return to the island as rich as a Jew. The neighbours wondered how he made his lobster and shell trade turn out so profitably. However, nobody guessed at the fact.
 
 Well, John Kann got richer and richer. At length he bethought himself of taking a wife to share his wealth and happiness. A rich man, as it is well known, has never much difficulty in procuring a helpmate, and John was a handsome man besides; so Betty Spooner shortly became Betty Kann. Betty, like the rest of her sex, was constantly harassed by that restless and troublesome demon curiosity. While there remained anything that she was not made fully acquainted with, she was quiet neither day nor night. She listened at keyholes, peeped into letters, cross-questioned everybody; sometimes pretending to know everything about an affair, by way of a trap to catch the unwary; or inventing a lie, by way of bait to fish for the fact with. It is but justice to her memory to say, that she did not take all this trouble and tell so many falsehoods for any selfish or interested purpose. On the contrary, she appeared to be actuated purely by public-spirited and philanthropic motives. If there was any story or bit of scandal that she thought would tend to the amusement or instruction of the neighbourhood, she endeavoured to become possessed of the treasure solely that she might distribute it among the world at large. As for keeping a thing to herself, she never had been known to do so selfish a thing in her life.
 

@@ -326,7 +326,7 @@ She hire bi thought of a quayntyfe,
 If fhe miht know in any wife.  
 To wete whereof he were come;  
 This was hyr thoght al their fome  
-She thoght to wode hyr men to tame '  
+She thoght to wode hyr men to tame,  
 That file myght knowe hym by his game.  
 On the morow whan yt was day  
 To her men fhe gan to fay,  

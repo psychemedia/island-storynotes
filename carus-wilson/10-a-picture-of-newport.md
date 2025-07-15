@@ -400,7 +400,7 @@ Mary Philips: I am the wife of Joseph Philips, who keeps the "Tontine," in Cosha
 
 At the licensing day of 1854, another establishment, the landlord of the "Race Horse" in the Corn Market, was also cautioned for similar reasons.
 
-````{admonition} Cautioned in consequence of complaints, August 1854
+```{admonition} Cautioned in consequence of complaints, August 1854
 :class: dropdown
 [Isle of Wight Observer - Saturday 26 August 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18540826/006/0002)
 
@@ -412,14 +412,13 @@ The applications for licenses for public-houses and billiards occupied the Bench
 
 No license was taken away from any publican, though the landlord of the "Race Horse" was cautioned in consequence of complaints having been made that he kept a room for the use of the prostitutes of the town.
 
-````
+```
 
 The Race Horse had also receieved mentions several years earlier, once, in 1847, for the inappropriate behaviour of the landlord of the time, and a couple of years later in a rather unusual case of theft apparently from oneself:
 
-```{admonition}, December, 1847
+```{admonition} A low public-house in Corn-market, December, 1847
 :class: dropdown
-[Hampshire Advertiser - Saturday 11 December 1847
-](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471211/029/0005)
+[Hampshire Advertiser - Saturday 11 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471211/029/0005)
 
 Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gentlemen.) James Lee, landlord of a low public-house in Corn-market, called the Race-horse, was fined 5s and costs, for allowing card-playing in his house; and on Tuesday he was again brought up for being drunk ana disorderly in his own house on the previous evening, and behaving in a most disreputable manner. This time he was fined £3 and costs. 
 ```
@@ -428,9 +427,7 @@ Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gent
 :class: dropdown
 [Hampshire Telegraph - Saturday 28 September 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18500928/012/0005)
 
-At the Borough Petty Sessions, before R. M. Wavell Esq. and other Magistrates, Joseph Yelf (remanded from Tuesday), was charged with felony, in stealing goods from the Race Horse Inn, Corn Market, Newport. Mr. Hearn appeared for the prosecution; and Mr. Beckingsale for the defence. The case occupied a considerable time; but the following account will present the principal features. An execution was put into the Race Horse on Saturday last, for a judgment of the County Court for the sum of 16l. 5s. 3d., at the suit of Mr. Henry D. Cole. An assistant bailiff, of the name Wm. Leigh, admitted, in his cross-examination, that
-aker drinking and smoking in the tap-room, he went to bed with a woman, but did not think the pillows were removed from under his head! During the evening and night the house was nearly stripped of the furniture, which was afterwards found secreted in a loft near the Green Dragon Inn; the goods were recovered, and this was a criminal proceeding for felony against the owners. Mr. Beckingsale cited several cases, and argued that a man under such circumstances could not be indicted for stealing his own goods. Mr. Hearn on the contrary cited several cases, and argued that the present was a clear case of felony. Mr. Beckingsale afterwards cited the clause in the County Courts' Act, which gave a power to the Magistrates to fine any person rescuing goods or
-assaulting an officer any sum not to exceed 5l., and in default three months' imprisonment. The Bench, after a consultation, committed the prisoner for trial at the Quarter Sessions; but afterwards accepted bail.
+At the Borough Petty Sessions, before R. M. Wavell Esq. and other Magistrates, Joseph Yelf (remanded from Tuesday), was charged with felony, in stealing goods from the Race Horse Inn, Corn Market, Newport. Mr. Hearn appeared for the prosecution; and Mr. Beckingsale for the defence. The case occupied a considerable time; but the following account will present the principal features. An execution was put into the Race Horse on Saturday last, for a judgment of the County Court for the sum of 16l. 5s. 3d., at the suit of Mr. Henry D. Cole. An assistant bailiff, of the name Wm. Leigh, admitted, in his cross-examination, that after drinking and smoking in the tap-room, he went to bed with a woman, but did not think the pillows were removed from under his head! During the evening and night the house was nearly stripped of the furniture, which was afterwards found secreted in a loft near the Green Dragon Inn; the goods were recovered, and this was a criminal proceeding for felony against the owners. Mr. Beckingsale cited several cases, and argued that a man under such circumstances could not be indicted for stealing his own goods. Mr. Hearn on the contrary cited several cases, and argued that the present was a clear case of felony. Mr. Beckingsale afterwards cited the clause in the County Courts' Act, which gave a power to the Magistrates to fine any person rescuing goods or assaulting an officer any sum not to exceed 5l., and in default three months' imprisonment. The Bench, after a consultation, committed the prisoner for trial at the Quarter Sessions; but afterwards accepted bail.
 
 ```
 

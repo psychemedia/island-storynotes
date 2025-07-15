@@ -47,7 +47,7 @@ p2
 Honourable A. MORETON, M.P. Chairman
 
 Proposed by Mr. John DENNET, and seconded by John Newman:
-1. That this meeting deeply sensible of the important and valuable assistance rendered to the Educaton of the Children of the Poor by the Rev. Sir Henry Thompson, Bart. in not only erecting the School House at his own expense, and paying the salaries of the School Master and Mistress, but also for his unwearied personal attention to the moral and religious instructions of the Inhabitants generally, do hereby tender him, their ergrateful thanks, anld express their grateful and sincerest wishes for his future welfare and happiness.
+1. That this meeting deeply sensible of the important and valuable assistance rendered to the Education of the Children of the Poor by the Rev. Sir Henry Thompson, Bart. in not only erecting the School House at his own expense, and paying the salaries of the School Master and Mistress, but also for his unwearied personal attention to the moral and religious instructions of the Inhabitants generally, do hereby tender him, their ergrateful thanks, anld express their grateful and sincerest wishes for his future welfare and happiness.
 
 ...
 

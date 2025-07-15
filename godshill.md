@@ -83,7 +83,7 @@ Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, conta
 
 "They stood here for some time, first staring at the bare field, then looking at one another, and then staring at the ground again.
 
-"'Where are all the buildng stones gone to?' said one.
+"'Where are all the building stones gone to?' said one.
 
 "'Where are all my pegs that marked out the lines of the foundation?' said the architect.
 
@@ -141,7 +141,7 @@ Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, conta
 
 "'Had it not been for the assistance of two strong men in stopping his mule, the bishop himself would have been carried up to the top of the hill.'
 
-"It would never have done for the other ecclesiastics to have cast any reflections upon the horsemanship of their superior; so it was absolutely necessary for them all to come to the conclusion that there was something very supernatural and wonderful in the whole affiiir. Thus ostensibly, at any rate, the theory of the miracle carried it hollow.
+"It would never have done for the other ecclesiastics to have cast any reflections upon the horsemanship of their superior; so it was absolutely necessary for them all to come to the conclusion that there was something very supernatural and wonderful in the whole affair. Thus ostensibly, at any rate, the theory of the miracle carried it hollow.
 
 "The bishop, however, between whom and the mule similar differences of opinion, attended with precisely the same results, had frequently occurred before, could not in his heart subscribe to the proof that appeared to have convinced the rest; so he thus addressed his attendants.
 
@@ -156,7 +156,7 @@ and opprataed with strong drink. He roused them with some trouble, and they then
 
 "Upon ascending the hill, they found the building-stones bestowed in the same form they were the morning before; the lines of the foundation were in the same manner pegged out by the architect's marks; a small portion of the foundation had been dug, and the first stone had been laid, — the identical first stone that had been laid by the bisbop in another place the evening before.
 
-"The bishop, upon hearing this, ordered the two watchers and all the other persons who had been employed the day previous to be brought before him. The account that the two watchers gave was, that about midnight they were startled by a low rumbling noise, which appeared to issue from the heaps of stones. Presently the stones were observed to move, rolling about one against another, just as if there was a large body movine about and kicking in the midst of the heap; then a little stone rolled off the top of the heap, and tumbled on the ground; but it quite made their hair stand on end to see that, instead of stopping there, it kept on rolling and rolling, -where the ground was rough it hopped and skipped, and then went on rolling again in the direction of the hill. Then out came another stone, and rolled, and skipped, and rolled like the first. In a little time, when the stones had contrived to shake themselves out of the heap, where they seemed to be very much in one another's way, they all began rollng away together, — the little ones going faster and more nimbly than the others. The watchers said that they had some difficulty in getting out of the way, there were so many of them on the move together. A large stone, indeed, did come foul of one of them, hit him on the shin, and knocked him out of the way, nearly breaking his leg, and then went bowling on, as if it did not care whether his leg was broken or not.
+"The bishop, upon hearing this, ordered the two watchers and all the other persons who had been employed the day previous to be brought before him. The account that the two watchers gave was, that about midnight they were startled by a low rumbling noise, which appeared to issue from the heaps of stones. Presently the stones were observed to move, rolling about one against another, just as if there was a large body movine about and kicking in the midst of the heap; then a little stone rolled off the top of the heap, and tumbled on the ground; but it quite made their hair stand on end to see that, instead of stopping there, it kept on rolling and rolling, -where the ground was rough it hopped and skipped, and then went on rolling again in the direction of the hill. Then out came another stone, and rolled, and skipped, and rolled like the first. In a little time, when the stones had contrived to shake themselves out of the heap, where they seemed to be very much in one another's way, they all began rolling away together, — the little ones going faster and more nimbly than the others. The watchers said that they had some difficulty in getting out of the way, there were so many of them on the move together. A large stone, indeed, did come foul of one of them, hit him on the shin, and knocked him out of the way, nearly breaking his leg, and then went bowling on, as if it did not care whether his leg was broken or not.
 
 "When the stones had all gone by, they determined, though they were very much frightened at the time, to follow them, and see what they would do. They overtook them at a steep pitch of the hill, which appeared to offer considerable hindrance to their ascent The little ones, indeed, were seen scrambling up without any great great difficulty; but the large heavy ones coukl hardly get on at all. Some of them rolled half way over, and then rolled back again, but, afler one or two efforts, they generally got a roll in advance; and when they passed the steep pitch, they bowled away again merrily.
 
@@ -204,7 +204,8 @@ In *Legends and Lays of the Wight* first published in 1912, Percy G. Stone lifts
 
 > They had gathered them in from the countryside round  
 > To settle a serious matter.  
-> The question was this: They sore needed a church  
+> The question was this: 
+> They sore needed a church  
 > But they seemed very like to be left in the lurch,  
 > And the whole thing to finish in chatter.  
 >
@@ -244,7 +245,7 @@ In *Legends and Lays of the Wight* first published in 1912, Percy G. Stone lifts
 > Slaves to orthodox precedent, crotchet and whim —  
 > Quoth Satan, 'Tis clear, friends, his knowledge is nil.'  
 >  
-> So to it they went with a hearty good will.'  
+> So to it they went with a hearty good will.  
 > Said the Saint, 'It is just as I feared:  
 > Though the fools wouldn't listen to what I'd to say,  
 > Beelzebub shan't have it all his own way'  
@@ -360,7 +361,7 @@ place,
 > By whom you're accustomed to swear."  
 >
 > All humbly they cried, 'It shall be as you wish.  
-> Your Saintship; we'11 work with a will  
+> Your Saintship; we'll work with a will  
 > And the site where the building in future will stand,  
 > According to God's and your saintly command,  
 > Shall be known by the name of GODSHILL.'  
@@ -379,7 +380,7 @@ Over the years, the church was rebuilt - the current church was perhaps started 
 
 If you do go up to the Church, and look on the noticeboards, you're as likely as not to see a poster for a flower festival, or a jumble sale, perhaps, as well as sundry other church notices.
 
-But for one visitor, John Hassell, writing in volume two of his two volume work, *Tour of the Isle of Wight*, published in 1790, and which you can find nowadays [via Google Books](https://www.google.co.uk/books/edition/Tour_of_the_Isle_of_Wight/SYUuAAAAMAAJ?hl=en&gbpv=0), there was something rather more unusual posted there. After noting damage to two of the gable ends resulting from the 1178 lightning strike, Hassell recounts his experience of entering the Church (p.88): *[u]pon our entering the porch we observed abstracts from several acts of parliament fixed against the door, and among them one that excited both our curiosity and risibility;*
+But for one visitor, John Hassell, writing in the second volume of his two volume work, *Tour of the Isle of Wight*, published in 1790, and which you can find nowadays in the Castle Museum library at Carisbrooke Castle, or via the [Internet Archive](https://archive.org/details/bim_eighteenth-century_tour-of-the-isle-of-wigh_hassell-j_1790_2/page/n121/mode/2up?), there was something rather more unusual posted there. After noting damage to two of the gable ends resulting from the 1178 lightning strike, Hassell recounts his experience of entering the Church (p.88): *[u]pon our entering the porch we observed abstracts from several acts of parliament fixed against the door, and among them one that excited both our curiosity and risibility;*
 
 > — it was from an act made in the seventh of James the First, which enacts, that every female who unfortunately intrudes on the parish a second illegitimate child, shall be liable to imprisonment and hard labour in Bridewell for six months.
 >  

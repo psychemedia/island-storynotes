@@ -140,6 +140,8 @@ The story being concluded, its hero passed through his cluster of listeners, lou
 
 https://archive.org/details/bentleysmiscella05dickuoft/page/670/mode/2up
 
+Bentley's Miscellany, volume V, 1839
+
 pp. 641-647
 
 TALES AND LEGENDS OF THE ISLE OF WIGHT.

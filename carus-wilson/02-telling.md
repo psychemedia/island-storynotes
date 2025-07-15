@@ -41,7 +41,7 @@ Eventually, the father and daughter were got under control, and told them to "ju
 
 "Ah! you'd say anything, you would. And anyway, it was you who knocked my father down, three times at least, and I was only trying to defend him, and it was they who were hitting me, right across my back. And it was you who wouldn't even give me a glass of water to cool my parched lips at the station-house."
 
-The court was not impressed, and sentenced her to a month in the local bridewell to stop her career for a short while at least. This sentence seems to have rather taken young Eliza back, becuase she had a full purse available with which to pay off her antcipated fine and hadn't expected to receive a custodial sentence.
+The court was not impressed, and sentenced her to a month in the local bridewell to stop her career for a short while at least. This sentence seems to have rather taken young Eliza back, because she had a full purse available with which to pay off her antcipated fine and hadn't expected to receive a custodial sentence.
 
 It was then time for Eliza's father, James Brading, a mason, to face the bench. He couldn't deny the events, but he did try an alternative strategy.
 
