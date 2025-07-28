@@ -1,6 +1,6 @@
 # Castle Library Internet Archive Collection
 
-*Proposal to create a full text searchable, publicly accessible, listing of 18th and 19th c. books about the the Isle of Wight, where possible using openly licensed and freely accessible resources and services published by the Internet Archive and Wikimedia Foundation.*
+*Proposal to create a full text searchable, publicly accessible, listing of 18th and 19th c. books about the Isle of Wight, where possible using openly licensed and freely accessible resources and services published by the Internet Archive and Wikimedia Foundation.*
 
 Within the Castle Museum Library Museum, there is a good good collection of 18th and 19th century works about the Island (tours, topographies, etc.) Digitised copies of many of these works are available in digitised form, free of license restrictions, via the Internet Archive.
 
