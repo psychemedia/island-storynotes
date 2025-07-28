@@ -17,6 +17,10 @@ https://discovery.nationalarchives.gov.uk/details/r/3a30d6a6-9791-4317-8cad-5a46
 
 https://www.historyofparliamentonline.org/volume/1715-1754/survey/appendix-xi-worsley-list
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17820225/008/0003
+Hampshire Chronicle - Monday 25 February 1782
+
+
 https://www.npg.org.uk/collections/search/portrait/mw63181/Sir-Richard-Worse-than-sly-exposing-his-wifes-bottom---o-fye
 
 Worsley trial 1782
