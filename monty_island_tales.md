@@ -27,7 +27,7 @@ Monty Storyteller — Island Tales
 \end{center}
 ```
 
-*A selecion of tales I currently tell, I can fit various selections into a set.*
+*A selection of Island related tales I currently tell, I can fit various combinations into a set.*
 
 ## Ten Minute or so Tales
 
