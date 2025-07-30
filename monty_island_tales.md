@@ -16,14 +16,14 @@ header-includes:
 \begin{center}
 {\armystencil\fontsize{52pt}{12pt}\selectfont Tea Tales}
 
-\vspace{1em}
+\vspace{0.6em}
 
 Monty Storyteller — Island Tales
 
-\vspace{0.5em}
+\vspace{0.1em}
 
 \texttt{montystoryteller@gmail.com / montystoryteller.org}
-\vspace{1em}
+\vspace{0.8em}
 \end{center}
 ```
 
@@ -34,7 +34,7 @@ Monty Storyteller — Island Tales
 - *Walter de Godeton and the Shipwrecked wine* — the legend of the Pepperpot
 - *Micah Morey and James Dove* — a gruesome tale
 - *A Legend of Godshill* — Abraham Elder's take on how the Church came to be on the hill...
-— *Puckaster Cove Fairy Tale* (15 mins) — a fairy tale...
+- *Puckaster Cove Fairy Tale* (15 mins) — a fairy tale...
 - *The Pied Piper of Newtown* — via Abraham Elder...
 - *The Three Little Pigs* — originally collected from Arreton in the 1840s
 - *The Tragic Case of Henry Card* — (a tale from the Ferryman pub in Lymington that parallels the tale of the death of Windsor Dudley Cecil Hamborough in *The Ardlamont Affair*
