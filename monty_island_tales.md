@@ -42,7 +42,7 @@ Monty Storyteller — Island Tales
 ## Slightly Longer
 
 - *the loss of the Eurydice* — myth, sinking, aftermath
-- *Newport in the 1850s* - vice, depravity, the Pittis libel case, and a tangential link to Charlotte Brontë
+- *Newport in the 1850s* — vice, depravity, the Pittis libel case, and a tangential link to Charlotte Brontë
 
 ## In preparation (ready in the next few weeks (some of them), months (others of them))
 
@@ -57,5 +57,5 @@ Monty Storyteller — Island Tales
 ## Portsmouth / Solent Tales (slightly longer than 10, also in prep.)
 
 - *The Spithead mutiny* — yes there was, in 1797...
-- *The tale of David Tyrie* - a spy story, and a gruesome execution; this can also lead in to the next tale...
+- *The tale of David Tyrie* — a spy story, and a gruesome execution; this can also lead in to the next tale...
 - *The sinking of the Royal George*.
