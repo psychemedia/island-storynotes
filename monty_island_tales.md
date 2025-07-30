@@ -1,5 +1,5 @@
 ---
-geometry: margin=1in
+geometry: margin=0.5in
 pagestyle: empty
 fontsize: 12pt
 documentclass: extarticle
@@ -37,7 +37,7 @@ Monty Storyteller — Island Tales
 - *Puckaster Cove Fairy Tale* (15 mins) — a fairy tale...
 - *The Pied Piper of Newtown* — via Abraham Elder...
 - *The Three Little Pigs* — originally collected from Arreton in the 1840s
-- *The Tragic Case of Henry Card* — (a tale from the Ferryman pub in Lymington that parallels the tale of the death of Windsor Dudley Cecil Hamborough in *The Ardlamont Affair*)
+- *The Tragic Case of Henry Card* — a tale from the Ferryman pub, Lymington, that parallels the tale of the death of Windsor Dudley Cecil Hamborough / *The Ardlamont Affair*
 
 ## Slightly Longer
 
@@ -59,3 +59,4 @@ Monty Storyteller — Island Tales
 - *The Spithead mutiny* — yes there was, in 1797...
 - *The tale of David Tyrie* — a spy story, and a gruesome execution; this can also lead in to the next tale...
 - *The sinking of the Royal George*.
+- *John the painter* — a ghost story from The Hard
