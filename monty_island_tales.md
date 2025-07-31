@@ -37,7 +37,7 @@ Monty Storyteller — Island Tales
 - *Puckaster Cove Fairy Tale* (15 mins) — a fairy tale...
 - *The Pied Piper of Newtown* — via Abraham Elder...
 - *The Three Little Pigs* — originally collected from Arreton in the 1840s
-- *The Tragic Case of Henry Card* — a tale from the Ferryman pub, Lymington, that parallels the tale of the death of Windsor Dudley Cecil Hamborough / *The Ardlamont Affair*
+- *The Tragic Case of Henry Card* — a tale from the Ferryman pub, Lymington, that parallels the tale of the death of Windsor Dudley Cecil Hambrough / *The Ardlamont Affair*
 
 ## Slightly Longer
 
@@ -51,7 +51,7 @@ Monty Storyteller — Island Tales
 - *Felo de se at Knighton Gorges* — a sort of ghost story
 - *Lady Worsley's bottom...* — a scandalous tale of Sir Richard Worsley...
 - something around the Bembridge harbour development, Sandown pier etc - building projects around the time of the Eurydice, and complementary to that tale.
-- *The death of Windsor Dudley Cecil Hamborough, aka "The Ardlamont Affair"*
+- *The death of Windsor Dudley Cecil Hambrough, aka "The Ardlamont Affair"*
 - *The Parkhurst apprentices* (also relates to Newport in the 1850s)
 
 ## Portsmouth / Solent Tales (slightly longer than 10, also in prep.)
