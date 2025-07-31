@@ -41,7 +41,7 @@ Monty Storyteller — Island Tales
 
 ## Slightly Longer
 
-- *the loss of the Eurydice* — myth, sinking, aftermath
+- *The loss of the Eurydice* — myth, sinking, aftermath
 - *Newport in the 1850s* — vice, depravity, the Pittis libel case, and a tangential link to Charlotte Brontë
 
 ## In preparation (ready in the next few weeks (some of them), months (others of them))
