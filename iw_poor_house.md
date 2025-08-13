@@ -858,7 +858,7 @@ That orders for the relief of the occafional poor, and letters of recommendation
 f See Appendix.
 
 LXVIII.
-That eveiy diredlor, or aSing guardian^ who ſhall give any order for the relief (in money, or by adniiffion into the houſe) of any pauper, con« trary to the general adt of parliament, or to any bye-law exifting, ſhall be liable to pay the fum Or turns fo ordered; ot the weekly expences of fnch  perſonsi thus admitted by their order.
+That eveiy diredlor, or aSing guardian^ who ſhall give any order for the relief (in money, or by adniiffion into the houſe) of any pauper, con« trary to the general adt of parliament, or to any bye-law exifting, ſhall be liable to pay the fum Or turns fo ordered; or the weekly expences of fnch  perſonsi thus admitted by their order.
 
 LXIX.
 That in cafes of baftardy, general bonds of indemnity ſhall always be required^ where pro-* per fecurrtt^s can b^ had; but where th^ reputed father cannot find a fufficient  perſon to join with him in fach fecurity, he ſhall be indulged with piacing TVr£NTY founds in the hands of the treafui^eri as a depofit, and receive the interefl thereof as long as he ſhall maintain the .child % but, if the fum of twenty pounds cannot be obtained, any fum, not lefs than ten pounds^ may be received as a collateral fecurity^ at the difcretion of the weekly committee, or magiftiiate before Whom the reputed father is brought^^pro- vid^etf the intereft be left in the hands of the treafurer, to accumulate and mak^ up the fum of TWFi^TY pounds: and that> in all cafel when ihoney is paid as a collateral fecurity^ a general bond of indemnity without a bondfmah fh^srtl be given — provided aMb, that it be agfeed berwcenr a^l the faid partiea'-^and that it be fo,
