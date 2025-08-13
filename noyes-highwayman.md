@@ -6,7 +6,6 @@ We can probably pull an interesting ghost story from it...
 
 Blackwood's Magazine, August, 1906, pp. 244-7.
 
-
 THE HIGHWAYMAN.  
 PART ONE.  
 
@@ -173,50 +172,49 @@ ALFRED NOYES.
 
 It was a dark night, a windy night, with just enough moonlight to see the ribbon of the road snaking across the moor, an ancient highway dotted with the service stations of their day, roadside inns: places to eat, and drink, and to stable your horse if you should happen to want to stay the night.
 
-Approaching onesuch of these inns, a highwayman comes riding, riding, a gun at his side, and a sword on his hip.
+Approaching onesuch of these inns, a highwayman comes riding, riding, a gun at his side, and a sword on his belt.
 
-There's a clatter of horses hooves as he crosses the cobblestoned yard, and  approaches the inn, but does not enter: the door is locked for the night, the windows shuttered.
+There's a clatter of horses hooves as he crosses the cobble-stoned yard and  approaches the inn, but does not enter: the door is locked for the night, the windows shuttered.
 
 He taps with his whip on the shutters, and softly whistles a tune, and a light goes on in an upstairs window. Bess, the raven haired landlord's daughter, has been waiting for his signal.
 
-They speak in whispers, as she ties a love knot in her hair.
+They speak in whispers, as she ties a love knot in her long black hair.
 
 "I have business on the road tonight," he says, "There's gold with my name on it... I'll be back before the night is out, God willing. But if I'm pressed, or chased, or harried, I will lead them away. Then look for me by moonlight,
 watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!"
 
-He rose upright in the stirrups, reached out as if to touch her hand:,"one kiss my love, one kiss", as from the window she unloosed her hair, and it tumbled onto his breast; he breathed in its perfume, he kissed it gently, then turned his horse, and tugged the rein and was gone into the night.
+He rose upright in his stirrups, reached out as if to touch her hand:,"one kiss my love, one kiss", as from the window she unloosened her hair, and it tumbled down, onto his breast; he breathed in its perfume, kissed it gently, then turned his horse, tugged on the rein, and was gone into the night.
 
-But from a corner of the yard, from the stable, Tim the ostler has been watching; and listening. There is only one thing he loves more than the horses, and that is Bess, the landlord's red-lipped daughter. Oh, Bess...
+But from a corner of the yard, from the stable room that was there, Tim the ostler has been watching; and listening. There is only one thing he loves more than the horses, and that's Bess, the landlord's red-lipped daughter. Oh, Bess...
 
-The kiss should be his to give, the kiss should be his to receive. He paces the stable. "If I am not back before the dawn, watch for me by midnight he says..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
+The kiss should be his to give, the kiss should be his to receive. He paces the stable. "If I'm not back before the dawn, watch for me by midnight, he says..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
 
-As dawn approached, young Bess waited again by the window. As noon approached, she looked out for him from the yard; but now she must wait till midnight to see her lover again.
+As dawn approached, young Bess is waiting again by the window. As noon approached, she was looking out for him from the yard; but now she must wait till midnight to see her lover again.
 
-As the sun began to set, a red ribbon snaked its way across the moor towards the inn. A red-coated troop of the King's men came marching, marching.
+As the sun began to set, a red ribbon snaked its way across the moor towards the inn. A red-coated troop of the King's men came, marching, marching, across the moor.
 
-They entered the inn, said nothing to the landlord, but accepted his ale, then took his daughter, and bound her, and sat her at the end of the bed, looking out to the moor from her window. A gun to her breast, a gun at a her back, and Bess looked out over the moor as the soldiers mocked her and taunted her, storked her cheek and her hair. "A pretty one, this..."
+They entered the inn, said nothing to the landlord, but accepted his ale. Then took his daughter, and bound her, and sat her at the end of the bed, looking out to the moor from the window. A gun to her breast, a gun at a her back, and Bess looked out over the moor as the soldiers mocked her and taunted her, stroked her cheek and stroked her hair. "A pretty one, this..."
 
-"Look for me by moonlight; watch for me by moonlight;  
-I'll come to thee by moonlight, though hell should bar the way!" And she knew what she must do.
+"Look for me by moonlight; watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!" And she knew what she must do.
 
-She tried twisting her hands that were tied behind her back, but the knots held true. Twisted and turned, and her fingers became wet with sweat, or blood.
+Her hands were tied behind her back. She tried twisting them *this* way, twisting them *that*, but the knots held true. Twisted and turned, and her fingers became wet with sweat, or maybe with blood.
 
-And midnight approached. As the midnight bell struck, a last attempt to free her hands, to no avail, but then.. she felt it. The trigger of the musket that was placed at her back.
+Midnight approached, then the midnight bell rang. For Bess, one last attempt to free her hands; but to no avail; but then, and then again, with the tips of her fingers, she felt it: the trigger of the musket that was placed at her back.
 
-She relaxed, stood up straight, one barrel of a gun pointed up to her breast, another in her back. In the silence, she looked out for him, listened out for him.
+She relaxed, stood up straight, one barrel of a gun pointed up to her breast, another in her back. In the silence, she looked out for him, *listened* out for him.
 
 Out in the distance, was that the sound of a horse's hooves? She listened again: the sound of the highwayman, the approach of her lover, riding, riding, across the moor...
 
 And she knew what she must do.
 
-As the rider approached, the soldiers ready themselves. And Bess readied herself.
+As the rider approached, the soldiers readied themselves. And Bess readied herself.
 
-One last look, one last glance, and one last, deep breath, and Bess strectched out her finger, felt for the trigger.
+One last look, one last glance, and one last, deep breath, and Bess stretched out her finger, felt for the trigger.
 
-At the sound of the gunshot, the rider reared up his horse, turned it, and fled into the night. As the body of Bess fell to the floor.
+At the sound of the gunshot, the rider reared up his horse, turned it, and fled into the night. And the body of Bess, the landlord's daughter, fell to the floor.
 
-But he didnt know what sacrifice she had made, he didn't know until the dawn, when the news had spread, of how raven haired, red-lipped Bess, Bess the landlord's daughter, had watched out for her lover by moonlight, saved his life thriough her death.
+But he didn't know what sacrifice she had made, he didn't know until the dawn, when the news had spread, of how raven haired, red-lipped Bess, Bess the landlord's daughter, had watched out for her lover by moonlight, and saved his life through her death.
 
-He cursed to the sky, turned his horse again, and spurred like a madman to have his revenge. But the pistol at his side and sword at his belt would be no match for the red-coated King's men, as they shot him down on the highway.
+He cursed to the sky, turned his horse again, and spurred like a madman to have his revenge. But the pistol at his side and the sword at his belt would be no match for the red-coated King's men, and they shot him down on the highway that snaked across the moor.
 
-But the story doesnlt quite end there, becuase it is said that even to this day, when the night is dark, and windy, with just enough moonlight to see the ribbon of the road snaking across the moor, you can hear the highwayman come riding, riding, towards that inn. You can hear a horse's hooves clatter across the cobblestoned yard, the tap of a whip on a closed shutter, and a softely whistled tune. And if you look up to the window, you can see the figure of a raven haired, red lipped you woman tie a love knot in her hair.
+But the story doesn't quite end there, because it is said that even to this day, when the night is dark, and windy, with just enough moonlight to see the ribbon of the road as it makes its way across the moor, you can hear the highwayman come riding, riding, towards that inn. You can hear a horse's hooves clatter across the cobbles-toned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, red lipped young woman tieing a love knot in her long black hair.
