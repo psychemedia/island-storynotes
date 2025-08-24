@@ -125,7 +125,7 @@ In the following case, it is perhaps interesting to wonder what the accused was 
 
 BOROUGH COURT. Monday— Magistrates present: The Mayor, R. M. Wavell, and E. Way, esqrs.
 
-George Coward charged Henry Underwood with striking him several times on Sunday night last, in Crocker-street. It appears he and others were drinking, and there were several skirmishes, and complainant, who was the least to blame, got most of the blows. Defendant declared he did not strike him at all, but P.C. Limington swore he struck him in bis presence, and he was fined 15s, including costs, which he paid.
+George Coward charged Henry Underwood with striking him several times on Sunday night last, in Crocker-street. It appears he and others were drinking, and there were several skirmishes, and complainant, who was the least to blame, got most of the blows. Defendant declared he did not strike him at all, but P.C. Limington swore he struck him in his presence, and he was fined 15s, including costs, which he paid.
 
 The defendant, Henry Underwood, was now charged with striking three prostitutes, named Elizabeth Jackman, Ann Duffey, and Sarah Cosier. It appeared Coward was with them, and this caused the ill-feeling. He was mulcted in another 15s, which he also paid.
 ```

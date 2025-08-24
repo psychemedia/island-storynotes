@@ -125,7 +125,7 @@ Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, conta
 
 "The franklin knelt.
 
-"The bishop then, after praising him for his piety, pronounced a full absolution for all his sins, and all the ecclesiastics responded in a deep 'Amen.' The bishop then gave the whole assembly bis parting benediction, and the ceremony was at an end.
+"The bishop then, after praising him for his piety, pronounced a full absolution for all his sins, and all the ecclesiastics responded in a deep 'Amen.' The bishop then gave the whole assembly his parting benediction, and the ceremony was at an end.
 
 "As the venerable fathers rode home together, they discussed and rediscussed, and commented upon the curious tale of which they had heard several versions that morning; how all the building-stones, together with the architect's markers and pegs, had been mysteriously conveyed away from their allotted spot to the top of a steep hill in the neighbourhood. It could not have been chance. If the stones had rolled from the top of the hill down to the bottom, it would have been another thing; but stones cannot roll up a hill.
 
