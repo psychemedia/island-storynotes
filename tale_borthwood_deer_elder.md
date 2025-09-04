@@ -2535,7 +2535,7 @@ Towarde the chyrche with game and gle,
 For to make that grete solemnyte.  
 The archebysshoppe of that lande  
 Wedded them, I vnderstande.  
-Whan it was done,as I you saye,  
+Whan it was done, as I you saye,  
 Home they wente, without delaye.  
 By that they came to the castell,  
 Theyr mete was redy euerydell.  

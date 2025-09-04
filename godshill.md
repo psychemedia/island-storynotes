@@ -234,7 +234,7 @@ In *Legends and Lays of the Wight* first published in 1912, Percy G. Stone lifts
 > Turned about and came over his side.  
 >  
 > Satan reckoned, if tucked away snug out of sight,  
-> 'Twould be more out of mind of the Saints.'  
+> 'Twould be more out of mind of the Saints.  
 > Besides, with the muddy and waltorish ways,  
 > They would sure be more likely to curse than to praise —  
 > Thus their prayers would get choked with complaints.  
@@ -310,7 +310,7 @@ place,
 > "'Tis Isle of Wight calves that you be.  
 > Are your heads then so thick that you can't understand  
 > When from Heaven you're graciously sent a command —  
-> It 's a miracle, easy to see."  
+> It's a miracle, easy to see."  
 >  
 > 'You scorned the advice of a credited saint'  
 > — Here his stature a full cubit rose —  
@@ -349,7 +349,7 @@ place,
 > Every man of you bearing his part.'  
 >  
 > 'We assure you, good Saint, we will do as you say.  
-> But, ere that you bid us adieu,  
+> But, ere that you bid us *adieu*,  
 > Grant this favour benign, that our newly-built church  
 > — By Beelzebub's guile nearly left in the lurch —  
 > May be titled in honour of you.'  

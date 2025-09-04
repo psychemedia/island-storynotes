@@ -132,13 +132,13 @@ There had been great commotions in the island on this occasion, and to what a he
 
 
 
-Litera Episc. Winton,de vi Armata apud Goddihull.
+Litera Episc. Winton, de vi Armata apud Goddihull.
 EXCELLENTISSIMO Principi Edwardo,&c.Frater Henricus
 Divina Permissione Winton . Ecclesiæ Minister, salutem in Eo per quem
 Reges regnant et Principes dominantur. Quia quidam vi laicali se
 tenent armati in Ecclesia de Goddshill nostre dioces. quo minus officium
 nostrum exequi libere valeamus; votre majestati regie humiliter supplicamus, quatenus vie vestro de Sutho si placet precipiatis ut eandem
-vim prorsus amoveat ab Ecclesie memorata et ulterius contra dictos armatos exequatur, quod officio suo incumbit in hac parte; et Celsitudinem vestruin regiam conservet Altissimus, ad regimen regni et populi vobis subjecti ad tempora prospera et longæva. Dat,apud Marevell viij, kl.Apr. A. D. 1309, cons.nrē.3o
+vim prorsus amoveat ab Ecclesie memorata et ulterius contra dictos armatos exequatur, quod officio suo incumbit in hac parte; et Celsitudinem vestruin regiam conservet Altissimus, ad regimen regni et populi vobis subjecti ad tempora prospera et longæva. Dat, apud Marevell viij, kl.Apr. A. D. 1309, cons.nrē.3o
 
 brother Henry
 Divine permission Winchester. The minister of the Church, and so forth, in him, through whom we have
@@ -150,7 +150,7 @@ the churches should totally withdraw from and further called on the troops to ca
 Alia LiteraEpisc.Winton.ad Regem
 
 Adam, et cetera excellentissimo Principi Dño.Edwardo regi Anglie, et cetera salutate Excellentie vestre regie tenore presentiam intimamus, ad quidam maledictionis filii, sue salutis immemores, et in sui interritum jugiter laborantes, Ecclesiam de Goddshull Insule Vecte, ab olim Divinis obsequiis consecratam, nuper cum vario armorum genere violenter ingre dientes, ipsam Ecclesiam vi armata, obstructis ostiis contra sacros ca-, Hones, et cetera per non modica tempora occupare et incastellare ausu facri lego temere presumserint; ipsamque. ad huc potestate laicali detinent, occupatam Divini ministerij cultum nosque quo minus nostrum pastorale officium inibi exercere valeamus dampnabiliter impediendo. Quocirca celsitudini vestre attentius supplicamus quatenus dictain potestatem lai, calem a dicta Ecclesia amoveri precipias, et cetera A. D. 1340
-Ex Regis,Adam de Orlton, epi. Winton p88
+Ex Regis, Adam de Orlton, epi. Winton p88
 
 Adam and the rest excellent prince Dño.Edwardo king of England and the rest of the royal salute your excellence terms of presence, asking for some, children, their safety, and their fearless continually
 working out Goddshull the Isle of Wight on the old divine and for

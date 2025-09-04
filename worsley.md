@@ -108,7 +108,7 @@ Wight past present Mudie 1840
 in January 1778 the tower was shattered by lightning. The Rev. Daniel Walsh, then vicar
 of Godshill, communicated at the time a very circumstantial account to Sir Richard Worsley, from which we make the following extract. "We had here, on Monday last, about nine in the morning, very severe lightning, with two of the loudest claps of thunder I ever heard. There was a sensible interval between the first flash of lightning and its thunder. The second flash of lightning, and clap of thunder, seemed to be at the same instant. My house rocked as if it were tumbling down, and at first I thought of the effects of an earthquake. I concluded that the cloud would burst, and be attended with fatal consequences. It first made its appearance against the old tower; and from thence its zig-zag, confused, and various directions, were so perplexed that they
 cannot be followed by any continued description. It seems to have commenced its rage near the middle of the wall, about four feet below the dial-plate of the clock, where it
-tore off large pieces of massive stone, and loosened many others, but did not penetrate quite through there; some of it must have entered by the spindle in the centre of the dial plate, as it brake the clock-case, liquified the upper part of the pendulum ,disturbed the works of the clock, and broke
+tore off large pieces of massive stone, and loosened many others, but did not penetrate quite through there; some of it must have entered by the spindle in the centre of the dial plate, as it brake the clock-case, liquified the upper part of the pendulum, disturbed the works of the clock, and broke
 the piece of iron that regulates the striking.
 
 ---

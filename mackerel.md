@@ -241,7 +241,7 @@ On Friday about 4,000 mackerel were landed from a fishing smack at Ventnor.
 
 Ventnor
 
-SHOALS OF MACKEREL.— THis week there have been a great many shoals of mackerel in the English channel, and some thousands have been caught by fishing boats and landed here, to be retailed at four and six a shilling. Many more have been landed at other towns, so that the catch must have been a very large one,
+SHOALS OF MACKEREL.— This week there have been a great many shoals of mackerel in the English channel, and some thousands have been caught by fishing boats and landed here, to be retailed at four and six a shilling. Many more have been landed at other towns, so that the catch must have been a very large one,
 
 [Isle of Wight Observer - Saturday 20 May 1882](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18820520/023/0008)
 

@@ -212,7 +212,7 @@ COUNCIL MEETING. The quarterly meeting of the Town Council was held on Tuesday l
 
 Mr. Hearn then proposed a bye-law for the more easy suppression of disorderly houses, the resort of prostitutes, on notice being given; proceedings to be taken by thr police, and the fine of £5 to be inflicted on conviction before the magistrates.
 
-A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnoek, Mr. Estcourt,and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
+A long conversation then took place, in which Mr. Pring, Mr. Eldridge. Mr. Abraham Clarke, Mr. Sayer, Mr. Pinnoek, Mr. Estcourt, and the Mayor took part, and ultimately the bye-law was adopted, on the amendment that complaint should first be made by two householders.
 
 ```
 
@@ -650,7 +650,7 @@ NEWPORT, ISLE OF WIGHT.
 
 Valuable Premises and Business.
 
-TO be SOLD or LET, on liberal Terms,— The respectable and extensive PREMISES and BUSINESS of the late Mr. John Steane.—The Premises are Freehold, and consist of a modern-built Dwelling-house, with commodious Liquor Shop, Spirit and Beer Stores, Wine Cellars, Corn Stores, and every convenience for carrying on the Wine, Spirit, Porter, Cyder,and Corn Trade, in which the late Proprietor to the time of his disease, returned from 12 to 16,000l. per year, and which trade is still carrying on.
+TO be SOLD or LET, on liberal Terms,— The respectable and extensive PREMISES and BUSINESS of the late Mr. John Steane.—The Premises are Freehold, and consist of a modern-built Dwelling-house, with commodious Liquor Shop, Spirit and Beer Stores, Wine Cellars, Corn Stores, and every convenience for carrying on the Wine, Spirit, Porter, Cyder, and Corn Trade, in which the late Proprietor to the time of his disease, returned from 12 to 16,000l. per year, and which trade is still carrying on.
 
 To the above Premnises is attached a respectable and well-accustomed TAP and BREWHOUSE, now in full trade; to the Tap is attached an excellent and well-attended Bowling-Green.
 
@@ -1606,7 +1606,7 @@ Joseph Read was charged by P.C. Hobbs with being drunk and disorderly in the str
  
 Defendant acknowledged he was drunk—it was the *first* time! and he was sorry for it; for if Bill Pragnell ever caught him in that state he always knocked him down, which he knew better than to do when he was sober. He had fought him once, and Pragnell had met him that night, and knockod him down three times, which made him so quarrelsome. Fined 5s. and 5s. coats.
 
-Eliza Golding and Keziuh Guy, a pair of our nymphs of the pave, were charged by Inspector Grapes with strolling the streets at all hours of the night, waylaying the people in going home, and soliciting them for improper purposes. He said they had frequently been ordered home,but it was of no use to speak to them.
+Eliza Golding and Keziuh Guy, a pair of our nymphs of the pave, were charged by Inspector Grapes with strolling the streets at all hours of the night, waylaying the people in going home, and soliciting them for improper purposes. He said they had frequently been ordered home, but it was of no use to speak to them.
 
 Miss Golding was fined 10s. and 5s. costs, and in default of payment to be committed for 21 days.
 
@@ -1700,7 +1700,7 @@ Ellen Mills was fined 5s. and 5s. costs for being drunk and disorderly in the st
 
 ```
 
-```{admonition} Drunken and brawling propensities,July 1855
+```{admonition} Drunken and brawling propensities, July 1855
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 28 July 1855](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18550728/040/0007)

@@ -1,5 +1,7 @@
 # National Archive Research and Innovation Grant (Scoping)
 
+Draft prepared by: *Tony Hirst*, `tony.hirst@gmail.com`
+
 https://www.nationalarchives.gov.uk/archives-sector/grants-and-funding/research-and-innovation-grants/how-to-apply/
 
 Applications open: __August 11th to September 12th__

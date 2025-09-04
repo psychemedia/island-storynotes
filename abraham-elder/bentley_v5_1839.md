@@ -184,7 +184,7 @@ After a walk of about a mile and a quarter, we got to Puckpool. It was a low mar
 
 "'And who are you?' he asked.
 
-"'Oh! it 's little Fanny — your own little Fanny — your own dear little Fanny.'
+"'Oh! it's little Fanny — your own little Fanny — your own dear little Fanny.'
 
 "'And where are you? — for I cannot see you?'
 

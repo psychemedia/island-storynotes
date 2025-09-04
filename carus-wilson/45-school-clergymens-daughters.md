@@ -10,7 +10,7 @@ The proposal to open the school, along with a request for offering support by su
 A look at the sign as you enter the hamlet today shows the spelling today to be *Cowan Bridge*. But on the Ordnance Survey map of 1847, and in many contemporary publications, the spelling was *Cow__e__n Bridge*. I have tended to use the spelling as it appeared in each printed work.
 ```
 
-![Ordnance Survey Six Inch England Wales,Lancashire Sheet XX, Surveyed: 1844 to 1845, Published: 1847 https://maps.nls.uk/view/102343766](images/cowen_bridge_os_1847.png)
+![Ordnance Survey Six Inch England Wales, Lancashire Sheet XX, Surveyed: 1844 to 1845, Published: 1847 https://maps.nls.uk/view/102343766](images/cowen_bridge_os_1847.png)
 
 ```{admonition} School for Clergymen's Daughters, November 1823
 :class: dropdown
@@ -232,13 +232,13 @@ The walk from the shcool at Cowan Bridge to Tunstall Church was also satirised i
 
 Charlotte Brontë, *Jane Eyre: an autobiography*, [vol. 1](https://archive.org/details/janeeyreautobiog11bron/page/106/mode/2up), 1847, pp.106-7
 
-Sundays were dreary days in that wintry season. We had to walk two miles to Brocklebridge church, where our patron officiated : we set out cold, we arrived at church colder; during the morning service we became almost paralyzed. It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services.
+Sundays were dreary days in that wintry season. We had to walk two miles to Brocklebridge church, where our patron officiated: we set out cold, we arrived at church colder; during the morning service we became almost paralyzed. It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services.
 
 At the close of the afternoon service, we returned by an exposed and hilly road, where the bitter winter wind, blowing over a range of snowy summits to the north, almost flayed the skin from our faces.
 
 I can remember Miss Temple walking lightly and rapidly along our drooping line, her plaid cloak, which the frosty wind fluttered, gathered close about her, and encouraging us, by precept and example, to keep up our spirits, and march forward, as she said, " like stalwart soldiers." The other teachers, poor things, were generally themselves too much dejected to attempt the task of cheering others.
 
-How we longed for the light and heat of a blazing fire when we got back! But, to the little ones at least, this was denied : each hearth in the school-room was immediately surrounded by a double row of great girls, and behind them the younger children crouched in groups, wrapping their starved arms in their pinafores.
+How we longed for the light and heat of a blazing fire when we got back! But, to the little ones at least, this was denied: each hearth in the school-room was immediately surrounded by a double row of great girls, and behind them the younger children crouched in groups, wrapping their starved arms in their pinafores.
 ```
 
 From an article in the *Brontë Society Transactions*, we learn from the register that the Brontë sisters were admitted to the school at various points during 1824.
@@ -260,7 +260,7 @@ According to Mrs. Gaskell, a testimony from a fellow pupil of the Brontë sister
 One of these fellow-pupils of Charlotte and Maria Bronte's, among other statements even worse, gives me the following: — The dormitory in which Maria slept was a long-room, holding a row of narrow little beds on each side, occupied by the pupils; and at the end of this dormitory there was a small bed-chamber opening out of it, appropriated to the use of Miss Scatcherd. Maria's bed stood nearest to the door of this room. One morning, after she had become so seriously unwell as to have had a blister applied to her side (the sore from which was not perfectly healed), when the getting-up bell was heard, poor Maria moaned out that she was so ill, so very ill, she wished she might stop in bed; and some of the girl? urged her to do so, and said they would explain it all to Miss Temple, the superintendent. But Miss Scatcherd was close at hand, and her anger would have to be faced before Miss Temple's kind thoughtfulness could interfere; so the sick child began to dress, shivering with cold, as, without leaving her bed, she slowly put on her black worsted stockings over her thin white legs (my informant spoke as if she saw it yet, and her whole face flushed out undying indignation). Just then Miss Scatcherd issued from her room, and, without asking for a word of explanation from the sick and frightened girl, she took her by the arm, on the side to which the blister had been applied, and by one vigorous movement whirled her out into the middle of the floor, abusing her all the time for dirty and untidy habits. There she left her. My informant says, Maria hardly spoke, except to beg some of the more indignant girls to be calm; but, in slow, trembling movements, with many a pause, she went down stairs at last, — and was punished for being too late.
 ```
 
-Maria would die, at home in Haworth, of tuberculosis in May, 1825,m followed six weeks later by the death of Elizabeth from a similar cause.
+Maria would die, at home in Haworth, of tuberculosis in May, 1825, followed six weeks later by the death of Elizabeth from a similar cause.
 
 Whilst Charlotte's sisters did not die at the school, it seems that deaths there were not unknown.
 

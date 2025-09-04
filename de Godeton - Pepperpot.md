@@ -109,7 +109,7 @@ Email: richard.smout@iow.gov.uk Web: https://www.iwight.com/recordofficeandarchi
 --
 
 https://archive.org/details/isleofwightitsch00coxjuoft/page/n97/mode/2up
-Isle of Wight : its churches and religious houses
+Isle of Wight: its churches and religious houses
 by Cox, J. Charles (John Charles), 1843-1919
 
 Publication date 1911
@@ -206,9 +206,9 @@ The manor of Godyton is found under its modern name of "Gotten," as a farm situa
 
 TO DO
 
-In bygone days the south side of the island obtained an unenviable notoriety from the behaviour on these occasions of the people living on the coast strip. The ingenious Mr. J. Sturch, of Newport, writing on the Isle of Wight in 1756, says : —
+In bygone days the south side of the island obtained an unenviable notoriety from the behaviour on these occasions of the people living on the coast strip. The ingenious Mr. J. Sturch, of Newport, writing on the Isle of Wight in 1756, says: —
 
-" The Country People, of the meaner Sort, have for many years been too much accustomed to make a barbarous Advantage of these Misfortunes, plundering and carrying off the Merchants Effects in a most unjust and infamous Manner," adding — " of late this savage Practice has been much suppressed." 3
+"The Country People, of the meaner Sort, have for many years been too much accustomed to make a barbarous Advantage of these Misfortunes, plundering and carrying off the Merchants Effects in a most unjust and infamous Manner," adding — " of late this savage Practice has been much suppressed." 3
 
 Albin, writing in 1795, tells us " The inhabitants are usually more intent on plundering* than on affording assistance to the distressed and shipwrecked mariner." A year later, Tomkins, in his Tour of the Island, refers " to an inhuman stratagem practised by the inhabitants of Chale " — adding that it has too much the air of fiction to be seriously credited — " on every stormy night the unwary mariner is allured to his destruction by fixing a lantern to the head of an old horse, one of whose legs had been previously tied up. The limping gait of the animal gave the lantern a kind of motion, exactly similar to that of a ship's light, and led the deceived pilot on these fatal rocks, to fall a prey to merciless plunderers."
 
@@ -222,13 +222,13 @@ In consequence of this atrocious behaviour — whether here or elsewhere — it 
 
 he punishment for hanging out false lights, also for stealing goods from a wreck.*'
 
-Behaviour of this kind could not have been notorious here, or very general, since we find Gilpin, in 1798, writing : — ** There is another picturesque circumstance frequently seen on the coasts of the Isle of Wight, which may be mentioned, though it is a dreadful one. A winter seldom passes in which the inhabitants of these dangerous coasti are not called together to see some dreadful event (a wreck) of this kind. Long experience has taught them to judge when the mischief is inevitable. They see that every wave which beats over the perisfing vessel drives her nearer some reef of rocks, well known to them, though the seaman knows it not; signals can be of no use; yet they make what signals* they can to point out the danger. In a short moment the dreadful crash arrives. The labouring vessel, now beating among the rocks, gives way in every part, and the hospitable islanders, very unlike their neighbours on the Cornish Coast, have nothing left but to do civerything in their power to save the miserable people, and recover what they can from the wreck."
+Behaviour of this kind could not have been notorious here, or very general, since we find Gilpin, in 1798, writing: — ** There is another picturesque circumstance frequently seen on the coasts of the Isle of Wight, which may be mentioned, though it is a dreadful one. A winter seldom passes in which the inhabitants of these dangerous coasti are not called together to see some dreadful event (a wreck) of this kind. Long experience has taught them to judge when the mischief is inevitable. They see that every wave which beats over the perisfing vessel drives her nearer some reef of rocks, well known to them, though the seaman knows it not; signals can be of no use; yet they make what signals* they can to point out the danger. In a short moment the dreadful crash arrives. The labouring vessel, now beating among the rocks, gives way in every part, and the hospitable islanders, very unlike their neighbours on the Cornish Coast, have nothing left but to do civerything in their power to save the miserable people, and recover what they can from the wreck."
 
 From the earliest period "wreck of the sea, waifs and estrays," pertained to the lordship of the island. At an inquisition taken on the death of Baldwin de Redvers, 47 Henry III (1263), " the jurors also say that wreck of the sea belonging to the lord of the castle is worth 4A'. per annum." During the countess Isabella's tenure the claim was contested by the abbot of Quarr, by John de Insula, owning Bonchurch and other Undercliff estates, by Sir Thomas de Aula, of St. Lawrence, and the lady Matilda de Estur, of Old Park, in Whitwell parish, on the plea that each of them was entitled to one-half of whatever should be wrecked on their respective lands, as a compensation or salvage for preserving the other half for the use of the lord." The trial took place before the Justices Itinerant, at Winchester, 8 Edward I (1280), when " Isabella, countess of Albermarl, was summoned to show to the Lord the King, by what warrant she thus claimed to have wreck of the sea, and Isabella comes and saith that she and all her ancestors, from the time of king Richard, and also before that time alw^ays unto the present time have had their wreck of the sea in her fee of the Isle of Wight without any interruption." The story is given in Hillier's unfinished History of the Isle of Wight, and ^ The jury being chosen, say upon oath, ‘ that the aforesaid Countess and also all her ancestors, from the time whereof memory doth not exist, had such wreck of sea in her fee,' etc., and by an order of the Itinerant Justices the rights of the Countess were confirmed.
 
-In 1416, 3 Henry V, is entered the following : —
+In 1416, 3 Henry V, is entered the following: —
 
-" Edwardus Dux Ebor'.
+"Edwardus Dux Ebor'.
 
 Insula de Wight et Caresbrok Castr' infra eundem et totum dominium addict* insulam et castrum pertinens cum wrecco maris. . .
 
@@ -246,9 +246,9 @@ Nov. 15. Somersete (and others), touching the petition, exhibited before
 
 Westminster, the King's Council, of Ralph de Gorges, alleging that divers trespasses and other malpractices under colour of office had been committed as well against the King, Edward, earl of Chester and lord of the Isle of Wight, his son, as against men of the county of Southampton and of the said Island, by Henry le Tyeys and John de Burton and other ministers of the said Henry during the time the same Henry was Constable of the said Island. "2
 
-And later, in the same series of Rolls, is entered : ~
+And later, in the same series of Rolls, is entered:—
 
-1321. " Grant to Ralph de Gorges, lately taken prisoner while on the
+1321. "Grant to Ralph de Gorges, lately taken prisoner while on the
 
 July 2. King's service and ransomed afterwards, of 500 marks towards
 

@@ -50,14 +50,15 @@ parts:
   - file: carus-wilson/65-appendix-portsmouth-in-flames
   - file: carus-wilson/70-appendix-shepheard-vindication
   - file: carus-wilson/72-appendix-carus-wilson-memoir
-- caption: Appendix — Original Tellings
+- caption: Appendix — Abraham Elder Original Tellings
   chapters:
   - file: elder-godshill
   - file: elder-puckaster
-- caption: Appendix — Retellings
+- caption: Appendix — Elder Retellings
   chapters:
   - file: elder-godshill-reversioned
   - file: elder-puckaster-reversioned
+  - file: elder-puckaster-observer
 - caption: Solent Tales — Spithead Mutiny (WIP)
   chapters:
   - file: spithead_mutiny

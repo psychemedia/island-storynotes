@@ -343,7 +343,7 @@ A letter that appeared in the *Westmorland Gazette* of Saturday 30 May, 1857, is
 
 The version in the Times begins as follows:
 
->,Sir, -In a recent number of *The Times* prominent notice was taken of the *Life of Charlotte Bronté*, authoress of Jane Eyre, and the charges brought against the Cowen-bridge School and its founder, the Rev. W. Carus Wilson, were adopted and commented upon in your article as if they were true.
+> Sir, -In a recent number of *The Times* prominent notice was taken of the *Life of Charlotte Bronté*, authoress of Jane Eyre, and the charges brought against the Cowen-bridge School and its founder, the Rev. W. Carus Wilson, were adopted and commented upon in your article as if they were true.
 >
 > The same sense of justice and indignation against wrong which prompted your severe remarks on the supposed cruelties of the Cowen-bridge School will, I trust, engage you to give equal publicity to the following statements on the other side.
 

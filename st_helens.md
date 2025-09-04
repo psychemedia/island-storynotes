@@ -179,7 +179,7 @@ Outward-bound ships not only take in their poultry, &c. here, but likewise their
 ( 34 )
 sweet a state as when taken from the spring.
 
-And it has this further advantage,that when at sea, it recovers itself sooner than any
+And it has this further advantage, that when at sea, it recovers itself sooner than any
 other.
 
 Near the [Nettlestone] priory several salt-works are established, which for convenience exceed

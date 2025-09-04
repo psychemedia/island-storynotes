@@ -388,3 +388,211 @@ Davin FitzGerald. Hammersmith
 In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this story is told as a legend of Newtown, in the island. The Hamel story is quoted as a parallel case, and an extract from Verstegan's account is given. I have before now asked unsuccessfully in "N, & Q." who "Abraham Elder, Esq.," was or is. His book is clever and interesting; but it does not appear how far the stories told by him are really local legend, and how far they are due to his own fancy or to the folk-lore of places other than the island. A. J. M.
 
 ```
+
+## Beata Elizabeth Macaulay's *The Newtown Rats*
+
+A copy of Beata Elizabeth Macaulay's *The Newtown Rats — An Isle of Wight Legend*, published in 1869, "written several years ago" and privately publsihed *"as a little diverson of thought to myself, after bereavements"*, can be found in the Castle Museum Library at Carisbroke Castle.
+
+THE NEWTOWN RATS
+
+AN ISLE OF WIGHT LEGEND
+
+In Thirteen Hundred Seventy Seven  
+A most unpleasant thing occurred,  
+The French, fermenting with the leven  
+Of pride, to mischief inly stirred,
+
+Descended on the Isle of Wight,  
+And anchored thick in Francheville Bay,  
+Captured the town, few showing fight,  
+Sacked, slaughtered, burnt and sailed away.
+
+'Twas shocking to be thus maltreated,  
+Besides the loss of goods and home;  
+The men they raved, the women greeted,  
+Shedding tears as salt sea foam.
+
+But little can be got by grieving;  
+So, having gulped their spittle down,  
+They set about the case retrieving  
+By building up another town.
+
+They called it Newtown, for the sound  
+Of Francheville was of omen ill,  
+According to the stories found  
+In a most dismal Chronicle.—
+
+'Twas in the reign of Edward Three,  
+The king was waging Northern wars,  
+And left the country south of Dee  
+A prey to rapine, feuds and jars.
+
+None were there justice to dispense,  
+For gap or leakage none had care;  
+Neglected went hedge, dyke and fence—  
+'Twas desolation everywhere.
+
+From what is said, you'll understand,  
+The island being in disorder;  
+The vermin got the upper hand,  
+And Rats o'erran the farmer's border.
+
+In milk pans, in the brewing vats,  
+In corn bins, in the children's beds,—  
+Everywhere the wretched Rats,  
+With their long tails and filthy heads.
+
+At length the Magistrates decreed,  
+A guerdon of one hundred pounds,  
+To him who should have fully freed  
+From pestilential Rats their bounds.
+
+A hundred pounds was then no song,  
+But none adventured, all stood dumb;  
+A wandering Piper came along,  
+Who said he'd do it for the sum.
+
+Pre-eminently clad in rags  
+Of every hue that e'er was spun,  
+He wore them as men wear their tags,  
+All bravely glancing in the sun.
+
+To kill the Rats, and guard the grain,  
+No weapn had he save his flute,  
+Preluding with a silvery strain,  
+He left the Mayoir with low salute.
+
+In thrilling cadence clear and sweet  
+Stole that soft music on the air,  
+Making the pulse more calmly beat,  
+And the fair landscape seem more fair.
+
+And not alone the human race  
+Those strains may kindle and subdue;  
+The brute creation had the grace  
+To own their charm and pathos too.
+
+Now singly, now by threes and fours,  
+By tens, by twenties ten times told,  
+From windows, cellars, roofs and doors  
+Pour'd forth the Rats—one hideous fold!
+
+It was a sight to see that river  
+Of hateful vermin choke the way,
+Enough to make the bravest shiver,  
+And cross himself, and turn and pray.
+
+Seaward they sped, with one intent,  
+Lured by the Piper, gone before,—  
+Stood when he stood, went when he went,  
+And so together neared the shore.
+
+Still pouring floods of harmony,  
+The Piper there his craft unbound,  
+And following after him to sea,  
+The music-loving Rats are drowned.
+
+In Francheville streets then folk are glad,  
+Again the Farmer breathes at ease,  
+Felt owner of what crops he had,  
+And housed his corn, and beans and peas.
+
+But none bethought them of reward,  
+Or votive gift, to seek a blessing;  
+I would not on their fault be hard,  
+We all of us are oft transgressing.
+
+So as the season went and came,  
+Men forgot Piper, Rats and all,  
+Till one day, in bright rags, his claim  
+Standing, he urged in the Town-Hall.
+
+The Magistrates declared 'twas jest  
+To give for sing-song such a boon,  
+But threw some ducats from the chest,  
+And bade him go and play a tune.
+
+The Piper did as he was told,  
+He went away and played his Flute,  
+But turned his back upon the gold,  
+And left the Mayor without salute.
+
+And then anew that thrilling strain  
+Arose to Heaven, divinely sweet,  
+Falling back on the heart like rain  
+O'er herbage parched by summer heat.
+
+To Beaulieu River opposite,  
+The rich triumphal paean goes,  
+Onward to where Hurst Castle light  
+Beningly now its guidance throws.
+
+Whilst inland, every path you take  
+Stand listeners, eloquently mute;  
+But most the children seem awake  
+To the strange magic of that flute.
+
+With their fair hair and dove-like eyes,  
+And little loving hands entwined,  
+And young hearts full of ecstasies  
+Crowding, they press along behind.
+
+And none durst stop them on their way,  
+Fell on all minds mysterious awe;  
+Men felt their children doomed a prey,  
+They saw, and wist not what they saw.
+
+And now the sacrifice is over;  
+One splash, and Ocean's curling wreath  
+Is all the fond eye may discover,  
+The Children calmly sleep beneath.
+
+Ah! then was wailing deep and loud  
+In Francheville streets, where all was blight,  
+The strong man to the dust is bowed,  
+And the young matron's hair is white.
+
+And some sink down in apathy,  
+Some go ahead in recklessness,  
+Some court the grave, and long to die,  
+Some kiss the rod that Heaven may bless.
+
+Still as the seasons went and came,  
+Men rallied somewhat and awoke,  
+But Francheville never was the same,  
+That it had been before the stroke.
+
+And so when crossed the fighting foe,  
+No muscle was there war to wage,  
+Only for Manhood's prime laid low,  
+Too heedless Youth, too cautious Age.
+
+Such was the legend read to me  
+Beside the hospitable hearth,  
+The bright fire lazing cheerily,  
+Wilst Winter's storms swept on their path.
+
+And I believed it every word,  
+Impressed as by a Special Pleader,  
+And so would you, if you had heard,  
+The accents of that graceful Reader.
+
+I saw the Piper flaunt his rags,  
+I met the Rats and was afraid;  
+I mark'd the Burgess chink his bags,  
+I heard the money bargain made.
+
+But second-handed, faint and low  
+My mutter'd Legend you may doubt;  
+Well! Truth or Fiction? Leave it so;  
+We'll try and pick a lesson out.
+
+The surface Moral of the tale  
+Seems this — *to promise and to pay*:  
+A deeper meaning may prevail,  
+The hearer's inner thought to sway.
+
+Agreed, 'tis Men who guard the town,  
+But 'tis the Child who makes the Man;  
+And whoso loves his land's renown,  
+Will REVERENCE CHILDHOOD all he can.

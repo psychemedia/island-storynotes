@@ -492,7 +492,7 @@ Hampshire Chronicle - Monday 04 June 1821
 
 Saturday Night's Gazette
 
-THIS announces Royal to numerous public and private Acts of Parliament,amongst which are— an Act for lighting Newport, I.W. with gas.
+THIS announces Royal to numerous public and private Acts of Parliament, amongst which are— an Act for lighting Newport, I.W. with gas.
 
 https://www.legislation.gov.uk/ukla/Geo4/1-2/57/contents/enacted
 Newport (Isle of Wight) Gas Act 1821
