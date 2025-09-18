@@ -35,7 +35,7 @@ Inside the pub the bar chat was all about the strange goings on on the Island. T
 
 According to a newspaper report read out by one of the barflies, at the time of his death, Hambrough had been in Scotland, on the Ardlamont estate. In a tragic accident, he'd been out shooting with his guardian, stumbled somehow, or got caught up in a bush, and set off his gun with a fatal result. A terrible, terrible accident. Or was it? The matter of a newly arranged life insurance policy taken out against him hinted that perhaps it wasn't just an accident.
 
-One of the drinkers suggested it was impossible that a man could hold a gun in such a way that if he stumbled, he'd be able to blow the back of his head off. At this point, Henry Card, his dog under his arm, his pint in his hand, disagreed, and said it was quite possible. Gun accidents happened all the time, and that's all that this was.
+One of the drinkers suggested it was impossible that a man could hold a gun in such a way that if he stumbled, he'd be able to blow the back of his head off. At this point, Henry Card, dog under his arm, pint in his hand, disagreed, and said it was quite possible. Gun accidents happened all the time, and that's all that this was.
 
 "You're talking nonsense", said the DFL, the down-from-Londoner. To which Card replied, "Bugger that, I'll show you", put his pint on the bar, his dog on the floor, and picked up his gun.
 
