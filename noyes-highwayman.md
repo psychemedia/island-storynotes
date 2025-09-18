@@ -208,7 +208,7 @@ She knew what she must do.
 
 As the rider approached, the soldiers readied themselves. And Bess readied herself.
 
-One last look, one last glance, and one last breath. Bess stretched out her finger, and felt for the trigger.
+One last look, one last glance, and one last, deep, breath. Bess stretched out her finger, and felt for the trigger.
 
 At the sound of the gunshot, the rider reared up his horse, turned its head, and fled into the night. And the body of Bess, the landlord's daughter, fell dead to the floor.
 
