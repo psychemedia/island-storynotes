@@ -170,29 +170,29 @@ ALFRED NOYES.
 
 *An attempt at a telling...*
 
-It was a dark night, a windy night, with just enough moonlight to see the ribbon of the road snaking across the moor, an ancient highway dotted with the service stations of their day, roadside inns: places to eat, places to drink, and places to stable your horse if you wanted to stay the night.
+It was a dark night, a windy night, with just enough moonlight to see the ribbon of the road snaking across the moor, an ancient highway dotted with roadside inns, the service stations of their day, places to eat, places to drink, and places to stable your horse if you wanted to stay the night.
 
-Approaching onesuch of those inns, a highwayman comes riding, riding, a gun at his side, and a sword on his belt.
+Approaching the site of those inns, a highwayman comes riding, a gun at his side, and a sword on his belt.
 
-There's a clatter of horses hooves as he crosses the cobble-stoned yard and approaches the inn. But he doesn't enter: the door is locked for the night, and the windows are shuttered.
+There's a clatter of horses hooves as he crosses the cobbled courtyard and approaches the inn. But he doesn't enter: the door's locked for the night, and the windows are shuttered.
 
-He taps with his whip on the shutters, and softly whistles a tune. A light goes on in an upstairs window. Bess, the raven haired landlord's daughter, has been waiting for his signal.
+He taps with his whip on the shutters, softly whistles a tune. A light goes on in an upstairs window. It's Bess, the raven haired landlord's daughter, who's been waiting for his signal.
 
 They speak in whispers, as she ties a love knot in her long black hair.
 
-"I have business on the road tonight," he says, "There's gold with my name on it... But I'll be back before dawn, God willing. Though if I'm pressed, or chased, or harried, I'll lead them away. Then look for me by moonlight, watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!"
+"I've business on the road tonight. There's gold with my name on it... But I'll be back before dawn, God willing. Though if I'm pressed, or chased, or harried, I'll lead them away. Then look for me by moonlight, watch for me by moonlight, because I'll come to thee by moonlight, though hell should bar the way!"
 
-He rose upright in his stirrups, reached out as if to touch her hand:,"one kiss my love, one kiss". From the window, she unloosened her hair; it tumbled down, onto his breast; he breathed in its perfume, kissed it gently. Then turning his horse, tugged on the reins, and was gone, gone into the night.
+He rose up in his stirrups, reached out as if to touch her hand:,"one kiss my love, one kiss". And from the window, she unloosened her hair; it tumbled down, onto his breast; he breathed in its perfume, kissed it gently. Then turning his horse, tugged on the reins, and was gone, gone into the night.
 
-But from the corner of the yard, from the stable there, Tim the ostler has been watching; and listening. There's only one thing he loves more than the horses, and that's Bess, the landlord's red-lipped daughter. Oh, Bess...
+From the corner of the yard, from the stable in the corner there, Tim the ostler has been watching; and listening. There's only one thing he loves more than the horses, and that's Bess, the landlord's red-lipped daughter. Oh, Bess...
 
-That kiss should be his to give, her kiss should be his to receive. He paces the stable. "If I'm not back before the dawn, watch for me by midnight, he says..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
+That kiss should be his to give, her kiss should be his to receive. He paces the stable. "If I'm not back before the dawn, watch for me by midnight..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
 
-Dawn approaches, and young Bess is waiting again by the window. At noon, she looks out from the yard; for now she must wait till midnight again to see her lover again.
+Dawn approaches, and young Bess again waits by the window. At noon, she looks out from the yard; for now she must wait till midnight again to see her lover again.
 
 The sun begins to set, and a red ribbon snakes its way across the moor towards the inn. A red-coated troop of the King's men, marching across the moor.
 
-They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, and bind her, sit her at the end of the bed, looking out to the moor from her window. A gun to her breast, and another at a her back, and Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and stroke her hair. "A pretty one, this..."
+They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, bind her, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and stroke her hair. "A pretty one, this..."
 
 "Look for me by moonlight; watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!" And she knew what she must do.
 
@@ -202,7 +202,7 @@ Midnight approached, and the midnight bell rang. For Bess, one last attempt to f
 
 She relaxed, stood up straight, one barrel of a gun pointed up to her breast, another in her back. In the silence, she looked out for him, *listened* out for him.
 
-Out in the distance, was that the sound of a horse's hooves? She listened again: the sound of the highwayman, the approach of her lover, riding across the moor...
+Out in the distance, was that the sound of a horse's hooves? She listened again: the sound of the highwayman, the approach of her lover, riding, riding across the moor...
 
 She knew what she must do.
 
@@ -212,10 +212,10 @@ One last look, one last glance, and one last, deep breath. Bess stretched out he
 
 At the sound of the gunshot, the rider reared up his horse, turned its head, and fled into the night. And the body of Bess, the landlord's daughter, fell to the floor.
 
-He didn't know what sacrifice she'd made, he didn't know until the dawn, when the news had spread, of how the raven haired, red-lipped Bess, Bess the landlord's daughter, had watched out for him by moonlight, saved his life with her death.
+He didn't know what sacrifice she'd made, didn't know until the dawn, when the news had spread, of how the raven haired, red-lipped Bess, Bess the landlord's daughter, had watched out for him by moonlight, and saved his life with her death.
 
-He cursed the sky, turned his horse again, and spurred like a madman to seek his revenge. But the pistol at his side and the sword at his belt would not be a match for the red-coated King's men, as they shot him down on the highway that snaked across the moor.
+He cursed the sky, turned his horse again, and spurred like a madman to seek his revenge. But the pistol at his side and the sword on his belt would not be a match for the red-coated King's men, as they shot him down on the highway that snaked across the moor.
 
-The story doesn't quite end there, of course, how could it? Because it is said, that even to this day, when the night is dark, and windy, with just enough moonlight to see the ribbon of the road as it makes its way across the moor, you can hear the highwayman come riding towards that inn. You can hear a horse's hooves clatter across the cobble-stoned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, red lipped young woman tieing a love knot in her long black hair.
+The story doesn't quite end there, of course, how could it? Because it is said, that even to this day, when the night is dark, and the wind blows across it, with just enough moonlight to see the ribbon of the road by, as it snakes its way across the moor, you can hear the highwayman come riding towards that inn. You can hear a horse's hooves clatter across the cobble-stoned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, red lipped young woman tieing a love knot in her long black hair. The ghost of Bess, the landlord's daughter.
 
 And that is the tale of the highwaymen, once penned as a poem by a yound Alfred Noyes.
