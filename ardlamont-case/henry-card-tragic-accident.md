@@ -43,7 +43,7 @@ One of the drinkers suggested it was impossible that a man could hold a gun in s
 
 "If you slung it like that", he said, "and stumbled, and it knocked the trigger..." He pulled the trigger. They all saw him pull the trigger.
 
-A man was immediately sent across to Lymington town on the ferry, to fetch the doctor, but there was nothing they could do. A couple of hours later, Henry Card was dead.
+There was nothing they could do. A man was immediately sent across to Lymington town on the ferry, to fetch the doctor, but there was nothing he could do to help the comatose man. A couple of hours later, Henry Card was dead.
 
 At the inquest, the coroner returned a verdict of "Accidental Death".
 
