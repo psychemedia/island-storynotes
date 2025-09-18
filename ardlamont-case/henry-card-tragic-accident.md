@@ -41,7 +41,7 @@ One of the drinkers suggested it was impossible that a man could hold a gun in s
 
 "Do you want to try? It's empty..." But the man declined, and so Henry Card himself cocked the gun, and with his right hand, put it behind his back, struggling to position it, just so, with the muzzle towards the back of his head.
 
-"If you slung it like that", he said, "and stumbled, and it knocked the trigger..." He pulled the trigger...
+"If you slung it like that", he said, "and stumbled, and it knocked the trigger..." He pulled the trigger. They all saw him pull the trigger.
 
 A man was immediately sent across to Lymington town on the ferry, to fetch the doctor, but there was nothing they could do. A couple of hours later, Henry Card was dead.
 
