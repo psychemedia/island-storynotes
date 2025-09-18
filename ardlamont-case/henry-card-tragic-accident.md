@@ -31,7 +31,7 @@ He stopped to chat to an old friend who was working in one of the fields, and as
 
 Distracted by a train on the other side of the river there, Henry remarked on how busy it was. Then the two men separated, and Henry went for his pint.
 
-Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed under police inquest.
+Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed as part of a police inquest.
 
 According to a newspaper report read out by one of the barflies, at the time of his death, Hambrough had been in Scotland, on the Ardlamont estate. In a tragic accident, he'd been out shooting with his guardian, stumbled somehow, or got caught up in a bush, and set off his gun with a fatal result. A terrible, terrible accident. Or was it? The matter of a newly arranged life insurance policy taken out against him hinted that perhaps it wasn't just an accident.
 
