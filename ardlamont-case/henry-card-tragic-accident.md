@@ -25,7 +25,7 @@ I discovered this tale from a sign in the entrance to what is now [*The Ferryman
 
 I first came across this tale, and the tale that alludes to, in the Ferryman pub in Lymington, where we often pass the time if we've time to wait on a boat.
 
-It dates back to a particular September, in the early 1890s, and a local gamekeeper, named Henry Card, a father of nine young children, who was wandering along the river path on the Walhmapton side, towards the Waggon and Horses, as the Ferryman pub was called then, with his dog at his side.
+It dates back to a particular September, in the early 1890s, and a local gamekeeper, named Henry Card, a father of nine young children, who was wandering along the river path on the Walhampton side, towards the Waggon and Horses, as the Ferryman pub was called then, with his dog at his side.
 
 He stopped to chat to an old friend who was working in one of the fields, and as he did so, snapped open his gun to take out the cartridges.
 
