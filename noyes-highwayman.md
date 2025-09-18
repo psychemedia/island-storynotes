@@ -123,7 +123,7 @@ VII.
 
 *Tlot-tlot*, in the frosty silence! *Tlot-tlot*, in the echoing night!  
 Nearer he came and nearer! Her face was like a light!  
-Her eyes grew wide for a moment; she drew one last deep breath,  
+Her eyes grew wide for a moment; she drew one last breath,  
 Then her finger moved in the moonlight,  
 Her musket shattered the moonlight,  
 Shattered her breast in the moonlight and warned him — with her death.  
