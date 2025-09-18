@@ -20,6 +20,44 @@ I discovered this tale from a sign in the entrance to what is now [*The Ferryman
 >
 > "The tragic circumstances surrounding his death," stated the Press, "have evoked the deepest sympathy towards his sorrowing widow, who has thus suddenly been left to battle with the work alone for herself and nine orphans left behind."
 
+```{admonition} A telling
+:class: dropdown
+
+I first came across this tale, and the tale to which it alludes, in the Ferryman pub in Lymington, where we often pass the time if we've time to wait on a boat.
+
+It dates back to one September, in the 1890s, and a local gamekeeper, Henry Card, a father of nine young children, who was wandering along the river path on the Wlahmapton side, towards the Waggon and Horses, and the Ferryman pub was called then, with his dog at his side.
+
+He stopped to chat to an old friend who was working in one of the fields, and as he did so, snapped open his gun to take out the cartridges.
+
+As they watched an approaching train, Henry Card remarked on how busy it was, then the two men separated, and Henry went for his pint.
+
+Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed under police inquest the day before.
+
+According to a newspaper report read out by one of the barflies, at the time of his death, Hambrough had been in Scotland, on the Ardlamont estate. In a tragic accident, he had been out shooting with his guardian, stumbled somehow, set off his gun, and apparently killed himself. A terrible, terrible accident. Or was it? The matter of a newly arranged life insurance policy hinted that perhaps it wasn't just an accident.
+
+One of the drinkers suggested it was impossible that a man could holding a gun in such a way that if he stumbled. he could blow the back of his head off. At this point, Henry Card, his dog under his arm, his pint in his hand, disagreed, and said it was quite possible. Gun accidents happened all the time, and that's all this was.
+
+"You're talking nonsense", said the DFL, the down-from-Londoner, who'd provided the paper. To which Card replied, "Bugger that, I'll show you", put his pint on the bar, his dog on the floor, and picked up his gun.
+
+"Do you want to try? It's empty..." But the man declined, and so Henry Card himself cocked the gun, and with his right hand, put it behind his back, struggling to poisition it, just so, with the muzzle towards the back of his head.
+
+"If you slung it like that", he said, "and stumbled, and it knocked the trigger..." He pulled the trigger...
+
+There was nothing they could do... a man was sent across to Lymington town on the ferry, to fetch the doctor, but there was nothing they could. A couple of hours later, Henry Card was dead.
+
+At the inquest, the coroner returned a verdict of "Accidental Death".
+
+And as for the case of young Mr Cecil Dudley Hambrough, whose grave you can still see in St Catherine's churchyard today, well, the telling of that is a much longer story.
+
+```
+
+```{image} images/waggon-horses-lymington-os-1871.png
+:alt: Ordnance Survey six inch, 1871, showing Waggon and Horses
+:align: center
+```
+
+*Ordnance Survey six inch map, 1871, showing the Waggon and Horses pub, Walhampton, the ferry to Lymington, and the railway line. `Reproduced with the permission of the [National Library of Scotland](https://maps.nls.uk/) [CC-BY]`.*
+
 The original story appeared in just a few short hours following the accident, before the gamekeeper succumbed to his injuries:
 
 ```{admonition} *A Tragically shocking affair*, Sheffield Evening Telegraph, Tuesday 05 September 1893
@@ -66,7 +104,7 @@ In *Hampshire Independent*, Saturday 09 September 1893, [p5](https://www.british
 
 SHOCKING GUN ACCIDENT NEAR LYMINGTON. INQUEST AT WALHAMPTON.
 
-The County Coroner (Mr. B. Harfield) held an inquest on Thursday afternoon, at the Waggon and Horses, Walhampton, in connection with a tragic calamity that took place there at mid-day Tuesday, when Henry Card, aged 31, of Snook's Farm, a gamekeeper in the employ of Mr. J. P. Heseltine, shot himself whilst attempting to show how Lieut. Hantheough might have done so. On assembling the jury inspected the low-roofed tap-room in which the tragedy occurred, the ceiling of which showed a cluster of shot-marks, and some hair where the charge had scattered after striking the deceased. From the inn they proceeded to deceased's home, a secluded country homestead, about a mile off, to view the body. The inquest commenced sitting at quarter-past four, first witness called being Dr. Rendell, who deposed that he was on that side of the water about ten minutes to twelve, and was asked to go to the Waggon and Horses. On his arrival he entered the tap-room, and found the deceased lying INSENSIBLE ON THE FLOOR, lying on his left side with his face downwards. and surrounded by pools of blood and scattered brains. An examination of his head showed an irregular lacerated wound about two inches in diameter, situated at the upper part of the back of the head, rather inclined to the right side, from which brain matter was exuding and hemorrhage occurring. He did all he could for him by endeavouring to atop the haemorrhage by pressure, but he gradually became more insensible and eventually comatosed, and died about two hours afterwards; he had no other marks of injury observable. In his opinion the wound was a gunshot one. He considered the case hopeless from the first.
+The County Coroner (Mr. B. Harfield) held an inquest on Thursday afternoon, at the Waggon and Horses, Walhampton, in connection with a tragic calamity that took place there at mid-day Tuesday, when Henry Card, aged 31, of Snook's Farm, a gamekeeper in the employ of Mr. J. P. Heseltine, shot himself whilst attempting to show how Lieut. Hambrough might have done so. On assembling the jury inspected the low-roofed tap-room in which the tragedy occurred, the ceiling of which showed a cluster of shot-marks, and some hair where the charge had scattered after striking the deceased. From the inn they proceeded to deceased's home, a secluded country homestead, about a mile off, to view the body. The inquest commenced sitting at quarter-past four, first witness called being Dr. Rendell, who deposed that he was on that side of the water about ten minutes to twelve, and was asked to go to the Waggon and Horses. On his arrival he entered the tap-room, and found the deceased lying INSENSIBLE ON THE FLOOR, lying on his left side with his face downwards. and surrounded by pools of blood and scattered brains. An examination of his head showed an irregular lacerated wound about two inches in diameter, situated at the upper part of the back of the head, rather inclined to the right side, from which brain matter was exuding and hemorrhage occurring. He did all he could for him by endeavouring to atop the haemorrhage by pressure, but he gradually became more insensible and eventually comatosed, and died about two hours afterwards; he had no other marks of injury observable. In his opinion the wound was a gunshot one. He considered the case hopeless from the first.
 
 James Geary, of Waterman's Farm, stated that at about 11 o'clock on Tuesday morning, whilst he was working in the field the deceased spoke to him. They had a little conversation about his birds, when the deceased looked to the railway line and said "What a lot people going down the line; I wonder what's up." At the same time he unlocked his gun, a breechloader, apparently, as I thought, to take the cartridges out, but, drawing my attention to the people going down the line, I did not take notice whether he took the cartridges out or not. A few minutes afterwards, deceased left him and went across the field in the direction the Lymington ferry. He noticed nothing unusual in his manner.
 
@@ -74,7 +112,7 @@ John Bligh, of London, staying at the Waggon and Horses, was told at about half 
 "OH YES HE COULD DO SO."  
 He invited witness to try, saying "There is my gun, you can try it, it is empty." Witness was sitting on a seat, and didn't offer to get up. Card was nursing a little white dog at the time; he instantly put the dog down, and took the gun up and cocked it. He then took it in his right hand, put it behind his back, with the muzzle towards the back of his head, and then fired. Witness iilustrated his explanation with the aid of the gun in question. He  
 SAW DECEASED PRESS THE TRIGGER,  
-and when the deed was done he put the gun down on to the table, and gradually sank down. The other hammer was at full cock. Witness called Mr. Gosling, the landlord, and asked where he could get a doctor, and was told across in the town, he called out to the ferryman to get his boat ready as quick as he could. He went into the town and summoned a doctor. When witness returned a doctor had arrived. Witness considered the shooting the result of an accident. Deceased seemed in his usual spirits. When deceased came into the tap-room, on putting down his gun, he stated to a boy that it was not loaded. Fitz Inman, of Wolverhamptan, knew the deceased well, and identified him after death. On Tuesday morning between half-past eleven and twelve witness was at the Waggon and Horses when Mr. Card came in. He was not in the tap-room at the time of the occurrence, being then on his way home to get a paper. He heard the report of a gun when he reached his door, and it appeared to come from the inn. He was called back to the house by the landlord. On opening the tap-room door he found deceased with his head resting on the settle. Witness took hold of him and eased him on to the floor. Witness took the pipe deceased was smoking out of his mouth. When witness left the room the gun was lying on the settle, he did not notice where it was on his return. He did not hear deceased say the gun was not loaded; deceased was A VERY CAREFUL MAN with guns. The gun used was not deceased's but had been used by him for some weeks. The only other man the room when witness left was Mr. Bligh, though he believed a man named Etheridge entered the room just after he felt. It was not considered necessary to call Etheridge, as he could not add materially to Mr. Bligh's statement. The Coroner summed up briefly, and the jury returned a verdict of ACCIDENTAL DEATH. The deceased leaves a wife and nine young children. 
+and when the deed was done he put the gun down on to the table, and gradually sank down. The other hammer was at full cock. Witness called Mr. Gosling, the landlord, and asked where he could get a doctor, and was told across in the town, he called out to the ferryman to get his boat ready as quick as he could. He went into the town and summoned a doctor. When witness returned a doctor had arrived. Witness considered the shooting the result of an accident. Deceased seemed in his usual spirits. When deceased came into the tap-room, on putting down his gun, he stated to a boy that it was not loaded. Fitz Inman, of Wolverhampton, knew the deceased well, and identified him after death. On Tuesday morning between half-past eleven and twelve witness was at the Waggon and Horses when Mr. Card came in. He was not in the tap-room at the time of the occurrence, being then on his way home to get a paper. He heard the report of a gun when he reached his door, and it appeared to come from the inn. He was called back to the house by the landlord. On opening the tap-room door he found deceased with his head resting on the settle. Witness took hold of him and eased him on to the floor. Witness took the pipe deceased was smoking out of his mouth. When witness left the room the gun was lying on the settle, he did not notice where it was on his return. He did not hear deceased say the gun was not loaded; deceased was A VERY CAREFUL MAN with guns. The gun used was not deceased's but had been used by him for some weeks. The only other man the room when witness left was Mr. Bligh, though he believed a man named Etheridge entered the room just after he felt. It was not considered necessary to call Etheridge, as he could not add materially to Mr. Bligh's statement. The Coroner summed up briefly, and the jury returned a verdict of ACCIDENTAL DEATH. The deceased leaves a wife and nine young children. 
 
 ```
 
