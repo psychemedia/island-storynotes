@@ -47,7 +47,7 @@ There was nothing they could do. A man was immediately sent across to Lymington 
 
 At the inquest, the coroner returned a verdict of "Accidental Death".
 
-As for the case of young Mr Cecil Dudley Hambrough, whose grave you can still see in St Catherine's churchyard today, well, the telling of that is a much longer story.
+So had Henry Card died in a similar way to the young Mr Cecil Dudley Hambrough, whose grave you can still see in St Catherine's churchyard today? Well, maybe, or maybe not, because that's a much longer tale, and one for another day.
 
 ```
 
