@@ -23,31 +23,31 @@ I discovered this tale from a sign in the entrance to what is now [*The Ferryman
 ```{admonition} A telling
 :class: dropdown
 
-I first came across this tale, and the tale to which it alludes, in the Ferryman pub in Lymington, where we often pass the time if we've time to wait on a boat.
+I first came across this tale, and the tale that alludes to, in the Ferryman pub in Lymington, where we often pass the time if we've time to wait on a boat.
 
-It dates back to one September, in the 1890s, and a local gamekeeper, Henry Card, a father of nine young children, who was wandering along the river path on the Wlahmapton side, towards the Waggon and Horses, and the Ferryman pub was called then, with his dog at his side.
+It dates back to a particular September, in the early 1890s, and a local gamekeeper, named Henry Card, a father of nine young children, who was wandering along the river path on the Walhmapton side, towards the Waggon and Horses, as the Ferryman pub was called then, with his dog at his side.
 
 He stopped to chat to an old friend who was working in one of the fields, and as he did so, snapped open his gun to take out the cartridges.
 
-As they watched an approaching train, Henry Card remarked on how busy it was, then the two men separated, and Henry went for his pint.
+As they watched an approaching train, Henry remarked on how busy it was, and then the two men separated, and Henry went for his pint.
 
-Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed under police inquest the day before.
+Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed under police inquest.
 
-According to a newspaper report read out by one of the barflies, at the time of his death, Hambrough had been in Scotland, on the Ardlamont estate. In a tragic accident, he had been out shooting with his guardian, stumbled somehow, set off his gun, and apparently killed himself. A terrible, terrible accident. Or was it? The matter of a newly arranged life insurance policy hinted that perhaps it wasn't just an accident.
+According to a newspaper report read out by one of the barflies, at the time of his death, Hambrough had been in Scotland, on the Ardlamont estate. In a tragic accident, he'd been out shooting with his guardian, stumbled somehow, or got caught up in a bush, and set off his gun with a fatal result. A terrible, terrible accident. Or was it? The matter of a newly arranged life insurance policy taken out against him hinted that perhaps it wasn't just an accident.
 
-One of the drinkers suggested it was impossible that a man could holding a gun in such a way that if he stumbled. he could blow the back of his head off. At this point, Henry Card, his dog under his arm, his pint in his hand, disagreed, and said it was quite possible. Gun accidents happened all the time, and that's all this was.
+One of the drinkers suggested it was impossible that a man could hold a gun in such a way that if he stumbled, he'd be able to blow the back of his head off. At this point, Henry Card, his dog under his arm, his pint in his hand, disagreed, and said it was quite possible. Gun accidents happened all the time, and that's all that this was.
 
-"You're talking nonsense", said the DFL, the down-from-Londoner, who'd provided the paper. To which Card replied, "Bugger that, I'll show you", put his pint on the bar, his dog on the floor, and picked up his gun.
+"You're talking nonsense", said the DFL, the down-from-Londoner. To which Card replied, "Bugger that, I'll show you", put his pint on the bar, his dog on the floor, and picked up his gun.
 
-"Do you want to try? It's empty..." But the man declined, and so Henry Card himself cocked the gun, and with his right hand, put it behind his back, struggling to poisition it, just so, with the muzzle towards the back of his head.
+"Do you want to try? It's empty..." But the man declined, and so Henry Card himself cocked the gun, and with his right hand, put it behind his back, struggling to position it, just so, with the muzzle towards the back of his head.
 
 "If you slung it like that", he said, "and stumbled, and it knocked the trigger..." He pulled the trigger...
 
-There was nothing they could do... a man was sent across to Lymington town on the ferry, to fetch the doctor, but there was nothing they could. A couple of hours later, Henry Card was dead.
+A man was immediately sent across to Lymington town on the ferry, to fetch the doctor, but there was nothing they could do. A couple of hours later, Henry Card was dead.
 
 At the inquest, the coroner returned a verdict of "Accidental Death".
 
-And as for the case of young Mr Cecil Dudley Hambrough, whose grave you can still see in St Catherine's churchyard today, well, the telling of that is a much longer story.
+As for the case of young Mr Cecil Dudley Hambrough, whose grave you can still see in St Catherine's churchyard today, well, the telling of that is a much longer story.
 
 ```
 
