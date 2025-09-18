@@ -123,7 +123,7 @@ VII.
 
 *Tlot-tlot*, in the frosty silence! *Tlot-tlot*, in the echoing night!  
 Nearer he came and nearer! Her face was like a light!  
-Her eyes grew wide for a moment; she drew one last breath,  
+Her eyes grew wide for a moment; she drew one last deep breath,  
 Then her finger moved in the moonlight,  
 Her musket shattered the moonlight,  
 Shattered her breast in the moonlight and warned him — with her death.  
@@ -208,9 +208,9 @@ She knew what she must do.
 
 As the rider approached, the soldiers readied themselves. And Bess readied herself.
 
-One last look, one last glance, and one last, deep breath. Bess stretched out her finger, and felt for the trigger.
+One last look, one last glance, and one last breath. Bess stretched out her finger, and felt for the trigger.
 
-At the sound of the gunshot, the rider reared up his horse, turned its head, and fled into the night. And the body of Bess, the landlord's daughter, fell to the floor.
+At the sound of the gunshot, the rider reared up his horse, turned its head, and fled into the night. And the body of Bess, the landlord's daughter, fell dead to the floor.
 
 He didn't know what sacrifice she'd made, didn't know until the dawn, when the news had spread, of how the raven haired, red-lipped Bess, Bess the landlord's daughter, had watched out for him by moonlight, and saved his life with her death.
 
