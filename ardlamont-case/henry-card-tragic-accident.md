@@ -29,7 +29,7 @@ It dates back to a particular September, in the early 1890s, and a local gamekee
 
 He stopped to chat to an old friend who was working in one of the fields, and as he did so, snapped open his gun to take out the cartridges.
 
-Distracted by a train on the other side of the river there, Henry remarked on how busy it was, and then the two men separated, and Henry went for his pint.
+Distracted by a train on the other side of the river there, Henry remarked on how busy it was. Then the two men separated, and Henry went for his pint.
 
 Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed under police inquest.
 
