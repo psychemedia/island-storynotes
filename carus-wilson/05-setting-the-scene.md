@@ -150,7 +150,7 @@ TOWN COUNCIL. The quarterly meeting of the Town Council was held at the Guildhal
 The election of mayor for the ensuing year being the first business, Mr. Estcourt in a most able but brief speech, proposed the reelection of Mr. Pittis to the civic chair, which being seconded by Mr. E. Way, was carried unanimously.
 ```
 
-As a reward for his service, and mid-way through his second term as Mayor of Newport, Francis Pitts, Esq., was elected Alderman of the Borough of Newport in April, 1854.
+As a reward for his service, and mid-way through his second term as Mayor of Newport, Francis Pittis, Esq., was elected Alderman of the Borough of Newport in April, 1854.
 
 ```{admonition} Proposing Mr. F. Pittis as Alderman, April 1854
 :class: dropdown

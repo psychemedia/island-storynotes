@@ -32,7 +32,7 @@ Now there was no way that de Godeton could cover that sort of fine just like tha
 
 And so it was, that until such a time as de Godeton could pay off the debt, his goods and half his lands and tenement leases would be used as surety. The horses and oxen to pull his ploughs he could keep: he would need to have some means of paying back the fine, after all.
 
-Now, you might think that was punishment enough. But God works in a mysterious way. For it wasn't just the merchant who was so affronted by the loss of his wine from the St Mary. The Church wasn't happy either. De Godeton's luck was about to get to get a whole lot worse.
+Now, you might think that was punishment enough. But God works in a mysterious way. For it wasn't just the merchant who was so affronted by the loss of his wine from the St Mary. The Church wasn't happy either. De Godeton's luck was about to get a whole lot worse.
 
 For the wine, the very fine wine, wasn't just any wine. It was intended as communion wine, headed for an Abbey in another Kingdom. And the Abbott who had been looking forward to the arrival of the wine, for religious purposes, of course, was livid. This was plunder. This was SACRILEGE, an offence against the Church, an offence against God, the very despoilation of the Blessed Virgin Mary. No mere county assizes this time. As the story has it, this was a matter for a Papal court.
 

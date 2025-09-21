@@ -14,7 +14,7 @@ The preface to Elders' work, on pp. v-viii, sets the scene for his discovery of 
 >
 > It may appear singular that the present little volume, intended to illustrate the antiquities and traditions of the people of the Isle of Wight, should come from the pen of a stranger; and that the tales it contains should have been collected during the space of a short summer ramble. Fortune, however, has favoured me much, and I take this opportunity of returning my thanks to my friend, the well-known and justly celebrated antiquary, Mr. Winterblossom, for his most valuable contributions, without which this collection of Tales and Legends would have been but chaff.
 
-From this, it seems that Mr Elder is not originally from the Island although he may have been a frequent visitor to it ...
+From this, it seems that Mr Elder is not originally from the Island, although he may have been a frequent visitor to it ...
 
 > Lest, however, the fact of my being a stranger should operate to my disadvantage, in prejudicing the public against this work; be it remembered, that the best author upon the British constitution was De Lolme — a foreigner; and this is not the exception, but the general rule. The peculiarities of every country strike more forcibly the eye of a foreigner. Foreigners are for the most part more impartial and more diligent searchers after all that is worthy of record, than those to whom the scenes and stories have been familiar from infancy. But, after all, I must confess that I am rather a collector, compiler, or editor; though vanity (as some would term it) has induced me to call myself the author of the present work. I am but the wisp of straw that ties the fagot together.
 >
@@ -57,9 +57,9 @@ The cradles of their infants were obliged to be watched night and day, to preven
 
 Numerous expedients had been tried to destroy or to reduce the number of these vermin. At one time a number of cats were introduced, and fine fun it was for the old cats. They had rare sport in hunting, and lived merrily upon rats* flesh. But it was otherwise with the kittens; for whenever the rats found a kitten by himself, they assembled in a body and attacked him, and ate him up; so that the breed of cats could not be long continued.
 
-At another time they made an attempt to poison the rats, and indeed they destroyed a great number, but the stench that arose from their dead bodies in the streets, and in their holes, and in every part of their houses, brought an infectious fever upon the inha- bitants, so that a great number died.
+At another time they made an attempt to poison the rats, and indeed they destroyed a great number, but the stench that arose from their dead bodies in the streets, and in their holes, and in every part of their houses, brought an infectious fever upon the inhabitants, so that a great number died.
 
-Large rewards had been offered to any one who would clear the place of rats. Rat- catchers had arrived there from all parts of the country, expecting to make their for- tunes. But their attempts always ended in disappointment to themselves and their em- ployers. The rats continued to nibble, and gnaw, and multiply, in spite of the constant warfare carried on against them.
+Large rewards had been offered to any one who would clear the place of rats. Rat- catchers had arrived there from all parts of the country, expecting to make their for- tunes. But their attempts always ended in disappointment to themselves and their employers. The rats continued to nibble, and gnaw, and multiply, in spite of the constant warfare carried on against them.
 
 One day there came a wandering piper to the town, fantastically dressed. There was hardly any colour or shade that was not to be found in some corner of his party-coloured clothing; this procured him the name of the Pied Piper. He called upon the mayor, and asked him what reward he should receive, if he destroyed every single rat in the borough of Franchville. The mayor sent the crier round to assemble the burgesses in the Town-hall, to consider what reward should be given. The debate lasted a considerable time, for the love of economy and the fear of the rats struggled hard against one another. The fear of the rats, however, appeared in the end to prevail, for they decided upon giving five hundred pounds (an enormous sum in those days) when the rats should be extinct.
 
@@ -112,7 +112,7 @@ The dialogue then starts to enter rather more esoteric territory:
 
 > Most of the heathen mythology, together with our tales of King Arthur and St. George and the Dragon, Brute, Uther Pendragon, and many others, relate to the times of Babel. And Nimrod appears to be the character whose deeds were celebrated in the greatest number of romances."
 >
-> "Do you mean to say," said I, "that Arthur was never king of England ?"
+> "Do you mean to say," said I, "that Arthur was never king of England?"
 >
 > "Certainly not," replied he; "the history of King Arthur was just one of the traditions of Nimrod, the mighty hunter" `[See Nimrod, or a Discourse on Certain Passages of History and Fable. London, 1828. A work highly interesting to the real antiquarian.]`
 
@@ -153,7 +153,7 @@ date therein set downe of the yeere of our Lord, the date of the yeere of the go
 >
 > The antiquary continued. "The reason why popular tales and traditions are either comparatively modern, or go back, as it were, to the very origin of nations, is this: after the flood, mankind were directed by divine command to spread themselves over the face of the earth to repeople it Probably no inconsiderable part of the crime of the tower-builders of Babel was their opposition to this command, their wishing to make themselves a name; that is, to be a powerful, civilised, and luxurious nation, instead of scattering themselves over the boundless wastes."
 >
-> "Civilised!" said I; "do you suppose that the state of society then approached at all to our modern ideas of civilisation ?"
+> "Civilised!" said I; "do you suppose that the state of society then approached at all to our modern ideas of civilisation?"
 >
 > "Very nearly indeed," replied he. "All the knowledge of the East at the present time is but the remains of a more perfect state of civilisation of a very remote antiquity. The Indians now calculate eclipses from tables that have been handed down to them from very ancient times. There are also still in existence some very beautiful and copious remains of ancient literature in a language which Sir William Jones affirms to be more perfect than the Greek, and more copious than the Latin — the Sanscrit — the oldest language known. From this high state of civilisation mankind degenerated after the dispersion. Then commenced the era of modern civilisation."
 
@@ -186,7 +186,7 @@ This perhaps explains why Jacobs does not find it inappropriate to include Elder
 
 > But even the reader innocent of folk-lore can see that, holding these views, I do not attribute much anthropological value to tales whose origin is probably foreign, and am certainly not likely to make a hard-and- fast division between tales of the North Countrie and those told across the Border.
 
-Again, Jacobs sees his role as of a stroyteller keeping a story available to the folk mind:
+Again, Jacobs sees his role as of a storyteller keeping a story available to the folk mind:
 
 > As to how English folk-tales should be told authorities also differ. ... These tales have been told, if not from time immemorial, at least for several generations, in a special form which includes dialect and "vulgar" words. Why desert that form for one which the children cannot so. easily follow with "thous" and "werts" and all the artificialities of pseudo-Elizabethan? Children are not likely to say "darter" for "daughter," or to ejaculate "Lawkamercyme" because they come across these forms in their folk-tales. They recognise the unusual forms while enjoying the fun of them. I have accordingly retained the archaisms and the old-world formulae which go so well with the folk-tale.
 
@@ -237,7 +237,7 @@ All the while, the elders watched and waited. They mocked no longer now. And wat
 
 ```
 
-As well the stories themselves, Jacobs' work also included various notes on each of the tales. At p218-220, we get the following notes and references on his vrsion of *The Pied Piper* tale, starting with the provenance:
+As well the stories themselves, Jacobs' work also included various notes on each of the tales. At p218-220, we get the following notes and references on his version of *The Pied Piper* tale, starting with the provenance:
 
 > XLIV. THE PIED PIPER.
 >
@@ -353,7 +353,7 @@ The story as recorded in the newspaper report is then restated:
 
 The correspondent then puts forth their own opinion on the matter and the evidence of their neighbours:
 
-> It appears by this record that he did visit Newtown or Francheville, which will take you back to 1377, whan Newtown was known Francheville. As to what became of him I cannot say. Probably, if got making noise in the place at that period, the French most likely would take him as a spy in the garb of minstrel. There are but three families besides my own in modern Newtown who were in the place 50 years ago. I have made inquiries of them concerning the Pied Piper, and they know nothing of the legend.
+> It appears by this record that he did visit Newtown or Francheville, which will take you back to 1377, when Newtown was known Francheville. As to what became of him I cannot say. Probably, if got making noise in the place at that period, the French most likely would take him as a spy in the garb of minstrel. There are but three families besides my own in modern Newtown who were in the place 50 years ago. I have made inquiries of them concerning the Pied Piper, and they know nothing of the legend.
 
 We are then teased with a "however":
 

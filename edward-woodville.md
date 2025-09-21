@@ -2,9 +2,9 @@
 
 Back in the days of old, back when I was still at school, in the West Riding of Yorkshire, I don't recall the Isle of Wight ever being mentioned in history lessons.
 
-As an Island resident, popular local history often includes tales of Pluto pipes, the "pipeline under the ocean" that was intended to supply fuel (but that didn't...) to the British and American forces on their return to mainland Europe following the Normandy landings of the Second War; and it also tends to reference the failed attempts by King Charles I, to escape from Carisbrooke Castle when he was imprisoned there in 1647, during the English Civl War.
+As an Island resident, popular local history often includes tales of Pluto pipes, the "pipeline under the ocean" that was intended to supply fuel (but that didn't...) to the British and American forces on their return to mainland Europe following the Normandy landings of the Second War; and it also tends to reference the failed attempts by King Charles I, to escape from Carisbrooke Castle when he was imprisoned there in 1647, during the English Civil War.
 
-Given that 1066 is one of the more memorable dates of British history, it's perhaps surprising that more isn't made of the tale of King Harold camping not far from Brading Haven, back when the harbour still extended to Brading, in the months before the 1066 invasion. He waited there, in the Spring, in the expectation of an invasion force landing somewhere along the coast; but the invasion was delayed, and harold set of to fight battles elsewhere, before returning to hasting when the invastion *did* come.
+Given that 1066 is one of the more memorable dates of British history, it's perhaps surprising that more isn't made of the tale of King Harold camping not far from Brading Haven, back when the harbour still extended to Brading, in the months before the 1066 invasion. He waited there, in the Spring, in the expectation of an invasion force landing somewhere along the coast; but the invasion was delayed, and harold set of to fight battles elsewhere, before returning to hasting when the invasion *did* come.
 
 Around the same time, tales could be told of the fabulously wealthy Bishop Odo of Bayeux, half-brother of William the Conqueror, unofficial regent when William was out of the country. Odo was well known to the Island, and whilst at Carisbrooke Castle was stripped of his position as the Earl of Kent by the King himself, after the King discovered that Odo was making a power play and aspiring to become Pope. There is also the legend of Odo's gold...
 
@@ -48,6 +48,6 @@ Several garrisoned towns hold out under siege for a few more months, and the Fre
 
 And so it was. Henceforth, Brittany would be a part of France. And of the Isle of Wight volunteers, led by Sir Edward Woodville, who took on France in support of Brittany, but one lad survived to return home and tell the tale. Sir Edward's page boy, Diccon Cheke.
 
-So next time you're up at Carisbrooke Castle and walk through the gatehouse, often referred to in Victorian times at least as the Woodville Tower, see if you can spot the coat of arms of Lord Scales, Edward Wooodville's elder brother and an earlier Captain of the Isle of Wight.
+So next time you're up at Carisbrooke Castle and walk through the gatehouse, often referred to in Victorian times at least as the Woodville Tower, see if you can spot the coat of arms of Lord Scales, Edward Woodville's elder brother and an earlier Captain of the Isle of Wight.
 
 And that is the end of my story of how a small band from the Isle of Wight invaded France.

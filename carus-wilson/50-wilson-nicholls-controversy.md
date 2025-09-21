@@ -2,7 +2,7 @@
 
 Following the publication of Mrs. Gaskell's characterisation of W. Carus Wilson and the Cowan's Bridge School in her *Life of Charlotte Bronte*, W. W. Carus Wilson, the Revd. W. Carus Wilson's son, jumped to his father's defence and provoked a good old-fashioned controversy that would play out in the letter pages of various newspapers for the next couple of months.
 
-At the beginning of April, 1857, the *Lancaster Gazette* remarked on their northern son's life away from Casterton in a report on the Revd. W. Carus Wilson's involvvment with the Soldiers' Institute in Portsmouth.
+At the beginning of April, 1857, the *Lancaster Gazette* remarked on their northern son's life away from Casterton in a report on the Revd. W. Carus Wilson's involvement with the Soldiers' Institute in Portsmouth.
 
 ```{admonition} Our late estimable neighbour, April 1857
 :class: dropdown
@@ -145,7 +145,7 @@ Mrs. Gaskell says that Miss Bronte often regretted her remarks in "Jane Eyre" ab
 
 The review closes with a less than positive view of Charlotte's character, in part explained away by her younger life.
 
-```{admonition} Mrs. Gaskell says, (comt.)
+```{admonition} Mrs. Gaskell says, (cont.)
 :class: dropdown
 
 Were the work free from those objectionable points it might be capable of good; for who can picture the struggles of the suffering sisters, lonely and friendless, in the seclusion of Haworth Parsonage; their affliction with their brother (so public a notice of whom we think a great pity); their resignation and devotion to their father, and not extol that peculiar ardour which led them to overcome every obstacle, and to cast such a meteor on the crowded paths of literature? Much as we must admire Miss Bronte's genius we cannot altogether eulogise her character; it seems to have imbibed the coldness and isolation of Haworth. But when we consider her solitude and sufferings we are the more disposed to draw the curtain over much we could have wished otherwise, beyond what we have noticed, in one so gifted, and who by her pen has shed such lustre on the literary world.
@@ -471,7 +471,7 @@ Sir,—Will you kindly allow me to thank Mr. W. W. Carus Wilson for his last let
 
 The version in the *Leeds Intelligencer* of Saturday 06 June 1857 is immediately followed on the printed page by the letter from W. W. Carus Wilson that appeared in the *Leeds Mercury* of Thursday 28 May 1857.
 
-This is turn is followed directly on the page by a fragment of the Henry Shepheard letter that appeared in *The Times* and that was reporinted in the *Westmoreland Gazette*.
+This is turn is followed directly on the page by a fragment of the Henry Shepheard letter that appeared in *The Times* and that was reprinted in the *Westmoreland Gazette*.
 
 ```{admonition} Charlotte Bronte's own account of Cowan-bridge is not to be trusted, June 1857
 :class: dropdown

@@ -652,7 +652,7 @@ Valuable Premises and Business.
 
 TO be SOLD or LET, on liberal Terms,— The respectable and extensive PREMISES and BUSINESS of the late Mr. John Steane.—The Premises are Freehold, and consist of a modern-built Dwelling-house, with commodious Liquor Shop, Spirit and Beer Stores, Wine Cellars, Corn Stores, and every convenience for carrying on the Wine, Spirit, Porter, Cyder, and Corn Trade, in which the late Proprietor to the time of his disease, returned from 12 to 16,000l. per year, and which trade is still carrying on.
 
-To the above Premnises is attached a respectable and well-accustomed TAP and BREWHOUSE, now in full trade; to the Tap is attached an excellent and well-attended Bowling-Green.
+To the above Premises is attached a respectable and well-accustomed TAP and BREWHOUSE, now in full trade; to the Tap is attached an excellent and well-attended Bowling-Green.
 
 The Stock to be taken or not, at the option of a Purchaser or Tenant.
 
@@ -914,7 +914,7 @@ BOROUGH SESSIONS
 
 On Monday last, before the Mayor (James Eldridge, Esq.), Abraham Clarke and P. Scott, Esqrs.
 
-James Tansom was charged with having his dwelling house situate in the Tontine yard (part of whoch he lets out in lodgings to travellers), in a most filthy and unwholesome condition, prejudicial both to the inmates and the neighbourhood.
+James Tansom was charged with having his dwelling house situate in the Tontine yard (part of which he lets out in lodgings to travellers), in a most filthy and unwholesome condition, prejudicial both to the inmates and the neighbourhood.
 
 The Inspector gave evidence of the state of the place, which, in itself, was quite sufficient to breed a pestilence, and stated that he had given the defendant due notice to clean it. He had since visited it, and found it in the same condition.
 
@@ -931,7 +931,7 @@ But it was not just the Tontine Tap where disorder could be found.
 
 Borough Court.— Before the Mayor, (Edward Way, esq.), and A. Clarke, esq.
 
-Benjamin Breaks was cbarged by P.C. Hobbs with being drunk and disorderly, on Saturday night, in the Tontine yard. Witness deposed that the defendant was drunk and making a great noise, and that when turned out of the public-houses, he often got persons to go into his own. The defendant denied the cbarge, but Mr. Grapes, Inspector of Police, corroborated Hobbs' evidence.— The defendant, in answer to the Bench, said be only earnt 8s a week. Fined 5s and 5s costs, and allowed a fortnight to pay it.
+Benjamin Breaks was charged by P.C. Hobbs with being drunk and disorderly, on Saturday night, in the Tontine yard. Witness deposed that the defendant was drunk and making a great noise, and that when turned out of the public-houses, he often got persons to go into his own. The defendant denied the charge, but Mr. Grapes, Inspector of Police, corroborated Hobbs' evidence.— The defendant, in answer to the Bench, said be only earnt 8s a week. Fined 5s and 5s costs, and allowed a fortnight to pay it.
 
 ```
 
@@ -1019,7 +1019,7 @@ In defence, Anderson said no beer had been drawn since ten minutes before 10 o'c
 
 [Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
 
-Joseph Anderson, of the Crab and Lobster publichouse, was charged with keeping his house open for the sale of beer after 10 o'clock on Sunday night, the 24th ult.
+Joseph Anderson, of the Crab and Lobster public-house, was charged with keeping his house open for the sale of beer after 10 o'clock on Sunday night, the 24th ult.
 
 P.C. Lockhart said—I went to the defendant's house in company with P.C. Cave at twenty minutes to 11 on the night in question and heard persons in the house. I stopped at the front door and Cave went to the back door. Cave knocked at the back door and some one asked who it was, and he said, the police. The person did not open the door but went back again into the house. I heard a scuffle in the house afterwards. I rapped several times at the front door, and I heard the defendant say to a boy inside, Why don't you open the door or go and see who it is. A female made reply and said, you know who it is, it is the police. The defendant then came to the door and asked who it was. I told him, the police. He opened the door, and I asked him who he had in his house. He said, no one. I told him he had for I heard them. He again said he had no one; he would not do anything against the law if he knew it, for ever so. I went to the back door and let Cave in. We searched the house and found two men in a cupboard in the back room, two in the coal hole and in the yard, one the water closet. There were cups on the sideboard that had been used for beer, and there was a quart cup and a glass half-full of beer in the other room. I told him I must report him. He said he hoped I should not.
 
@@ -1221,7 +1221,7 @@ The next was a dashing young Cyprian, answering to the name of Eliza Brading, wh
 
 P.C. Cooke being examined, said that on Sunday morning about a quarter to two, he heard "sitch a row" in Paradise Row; he went there, and there he found the prisoner at her father's house, who lives in the Row, and who figured as the loudest orator in the row. She had hold of the street door, and swore her father should not come out, nor should the witness come in. The quarrel was so loud and so violent that all the neighbours were roused from their sleep; at last her father came out, by breaking the front door all to bits, with one of which he commenced thrashing the witness, who took him prisoner. The gentle damsel, seeing her father in durance vile, changed her tactics, and from abusing her father commenced an attack on the police, bringing her teeth, finger nails, and tongue to aid in the rescue, and it was with some difficulty that they could defend themselves from her spirited attack, and then only by relinquishing their hold of the first prisoner.
 
-Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourbood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputed common prostitute and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
+Inspector Grapes deposed that Miss Brading was disturbing the whole neighbourhood by her quarrels on Sunday morning with father and mother; and the language of the whole was most abominable. He told her as the time if she was not quiet he should lock her up, when she went away, using a most vulgar expression. He sent some of his men who were ordered to take her up if she persevered in such conduct, and they brought her to the station-house in about half an hour afterwards. She was very tipsy, and is a reputed common prostitute and street walker. (Miss B. raised both her hands and voice against this attack on her chastity, and defied the Inspector to prove his words.)
 
 Inspector Why your own father was accusing you of being a soldier's ————, and you were retorting on him that you paid the rent of the house and kept the rest of the family.
 
@@ -1501,11 +1501,11 @@ Honora Dunn was charged by Hannah Pursell with an assault.
 
 The complainant said—I live in the Tontine yard. Am the wife of James Purcell, a labouring man. This woman's master, my husband, and myself, were coming down street last Monday evening, and she run again us in the street, and begun bating her husband for being in such bad characters as my husband and I was sir; and she kept on at him all up the yard until she came to her place, and I asked her if we was'nt good company enough for her husband; and she said, no. I asked her, why; because, she said, I was a whore. I told her to mind her words, sir, for I'd make her prove whether I was one; and she said, she would, I was a nasty drunken whore, sir. Mr. Hobbs here, was present sir and so was another gal, and heard the first and last of it.
 
-Mr. Blake: Did she strike you ?
+Mr. Blake: Did she strike you?
 
 Complainant: No, sir, she didn't strike me, but she called me a whore.
 
-Mr. Blake: But you summoned her for an assault ?
+Mr. Blake: But you summoned her for an assault?
 
 Complainant: Well, sir, she insulted me by calling me a whore.
 
@@ -2033,7 +2033,7 @@ BOROUGH SESSIONS. Monday.—(Before F. Pittis, Esq., mayor; C. W. Estcourt, E. W
 
 Henry Lewis, an elderly man, was charged with stealing apples. P.C. Cave said, in consequence of information he received he went into Cosham street on Saturday night, about half-past twelve, where he saw the prisoner, and on feeling his pockets found they contained the apples produced. He charged him with stealing them, when he said he had purchased them of a country person about five o'clock, but did not know whom. The mayor said the magistrates had very little doubt but that the prisoner had stolen the apples, it was very improbable, if he had purchased them as he said, that he would have carried them (being nearly a gallon) about in his pockets for seven hours and half; that P.C. Ward acted quite right in bringing him here, but as evidence was wanting for conviction he (the prisoner) would be discharged.
 
-Frederick Spanner, William Lewis, and Willam Lewis, were charged with breaking into a public house in Deadman's Lane, on Saturday night, and helping themselvcs to bread and cheese and beer, and then walking off. Mr. Coxhead, the proprietor, said, he did not wish to press the charge as the prisoners were very good customers of his (although he did not know when they had been to his house last), he felt sure they only done it for a drunken spree, and not defraud him. The chairman said that after the statement made by Mr. Coxhead, the magistrates should discharge them, and Mr. Coxhead seemed to have very queer notions to who were good customers and who were not, he doubted not but others would walk into his house in the same way.
+Frederick Spanner, William Lewis, and Willam Lewis, were charged with breaking into a public house in Deadman's Lane, on Saturday night, and helping themselves to bread and cheese and beer, and then walking off. Mr. Coxhead, the proprietor, said, he did not wish to press the charge as the prisoners were very good customers of his (although he did not know when they had been to his house last), he felt sure they only done it for a drunken spree, and not defraud him. The chairman said that after the statement made by Mr. Coxhead, the magistrates should discharge them, and Mr. Coxhead seemed to have very queer notions to who were good customers and who were not, he doubted not but others would walk into his house in the same way.
 
 ```
 

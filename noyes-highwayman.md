@@ -192,7 +192,7 @@ Dawn approaches, and young Bess again waits by the window. At noon, she looks ou
 
 The sun begins to set, and a red ribbon snakes its way across the moor towards the inn. A red-coated troop of the King's men, marching across the moor.
 
-They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, bind her, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and stroke her hair. "A pretty one, this..."
+They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, gagged her, bind her, her hands behind her back, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and stroke her hair. "A pretty one, this..."
 
 "Look for me by moonlight; watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!" And she knew what she must do.
 
@@ -216,6 +216,6 @@ He didn't know what sacrifice she'd made, didn't know until the dawn, when the n
 
 He cursed the sky, turned his horse again, and spurred like a madman to seek his revenge. But the pistol at his side and the sword on his belt would not be a match for the red-coated King's men, as they shot him down on the highway that snaked across the moor.
 
-The story doesn't quite end there, of course, how could it? Because it is said, that even to this day, when the night is dark, and the wind blows across it, with just enough moonlight to see the ribbon of the road by, as it snakes its way across the moor, you can hear the highwayman come riding towards that inn. You can hear a horse's hooves clatter across the cobble-stoned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, red lipped young woman tieing a love knot in her long black hair. Bess, the landlord's daughter.
+The story doesn't quite end there, of course, how could it? Because it is said, that even to this day, when the night is dark, and the wind blows across it, with just enough moonlight to see the ribbon of the road by, as it snakes its way across the moor, you can hear the highwayman come riding towards that inn. You can hear a horse's hooves clatter across the cobble-stoned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, young woman tying a love knot in her long black hair. Bess, the landlord's daughter.
 
 And that is the tale of the highwaymen, once penned as a poem by a yound Alfred Noyes.

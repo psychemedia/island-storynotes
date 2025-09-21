@@ -12,7 +12,7 @@ The rations would rarely pass muster, and their provisions were short-served: 12
 
 Since 1757, the Articles of War, the laws that regulated life on board ship, would have been read out regularly to the men. As well as describing what was expected in time of battle, the articles also defined a variety of physical punishments for various offences, including capital punishments. Mutiny, as you might expect, was severely punished. But the articles also allowed a means for the men to express discontent, allowing them to raise concerns with their Captain, or the Commander-in-Chief.
 
-As for the pay? Well, that hadn't changed since the time of Charles II, a hundred or more years before. The previous century had been a time of low inflaction, but now prices were rising. The current war, and perhaps the early onset of the industrial revolution, meant that inflation was now a thing: prices were increasing and the men could no longer provide for their families as they had even a few short years before.
+As for the pay? Well, that hadn't changed since the time of Charles II, a hundred or more years before. The previous century had been a time of low inflation, but now prices were rising. The current war, and perhaps the early onset of the industrial revolution, meant that inflation was now a thing: prices were increasing and the men could no longer provide for their families as they had even a few short years before.
 
 And amidst Bridport's fleet, moored at Spithead in that month of February, 1797, small boats started to ferry round-robin letters of discontent between the ships of war.
 
@@ -92,7 +92,7 @@ The provisions on offer had started to improve — that much, at least, could be
 
 The mutterings started again.
 
-A couple of days later, word started to get out about a debate in the House of Lords. It was now ten days after the end of the mutin; which is to say, ten days after the end of the *first* mutiny. In the Lords debate, the Duke of Bedford had asked Lord Spencer, first Lord of the Admiralty, whether that House could expect to see any papers relating to the affairs at Portsmouth? If not, he would have to formally request them. Spencer had said, that as far as he was aware, there were no papers.
+A couple of days later, word started to get out about a debate in the House of Lords. It was now ten days after the end of the mutiny, which is to say, ten days after the end of the *first* mutiny. In the Lords debate, the Duke of Bedford had asked Lord Spencer, first Lord of the Admiralty, whether that House could expect to see any papers relating to the affairs at Portsmouth? If not, he would have to formally request them. Spencer had said, that as far as he was aware, there were no papers.
 
 Now you might remember that Parliamentary approval of the concessions was the final demand of the mutineers? And now it seemed as if this would not be forthcoming...
 
@@ -128,9 +128,9 @@ But still the seamen added to their demands.
 
 *This* time, they required that the worst of the officers, whom they had already sent ashore, should not be allowed back. A court-martial would *not* be required, but they should just not be allowed to return back on board.
 
-Perhaps surpisingly, their conditions were agreed to.
+Perhaps surprisingly, their conditions were agreed to.
 
-A celebration was organised, including a procession through Portsmouth, although it was a slightly bill for Bridport: not only had Howe take the glory for resolving the dispute, but the celebrations had also further delayed the sailing of the fleet.
+A celebration was organised, including a procession through Portsmouth, although it was also something of an insult against for Bridport: not only had Howe take the glory for resolving the dispute, but the celebrations had also further delayed the sailing of the fleet.
 
 But even as the celebrations continued, four men from the Nore fleet, anchored at the opening of the Thames Estuary, had arrived in Portsmouth. They had started their own mutiny three days before, and had come to co-ordinate with the Portsmouth mutineers. They would return to continue their mutiny without the support of the Spithead fleet, a mutiny that would not end so happily. But that, as the old saying goes, is another story, for another day.
 

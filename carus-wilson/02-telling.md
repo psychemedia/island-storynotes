@@ -27,7 +27,7 @@ You can perhaps get a sense of what life was like on Paradise Row from some of t
 
 Take a certain Miss Eliza Brading, for example, "a dashing young Cyprian" as the Hampshire Adversiser described her. She had lately been exhibiting around Newport "under distinguished patronage", whatver that means, though you can be pretty sure it wasn't anything to do with her etchings. She lived thereabouts, in Paradise Row, in the mid-1840s, and if you'd lived there too, you might well have been familiar with her...
 
-One time, a Sunday, quarter to two in the morning or thereabouts, a couple of the local policeman heard such a row in Paradise Row they felt the need to investigate. All manner of effing and blinding appeared to be going in one of the houses between male and female voices. Suddently, the door to the house in question flew open, and young woman rushed out, and slammed it shut. Moments later, the door was in pieces as her father literally smashed it open. Seeing the policemen, he picked up one of the pieces of broken wood, and started beating them with it.
+One time, a Sunday, quarter to two in the morning or thereabouts, a couple of the local policeman heard such a row in Paradise Row they felt the need to investigate. All manner of effing and blinding appeared to be going in one of the houses between male and female voices. Suddenly, the door to the house in question flew open, and young woman rushed out, and slammed it shut. Moments later, the door was in pieces as her father literally smashed it open. Seeing the policemen, he picked up one of the pieces of broken wood, and started beating them with it.
 
 Eliza Brading, for that's who the young lady was, stopped her drunken shouting at her father, and instead started hurling abuse at the policemen, and then joined her father's attack on them, biting them and clawing at them with her fingernails.
 
@@ -41,7 +41,7 @@ Eventually, the father and daughter were got under control, and told them to "ju
 
 "Ah! you'd say anything, you would. And anyway, it was you who knocked my father down, three times at least, and I was only trying to defend him, and it was they who were hitting me, right across my back. And it was you who wouldn't even give me a glass of water to cool my parched lips at the station-house."
 
-The court was not impressed, and sentenced her to a month in the local bridewell to stop her career for a short while at least. This sentence seems to have rather taken young Eliza back, because she had a full purse available with which to pay off her antcipated fine and hadn't expected to receive a custodial sentence.
+The court was not impressed, and sentenced her to a month in the local bridewell to stop her career for a short while at least. This sentence seems to have rather taken young Eliza back, because she had a full purse available with which to pay off her anticipated fine and hadn't expected to receive a custodial sentence.
 
 It was then time for Eliza's father, James Brading, a mason, to face the bench. He couldn't deny the events, but he did try an alternative strategy.
 
@@ -67,7 +67,7 @@ If you search through the old archives, you find some of the names coming round 
 
 Take Repentance Adams, for example, "repentance" being a cognomen, a commonly used nickname, her real name being "Patience". You can't help but get the feeling that she was someone who was known around town, someone you'd recognise if you saw her, someone you'd know a story about. I first came across her in 1834, when she was charged with having stolen a bed, then next year, this time described as an "old offender" along with another woman, Jane Wheeler, she was said to be aged forty two and had been hauled up before the court for stealing turnips. A couple of years later again, she was at the centre of something of a *cause célèbre*. It seemed that someone in Newport had been stealing doormats. From all over town, doormats had been going missing. People started to set watch; the police started to patrol more. When the culprit was at last discovered, scurrying through the Newport streets with the corner of a mat visible from underneath her apron, it was none other than old Repentance Adams. A few years further on, in the mid-1840s, she was in the papers again, the notorious doormat thief of the eighteen thirties, this time for stealing baskets. Four months hard labour she got for that. When 1850 came around, she was back before the bench on a charge of vagrancy. The last mention I saw of her, it was 1858, when the court reports mention her as "an old woman of eighty", charged with stealing a hand kerchief bundle from an inmate of the House of Industry.
 
-She been making her way towards the bridge at the bottom Hunny Hill when she seen one of the men who lived at the workhouse coming the other way. He stopped at the cottage by the bridge there, place the bundle he'd been carrying over his shoulder by under the hedge, opened the gate and wandered up the path, nodding to young Winddebank the gardener as his did so. Now what's left under a hedge can be found under a hedge, even if it does contain a man's tobacco, sugar, a small piece of bacon and a couple of penny lardy cakes he was looking forward to for his tea, so as old Repentance Adams passed she scooped it up and hid under her skirts before hurrying away.
+She been making her way towards the bridge at the bottom Hunny Hill when she seen one of the men who lived at the workhouse coming the other way. He stopped at the cottage by the bridge there, place the bundle he'd been carrying over his shoulder by under the hedge, opened the gate and wandered up the path, nodding to young Windebank the gardener as his did so. Now what's left under a hedge can be found under a hedge, even if it does contain a man's tobacco, sugar, a small piece of bacon and a couple of penny lardy cakes he was looking forward to for his tea, so as old Repentance Adams passed she scooped it up and hid under her skirts before hurrying away.
 
 Now the man who gone up to the cottage had done so to ask for a light for his pipe, and a quick bit of chat, and clean forget his bundle as he left, hurrying past an old woman shuffling along the road before remembering it and turning back to...not find it. Not find it anywhere. But he was sure he left here somewhere... "You didn't see me leave a bindle here did you?" he said young man Windebank. "Leave a bundle? No...", came the reply, "but I did see that old woman from town pick one up.. You know the one..." and he described her...
 
@@ -75,7 +75,7 @@ The man turned round and immediately headed off in search of the old woman, he i
 
 So that was Repentance Adams. A regular old offender indeed.
 
-Back in Newport, back in 1854, Francis Pittis, auctioneer, fair-minded and just, as you might hope for one of the borough magistrates, is mid-way through his second, year-long term as Mayor. And a great honour it is, too, to be Mayor at the this time, for the funds have finally been raised, and just within the five year time limit proposed, for replacing the increasingly derelict St. Thomas Church with a new Church. His Royal Highness, Prince Albert, has agreed to lay the foundation stone, and the Bishop of Winchester will preside over the ceremony too. Tickets are sold, seats are erectd, and a procession formed, the local Freemasons providing a strong showing and also taking part in the ceremony.
+Back in Newport, back in 1854, Francis Pittis, auctioneer, fair-minded and just, as you might hope for one of the borough magistrates, is mid-way through his second, year-long term as Mayor. And a great honour it is, too, to be Mayor at the this time, for the funds have finally been raised, and just within the five year time limit proposed, for replacing the increasingly derelict St. Thomas Church with a new Church. His Royal Highness, Prince Albert, has agreed to lay the foundation stone, and the Bishop of Winchester will preside over the ceremony too. Tickets are sold, seats are erected, and a procession formed, the local Freemasons providing a strong showing and also taking part in the ceremony.
 
 A bottle, containing the coins of the realm and parchment roll, are placed in a cavity beneath the stone. The foundation stone was then partly lowered, and a silver trowel presented to Prince Albert, who uses it to spread cement on the lower stone. The upper stone is let down slowly, with solemn music, and appropriate words are said. His Royal Highness strikes the stone three times with a mallet, and its level is checked with a plumbrule. The Architect presents a maul to the Grand Master, who knocks the stone three times with it. And the brethren respond: *so mote it be*. The tools and the plans now presented to the builder, he in turn scatters corn on the stones then pours wine, and oil, over it. A prayer is offered, and again the brethren respond — __so mote it be__ — and the foundation stone is finally considered laid.
 
@@ -92,7 +92,7 @@ And from there, he retired to Ventnor, his arrival noted in the fashionable list
 
 Now, I don't know if the building works surrounding the new Church had anything to do with it, or whether it was the arrival a newly retired and particularly evangelical vicar to the Island — because yes, even then, over a hundred and fifty years ago, people retired here — but at the end of September 1855, a letter was presented to the Magistrates of Newport. A letter complaining about groups frequently "conducting themselves in a manner most offensive to virtue" and calling for better regulation and policing of lodging houses and beershops.
 
-And if that might not seem as if it were much — toasting the Prince, and the Bishop of Winchester at the foundation of the new Church — it is one of the things that was remembered about Mr. Pittis, or *Sir* Pittis, as he later became, long time magistrate of the borough of Newport and several times Mayor, in his obituary almost forty five years later, in 1889. That and other time he met with Royalty, when he was knighted as the Mayor of Newport in the year that celbrated, and organised, the Queen's Jubilee celebrations in Newport in 1887.
+And if that might not seem as if it were much — toasting the Prince, and the Bishop of Winchester at the foundation of the new Church — it is one of the things that was remembered about Mr. Pittis, or *Sir* Pittis, as he later became, long time magistrate of the borough of Newport and several times Mayor, in his obituary almost forty five years later, in 1889. That and other time he met with Royalty, when he was knighted as the Mayor of Newport in the year that celebrated, and organised, the Queen's Jubilee celebrations in Newport in 1887.
 
 On the one hand, the message was clear: Newport was a place "lost to Christianity, and devoted to crime", a home to a *torrent of juvenile profligacy and prostitution*.
 
@@ -104,7 +104,7 @@ And so it was that on New Year's day, 1856, an evangelical priest recently retir
 
 *"Tempters and Tempted"* it was called. And I still haven't managed to find a copy of it. But it certainly seemed to have had an effect, because the very next Council meeting, the new Mayor, a Mr. Hearn, stood up to denounce it and express his anger at it.
 
-One of the other councillors traced it's origins back to *that letter* the magistrates had received a few months before and before the meeting was out, it was decided — not quite pithforks — but that a letter be sent by the mayor to the author of the tract, to the Revd. W. Carus Wilson, of Ventnor.
+One of the other councillors traced it's origins back to *that letter* the magistrates had received a few months before and before the meeting was out, it was decided — not quite pitchforks — but that a letter be sent by the mayor to the author of the tract, to the Revd. W. Carus Wilson, of Ventnor.
 
 Yes. A letter. A letter. And probably a very strongly worded letter at that. Or at least, a quite strongly worded letter. Probably. But still polite. I'm guessing. Because I haven't managed to find a copy or a transcript of that, either.
 
@@ -144,7 +144,7 @@ But still, Carus Wilson couldn't resist making a making a point though his pen.
 
 And so it was, a year after publishing "Tempters and Tempted" and upsetting the boroughmen of Newport, Carus Wilson wrote *another* New Year's tract — "Portsmouth in Flames" — and I *have* managed to track a copy of this one down, albeit as part of a collection of tracts published by the Ipswich Temperance Society. Which perhaps gives you a clue as to its theme.
 
-The pamphlet appears to be a response to Carus Wilson's encounters with the "haunts of immorality" and "the bars of the gin palaces" in and around Portsmouth, estabishments which "fanned the flames of sin" and "layed waste the dearest interests of immortal beings".
+The pamphlet appears to be a response to Carus Wilson's encounters with the "haunts of immorality" and "the bars of the gin palaces" in and around Portsmouth, establishments which "fanned the flames of sin" and "layed waste the dearest interests of immortal beings".
 
 In particular, he layed the charge of sin not at the patrons of the bars and gin palaces and other "strongholds of Satan", but at the brewers and distillers, who would stoke the flames of sin in Portsmouth, fling souls on to the fires of hell, wholesale, as if they were faggots. He took heart that some of them were already "beginning to tremble at the prospect of their future reckoning", although he wondered at "the consciences of these men" and how "they expect to compose themselves on a dying pillow, or to stand in the judgment day" when the "flame of divine judgement" will surely make its ruling against them.
 
@@ -192,14 +192,14 @@ Nicholls replies again, this time quoting a letter form someone who claimed the 
 
 A pamphlet then appeared — "Refutation of the Statements in the Life of a Charlotte Bronté regarding the Casterton Clergy Daughters' School" — that reprinted many of the letters made in support of Carus Wilson. Shepheard also reprinted the letters, as well as other letters in support of the school, in "A Vindication of the Clergy Daughters' School: And of the Rev. W. Carus Wilson, from the Remarks in "The Life of Charlotte Brontë."
 
-W. W. Carus Wilson had also been in correspondence with Mrs. Gaskell, who agreed to make some amendements to the thid edition of her biolgraphy of Chartlotte Bronte.
+W. W. Carus Wilson had also been in correspondence with Mrs. Gaskell, who agreed to make some amendments to the third edition of her biography of Charlotte Bronte.
 
 eg as regards the food - it was the result of a bad cook when the school was setting up
 
 The description of Lowood, in "Jane Eyre" is evidently the result of a morbid impression on the mind of a highly sensitive child of nine, but it is due the estimable persons who were connected with it to state that the frightful charges brought against it by C. Bronte are denied; and the charitable designs of its founder have not been perverted in the way she has led her readers to believe.
 
 
-Letters bouncing backwards and forwards, corrspondence debate in local press; I girst came across thiese when I was digging ont ti the tale of the sin eater/
+Letters bouncing backwards and forwards, corrrspondence debate in local press; I first came across these when I was digging ont ti the tale of the sin eater/
 
 
 A debate raged in the correspondence columns of the northern press for several weeks between husband of Charlotte Bronte and Carus Wilsons's son. TO DO
