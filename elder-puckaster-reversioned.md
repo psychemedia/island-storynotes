@@ -69,11 +69,11 @@ And that is the end of the story.
 
 *But what of the gold, you may ask? Is the tale one of man keeping secret his smuggling gains? Or was there really gold down there, on tehe shore? Writing in volume 2 of his "Journey From London To The Isle Of Wight", in 1802, Thomas Pennant observed:*
 
-> *The country-people in these parts once thought that they were possesed of a Pactolian sand, for they obtained for a certain time some gold dust from the sand of the bay; but, from a number of dollars having been from time to time cast on shore, it was justly suspected that it came from the wreck of some unfortunate Spanish ship.*
+> *The country-people in these parts once thought that they were possessed of a Pactolian sand, for they obtained for a certain time some gold dust from the sand of the bay; but, from a number of dollars having been from time to time cast on shore, it was justly suspected that it came from the wreck of some unfortunate Spanish ship.*
 
 *And what of the fairy rings? It seems they were well know in those parts. Richard Warner remarks upon them in *The history of the Isle of Wight; military, ecclesiastical, civil, & natural: to which is added a view of its agriculture* in 1795, [p182](https://archive.org/details/historyofisleofw00warniala/page/182/mode/2up):*
 
-> *These downs exhibit a number of those circular marks on the grass, which Philosophy, unable herself to account satisfaclorily for the phenomenon, in compliance with vulgar superstition, is content to call by the name of `fairy rings`;*
+> *These downs exhibit a number of those circular marks on the grass, which Philosophy, unable herself to account satisfactorily for the phenomenon, in compliance with vulgar superstition, is content to call by the name of `fairy rings`;*
 >
 > "Where  
 > At fall of eve the fairy people throng,  

@@ -1014,7 +1014,7 @@ In defence, Anderson said no beer had been drawn since ten minutes before 10 o'c
 
 ```
 
-```{admonition} Knock-knock, who's there? No-one. Ocotober, 1854
+```{admonition} Knock-knock, who's there? No-one. October, 1854
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 07 October 1854](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18541007/006/0002)
@@ -1602,9 +1602,9 @@ Other deliberate cases of soliciting also attracted the ire of the court:
 
 BOROUGH COURT. Monday, before the M=ayor, Abraham Clarke and R. M. Wavell, Esqrs.
 
-Joseph Read was charged by P.C. Hobbs with being drunk and disorderly in the streets of Newport, aboot twelve o'clock on Saturday night, refusing to go home, and wishing to fight with everybody he met.
+Joseph Read was charged by P.C. Hobbs with being drunk and disorderly in the streets of Newport, about twelve o'clock on Saturday night, refusing to go home, and wishing to fight with everybody he met.
  
-Defendant acknowledged he was drunk—it was the *first* time! and he was sorry for it; for if Bill Pragnell ever caught him in that state he always knocked him down, which he knew better than to do when he was sober. He had fought him once, and Pragnell had met him that night, and knockod him down three times, which made him so quarrelsome. Fined 5s. and 5s. coats.
+Defendant acknowledged he was drunk—it was the *first* time! and he was sorry for it; for if Bill Pragnell ever caught him in that state he always knocked him down, which he knew better than to do when he was sober. He had fought him once, and Pragnell had met him that night, and knocked him down three times, which made him so quarrelsome. Fined 5s. and 5s. coats.
 
 Eliza Golding and Keziuh Guy, a pair of our nymphs of the pave, were charged by Inspector Grapes with strolling the streets at all hours of the night, waylaying the people in going home, and soliciting them for improper purposes. He said they had frequently been ordered home, but it was of no use to speak to them.
 
@@ -1891,7 +1891,7 @@ On Saturday, James Nobbs and Edward Woodford were charged with breaking into the
 
 NEWPORT PETTY SESSIONS. Saturday.—Before Rev. R. W. White (chairman), Sir John Simeon, Bart., Sir H. P. Gordon, Bart., the Hon. W. aCourt Holmes, and Capt. Kerr.
 
-William Bagwell was charged with stealing a sovereign from the trowers pocket of Joseph Buckett.
+William Bagwell was charged with stealing a sovereign from the trowsers pocket of Joseph Buckett.
 
 It appeared that the complainant and the prisoner were "navvies" working together at West Cowes, lodged together, and occupied the same sleeping apartment. When the complainant went to bed on Thursday night last he left his purse in his trowsers pocket. It contained a sovereign, three half-crowns, two or three shillings, and four sixpences. In the course of Friday morning he had occasion to go to his purse, when he missed the sovereign. He went to bed before the prisoner, and did not hear the prisoner go. No one else slept in the same room.
 

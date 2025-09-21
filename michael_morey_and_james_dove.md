@@ -47,7 +47,7 @@ WHEREAS by an Act passed in the Ninth Year of the Reign of His late Majesty King
 
 ```
 
-The following account of events of 1735/6 involving Michal Morey and James Dove was originally inspired by __For Rooks and Ravens: The Execution of Michal Morey__, Kenneh S. Phillips, IW Museum Publication No. 4, and is how I originally recounted it, *as a local historical account*, to the Island Storytellers story circle. *I have also told the tale in various other forms several times since.*
+The following account of events of 1735/6 involving Michal Morey and James Dove was originally inspired by __For Rooks and Ravens: The Execution of Michal Morey__, Kenneth S. Phillips, IW Museum Publication No. 4, and is how I originally recounted it, *as a local historical account*, to the Island Storytellers story circle. *I have also told the tale in various other forms several times since.*
 
 ```{admonition} Micah Morey's Tale
 :class: dropdown
