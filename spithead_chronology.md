@@ -56,7 +56,7 @@ On May 1st, orders from the Admiralty sought to enforce discipline, with monthly
 
 On Weds May 3rd, a committee appointed by the Privy Council met and decreed that estimates for Parliament be prepared; that same day, the Duke of Bedford asked a question in the Lords regarding affairs at Portsmouth, suggesting he would request papers if they were not to be otherwise forthcoming, but Spencer was noncommittal and suggested he wasn't aware of anything that would come to the House. The press reported the comments in the Lords on the following day, Thurs May 4th. Estimates were also prepared by Thurs 4th May and Pitt said they should be presented to Parliament on Fri 5th May, but the House was not to meet till Monday 8th May, when the question was discussed and voted. 15 days had passed since April 21st, when the Board had realised they would have to accept the seamens' terms.
 
-There was also mischief on board: one letter reports a conversation between the surgeon's mate on board the Mars and a credulous sailor, who passed gossip that the men were unsettled and that if the Admiralty didn't comply bfore they set of to sea, they would sail the fleet into Brest under French colours! But the majority were loyal, as evidenced by their desire to not weigh anchor until Parliament approved their cause and the pardon was sealed.
+There was also mischief on board: one letter reports a conversation between the surgeon's mate on board the Mars and a credulous sailor, who passed gossip that the men were unsettled and that if the Admiralty didn't comply before they set of to sea, they would sail the fleet into Brest under French colours! But the majority were loyal, as evidenced by their desire to not weigh anchor until Parliament approved their cause and the pardon was sealed.
 
 Bridport had been given copies of the papers that were ordered by the Privy Council to be sent to Parliament, but he'd read the newspapers on May 4th, and knew how the seamen might respond, and so he shared the proposal with the fleet. But the seamen were discontent.
 
@@ -84,7 +84,7 @@ Howe read the proclamation aboard the Royal George, displayed the Royal Seal, an
 
 Bridport had orders to sail to Brest, but the celebrations delayed things; eventually, final preparations could be mde on the 16th and Bridport could sail on the 17th.
 
-NB Pompee rturned to Portsmouth on June 16th; two days before discoverd that 80 men anted to mutiny and sail the ship into Brest and desert to the French side. Six ringleaders were brought home to be court-martialled.
+NB Pompee returned to Portsmouth on June 16th; two days before discoverd that 80 men wanted to mutiny and sail the ship into Brest and desert to the French side. Six ringleaders were brought home to be court-martialled.
 
 
 the nore... but that is another story for another day

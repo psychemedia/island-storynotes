@@ -16,7 +16,7 @@ A character that appears from the 1830s and into the 1850s, often around the win
 
 NEWPORT.
 
-The Epiphany Sessions was held at the Guildhall, on Tuesday last, for this borough, borougn, before Charles Bassett Roe, Esq. Mayor, Thomas Sewell, esq. Deputy Recorder, and other Justices.
+The Epiphany Sessions was held at the Guildhall, on Tuesday last, for this borough, borough, before Charles Bassett Roe, Esq. Mayor, Thomas Sewell, esq. Deputy Recorder, and other Justices.
 
 Patience Adams, aged 42, charged with having stolen a bed, the property of Martha Morris, found guilty, —one months' imprisonment.
 
@@ -200,7 +200,7 @@ The Mayor, in granting the licenses of the Valiant Soldier, and Tontine Tap, gav
 
 ```
 
-The item at the Council meeting referred to by Mr. Mew was presumbaly the bye-law for suppressing disorderly houses following any complaint from two or more householders.
+The item at the Council meeting referred to by Mr. Mew was presumably the bye-law for suppressing disorderly houses following any complaint from two or more householders.
 
 ```{admonition} The more easy suppression of disorderly houses, August, 1851
 :class: dropdown
@@ -236,7 +236,7 @@ Houses of Ill Fame.—The Town Clerk said he had prepared another byelaw upon a 
 
 Mr. PRING: Such a law would never the House of Commons.
 
-Mr. ELDRIDGE said these houses were a perfect nuisance, and a general subject of complaint by the inhabitants. The bye-law was only meant to save them the trouble and expense of going to Winchester—a proceeding which prevented many people from coming forward to prosecute the keepers of houses of ill-fame. They did not by these measures amke any new law; they were only carrying out the old law. The last application at Winchester had cost the Guardians of the Poor no less than £36 expenses to prosecute Mrs. Blow.
+Mr. ELDRIDGE said these houses were a perfect nuisance, and a general subject of complaint by the inhabitants. The bye-law was only meant to save them the trouble and expense of going to Winchester—a proceeding which prevented many people from coming forward to prosecute the keepers of houses of ill-fame. They did not by these measures make any new law; they were only carrying out the old law. The last application at Winchester had cost the Guardians of the Poor no less than £36 expenses to prosecute Mrs. Blow.
 
 Mr. PRING: I don't think we ought to sit here to make laws more stringent than the legislature will allow.
 
@@ -270,31 +270,31 @@ Mr. ABRAHAM CLARK said be knew not of any such place as the Adam Eve; there was 
 
 The MAYOR: If no charge is brought before the magistrates, they cannot proceed; but if any person will bring a charge he shall be listened to.
 
-The owner of part of the premises in Paradise-row, the locality complained of, being present, stated that directly on learning from the Inspector of Policee the immoral practices carried on there he had given the occupants immediate notice to quit. They, however, had declared that nothing of the kind was carried on within the premises, but that the girls met with every encouragement at the corner house (hear, hear).
+The owner of part of the premises in Paradise-row, the locality complained of, being present, stated that directly on learning from the Inspector of Police the immoral practices carried on there he had given the occupants immediate notice to quit. They, however, had declared that nothing of the kind was carried on within the premises, but that the girls met with every encouragement at the corner house (hear, hear).
 
-The TOWN CLERK read the law as at present enacted against disordelry houses, which could be only put down by an indictment at the Quarter Sessions, the expense of which must be defrayed by the parish of Newport. He had laid this bye-law to prevent these expensive proceedings before them, as their legal officer; besides, in taking these offences to Winchester, there was great difficulty in procuring the evidence of two of the inhabitants to substantiate the charge, many persons feeling a delicacy in coming forward against their neighbours. This objection would be obviated in the proposed bye-laws, which enabled the police to lay the complaint and bring it before the magistrates.
+The TOWN CLERK read the law as at present enacted against disorderly houses, which could be only put down by an indictment at the Quarter Sessions, the expense of which must be defrayed by the parish of Newport. He had laid this bye-law to prevent these expensive proceedings before them, as their legal officer; besides, in taking these offences to Winchester, there was great difficulty in procuring the evidence of two of the inhabitants to substantiate the charge, many persons feeling a delicacy in coming forward against their neighbours. This objection would be obviated in the proposed bye-laws, which enabled the police to lay the complaint and bring it before the magistrates.
 
-Mr. JOHN COOKE thonght that if the subject had come before the Coucil by a petition or a complaint from the inhabitants, it would have been less objectionable than at present.
+Mr. JOHN COOKE thought that if the subject had come before the Council by a petition or a complaint from the inhabitants, it would have been less objectionable than at present.
 
 Mr. HEARN. said the Council had been a long time in framing their bye-laws, but when they had done so they were found to be so useful that they were copied and adopted by many other boroughs in the kingdom. They were now only making their own bye-laws more stringent than before, the general law being entirely disregarded, as very inconvenient to be carried out.
 
 Mr. PRING said if this was to be a model borough, they must not pass any law which went farther than the law of the land, and he thought it ought not to be permitted that the police alone should have the power to present a house of this description, and bring the matter before the magistrates, in order to eject an occupier or saddle him with a heavy penalty, without a complaint preferred by the inhabitants.
 
-Mr. ELDRIDGE said that when they felt a nuisance it was their duty to do all in their power to remedy it. In this case, many of the Borough Council had laboured to put it down; but they found their hands powerless, from the state of the law which applied to disorderly houses. The general law of the land now required them to proceed to the Quarter Sessions to prosecure an offender, at considerable labour, and at great expense to the Guardians of the Poor; the consequence of which was that the mischief was allowed to go on increasing from year to year, and nothing was done to stay the evil — good order was sacrificed, good morals injured or outraged, both in public and in private, nuisances and annoyances daily given and witnessed by the whole town, and as Christian people he thought they ought to do what they could to put a stop to it. The bye-law did not go beyond the present law, and they ought to do whatever in them lay to bring the criminal, as well as the civil, law to their own doors— offences of this kind could then be brought before their own magistrates; whereas now, they must be taken to Winchester. He should, therefore, support the adoption of the proposed bye-law.
+Mr. ELDRIDGE said that when they felt a nuisance it was their duty to do all in their power to remedy it. In this case, many of the Borough Council had laboured to put it down; but they found their hands powerless, from the state of the law which applied to disorderly houses. The general law of the land now required them to proceed to the Quarter Sessions to prosecute an offender, at considerable labour, and at great expense to the Guardians of the Poor; the consequence of which was that the mischief was allowed to go on increasing from year to year, and nothing was done to stay the evil — good order was sacrificed, good morals injured or outraged, both in public and in private, nuisances and annoyances daily given and witnessed by the whole town, and as Christian people he thought they ought to do what they could to put a stop to it. The bye-law did not go beyond the present law, and they ought to do whatever in them lay to bring the criminal, as well as the civil, law to their own doors— offences of this kind could then be brought before their own magistrates; whereas now, they must be taken to Winchester. He should, therefore, support the adoption of the proposed bye-law.
 
 Mr. ABRAHAM CLARK said the only point about which he felt a difficulty, as a magistrate, was, that they must judge for themselves upon the nature and value of the evidence on which the prosecution must be conducted, the power of making the complaint being given to the police; it was placing a great power in the hands of the Magistrates.
 
-Mr. PRING said the Police woald shut their eyes against one house, and bring up another. It must all rest with their caprice if the matter was entirely trusted to them.
+Mr. PRING said the Police would shut their eyes against one house, and bring up another. It must all rest with their caprice if the matter was entirely trusted to them.
 
 Mr. JAMES ELDRIDGE: I cannot see how we can alter that. It is just the same with the public-houses now.
 
 Mr. HEARN: In nearly every ease which has been prosecuted, the main points of evidence have been supplied by the Police. and I am afraid you would not get evidence sufficient to convict without them, for the neighbours, in most of these cases, cannot be induced to come forward. You can require a notice to be given to these parties to discontinue these evils first, and if not discontinued you can then order the penalty to be enforced.
 
-Mr. ABRAHAM CLARKE: According to the present state of the law it eqires a complaint to be made by two of the inhabitants, and I confess that I think these parties most competent to judge of the inconvenience. I am rather jealous of passing this power in the hands of the Police, who may not prove such very good judges of the fact. The Police may be partial in their practice, but the Magistrates must proceed upon the facts.
+Mr. ABRAHAM CLARKE: According to the present state of the law it requires a complaint to be made by two of the inhabitants, and I confess that I think these parties most competent to judge of the inconvenience. I am rather jealous of passing this power in the hands of the Police, who may not prove such very good judges of the fact. The Police may be partial in their practice, but the Magistrates must proceed upon the facts.
 
 The TOWN CLERK said the only instance of a case being brought forward by the inhabitants was that of a recent date at West Cowes. and the expense of carrying out those proceedings were enormous.
 
-THE MAYOR: Well, I think if the nusiance does not reach to such as extent as to induce two of the inhabitants to come forward and lay a complaint, it is not worth touching.
+THE MAYOR: Well, I think if the nuisance does not reach to such as extent as to induce two of the inhabitants to come forward and lay a complaint, it is not worth touching.
 
 Mr. ALFRED MEW considered that the same law must apply to other nuisances as to this. The Inspector must prove by evidence that such nuisances existed before he could proceed.
 
@@ -414,7 +414,7 @@ No license was taken away from any publican, though the landlord of the "Race Ho
 
 ```
 
-The Race Horse had also receieved mentions several years earlier, once, in 1847, for the inappropriate behaviour of the landlord of the time, and a couple of years later in a rather unusual case of theft apparently from oneself:
+The Race Horse had also received mentions several years earlier, once, in 1847, for the inappropriate behaviour of the landlord of the time, and a couple of years later in a rather unusual case of theft apparently from oneself:
 
 ```{admonition} A low public-house in Corn-market, December, 1847
 :class: dropdown
@@ -482,7 +482,7 @@ TO BE SOLD. BY AUCTION, By MEW & PORTER,
 
 On Tuesday, the 12th day of May, 1807, and following day, ar the Brewhouse lately occupied by Mr. Stean, in Sea-sreet, Newport, at 11 o'clock in forenoon each day, (by order of the Assignees of Mr. John Stean, a Bankrupt),
 
-THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging theroto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
+THE following BREWING UTENSILS; consisting of a large copper with brass cocks, with brick and iron work belonging thereto, coolers, mash tubs, backs, stillions, stands, a vat containing 31 barrels, with lie brick stand, patent vat and other brass cocks, a large quantity of hogsheads, halfhogsheads, and other sized casks, a malt and water mill with stones, complete lead pipes, a dray, a truck, about ten load of sacks, two pockets of hops, pumps, spouts, funnels, buckets, cans, and other brewing utensils. Catalogues may be had by application to Mr. Steane, or of the Auctioneers; also at the Bugle Inn, Newport; Blue Posts, Portsmouth; Blue Posts, Gosport; Angel, Lymington; Dolphins, Southampton, and the George, Winchester.
 ```
 
 Almost a decade later, in 1816, it seems that Mr. John Steane had re-established his business as a wine merchant, and was now in the process of attempting to dispose of it under his own terms:
@@ -572,7 +572,7 @@ On the same day, the advert appears in another form in the *Hampshire Chronicle*
 
 WHOLESALE & RETAIL WINE & BRANDY VAULTS,  
 NEWPORT, Isle of Wight,  
-TO be LET on Lease, or SOLD by Private Contract, and may be entered immediately.—The House respectable, and built on purpose for the Trade, which the annual returns are from £15,000 to £20,000, and may be doubled by one or two active youug men. The Stock consists of about 450 dozen fine Old Wine in bottles, and about pipes in wood in bond; 250 dozen London Brown Stout; 50 dozen Cyder; 40 hogsheads home-brewed and Edinburgh Strong Beer; 500 quarters Oats, Beans, &c. to be taken at valuation, with the Fixtures, and a reasonable time allowed for the sale, on approved bills: if sold, £2000 may remain on mortgage.
+TO be LET on Lease, or SOLD by Private Contract, and may be entered immediately.—The House respectable, and built on purpose for the Trade, which the annual returns are from £15,000 to £20,000, and may be doubled by one or two active young men. The Stock consists of about 450 dozen fine Old Wine in bottles, and about pipes in wood in bond; 250 dozen London Brown Stout; 50 dozen Cyder; 40 hogsheads home-brewed and Edinburgh Strong Beer; 500 quarters Oats, Beans, &c. to be taken at valuation, with the Fixtures, and a reasonable time allowed for the sale, on approved bills: if sold, £2000 may remain on mortgage.
 
 The Premises consist of a large Store in front for the retail trade; beer stores for 150 pipes of wine and porter; arched cellar for bottled wine; good garden, walled round, with choice fruit trees; out-offices, stalled stables; a reputable Tap detached, with Gentlemen's subscription bowling-green, that lets for 50 guineas per year; granary and stores for 700 quarters of grain; cart and chaise-house, and from one to ten Tenements, if approved. The whole freehold and built within ten years.
 
@@ -599,7 +599,7 @@ TO BE SOLD by PRIVATE CONTRACT, or LET or LEASE, and may be entered on immediate
 
 Apply, if by letter, post-paid, to John Steane, the Proprietor; who from extreme ill health, is compelled to retire from the same, and solely on that account are the Premises and Trade offered for Sale, and on most liberal terms.
 
-*An error appeared in this advertisment last week, the returns being from 15,000 to 20,000l.*
+*An error appeared in this advertisement last week, the returns being from 15,000 to 20,000l.*
 
 ```
 
@@ -615,7 +615,7 @@ NEWPORT, ISLE OF WIGHT
 
 To Brewers, Innkeepers, and Victuallers.— Freehold Inn and Tavern, with excellent Tap, Brewery and eight tenements.
 
-TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'clock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire from business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniture, Fixtures, and the Stock of about 200 Barrels of Strong Beer, to be taken at a valuatiom.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garraway's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
+TO BE SOLD BY AUCTION, by Messrs. T. HAYDON & HENDY, at Garraway's Coffee House, Change-alley, Cornhill, on Thursday, June 17, 1819, at one o'clock (unless previously disposed of by Private Contract),—A most desirable and valuablue FREEHOLD INN, the TONTINE, situate in the centre of the Market-place, in Newport, Isle of Wight. The House is respectable, and in excellent repair, consisting of a well-fitted-up bar and liquor shop, two parlours, large kitchen, dining room and six bed rooms; also, a modern BREWERY attached, erected on the most approved principle, from which is retailed 20 to 30 barrels per week; likewise, a good TAP-HOUSE, and eight TENEMENTS, which pay 150l. per annum; a good Garden, a Stable, a Malt and Hop Loft, and a Rain-water Tank to hold 60 hogsheads of water.— This is the only House in the Island which brews its own beer; and the whole will be sold with great advantage to the Buyer, from the Proprietor being obliged by extreme ill health to retire from business.—Half the Purchase Money may remain on Mortgage.— The Premises are so arranged that the Inn may be Let off with advantage, and the Brewery and Tap occupied together, there being a distinct entrance to the same. The Furniture, Fixtures, and the Stock of about 200 Barrels of Strong Beer, to be taken at a valuation.— For leave to view the said Premises, apply to Mr. John Steane, the Proprietor, at Newport, where printed particulars may be had, after the 1st June; also of Mr. E. Bryant, Solicitor, at Southampton; Mr. Charles Winkworth, Solicitor, Portsmouth; at Garraway's; and of the Auctioneers, Welbeck-street, Cavendish-square, London.
 
 ```
 
@@ -627,7 +627,7 @@ A year later, it seems the John Steane's ill health had got the better — or th
 
 ISLE OF WIGHT
 
-Died, on Monday last, John Steane, winemerchant, in the 59th year of his age, after a long and painful illness. 
+Died, on Monday last, John Steane, wine-merchant, in the 59th year of his age, after a long and painful illness. 
 ```
 
 ```{seealso}
@@ -1357,11 +1357,11 @@ Perhaps the same Eliza Young was also involved in another incident a couple of y
 
 Borough Court.— On Monday, (before J. Eldridge, esq. Mayor, and other gentlemen.)
 
-James Payne, a sailor, living in Orchard-street, was charged by his wife Eiza, with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried "Murder!" and the police broke open the door, and took him to the station-house.
+James Payne, a sailor, living in Orchard-street, was charged by his wife Eliza, with ill-using her, on the previous evening. She said that she went round to Mrs. Young's, in Scarrott's-lane, on Sunday, and about half-past ten at night her husband came there, knocked her about and drove her out of the house. He then took her bonnet and shawl, and went on home with it. She followed him, but he locked the door, fastened the windows, and said she should not come in that night. After much persuasion he let her in; they then began quarrelling, and he took a hammer and poker and commenced breaking the crockery and everything in the house he came across. He then began beating her about, and struck her violently with the poker, saying he would make short work of it. She then cried "Murder!" and the police broke open the door, and took him to the station-house.
 
 Eliza Young stated that the complainant merely came to her house for the purpose of asking her to accompany her to the Quay, to see if her husband was gone down the river.
 
-The defendant, in his defence, said he caught both of them with soldiers in the house, and she was always out somewhere "cata-walling." He was bound over to keep the peace for a twelve-month.
+The defendant, in his defence, said he caught both of them with soldiers in the house, and she was always out somewhere "cat-a-walling." He was bound over to keep the peace for a twelve-month.
 
 ```
 

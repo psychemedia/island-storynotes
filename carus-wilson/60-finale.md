@@ -211,6 +211,6 @@ THE name of the late Rev. W. Carus Wilson is a name beloved, not only amongst th
 As the expense of postage is heavy, help is solicited. Mrs. Shepheard, of Cove House, Silverdale, Lancaster (daughter of the late Mr. Wilson), will thankfully receive any contribution for this good work.
 ```
 
-And there we end the tale. A journey that started with my incidental discovery of the memorial to the Newport magistrates, and thence the *Tempters and Tempted* tract, the state of Newport in the 1850s, the Reverednd Carus Wilson, Charlotte Bronte and the Cown Bridge controversy.
+And there we end the tale. A journey that started with my incidental discovery of the memorial to the Newport magistrates, and thence the *Tempters and Tempted* tract, the state of Newport in the 1850s, the Reverend Carus Wilson, Charlotte Bronte and the Cowan Bridge controversy.
 
 THE END.

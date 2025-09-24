@@ -137,7 +137,7 @@ We read further in the "Life" that Mr. Bronte was an austere and peculiar man, d
 
 Charlotte's claimed regrets about her portrayal of the school are also mentioned and then contrasted with Mrs. Gaskell's attack.
 
-```{admonition} Mrs. Gaskell says, (comt.)
+```{admonition} Mrs. Gaskell says, (cont.)
 :class: dropdown
 
 Mrs. Gaskell says that Miss Bronte often regretted her remarks in "Jane Eyre" about the school, as she never thought it would have been so identified. Why then should Mrs. Gaskell have continued them in the "Life". Would it not have been fairer to have given a fuller and more favourable account of the schools; for in her visit to Cowan Bridge last year, so close to Casterton, she most probably would have visited them, and witnessed their flourishing condition under the able management of a committee, during Mr. Wilson's long absence from ill health? We have not space at present to touch on any parts of the second volume of this popular work, and have only dwelt on those in the first that we consider most open to criticism.
@@ -441,7 +441,7 @@ Haworth Parsonage, May 29th, 1857.
 
 Much the same letter, though with a slightly different opening, also appears in the *Leeds Intelligencer* and the *Leeds Times*.
 
-```{admonition} A careful ommission of the negatives, June 1857
+```{admonition} A careful omission of the negatives, June 1857
 :class: dropdown
 [Leeds Intelligencer - Saturday 06 June 1857](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000193/18570606/071/0010)
 

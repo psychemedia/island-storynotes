@@ -24,7 +24,7 @@ Thinking the letters had come from the same mischievous and trouble making sourc
 
 But all was not well.
 
-The round-robin letters had called for increased pay, better provisions — and a fairer share of them — and an improved share of prize money. For at that time, his Majesty's ships often acted in pirate mode, taking what prizes they could from boarded ships, then sharing spolis out between officers and crew, albeit with the lion's share to the officers.
+The round-robin letters had called for increased pay, better provisions — and a fairer share of them — and an improved share of prize money. For at that time, his Majesty's ships often acted in pirate mode, taking what prizes they could from boarded ships, then sharing spoils out between officers and crew, albeit with the lion's share to the officers.
 
 When the men sailed that first week of March for Brest, to keep a watching eye over the French fleet assembling there, they were hopeful that on their return Howe would have acted favourably on behalf their plea.
 
@@ -74,7 +74,7 @@ As you can imagine, this did not go down well. But, and I don't know quite how, 
 
 Until this point, Bridport's flag had still been flying on the Royal George. But fearing some sort of reprisal, the men started to prepare the guns and set a watch, and Bridport's officers took the flag down, so it would not be further sullied.
 
-Provoked in part by Gardner's outburst, the men's suspicions about the good faith of the Admiralty increased further. So they did what you do under such cicrumstances, and doubled down, adding a further demand: that Parliament should sign off on the concessions too. But at the same time, they were still Bridport's men, and being concerned about losing his support, the men of the Royal George wrote to him as the "father of the fleet", asking him not to abandon them, and to reassume his command.
+Provoked in part by Gardner's outburst, the men's suspicions about the good faith of the Admiralty increased further. So they did what you do under such circumstances, and doubled down, adding a further demand: that Parliament should sign off on the concessions too. But at the same time, they were still Bridport's men, and being concerned about losing his support, the men of the Royal George wrote to him as the "father of the fleet", asking him not to abandon them, and to reassume his command.
 
 The Admiralty Lords went back to London, and a letter was sent to the privy Council. From there, Pitt, the Prime Minister, went to see the King, at Windsor.
 

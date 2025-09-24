@@ -109,7 +109,7 @@ His particular passion appears to have been education, along with engaging in co
 ````{admonition} A confusion of Revd. Wilsons
 :class: seealso dropdown
 
-A sample of articles avbout *this* Revd. Wilson shows the apparently universal ahigh regard and deep affection that was held for him.
+A sample of articles about *this* Revd. Wilson shows the apparently universal high regard and deep affection that was held for him.
 
 ```{admonition} The National Schools, December 1855
 :class: dropdown
@@ -137,7 +137,7 @@ Sermons are to be preached to-morrow (Sunday) at Carisbrooke Church in aid of th
 :class: dropdown
 [Portsmouth Times and Naval Gazette - Saturday 07 November 1857](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18571107/069/0005)
 
-The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indefatigable efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected a vast amount of good, and by his benevolence and affability has endeared himself to all classes. We heartily wish there were more such reverend rentlemen in the Church of England; there is plenty of work for them. 
+The Night Schools for the labouring classes, which were established in this town last winter, mainly by the exertions of the Rev. W. C. Wilson, have been again opened, through the indefatigable efforts of the same respected gentlemen. Whether the end sought will be really attained or not is to be proved by the future, but Mr. Wilson, during his residence among us, has effected a vast amount of good, and by his benevolence and affability has endeared himself to all classes. We heartily wish there were more such reverend gentlemen in the Church of England; there is plenty of work for them. 
 ```
 
 ```{admonition} Roast beef and plum pudding, January 1858
@@ -488,7 +488,7 @@ Mr. Robert Pinnock ... Their Chairman had referred to Mr. Eldridge's mayoralty, 
 
 A hustling was now observed in the crowd, and it was announced amidst much confusion that some gentleman wished to reply to some of Mr. Pinnock's observations.
 
-The Chairman— "Come forward, Mr. Mollett, we will hear what you bave to s ay, or any oiher gentleman of the company."
+The Chairman— "Come forward, Mr. Mollett, we will hear what you have to say, or any other gentleman of the company."
 
 W. Mollett, Esq. then got upon the platform, amidst an indescribable volley of hooting, jeering, cheering, and whistling, and observed, the words he had to say did not refer to the special object of the meeting. Mr. Pinnock had said— "The objects of their Town Mission had been abused by the parties connected with it turning it into an institution for spy purposes"— (renewed uproar. Mr. Pinnock explaining that what he said was, "These gentlemen may have turned a Town Mission into an association for the purposes of scandal").
 

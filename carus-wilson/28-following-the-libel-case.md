@@ -321,6 +321,6 @@ In trial at the Assizes, the soldier accused of theft was acquitted.
 
 [Poole & Dorset Herald - Thursday 11 December 1856](https://britishnewspaperarchive.co.uk/viewer/BL/0002325/18561211/064/0007)
 
-Charles Gosling, a private soldier of the 96th Regiment, indicted for having, on the 26th of November, at Parkhurst Barracks, robbed his pay sergeaut, George Wolfe, of the sum of £7 9s., was acquitted.
+Charles Gosling, a private soldier of the 96th Regiment, indicted for having, on the 26th of November, at Parkhurst Barracks, robbed his pay sergeant, George Wolfe, of the sum of £7 9s., was acquitted.
 
 ```
