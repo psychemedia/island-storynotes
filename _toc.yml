@@ -14,10 +14,12 @@ parts:
 - caption: Godshill
   chapters:
   - file: godshill
-- caption: The Pepperpot
+- caption: The Pepperpot and the view from St Catherine's Down
   chapters:
   - file: history_of_the_pepperpot
   - file: walter_de_godeton_and_the_shipwrecked_wine
+  - file: mackerel
+  - file: shrinking_week_down
 - caption: "Carisbrooke Castle: Residents' Tales"
   chapters:
   - file: edward-woodville
