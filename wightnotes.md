@@ -69,7 +69,7 @@ the sovereign for the due discharge of his duties.
 p81 Carisbrooke Woodville's Gateway (erected by Anthony Lord Scales, circa 1464, and bearing his arms and the White Rose of York ), a really noble specimen of a castellated entrance.
 p383 The low fortunes of the island received a stil more terrible blow forty years later, in the disastrous issue of Woodville's rash expedition to Britanny, which robbed it of al its bravest and best. An ordinance was immediately passed by Parliament, prohibiting any persons to hold lands, &c., of more than the annual value of ten marks, in order that the isle, which was then "desolate and not inhabited, but occupied with beasts and cattle," might be again peopled and able to defend itself from an invader. [Froude History of England i. 27] [TO DO  - so this was a response to Woodville's action?]
 
-de Godeton - lots of stories say wine bound for Livers in Picardy, but Lire/Lyra in Evreux, Nothern Normandy is not far out of Picardy and is perhaps the more likely destination and eg has links with Godshill Church? https://en.wikipedia.org/wiki/Lyre_Abbey
+de Godeton - lots of stories say wine bound for Livers in Picardy, but Lire/Lyra in Evreux, Northern Normandy is not far out of Picardy and is perhaps the more likely destination and eg has links with Godshill Church? https://en.wikipedia.org/wiki/Lyre_Abbey
 
 Boucher, letters relating to Isle of Wight 
 p118 Fitz Osborne pursued in the Isle of Wight the same course

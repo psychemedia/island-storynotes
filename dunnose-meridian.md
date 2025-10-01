@@ -1,6 +1,6 @@
 # Dunnose Meridian
 
-At one time, Dunnose point was a candiate for the national meridian.
+At one time, Dunnose point was a candidate for the national meridian.
 
 ---
 

@@ -36,7 +36,7 @@ p336-344 (earlier pages have (discounted) mentions of wrecking)
 
 SMUGGLERS AND SMUGGLING.
 
-"We'll go down among the Needle Kocks.  
+"We'll go down among the Needle Rocks.  
 And put them all ashore, O!  
 Back again to Cherbourg,  
 And take in some more, O! *—Old Song.*
@@ -47,7 +47,7 @@ A large traffic in contraband goods was carried on between the Isle of Wight and
 
 TO DO
 
-Occasional ventures of even a more reprehensjjble kind occurred from time to time. An instance of this nature is detailed in the Patent Rolls : —
+Occasional ventures of even a more reprehensible kind occurred from time to time. An instance of this nature is detailed in the Patent Rolls : —
 
 1317. "Commission of oyer and terminer to John de Foxle, John dc
 

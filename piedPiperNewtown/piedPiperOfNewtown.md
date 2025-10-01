@@ -102,7 +102,7 @@ Elder then nudges us into believing that it is the opinion of this "true" antiqu
 
 > "Not so hasty — not so hasty," replied the antiquary, rubbing his spectacles; "I consider it to be one of the ancient popular tales that were told and believed by the old inhabitants of Franchville. Now the popular tales, or, as we may call them, the mythology of a country, are properly neither the history of what took place there, nor mere inventions; but they are the traditions of the ancestors of the inhabitants, before they settled in their present possessions.
 
-According to the anqiuarian, the original roots of the story may, however, go back further still:
+According to the antiquarian, the original roots of the story may, however, go back further still:
 
 > "Those stories that have their parallel traditions preserved in very distant and different countries, are traditions handed down from the earliest periods of the world; and relate generally to Noah and the flood, or to the events that took place at Babel before the scattering abroad of nations. Of this description are the Druidical traditions of Delan, — Deucalion, Saturn, and Janus `[Janus was represented by the Romans as having two faces — the meaning of which is, that he looked back to the antediluvian world, and forward to the postdiluvian. His temple was shut in time of peace, and open in time of war; which means that whilst men and animals remained in the ark they lived in peace with one another, but after the door was opened they fought and quarrelled as they did before they entered into it.]` of the Greeks and Romans, relating to Noah.
 
@@ -391,7 +391,7 @@ In Tales and Legends of the Isle of Wight, by Abraham Elder, Esq., 1843, this st
 
 ## Beata Elizabeth Macaulay's *The Newtown Rats*
 
-A copy of Beata Elizabeth Macaulay's *The Newtown Rats — An Isle of Wight Legend*, published in 1869, "written several years ago" and privately publsihed *"as a little diverson of thought to myself, after bereavements"*, can be found in the Castle Museum Library at Carisbroke Castle.
+A copy of Beata Elizabeth Macaulay's *The Newtown Rats — An Isle of Wight Legend*, published in 1869, "written several years ago" and privately published *"as a little diversion of thought to myself, after bereavements"*, can be found in the Castle Museum Library at Carisbrooke Castle.
 
 THE NEWTOWN RATS
 
