@@ -423,7 +423,7 @@ The Race Horse had also received mentions several years earlier, once, in 1847, 
 Newport Borough Court.-On Monday, (before J. Eldridge esq. mayor, and other gentlemen.) James Lee, landlord of a low public-house in Corn-market, called the Race-horse, was fined 5s and costs, for allowing card-playing in his house; and on Tuesday he was again brought up for being drunk ana disorderly in his own house on the previous evening, and behaving in a most disreputable manner. This time he was fined £3 and costs. 
 ```
 
-```(admonition) Indicted for stealing his own goods, September, 1850
+```{admonition} Indicted for stealing his own goods, September, 1850
 :class: dropdown
 [Hampshire Telegraph - Saturday 28 September 1850](https://britishnewspaperarchive.co.uk/viewer/BL/0000069/18500928/012/0005)
 

@@ -449,7 +449,7 @@ MACKEREL.— Many thousands of mackerel have been taken in Chale Bay during the 
 
 ```
 
-```{admonition}Fatal Boat Accident, June 1873
+```{admonition} Fatal Boat Accident, June 1873
 :class: dropdown
 
 [Isle of Wight Times - Thursday 12 June 1873](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18730612/063/0003)

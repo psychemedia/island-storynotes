@@ -22,7 +22,7 @@ According to John Hassell, in the first part of his two volume [*Tour of the Isl
 
 In passing, Hassell also describes the unused light house on top of St Catherine's down:
 
-> On the top of St. Catherine's is a light house, and a beacon, neither of which are now used. The tower serves, in the day time, for an excellent landmark; it being near eight hundred feet above the level of the sea at low water. A small part of the chapel is remaining; it is in form an octagon, and by some called the hermitage, from - the circumstance of a priest's having formerly immured himself in it from the world.
+> On the top of St. Catherine's is a light house, and a beacon, neither of which are now used. The tower serves, in the day time, for an excellent landmark; it being near eight hundred feet above the level of the sea at low water. A small part of the chapel is remaining; it is in form an octagon, and by some called the hermitage, from the circumstance of a priest's having formerly immured himself in it from the world.
 
 The light house, which to this day still acts as a seamark, is commonly referred to as "The Pepperpot". As you might imagine, there is a story to be told about that, too. But again, that is a tale to be told elsewhere.
 
