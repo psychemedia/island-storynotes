@@ -550,7 +550,7 @@ No. XXVI. and XXVII.— (The prisoner's hand-writing.)
 
 "It is possible to get all those particulars from the N. O. but the most certain mode would be from the Admiralty, Navy, Ordnance, and Victualling-offices, and the respective dock-yards where vessels rendezvous for cleaning and repairing.
 
-"Provisions are transported from the Victualling-office in London to the different ports where vessels of war fit out, where they are committed to the care of the store-keepers who victuals the outward-bound ships by orders from the Admiralty. The same mode is observed with ordnance and naval stores. Official lists in general are inaccurate, and the state of our havy from them cannot be depended upon; a communication with an intelligent person at each of the dock-yards is the best channel for procuring and keeping an exact state of the navy.
+"Provisions are transported from the Victualling-office in London to the different ports where vessels of war fit out, where they are committed to the care of the store-keepers who victuals the outward-bound ships by orders from the Admiralty. The same mode is observed with ordnance and naval stores. Official lists in general are inaccurate, and the state of our navy from them cannot be depended upon; a communication with an intelligent person at each of the dock-yards is the best channel for procuring and keeping an exact state of the navy.
 
 "I estimate the first expence in settling the correspondence from London to Plymouth and back, by way of Portsmouth, 450 miles, which with road expenses, posting costs 1*s.* 1*d.* per mile: 24*l.* 7*s.* 6*d.*
 
@@ -636,7 +636,7 @@ Who is Mr. Wm. Harrison?— The master of a vessel he has been formerly, as I am
 
 Mr. *Morris*. That is an exact copy of this paper that was delivered to Mrs. Hervey, which was with the papers that were in the hand-writing of the prisoner.
 
-Look at that other paper. What use did Mr. Tyrie say you was to make of that, when he gave it you?— I did not understand the English of it; but Mr. Tyrie said, after I had made those signals, a boat would cbme off to me, and I was to deliver this, paper, and then the packet, and was then to be permitted to go on shore.
+Look at that other paper. What use did Mr. Tyrie say you was to make of that, when he gave it you?— I did not understand the English of it; but Mr. Tyrie said, after I had made those signals, a boat would come off to me, and I was to deliver this, paper, and then the packet, and was then to be permitted to go on shore.
 
 Did he say any thing about that paper protecting you?— He said, when I produced that paper, I should not be hurt.
 

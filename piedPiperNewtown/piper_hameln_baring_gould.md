@@ -2,13 +2,13 @@
 
 Various studies and collections of "Pied Pipe of Hamelin" tales are available, if you go for hunting for them. In particular, D. L. Ashliman's [The Pied Piper of Hameln and related legends from other towns](https://sites.pitt.edu/~dash/hameln.html) is a great place to find alternative tellings of the tale, including, as it does, more than thirty variants of the story.
 
-The following example also includes several variants of the legend, as well as a rather rambling critique of some of the key thems. It is taken from Sabine Baring-Gould's [*Curious myths of the Middle Ages*](https://archive.org/details/curiousmythsofmi00bariuoft/page/416/mode/2up), published in 1876, pp.417-446.
+The following example also includes several variants of the legend, as well as a rather rambling critique of some of the key themes. It is taken from Sabine Baring-Gould's [*Curious myths of the Middle Ages*](https://archive.org/details/curiousmythsofmi00bariuoft/page/416/mode/2up), published in 1876, pp.417-446.
 
 The chapter starts with an extracted and lightly annotated version of Robert Browning's poem *The Pied Piper of Hamelin: A Child's Story*:
 
 > The Piper of Hameln
 >
-> HAMELN town was infested with rats, in the year 1284. In their houses the people hado peace from them; rats disturbed them by nightnd worried them by day —
+> HAMELN town was infested with rats, in the year 1284. In their houses the people had no peace from them; rats disturbed them by night, and worried them by day —
 >
 > "They fought the dogs, and kill'd the cats,  
 > And bit the babies in the cradles,  
@@ -18,7 +18,7 @@ The chapter starts with an extracted and lightly annotated version of Robert Bro
 > Made nests inside men's Sunday hats,  
 > And even spoil'd the women's chats,  
 > By drowning their speaking  
-> With shrieking and squeakingn  
+> With shrieking and squeaking  
 > In fifty different sharps and flats."
 > 
 > One day, there came a man into the town, most quaintly attired in parti-coloured suit. Bunting the man was called, after his dress. None knew whence he came, or who he was. He announced himself to be a rat-catcher, and offered for a certain sum of money to rid the place of the vermin. The townsmen agreed to his proposal, and promised him the sum demanded. Thereupon the man drew forth a pipe and piped.
@@ -76,7 +76,7 @@ The chapter starts with an extracted and lightly annotated version of Robert Bro
 > Of all the pleasant sights they see,  
 > Which the piper also promised me;  
 > For he led us, he said, to a joyous land,  
-> Joining the townn, and just at hand,  
+> Joining the town, and just at hand,  
 > Where waters gush'd, and fruit-trees grew,  
 > And flowers put forth a fairer hue,  
 > And every thing was strange and new;  
@@ -92,11 +92,11 @@ The chapter starts with an extracted and lightly annotated version of Robert Bro
 > To go now limping as before,  
 > And never hear of that country more."
 
-*I've used a similar trick of blending extracts of a poem and narrative to replace scertain stanzas in a retelling of `The Hunting of the Snark`.*
+*I've used a similar trick of blending extracts of a poem and narrative to replace certain stanzas in a retelling of `The Hunting of the Snark`.*
 
 baring-Gould hen summarises the outcome:
 
-> The number of children that perished was one huundred and thirty. Fathers and mothers rushed the east gate, but when they came to the mountain, called Koppenberg, into which the train had disappeared, nothing was observable except a smalh hollow, where the sorcerer and their little ones had entered.
+> The number of children that perished was one hundred and thirty. Fathers and mothers rushed the east gate, but when they came to the mountain, called Koppenberg, into which the train had disappeared, nothing was observable except a smalh hollow, where the sorcerer and their little ones had entered.
 
 He then makes some observations about how the event has been memorialised:
 
@@ -170,7 +170,7 @@ The music of the Gospel leads us home.
 Angels of Jesus, Angels of Light,  
 Singing to welcome the pilgrims of the night."
 
-An idea which I have myself consciously adoptedn a hymn on the severing of Jordan (People's Hymnal, 3), upon the principle which led the early Christians to adopt the figure of Orpheus as a symbol of Christ.
+An idea which I have myself consciously adopted a hymn on the severing of Jordan (People's Hymnal, 3), upon the principle which led the early Christians to adopt the figure of Orpheus as a symbol of Christ.
 
 "Sweet angels are calling to me from yon shore,  
 Come over, come over, and wander no more."
@@ -241,7 +241,7 @@ It is curious that the lyre-god Apollo should be called Smintheus, because he de
 
 Orpheus with his strains allured birds and beasts around him, and made the trees and herbs to grow. The name Orpheus has been supposed to be identical with the Vedic Ribhus, which, no doubt, in its original form, was Arbhus. This, however, is not certain. Preller supposes Orpheus to come from the same root as opfen, erebos, and to signify gloom (Griechische Myth. ii. p. 486); but this is most improbable. He was a son of Apollo, and therefore probably a solar god.
 
-It was hardly to be expected that such a charming and innocent myth as that of Orpheus should have been allowed to drop by the early Christians. They made a legitimate and graceful use of it in the catacombs, when they presented it as an allegory of Christ, who, by the sweet strains of His gospel, overcame brutish natures, making the wolf lie down with the lamb. But a less justifiable adaptation of the figure was that of the mediaeval hagiologists, when they took from Orpheus his lyre, and robbed him of his song, and split him into S. Francis and S. Anthony, the former with his preaclng attracting the birds, the latter learnedly propounding scriptural types to the fishes.
+It was hardly to be expected that such a charming and innocent myth as that of Orpheus should have been allowed to drop by the early Christians. They made a legitimate and graceful use of it in the catacombs, when they presented it as an allegory of Christ, who, by the sweet strains of His gospel, overcame brutish natures, making the wolf lie down with the lamb. But a less justifiable adaptation of the figure was that of the mediaeval hagiologists, when they took from Orpheus his lyre, and robbed him of his song, and split him into S. Francis and S. Anthony, the former with his preaching attracting the birds, the latter learnedly propounding scriptural types to the fishes.
 
 It is curious that this Orpheus myth should be found scattered among Aryan and Turanian peoples.
 
@@ -294,7 +294,7 @@ The effects of the harping of Wainamoinen remind one of those accompanying the p
 
 "The ancient Wainamoinen began to sing; he raised his clear and limpid voice, and his light fingers danced over the strings of the kantele, whilst joy answered to joy, and song to song. Every beast of the forest and fowl of the air came about him, to listen to the sweet voice, and to taste the music of his strains. The wolf deserted the swamp, the bear forsook his forest lair; they ascended the hedge, and the hedge gave way. Then they climbed the pine, and sat on the boughs, hearkening whilst Wainamoinen intoned his joy. The old black-bearded monarch of the forest, and all the host of Tapio, hastened to listen. His wife, the brave lady of Tapiola, put on her socks of blue, and her laces of red, and ascended a hollow trunk to listen to the god. The eagles came down from the cloud, the falcon dropped through the air, the mew flitted from the shore, the swan forsook the limpid waves, the swift lark, the light swallow, the graceful finches perched on the shoulders of the god. The fair virgins of the air, the rich and gorgeous sun, the gentle beaming moon, halted, the one on the luminous vault of heaven, the other leaning on the edge of a cloud. There they wove with the golden shuttle and the silver comb. They heard the unknown voice, the sweet song of the hero. And the silver comb fell, the golden shuttle dropped, and the threads of their tissue were broken. Then came the salmon and the trout, the pike and the porpoise, fish great and small, towards the shore, listening to the sweet strains of the charmer" (Kalewala, Rune xxii.).
 
-In one of the heroic ballads of the Minussinchen Tartars, the wind, which is represented as a foalwhich courses round the world, finds that its master's two children, Aidôlei Mirgän and Alten Kuruptju, which I take to be the morning and evening star, are dead and buried and watched by seven warriors. The foal changes himself into a maiden, and comes singing to the tomb such bewitching strains that
+In one of the heroic ballads of the Minussinchen Tartars, the wind, which is represented as a foal which courses round the world, finds that its master's two children, Aidôlei Mirgän and Alten Kuruptju, which I take to be the morning and evening star, are dead and buried and watched by seven warriors. The foal changes himself into a maiden, and comes singing to the tomb such bewitching strains that
 
 "All the creatures of the forest,  
 All the wing'd fowl of the air,  

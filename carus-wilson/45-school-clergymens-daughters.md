@@ -1,6 +1,6 @@
 # The School for Clergymen's Daughters, Cowen Bridge
 
-In the biography of Currer Bell, née Chartotte Brontë, published in *Sharpe's London magazine* in 1855., the author described how Charlotte Brontë was *"placed at the clergy school Cowan Bridge .., [thence] described to the life in "Jane Eyre."*
+In the biography of Currer Bell, née Charlotte Brontë, published in *Sharpe's London magazine* in 1855., the author described how Charlotte Brontë was *"placed at the clergy school Cowan Bridge .., [thence] described to the life in "Jane Eyre."*
 
 The proposal to open the school, along with a request for offering support by subscription and an invitation to recommend potential entrants to the new school, was widely syndicated in northern newspapers in November 1823.
 
