@@ -253,7 +253,7 @@ A considerable quantity of mackerel hare been caught near Black-gang. On Monday,
 
 ```
 
-```{admonition} Large captures of Mackerel, 23rd June 1883
+```{admonition} Large captures of Mackerel, 23 June 1883
 :class: dropdown
 
 [Hampshire Advertiser - Saturday 23 June 1883](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18830623/067/0008)
@@ -315,7 +315,7 @@ Mackerel.— During the week and the latter part of last week we were pleasingly
 
 With the advent of the railways, Island fish would find a ready market in London:
 
-```{admonition} London pricing, June 1864
+```{admonition} London pricing, 04 June 1864
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 04 June 1864](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18640604/008/0003)
@@ -382,7 +382,7 @@ The mackerel fishing season off the Isle of Wight was opened with remarkable cat
 
 Perhaps counter-intuitively, if the hauls were large, fish might be returned to the sea rather than depress prices on individual items in a catch.
 
-```{admonition} Mackerel in Ventnor, but not Chale? June 1888
+```{admonition} Mackerel in Ventnor, but not Chale? 23 June 1888
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 23 June 1888](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18880623/113/0008)
@@ -405,7 +405,7 @@ Hay-making is now pretty general in this neighbourhood, and the swoaths are heav
 
 The market could also be affected by other matters. The loss of HMS Eurydice in March 1878, with the loss of almost all her crew, seems to have tainted the local desire, at least, to reap the piscine harvest of sea.
 
-```{admonition} Tainted supply? June 1878
+```{admonition} Tainted supply? 08 June 1878
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 08 June 1878](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005)
@@ -424,7 +424,7 @@ A great deal has been said and written of late years about our fisheries; not on
 
 ```
 
-```{admonition} A poor season, July 1922
+```{admonition} A poor season, 15 July 1922
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 15 July 1922](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/19220715/023/0001)
