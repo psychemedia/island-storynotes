@@ -4,7 +4,7 @@
 *A Chronology, based largely on Naval Mutinies of 1797, Gill, 1913*
 
 
-Saturday, April 15th, Holy Saturday I.e. Easter Satruday, saturday between Good Friday and Easter Sunday) Bridport's flag raised but the men refused to sail.
+Saturday, April 15th, Holy Saturday I.e. Easter Saturday, saturday between Good Friday and Easter Sunday) Bridport's flag raised but the men refused to sail.
 
 Easter 1797 - 16 April
 

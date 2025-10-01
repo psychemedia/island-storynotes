@@ -34,7 +34,7 @@ Loud roars the rage of the sea;
 Bitter the edge of the Atherfield-ledge,  
 From the which God keep us free!  
 White gleam the teeth of the surges high  
-And ghsten the rocks for their toll;  
+And glisten the rocks for their toll;  
 Black race the clouds o'er the face of the sky  
 Like fiends in pursuit of a soul.  
 Go, all who have kin on the sea this night  
