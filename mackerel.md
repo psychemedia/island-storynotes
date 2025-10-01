@@ -1,6 +1,6 @@
 # Mackerel Fishing
 
-If you had been sitting out on St Catherine's Down, overlooking Chale Bay, in May or early June, a hundred and fifty years or so ago, it's quite likely that you'd be sitting there waiting for the sea to turn an inky black with the arrival of large shoals of mackerel.
+If you had been sitting out on St Catherine's Down, overlooking Chale Bay, in May or early June, a hundred and fifty years or so ago, it's quite likely that you'd be sitting there waiting for something...
 
 ```{admonition} *The Mackerel Fishers (poem)*, 1886
 
@@ -55,6 +55,10 @@ The silvery mackerel.
 
 Chale, I.W. — G. A.
 ```
+
+## The Arrival of the Mackerel
+
+As the old reports would have it, the sea would turn an inky black with the arrival of *large shoals of mackerel*.
 
 ```{admonition} The mackerel arrive, all alivo, 18 May 1870
 :class: dropdown
