@@ -15,6 +15,19 @@ And thereby lays another tale...
 
 
 
+---
+
+
+[https://archive.org/details/calendarofpaten01grea/page/604/mode/2up p604, Membrane 5d]
+'1313. June 8, Westminster. The like to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.' (5)
+
+[https://archive.org/details/calendarofpaten02grea/page/54/mode/2up p55, Membrane 18d]
+'1313. July 24. Westminster. Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the *st. Mary* of Bayonne with 174 tuns of white wine at the town of Tormay on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of southampton, notwithstanding that many of the mariners escaped alive to land.' (6)
+
+[https://archive.org/details/calendarofpaten02grea/page/148/mode/2up pp. 149-50, Membrane 9d.]
+'1314, May 26, Newcastle-upon-Tyne. The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitte: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s.' (7)
+
+
 --
 
 The most comprehensive report regarding the historical tale of Walter de Godeton's dealings with the shipwrecked wine from the St. Mary can be found in John Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*:
