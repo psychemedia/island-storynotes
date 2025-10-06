@@ -41,6 +41,13 @@ Isle of Wight County Press and South of England Reporter - Saturday 18 July 1885
 
 ---
 
+
+Solent Bye-laws / fisheries enquiry
+
+[Isle of Wight County Press - Saturday 07 November 1896](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18961107/126/0007)
+
+
+
 WInter Gilten Market
 
 https://www.islandlifemagazine.co.uk/the-history-of-the-gilten-market/
