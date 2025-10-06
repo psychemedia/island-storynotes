@@ -23,7 +23,7 @@ Derelict can refer to goods that have sunk to the ocean floor, relinquished will
 
 
 
-https://archive.org/details/bim_eighteenth-century_lex-mercatoria-or-the-_jacob-giles_1729/page/360/mode/2up?q=%22any+place+be+so+barbarous%22
+https://archive.org/details/bim_eighteenth-century_lex-mercatoria-or-the-_jacob-giles_1729/page/144/mode/2up
 
 Lex mercatoria: or, the merchant's companion. Containing all the laws and statutes relating to merchandize. ... The second edition corrected, with the addition of three entire new chapters. And also a merchant's dictionary, ...  1729
 by Jacob, Giles
@@ -34,106 +34,81 @@ p. 145-151
 
 CHAP. V.
 
-Of Wrecks, in whom the Property is oefted by the Civil Law; Of the King's Prerogatioe in Relation to Wrecks; And of the Admiralty; Of Flotsam, Jetsam, and Lagan, &c., T0
+Of Wrecks, in whom the Property is vested by the Civil Law; Of the King's Prerogative in Relation to Wrecks; And of the Admiralty; Of Flotsam, Jetsam, and Lagan, &c.
 
-N ancient Times, all Wrecks belong'd to the Crown; but by stat. 3 Ed. 1. it is ordained, that when either a Man, a Dog, or a Cat, or any Thing escapes alive out of the ship, there shall be no Wreck, but the same shall be kept a Year and a Day by the sheriff, to be restored to any Person that can prove a Property in the Goods within that Time; and if no Body comes, then the same is to be forfeited to the King, or rather the Lord High Admiral, to whom they are granted by Patent.
+IN ancient Times, all Wrecks belong'd to the Crown; but by stat. 3 Ed. 1. it is ordained, that when either a Man, a Dog, or a Cat, or any Thing escapes alive out of the ship, there shall be no Wreck, but the same shall be kept a Year and a Day by the sheriff, to be restored to any Person that can prove a Property in the Goods within that Time; and if no Body comes, then the same is to be forfeited to the King, or rather the Lord High Admiral, to whom they are granted by Patent.
 
-But it was usual to seise Wrecks as forfeited to the King, only when no Owner could be found; for the Property being in that Case in no Man, it must of Consequence belong to the King, as Lord of the narrow seas, which he is obliged to scower of Pyrates, &c. and the Product of Wrecks was ordained to contribute to the Charge. And Bratton says, there shall be no Wreck where the Owner comes ' and makes Claim to the Goods, without Limitation of Time. 0
+But it was usual to seize Wrecks as forfeited to the King, only when no Owner could be found; for the Property being in that Case in no Man, it must of Consequence belong to the King, as Lord of the narrow seas, which he is obliged to scower of Pyrates, &c. and the Product of Wrecks was ordained to contribute to the Charge. And *Bracton* says, there shall be no Wreck where the Owner comes and makes Claim to the Goods, without Limitation of Time.
 
-If a ship be ready to sink, and all the Men therein, for the Preservation of their Lives, quit the ship, and afterwards she perishes; if any of the Men are saved, and come to Land, the Goods are not lost, |
+If a ship be ready to sink, and all the Men therein, for the Preservation of their Lives, quit the ship, and afterwards she perishes; if any of the Men are saved, and come to Land, the Goods are not lost.
 
-A ship on the sea was chased by an Enemy; the Men therein, for the security of their Lives, quitted 
+A ship on the sea was chased by an Enemy; the Men therein, for the security of their Lives, quitted the Ship; the Enemy took the Ship, and spoil'd her of her Goods and Tackle, and turned her to sea; by stress of Weather she is cast on Land, where it happen'd her Men safely arriv'd. It was resolved, that the ship was no Wreck. 5 R. 2. Fishlake's Case. Co. 2. Inst. fol. 167.
 
-her of her Goods and Tackle, and turned her to sea; by stress of Weather she is cast on Land, where it happen'd her Men safely arriv'd. It was resolved, that the ship was no Wreck. 5 R. 2. Fishlake's Case. Co. 2. Inst. fol. 167.
+Where a Wreck happens by any Fault or Negligence in the Master or Mariners, the Master must make Good the Loss; but if the same was occasioned by the Act of God, or done to avoid an Enemy, or Pyrate, &c. there he shall be excus'd. And if the Master, or any of the Mariners lie ashore, and the ship during their Absence, perisheth, whether by Night or by Day, the Master or Mariners, so lying ashore, shall sustain the Damage; and those who remain'd in the ship, shall be excused. Leg. Rhod.
 
-Where a Wreck happens by any Fault or Negligence in the Master or Mariners, the Master must make Good the Loss; but if the same was occasioned by the Act of God, or done to avoid an Enemy, or Pyrate, Ec. there he shall be excus'd. And if the Master, or any of the Mariners lie ashore, and the ship during their Absence, perisheth, whether by Night or by Day, the Master or Mariners, so lying ashore, shall sustain the Damage; and those who remain'd in the ship, shall be excused. Leg. Rhod. | If a ship and Goods perish in the sea, and the Owners abandon her, so that she becomes a mere Derelict; in such Case, the first Person that takes Possession of her, and. recovers any Part of the Lading, gains a Property by the Laws of Nations. And if a ship perishes only, and the Goods are safe; in that Case, by the Rhodian Law, the Goods ought to pay a Proportion of a fifth or tenth Penny, according. to the Difficulty in saving the Goods; (wherein rich Goods, such as Gold and silver, silk, &c. pay less than Goods of great Weight and Cumber, they being in less Danger) for the salvage.
+If a ship and Goods perish in the sea, and the Owners abandon her, so that she becomes a mere Derelict; in such Case, the first Person that takes Possession of her, and recovers any Part of the Lading, gains a Property by the Laws of Nations. And if a ship perishes only, and the Goods are safe; in that Case, by the *Rhodian* Law, the Goods ought to pay a Proportion of a fifth or tenth Penny, according to the Difficulty in saving the Goods; (wherein rich Goods, such as Gold and silver, silk, &c. pay less than Goods of great Weight and Cumber, they being in less Danger) for the salvage.
 
-. Owners claiming a Wreck, must make sufficient Proof of their 'Title within the Year and Day ; and they are to do it by their Marks or Cocquets, by the Book of Customs, or the Testimony of reputable Men; and if the Wreck be taken by the King, the Party may sue out a Commission to hear and determine by the Oaths of twelve Men ; or he may bring his Action at Law. E. N. B.
+Owners claiming a Wreck, must make sufficient Proof of their Title within the Year and Day; and they are to do it by their Marks or Cocquets, by the Book of Customs, or the Testimony of reputable Men; and if the Wreck be taken by the King, the Party may sue out a Commission to hear and determine by the Oaths of twelve Men; or he may bring his Action at Law. F. N. B. Fol. 12.
 
-Fol. 12. 25 When
+When Goods wreck'd are perishable, the sheriff may sell them within the Year and Day, and the sale shall be good; but he must dispose of them for the best Advantage, and account with the Owners. And by the Laws of France, all ships and Persons belonging to them, that shall be cast ashore by Tempest, or otherwise, upon the Coasts of that Kingdom, and every Thing that has escap'd shipwreck, is declared to be taken into the Protection of the King.
 
-= At.
+By the Civil Law, if any Person steal shipwreck'd Goods, they shall pay four-fold to the Owner, if pursued within a Year and a Day, and as much to the Prince, or his Admiral; and so careful is this Law in requiring Restitution, that the very stealing of a Nail, or the Worth thereof, oblig'd the Thief to the Restitution of all the remaining Goods. And by the Emperor Antonius was made a Law, That such Criminals should be banish'd for three Years, if they were of high Rank; and those that were base and ignoble, were to be scourged and sent to the Gallies. By the same Law, if any Man should prevent Assistance to shipwreck'd Persons, he was to be punish'd as a Murderer; and the like Punishment was ordain'd for those who should, by Treachery, put forth any Lanthorn or Light, with Intention to subject them to Danger or shipwreck. Hence it is that Fishers are forbidden to fish with Lights in the Night.
 
+If Goods are wreck'd on shore, and the Lord, having Power, takes them, he shall not pay Custom, neither by the Common Law, nor by the statute Law; for at the Common Law, wreck'd Goods could not be charg'd with Custom, by Reason the Wreck is wholly the King's, and he could not have a Custom out of what was all his own. Stat. West. 1. Shep versus Gosnold. Hill. 23 & 24 Car. 2. Rot. 615.
 
+And Wines or other Goods, coming or brought into the Kingdom by Wreck, are not imported by any Body, but by the Wind and sea; for such Goods are destitute of a Proprietor, until the Law appoints one: And wreck'd Goods are not brought into the Kingdom, (being cast ashore) as Merchandise for sale. Goods drown'd, or lost in passing a Ferry, a great River, or Arm of the sea, are not to be said exported, although they be carried to sea.
 
-When Goods wreck'd are perishable, the sheriff may fell them within the Year and Day, and the sale shall be good; but he must dispose of them for the best Advantage, and account with the Owners. And by the Laws of France, all ships and Persons belonging to them, that shall be cast ashore by Tetnpest, or otherwise, upon the Coasts of that Kingdom, and every Thing that has escap'd shipwreck, is declared to be taken into the Protection of the King. |
+By stat. 12 Annae c. 18. it is enacted, That sheriffs, Justices of Peace, Head Officers of Towns, &c. and Officers of the Customs, in all Places where a ship shall be in Danger of being stranded, or run on shore, upon Application to them made on Behalf of the Commander of the ship, shall command the Constables to assemble as many Men as shall be necessary for the Preservation of the ship. And if there be any ships of War lying at Anchor near the Place, then the Officers of such ships are to send forth their Boats, and as many Men as they can spare, to her Assistance, under the Penalty of 100*l.* to be recover'd by the Officer of the ship in Distress.
 
-By the Civil Law, if any Person steal ship-
+When a ship is preserv'd by these Means, the Persons who assisted therein, shall, within thirty Days after, be paid a reasonable Reward for the same, by the Officer of the ship, or Merchant; and in Default thereof, the ship or Goods shall remain in the Custody of the Officers of the Customs, as a security.
 
-.wreck'd Goods, they shall pay four-fold to the
+Persons entering such ship in Distress, without Leave from the Commander, Constable, &c. or molesting any one in the salvage, shall make double satisfaction within twenty Days. And if any Goods are carried off from such ship, and found on any Person, if they are not delivered to the Owner on Demand, such Person shall be liable to pay treble the Value of the Goods.
 
-Owner, if pursued within a Year and a Day, and as much to the Prince, or his Admiral; and fo careful is this Law in requiring Restitution, that the very stealing of a Nail, or the Worth thereof, oblig'd the Thief to the Restitution of all the remaining Goods. And by the Emperor Antonius
+If any Officer of the Customs, or his Deputy, abuse the Trust reposed in him, and shall be convicted thereof, he shall forfeit treble Damages to the Party grieved, and be incapable of any Employment in the Customs.
 
-was made a Law, That such Criminals snould be banish'd for three Years, if they were of high Rank; and those that were base and ignoble,
+And by this statute to make a Hole in the Bottom, side, or in any Part of the ship; or do any Thing tending to the Loss of the ship, is made Felony, without the Benefit of Clergy.
 
-were to be scourged and sent to the Gallies. By the same Law, if any Man should prevent Assist-
+This Act is not to extend to deprive the Crown, or any Grantee, of any Right or Claim to any Wreck or Goods that shall be *Jetsam*, *Flotsam*, or *Lagan*.
 
-- ance to shipwreck'd Persons, he was to be punish'd
+*Flotsam, Jetsam, &c.*
 
-as a Murderer; and the like Punishment was ordain'd for those who should, by Treachery, put forth any Lanthorn or Light, with Intention to sabject them to Danger or shipwreck. Hence it is that Fishers are forbidden to fish with Lights in the Nighr. 15D 50 ; * 912
+*Flotsam*, *Jetsam*, and *Lagan*, are Goods on or in the sea, and belong to the King or Lord Admiral,
 
-If Goods are wreck'd on shore, and the Lord, having Power, takes them, he shall not pay Custom, neither by the Common Law, nor by the statute Law; for at the Common Law, wreck'd Goods could not be charg'd with Custom, by Reason the Wreck is wholly the King's, and he could not have a Custom out of what was all his own. stat. West. 1. shep versus Gosnold. Hill. 23 & 24
+*Flotsam* is when a ship is sunk or cast away, and the Goods float upon the sea.
 
-' Cir. 8. Rot. 615.
+*Jetsam* is where the ship is in Danger of sinking, and the Goods are cast into the sea for the lightening of the ship, and notwithstanding the ship perisheth.
 
-nd Wines or other Goods, coming or brought
+*Lagan* is when heavy Goods are cast into the sea before the Perishing of the ship; and being sunk, the Master or Mariners fasten a Buoy, or other sea-Mark, to them, whereby they may more easily be directed to the Place where they lie.
 
-into the Kingdom by Wreck, are not imported T any Body, but by the Wind and sea; for suc
+The King shall have *Flotsam*, *Jetsam*, and *Lagan*, when the ship perisheth, or when the Owners of the Goods are not known, but not otherwise. F. N. B. 122.
 
-Goods are destitute of a Proprietor, until the Law
+A Man may have *Flotsam* and *Jetsam* by the King's Grant; and may have *Lagan* within the high and low Water-Mark by Prescription, as it appears in the Ve- Country, where the Lords of Manors prescribe to have Wreck in the sea, so far as they can see a Humber-Barrel.
 
-appoints one: And wreck'd Goods are not brought into the Kingdom, (being cast ashore) as Merchandise for sale. Goods drown'd, or lost in passing a Ferry, a great River, or Arm of the sea, are not to be said exported, although they be carried to sea. . | By stat. 12 Anne c. 18. it is enacted, That sheriffs, Justices of Peace, Head Officers of Towns, &c. and Officers of the Customs, in all Places where a ship shall be in Danger of being stranded, or run on shore, upon Application to them made on Behalf of the Commander of the ship, - shall command the Constables to assemble as many Men as shall be necessary for the Preservation of the ship. And if there be any ships of War lying at Anchor near the Place, then the Officers of such ships are to send forth their Boats, and as many Men as they can spare, to her Assistance, under the Penalty of 1001. to be recover'd by the Officer of the ship in Distress. Eb % 00s When a ship is preserv'd by these Means, the Persons who assisted therein, foal, within thi Days after, be paid a reasonable Reward for the same, by the Officer of the ship, or Merchant; and. in Default thereof, the ship -or Goods shall remain in the Custody of the Officers of the Customs, as a security. I * Persons entering such ship in Distress, without Leave from the Commander, Constable, E5c.-: or molesting any one in the salvage, shall make double satisfaction within twenty Days. And if any Goods are carried off from such ship, and found on any Person, if they are not delivered to the Owner on Demand, such Person shall be liable to pay treble the Value of the Goods.
+*Wreccum Maris* are such Goods only as are cast and left upon the Land by the sea.
 
-If any Officer of the Customs, or his Deputy, abuse the Trust reposed in him, and shall be convicted thereof, he shall forfeit treble Damages to the Party grieved, and be incapable of any Employment in the Customs. 5 nd by this statute to make a Hole in the Bottom, side, or in any Part of the ship; or do any Thing tending to the Loss of the ship, is made Felony, without the Benefit of Clergy.
+By the Grant of Wreck will pass *Flotsam*, *Jetsam*, and *Lagan*, when they are cast upon the Land; but if they are not cast upon the Land, the Admiral hath Jurisdiction, and not the Common Law, and they cannot be said to be Wreck.
 
-This Act is not to extend to deprive the Crown, or any Grantee, of any Right or Claim to any Wreck or Goods that shall be Fetsam, Flotsam, or Lagan.
+King Edward the second, in the first Year of his Reign, granted by Charter the Castle of Carisbrook, with all the Lands and Tenements, in the Isle of Vight, then formerly belonging to the Countess of Albemarle, to his Favourite Peter de Gaveston and Margaret his Wife, and the Heirs of their two Bodies begotten, with several other Castles and Lands; but they being soon after reseized into the King's Lands, he granted this Castle, with all its services, and all his Lands in that Isle, to Edward his son, and his Heirs, Kings of England; and afterwards, for the ascertaining what did of Right belong to the same Castle, a Writ of Inquisition was issued out, by which it was found *inter alia, quod wreccum Maris, pertinens ad dictum Castrum*, &c.
 
-Flotsam, Fetsam, &c.
+So that without special Words in the Patent granted to the Lord High Admiral, the Wreck of this Isle will not pass.
 
-Flotsam, Fetsam, and Lagan, are Goods on or in the sea, and belong to the King or Lord Admiral,
+*An Affidavit that a ship is cast away.*
 
-Flotsam is when a ship is sunk or cast away, and the Goods float upon the sea.
+A. B. of, &c. Mariner, lately hir'd in the good ship, &c. in a Voyage to, &c. maketh Oath, That on, &c. last past, near the Cape of, &c. the said ship, proceeding in her said Voyage, was cast away in a storm, whereby the said ship, the Cargo, and all the Goods on Board perished, and were intirely lost: And that only the Master and, &c. of the Men were saved, the rest of the ship's Crew being drown'd. *And* this Deponent farther deposeth, That neither he, this Deponent, nor any other, to his Use, hath received, or doth expect to receive any Benefit of or by the Goods so lost, or any Part thereof, by any Ways or Means whatever.
 
-Jetsam is where the ship is in Danger of sinking, and the Goods are cast into the sea for the lightening of the ship, and notwithstanding the ship perisheth.
-
-Lagan is when heavy Goods are cast into the sea before the Perishing of the ship; and being sunk, the Master or Mariners fasten a Buoy, or other sea-Mark, to them, whereby they may more easily be directed to the Place where they lie.
-
-The King shall have Flotsam, Fetsam, and Lagan, when the ship perisheth, or when the Owners of the Goods are not known, but not otherwise. F. N. B. 122. |
-
-A Man may have Fltsam and Fetsam by the King's Grant; and may have Lagan within the high and low Water-Mark by Prescription, as it
-
-appears in the Ve- Country, where the Lords of
-
-Manors prescribe to have Wreck in the sea, so far
-
-as they can see a Humber-Barrel. | Wreccum Maris are such Goods only as are cast
-
-and left upon the Land by the sea.
-
-By the Grant of Wreck will pass Flotsam, Fetsam, and Lagan, when they are cast upon the Land; but if they are not cast upon the Land, the Admiral hath Jurisdiction, and not the Com: mon Law, and they cannot be said to be Wreck.
-
-King Edward the second, in the first Year of his Reign, granted by Charter the Castle of Carisbrook, with all the Lands and Tenements, in the Isle of Vight, then formerly belonging to the Countess of Albemarle, to his Favourite Peter de Gaveston and Margaret his Wife, and the Heirs of their two Bodies begotten, with several other Castles and Lands; but they being soon after reseised into the King's Lands, he granted this Castle, with all its services, and all his Lands in that Isle, to Edward his son, and his Heirs, Kings of England ; and afterwards, for the ascertaining what did of Right belong to the same Castle, a Writ of Inquisition was issued out, by which it was found inter alia, quod wreecum Maris, pertinens ad dittum Castrum, c. | so that without special Words in the Patent granted to the Lord High Admiral, the Wreck of
-
-this Isle will not pass.
-
-An Affidavit that a ship is cast away.
-
-B. of, &c. Mariner, lately hir'd in the good ship, &c. in a Voyage to, Ec. maketh Oath, That on, &c. last past, near the Cape of, Ec. the said ship, proceeding in her said Voyage, was cast away in a storm, whereby the said ship, the Cargo, and all the Goods on Board perished, and
-
-were intirely lost: And that only the Master and, &c. of the Men were saved, the rest of the ship's Crew being drown'd. And this Deponent farther deposeth, 'That neither he, this Deponent, nor any other, to his Use, hath received, or doth expect to receive any Benefit of or by the Goods so lost, or any Part thereof, by any Ways or Means whatever. |
-
-A Testimonial for a Person suffering shipwreck.
+*A Testimonial for a Person suffering shipwreck.*
 
 TO all Constables, &c. Greeting, Whereas A. B. the Bearer hereof, aged about, &c. having this Day been before me C. D. Esq; one of his Majesty's Justices of the Peace for the County of, &c. and made it appear, that on, &c. last, he the said A. B. being on Board the ship called, Ge. suffer'd. shipwreck on the Coast of, &c. and with much ado got to Land at, &c. And the said A. B. by Reason of his Indisposition, occasion'd by the said shipwreck, is become unable to travel to his Place of settlement, or to relieve himself in his Journey thither. These are therefore to require and desire you not only to permit the said A. B. to travel to, &c. the Place of his Birth, without Molestation, but also to assist him in his Conveyance thither, and in the necessary Expences for his Relief in his Journey. Given, &c.
 
 
+https://archive.org/details/bim_eighteenth-century_lex-mercatoria-or-the-_jacob-giles_1729/page/360/mode/2up
 pp.360-83
 
 CHAP. XI.
 
 A summary of the sea Laws of Oleron, made by King Richard I. with some Notice of the sea Laws of Rhodes, Wisbuy, &c. relating to Merchants, Masters of ships, and Mariners.
 
-
+TO DO
 
 ---
 
@@ -242,10 +217,10 @@ LOCATION:	sZ 4660 7669
 Carried 174 tuns of white wine belonging to the Duchy of Aquitaine, Regimus de Depe, owner. ship lost on the sunday after Easter, with many survivors. Many casks of wine removed from the beach by local men. Complaint by the merchants, viz Elie Byger, Frederick Campanare and Bernard Columers, all of Gascony, resulted in the case being the first heard at southampton on 8-JUN-1313. It was claimed that 154 tuns had reached the Isle of Wight beaches, of which much was stolen, the loss to the merchants being £1,000. There was also some action taken concerning the wreck and sir Goditon and the pepper-box lighthouse on the Isle of Wight. Quarr Abbey account names the ship as the BLEssED MARY. (1)
 A ballad reads: '...she carried in her hold a delicious wine... white wine it was, the finest, and what's more, there were one hundred tuns and seventy four. Now soon, as water crashed upon her deck, the brave sT MARY was a total wreck.' (Ballads of the Isle of Wight) (1)
 
-In 1313 occurred the most famous of the island's medieval wrecks, the sT MARY of Bayonne. The ship of the BLEssED MARY was sailing from Bayonne in Gascony with a cargo of 174 barrels of white wine from the Duchy of Aquitaine. she was bound for Picardy, where the wine would be delivered to the monastery of Livers. However, the MARY was blown off course, far to the north, and on the 22-APR-1313 she was driven ashore in Chale Bay, in the remote and wild wastes of the 'Back of Wight'. (2)
+In 1313 occurred the most famous of the island's medieval wrecks, the ST MARY of Bayonne. The ship of the BLESSED MARY was sailing from Bayonne in Gascony with a cargo of 174 barrels of white wine from the Duchy of Aquitaine. she was bound for Picardy, where the wine would be delivered to the monastery of Livers. However, the MARY was blown off course, far to the north, and on the 22-APR-1313 she was driven ashore in Chale Bay, in the remote and wild wastes of the 'Back of Wight'. (2)
 
-On the sunday after Easter 1313, which was 22nd April, a wreck occurred under Chale. It was a ship from Bayonne, called the ship of BLEssED MARY, which had been loaded at Tonnay, on the Charente in Aquitaine, with a cargo of 174 barrels of white wine. There were many survivors, but most of the casks of wine were removed from beaches by local men. As the owners Elie Byger, Frederick Campanare and Bernard Columers were from Gascony, the King wished justice to be done to the complaint, especially as they were his subjects at that date. The case was first heard at southampton 8th June 1313, then Winchester 20th July 1313 and finally restitution and damages were finally settled at the court held on Wednesday in the first week of Lent, 22nd February 1314. (3)
-Walter de Goditon and his cronies, when standing before a jury in southampton on 8th June 1313, had audaciously removed some 57 casks of white wine from the sAINTE MARIE after she had been wrecked in Chale Bay. (4)
+On the sunday after Easter 1313, which was 22nd April, a wreck occurred under Chale. It was a ship from Bayonne, called the ship of BLESSED MARY, which had been loaded at Tonnay, on the Charente in Aquitaine, with a cargo of 174 barrels of white wine. There were many survivors, but most of the casks of wine were removed from beaches by local men. As the owners Elie Byger, Frederick Campanare and Bernard Columers were from Gascony, the King wished justice to be done to the complaint, especially as they were his subjects at that date. The case was first heard at southampton 8th June 1313, then Winchester 20th July 1313 and finally restitution and damages were finally settled at the court held on Wednesday in the first week of Lent, 22nd February 1314. (3)
+Walter de Goditon and his cronies, when standing before a jury in southampton on 8th June 1313, had audaciously removed some 57 casks of white wine from the SAINTE MARIE after she had been wrecked in Chale Bay. (4)
 
 [https://archive.org/details/calendarofpaten01grea/page/604/mode/2up p604, Membrane 5d]
 '1313. June 8, Westminster. The like to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.' (5)
@@ -256,7 +231,7 @@ Walter de Goditon and his cronies, when standing before a jury in southampton on
 [https://archive.org/details/calendarofpaten02grea/page/148/mode/2up pp. 149-50, Membrane 9d.]
 '1314, May 26, Newcastle-upon-Tyne. The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitte: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s.' (7)
 
-NB: There is a record for a French cargo vessel which was reported in the Privy Council Papers in 1314 as stranded in Chale Bay, en route from Bayonne to Flanders with wine. Enough of the details are consistent with the sT MARY to suspect that this may be an alternative account of the same vessel, particularly as wrecks tend to turn up in state Papers several months or even years after the initial incident, and this would appear to sound close to the account in source (6). Alternatively, there may be two wrecks in question, the sT MARY, which was definitively bound for England, according to source (5), and the other vessel bound for Flanders. Byger, Campan[ar]e and Colum[in]ers appear to have been involved in the former, (5) and appear as fraudulent claimants in the latter (7). It is therefore possible that these may be one and the same wreck, but it is also possible that if they had not obtained restitution for their wreck, they instead claimed a stake in another wreck nearby. (8)
+NB: There is a record for a French cargo vessel which was reported in the Privy Council Papers in 1314 as stranded in Chale Bay, en route from Bayonne to Flanders with wine. Enough of the details are consistent with the ST MARY to suspect that this may be an alternative account of the same vessel, particularly as wrecks tend to turn up in state Papers several months or even years after the initial incident, and this would appear to sound close to the account in source (6). Alternatively, there may be two wrecks in question, the ST MARY, which was definitively bound for England, according to source (5), and the other vessel bound for Flanders. Byger, Campan[ar]e and Colum[in]ers appear to have been involved in the former, (5) and appear as fraudulent claimants in the latter (7). It is therefore possible that these may be one and the same wreck, but it is also possible that if they had not obtained restitution for their wreck, they instead claimed a stake in another wreck nearby. (8)
 
 ship owner: Regimus de Depe (1); Remigius de Depe (7)
 
