@@ -2,8 +2,10 @@
 
 I first heard this poem at a [Forest Folk Club](https://forestfolkclub.com/) (Forest of Dean folk night), recognising Noyes as a one time Island resident (he had a house on the island, Lisle Combe, on the Undercliff, from 1929).
 
-We can probably pull an interesting ghost story from it...
+My thinking? We can probably pull an interesting ghost story from it...
 
+```{admonition} Alfred Noyesm *The Highwayman*, 1906
+:class: dropdown
 Blackwood's Magazine, August, 1906, pp. 244-7.
 
 THE HIGHWAYMAN.  
@@ -165,10 +167,12 @@ Bess, the landlord's daughter,
 Plaiting a dark-red love-knot into her long black hair.  
 
 ALFRED NOYES.
+```
 
----
+So here it is 
 
-*An attempt at a telling...*
+```{admonition} *My first attempt at a telling...*
+:class: dropdown
 
 It was a dark night, a windy night, with just enough moonlight to see the ribbon of the road snaking across the moor, an ancient highway dotted with roadside inns, the service stations of their day, places to eat, places to drink, and places to stable your horse if you wanted to stay the night.
 
@@ -219,3 +223,4 @@ He cursed the sky, turned his horse again, and spurred like a madman to seek his
 The story doesn't quite end there, of course, how could it? Because it is said, that even to this day, when the night is dark, and the wind blows across it, with just enough moonlight to see the ribbon of the road by, as it snakes its way across the moor, you can hear the highwayman come riding towards that inn. You can hear a horse's hooves clatter across the cobble-stoned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, young woman tying a love knot in her long black hair. Bess, the landlord's daughter.
 
 And that is the tale of the highwaymen, once penned as a poem by a yound Alfred Noyes.
+```
