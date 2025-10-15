@@ -3,6 +3,7 @@
 If you had been sitting out on St Catherine's Down, overlooking Chale Bay, in May or early June, a hundred and fifty years or so ago, it's quite likely that you'd be sitting there waiting for something...
 
 ```{admonition} *The Mackerel Fishers (poem)*, 1886
+:class: dropdown
 
 [Isle of Wight County Press - Saturday 06 November 1886](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001960/18861106/022/0003)
 
