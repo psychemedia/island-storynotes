@@ -1,6 +1,6 @@
 # Legendary Origins of hte Isle of Wight
 
-Devil's dyke, last shovelful earth over shoulder became Isle of Wight;  Peta's friend
+Devil's dyke, last shovelful earth over shoulder became Isle of Wight;  Peta's friend (Gill?)
 
 
 
