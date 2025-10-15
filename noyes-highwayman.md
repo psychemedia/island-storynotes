@@ -4,7 +4,7 @@ I first heard this poem at a [Forest Folk Club](https://forestfolkclub.com/) (Fo
 
 My thinking? We can probably pull an interesting ghost story from it...
 
-```{admonition} Alfred Noyesm *The Highwayman*, 1906
+```{admonition} Alfred Noyes, *The Highwayman*, 1906
 :class: dropdown
 Blackwood's Magazine, August, 1906, pp. 244-7.
 
