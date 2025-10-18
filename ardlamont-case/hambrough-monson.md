@@ -153,7 +153,7 @@ Within the past few days the Ardlamont shooting case, briefly commented upon by 
 
 So briefly and so inaccurately was the affair of the 10th inst. reported that it may be well to give, even at this date,  
 A CORRECT AND FULL ACCOUNT  
-of it. At the outset is necessary to explain that the estate of Ardlamont is in the market for sale. It is an extensive and beautiful tract of country between Tighnabruaich and Lochfyne, and the passenger through the Kyles of Bute sees the southern extremity of it at the prominent portion of the northern mainland familiar as Ardlamont Point. The estate, according to the recent valuation, is worth about £82,000, and the upset price which it has been offered is £8O,OOO. A prospective purchaser of this old historic Cowal estate came forward last spring in the person of Mr Alfred John Monson, a Yorkshire gentleman, who now occupies the most unpleasant position of anyone involved in the shooting ease. He took the mansion house and shootings for the season as a temporary arrangement while the negotiations for the transfer of the estate were proceeding, and brought servants from England. A month or two later Mr Monson—who became very popular among the permanent officials and servants on the estate —was joined by a Mr Windsor Cecil Dudley Hamborough, a lieutenant in the 3rd Battalion West York Regiment (militia), whose "guardian" or trustee he was understood to be under the testament of a relative of Hamborough, who had left that gentleman a quarter of million of money. This money Mr Hamborough. who was 20 years of age, was to inherit on his majority. Mr Hamborough's arrival gave a new phase to the negotiations for the purchase of the estate, the understanding come to being that the purchase was to be a joint arrangement between Mr Monson and him. So far had the negotiations gone in this direction that it is probable, but for the affair of the 10th inst, the title-deeds would have been signed before now. A small steam launch, the "Alert," was purchased, and Mr Hamborough engaged  
+of it. At the outset is necessary to explain that the estate of Ardlamont is in the market for sale. It is an extensive and beautiful tract of country between Tighnabruaich and Lochfyne, and the passenger through the Kyles of Bute sees the southern extremity of it at the prominent portion of the northern mainland familiar as Ardlamont Point. The estate, according to the recent valuation, is worth about £82,000, and the upset price which it has been offered is £80,000. A prospective purchaser of this old historic Cowal estate came forward last spring in the person of Mr Alfred John Monson, a Yorkshire gentleman, who now occupies the most unpleasant position of anyone involved in the shooting ease. He took the mansion house and shootings for the season as a temporary arrangement while the negotiations for the transfer of the estate were proceeding, and brought servants from England. A month or two later Mr Monson—who became very popular among the permanent officials and servants on the estate —was joined by a Mr Windsor Cecil Dudley Hamborough, a lieutenant in the 3rd Battalion West York Regiment (militia), whose "guardian" or trustee he was understood to be under the testament of a relative of Hamborough, who had left that gentleman a quarter of million of money. This money Mr Hamborough. who was 20 years of age, was to inherit on his majority. Mr Hamborough's arrival gave a new phase to the negotiations for the purchase of the estate, the understanding come to being that the purchase was to be a joint arrangement between Mr Monson and him. So far had the negotiations gone in this direction that it is probable, but for the affair of the 10th inst, the title-deeds would have been signed before now. A small steam launch, the "Alert," was purchased, and Mr Hamborough engaged  
 A YOUNG MAN NAMED EDWARD SCOTT  
 as engineer. Scott is described as a very gentlemanly-looking Englishman, who came to Ardlamont on the 9th, was nearly all the time in the company of his employers, and was even privileged to dine with them. Beyond this, nothing is known about him at Ardlamont, and his sudden and inexplicable disappearance from the place within the past week has been one of the incidents which have set the police upon a new course of investigation.
 
@@ -431,6 +431,124 @@ The Press Association's Lymington correspondent telegraphs.— A tragically shoc
 
 ```
 
+TO DO - also mentions Charlotte Ann
+
+```{admonition} The Shooting Mystery, Portsmouth Times and Naval Gazette, Saturday 09 September 1893
+:class: dropdown
+In *Portsmouth Times and Naval Gazette*, Saturday 09 September 1893, [p3](https://britishnewspaperarchive.co.uk/viewer/bl/0001365/18930909/029/0003).
+
+THE SHOOTING MYSTERY.
+
+Exhumation of the Body.
+
+Charge of Murder.
+
+Will the Scotch mystery be satisfactorily explained? It is a question which is agitating the minds of hundreds, nay thousands who have watched the development of the events connected with the death of the late Lieutenant Windsor Dudley Cecil Hambrough, and possibly none await the result of the present investigation with keener interest than do the good people of Ventnor. The usually sedate town been has been strangely stirred, first by the news of the untoward death of the heir to the Steephill estates, and since by the allegations of foul play which have been rife. The Hambroughs of Steephill are well known in the Island. They built the church of St. Catherine—the mother church of Ventnor—and contributed £1,OOO towards its endowment, besides providing a vicarage for the incumbent; and in the sacred edifice—one of the most prominent features of the popular health resort—may be found brasses and mural tablets recording the deaths of notable Hambroughs since the year 1840. Of late years the family has been under a cloud; financial difficulties overtook Major Hambrough, the head of the house, and the coming of age of his eldest son next year was looked forward to with hope, as with his consent the entail that bound the estate could be broken. Major Hambrough, it may be remembered, for some time held a commission in the Isle of Wight Volunteers, and his eldest son was at the time of his death a lieutenant in the 3rd West Yorkshire (Militia) Regiment. He was not so well known in Ventnor as his parents, having paid but brief visits to bis home during the last twelve years of his life, but the name of Hambrough is still a household word, and a painful interest has been taken in his sad end and the mystery which appears to surround it.
+
+THE FATAL SHOT
+
+The first story of the shooting conveyed no suggestion of foul play. Young Mr. Hambrough was in Scotland, and about six o'clock on the morning of the 10th ult. went out for a day's sport among the rabbits on the Ardlamont estate (on the Firth of Clyde) with two friends—a Mr. Monson and Mr. Edward Scott. The latter had no gun but carried the bag, the party being unattended by keepers. They entered a cover about 500 yards from Ardlamont House, and it is said that young Hambrough separated from his companions and pushed through the undergrowth of furze. Monson alleges that they heard a shot, and on going in the direction of the sound saw the unfortunate young man dead, shot through the back of the head, lying in a ditch at the foot of a fence separating two covers. An examination of the circumstances by the local police at the moment led them to form the conclusion that death was the result of an accident, but the question has since been raised as to whether deceased could have shot himself at the back of the head, and also as to what gun he was using.
+
+THE INTERMENT
+
+Doubts as to the accidental theory did not arise, however, until some days later. Dr. McMillan, a local medical gentleman, had examined the body superficially, and the usual order for interment was given. By the wish of the relatives the remains were brought from Glasgow to Ventnor by boat and rail, the intention to inter them in the family vault in St. Catherine’s church, but to open this it was necessary to get a special order from the Home Secretary, and the permit did not arrive in time. Consequently the body, which was in a leaden coffin, enclosed in a massive casket of polished oak, was laid in a brick grave in the churchyard, near the western entrance to the church, in full sight of a busy thoroughfare. A maiden aunt, Miss Charlotte Anne Hambrough, who "fell asleep May 11th, 1870," lies buried in the same grave. On the breast of young Mr. Hambrough's coffin was a silver plate bearing the following inscription:—
+
+Windsor Dudley Cecil Hambrough, 
+Lietenant 3rd Battalion West Yorkshire Regiement,  
+died from gun accident,  
+Ardlamont, Argyleshire, 10th August, 1893,  
+Aged 20 years.
+
+The remains reached Ventnor on the 16th ult., and the interment took place on the following day (Thursday). Mr Monson was among the principal mourners, and with Major Hambrough stayed at the Royal Marine Hotel. During the evening he was unaccountably seized with fainting fit, and the assistance of Dr. Whitehead had to be invoked. It is stated that just before this attack he had been giving an account of the accident to the deceased’s father. His general demeanour seemed to be that of a man who was full of grief over the loss of an intimate friend, and he was extremely unwilling to talk of it until questioned.
+
+ORDER TO EXHUME.
+
+But it was not until last week that a suspicious view of the case was taken, and since then extraordinary developments have occurred. Mr. Monson's own descriptive details were challenged, and a search made for Mr. Scott, who, however, had vanished. Then Mr. Monson was arrested, accused of causing the death of his late friend, subjected (in accordance with Scotch law) to a private examination, and remanded in custody. What was revealed there has not yet been disclosed, but matters so shaped themselves that application was made to the Home Secretary for permission to exhume the body in order to make a more particular examination of the wound, and ascertain, if possible, with what sort of a weapon it was caused. Permission to do this was granted, and the necessary license forwarded to the Scotch Advocate-General.
+
+THE SCENE AT VENTNOR
+
+The development cause the utmost excitement at Ventnor, and St. Catherine's church and burial ground became the centre of attraction. It was generally understood that the disinterment would take place on Monday, but of the hour even the police were ignorant, and though Deputy Chief Constable Gibson and Divisional-Sergeant Adams had concentrated a considerable force of Island police they had no instructions to do more than wait. The hours passed slowly, and the crowd round the churchyard grew larger, until, at a quarter to four, the officials arrived. They were subsequently ascertained to be Mr. MacNaughten, Deputy Procurator-Fiscal; Dr. Littlejohn, of Edinburgh, representing the Crown; Mr, McLullich, Procurator-Fiscal for Inverary, who is prosecuting on behalf of the Crown; Dr. McMillan, who first examined the body at Ardlamont; and Dr. Sanders, representing Monson. They drove to the Royal Marine Hotel, and were shortly afterwards joined by Dr. Whitehead, representing the Hambrough family. In the meantime the Vicar of St. Catherine's (the Rev. J. Hall Shaw, who had conducted the funeral) waited upon the official gentlemen, and on receiving the license affixed his signature and formally handed over the churchyard for the purposes of the exhumation, his connection with the case then ceasing. Immediately instructions were given for the grave to be opened, and the operation was commenced without further delay, the workmen being watched by a crowd of spectators of both sexes, who lined the walls around the graveyard. The gravediggers found their gruesome task no light one, and an hour passed painfully and tediously before at length the coffin was exposed. No one was allowed inside the ground, except the police and those bearing the Home Office warrant, but the spectators could clearly see the remains lifted out and transferred to hears which was in waiting to carry them to the mortuary in the cemetery at Upper Ventnor, about a mile along the hill.
+
+THE EXAMINATION.
+
+The polished oak coffin, which, with it silver mountings, seemed scarcely tarnished, was, on arrival at the cemetery, taken into the mortuary room and opened. But when the lid was removed it was evident that the medical men had an extremely unpleasant task before them, The leaden shell showed signs of leakage, and even before the lid was unsoldered the effluvia was simply overpowering. The docotors stood it bravely for some time, but it was found impossible to conduct the examination within the building, so the body was, by their directions, taken on a bier into a secluded spot in the open air, where the uncongenial task was performed. A local photographer, Mr. Porter, was in attendance, and at the request of the authorities took several negatives of the head both before and after dissection. Some startling rumours were in circulation, and it was even suggested that the corpse in the coffin was not that of Lieutenant Hambrough at all, but we are in a position to state that the body was positively identified as that of the unfortunate young officer.
+
+ITS RESULT.
+
+The examination was, of course, strictly private, and those engaged in it are naturally reticent as to the result, which will be reported in due course to the English and Scotch Home Offices. It is understood, however, that it was clearly established that Lieutenant Hambrough could not have been shot by his own gun. Several pellets were found in the head, and it was demonstrated that the shots entered the head from the back and passed out at the back of the ear, a portion of which was carried away. All the men were, it is understood, satisfied that there was no singeing of the hair or skin around the wound.
+
+THE RE-INTERMENT.
+
+It was not until nearly nine o'clock that the examination was finally concluded, and the body once more sealed up. An hour later the remains were re-consigned to their last resting-place the pretty little churchyard. No ceremony marked the occasion, but in spite of the lateness of the hour a considerable number of people watched the filling in of the grave by the flicking light of the lanterns carried by the sexton’s men.
+
+THE INSURANCE POLICIES: MAJOR HAMBROUGH'S STATEMENT
+
+Although not taking an active part in the grim an proceedings, Major Hambrough was present in Ventnor during the afternoon and evening, being accompanied by Mr. Houston (who was for some time agent to the estate), and Mr. Livesay, architect, of Ventnor. Our reporter interviewed Major Hambrough in the course of the afternoon, but he was unwilling to make any direct reference to the case, as he has been called upon by the police to give evidence. Asked as to the accuracy of the statement that his son’s life was insured, he said, "Yes, that is true. He was insured in the New York Mutual Office in two policies of £10,000 each, and these were assigned to Mrs. Monson." The importance of this statement is evident when it is remembered that only a day or two since an_emphatic denial was given to a statement published that an asignment had been made to Mr. Monson, the accused. Major Hambrough also stated that his son had lodged further proposals of insurance with an English office, but the offer had been declined in consequence of the largeness of the amount.
+
+MR. MONSON AND THE ARDLAMONT ESTATE.
+
+A Glasgow paper has stated that if the case goes for trial some sensational revelations as to the antecedents of the parties will be made. Mr, Monson, the accused, was tutor to the deceased, and is 33 years of age, having been born in 1860. He is a younger son of the late Rev. Thomas J. Monson, of Kirkby-under-Dale, his mother being a daughter of the fifth Viscount Galway. Mr. Monson is a member of the family of which Viscount Oxenbridge, the Master of the Horse, is the head, his grandfather, the Hon. and Rev. Thomas Monson, Rector of Bedale, having been a son of the second Baron Monson, and the grand-uncle of the present peer.
+
+Ardlamont estate, where the fatality occurred, is one of the oldest in Argyleshire, and has been in the possession of the Lamonts of Cowal from time immemorial. Its present size is nothing to what it was in its early history. The estate has a beautiful situation between the Kyles of Bute and Loch Fyne, its whole extent covering 11,000 acres. About one-fifth of that acreage is arable land, the remainder consisting of hill pasture, moorland, and woodland. The mansion-house is distant some six or seven miles from Tighnabruaich, and stands on a gentle acclivity overlooking Loch Fyne. Colonel Lamont, the former proprietor, died not long ago, and his executors disposed of the estate to Monson and Hambrough, who became joint proprietors. Monson, however, seems to have been released of the purchase, as the estate is in the market again. The upset price is £80,000.
+
+MONSON COMMITTED FOR TRIAL.
+
+Mr. Monson, who has been arrested in connection with the Ardlamont mystery, was on Wednesday fully committed for trial on a charge of murder. The Argylishire Procurator-Fiscal, Mr. McLullich, and his deputy, Mr. McNaughton, who arrivedin Glasgow from England yesterday morning, at once to Inverary. De. McMillan also returned there, The Fiscal declined to give any information as to the results of the post-mortem examination, stating that the report of the doctors was not yet in his hands. Mr. McLullich would not commit himself so far as to say whether the examination was or was not favourable to the case for the prosecution; but it is understood that the medical evidence tends towards the theory that Lieutenant Hambrough did not meet his death by his own carelessness. At any rate the authorities had concluded that the testimony which they have obtained entirely justify them in committing Monson for trial. It is understood that the police are in possession of information of a very important character regarding Mounson's antecedents. Yesterday artists who were specially down from London to take sketches were not allowed to approach near the spot where the body was found, or Ardlamont House, the object being to prevent any person tampering with a small tree, the twigs of which have, it is believed, been ploughed with leaden pellets from a gun. The authorities are determined to keep this tree, as well as the surroundings, intact until photographs are taken. The officials admit that they have not the slightest trace of Scott.
+
+SHOCKING AFFAIR AT LYMINGTON
+
+On Tuesday morning, at Walhampton, near Lymington, Henry Carr, a gamekeeper, was talking to the landlord of a local public house, when the conversation turned upon the Ardlamont shooting mystery. Carr insisted that it was possible that Mr. Hambrough's injuries were self-inflicted, and, in order to demonstrate this, he took up his gun, placed it behind his back with one hand, and reaching down with the other, pulled the trigger. The gun happened to bo loaded, and Carr blew the top of his skull off, causing injuries from which he died on Wednesday. He leaves a widow and nine children.
+```
+
+```{admonition} MR. HAMBROUGH'S DEATH, Yorkshire Evening Post*, Tuesday 05 September 1893
+:class: dropdown
+
+In *Yorkshire Evening Post*, Tuesday 05 September 1893, [p3](https://britishnewspaperarchive.co.uk/viewer/bl/0000273/18930905/005/0003).
+
+MR. HAMBROUGH'S DEATH.
+
+EXAMINATION OF THE BODY.
+
+"WOUND NOT SELF-INFLICTED."
+
+STARTLING CONCLUSIONS.
+
+MORE ABOUT THE INSURANCE POLICIES.
+
+The body of Lieutenant Windsor Cecil Dudley Hambrough was exhumed yesterday afternoon at Ventnor, in the presence of an immense crowd of spectators. Early in the day a communication had been received by the Rev. J. Hall Smith, vicar of St. Catherine's, the Mother Church, from the Lord Advocate, to the effect that the application to the Home Secretary for order to exhume the body had been successful, and that the gentlemen having the matter in hand on behalf of the Government would arrive at Ventnor by three o'clock in the afternoon with full power to remove the body. The deceased, like his father, was well known at Ventnor, and when Major Hambrough arrived by the London train shortly before four o'clock, he met with many expressions of sympathy. It is stated that he was at the Home Office on Sunday from eleven till seven o'clock with his legal advisers.
+
+In an interview yesterday afternoon Major Hambrnugh, while remarking that he was unable to make any statement at the present time, being in a sense in the hands of the police, said that it was a fact that two policies had been effected on his son's life, each for ten thousand pounds, and that a few days before the death of his son they were both assigned to Mrs. Monson, not to the prisoner.
+
+There came over by the train already mentioned Mr. J. C. McCulloch, of Inverary, Procurator Fiscal. Mr. McNaughten, Deputy-Procurator Fiscal of Argvyleshire, also arrived, accompanied Dr. Littlejohn, of Edinburgh, and Dr. McMillan, who first examined the deceased. Dr. Sanders, of Edinburgh, came by the same train to present the examination in behalf of the prisoner Monson. They drove to the Royal Marine Hotel. A messenger was immediately sent to the vicar, who proceeded to the hotel and signed the order of the Secretary of State placing the churchyard at the disposal of the Procurator Fiscal and his party.
+
+The opening the grave was immediately proceeded with in the presence of Mr. McNaughten and Deputy-Chief Constable Gibson, who, with a staff of police, kept the public outside the graveyard. The grave is nearly opposite the west entrance the church, which, by the way, was built by the Hambrough family and endowed with a thousand pounds, the vicarage also being a gift the same family. The deceased had been laid in the brick grave of a relation, over whom was a rustic stone cross, with the inscription, "Charlotte Anne Hambrough, who fell asleep May 11, aged 22 years." There was nothing to indicate the interment there of the young gentleman whose death is surrounded with so much mystery. The graveyard is close to the principal thoroughfare of the town, and crowds of people lined the two walls forming the angle of a side road and the main thoroughfare, but none but officials were permitted on the ground during the exhumation. The coffin is of massive polished oak, with silver mountings. On being raised to the surface it was conveyed to a hearse and removed to the mortuary at the cemetery, which stands on a range of hills at the back of the town in continuation of the famous St. Boniface Down. It was intended to examine the body in the mortuary, but this was found to be too confined for such an operation, and it was taken out again and placed upon a bier in the cemetery yard. Removed from the case in which it was enclosed within the oak coffin, it was examined the open and identified.
+
+Immediately the lead inside the coffin was opened, the body was identified by one or two who knew Lieutenant Hambrough quite well. The body was greatly decomposed. The examination lasted over two hours, and was not completed before darkness set in. Photographs of the wounds in the head of the deceased were taken in several aspects. Photographs were also obtained of internal sections of the skull. Major Hambrough was present at the cemetery, and watched the proceedings from a distance. He was deeply agitated. After the examination the body was again placed in the coffins, which were sealed and screwed down. The reinterment, which took place about 10 o'clock, was unaccompanied by any ceremony. The  legal and medical officials conducting the investigation were extremely reticent as to the result of the *post-mortem*, but sufficient was permitted to leak out to favour the conviction that the wound was not self-inflicted. Several pellets were found in the head, and it was demonstrated that the shots entered the head from the back and passed out behind the ear, a portion of which was carried away. All the medical gentlemen were, it is understood, perfectly satisfied that there was no singeing of the hair or skin around the wound, which leads to the belief that the instrument of death could not have been in the hands of the unfortunate young gentleman.
+
+The body was formally identified on the coffins being opened by Dr. McMillan and Mr. McNaughten. Major Hambrough was not asked to perform this painful duty.
+
+The gentleman who accompanied Mr. Monson on the occasion of the funeral was not the missing Mr. Scott, but Mr. Stevens, the factor of the Ardlamont Estate.
+
+PROFESSOR LITTLEJOHN AGAINST THE ACCIDENT THEORY.
+
+The Press Association's Ventnor correspondent telegraphing this morning states that Professor Littlejohn's testimony regarding the death of Lieutenant Hambrough will be altogether opposed to the theory that he lost his life through an accident. In addition to the absence of singeing of the hair it is regarded as a significant fact that no wadding from the cartridge was found in the head, photographs of which have been taken in six different positions. The party which attended the exhumation left Ventnor this morning for Glasgow, and will proceed thence to Inverary to attend the hearing of the charge against Monson, which will be resumed on Friday next.
+
+WHAT MR. MONSON SAYS.
+
+The question arises whether anyone witnessed the fatality. The prisoner states that he and Scott were among the trees of larger growth, out of sight, the one carrying a 20-bore gun and the other a few rabbits. They heard a shot fired, and rushing forward to see what success had attended the shot, they found Mr. Hambrough lying dead. But a third person heard the shot, a gentleman who occupied the neighbouring schoolhouse for the month. The next thing he heard was that a fatality had occurred. He has been interviewed by the authorities, since which he has gone home, and the house again tenanted by the schoolmistress. Mr. Monson regards this stranger as a witness in his favour, and his address is retained. With regard to Scott, Mr. Monson only knew him for a few hours. The prisoner asserts this himself.
+
+THE SCENE OF THE FATALITY.
+
+The scene the fatality carefully guarded, and all persons who would go near are warned off. It is about a quarter of a mile from Ardlamont House, and the stone wall, about which so much has been said, is reached on one side by squeezing through the two arms of a tree growing on the top. Twelve yards further along is the spot where the body was found — now marked by decayed ferns.
+
+"NOT NEARER THAN FOURTEEN PACES."
+
+A Ventnor correspondent telegraphs that as the result of the *post-mortem* on Lieutenant Hambrough's body the medical opinion is that the shot was not fired nearer than 14 paces. Additional proof of this is the fact that no wad was found in the wound. Recently Major Hambrough wrote to Monson asking him for his son's whereabouts. Monson curtly replied, "I am not your son's keeper."
+
+Monson is expected on Friday to be committed for trial, probably at Edinburgh at Christmas. 
+
+```
+
 ```{admonition} *EXCITEMENT AT VENTNOR*, Hampshire Independent, Saturday 09 September 1893
 :class: dropdown
 
@@ -517,6 +635,21 @@ A special reporter telegraphing from Inverary on Friday, says:— I am assured b
 Mr. Monson, handcuffed to a policeman in plain clothes, left Inverary yesterday on the steamer Lord of the Isles. Monson was taken quietly to the vessel 15 minutes before she was timed to start, passing round the back of the town, so to create as little attention as possible. Monson, on boarding the steamer, was immediately placed in the captain's cabin.
 ```
 
+
+```{admonition} *Deaths*, Southampton Observer and Hampshire News, Saturday 28 May 1870
+:class: dropdown seealso
+In *Southampton Observer and Hampshire News*, Saturday 28 May 1870, [p5](https://britishnewspaperarchive.co.uk/viewer/bl/0005048/18700528/179/0005).
+
+Deaths.
+
+...
+
+Hambrough.— May 11, at Steephill Castle, Ventnor, I.W., Charlotte Ann, second daughter of the late Albert John Hambrough, Esq., aged 22 years.
+
+...
+
+```
+
 ```{admonition} *DEATHS*, Pall Mall Gazette, Wednesday 25 May 1870
 :class: dropdown seealso
 
@@ -546,9 +679,11 @@ Certainly, the funeral seems not to have been a typical affair?
 
 In *Hampshire Advertiser*, Wednesday 25 May 1870, [p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18700525/017/0004):
 
-VENTNOR, May 25 The funeral of Miss Hambrough, eldest unmarried daughter of the late Mr. Albert Hambrough, of Steephill Castle. took place on Monday in the churchyard of St. Catherine's, Ventnor, and was conducted throughout with a rude, unceremonious simplicity, hardly in accordance with the young lady's own worth, and with the high social position of her family. To the numerous inhabitants of Ventnor, by whom the memory of her deceased father is still held in the most affectionate esteem, it was, indeed, painful to observe that not a single shutter was put up, nor a sign of grief displayed, all over the town, upon this melancholy occasion! This omission, we are sure, was not the result of any want of proper respect or regret for the departed young lady (cut off in her 22nd year), but must rather be ascribed to other and peculiar circumstances.
+VENTNOR, May 25. The funeral of Miss Hambrough, eldest unmarried daughter of the late Mr. Albert Hambrough, of Steephill Castle. took place on Monday in the churchyard of St. Catherine's, Ventnor, and was conducted throughout with a rude, unceremonious simplicity, hardly in accordance with the young lady's own worth, and with the high social position of her family. To the numerous inhabitants of Ventnor, by whom the memory of her deceased father is still held in the most affectionate esteem, it was, indeed, painful to observe that not a single shutter was put up, nor a sign of grief displayed, all over the town, upon this melancholy occasion! This omission, we are sure, was not the result of any want of proper respect or regret for the departed young lady (cut off in her 22nd year), but must rather be ascribed to other and peculiar circumstances.
 
 ```
+
+But what might those *"other and peculiar circumstances"* have been?
 
 Am amusing story from back when Hambrough's father was still a boy:
 
