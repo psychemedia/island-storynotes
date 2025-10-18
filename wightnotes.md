@@ -3,8 +3,32 @@ Legend of Wolverton
 https://h2g2.com/edited_entry/A87785013
 
 ---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000397/17910622/014/0004
+Hereford Journal - Wednesday 22 June 1791
 
+A recent elopement has taken place from Shanklin, in the Isle of Wight. The gentleman is said to be a son of Lord S——, and the young lady a Miss W——. It is supposed they are gone towards Gretna Green.
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000221/17910623/005/0002
+Bath Chronicle and Weekly Gazette - Thursday 23 June 1791
+
+Saturday the 11th instant an elopement took place at Shanklin, in the Isle of Wight, between Lord S—— and Miss Williams, a beautiful young lady of fifteen. Her parents are inconsolable.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17910620/006/0003
+Hampshire Chronicle - Monday 20 June 1791
+
+Saturday morning an elopement took place at Shanklin, in the Isle of Wight, between the son of Lord S—— and Miss W——, a beautiful young lady of fifteen. The young lady has no fortune whatever, though she has expectances at the death of some relations. No account has yet been received of the enamoured fugitives, and it still remains doubtful whether Hymen was their guide or less ceremonious deity.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17910808/006/0003
+Hampshire Chronicle - Monday 08 August 1791
+
+Miss Williams, who some time eloped from Shanklin in the Is!e of Wight, with the son of a noble lord, is in Dublin with the companion of her flight, having, in their way thither, forgot to stop the altar of Hymen.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000221/17910811/005/0002
+Bath Chronicle and Weekly Gazette - Thursday 11 August 1791
+
+Miss Williams, who some time ago eloped with a noble Lord from *Shanklin*, in the Isle or Wight, is now with her gallant at Dublin: we lament, however, that their flight was so rapid, they had not time to stop at the *hymenial altar*.
+
+---
 From the archive of the Hampshire Advertiser - Saturday 04 January 1840; also in Hampshire Independent - Saturday 04 January 1840.
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18400104/036/0003
