@@ -70,6 +70,9 @@ parts:
   chapters:
   - file: tyrie/david_tyrie_bankruptcy_scam
   - file: tyrie/david_tyrie_southsea_quartering
+- caption: Found not as stories...
+  chapters:
+  - file: noyes-highwayman
 - caption: Appendix — Resources
   chapters:
   - file: wightnotes-books

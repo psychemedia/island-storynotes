@@ -121,7 +121,7 @@ Who would with abbots cope.
 An he refuse, we'll bear the news  
 To His Holiness the Pope.
 
-The lord of Gotten he laughed aloud 
+The lord of Gotten he laughed aloud  
 When the message he received.  
 'So it's leaving home on a journey to Rome  
 Is your master. News, indeed!  
