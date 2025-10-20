@@ -126,7 +126,7 @@ Isle of Wight Observer - Saturday 09 March 1861
 
 "MURDER IN THE ISLE OF WIGHT."
 
-This fearful heading, which has gene the round of the newspapers, is now happily used up; and a jury has falsified it, for Lacey is convicted of manslaughter only. In endeavouring, as Journalists, faithfully to discharge our duty to the public, we carefully abstained from pandering to that vicious taste which revels in deeds of blood: and at the same time excluded from our columns the adjectives "horrible," "atrocious," and such like, we have yet to learn what other qualities are embodied in the noun "murder" itself. Lies, so greedily used by others, to try to make bad case worse, and to garnish poverty of description, have been entirely rejected by us, foe we are too jealous of the reputation of our native Isle to cast suck foul garbage at her fair escutcheon; and have left those who, prompted by ignorance or cupidity, were disposed so to do, to do it. We will, however, tell these ignorant murder-traders, that the Isle of Wight can yet boast that it is not upon record that one her sons was ever convicted of murder. As to the Sandown tragedy of last year, it was committed by a Leeds soldier who might have been quartered in Canterbury or Dublin just likely as where be was; and even he was a maniac, and never tried.
+This fearful heading, which has gene the round of the newspapers, is now happily used up; and a jury has falsified it, for Lacey is convicted of manslaughter only. In endeavouring, as Journalists, faithfully to discharge our duty to the public, we carefully abstained from pandering to that vicious taste which revels in deeds of blood: and at the same time excluded from our columns the adjectives "horrible," "atrocious," and such like, we have yet to learn what other qualities are embodied in the noun "murder" itself. Lies, so greedily used by others, to try to make bad case worse, and to garnish poverty of description, have been entirely rejected by us, foe we are too jealous of the reputation of our native Isle to cast suck foul garbage at her fair escutcheon; and have left those who, prompted by ignorance or cupidity, were disposed so to do, to do it. We will, however, tell these ignorant murder-traders, that the Isle of Wight can yet boast that it is not upon record that one of her sons was ever convicted of murder. As to the Sandown tragedy of last year, it was committed by a Leeds soldier who might have been quartered in Canterbury or Dublin just likely as where be was; and even he was a maniac, and never tried.
 
 There is certainly a tradition of a murder committed the Island, which may be interesting to our readers. We had it more than 30 years ago from our grandmother, then 77 years of age, and she had it from her grandmother as a tradition, —but this at once goes 150 years back. The tradition is this:
 
@@ -141,7 +141,7 @@ We hold that it would be presumptuous in the highest degree for us for a moment 
 
 ```
 
-Of the cases referred to, the first related to the manslaughter of a elderly woman by her husband with a drink problem and lingering jealousy issues:
+Of the cases referred to, the first related to the manslaughter of an elderly woman by her husband with a drink problem and lingering jealousy issues:
 
 ```{admonition} An Aside: Murder on the Isle of Wight, 1861
 :class: dropdown seealso
