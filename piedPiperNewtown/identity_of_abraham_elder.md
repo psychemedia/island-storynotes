@@ -112,7 +112,7 @@ We also see from a news report in the *Hampshire Telegraph* of [Monday 19 Octobe
 >
 > ...
 
-We also have evidence of Moreton's social standing on the Island, as noted in this report from the *Hampshire Advertiser* of [Saturday 07 June 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450607/034/0008), p8:
+There is further evidence of Moreton's social standing on the Island, as noted in this report from the *Hampshire Advertiser* of [Saturday 07 June 1845](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18450607/034/0008), p8:
 
 > Cowes, Saturday June 7
 >
@@ -122,6 +122,12 @@ We also have evidence of Moreton's social standing on the Island, as noted in th
 > June 3 *Elizabeth* Hon Augustus Moreton, from Guernsey
 >
 > Fashionable Arrivals. The following are among members of the R. Y. S. who have visited the Squadron House during the week: ..., Hon. Augustus Moreton, ...
+
+As to where he lived on the island, du Boulay's *Bembridge Past and Present,*, 1911, identifies it as follows:
+
+> Soon after Colonel Moreton took up his residence at East Cliff, a nephew of his, Hon. Augustus Moreton, M.P. for Gloucestershire, who came on a visit, became so much impressed with the beauties of Bembridge, that he persuaded his father, Lord Ducie, to buy for him the Hill Grove Estate `[in the vicinity of Ducie Avenue, Bembridge, today]` from one E. Wise who had recently built the mansion there by adding on to the old farm house, and from him it descended to his son, Colonel A. H. Macdonald Moreton, late Coldstream Guards.
+
+![OS map old series, 1 inch, 1800s-1860s, National Library of Scotland](images/nls_bembridge.png)
 
 Finally, we note this amusing anecdote, from the *Globe* of [Monday 09 July 1838](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18380709/027/0004), p4:
 

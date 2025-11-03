@@ -486,7 +486,7 @@ The trial lasted near seven hours, and during the whole time the prisoner seemed
 The regular and exact manner in which the witnesses were called upon, and the compact form in which the evidence was adduced, did Mr. Dyson, the solicitor to the Admiralty, and sir John Fielding (by the industry of the first of whom, and by the advice of the second, the whole business of this important national prosecution was conducted) infinite credit.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000071/17770315/070/0004
-Ipswich Journal - saturday 15 March 1777
+Ipswich Journal - Saturday 15 March 1777
 
 [another long report]
 
@@ -497,7 +497,7 @@ FIRE AT PORTSMOUTH
 
 *This day is published, by Authority,  price ??*
 
-THE authentic TRIAL of JAMEs HILL, alias JOHN the PAINTER, for firing his Majesty's stores at Portsmouth; containing the arguments verbatim, examination of evidence, the charge to the jury, and sentence of death.
+THE authentic TRIAL of JAMES HILL, alias JOHN the PAINTER, for firing his Majesty's stores at Portsmouth; containing the arguments verbatim, examination of evidence, the charge to the jury, and sentence of death.
 
 The whole the above genuine trial was taken in short hand by the accurate Mr. W. Blanchard, of Dean-street.
 

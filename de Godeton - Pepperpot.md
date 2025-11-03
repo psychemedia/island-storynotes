@@ -32,10 +32,9 @@ And thereby lays another tale...
 
 The most comprehensive report regarding the historical tale of Walter de Godeton's dealings with the shipwrecked wine from the St. Mary can be found in John Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*:
 
-https://archive.org/details/in.ernet.dli.2015.502008/page/n439/mode/1up
 
-The Undercliff Of The Isle Of Wight Past And Present
-by Whitehead, John L. 1911 p327-334 Chapter XII
+
+In John L. Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, 1911, Chapter XII, [p327-334](https://archive.org/details/in.ernet.dli.2015.502008/page/n439/mode/1up) 
 
 ![St. Catherines Tower, 1801 (illustration; in "The Undercliff Of The Isle Of Wight Past And Present", facing p.327)](images/2015.502008.The-Undercliff_pepperpot.jpg)
 

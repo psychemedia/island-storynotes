@@ -5,7 +5,7 @@
 
 To skip to the end, a summary of what followed is provided in the introduction to a report of the court proceedings, published as part of a series of notable Scottish trials, in 1908:
 
-```{admonition} *Trial of A.J. Monson*, ed. John W. More, 1908 
+```{admonition} *Trial of A.J. Monson*, ed. John W. More, 1908
 :class: dropdown
 
 In *Trial of A.J. Monson*, ed. John W. More, 1908, [pp.1-8](https://archive.org/details/trialofajmonson00mons):

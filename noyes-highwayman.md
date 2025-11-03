@@ -184,13 +184,13 @@ He taps with his whip on the shutters, softly whistles a tune. A light goes on i
 
 They speak in whispers, as she ties a love knot in her long black hair.
 
-"I've business on the road tonight. There's gold with my name on it... But I'll be back before dawn, God willing. Though if I'm pressed, or chased, or harried, I'll lead them away. Then look for me by moonlight, watch for me by moonlight, because I'll come to thee by moonlight, though hell should bar the way!"
+"I've business on the road tonight. There's gold with my name on it... But I'll be back before dawn, God willing. Though if I'm pressed, or chased, or harried, I'll lead them away. Then watch for me by moonlight, wait for me by moonlight, I'll come to thee at midnight, though hell should bar the way!"
 
 He rose up in his stirrups, reached out as if to touch her hand:,"one kiss my love, one kiss". And from the window, she unloosened her hair; it tumbled down, onto his breast; he breathed in its perfume, kissed it gently. Then turning his horse, tugged on the reins, and was gone, gone into the night.
 
 From the corner of the yard, from the stable in the corner there, Tim the ostler has been watching; and listening. There's only one thing he loves more than the horses, and that's Bess, the landlord's red-lipped daughter. Oh, Bess...
 
-That kiss should be his to give, her kiss should be his to receive. He paces the stable. "If I'm not back before the dawn, watch for me by midnight..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
+That kiss should be his to give, her kiss should be his to receive. He paces the stable. "If I'm not back before the dawn, watch for me at midnight..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
 
 Dawn approaches, and young Bess again waits by the window. At noon, she looks out from the yard; for now she must wait till midnight again to see her lover again.
 
