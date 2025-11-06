@@ -7,6 +7,10 @@ The Sketch - Wednesday 13 December 1893
 
 COpyright illustrated London news - images require license?
 
+Lots of copyright images in Black and White
+https://britishnewspaperarchive.co.uk/viewer/BL/0004617/18931230/121/0028?browse=true
+
+
 TO DO - over several pages, many images
 
 ![https://britishnewspaperarchive.co.uk/viewer/bl/0001860/18931213/014/0013](images/sweeney_wanted.png)
