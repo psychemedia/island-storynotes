@@ -15,6 +15,21 @@ SEE ELSEWHERE SANDOWN HISTORY
 
 See also *The Sandown Barracks Master Affair, 1806*
 
+https://archive.org/details/bim_eighteenth-century_a-new-correct-and-much_albin-john_1795/page/114/mode/2up?q=plundering
+A new, correct, and much-improved history of the Isle of Wight, ...  1795
+by [Albin, John].
+
+Publication date 1795
+
+pp114-6
+
+SANDOWN FORT.
+
+When the neceſſity of fortifying the coaſts of this iſland was found neceſſary, and the ſyſtem of defence progreſſively advanced towards a ſtate of maturity, to guard againſt the marauding and plundering expeditions of the common enemy, and to afford protection and ſecurity to the lives and poſſeſſions of the iſlanders; the ſituation of this ſpot, which is almoſt the only acceſſible part of the ſouthern coaſt, ſtrikes the eye as an object for military operations. Hence it was one of the firſt objects to fortify and defend this natural inroad into the iſland, in the time of Henry the Eighth; and the demolition of the religious houſes, which was then rendered compleat, afforded ample materials for theſe purpoſes.
+
+THIS fort is on the ſouth-eaſt ſide of the iſland, and has the command of a bay, in which there is a good landing place. The building is very low, and of a quadrangular form; it is flanked alfo by four baſtions, and the whole is encompaſſed with a ditch. It had formerly an eſtabliſhment of a maſter gunner and thirty ſoldiers, being juſtly eſteemed from its fituation to be of the greateſt importance of any fort in the iſland. But this eſtabliſhment has been conſiderably leſſened ſince that time; and the pay of twenty-two of the ſoldiers applied to increaſe the ſalaries of the maſter gunners of the other forts, where the military eſtabliſhments are ſtill maintained. `[In the ſecond year of queen Elizabeth we only meet with the eſtabliſhment of a porter at eight pence a day, and three gunners at ſix pence a day each, as we have already mentioned under Yarmouth and Freſhwater or Sharpnode.]`
+
+Fox ſome time this fort had been very much neglected; but government have repaired it at a very conſiderable expence, and have refitted the apartments into a comfortable ſummer reſidence for the captain. It now ſupports a captain at half a crown per day, twelve warders at eight pence a day each, a maſter gunner at two ſhillings a day, and three other gunners at one ſhilling a day each; making an annual eſtabliſhment of two hundred and eighty-two pounds ſeventeen ſhillings and fix Pence.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18051014/014/0004
 Hampshire Chronicle - Monday 14 October 1805
