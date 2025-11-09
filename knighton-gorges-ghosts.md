@@ -5,7 +5,7 @@ TO DO - suicide felo de se
 
 Originally a well presented manor house.
 
-Demolished in 1820 ?by George Bissett? - all that remains are the gateposts
+Demolished in 1820?by George Bissett? - all that remains are the gateposts
 
 https://www.curiousarchive.com/knighton-gorges-most-haunted-isle-of-wight/
 > And the star of the most famous Knighton Gorges ghost story is the house itself, which is said to make its ghostly appearance every year on New Years Eve.
@@ -24,6 +24,8 @@ https://upload.wikimedia.org/wikipedia/en/thumb/4/45/KnightonSeatOfBisset.jpg/60
 
 Davis, Rev. R. G. "Historical Notes on the Manor of Knighton, in the Isle of White," Proceedings of the Hampshire Field Club & Archaeological Society vol. 3 (1898): 295-302.
 
+
+Davis (Rev. R. G.). Historical notes on the manor of Knighton, in the Isle of Wight. Hampshire Field Club, iii. 295-302.
 https://www.hantsfieldclub.org.uk/publications/hampshirestudies/digital/1885-99/Vol_3/Davis_pt3.pdf
 
 HISTORICAL NOTES ON THE MANOR
@@ -71,3 +73,245 @@ The drawing room on the first floor, is spacious and handsome, and entirely in t
 No painted glass remains in the Windows, except one coat with the arms of Isabella de Fortibus, but this appears to be of a date much later than her time. The little building already mentioned, standing at the foot of the hill seems to be at least as old as the reign of Edward the third. One window alone remains in any tolerable preservation; the form and mouldings of this are uncommon.
 
 ---
+
+https://archive.org/details/legendslaysofwig00ston/page/70/mode/2up
+Legends and lays of the Wight
+by Stone, Percy Goddard
+
+Publication date 1912
+
+pp70-77
+
+SIR TRISTRAM'S WEIRD (1721)
+
+Sir Tristram Dillington, it is said, distraught by the death of his wife, committed suicide. His body was found by the steward, who, to make it appear a case of misadventure, placed it on his horse, which he drove into the Knighton pond. By this means he avoided the escheat as a suicide and preserved the property for the heir.
+
+Through the leafless limbs that woo the sky  
+The wind soughs sad and drear;  
+The mists along the meadows he  
+In the waning of the year.
+
+At foot and head of the carven bed,  
+Stirred by an icy breath,  
+A flickering light the candles shed  
+O'er the shadowy room of Death.
+
+For a life has dawned and a life has set  
+In the span of a winter's day:  
+'The Lord hath given'—Chill hands have met-  
+'The Lord hath taken away.'
+
+Sir Tristram sits in his oaken chair  
+And his heart is sore with pain;  
+For the light of his eyes, his bride of a year,  
+He never will see again.
+
+'A life for a life,' quoth old Nurse Nan,  
+And set the babe on his knee —  
+What matters a child to a stricken man?  
+Hence! take the brat with thee.
+
+'Can an heir bring back the joy of my heart,  
+Or the grasp of a cherished hand?  
+Our lives, our ways, must lie apart.  
+Hence! take him, I command.'
+
+Sir Tristram has ordered his roadster stout,  
+And ridden to London town.  
+Perchance he thinks in a pleasure bout  
+His sorrows he may drown.
+
+He has ridden to Ryde and ferried him o'er  
+To Portsmouth by the sea;  
+And he curses Fate — for his heart is sore —  
+Yet he follows Destiny.
+
+Ah! evil the case of a stricken wight  
+'Mid the toils of London town!  
+Vain is the pigeon's restless flight  
+When the hawks have marked him down.
+
+In the gaming den, with cully and cheat,  
+He stakes on the loaded dice.  
+His head is aglow with a hellish heat,  
+His heart is a heart of ice.
+
+And ever the pieces melt away,  
+And ever he sends for more.  
+So night and day, by tainted play,  
+They gather Sir Tristram's store.
+
+Money, money, without delay,  
+Runs the summons from London town;  
+And the steward grieves, though he must obey,  
+To see the oaks crash down.
+
+The hawks they have plucked their pigeon bare  
+— He owes that he cannot pay —  
+And he casts about in his blank despair  
+To find him a means and way.
+
+Stark lie the slopes of the Knighton Down,  
+With never a sign of tree:  
+Sir Tristram hath ridden from London town —  
+A ruined man is he.
+
+He hath spurred him early and spurred him late  
+And ferried the Solent sea,  
+And entered the arch of the Knighton gate  
+With 'Summon the reeve to me.'
+
+The steward before Sir Tristram stands  
+And speaks him bold and fair.  
+'Hast taken full toll of the Knighton lands;  
+Their slopes lie bleak and bare.
+
+'There's naught in dale. There's naught on down,  
+To raise the gold upon — '  
+'Perdition! I'll to Newport town  
+And speak with Lawyer John.'
+
+Old Lawyer John, for those in need,  
+Keeps house in Newport town.  
+Upright and just in word and deed,  
+A man of good renown.
+
+Though bowed his frame with weight of years,  
+His eye is keen and bright.  
+His speech is blunt. No man he fears —  
+The shrewdest brain in Wight.
+
+Within his book-lined study dim  
+He scans the dismal roll  
+The Knighton Reeve hath rendered him  
+Of all Sir Tristram's toll.
+
+'The man will ruin home and land,  
+Unmindful of his heir;  
+All further calls we must withstand  
+And nurse the rest with care.'
+
+Sir Tristram hath mounted his horse once more  
+And ridden by George's Down  
+Till he be come to the lawyer's door  
+In grey-hued Newport town.
+
+'Rouse! Lawyer John' — he tirled the pin —  
+'And open quick to me.  
+Withdraw thy bolts. I would within,  
+And instant speak with thee.
+
+'Come, leave thy dim and dusty deeds,  
+Put musty tomes away,  
+And list to me. Here's that which needs  
+Advice without delay.'
+
+Grave Lawyer John beneath his brows  
+Keen eyes Sir Tristram down.  
+'What bodes this urgent haste and rouse—  
+More news from London town?'
+
+'My lands be bare, my debts be grave:  
+This is my news for thee.  
+The good red gold I needs must have  
+— And that right speedily.
+
+'So raise me gold on Knighton land;  
+I question not the way.  
+My name and honour they must stand  
+— Who lose forsooth must pay.'
+
+'Foul wrong to do and call it right,  
+Doth but thy folly crown.  
+Wouldst ruin house and home in Wight  
+For rogues in London town?
+
+'And hast forgot thy year-old bride  
+At rest in Newchurch there?  
+Call thou to mind her love, thy pride.  
+Wouldst rob her child — thine heir?'
+
+In thought his whole life passed before  
+In one brief moment's span.  
+Sir Tristram turned and passed the door-  
+A shamed and humbled man.
+
+The Dillingtons have ever borne  
+A fair and spotless name.  
+Better to die a death forlorn  
+Than live and bear the shame.
+
+The steward sits within his room  
+And waits his lord's return.  
+The hours beat out hke strokes of doom,  
+And low the candles burn.
+
+He's reached his cloak — he's reached his cap,  
+And lighted lanthorn dim.  
+'Sir Tristram's met with some mishap,  
+Needs I go search for him.'
+
+In vain he sought till dawn of day  
+Some trace of him to find;  
+Then heard Red Sorrel's whickering neigh  
+Borne down upon the wind.
+
+'Woe's me! There's evil here,' he cried,  
+And followed till he found  
+The sorrel by his dead lord's side,  
+Pawing the bloody ground.
+
+Sir Tristram lay — a woeful sight,  
+With gaping wound in breast —  
+All stiff and stark, a paper tight  
+Within his fingers press'd.
+
+Whereon was writ for all to read  
+Let none for this take blame.  
+Mine was the sin. Mine is the deed  
+To save an honoured name.'
+
+'Cursed be women, wine, and play  
+That brought the old name down.  
+Ah! woe the day he rode away  
+To cruel London town.'
+
+He fetched him water from the brook  
+And cleansed the bloody wound;  
+Then from his hand the script he took  
+And buried deep in ground.
+
+'No trace of blood or wound must show  
+How he hath met his end —  
+That none the dreadful truth may know,  
+Nan must the body tend.
+
+'Else Christian rite he may not claim;  
+Lands forfeit they'll declare.  
+Grim shame will light upon his name  
+And ruin on the heir.'
+
+To saddle raised that burden dear  
+— Red Sorrel love shall win —  
+Then led him to the Knighton mere  
+And urged the stallion in.
+
+That none should doubt the happening,  
+To make it doubly plain.  
+Ere that he drove the good steed in,  
+The girths he rent in twain.
+
+So wisely well the news was spread  
+That thus the tale went round.  
+Sir Tristram had, by dark misled,  
+In Knighton pool been drowned.
+
+So name and lands this steward true  
+Thus saved from cruel ban,  
+And how Sir Tristram died none knew  
+But he and old Nurse Nan.
+
+Sir Tristram lies in Newchurch aisle —  
+His sins and sufferings past —  
+His body rests but there awhile;  
+God rest his soul at last.
