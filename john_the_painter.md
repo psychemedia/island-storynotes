@@ -490,6 +490,15 @@ Ipswich Journal - Saturday 15 March 1777
 
 [another long report]
 
+https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17770315/008/0002
+Caledonian Mercury - Saturday 15 March 1777
+
+*Extract of a letter from Portsmouth, dated yesterday, one o'clock.*
+
+John the Painter ss this instant executed on a gallows sited on purpose, opposite the Dock-gates. He was drawn in a cart from Portsmouth, had round the Dock-yard, and particulalry round the ruins of fire. It is said he made a full confession of his whole life. A gibbet is fixed at Brockhouse foot, where he will be carried this afternoon, and hanged in chains."
+
+We havee just received from another correspondent at Portsmouth the following intelligence: before the execution of John the Painter, he was drawn in a cart, pinioned, round the dockyard;on his passing the house of Mr Gambier, he desired to speak with him; on the Commissioner's coming to him, he expressed a penitence for his crime, acknowledged the justness of his sentence, and advised him to be particularly cautious who was admitted in the docks, as he had reason to think other attempts would be made. "I intended (added he) to have given a stab in the side, but it las only been a slight scratch in the hand." He also remarked, of all the docks, Plymouth was the most easy to carry such attempts into execution. He desired his intelligence might be given to the Lords of the Admiralty, and concluded, "I have been a very wicked fellow, but H hope, through the merits of Christ, to be forgiven." He was executed on a gibbet fifty feet high, in view of all the shipping.— The gaoler says he has given a more ample account to him.
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770324/013/0004
 Hampshire Chronicle - Monday 24 March 1777
 
@@ -633,6 +642,7 @@ I likewise committed a burglary the house of Mr. Newman, glazier in Romsey, and 
 Besides these I have committed great number of crimes of a more petty nature (that may less concern the general world both now and in my unhappy life) but I beg forgiveness of all the world as they would wish to be forgiven of God. And I for my part freely forgive all mankind, none excepted, even as I wish myself to be forgiven of God.
 
 
+---
 
 Re below: date in BNA wrong - listed as March 7 but is actually From March 7 to March 14
 
@@ -836,6 +846,31 @@ The prisoner being ordered to be executed at the dock gate, was taken from Winch
 
 He prayed earnestly a few minutes, when giving the signal, he was drawn up to the top of the gibbet made of the Arethusa's mizen mast, 64 feet high; and afterwards was taken down and hung in chains on Block house point, at the mouth of the harbour.
 
+
+
+---
+
+still hanging in chains a coupleo years later
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17790628/004/0003
+Hampshire Chronicle - Monday 28 June 1779
+
+TO SO
+
+HOME NEWS. PORTSMOUTH, Saturday, June 26. 
+
+...
+
+We had a very hot press on Wednesday night: 300 men were taken at this port.
+
+On Tuesday was executed on board the Culloden man of war in the harbout, one Murphy an American, who was taken into the service at New-York, and on account of his abilities as a good seaman was some time afterwards promoted to the rank of midshipman. When the was her passage home, he formed a plot with several of the ships crew, to murder the Captain and the officers, and run the ship into the American service, which plot was just going to be put in execution, when the whole was discovered by a servant, who was one of the conspirators. Since the ship has been in harbour, and while under sentence of death, he found means to get off his irons, and made his escape through one of the port holes, and attempted to swim on shore; but his heart failed him when he had got a little way from the ship, so that he returned again to the place of confinement undiscovered.— Before he was executed, he said he had only one regret, which was, that he had not set the on fire, after he found he could not run away with her. He was buried directly under the gibbet of John the Painter at Blockhouse Point.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000085/17790703/004/0002
+Newcastle Courant - Saturday 03 July 1779
+
+*Portsmouth, June 22.* This morning Murphey, the midshipman, was executed on board his majesty's ship the Culloden, agreeable to the sentence of a Court-martial for mutiny board the said ship. He made a short speech to the sailors, advising them never to attempt to turn against their Kmg and country. He was buried under the gibbet where John the Painter hangs in chains.
+
+
 --
 
 https://imageonline.io/black-and-white/
@@ -861,6 +896,9 @@ The New Newgate calendar : or, Malefactor's bloody register : containing authent
 p228
 
 An Authentic account of James Hill, otherwise John Hind, otherwise James Hind,,
+
+
+
 
 
 https://archive.org/details/bim_eighteenth-century_john-the-painters-ghost_1777
