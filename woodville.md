@@ -133,6 +133,410 @@ Feb. 21. Westminster.
 Exemplification, at the supplication of Jaquetta, duchess of Bedford, late the wife of Richard, earl of Ryvers, of the tenour of an act in the great council, remaining in the office of the privy seal in the chamber of the great council called 'le Parlment chambre' within the palace of Westminster, made on 10 February, 9 Edward IV. In the presence of the king and the cardinal archbishop of Canterbury, the archbishop of York, the bishops of Bath, chancellor, Ely, treasurer, Rochester, keeper of the privy seal, London, Durham and Carlisle, the earls of Warwick, Essex, Northumberland, Shrewsbury and Kent, and the lords Hastings, Mountjoye, Lyle, Cromwell, Scrope of Bolton, Saye and others a supplication addressed to the king on behalf of the said duchess and two schedules in paper annexed were openly read, and afterwards his highness by the advice of the said lords of the council accepting the declaration of the said lady commanded the same to be enacted of record and letters of exemplification to be made. The tenours of the supplication and schedules above mentioned ensue in this wise. The duchess complains that Thomas Wake, esquire, in the time of the late trouble caused her to be brought in a common noise and slander of witchcraft throughout a great part of the realm, insomuch as he caused to be brought to Warwick to divers of the lords present when the king was last there an image of lead made like a man of arms of the length of a man's finger broken in the middle and made fast with a wire, saying that it was made by her to use with witchcraft and sorcery, and for the performing of his malicious intent entreated one John Daunger, parish clerk of Stoke Brewerne, co. Northampton, to say that there were two other images made by her, one for the king and one for the queen, whereunto the said John Daunger neither could nor would be entreated, and the king commanded the said Wake and John Daunger to attend upon the bishop of Carlisle, the earl of Northumberland, the lords Hastynges and Mountjoye and Master Roger Radcliff to be examined, and their examination is here annexed, and in the great council on 19 January last she was cleared of the said slander, wherefore she prays that the same may be enacted of record. Thomas Wake says that this image was shown and left in Stoke with an honest person who delivered it to the clerk of the church and so showed it to divers neighbours after to the parson in the church openly to men both of Schetllanger and Stoke and after it was shown in Sewrisley, a nunnery, and to many other persons, and of all this he heard or wist nothing till after it was sent him by Thomas Kymbell from the said clerk. John Daunger of Shetyllanger said that Thomas Wake sent to him one Thomas Kymbell, then his bailiff, and bad the said John send him the image of lead that he had and so he sent it, at which time he heard no witchcraft of the lady of Bedford, and that the image was delivered to him by one Harry Kyngeston of Stoke, who found it in his house after the departing of soldiers, and that the said Thomas Wake after he came from London from the king sent for him and said that he had excused himself and laid all the blame on John and bad him say that he durst not keep the image and for that cause sent it to Thomas and also bad him say that there were two other images, one for the king and one for the queen, but he refused to say so. English. [Rolls of Parliament, VI. 232.] By p.s. [3033.]
 
 
+
+https://archive.org/details/annalsofenglandt00stow/page/n817/mode/2up?q=Woodvylle
+[Annals of England to 1603]
+by Stow, John, 1525?-1605
+
+Publication date 1603
+
+p792-3
+
+Henry the Seventh
+
+1488 
+
+Christopher Viſwike hauing paſſed from the French King to the Duke of Brytaine, and backe againe to the French king, returned into England, and ſhewed unto king Henry what he had done betwixt them,
+
+Imminediatlie after came the Lord Barnard Deaubeney a Scot borne, which in the French Kinges behalfe required King Henry to make ſome manner of end of thofe Bryttiſh wars, whatſoener it were. King Henry therefore ſent over into France John Abbot of Abingdon, Sir Richard Edgecombe knight, and the ſayde Chriftopher Viſwike, with commiſſion to drive ſome agreement betiwixt the Frenchmen and the Brytons. Theſe went firſt to the French king, and after to the Duke of Brytaine, with whome they could doe no good,  
+and ſo ſignified to the king their maſter. Now in fhe meane time Edward lord Wooduile vncle to the Queene, ſued to king Henry that he might haue a power of men appointed to him, with the which he would ſteale paiuilie ouer without licence or paſport, ſo that euery man ſhould thinke that hee were fledde the realme, without knowledge of the k. & although this requeſt was outwardlis denied, yet the Wooduile withdrew himſelfe into the Ile of Wight, where-of he was made ruler, he there gathered a crew of tall & hardy perſonages, to the number of 400. & arriued in Britain, there be joined himſelf with the Brytons againſt the Frenchmen. The French k. aduertiſed hereof, was not well pleaſed towards the k. of England, till k. H. by meſſengers excuſed himſelf to be guiltles, & then he was pacified. And ſo the Engliſh ambaſſadors renewing the league & amity bettwixt y two k. for 12. moneths, returned into England.
+
+The king of England forthiwith called his high court of Parliament, in the which it was not only determined, that the duke of Bꝛitain ſhoulde be aided with power of men, but alſo there were diuers ſums of money granted to the furniſhing forth of the fame.
+
+About the 27. day of July the duke of Britaines army gaue battell to the French hoſt nere to a towne called S. Albin, hauing apparelled 1700, of the Britons in coates with redde croſles afrer the Engliſh faſhion, although they had but 400. Engliſh men with the lord Wooduile. The victory in this battell fell fo the French, ſo that almoſt all the Engliſh men were ſlaine with the lord Wooduile, beſides 6000. Britons. The Duke of Orleance, and the Prince of Orenge were tabkn priſoners, which were there on the Britons part. The French men lost 1200, men, with their valiant Captaine an Italian,named James Galiot. The newes hereof being heard in England ,cauſed king Henry to make haſte in ſending forth his army, and therefore was the lord Brooke with Sir John Cheinie, Sir John Midleton, Sir Ralfe Hilton , Sir Richarde Corbet, Sir Thomas Leighton, Sir Richard Laton, and Sir Edmond Cornewall, ſent ouer into Britaine with all conuenient ſpede, hauing with them 8000. men well appointed, and furniſhed in warlike ſort to aide the Duke of Brytaine. Theſe arrived in Britaine, and marched forward til they came ner to their enimies, where they pitched their field. But while this war was thus ſet foꝛward, Francis duke of Bꝛitaine departed this life, and then the Rulers of that contry falling at diſſenſion amongſt themſelues, tended not the defence of their country, ſo that the Engliſhmen perceiuing themſelues to be danger, and beeing in the middeſt of Winter, they returned info Englande within fiue monethes after their firſt letting forth, ſo that ſinally the French king gat the vpper hande of the Brytons, and did joyne that Dutchie to his Realme of France.
+
+---
+
+https://archive.org/details/legendslaysofwig00ston/page/44/mode/2up
+Legends and lays of the Wight
+by Stone, Percy Goddard
+
+Publication date 1912
+
+pp.44-56
+
+ST. ALBIN (July 28, 1488)
+
+. . . the lord Woodvile withdrewe himselfe into the Isle of Wight, whereof he was made ruler, he there gathered a crew of tall and hardy personages, to the number of 400, and arrived in Britaine, where he joined himself with the Brittons against the Frenchmen.
+
+About the 27 day of July, the duke of Britaine's armie gave battell to the French host neare to a towne called S. Albin, having apparrelled a thousand and seven hundred of the Britons in coates with red crosses after the English fashion.' — (Stowe's *Annales of England*.) Unfortunately the Duke was defeated, and Sir Edward with all the English slain, except one boy, who brought home the melancholy tidings. . . . — Bacon's *Life of Henry VII*.
+
+Who rides to-day on the King's highway  
+Lance in rest and pennon gay  
+With many a squire and knight?
+
+He bears a name — a Wideville he —  
+Renowned in deeds of chivalry,  
+Our Captain of the Wight.
+
+He's ta'en the winding Castle path,  
+He's crossed the circling moat,  
+And passed beneath the grim gray tower,  
+Symbol of strength and feudal power.  
+Whereon his colours float.
+
+He's summoned those who love his house  
+To list to his appeal —  
+Island knights and yeomen tall,  
+Tried in harness one and all,  
+Valiant hearts and leal.
+
+He's doffed his helm, barehead bestrides  
+His mighty battle steed.  
+More gallant knight 'twere hard to find,  
+A Captain bold to ride behind,  
+A leader born to lead.
+
+THE APPEAL
+
+Come, Wight men, to your Captain's call  
+And rally in your might.  
+A woman's cause is mine to plead,  
+A cause for fame and knightly deed —  
+Rouse, rouse ye men of Wight.
+
+False Louis, scorning honour's claim,  
+Is dead to chivalry.  
+His time is spent in prayer and jest  
+With those who do his vile behest,  
+Mean men of low degree.
+
+God succour those who cross his path  
+His hate will strike full soon;  
+Though king he be, no knight is he,  
+His constant pleasure is to be  
+With barber and buffoon
+
+And he would seize the good Duke's heir,  
+Sweet Anne of Brittany,  
+And waste the land with fire and sword  
+Till he should win the north seaboard,  
+The crafty schemer he.
+
+But, Wightmen, he shall never gain  
+That land by might or wile,  
+An if ye list to what I say  
+Far distant still shall be the day  
+When he will threat our isle.
+
+Call ye to mind the glorious deeds  
+Our sires in bygone days  
+Have wrought beyond this island shore  
+At Cregy, Poictiers, Agincourt,  
+Our country's fame to raise.
+
+Then gird your battle harness on,  
+Ye stalwart sons of Wight,  
+Who'd follow fame across the sea  
+Take ship with me to Brittany  
+And strike a blow for right.
+
+Go don the 'jack' and English cross,  
+The red badge of St. George,  
+And march beneath the bonny Rose,  
+The symbol of united foes  
+Who friendly fetters forge.
+
+Remember not the bygone pain —  
+The ancient feud is dead.  
+The Roses twain have bloomed again,  
+Both York and Lancaster now reign —  
+Come, follow white and red.
+
+The Wideville pennon never turned  
+From foe in mortal fight.  
+A Wideville's arm went never back  
+Mid clash of steel and battle wrack  
+Where swords and axes bite.
+
+Look well upon my banner's hue  
+That burgeons on the height,  
+There's gules for deeds of derring do —  
+Fair blazon of good omen too —  
+Argent for honour bright.
+
+Wilt march beneath those colours then  
+And help, my stalwart Island men,  
+To set this matter right?  
+Your Captain hath his pleading made,  
+A woman calls to you for aid.  
+*Your answer, men of Wight?*
+
+THE ANSWER
+
+'The Wideville's cause shall be our cause,'  
+Quoth Lisle and bold Roucley.  
+'Whate'er betide with him we'll ride  
+And flout the false king in his pride  
+And aid the fair ladye.'
+
+Then up and spake stout yeoman Knight,  
+'To that we all agree,  
+And whether for good or whether for ill  
+We'll follow our Captain whither he will,  
+For sons of the Wight are we.'
+
+'Well said, well said, my gallant hearts,  
+My meed to one and all.  
+I thank thee, Roucley, Lisle, and Knight,  
+Full well knew I the men of Wight  
+Would heed their Captain's call.'
+
+THE MARCH
+
+They've left the town by the Eastern gate,  
+They've swung across the bridge.  
+They've breasted the hill to Staplers heath  
+With scarce a pause to gather breath  
+And gained the further ridge.
+
+Urry of Standen leads the van  
+With Bremshet grim of ken,  
+Roucley and Hacket side by side  
+With Mewys, Lisle, and Popham ride  
+All Island gentlemen.
+
+Who rides so gaily carolling  
+A lilting roundelay?  
+'Tis Diccon Cheke of Mottiston  
+Has girt his father's harness on  
+To join the array.
+
+'A boon, a boon, good Captain mine,  
+I fain would ride with thee  
+And strike a blow for the Lady Anne  
+And help chastise the caitiff man  
+Across the channel sea.'
+
+'A beardless boy is best at home  
+Secure from war's alarms,'  
+Laughed Wideville, 'still if thou wouldst see  
+The land of France, shalt ride with me  
+And be my page at arms.'
+
+They've left the Arreton monks at Terce,  
+They've sunk the Knighton down,  
+They've gathered the toll of the Nunwell men,  
+Bowmen and billmen twenty and tenn  
+And passed through Brading town.
+
+THE DEPARTURE
+
+Beneath the shade of Helen's Tower  
+Four stout carracks lie.  
+All Island wrot, from stern to stem,  
+Of Wootten spine, to carry them  
+Across to Brittany.
+
+Their weather vanes glance in the sun,  
+All gay v/ith gilding dight,  
+In fluttering folds from mast-head high  
+The blazoned banners proudly fly,  
+— The Banners of the Wight.
+
+They muster on the shipmen's quay,  
+Bow and bill and lance,  
+A goodly company to view  
+With the English jacks and bows of yew  
+They know — and dread — in France.
+
+So take they ship by that sea-swept church,  
+Where monks keep watch and prayer;  
+The cordage creaks, the trumpet brays,  
+And ever anon a destrer neighs  
+As he winds the brine-lade air.
+
+The shipmen cast aloose the ropes  
+And sheet the anchor home,  
+The sails swell out to the following breeze,  
+The hulls leap up to the crested seas  
+With an answering wake of foam.
+
+Fast widens the space from the carven poops  
+To the lip of the stone-curbed quay;  
+They are round the wedge of the Bembridge-ledge  
+And, catching the tide off the Culver's edge,  
+Have steered for the open sea.
+
+'Twas thus our Island men set forth  
+To return, alas! no more.  
+Knights and squires, thirty and ten.  
+Noble and gallant gentlemen.  
+And yeomen twenty score.
+
+THE RETURN
+
+The August days have come and gone,  
+The harvest's gathered in;  
+No news has come of that Island band  
+Who sailed in hope from St. Helen's strand,  
+The Wideville's cause to win.
+
+There stands a lad on St. Helen's green  
+They've brought from over sea:  
+His face is wan, his eye is dim,  
+He only stares when they ask of him  
+Who and whence is he.
+
+At length the waited answer comes  
+In accents low and weak.  
+'Time agone when we sailed from here,  
+With trumpet blare and parting cheer,  
+They called me Diccon Cheke.
+
+'And would ye know, ye wives of Wight  
+Of son and sire bereft,  
+They lie all stark 'neath Albin's walls,  
+By that fell dark wood where the night-bird calls,  
+And — I alone am left.'
+
+THE EXPEDITION
+
+We sailed from Wight on a favouring wind,  
+And each man's heart beat high  
+As talked we o'er the deeds of yore  
+Our sires had wrought at Agincourt,  
+While the Breton coast drew nigh.
+
+We landed where the silver Rance  
+Flows to St. Male's Bay,  
+And camped at Andouille next morn,  
+Englishmen and Breton born,  
+And mustered our array.
+
+In France they dread the English might;  
+To make it dreaded more  
+They joined to our Island men —  
+To make them seem the strength of ten —  
+Breton's eighty score.
+
+They clad these footmen English-wise  
+With jack and crimson cross,  
+And set them with us in the van,  
+Breton swart and Englishman,  
+Which proved our rue and loss.
+
+Chateaubrian the 'rereward' led —  
+'Twas there our weakness lay;  
+The ''van' was marshalled by de Rieux,  
+Rank on rank in order true,  
+The 'battle' by D'Albret.
+
+Three days had gone when tidings came  
+The foe had sacked Fougiers,  
+And foot and horse were on their way  
+To where the town of Albin lay,  
+To wait our onset there.
+
+Right joyfully we struck our camp,  
+And marched till in our view,  
+Hard by a darkling alder wood,  
+The French array in order stood —  
+A host, while we were few.
+
+First out there rode ten valiant knights  
+To note our strength and form;  
+Anon with shout and trumpet bray,  
+Their marshalled strength — a vast array —  
+Swept on us like a storm.
+
+THE BATTLE
+
+The Wideville rode adown our ranks,  
+His horse all flecked with foam,  
+Quoth he, 'St. George shall be our cry,  
+And where ye see my banner fly,  
+Men of the Wight, strike home.'
+
+While cannon shot came thick and fast  
+They charged upon our van,  
+We thrust them back as our cliffs of Wight  
+Thrust back the surge on a winter's night —  
+'Twas thus the fight began.
+
+Recoiling from our front they bore  
+Upon the battle 'ray.  
+They shocked — alas! the Breton lance  
+Before the chivalry of France  
+Went down that fatal day.
+
+Then, panic-struck, the rereward turned  
+And fled without a stroke.  
+And once again the battle flood  
+Swirled round the knoll on which we stood  
+And 'gainst our lances broke.
+
+'Stand firm, stand firm, ye Breton men,  
+And mind the badge ye wear —  
+That glorious cross,' our Captain cried,  
+'Shines ever on the conquering side,  
+Stand firm and never fear.'
+
+But English badge can never make  
+The English blood and bone.  
+Like timid deer of sense bereft  
+They wavered, turned, and we were left  
+To face the French — alone.
+
+And thus we found the Breton spear  
+Turn out a broken reed.  
+'Twas now our band of Wight men showed,  
+As on the tide of battle flowed.  
+That they were men indeed.
+
+The Wideville's helm is stricken off,
+His harness dented sore.  
+But still we hear that clarion shout:  
+'Fight on, my Island yeomen stout,  
+We'll beat the French once more.'
+
+Each tossed his useless bow away  
+And drew his trusty blade,  
+Each hacked and hewed with all his might  
+And round him in that fatal fight  
+A bloody circle made.
+
+There Lisle went down with gaping wound  
+And Mewys across him fell;  
+There Oglander and Roucley died,  
+With Popham, Bremshet side by side,  
+Hacket and Brutenell.
+
+'Fight on, fight on, my Island men,'  
+Still gallant Wideville cried.  
+Ah, how he fought!  
+Till stricken sore  
+Our Captain fell to rise no more —  
+Within these arms he died.
+
+Of all that sturdy Island band  
+Who stern refused to flee,  
+Knights and squires thirty and ten,  
+Twenty score of stout yeomen,  
+There is returned but me.
+
+And ever in my ears there rings  
+Our Captain's rallying cry,  
+And still I see with bloody wound,  
+Upon that trampled battle-ground,  
+The stricken sink to die.
+
+Then waly, waly, wives of Wight,  
+And make your moan with me,  
+For those stout hearts, your kith and kin,  
+Who died the Wideville's cause to win  
+In far-off Brittany.
+
 -- 
 
 Old account:
