@@ -26,6 +26,163 @@ https://en.wikipedia.org/wiki/Liberty_of_the_Clink
 In 1161 Bishop Henry of Blois was granted the power to license prostitutes and brothels in the liberty by King Henry II.[1] The prostitutes were known as Winchester Geese, and many are buried in Cross Bones,[1] an unconsecrated graveyard. Similarly, to "be bitten by a Winchester goose" meant "to contract a venereal disease",[2] and "goose bumps" was slang for symptoms of venereal diseases.
 
 
+https://archive.org/details/legendslaysofwig00ston/page/24/mode/2up
+Legends and lays of the Wight
+by Stone, Percy Goddard
+Publication date 1912
+
+pp. 25-30
+
+THE ARREST OF ODO (1082)
+
+. . . Odo, Bishop of Bayeux, who, under his brother King William, had the chief rule over the Normans and English . . . aspired to the papal power which would give him wider sway and raise him above all earthly princes. Attaching to his person ... a goodly company of distinguished knights, he engaged them to attend him to Italy by prodigal promises. . . .
+
+The wise King William speedily heard of these preparations . . . and lost no time in crossing the sea, and at the Isle of Wight presented himself unexpectedly to Bishop Odo when he was on the point of sailing . . . with a pompous retinue. Having assembled the great nobles of the realm in his royal hall, the King thus addressed them:—
+
+'Illustrious lords, listen attentively to what I shall say and give me, I pray you, salutary counsel. Before I went over to Normandy, I entrusted the government of England to my brother, the Bishop of Bayeux. There were in Normandy many who revolted against my authority . . . even my own son Robert . . . while traitorous vassals and my border foes eagerly joined the ranks of the malcontents. But by God's help, whose servant I am, they failed of success. . . . Meanwhile, my brother grievously oppressed the English, robbing the churches of their lands and revenues, and stripping them of the ornaments with which our forefathers enriched them : while he seduced my knights . . . and has made preparations ... for transporting them beyond the Alps . . . and has, by his unjust exactions, spread disorder through the whole of England. Consider then prudently what is to be done, and let me know, I pray you, what you advise.'
+
+All the council, however, being restrained by fear of the powerful prelate, and hesitating to make a decision against him, the stout-hearted King said : ' A dangerous ambition must always be curbed. Let this man therefore who disturbs the State be arrested, that he may do no further mischief.'
+
+No one, however, daring to lay hands on a bishop, the King was the first to seize him, upon which Odo cried out : —
+
+'I am a clerk and the Lord's minister; it is not lawful to condemn a bishop without the judgment of the Pope.' To which the prudent King replied, 'I do not condemn a clerk or a bishop, but I arrest an Earl I myself have created . . . that he should render an account of the stewardship I have committed to him.'
+
+In this manner the royal authority was exerted to arrest the bishop, who was conducted to Normandy, and . . . imprisoned in the Castle of Rouen. — *Orderic. Vital.*, Bk. vii. cap. 8.
+
+Odo, Bishop, William's regent,  
+To the Wight his knights had bidden,  
+Norman knights and English barons,  
+Ere he sailed for Italy.  
+'Greater honours, broader acres  
+Than within this narrow England,  
+Ye shall have, if ye will follow;  
+When I'm seated Pope,' quoth he.
+
+'Heed ye not this absent upstart —  
+Who can scarce firm grasp this kingdom,  
+Hard beset by Danes and Irish —  
+Overseas in Normandy,  
+Where his very kin do flout him.  
+Where his vassals scorn his power,  
+And with arméd force oppose his  
+Sovereign authority.
+
+'Why be slaves to such a tyrant?  
+Seeking but his own advantage,  
+Giving but to bind the tighter  
+To his captious beck and call.  
+Leave ye then this gloomy island,  
+Follow me to lands of sunshine.  
+Fiefs substantial, honours, riches:  
+Comrades, I can give ye *all*.'
+
+Tidings came to Norman William,  
+Resting him in Rouen city  
+After battle stress and turmoil,  
+After hard-won victory.  
+'Curses on this perjured prelate,  
+Curb will I his mad ambition;  
+Here, within this stone-girt prison,  
+Shall he muse on Destiny.
+
+'Babbles he of Popes and Power  
+And my trusted knights seduces
+With vile promptings! By God's splendour!  
+Words and actions shall he rue.'  
+Swift a vessel cleaves the Channel,  
+Urged by sail and oar to Wightland —  
+He is come, the 'iron-hearted,'  
+Like a bolt from summer blue.
+
+Mid the flickering light of torches  
+Silent stand the Knights and Barons,  
+Summoned by their King to Council  
+In the raftered Castle Hall.  
+Grim sits William on the dais,  
+Girt with sword, in helm and hauberk —  
+On the waiting throng before him  
+Stern and clear his accents fall.
+
+'Lords illustrious of my kingdom,  
+Due assembled at my summons,  
+Hear, and give me now your counsel  
+In a matter near my heart.  
+I have here a weighty question,  
+Just redress for evil doing  
+— Evil wrought 'gainst Crown and People —  
+We must solve ere hence we part.
+
+'Ere I sailed, this realm of England  
+To my brother I entrusted  
+— Naming him by seal vice-gerent —  
+Here to keep my 'scutcheon bright.  
+Bidding him care for my people;  
+Hold the Welsh within their border;  
+Wield his power well and wisely;  
+Judge the wrong, maintain the right.
+
+'Overseas in base rebellion  
+Rose they, swayed by traitorous counsel.  
+By God's help, whose arm sustained me,  
+Reaped they naught save infamy.  
+With iron heel I scotched this serpent  
+Rearing venomed head against me.  
+And with breath obscene and noisome  
+Wasting my fair Normandy.
+
+'While I waged just war, this Odo  
+Grievously oppressed my subjects,  
+Seizing lands, ay! robbing churches  
+Of the goods my forebears gave.
+Not content with these misdoings,  
+He would now seduce my liege men,  
+Draw them off to foreign regions  
+And with golden bait enslave.
+
+'Hence my heart with grief is riven  
+For my realm and church's dolour,  
+Sore oppressed by this my brother,  
+Heedless of his charge and vow.  
+How may this foul wrong be righted?  
+How redress these grave abuses?  
+As ye are my men and barons,  
+Give, I pray, good counsel now.'
+
+Answered neither knight nor baron;  
+Each one looked askance at other.  
+Grim smiled Odo, proud, defiant —  
+Silence reigned throughout the Hall.  
+'Mute! I warn ye, mad ambition  
+Must be curbed. Sans fear, sans favour,  
+Justice done. Arrest this traitor!  
+What 1 durst none obey my call?
+
+'Splender dex! Are all ye cravens?  
+Heard ye not your king's commandment.  
+Knights and barons I created?  
+Curs!' — In bitter wrath he rose —  
+'Dare ye not? Then I, your ruler,  
+Here arrest this mitred robber  
+Who disturbs our realm of England  
+And conspires with its foes'
+
+'Hands off! brother. None may judge me  
+Save alone the Pope in Council.  
+Minister of God and cleric,  
+Thee and thine I here defy.'  
+'Vain thy specious pleading, traitor;  
+Not as Bishop I arrest thee,  
+But as belted Earl, created  
+By mine own authority.
+
+'Shame upon thee! unjust steward;  
+Thy misdoings just condemn thee.  
+— And ye rest, take heed and warning' —  
+Through the Hall his utterance rings,  
+'Guard him well and hence convey him  
+To our new-made keep at Rouen,  
+Where at leisure he may ponder  
+Justice and the wrath of kings.'
 
 
 https://h2g2.com/edited_entry/A311112
