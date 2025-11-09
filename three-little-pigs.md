@@ -442,10 +442,8 @@ I wish you all a happy new year!
 
 ```
 
-```{seealso}
+*It would be interesting to know if any of the correspondence between Henry Smith and James Halliwell-Phillips are held in the [Collection of James O. Halliwell-Phillips](https://archives.collections.ed.ac.uk/repositories/2/resources/323) at the University of Edinburgh.*
 
-It woould be interesting to know if any of the correspondence between Henry Smith and James Halliwell-Phillips are held in the [Collection of James O. Halliwell-Phillipps](https://archives.collections.ed.ac.uk/repositories/2/resources/323) at the University of Edinburgh.
-```
 
 ## Other Variants
 
@@ -516,6 +514,43 @@ In the meantime Blacky had filled the kettle with water, and having put it on th
 
 As soon as he was sure that their wicked enemy was really dead, and could do them no further harm. Blacky started off to rescue Browny and Whitey. As he approached the den he heard piteous grunts and squeals from his poor little brother and sister who lived in constant terror of the fox killing and eating them. But when they saw Blacky appear at the entrance to the den their joy knew no bounds. He quickly found a sharp stone and cut the cords by which they were tied to a stake in the ground, and then all three started off together for Blacky' s house, where they lived happily ever after; and Browny quite gave up rolling in the mud, and Whitey ceased to be greedy, for they never forgot how nearly these faults had brought them to an untimely end.
  
+```
+
+A couple of years later, another naive variant of the tale was submitted to a children's column in the *Hampshire Telegraph*, apparently from a thirteen year old girl from Southsea (Portsmouth) remembering a tale her mother had told her "when she was little girl". This variant also involves a fox, but there is some variation in the initial framing of the tale as well as the materials used to build the pigs' houses. The resolution of the tale, and the utlimate come-uppance of the fox, is also given something of a new twist.
+
+```{admonition} Dear Grandpa Grimm
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18940421/063/0012
+Hampshire Telegraph - Saturday 21 April 1894
+
+Children's Hour
+
+*(Conducted by Grandpa Grimm.)*
+
+...
+
+Dear Grandpa Grimm,— The story I am sending you is one my mother used to tell me when I was little girl, which I hope will not be too long.
+
+*The Three Little Pigs*
+
+Once upon a time there were three little pigs, that lived very happily and comfortably under an old oak tree. Now, these three little pigs were very fond of lying under it, because it sheltered them from the sun, and every time the wind blew the acorns rattled down so the little pigs did not have to go far for their dinners. One evening, just as the sun was going down, the three little pigs were sleeping under the old oak tree, with one eye open and one ear too, when who should pass that way but Mr. Fox, with a great goose in his mouth. He looked this way and that way, and at last spied the three little pigs.
+
+"Ah," said he, "I shall know where to find my supper another night, but, as I can't take you now, I suppose I must leave you."
+
+The three little pigs lay very still until Mr. Fox was out of sight, for as they slept with one eye open, and one ear too, they both saw Mr. Fox. and heard what he said. Then they jumped up and began rubbing their noses together, and grunting, and making a great noise, and Brother Bill said to Brother Tom, "What shall we do?" Brother Jack, who was a wise little pig, said, "We must build houses this very night, and get into them." So they set to work. Brother Bill built his house of mud, and Brother Tom of strawn, and Brother Jack of bricks and mortar, and they got into them and lived very comfortably for some time.
+
+But one night Mr. Fox, who was short of a supper for his little ones, thought of the three little pigs, so just as the sun was going down he started for the old oak tree. There was the tree sure enough, but the three little pigs were nowhere to be seen. "I wonder where you are," said he, as he looked this way and that way, and at last he caught sight of the three houses. So he went up to the first one, and he said, "Piggy, Piggy, do let me in," and Piggy would not. "Then," said the fox, "I puff and puff until I a blow your house down," and as it was only made of straw he quickly blew it down, and went to eat the piggy up, when he found he had run out the back door into Brother Bill's house, and all the fox saw was a little curly tail just going around the corner.
+
+"So much the better," said Mr. Fox. "I have got you both together now." He then went up to the door and asked Piggy to let him in, but Piggy would not. So the fox said, "I ll scratch until the house falls down"; and as for was only built of mud, he quickly scratched it down, and went in to eat the two little pits up, but he forgot all about the back door again, and the pigs ran into brother Jack's house, and all the fox saw was two little curly tails just going around the door.
+
+"I have got all three of you together now," said he, "and if you don't let me in, I'll puff aud puff and blow your house down." But the little pigs would not let him in. He then tried to blow it down, and then to scratch it down, but he could not do either. So he said, "What a nice house you have got in there, Mr. Piggie. Do let me have a peep in." And Jack, who was very flattered, opened the door wide enough for the fox to get his head in. He then gave one spring, and into the midst of them he went. How the little pigs did tremble and shake, expecting to be eaten up at once. But the fox was too busy, looking first at one thing and then at another, until at last he canes to the fire-place, where there was a large pot on the fire, with something cooking for supper. The fox lifted the lid and gave a sniff. "Peas!" said he, "ah, pigs and peas for supper tonight, pigs and peas for supper tonight!" And the little pigs trembled and shook more than ever.
+
+But although Jack was shaking quite as much as his brothers, he was thinking of a plan to get rid of Mr. Fox, so he jumped on a chest that stood under the window and looked out. "Dear me, what a lot of men and dogs around the house," said he. "It's the huntsmen! Hide me! Hide me" said the fox. Jack jumped off the chest and opened the lid, and in the fox sprang; but after awhile he said he could not breathe. The little pigs said they would make it allright. They then made the poker red-hot, and bored a lot of holes on the top of ties chest, After this they went and stirred the fire and made the peas boil. When they thought they were done they lifted the pot off the fire, and went and poured the peas on the top of the chest and so scalded the fox to death. Then they all three joined hands together, and danced around, saying, "It is fox and peas for supper tonight! It is fox and peas for supper tonight!"
+
+So the little pigs had fox and peas for supper that night, and lived happily ever after.—Margaret C. Raitt (13), 164, Albert-road, Southsea.
+
+
+
 ```
 
 The early Dartmoor variant can be found in *English forests and forest trees*, 1853:
