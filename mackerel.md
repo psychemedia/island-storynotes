@@ -681,6 +681,55 @@ Immense shoals of mackerel have arrived off the back of the Island, affording a 
 
 ```
 
+```{admonition}
+:class: dropdown
+[Hampshire Advertiser - Saturday 29 December 1832](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18321229/040/0003)
+
+NEWPORT, Dec. 29.
+
+On Satyrday, the Petty Sessions held at the Guildhall, a man of name of Barnicle was fined in the mitigated penalty of 25l. having smuggled goods in his possession. The prisoner, in his defence, stated, that he went from his work at his breakfast time to his mother's for provisions, and as he was returning to his work he was accosted by a man, who asked him if he would carry a parcel to the boat at Cowes, to be put on board the steamer, and if he would he would give him 2s. and pay the boatman 1s. He did so, and left the parcel outside a public-house. It was afterwards seized a custom house officer, and found to contain about seven gallons of brandy in tubs: it was traced to the possession of the prisoner, for which he was fined the above penally.—Mr. Smith, of Blackpan Farm, was fined ten shillings and ten shillings costs, for selling potatoes in the town of Ryde, without paying toll. Jemima Stallard, for concealing 48 gallons of foreign brandy; and Ann Shiller, for concealing 54 gallon* of foreign brandy—pleaded guilty, and were fined in the mitigated penalty of 251.—Ann Sustcoat; for concealing six tubs of foreign brandy—not appearing to summons, she was fined 100l. and a warrant issued for her apprehension.—John Prayton, for assaulting Mr. Thos. Thorold, harbour-master of Cowes—fined 10s. and 4s. costs.
+
+```
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18411120/014/0003
+Hampshire Advertiser - Saturday 20 November 1841
+
+ODD SMUGGLING ADVENTURE.— We last week gave a report of the committal to Winchester gaol of a party of smugglers (two Englishmen and three Frenchmen) wbo formed the crew of a vessel taken by Captain M'Conachy, commander of the Rose, revenue cutter, in Chale Bay, Captain M'C. sent a party of his own men on board the smuggler, her captain being left on board. During the night the wind blew strongly off the coast, and the preventive men on board were obliged to let the vessel drift across the English channel, when she ultimately run into Cherbourg, and the captain immediately claimed his vessel and his liberty, leaving the preventive men to get back to England again as they could.
+
+```{admonition} An extensive seizure, 1844
+:class: dropdown
+[Hampshire Advertiser - Saturday 27 January 1844](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18440127/037/0008)
+
+COWES.
+
+SMUGGLING.— On Tuesday last an extensive seizure was made off the back of the Wight, by a boat's crew belonging to the revenue cutter Stag, Lieutenant C. G. Clark, her recently appointed commander. The night being fine the Commander dispatched a boat to row guard in shore under the High Land of Chale, while the cutter remained cruising off St. Catherine's. About 0.30 a.m., a smack was descried by the boat's crew standing in for the spot where they then happened to be; they therefore laid upon their oars and waited the close approach of the vessel, and were not observed by the crew of the smack until close on board of them. The smugglers immediately cut away their crop, which being observed by the officer in charge of the boat, he threw the mark-buoy overboard and pulled alongside, and in an instant the smack was boarded. She proved to be the William and Elisa, of Cowes, about 30 tons, with a crew of six men, viz.— James Barton, Edward White, John Symonds, William Lane (a well-known smuggler), Charles Hayles, and Stephen Grove. The boat's crew, after securing the men, succeeded in creeping up the crop, which consisted of eighty casks of foreign spirits; and the whole crew, vessel, and crop, were brought round by the cutter to this port. The men have since been committed fer trial by the Magistrates at Newport. This seizure is by far the richest prize this vessel (which used to be called the unlucky vessel,) has taken for the last seven years, and will prove a handsome boon to the captors.
+```
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18440127/046/0003
+Hampshire Independent - Saturday 27 January 1844
+
+COWES. On Monday night last the Revenue cutter Stag, Charles Griffin Clarke, commander, while cruising off St. Catharine's, despatched one of her boats, which succeeded in capturing the smack William and Eliza, of Cowes, which vessel on being discovered (it is said) had a quantity of tubs attached to her, which were cut away on the boat pulling alongside. A mark buoy was thrown over on the spot, and shortly after eighty tubs of spirits were crept up. There were six men on board, all belonging to the Isle of Wlghs, viz. James Barton, Edward White, John Summers, William Lane, Charles Hayles, and Stephen Groves. These were taken before the Magistrates at Newport, and committed for examination at the Petty Sessions, no Saturday (this day). This is the second important seizure made by the Stag in about six weeks.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18440203/035/0008
+Hampshire Advertiser - Saturday 03 February 1844
+
+Newport Petty Sessions.—  ... *James Barton*, *Stephen Groves*, *Edward White*, *William Lane*, *John Symonds*, and *Charles Hayles*, were charged with smuggling and pleaded Guilty. (The case was fully reported in our last.) They were each committed for six months imprisonment.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470327/027/0005
+Hampshire Advertiser - Saturday 27 March 1847
+
+Newport Borough Court.—Monday.
+
+A seaman named Patrick Mooney, applied to the Court for nearly 18l. which he said was due to him from Mr. S. Pring, coal-merchant, and which defendant refused to pay him.
+
+It appeared that Mr. Pring engaged him as a seaman for one of his vessels, the *Davenport*, at the rate of 8l. per month. The vessel left England four months' ago for Quebec, and when they cailed from thence complainant assisted in conveying on board and secreting several hundred pounds in weight of tobacco. The captain being made acquainted by the cabin-boy of the smuggling transaction, on their passage homeward, when they put in at Weymouth he immediately gave information of the fact at the Customs. The consequence was, complainant and another man were taken into custody, and, after being convicted of a penalty which they could not pay, they were sentenced to two months' imprisonment. On their liberation, complainant applied for his wages, and upwards of 1l for alleged shortness of provisions on the passage.
+
+It was proved that they had a sufficient quantity of provisions, and Mr Pring stated that he lost upwards of 100l by the detention of the vessel and other expenses; and had it not been for the fortunate timely discovery of the smuggling affair, he would have lost his ship.
+
+The Chairman said, as complainant had been guilty of smuggling, and convicted, they should be setting a bad example were they to order the payment of the wages. They should, therefore, dismiss the case.
 
 ```{admonition} VENTNOR  - Saturday 04 June 1870
 :class: dropdown
