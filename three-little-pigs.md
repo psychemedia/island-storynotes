@@ -444,6 +444,119 @@ I wish you all a happy new year!
 
 *It would be interesting to know if any of the correspondence between Henry Smith and James Halliwell-Phillips are held in the [Collection of James O. Halliwell-Phillips](https://archives.collections.ed.ac.uk/repositories/2/resources/323) at the University of Edinburgh.*
 
+## Illustrated Version, c1904
+
+https://archive.org/details/threelittlepigs00unse/
+Three little pigs
+PHILADELPHIA HENRY ALTEMUS COMPANY
+c1904?
+
+ALTEMUS' WEE BOOKS FOR WEE FOLKS
+
+Three little pigs
+
+Forty Illustrations by John Rea Neill
+
+American version
+
+TO DO Illustrations
+
+Also includes Precocous Piggy, pp. 28-47
+
+missing first few pages, but mayne recoverable from https://archive.org/details/firstbooksongan00stevgoog/page/60/mode/2up?q=%22it+was+only+of+straw+and+too%22 The first book of song and story
+by Cynthia May Westover Alden, Beatrice Stevens
+
+Publication date 1903
+
+pp1-27
+
+THE THREE LITTLE PIGS
+
+ONCE upon a time, when pigs could talk and no one had ever heard of bacon, there lived an old piggy mother with her three little sons.
+
+They had a very pleasant home in the middle of an oak forest, and were all just as happy as the day was long, until one sad year the acorn crop failed; then, indeed, poor Mrs. Piggy-wiggy often had hard work to make both ends meet.
+
+One day she called her sons to her, and, with tears in her eyes, told them that she must send them out into the wide world to seek their fortune.
+
+She kissed them all round, and the three little pigs set out upon their travels, each taking a different road, and carrying a bundle slung on a stick across his shoulder.
+
+The first little pig had not gone far before he met a man carrying a bundle of straw ; so he said to him, "Please, man, will you give me that straw to build me a house?" The man was very good-natured, so he gave him the bundle of straw, and the little pig built a pretty little house with it.
+
+No sooner was it finished, and the little pig thinking of going to bed, than a wolf came along, knocked at the door, and said, " Little pig, little pig, let me come in."
+
+But the little pig laughed softly, and answered, "No, no, by the hair of my chinny-chin-chin."
+
+Then said the wolf sternly, "I will make you let me in; for I'll huff, and I'll puff, and I'll blow your house in!"
+
+So he huffed and he puffed, and he blew his house in, because, you see, it was only of straw and too light; and when he had blown the house in, he ate up the little pig, and did not leave so much as the tip of his tail.
+
+The second little pig also met a man, and he was carrying a bundle of furze; so piggy said, politely: "Please, kind man, will you give me that furze to build me a house?"
+
+The man agreed, and piggy set to work to build himself a snug littie house before the night came on. It was scarcely finished when the wolf came along, and said : " Little pig, little pig, let me come in."
+
+" No, no, by the hair of my chinny-chin-chin," answered the second little pig.
+
+"Then I'll huff, and I'll puff, and I'll blow your house in!" said the Wolf. So he huffed and he puffed, and he puffed and he huffed, and at last he blew the house in, and gobbled the little pig up in a trice.
+
+Now, the third little pig met a man with a load of bricks and mortar, and he said, "Please, man,
+
+will you give me those bricks to build a house with ?"
+
+So the man gave him the bricks and mortar, and a little trowel as well, and the little pig built himself a nice strong little house. As soon as it was finished the wolf came to call, just as he had done to the other little pigs, and said : "Little pig, little pig, let me in !"
+
+But the little pig answered: "No, no, by the hair of my chinny chin-chin."
+
+"Then," said the wolf "I'll huff, and I'll puff, and I'll blow your house in."
+
+Well, he huffed and he puffed, and he puffed and he huffed, and he huffed and he puffed ; but he could not get the house down. At last he had no breath left to huff and puff with, so he sat down outside the little pig's house and thought for awhile.
+
+Presently he called out: "Little pig, I know where there is a nice field of turnips."
+
+"Where?" said the little pig.
+
+"Behind the farmer's house, three fields away, and if you will be ready to-morrow morning I will call for you, and we will go together and get some breakfast."
+
+"Very well," said the little pig; "I will be sure to be ready. What time do you mean to start?"
+
+"At six o'clock," replied the wolf.
+
+Well, the wise little pig got up at five, scampered away to the field, and brought home a fine load of turnips before the wolf came, At six o'clock the wolf came to the little pig's house and said: "Little pig, are you ready?"
+
+"Ready!" cried the little pig. "Why, I have been to the field and come back again long ago, and now I am busy boiling a potful of turnips for breakfast."
+
+The wolf was very angry indeed; but he made up his mind to catch the little pig somehow or other; so he told him that he knew where there was a nice apple-tree.
+
+"Where?" said the little pig.
+
+"Round the hill in the squire's orchard," the wolf said. "So if you will promise to play me no tricks, I will come for you to-morrow morning at five o'clock, and we will go there together and get some rosy-cheeked apples."
+
+The next morning piggy got up at four o'clock and was off and away long before the wolf came.
+
+But the orchard was a long way off, and besides, he had the tree to climb; which is a difficult matter for a little pig, so that before the sack he had brought with him was quite filled he saw the wolf coming towards him.
+
+He was dreadfully frightened, but he thought it better to put a good face on the matter, so when the wolf said: "Little pig, why are you here before me? Are they nice apples?" he replied at once: "Yes, very; I will throw down one for you to taste." So he picked an apple and threw it so far that whilst the wolf was running to fetch it he had time to jump down and scamper away home.
+
+The next day the wolf came again, and told the little pig that there was going to be a fair in the town that afternoon, and asked him if he would go with him.
+
+"Oh! yes," said the pig, "I will go with pleasure. What time will you be ready to start?"
+
+"At half-past three," said the wolf.
+
+Of course, the little pig started long before the time, went to the fair, and bought a fine large butterchurn, and was trotting away with it on his back when he saw the wolf coming.
+
+He did not know what to do, so he crept into the churn to hide, and, by so doing, started it rolling.
+
+Down the hill it went, rolling over and over, with the little pig squeaking inside.
+
+The wolf could not think what the strange thing rolling down the hill could be ; so he turned tail and ran away home in a fright without ever going to the fair at all. He went to the little pig's house to tell him how frightened he had been by a large round thing which came rolling past him down the hill.
+
+"Ha! ha!" laughed the little pig; "so I frightened you, eh? I had been to the fair and bought a butter-churn; when I saw you I got inside it and rolled down the hill."
+
+This made the wolf so angry that he declared that he would eat up the little pig, and that nothing should save him, for he would jump down the chimney.
+
+But the clever little pig hung a pot full of water over the hearth and then made a blazing fire, and just as the wolf was coming down the chimney he took off the cover and in fell the wolf. In a second the little pig had popped the lid on again.
+
+Then he boiled the wolf, and ate him for supper, and after that he lived quietly and comfortably all his days, and was never troubled by a wolf again
 
 ## Other Variants
 
@@ -1200,3 +1313,159 @@ Publication date 1969
 ---
 
 And also of course "This little pig went to market" nursery rhyme.
+
+
+
+---
+
+A version of a tale more commonly associated with goats...
+
+https://archive.org/details/wonderclockorfoupyle/page/250/mode/2up
+The wonder clock : or, Four & twenty marvellous tales, being one for each hour of the day
+by Pyle, Howard, 1853-1911; Pyle, Katharine, d. 1938
+
+Publication date 1915
+
+TO DO illustrations
+
+The Three Little Pigs and the OGRE.
+
+XIX.
+
+THERE were three nice, fat little pigs. The first was small, the second was smaller, and the third was the smallest of all. And these three little pigs thought of going out into the woods to gather acorns, for there were better acorns there than here.
+
+"There's a great ogre who lives over yonder in the woods," says the barn-yard cock.
+
+"And he will eat you up, body and bones," says the speckled hen.
+
+"And there will be an end of you," says the black drake. "If folks only knew what was good for them, they would stay at home and make the best of what they had there," said the old grey goose who laid eggs under the barn, and who had never gone out into the world or had had a peep of it beyond the garden gate.
+
+But no; the little pigs would go out into the world, whether or no; "for," said they, "if we stay at home because folks shake their heads, we will never get the best acorns that are to be had;" and there was more than one barleycorn of truth in that chaff, I can tell you. So out into the woods they went.
+
+They hunted for acorns here and they hunted for acorns there, and by and by whom should the smallest of all the little pigs meet but the great, wicked ogre himself.
+
+"Aha!" says the great, wicked ogre, "it is a nice, plump little pig that I have been wanting for my supper this many a day past. So you may just come along with me now."
+
+"Oh, Master Ogre," squeaked the smallest of the little pigs in the smallest of voices — "oh, Master Ogre, don't eat me! There's a bigger pig back of me, and he will be along presently."
+
+So the ogre let the smallest of the little pigs go, for he would rather have a larger pig if he could get it.
+
+By and by came the second little pig. "Aha!" says the great, wicked ogre, "I have been wanting just such a little pig as you for my supper for this many a day past. So you may just come along with me now."
+
+"Oh, Master Ogre," said the middle-sized pig, in his middle-sized voice, "don't take me for your supper; there's a bigger pig than I am coming along presently. Just wait for him."
+
+Well, the ogre was satisfied to do that; so he waited, and by and by, sure enough, came the largest of the little pigs.
+
+"And now," says the great, wicked ogre, "I will wait no longer, for you are just the pig I want for my supper, and so you may march along with me."
+
+But the largest of the little pigs had his wits about him, I can tell you. "Oh, very well," says he; "if I am the shoe that fits there is no use in hunting for another; only, have you a roasted apple to put in my mouth when I am cooked? for no one ever heard of a little pig brought on the table without a roast apple in its mouth."
+
+No; the ogre had no roasted apple.
+
+Dear, dear! that was a great pity. If he would wait for a little while, the largest of the little pigs would run home and fetch one, and then things would be as they should.
+
+Yes, the ogre was satisfied with that. So off ran the little pig, and the ogre sat down on a stone and waited for him.
+
+Well, he waited and he waited and he waited and he waited, but not a tip of a hair of the little pig did he see that day, as you can guess without my telling you.
+
+And Tommy Pfouce tells me that the great, wicked ogre is not the only one who has gone without either pig or roast apple, because when he could get the one he would not take it without the other.
+
+"And now," says the cock and the speckled hen and the black drake and the old grey goose who laid her eggs under the barn, and had never been out into the world beyond the garden-gate —" and now perhaps you will run out into the world and among ogres no more. Are there not good enough acorns at home?
+
+Perhaps there were; but that was not what the three little pigs thought. "See, now," said the smallest of the three little pigs, "if one is afraid of the water, one will never catch any fish. I, for one, am going out into the woods to get a few acorns."
+
+So out into the woods he went, and there he found all of the acorns that he wanted. But, on his way home, whom should he meet but the great, wicked ogre.
+
+"Aha!" says the ogre, "and is that you?"
+
+Oh, yes, it was nobody else; but had the ogre come across three fellows tramping about in the woods down yonder?
+
+No, the ogre had met nobody in the woods that day. - "Dear, dear," says the smallest little pig, "but that is a pity, for those three fellows were three wicked robbers, and they have just hidden a mealbag full of money in that hole up in the tree yonder."
+
+You can guess how the ogre pricked up his ears at this, and how he stared till his eyes were as big as saucers.
+
+"Just wait," said he to the smallest little pig, "and I will be down again in a minute." So he laid his jacket to one side and up the tree he climbed, for he wanted to find that bag of money, and he meant to have it.
+
+"Do you find the hole?" says the smallest of the little pigs.
+
+Yes; the ogre had found the hole.
+
+"And do you find the money?" says the smallest of the little pigs.
+
+No; the ogre could find no money.
+
+"Then good-bye," says the smallest of the little pigs, and off he trotted home, leaving the ogre to climb down the tree again as he chose.
+
+"And now, at least, you will go out into the woods no more," says the cock, the speckled hen, the black drake, and the grey goose.
+
+Oh, well, there was no telling what the three little pigs would do yet, they would have to wait and see.
+
+One day it was the middle-sized little pig who would go out into the woods, for he also had a mind to taste the acorns there.
+
+So out into the woods the middle-sized little pig went, and there he had all the acorns that he wanted.
+
+But by and by the ogre came along. "Aha!" says he. "Now I have you for sure and certain."
+
+But the middle-sized little pig just stood and looked at a great rock just in front of him, with all of his might and main. "Sh-h-h-h-h-h !" says he, "I am not to be talked to or bothered now!"
+
+Hoity-toity! Here was a pretty song, to be sure! And why was the middle-sized pig not to be talked to? That was what the ogre should like to know.
+
+Oh, the middle-sized little pig was looking at what was going on under the great rock yonder, for he could see the little folk brewing more beer than thirty-seven men could drink.
+
+So! Why, the ogre would like to see that for himself.
+
+"Very well," says the middle-sized little pig, "there is nothing easier than to learn that trick! just taka a handful of leaves from yonder bush and rub them over your eyes, and then shut them tight and count fifty."
+
+Well, the ogre would have a try at that. So he gathered a handful of the leaves and rubbed them over his eyes, just as the middle-sized pig had said.
+
+"And now are you ready?" said the middle-sized little pig.
+
+Yes; the ogre was ready.
+
+"Then shut your eyes and count," said the middle-sized little pig.
+
+So the ogre shut them as tightly as he could and began to count, "One, two, three, four, five," and so on; and while he was counting, why, the little pig was running away home again.
+
+By and by the ogre bawled out "*Fifty!!!*" and opened his eyes, for he was done. Then he saw not more, but less, than he had seen before, for the little pig was not there.
+
+And now it was the largest of the three little pigs who began to talk about going out into the woods to look for acorns.
+
+"You had better stay at home and take things as they come. The crock that goes often to the well gets broken at last;" that was what the cock, the speckled hen, the black drake, and the grey goose said; and they thought themselves very wise to talk as they did.
+
+But no ; the little pig wanted to go out into the woods, and into the woods the little pig would go, ogre or no ogre.
+
+After he had eaten all of the acorns that he wanted he began to think of going home again, but just then the ogre came stumping along. "Aha!" says he, "we have met again, have we?"
+
+"Yes," said the largest of the three little pigs, "we have. And I want to say that I could find no roast apple at home, and so I did not come back again."
+
+Yes, yes, that was all very fine; but they should have a settling of old scores now. The largest of the three little pigs might just come along home with the ogre, and to-morrow he should be made into sausages ; for there was to be no trickery this time, so there was an end of the matter.
+
+Come, come! the ogre must not be too testy. There was such a thing as having too much pepper in the pudding — that was what the largest of the little pigs said. If it were sausages that the ogre was after, maybe the pig could help him. Over home at the farm yonder was a storehouse filled with more sausages and good things than two men could count. There was a window where the ogre could just squeeze through. Only he must promise to eat what he wanted and to carry nothing away with him.
+
+Well, the ogre promised to eat all he wanted in the storehouse, and then off they went together.
+
+By and by they came to the storehouse at the farm, and there, sure enough, was a window, and it was just large enough for the ogre to squeeze through without a button to spare in the size.
+
+Dear, dear! how the ogre did stuff himself with the sausages and puddings and other good things in the storehouse.
+
+By and by the little pig bawled out as loud as he could, "Have you had enough yet?"
+
+"Hush-sh-sh-sh-sh-sh-sh!" says the ogre, "don't talk so loud, or you'll be rousing the folks and having them about our ears like a hive of bees."
+
+"No," bawled the little pig, louder than before, "but tell me, have you had enough yet?"
+
+"Yes, yes," says the ogre, " I have had almost enough, only be still about it!"
+
+"Very well!" bawled the little pig, as loud as he could, "if you have had enough, and if you have eaten all of the sausages and all of the puddings you can stuff, it is about time that you were going, for here comes the farmer and two of his men to see what all the stir is about."
+
+And, sure enough, the farmer and his men were coming as fast as they could lay foot to the ground.
+
+But when the ogre heard them coming, he felt sure that it was time that he was getting away home again, and so he tried to get out of the same window that he had gotten in a little while before. But he had stuffed himself with so much of the good things that he had swelled like everything, and there he stuck in the storehouse window like a cork in a bottle, and could budge neither one way nor the other ; and that was a pretty pickle to be in.
+
+"Oho!" says the farmer, "you were after my sausages and my puddings, were you? Then you will come no more."
+
+And that was so; for when the farmer and his men were done with the ogre he never went into the woods again, for he could not.
+
+As for the three little pigs, they trotted away into the woods every day of their lives, for there was nobody nowadays to stop them from gathering all the acorns that they wanted.
+
+Now, don't you believe folks when they say that this is all stuff and nonsense that I have been telling you; for if you turn it upside down and look in the bottom of it you will find that there is more than one grain of truth there; that is if you care to scratch among the chaff for it. And that is the end of this story.
