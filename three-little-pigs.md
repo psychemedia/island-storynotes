@@ -58,6 +58,23 @@ Well, he huffed, and he puffed, and he huffed, and he puffed, and he puffed, and
 
 ```
 
+```{admonition} The origin of "Merry Garden"
+:class: dropdown
+
+From the *Hampshire Advertiser*,  [Saturday 04 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471204/045/0007), we learn:
+
+> *Gard's Gift to the Poor.* — This parish [Godshill] is likewise entitled to the annual sum of 30s, being a portion of the numerous gifts of Richard Gard, stated in the account of the charities of the parish of Arreton. This sum is paid to the churchwardens by the owner of an estate in Brading formerly called Black-pan, but now the Merry Gardens, and is distributed in small sums amongst the poor at the discretion of the churchwardens.
+
+We see also there were pigs at the farm there from an advertisement in the *Hampshire Telegraph* of [Saturday 29 September 1849](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18490929/010/0003):
+
+> MERRY GARDEN FARM, PARISH OF BRADING, ISLE OF WIGHT. EIGHT clever young CART MARES AND GELDlNGS, six dairy cows, 20 pigs, 22 tons of hay, two waggons. four carts, the usual Implements, Household Goods, Dairy and Brewing Utensils, the propety of Mr. Attrill, quitting thee farm, will be SOLD by AUCTION, by Mr. F. PITTIS, on Monday, October 8, 1849 at 12 o'clock.
+
+In *Jenkinson's practical guide to the Isle of Wight*, [p65](https://archive.org/details/jenkinsonspract00jenkgoog/page/n158/mode/2up?q=%22merry+garden%22).
+
+The tourist may descend to Borthwood farm and return to Sandown by a footpath which passes near the waterworks by Black Pan Common ; or he may continue on the road by the hamlet of Borthwood, and a small Methodist chapel to the village of Lake,' passing the Lee and Merry garden farms : the latter is a pleasant-looking place, said to have been once famous for its cherry gardens, hence its name from the French, merise — ^wild cherry.
+
+```
+
 The tale was reprinted in Jacobs' *English Fairy Tales* of 1890, and opens with a rhyme:
 
 ```{admonition} *The Story of the Three Little Pigs*, Jacobs, 1890
@@ -485,7 +502,7 @@ She kissed them all round, and the three little pigs set out upon their travels,
 
 The first little pig had not gone far before he met a man carrying a bundle of straw ; so he said to him, "Please, man, will you give me that straw to build me a house?" The man was very good-natured, so he gave him the bundle of straw, and the little pig built a pretty little house with it.
 
-No sooner was it finished, and the little pig thinking of going to bed, than a wolf came along, knocked at the door, and said, " Little pig, little pig, let me come in."
+No sooner was it finished, and the little pig thinking of going to bed, than a wolf came along, knocked at the door, and said, "Little pig, little pig, let me come in."
 
 But the little pig laughed softly, and answered, "No, no, by the hair of my chinny-chin-chin."
 
@@ -495,17 +512,15 @@ So he huffed and he puffed, and he blew his house in, because, you see, it was o
 
 The second little pig also met a man, and he was carrying a bundle of furze; so piggy said, politely: "Please, kind man, will you give me that furze to build me a house?"
 
-The man agreed, and piggy set to work to build himself a snug littie house before the night came on. It was scarcely finished when the wolf came along, and said : " Little pig, little pig, let me come in."
+The man agreed, and piggy set to work to build himself a snug littie house before the night came on. It was scarcely finished when the wolf came along, and said: "Little pig, little pig, let me come in."
 
-" No, no, by the hair of my chinny-chin-chin," answered the second little pig.
+"No, no, by the hair of my chinny-chin-chin," answered the second little pig.
 
 "Then I'll huff, and I'll puff, and I'll blow your house in!" said the Wolf. So he huffed and he puffed, and he puffed and he huffed, and at last he blew the house in, and gobbled the little pig up in a trice.
 
-Now, the third little pig met a man with a load of bricks and mortar, and he said, "Please, man,
+Now, the third little pig met a man with a load of bricks and mortar, and he said, "Please, man, will you give me those bricks to build a house with ?"
 
-will you give me those bricks to build a house with ?"
-
-So the man gave him the bricks and mortar, and a little trowel as well, and the little pig built himself a nice strong little house. As soon as it was finished the wolf came to call, just as he had done to the other little pigs, and said : "Little pig, little pig, let me in !"
+So the man gave him the bricks and mortar, and a little trowel as well, and the little pig built himself a nice strong little house. As soon as it was finished the wolf came to call, just as he had done to the other little pigs, and said : "Little pig, little pig, let me in!"
 
 But the little pig answered: "No, no, by the hair of my chinny chin-chin."
 
@@ -633,7 +648,7 @@ As soon as he was sure that their wicked enemy was really dead, and could do the
  
 ```
 
-A couple of years later, another naive variant of the tale was submitted to a children's column in the *Hampshire Telegraph*, apparently from a thirteen year old girl from Southsea (Portsmouth) remembering a tale her mother had told her "when she was little girl". This variant also involves a fox, but there is some variation in the initial framing of the tale as well as the materials used to build the pigs' houses. The resolution of the tale, and the utlimate come-uppance of the fox, is also given something of a new twist.
+A couple of years later, another naive variant of the tale was submitted to a children's column in the *Hampshire Telegraph*, apparently from a thirteen year old girl from Southsea (Portsmouth) remembering a tale her mother had told her "when she was little girl". This variant also involves a fox, but there is some variation in the initial framing of the tale as well as the materials used to build the pigs' houses. The resolution of the tale, and the ultimate come-uppance of the fox, is also given something of a new twist.
 
 ```{admonition} Dear Grandpa Grimm
 :class: dropdown
@@ -757,7 +772,7 @@ The Eldest replied,-"and live in it alone."-
 
 "Oh! build it of Iron-and build it of Steel!  
 "And make haste, my Mother, while yet you can feel;  
-"For I know, by the curl of mytail in the wind,  
+"For I know, by the curl of my tail in the wind,  
 "That the -Wolf is preparing his grinders to grind;  
 "For he longs to devour us, by way of a treat,  
 "As he knows that our Flesh makes most delicate meat."-
@@ -951,7 +966,7 @@ Down went the hot stream! out went both his eyes!—
 He made a great Yell-stretched himself on his side-  
 Hung over the edge of the Kettle-and died!
 
-And now for my Moral ;-you'll own its but fair,  
+And now for my Moral;-you'll own its but fair,  
 That our Lives should command our particular care:  
 And self-int'rest, you know, has its natural source  
 In a love for ourselves as a matter of course;-  

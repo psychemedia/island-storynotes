@@ -390,7 +390,7 @@ By and by the little pig bawled out as loud as he could, "Have you had enough ye
 
 "No," bawled the little pig, louder than before, "but tell me, have you had enough yet?"
 
-"Yes, yes," says the ogre, " I have had almost enough, only be still about it!"
+"Yes, yes," says the ogre, "I have had almost enough, only be still about it!"
 
 "Very well!" bawled the little pig, as loud as he could, "if you have had enough, and if you have eaten all of the sausages and all of the puddings you can stuff, it is about time that you were going, for here comes the farmer and two of his men to see what all the stir is about."
 

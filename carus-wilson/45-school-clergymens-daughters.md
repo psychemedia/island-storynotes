@@ -236,7 +236,7 @@ Sundays were dreary days in that wintry season. We had to walk two miles to Broc
 
 At the close of the afternoon service, we returned by an exposed and hilly road, where the bitter winter wind, blowing over a range of snowy summits to the north, almost flayed the skin from our faces.
 
-I can remember Miss Temple walking lightly and rapidly along our drooping line, her plaid cloak, which the frosty wind fluttered, gathered close about her, and encouraging us, by precept and example, to keep up our spirits, and march forward, as she said, " like stalwart soldiers." The other teachers, poor things, were generally themselves too much dejected to attempt the task of cheering others.
+I can remember Miss Temple walking lightly and rapidly along our drooping line, her plaid cloak, which the frosty wind fluttered, gathered close about her, and encouraging us, by precept and example, to keep up our spirits, and march forward, as she said, "like stalwart soldiers." The other teachers, poor things, were generally themselves too much dejected to attempt the task of cheering others.
 
 How we longed for the light and heat of a blazing fire when we got back! But, to the little ones at least, this was denied: each hearth in the school-room was immediately surrounded by a double row of great girls, and behind them the younger children crouched in groups, wrapping their starved arms in their pinafores.
 ```

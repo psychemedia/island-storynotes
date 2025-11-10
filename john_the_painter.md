@@ -824,7 +824,7 @@ He appealed to the judge, whether from the news-papers, and the various reports 
 
 He remarked also, that some evidence had contradicted others as to the time of his being at Canterbury, &c, and with the date of his passport—When asked whether he would call any witnesses, he replied, "For what end? till something is proved positive against me, I intend no defence in the world. I am ready to live or die according to justice."
 
-*Baron Hotham* summoned up the evidence with great precision, and the jury almost immediately pronounced the prisoner *guilty*. When he was asked why sentence of death should not be pronounced upon him? He replied, "I have nothing to say." The judge then passed judgment upon him with great feelings of humanity, and saying, "I can give you no hope of pardon." The prisoner said, "I do not look for it, my lord." And the judge calling it the painful sentence of the law, he stiled it "joyful". And at the conclusion of the judge's address and sentence, " My Lord, I am exceedingly well satisfied."
+*Baron Hotham* summoned up the evidence with great precision, and the jury almost immediately pronounced the prisoner *guilty*. When he was asked why sentence of death should not be pronounced upon him? He replied, "I have nothing to say." The judge then passed judgment upon him with great feelings of humanity, and saying, "I can give you no hope of pardon." The prisoner said, "I do not look for it, my lord." And the judge calling it the painful sentence of the law, he stiled it "joyful". And at the conclusion of the judge's address and sentence, "My Lord, I am exceedingly well satisfied."
 
 HIS CONFESSION
 

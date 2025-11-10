@@ -604,7 +604,7 @@ r
 
 XIII.
 • • • • •
-That a sum, not exceeding ten pounds in any one year, be laid out in purchasing spinning- wheels, cards, and such like implements of work^ for the ^fe of the industrious poor women and children; which, after being marked " house of Industry," may be lent or given them, at the discretion of the weekly committee; and that work in spinning, knitting, &c. shall be supplied from the house, by an order from the said committee, to all  persons of the above description, who may not be able to pro- cure any such work elsewhere,
+That a sum, not exceeding ten pounds in any one year, be laid out in purchasing spinning- wheels, cards, and such like implements of work^ for the ^fe of the industrious poor women and children; which, after being marked "house of Industry," may be lent or given them, at the discretion of the weekly committee; and that work in spinning, knitting, &c. shall be supplied from the house, by an order from the said committee, to all  persons of the above description, who may not be able to pro- cure any such work elsewhere,
 XIV. That
 
 

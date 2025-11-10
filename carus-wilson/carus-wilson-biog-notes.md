@@ -52,9 +52,9 @@ From Portsmouth.
 On Sundays.
 
 From Ryde 7.50 10.0 4.15 6.30  
-  " Gosport 8.40 2.20 5.20
-  " Portsea 8.45 2.25 5.25 7.30  
-  " Portsmouth 8.50 2.30 6.30
+  "Gosport 8.40 2.20 5.20
+  "Portsea 8.45 2.25 5.25 7.30  
+  "Portsmouth 8.50 2.30 6.30
 
 FARES:— Quarter Deck, 1s. —Fore Deck, 8d.
 

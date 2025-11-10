@@ -164,18 +164,18 @@ Coram Rege Chief Justice's roll, venue: Westminster, 8 Edw II Hilary term. http:
 
 
 
-https://www.pastscape.org.uk/hob.aspx?hob_id=899227 JEsUs CHRIsT
-ALTERNATIVE NAME: 	NAVIs DE JEHsU CHRIsTI, sHIP OF JEsUs CHRIsT, NAVIs DE JEHsU CHRIsTI DE PORTU
+https://www.pastscape.org.uk/hob.aspx?hob_id=899227 JESUS CHRIST
+ALTERNATIVE NAME: 	NAVIs DE JEHSU CHRISTI, sHIP OF JESUS CHRIST, NAVIs DE JEHSU CHRISTI DE PORTU
 
 1318 or earlier wreck of Portuguese cargo vessel which stranded at Brighstone en route from Oporto and/or Lisbon to England. Forty-five or fifty local people were accused of stealing her goods, and the court case is documented for nearly 20 years; 1318 is the earliest year for which a complaint has come to light. Constructed of wood, she was a sailing vessel.
 
-Commission of Oyer and Terminer, where as merchants of Portugal and fellows, that whereas they had laden a ship called the JEsUs CHRIsT of Portyngall with merchandise for conveyance to England and the ship had been driven ashore on the coast of Brighteston in the Isle of Wight and all on board her had escaped to land whereby the ship and merchandise ought not to be declared wreck of the sea, John, Prior of Caresbrok, John de Presford, John, son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight; Philip Aubyn, John Gabriel, John de Notlye, 'spicer' etc, took and carried away their goods against their will. (3)
+Commission of Oyer and Terminer, where as merchants of Portugal and fellows, that whereas they had laden a ship called the JESUS CHRIST of Portyngall with merchandise for conveyance to England and the ship had been driven ashore on the coast of Brighteston in the Isle of Wight and all on board her had escaped to land whereby the ship and merchandise ought not to be declared wreck of the sea, John, Prior of Caresbrok, John de Presford, John, son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight; Philip Aubyn, John Gabriel, John de Notlye, 'spicer' etc, took and carried away their goods against their will. (3)
 
-A Portuguese vessel, the ship of JEsUs CHRIsT, which the merchant Martin de Bek, had freighted with goods for England, was driven ashore by storm at Brighstone. The merchant complained, 1 July 1336, that it was not a wreck, for all the crew came safely ashore with their goods, but a considerable number of men came and carried off these goods. In the long list of some 45 men we find many islanders who ought to have known better, among whom was Walter de Goditon. The list includes men from Christchurch, Lymington, Milford and Portsmouth. (4)
+A Portuguese vessel, the ship of JESUS CHRIST, which the merchant Martin de Bek, had freighted with goods for England, was driven ashore by storm at Brighstone. The merchant complained, 1 July 1336, that it was not a wreck, for all the crew came safely ashore with their goods, but a considerable number of men came and carried off these goods. In the long list of some 45 men we find many islanders who ought to have known better, among whom was Walter de Goditon. The list includes men from Christchurch, Lymington, Milford and Portsmouth. (4)
 
 source (3) states the date of loss as 01-JUL-1336, which, in fact, is the last date recorded in the Patent Rolls for a legal action which appears to have continued for nearly 20 years, and the date has accordingly been corrected to a reporting date of 22-NOV-1318.
 
-Additionally, a vessel is said to have been lost in Brooke Bay at Hanover Point, in 1320 [q.v.]. This lies very close to Brighstone and may be a variant account of the JEsUs CHRIsT; a variant account of the sT MARY [q.v.], also lost 1320; or a separate wreck in its own right. Any of these could have been lost earlier than 1320 or the confusion could have arisen at a later date.
+Additionally, a vessel is said to have been lost in Brooke Bay at Hanover Point, in 1320 [q.v.]. This lies very close to Brighstone and may be a variant account of the JESUS CHRIST; a variant account of the sT MARY [q.v.], also lost 1320; or a separate wreck in its own right. Any of these could have been lost earlier than 1320 or the confusion could have arisen at a later date.
 
 
 Owner: of cargo, Martin le Bek, of Oporto and his fellow merchants of Oporto (4)(5)(6)(7)(8)(9)(10)
