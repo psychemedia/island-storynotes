@@ -1097,6 +1097,18 @@ Bath Chronicle and Weekly Gazette - Thursday 19 July 1781
 
 ```
 
+
+
+TH: the following incorrectly?? suggest s gibbeting near where John the Painter was gibbeted?
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820829/013/0003
+Stamford Mercury - Thursday 29 August 1782
+
+By a Gentleman who arrived in town last night from Portsmouth, we are informed that David Tyrie, who was convicted at the last Winchester assize, for holding a treasonable correspondence with the French Ministry, was taken from the prison of that city, early on Saturday morning last, to Portsmouth, where he was on a gibbet erected for the purpose, in the presence of an immense crowd of people. The unhappy man it is said to have behaved throughout with such a decent fortitude that most of the spectators seemed sensibly affected at his misfortunes, and treated him with great tenderness at the place of execution. His body is to be hung in chains at the Gosport side, near Blockhouse fort.
+
+Tyrie, a short time before execution, made a full discovery of his accomplices, one of them is in custody, and remains to be tried; but the prisoner has discovered, that his employment was a regular and well digested system of information, in the conveying of which no pains or expence was spared. It appears that a certain American, who lately took a trip over to Paris, has been the principal planner and conductor of the scheme, and got his neck out of the halter, by suffering La Motte, Tyrie, and others, to be apprehended and executed, when he himself was the greater culprit. By some means or other these incendiaries not only got at the Admiralty orders, but they informed the French Court of the actual force and destination of our fleets long before they were equipped, and by such means rendered their expeditions abortive.
+
+
 ```{admonition} The life and trial of F. H. de la Motte, 1781
 :class: dropdown seealso
 https://archive.org/details/bim_eighteenth-century_the-life-and-trial-of-f_de-la-motte-francis-hen_1781
