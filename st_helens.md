@@ -5,8 +5,90 @@ If you go down to the Duver at St Helens, you'll see the ruined tower [tower was
 ??reverse timeline?
 
 
-The original wooden Church built there in the first decade of the eighth century by Hildila, Chaplain to the Bishop of Chicester, supposedly because he could look back over the Solent to Chichester. A Cluniac Priory was founded on the site in the first decade of the twelfth century in the reign of Henry I; its mother house was the Priory of Much Wenlock. A stone church was now built along with the Priory buildings. The community continued for the next three hundred years, but it was not a wealthy house, and when the Mother House of Much Wenlock bought its Charter of Denization back from Cluny, St Helens could not follow suit. Its continuing financial commitments to Cluny, to "the French", sealed its alien status and it was finally suppressed in 1414 by Henry V, the title to the land passing from the crown to Eton College in 1467.
+https://books.googleusercontent.com/books/content?req=AKW5QacX__HB7zujgtHdSwDVyAcA0BqDODRBueTp6MsKXot-9F8XK-jFMYQg2SszXMBGNEbDOCLYw_4OBPP1jHYya7yq_IAzWbAXNEIYrQw090WHNHeeCC5YzkJA7auYqLV7eHdAK2AsD6FVbzpn7n6gjhv2F3X6_M0GFtGB2Uxd7yD9RcMDytk6eu3fTzl_yJPgPPQ8x35gog3Pv3IsJjMKjdAsvfEZuAoAZubLb7Cs1xxuo3lHO24dy2jfNBEuuOoJvKL9_d9fDa5Hxu_bc3QE1NK5KFVNZ_0YPWdCOzbGom7svrveB50
+Percy Stone Architectural Antiquties Isle of Wight
 
+![](images/Architectural_Antiquities_st_helens.png)
+
+. HELEN'S Priory must have been founded during the tenure of the Island by the Foundation
+ofthe
+Priory.
+Crown, between the escheat of Roger of Hereford and the grant to Richard de
+Redvers—i.e. between 1086 and 1100,2—and probably owed its existence to the Conqueror's
+son, William Rufus. It was a cell from a Norman abbey of the
+Cluniac order, whose name, however, does not appear in any deed.
+That the priory was founded before the Church of S. Mary at Brading
+seems evident, or it would not have claimed the advowson of the
+church, and that such a claim was valid is shown by the fact that the
+Convent of Breamore paid 45 marks in consideration of its abandonment. If there was no claim on the church, how could it have been Claim on
+relinquished ? Besides, the priory is referred to in the Patent Roll, Brading.
+2nd Richard II . , as existing " from the foundation of our ancestors. " c
+In Bishop Pontissara's Register, 1282-1304, occurs the entry,
+" Admissio ad Vicariam S. Elene " The Vicarage seems to have
+been in the Prior's hands till the time of Bishop Stratford, 1323-33,
+when it appears in the presentation of Peter de Watford, probably
+as the appurtenance of an alien Priory, under grant from the Crown. SELERA
+We find the church of the Priory did duty for the parish, and the entry
+appears in the Winchester Registers of Bishop Edingdon, 1346-66, granting a license to
+the prior to celebrate mass and administer the sacraments till a vicar should be established.
+Shortly after, the living appears to have lapsed to the Bishop, as in the next Register,
+that of Wykeham, 1367-1404, a license is granted to serve the Church of S. Helen's,
+" per unum monachim. "
+Church of
+the Priory
+Church.
+the parish
+The fortunes of the monks of S. Helen's underwent the many vicissitudes incident to Suppression
+e
+the alien foundations, being now suppressed, and anon reinstated, till the priory was
+finally extinguished in the reign of Henry V. Its revenues, having thus lapsed to the
+Crown, were granted by the next king-Henry VI.-to Eton College, and the Priory Grant to
+itself was shortly after granted by Edward IV. to the same foundation, from whom the Eton.
+King, in the 14th year of his reign, appears to have transferred it to Windsor College.d
+In the reign of Edward I. the Prior released his claim to the Rectory of Brading. In Release of the same reign, in the Return of the Dean of the Island, 1305, under " Sct. Elene, " we find Brading.
+" Prior habet ecclesiam sibi appropriatam. " That at all events in the reign of Edward III.
+the Priory was not a wealthy establishment is evident, as it furnished only one archer to the
+Island strength. In the valuation of benefices by Cardinal Beaufort, temp. Henry VI . , the
+church is rated at 30 marks.
+The inroads of the sea have been the greatest enemy of the structure, which, from its The Church indecay.
+exposed position, bore the brunt of all the storms that swept up from the S.E. In the reign Temp.
+of Edward VI . the north wall was taken down as a dangerous structure, and in the reign o
+
+since " you might see in at one end and out at the other " ; and George Oglander, " the
+،،
+centoner of S. Elyn's, " in his report, December 1559, goes on to say " that the church
+" hath been evil served and worse repaired ever since Dr. Cole hath been Provost of
+Eton, " there had been no curate and but little service for many years-" so that
+" the parishioners had been fain to bury their corpses themselves ; and yet they pay " nevertheless their tithes. Foreign sailors, seeing the shameful using of the same, think
+" that all other churches within the realm be like used, and so have both spoken and done
+" shameful acts in our derision ; and what they have said and made report of in their own
+،،
+Erection of country God knoweth." At the beginning of the 18th century the inhabitants obtained
+a faculty to erect a new church on a site to the north of the village, which was accordingly.
+church. consecrated by Bishop Trelawney, in 1719.
+The tower,
+Former im- portance of
+S. Helen's.
+The only remaining portion of the ancient church is the Early 13th century tower, which
+was buttressed up, probably about the time of the building of the new church by the Trinity Board, as it formed a valuable landmark. In the reign of James I. the Priory was bought by
+Mr. Emanuel Badd, who, according to Sir John Oglander, was a poor man's son, “ but by God's blessing, and ye losse of 5 wyfes, he grewe very ritch ; " (the italics are mine). Of the ancient building not a vestige remains, it having been finally demolished, and a modern
+house erected on the site, about the middle of the last century.
+“
+The Parish of S. Helen's appears to have formerly enjoyed a certain amount of importance as a place of call for foreign vessels, and probably a harbour of refuge. Here
+it was that outward-bound ships were wont to put in for water, which it is said remained fresh
+and bright even at the end of a long voyage, so excellent was the spring from whence it was
+drawn. A family of some distinction took its name from S. Helen's, and appear from time to
+time in the history of the Island, generally as witnesses to deeds. It was from S. Helen's
+Sir Edward that the gallant Sir Edward Wydvil, * with the Island chivalry at his back, sailed, in 1488, on
+Wydvil.
+his ill-fated expedition which ended so disastrously on the field of St. Aubyn, in the July
+of the same year.
+
+ * The orthography of the family name in contemporary documents varies, a
+
+????ref for below?
+
+The original wooden Church built there in the first decade of the eighth century by Hildila, Chaplain to the Bishop of Chicester, supposedly because he could look back over the Solent to Chichester. A Cluniac Priory was founded on the site in the first decade of the twelfth century in the reign of Henry I; its mother house was the Priory of Much Wenlock. A stone church was now built along with the Priory buildings. The community continued for the next three hundred years, but it was not a wealthy house, and when the Mother House of Much Wenlock bought its Charter of Denization back from Cluny, St Helens could not follow suit. Its continuing financial commitments to Cluny, to "the French", sealed its alien status and it was finally suppressed in 1414 by Henry V, the title to the land passing from the crown to Eton College in 1467.
 
 By early 1500s the priory, and the Church along with it, were falling into disrepair, - letter Elizabeth state of the church; perhaps around this time holystone; despite occasional repairs the state of the Church continued to decline through the 1600s.
 
