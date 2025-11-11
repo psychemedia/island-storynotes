@@ -6,8 +6,11 @@ The southernmost tip is known as St Catherine's Point; it's flanked by the villa
 
 Looking inland, you'll see St Catherine's Hill looming in front of you, topped off by St Catherine's Oratory, commonly known as *the Pepperpot*.
 
+A map of "Wight Island" from 1627, in John Speed's "The theatre of the empire of Great Britain", and more specifically, *The contents of the Chorographical Part Book 1 ch 8*, [p15](https://archive.org/details/bim_early-english-books-1475-1640_the-theatre-of-the-empir_speed-john_1627/page/n345/mode/2up), shows a tower on top of the down at *St. Katherine* near the southernmost point of the Island.
 
-TO DO - was well known as a sea mark - change: The declining state of the Pepperpot was remarked upon in correspondence to *The Gentleman's Magazine* in 1757, along with illustrations of the building, noting that it played an important role as a sea mark, and it's loss would be keenly felt by those mariners who relied upon it.
+!["Wight Island", in The theatre of the empire of Great Britain, The contents of the Chorographical Part Book 1 ch 8, p15](images/speed_cropped.png)
+
+For centuries this tower had acted as a well known sea mark, although correspondence to *The Gentleman's Magazine* in 1757, along with illustrations of the building, suggested that at times it had been in a poor state of repair, and that if it should disappear its loss would be keenly felt by those mariners who relied upon it.
 
 ```{admonition} The Tower of St Catharines, 1957
 :class: dropdown
@@ -36,7 +39,7 @@ The tower of *St Catharine* has been long a sea mark, and has been of the most i
 
 ```
 
-The view from the down is a majestic one, and includes a tale, of Week Down, although I will save that for later..
+The view from the down is a majestic one, and includes a tale of the nearby Week Down, as described elsewhere.
 
 ```{admonition} "Infinitely rich, and almost unbounded", 1836
 :class: dropdown
@@ -49,7 +52,6 @@ The Chine we lately described, is a fissure in the south side of this stupendous
 
 ```
 
-
 ```{admonition} The view from the summit, 1876
 :class: dropdown
 
@@ -61,8 +63,20 @@ Miss Sewell, in 'Ursula,' when describing the view westward from St. Catherine's
 
 ```
 
-TO DO - Mackerel
+```{admonition} A busy shipping lane
+:class: dropdown
+The Undercliff Of The Isle Of Wight Past And Present
+by Whitehead, John L.
 
+Publication date 1911
+
+p7
+
+From the summit of the Downs the view is a panorama of perfect harmony — the far off sea alive with the reflection of the fleecy clouds, the sinuous coast line, stretching for miles from St. Catherine’s Point back to Dunnose, affording at all times a variety of ever changing maritime scenery which cannot fail to entertain. It is not an infrequent occurrence to witness a fleet of between two and three hundred vessels passing by in a short space of time.
+
+```
+
+*Tales are also told of the shoals of mackerel that could be seen in the bay from the top of the down — see note elsewhere.*
 
 Not surprisingly, there is a story behind the origin of the Pepperpot. It's the early 1300s, in the reign of Edward II, and the sea provides as much of an income to the Islanders living thereabouts as the farming.
 
@@ -308,9 +322,11 @@ But in process of time the true story of the wreck travelled over the Channel an
 
 ```
 
+Such is the tale as commonly told. But as ever, I wonder, what truth lies behind the tale?
+
 ## Along the Coastline
 
-TO DO
+The coastline around the back of the Wight, particularly the south western and southernmost points, can be particularly treacherous, and had seen more than its fair share of wrecks.
 
 ```{admonition} The dangerous coast of Chale, 1795
 :class: dropdown
@@ -322,18 +338,7 @@ PERHAPS we ought not to leave this pariſh without mentioning the dangerous coa�
 BLACKGANG CHINE, to the ſouth of Chale village, is the uſual way down to the ſtrand. But the vaſt maſſes of broken ground and disjointed rocks, among which you muſt paſs through an immenſe gully, the ruins of the country above it render it extremely awful. The ſides of this chaſm are little ſhort of five hundred feet high, but ſhelving; and a ſpring, which has its riſe on the ſummit, winds flowly down to the ſea. It appears to contain particles of iron, of a ſulphureous ſmell, and, if drank, operates as a gentle aperient. Many copperas ſtones lay about it in a native ſtate, and there are ſome pieces of rock allum, but not in ſuch plenty as at Allum Bay. It is ſaid to have received its name from a gang of pirates, who formerly made it their place of reſidence. Be that as it may, it is certain that this has a more ſavage and barbarous appearance than Shanklin Chine, and not a buſh is to be ſeen on any part of the mouldered or mouldering precipices, to ſoften its terrific aſpect. But it is moſt awful from the ſhore below.
 ```
 
-TO DO It seems...
-
-```{admonition} Taking a Barbarous Advantage, 1759
-:class: dropdown
-In Benjamin Martin, *The natural history of England; or, a description of each particular county*, 1759, [p122](https://archive.org/details/bim_eighteenth-century_the-natural-history-of-e_martin-benjamin-optici_1759_1/mode/2up).
-
-Mention has already been made of the Difficulty of Landing upon almoſt any of the Southern, or exterior Parts of this Coaſt, which indeed is often very fatal to Sailors; particularly in one Part of it, called *Chale Bay*, there is ſuch an Eddy, as makes it extremely difficult, upon a Lee Shore, to keep a ſufficient Offing to eſcape the Danger. The Country People, of the meaner Sort, have for many Years been too much, accuſtomed to make a barbarous Advantage of theſe Misfortunes, plundering and carrying off the Merchants Effects in a moſt unjuſt and infamous Manner. But of late this ſavage Practice has been ſo much ſuppreſſed, that whenever ſuch unfortunate Accidents have happened, they have ſell under the Direction of Gentlemen of Honour and Humanity, who have taken effectual Care to prevent theſe Outrages, which are ſo great and juſt a Reproach to any Country where they are in the leaſt Degree encouraged or ſuffered.
-
-```
-
-
-Tomkins also hinted at a dark side to the customs around Chale Bay in the first volume of his tour to the Isle of Wight:
+In the first volume of his *Tour of the Isle of Wight*, Tomkins hinted at a dark side to the customs around Chale Bay:
 
 ```{admonition} An inhuman stratagem, 1796
 :class: dropdown
@@ -375,9 +380,23 @@ On the high down of St.Catherine's, ſtands an ancient ſea mark, which is perce
 
 ```
 
+Although I've found no concrete evidence of deliberate *wrecking*, the willingness of the men of Chale to gain some sort of benefit from naturally occurring wrecks appears to have been well-known.
+
+```{admonition} Taking a Barbarous Advantage, 1759
+:class: dropdown
+In Benjamin Martin, *The natural history of England; or, a description of each particular county*, 1759, [p122](https://archive.org/details/bim_eighteenth-century_the-natural-history-of-e_martin-benjamin-optici_1759_1/mode/2up).
+
+Mention has already been made of the Difficulty of Landing upon almoſt any of the Southern, or exterior Parts of this Coaſt, which indeed is often very fatal to Sailors; particularly in one Part of it, called *Chale Bay*, there is ſuch an Eddy, as makes it extremely difficult, upon a Lee Shore, to keep a ſufficient Offing to eſcape the Danger. The Country People, of the meaner Sort, have for many Years been too much, accuſtomed to make a barbarous Advantage of theſe Misfortunes, plundering and carrying off the Merchants Effects in a moſt unjuſt and infamous Manner. But of late this ſavage Practice has been ſo much ſuppreſſed, that whenever ſuch unfortunate Accidents have happened, they have ſell under the Direction of Gentlemen of Honour and Humanity, who have taken effectual Care to prevent theſe Outrages, which are ſo great and juſt a Reproach to any Country where they are in the leaſt Degree encouraged or ſuffered.
+
+```
+
+And by all accounts, such behaviour played a part in the history of the Pepperpot.
+
 ## Archaeological and Ecclesiastical History
 
-The history of the Pepperpot was described by Sir Richard Worsley in his [History of the Isle of Wight](https://books.google.co.uk/books?id=wOZWAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), and quoted in the first volume of Richard Warner's *Collections for the history of Hampshire, and the bishopric of Winchester*, of 1795.
+In the first volume of his *Collections for the history of Hampshire, and the bishopric of Winchester*, published in 1795, Richard Warner quoted Sir Richard Worsley's earlier description of the history of that part of the Island from *his* [Worsley's] [History of the Isle of Wight](https://books.google.co.uk/books?id=wOZWAAAAcAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
+
+In particular, we might note the reference to *"Walter de Godyton, [who,] in the year 1323, built a chapel on Chale down, dedicated to St. Catharine, aſſigning certain rents for a chantry Prieſt to ſing maſs, and alſo to provide lights, for the ſafety of ſuch veſſels as chanced to come on that dangerous coaſt during the night. `[Regiſt. Winton, 1323.]`*
 
 ```{admonition} Chale, 1795 [1781]
 :class: dropdown
@@ -392,7 +411,7 @@ The pariſh of Chale has Niton, Whitwell, and Godſhill, on the eaſt; Godſhill
 
 In the 21ſt year of Edward I. Richard Barnevyle, with the aſſent of Adam Barnevyle, granted certain lands in Chale, with common paſture in Chale down, to Richard, the ſon of Sir Richard de Langford; `[Cart. penes Rd. W. Bart.]` and, in the 2d year of Edward II. Barnevyle, granted all his other lands in Chale, to John Langford, chief Lord of Chale. In the reign of Edward III. Sir John de Langford, then Lord of Chale, was appointed Conſtable of Cariſbrook caſtle; and was one of the three wardens of the iſland, elected by the inhabitants. The frequent alarms occaſioned by the French, who often threatened, and had ſeveral times actually made deſcents on the iſland, cauſed the family of Langford, with many others of good eſtimation, to ſeek more ſecure and quiet habitations: and Sir Thomas Langford is, after this removal, found at Bradfield, in Berkſhire, having leaſed out the manor of Chale. `[Alia cart. in ead. man.]` Reſervation is made in this leaſe of wards, marriages, reliefs, eſcheats, wrecks of the ſea, &c. with the advowſon of the church of Chale. The tenant was to pay a rent of ſixteen marks, at his manor of Bradfield, and to furniſh a hobler, or horſeman, whenever the King's ſervice required. Chale continued in the Langford family, till the Iſt year of Henry VIII. when Sir John Langford dying, left an only daughter, Anne, his heireſs, who married Thomas Pound, Eſq. of Southwick, in the county of Southampton. The manor was ſold by them to Captain Richard Worſley, and ſtill remains in the family of Worſley of Appuldurcombe.
 
-The manor of Godyton, in this pariſh, gave name to its ancient poſſeſſors. Walter de Godyton, in the year 1323, built a chapel on Chale down, dedicated to St. Catharine, aſſigning certain rents for a chantry Prieſt to ſing maſs, and alſo to provide lights, for the ſafety of ſuch veſſels as chanced to come on that dangerous coaſt during the night. `[Regiſt, Winton, 1323.]` At the diſſolution of chantries, it was, perhaps, found impracticable to divide the uſeful from the ſuperſtitious part of the inſtitution; ſo that the whole fell together, the chantry involving the light-houſe in its ruin.
+The manor of Godyton, in this pariſh, gave name to its ancient poſſeſſors. Walter de Godyton, in the year 1323, built a chapel on Chale down, dedicated to St. Catharine, aſſigning certain rents for a chantry Prieſt to ſing maſs, and alſo to provide lights, for the ſafety of ſuch veſſels as chanced to come on that dangerous coaſt during the night. `[Regiſt. Winton, 1323.]` At the diſſolution of chantries, it was, perhaps, found impracticable to divide the uſeful from the ſuperſtitious part of the inſtitution; ſo that the whole fell together, the chantry involving the light-houſe in its ruin.
 
 By an entry in the regiſters of this dioceſe, it appears, that eleven years before the erection of this chapel, there was an hermitage ſtanding on the ſame ſpot: the entry is as follows: *Walter de Langſtrell, admiſſus ad hermitorium ſupra montem de Chale, in inſula Vectis, Idil. Octobris, A. D. 1312.*
 
@@ -407,6 +426,50 @@ Chale Bay, which opens from the moſt ſouthern point of the iſland, weſtward 
 Some years ago it was diſcovered, that the ſand under the cliffs was mixed with gold duſt: this, for a while, engaged the country people to waſh it in bowls and pans, as is practiſed in Africa, and South America; but, from a number of dollars occaſionally found there, it appears likely that both were the contents of ſome Spaniſh ſhip, wrecked in this dangerous bay, and, in ſtormy weather, thrown up by the violence of the waves.
 
 ```
+
+TO DO A different opinion? more fabulous?
+
+```{admonition} A *Lanterne des Mortes*? 1871
+:class: dropdown
+
+In *Oxfordshire Weekly News*, Wednesday 22nd November, 1871, [p6](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002304/18711122/049/0006).
+
+Oxford Architectural and Historical Society
+
+Mr. JAMES PARKER (treasurer), read two letters which he had received on behalf of the society. The first letter from Mr. Hodder M. Westropp of Ventnor, Isle of Wight, dated Nov. 13th. It called the attention of the society to a small lighthouse about 7 miles from Ventnor, on St. Catherine Down, which the writer believed to be a *Lanterne des Mortes*, it being in connection with a sepulchral chapel The fanal and chapel were supposed to have been erected in 1323, by Walter de Godyton, who endowed the chapel.
+
+...
+
+On the subject raised by Mr. Wastropp's communication, the CHAIRMAN observed that the Lanterns on St. Catherine's Down were very interesting, as they probably bore some connection with the Round Towers of Ireland. The situation was very high, and it seemed likely that they were first erected for the use of a lighthouse. He himself had no doubt the Round Towers of Ireland were to a certain extent lighthouses, as well as treasure-houses for the valuables of the church, and a sort of refuge for the monks to go to in times of trouble. These *Lanterns des Mortes* were common enough in France but rare in England.
+
+Mr. J. H. Parker did not see much connection between the lighthouses under discussion and the Round Towers; they both, standing in burial grounds, probably served to light funeral processions. The form and height were so very different.
+
+Mr.James Parker said that as far as he remembered he did not see any vestige of a burial ground anywhere near the place in question, though the building near the town was said to have been a chapel. In his opinion the erection in question was merely a light-house, several of which might be found in connection with small chapels along the south coast.
+
+```
+
+TO DO https://en.wikipedia.org/wiki/Lanterns_of_the_Dead
+
+
+
+TO DO. Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
+
+```{admonition} Obscuring vapours, 1796
+:class: dropdown
+
+In Charles Tomkins, *A tour to the Isle of Wight, illustrated with eighty views, drawn and engraved in aquatinta. In two volumes*, 1796, volume 2, [p112](https://archive.org/details/bim_eighteenth-century_a-tour-to-the-isle-of-wi_tomkins-charles_1796_2/mode/2up).
+
+One of the ſignal-houſes is erected on St. Catherine's, and there is likewiſe a lighthouſe; but owing to the vapours that obſcure the top of the down, the latter is rendered uſeleſs. In 1323, Walter de Godyton erected a chantry in this place, and dedicated it to St. Catherine: ſome remains of it appear in the annexed plate.
+
+This chantry was originally intended to anſwer the double purpoſe of a light-houſe, and a place of worſhip. The following entry in the regiſter of the dioceſe of Wincheſter, clearly proves, that there was ſome religious houſe on this ſpot, prior to the erection of the chantry.
+
+*Walter de Langſtrell, admiſſus ad hermitorium ſupra montem de Chale, in inſula Vectis, Idil. Octobris A D. 1312.*
+
+![St Catherine's](images/bim_eighteenth-century_a-tour-to-the-isle-of-wi_tomkins-charles_1796_2_0202.jpg)
+
+```
+
+Writing in *Isle of Wight: its churches and religious houses* in 1911, the history of St. Catherine's oratory, as the Pepperpot is perhaps more correctly known, given by J. Charles Cox, adds in various detials that claim to describe how Walter de Godeton came to commission the construction of the tower.
 
 ```{admonition} The Oratory and Lighthouse of Chale
 :class: dropdown
@@ -434,29 +497,6 @@ A survey of 1566, of which Mr. Stone supplies a facsimile, shows the lighthouse 
 The lighthouse tower, 36 ft. high, which may without hesitation be assumed to be that built by Walter de Godston, though much repaired, has an octagonal roof of pyramidal form. The outer massive walls are octagonal, but the interior is about 5 ft. square. It consists of four stories, the two lowest of which had doorways into the annexe or oratory; the two upper stages were gained by ladders. Excavations made here by Mr. Stone in 1891 showed that this annexe had an inner measurement of about 38 ft. by 15 ft.; it was divided into two floors, the upper serving as the chapel, and the lower for the dwelling and stores of the chantry priest. Built into the lower part of the southern fall of the tower is a stone with a piscina drain, which was doubtless originally within the chapel.
 ```
 
-TO DO A different opinion? more fabulous?
-
-```{admonition} A *Lanterne des Mortes*? 1871
-:class: dropdown
-
-In *Oxfordshire Weekly News*, Wednesday 22nd November, 1871, [p6](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002304/18711122/049/0006).
-
-Oxford Architectural and Historical Society
-
-Mr. JAMES PARKER (treasurer), read two letters which he had received on behalf of the society. The first letter from Mr. Hodder M. Westropp of Ventnor, Isle of Wight, dated Nov. 13th. It called the attention of the society to a small lighthouse about 7 miles from Ventnor, on St. Catherine Down, which the writer believed to be a *Lanterne des Mortes*, it being in connection with a sepulchral chapel The fanal and chapel were supposed to have been erected in 1323, by Walter de Godyton, who endowed the chapel.
-
-...
-
-On the subject raised by Mr. Wastropp's communication, the CHAIRMAN observed that the Lanterns on St. Catherine's Down were very interesting, as they probably bore some connection with the Round Towers of Ireland. The situation was very high, and it seemed likely that they were first erected for the use of a lighthouse. He himself had no doubt the Round Towers of Ireland were to a certain extent lighthouses, as well as treasure-houses for the valuables of the church, and a sort of refuge for the monks to go to in times of trouble. These *Lanterns des Mortes* were common enough in France but rare in England.
-
-Mr. J. H. Parker did not see much connection between the lighthouses under discussion and the Round Towers; they both, standing in burial grounds, probably served to light funeral processions. The form and height were so very different.
-
-Mr.James Parker said that as far as he remembered he did not see any vestige of a burial ground anywhere near the place in question, though the building near the town was said to have been a chapel. In his opinion the erection in question was merely a light-house, several of which might be found in connection with small chapels along the south coast.
-
-```
-
-TO DO https://en.wikipedia.org/wiki/Lanterns_of_the_Dead
-
 TO DO. Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
 
 ```{admonition} Obscuring vapours, 1796
@@ -474,8 +514,7 @@ This chantry was originally intended to anſwer the double purpoſe of a light-h
 
 ```
 
-
-In 1891, Percy Stone published his two volume work *The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive* ([vol 1](https://books.google.co.uk/books/about/The_Architectural_Antiquities_of_the_Isl.html?id=LuEwAQAAMAAJ&redir_esc=y), including references to the Pepperpot in *volume 2* `[I have not yet located an openly licensed online version of this work.]`
+Cox's source for the tale appears to be Percy Stone, and his highly regarded two volume work from 1891, *The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive* ([vol 1](https://books.google.co.uk/books/about/The_Architectural_Antiquities_of_the_Isl.html?id=LuEwAQAAMAAJ&redir_esc=y), including references to the Pepperpot in *volume 2* `[I have not yet located an openly licensed online version of this work.]`
 
 
 ```{admonition} Merited attention, 1892
@@ -491,9 +530,9 @@ The oratory and lighthouse of St. Catherine at Chale receive in this volume the 
 
 ```
 
-Stone's remarks from that work are quoted in *A pictorial and descriptive guide to the Isle of Wight*, 1900:
+Stone's remarks on the Pepperpot in *Architectural Antiquities* are quoted in *A pictorial and descriptive guide to the Isle of Wight*, 1900:
 
-```{admonition} Some interesting particulars, 1900 [1892]
+```{admonition} Some interesting particulars, 1900 [1891]
 :class: dropdown
 
 *A pictorial and descriptive guide to the Isle of Wight in six sections: with excursions, and cycling and pedestrian routes from each centre; upwards of seventy illustrations, map of the Island*, 1900, [pp129-30](https://archive.org/details/guidetoisleofwig00ward/mode/2up).
@@ -505,24 +544,156 @@ Mr. Percy Stone, in his Architectural Antiquities of the Isle of Wight, gives so
 At the Reformation, the trifling revenues were sequestrated ; the poor monk ceased his mass, and his lamps no longer shone across the sea where rocks and shoals threatened destruction to the night-faring skiff. For nearly three centuries the spot was unmarked by any friendly light : and we can readily believe that the number of wrecks during that period was appalling. For the beautiful coast, so pleasant to travel along in line weather, is cruel and treacherous, pitilessly exacting year by year its tale of seamen's lives. At certain seasons a dense and impenetrable mist arises, obscuring both lights and landmarks ; while, without a breath of wind to fill his sails, and all unconscious of danger, the hapless navigator is borne on the rapid inshore current (so powerful that even a Newfoundland dog cannot swim against it) towards the jagged and cruel rocks. These considerations moved the Trinity Board, in 1785, to rekindle the old light, and to commence the erection of a new pharos (the shell of which still stands), but which was never finished, experience showing that the fogs and mists rendered it almost useless. The present St. Catherine's Lighthouse (see p. 124) was therefore erected on St. Catherine's Point.
 ```
 
+## What Percy Stone *Actually* Said
 
-```{admonition}
+Since Percy Stone appears to be the common soruce for the tale, as now told, of the history of the Pepperpot, and Walter de Godeton's involvment in it, let's see what Stone *actually* said on the matter. `[A copy of Stone's rare work can be viewed, by appointment, in the Castle Museum Library at Carisbrooke Castle.]`
 
-In Percy Goddard Stone, *The Architectural Antiquities of the Isle of Wight, Part II, THe West Medine*, 1891, pp. 27-31. `[Thanks to Sasha Ford for providing scans of the pages.]`
+```{admonition} The Oratory of St. Catherine, 1891
+
+In Percy Goddard Stone, *The Architectural Antiquities of the Isle of Wight, Part II, THe West Medine*, 1891, pp. 27-31. `[Thanks to Sasha Ford for providing scans of the corresponding pages.]`
 
 CHALE
 
 The Oratory of S. Catherine.
 
-HITHERTO scant attention paid to this interesting relic of mediaeval times is somewhat surprising. All we can gather from Worsley's History is a bare record of its foundation in the early part of the 14th century, but the reason for its existence has never been discussed. On this it is hoped the author may be able to throw a little light. By the Winchester Registers of Bishop Woodlock (A.D. 1305—16) it is evident an anchorage existed previous to A.D. 1312, as in that year one Walter de Langeberewe `[Longbarrow?]` was admitted to the "hermitorium `[a TO DO]` super Montem de Chale in Insula Vecta nostrae diocesis" in honore Sanctae Katerinae Virginis construendum et reparandum," being licensed to perform divine service "in capella ibidem construenda." Previous to the construction of the chapel it would appear to have been but a hermit's cell, and, in point of fact, the addition of a chapel, and that too in the gift of the bishop, remains somewhat of a mystery. At present no Pharos or lighthouse had been erected upon the lonely down, though we may conjecture that a beacon-light had from time to time blazed from its lofty summit in the days of the early marauders. Three years however after the foundation of this isolated chapel, a circumstance occurred in the history of this bleak and rugged part of the Island seaboard, throwing an interesting side-light on the manners and customs of the middle ages, and explaining very clearly the *raison d'être* of the still existing lighthouse. One stormy night in the winter of A.D. 1314, a vessel—one of a fleet chartered by sundry merchants of the King's Duchy of Aquitaine to convey a large consignment of white wine to the realm of England—drove ashore on Atherfield Ledge, and, as many a good ship before and since, soon became a wreck. The sailors however escaped to shore, and on the subsidence of the storm appear to have on their own account, and contrary to all right and justice, sold the shipwrecked cargo to the Island folk, probably hoping no more would be heard of the matter, and that the owners would surmise that all the lading had perished in the violence of the tempest. It must be clearly understood that the cargo, not being "flotsam and jetsam," still belonged to the consignees. Altogether one hundred and seventy-four casks of wine were so disposed of, and, each cask being of the value of five marks, the sum taken was a large one. In due course, as luck would have it, the merchants were apprised of their loss—probably by some one who had not got his due share of the plunder—and speedily took measures to recover their lost cargo, by lodging a complaint `[b TO DO] in the King's Court against the seizure of their goods by certain "malefactores de Comitatu "Suthanton," `[The seamen probably put the blame on the Island folk, to shield themselves, the real transgressors.]` as appears in the Abbreviation of Pleas, Hilary Term, A.D. 1315, putting forward the plea that the cargo formed no "wreck of the sea." Among the lesser evil-doers, who perhaps were not so much to blame, were sundry Island landowners of standing, who ought to have known better; one of whom, Walter de Godeton, `[Godeton, Goditone, Godyton, under its modern name of Gotten, lies under the north spur of Chale Down. A William de Godyton appears as a witness to the Charter of Foundation of the Oratory of the Holy Trinity at Barton, dated A.D. 1275.]` is mentioned by name in the indictment. In due course he and two others of his associates had to appear and answer to the charge preferred against them. The justices appointed by the Crown, and the jury empanelled, being not improbably kinsfolk of the defendants, returned a verdict that the wine had indubitably been taken by divers people of the Isle of Wight, and especially by Walter de Godeton and three others, but that they declared they had only bought it from the sailors, who however had no right to have sold it, as they had no interest in the cargo; and so that practically the Islanders were not to blame. `[They bought the wine, in good faith apparently, from the sailors, and they only in the end suffered by the transaction, for the merchants recouped themselves.]` This finding not being satisfactory to the plaintiffs, who were looking for reimbursement, another jury was sworn, who, perhaps more justly, gave it as their opinion that the said Walter and two of his companions, having unlawfully received fifty-three casks of wine, must pay for the same the sum of 227 1/2 marks, the equivalent value thereof. And so, as far as human justice was concerned, the matter ended. But another party had to be reckoned with, namely the Church; for the wine, it appeared, belonged to the religious community of Livers, in Picardy, who had lodged a complaint or charge of sacrilege against De Godeton in the Roman court. `[This account must be taken cum grano salis, as my information was not obtainable at first hand, vide Note C; and the alternative solution of the raison d'être of the lighthouse is that Walter de Godyton, irritated at having to pay twice over for the casks of wine, resolved a wreck should not occur again if he could help it, and so founded the oratory and lighthouse.]` His sins apparently were to be visited somewhat heavily on his head, for the next thing we hear of is a bull from the Pope `[c TO DO]` threatening excommunication, and bidding him, in expiation of his crime against holy Church, to build on the down `[The bull was said to have been addressed to the lord of Wydcombe, though what he could have had to do with Chale Down I know not, unless he held land there.]` above the scene of the disaster, a lighthouse to warn ships in future off the dangerous coast, and to found an oratory for a priest to chant masses for the souls of those lost at sea, and to trim the light as occasion required. And so finally ends the little history of the foundation of the Pharos on Chale Down.
+HITHERTO scant attention paid to this interesting relic of mediaeval times is somewhat surprising. All we can gather from Worsley's History is a bare record of its foundation in the early part of the 14th century, but the reason for its existence has never been discussed. On this it is hoped the author may be able to throw a little light. By the Winchester Registers of Bishop Woodlock (A.D. 1305—16) it is evident an anchorage existed previous to A.D. 1312, as in that year one Walter de Langeberewe `[Longbarrow?]` was admitted to the "hermitorium `[full text given in an endnote]` super Montem de Chale in Insula Vecta nostrae diocesis" in honore Sanctae Katerinae Virginis construendum et reparandum," being licensed to perform divine service "in capella ibidem construenda." Previous to the construction of the chapel it would appear to have been but a hermit's cell, and, in point of fact, the addition of a chapel, and that too in the gift of the bishop, remains somewhat of a mystery. At present no Pharos or lighthouse had been erected upon the lonely down, though we may conjecture that a beacon-light had from time to time blazed from its lofty summit in the days of the early marauders. Three years however after the foundation of this isolated chapel, a circumstance occurred in the history of this bleak and rugged part of the Island seaboard, throwing an interesting side-light on the manners and customs of the middle ages, and explaining very clearly the *raison d'être* of the still existing lighthouse. One stormy night in the winter of A.D. 1314, a vessel—one of a fleet chartered by sundry merchants of the King's Duchy of Aquitaine to convey a large consignment of white wine to the realm of England—drove ashore on Atherfield Ledge, and, as many a good ship before and since, soon became a wreck. The sailors however escaped to shore, and on the subsidence of the storm appear to have on their own account, and contrary to all right and justice, sold the shipwrecked cargo to the Island folk, probably hoping no more would be heard of the matter, and that the owners would surmise that all the lading had perished in the violence of the tempest. It must be clearly understood that the cargo, not being "flotsam and jetsam," still belonged to the consignees. Altogether one hundred and seventy-four casks of wine were so disposed of, and, each cask being of the value of five marks, the sum taken was a large one. In due course, as luck would have it, the merchants were apprised of their loss—probably by some one who had not got his due share of the plunder—and speedily took measures to recover their lost cargo, by lodging a complaint `[text of the complaint provided in an endote] in the King's Court against the seizure of their goods by certain "malefactores de Comitatu "Suthanton," `[The seamen probably put the blame on the Island folk, to shield themselves, the real transgressors.]` as appears in the Abbreviation of Pleas, Hilary Term, A.D. 1315, putting forward the plea that the cargo formed no "wreck of the sea." Among the lesser evil-doers, who perhaps were not so much to blame, were sundry Island landowners of standing, who ought to have known better; one of whom, Walter de Godeton, `[Godeton, Goditone, Godyton, under its modern name of Gotten, lies under the north spur of Chale Down. A William de Godyton appears as a witness to the Charter of Foundation of the Oratory of the Holy Trinity at Barton, dated A.D. 1275.]` is mentioned by name in the indictment. In due course he and two others of his associates had to appear and answer to the charge preferred against them. The justices appointed by the Crown, and the jury empanelled, being not improbably kinsfolk of the defendants, returned a verdict that the wine had indubitably been taken by divers people of the Isle of Wight, and especially by Walter de Godeton and three others, but that they declared they had only bought it from the sailors, who however had no right to have sold it, as they had no interest in the cargo; and so that practically the Islanders were not to blame. `[They bought the wine, in good faith apparently, from the sailors, and they only in the end suffered by the transaction, for the merchants recouped themselves.]` This finding not being satisfactory to the plaintiffs, who were looking for reimbursement, another jury was sworn, who, perhaps more justly, gave it as their opinion that the said Walter and two of his companions, having unlawfully received fifty-three casks of wine, must pay for the same the sum of 227 1/2 marks, the equivalent value thereof. And so, as far as human justice was concerned, the matter ended. But another party had to be reckoned with, namely the Church; for the wine, it appeared, belonged to the religious community of Livers, in Picardy, who had lodged a complaint or charge of sacrilege against De Godeton in the Roman court. `[This account must be taken cum grano salis, as my information was not obtainable at first hand, vide Note C; and the alternative solution of the raison d'être of the lighthouse is that Walter de Godyton, irritated at having to pay twice over for the casks of wine, resolved a wreck should not occur again if he could help it, and so founded the oratory and lighthouse.]` His sins apparently were to be visited somewhat heavily on his head, for the next thing we hear of is a bull from the Pope `[an endnote quietly challenges this notion]` threatening excommunication, and bidding him, in expiation of his crime against holy Church, to build on the down `[The bull was said to have been addressed to the lord of Wydcombe, though what he could have had to do with Chale Down I know not, unless he held land there.]` above the scene of the disaster, a lighthouse to warn ships in future off the dangerous coast, and to found an oratory for a priest to chant masses for the souls of those lost at sea, and to trim the light as occasion required. And so finally ends the little history of the foundation of the Pharos on Chale Down.
 
-By a letter addressed by Bishop Stratford to the Archdeacon of the Isle of Wight, `[d TO DO]` on August 17, A.D. 1328, it is evident that De Godeton built an oratory and lighthouse on the down a few years later, in all probability pulling down the earlier chapel and hermitage, or, it may be, building them on a site nearer the sea. `[I cannot help thinking that the hermitage of Walter de Langeberewe and the oratory of Walter de Godeton were two distinct buildings on distinctly different sites. The one is always called hermitorium, the other in contradistinction, oratorium. Both, it is true, were dedicated to S. Catherine, but then she is the patroness of hills.]` A chantry priest was to attend to the light, which was to serve as a beacon to warn mariners sailing by night "in illis periculosis" partibus maris," and to sing masses for the souls of those lost at sea. Of this oratory only the lighthouse remains, but the chapel was evidently standing at the end of the 16th century, as a survey made in 1566 `[e TO DO]` clearly shows the lighthouse with the building attached. `[This survey is given in facsimile on page 30. A north door is shewn to the chapel, and the curious pyramidal piles are beacons stacked for burning.]` When it fell to final decay is not known, but it had certainly ceased to exist by the 18th century, as, in a plate in the *Gentleman's Magazine*, vol. xxvii. p. 176, the tower is shewn standing by itself, and in a very dilapidated state. Towards the close of the century this was substantially repaired, and the buttresses made good again.
+By a letter addressed by Bishop Stratford to the Archdeacon of the Isle of Wight, `[text provided in an endnote]` on August 17, A.D. 1328, it is evident that De Godeton built an oratory and lighthouse on the down a few years later, in all probability pulling down the earlier chapel and hermitage, or, it may be, building them on a site nearer the sea. `[I cannot help thinking that the hermitage of Walter de Langeberewe and the oratory of Walter de Godeton were two distinct buildings on distinctly different sites. The one is always called hermitorium, the other in contradistinction, oratorium. Both, it is true, were dedicated to S. Catherine, but then she is the patroness of hills.]` A chantry priest was to attend to the light, which was to serve as a beacon to warn mariners sailing by night "in illis periculosis" partibus maris," and to sing masses for the souls of those lost at sea. Of this oratory only the lighthouse remains, but the chapel was evidently standing at the end of the 16th century, as a survey made in 1566 `[see the endnote of an inquisition from the Bishop Stratford to the Archdeacon of the Isle of Wight]` clearly shows the lighthouse with the building attached. `[This survey is given in facsimile on page 30. A north door is shewn to the chapel, and the curious pyramidal piles are beacons stacked for burning.]` When it fell to final decay is not known, but it had certainly ceased to exist by the 18th century, as, in a plate in the *Gentleman's Magazine*, vol. xxvii. p. 176, the tower is shewn standing by itself, and in a very dilapidated state. Towards the close of the century this was substantially repaired, and the buttresses made good again.
 
 Turning to the lighthouse as it now stands we will examine it in detail. It is a stone structure, octagonal without, square within, and consists of four distinct stories, the two lower entered from the annexe building, the two upper, mere stages reached by ladders, as is very clearly shewn by the position of the beam-holes, allowing between them a space of 18 inches, sufficient for a man to pass through to attend to the lamps. The curious way in which the two-light windows on each side of the upper story become single-lights in the faces of the octagon, is worthy of notice, and the Pharos generally must have been a very elementary affair in the way of lighthouses. The two entrances still remaining are low and narrow, with four-centred arched heads, and are exactly over one another, the upper opening being the narrower by two or three inches. The basement was probably used as a store, and is lighted by two narrow square-headed windows, with arched lintels in the inner face. A piscina or drain—it may be, from the chapel—is inserted in the southern wall of this lower story. A sketch of this forms the heading of the chapter.
 
 The annexe building we may pretty confidently affirm to have been the oratory founded by Walter de Godeton, which, from the two entrances to the tower, was evidently of two stories, the upper the chapel, the lower the living and store-room of the chantry priest. `[I came across no appearance of a cross-wall in my excavations.]` The entrance to it, if we may take the 16th-century drawing as anything like a true representation of the building, was through a door in the north wall, the side sheltered most from the rough southerly winds. The east wall is thicker than the others, it may be as a bed to the stone altar, and has two shallow buttresses on its outer face. The edifice was roofed at either end with a gable; the western one abutting against the tower, where the lines of its weathering are still apparent, cutting through the weathering of the buttresses, which are placed at the alternate angles of the tower. The roof of the Pharos gathers over at the top, forming an octagonal cone. Though the tower bears evidence of modern repair, the repair has been made in a commendably conservative manner. The one puzzling thing about the edifice is the jointing and facing-stone, which certainly seems no earlier than the 16th century; but in judging this the "restoration" must be borne in mind, and also the fact that the Pharos formed a valuable mark from the sea, and would, even on the destruction of the chantry in the reign of Edward VI., have been kept and repaired from time to time. Worsley in his History speaks of "the hermit's little cell . . . to the south-west of the tower." This, in my excavations undertaken in the summer of the present year (1891), I tried in vain for, but could find no traces of; so must conclude Worsley was wrong in his bearings, and meant the walls of the oratory, which I successfully uncovered without finding anything of interest beyond the mere foundations. I certainly came across signs of fire, charcoal and solder mixed with clay, and the foot of a bronze melting-pot, but put these down to the builders of the modern lighthouse now abandoned, which was taken down to the lowest stage about twenty years after its erection at the beginning of the present century. Until I came across the Elizabethan survey, I was inclined also to attribute the enclosing turf wall to the lighthouse keeper's industry, but in this survey it is clearly shewn, and probably formed the fence of the monk's garden allotment sloping to the south-west, the only spot suitable for such a purpose on the summit of the bleak down eight hundred feet above the level of the sea.
 
 ```
+
+The full quotation regarding the hermitage is given in a footnote as follows:
+
+> PATEAT universis per praesentes quod nos Frater H., etc. . . . dominum Walterum de Langeberewe ad hermitorium super Montem de Chale in I.V. nostrae diocesis in honore Sanctae Katerinae Virginis construendum et reparandum, quantum in nobis est, admisimus, et quod in capella ibidem construenda divina celebrare poterit, dum tamen aliquid canonicum sibi non obsistat, liberam concedimus facultatem, juribus et indempnitate ecclesiae parochialis in qua dictum hermitorium consistit, et cujuscunque alterius in omnibus semper salvis. In cujus, etc. Dat. ap. Esshere Id. Oct. 1312.*—Ex Reg. Wint.* Bp. Hen. Woodlock.
+
+This is translated by `claude.ai` as:
+
+> Let it be known to all by these presents that we, Brother H., etc. ... have admitted, as far as is in our power, Master Walter de Langeberewe to the hermitage upon Mount de Chale in the Isle of Wight of our diocese, to be constructed and repaired in honor of Saint Katherine the Virgin, and that he may celebrate divine service in the chapel to be constructed there, provided that nothing canonical stands in the way, we grant free permission, with the rights and indemnity of the parochial church in which the said hermitage is situated, and of anyone else, being preserved in all things. In witness whereof, etc. Given at Esshere on the Ides of October 1312.—From the Register of Winchester, Bishop Henry Woodlock.
+
+The summary of the original hearing in the Abbreviated Pleas (Placit. Anbbrev.) for 8 Edward II, 1315 is as follows:
+
+> Ex gravi querela quorundem mercatorum ducatis Dni. Regis Aquitanie quod ipsi carcaverunt diversa dolea vini albi pro Anglia in quibusdam navibus unde una navis in veniendo versus Angliam super mare in costera Insulae de Wight per venti contrarietatem et maris intemperiem ibidem ad terram projecta fuit et confracta vinaque predicta ad terram in diversis partibus in insula predicta devenerunt et quod quidam malefactores de Com. Suth. vina predicta licet plures marinarii in dicta navi tunc existentes ab eadem vivi evasissent per quod eadem vina wreccum maris diceri non debeant ceperunt et abduxerunt ea prefatis mercatoribus minus juste, etc. Per quod Dns. Rex assignavit diversos justiciarios quod inde inquirerent per legales homines, etc. Qui retornaverunt quod dicta Vina surrepta fuere per diversos homines de Insula predicta set precipue per Walterum de Godeton et iij alii usque ad numeram (sic) centum lx et xiiij (174) doleorum vini albi plenorum et semiplenorum precii dolei v marc' etc. qui dicunt quod emerunt predicta vina de marinariis qui nichil in predictis vinis habuerunt. Set per alium juratorem computatum est quod predictus Walterus et duo alii liij (53) dolea vinorum predictorum precii dolei v marc' unde judicium redditum contra eos ad summam cclxxvij et dimidium (277½ marks). Et predictus Walterus et alii dicunt errorem intervenisse set judicium redditum quod mercatores habeant executionem, etc.—*Placit. Abbrev. Roll 63*, Edw. II. anno 8, apud Westmonasterium, Hilary Term (i.e. Jan. 11), 1315.
+
+> From a serious complaint of certain merchants of the duchy of the Lord King of Aquitaine that they had loaded various casks of white wine for England in certain ships, one of which, coming towards England over the sea on the coast of the Isle of Wight, through contrary winds and storm at sea was thrown to land there and broken, and the aforesaid wines came to land in various parts of the said island, and that certain evildoers of the County of Southampton seized the aforesaid wines and carried them away unjustly from the aforesaid merchants, although several sailors then on the said ship escaped alive, by which the same wines ought not to be called wreck of the sea, etc. Wherefore the Lord King assigned various justices to inquire into this through lawful men, etc. Who returned that the said wines were taken away by various men of the aforesaid island, but especially by Walter de Godeton and three others, to the number of 174 casks of white wine, full and half-full, at a price of 5 marks per cask, etc., who say that they bought the aforesaid wines from sailors who had nothing in the said wines. But by another jury it was computed that the aforesaid Walter and two others [took] 53 casks of the aforesaid wines at a price of 5 marks per cask, wherefore judgment was given against them to the sum of 277 1/2 marks. And the aforesaid Walter and the others say that an error intervened, but judgment was given that the merchants should have execution, etc.—*Placita Abbreviata, Roll 63*, Edward II, year 8, at Westminster, Hilary Term (i.e. January 11), 1315.
+
+Regarding the charge laid by the Church against de Godeton, Stone offers the following footnote:
+
+> My informant for this statement, the Rev. Robert Oliver, Vicar of Whitwell, saw the bull—sealed with a leaden seal—in the possession of Captain Dawes of Wydcombe, some years back. Unfortunately, however, he can neither remember the name of the Pope, nor the date of the bull; and the owner is since dead, and his papers have been irretrievably scattered. From memory, Mr. Oliver's idea was that the wine was the property of the Monastery of Livers, in Picardy, so that, De Godeton's offence amounting to sacrilege, he was threatened with excommunication unless he purged himself by penance. At variance with this account is the following note by Mr. Stratton: "I knew W. H. Dawes intimately, and was his architect and land agent for years. He was perfectly aware of my habit of searching out any matters of interest relating to the Island, and would most certainly have shown me such a document had he possessed it. I don't of course mean to assert that he had not a Pope's bull, but that if he had one, it had no reference to the Isle of Wight." Sifting these two contradictory statements, the only conclusion I can come to—for I certainly am loth to give up the "Bull" story—is, that the Convent of Livers grew the wine and consigned it to the Aquitannian merchants to dispose of, paying them a commission for their trouble, but still remaining the actual owners of the wrecked cargo, or, more probably, part of it.
+
+The endnote regarding the de Godeton's construction of the Oratory suggests that the Church authorities in Britain were not in full possession of the facts regarding the reasons why de Godeton had embarked on this venture.
+
+> *Inquisitio super dotationem Capellae Sanctae Katerinae super Chale Doune.* `[Addressed by Bishop Stratford to the Archdeacon of the Isle of Wight.]` 
+> 
+> Insinuatum est nobis quod quidam Walterus de Goditone quoddam Oratorium in honore beatae Virginis Katerinae in parochia de Chale super montem qui dicitur Chales Doune in I.V. . . . . construere jam incepit quod in certis redditibus tam pro restetatione cujusdam oratorii ibidem futuris temporibus faciendi, quam etiam cujusdam nocturni luminis claritatem in illis periculosis partibus maris de nocte navigantibus dare debeatis, ubi diversa pericula his navigantibus in obscuris saepius evenerunt, et pro aliis necessariis ejusdem oratorii, ut dicit, sufficienter dotavit. Nos hujus pium propositum ac cultum divinum ampliare, quatenus cum Deo possumus, cupientes vobis committimus et mandamus, quatenus de dotatione dicti Oratorii et in hac parte et si sine praejudicio ecclesiae matricis de Chale praedictae hoc fieri poterit, necne, in forma juris inquiratis, vocatis omnibus quorum interest, diligentius veritatem, et quid inveneritis per inquisitionem praedictam nos sub sigillo vestro modo debito certiores reddatis.
+> Dat. ap. Waltham xvii. Kal. Aug. A.D. 1328.
+
+> *Addressed by Bishop Stratford to the Archdeacon of the Isle of Wight.*
+>
+> Inquisition concerning the endowment of the Oratory of Saint Katherine upon Chale Down. ... It has been made known to us that a certain Walter de Goditone has begun to construct a certain Oratory in honor of the Blessed Virgin Katherine in the parish of Chale upon the mount which is called Chales Down in the Isle of Wight ... [and has] sufficiently endowed it with certain revenues both for the restoration of a certain oratory there in future times and also to provide the light of a certain night-time beacon in those dangerous parts of the sea by night for those sailing, where various dangers have often befallen those sailing in the darkness, and for other necessities of the same oratory, as he says. We, desiring to promote this pious purpose and divine worship, as far as we are able with God, commit to you and command, that concerning the endowment of the said Oratory and in this matter, and whether this can be done without prejudice to the mother church of Chale aforesaid, or not, you inquire in due form of law, having summoned all whom it concerns, more diligently into the truth, and what you find through the aforesaid inquisition you should make us more certain in due manner under your seal.
+> Given at Waltham on the 17th day before the Kalends of August, A.D. 1328.
+
+## The Lost Convent of "Livers"
+
+Percy Stone's account of the history of the Pepperpot in *Architectural Antiquities* appears to be the source of the commonly told tale that the wine had come from *"the religious community of Livers, in Picardy"*. But I can find no reference to such an abbey or convent.
+
+More specifically, Stone says *"From memory, Mr. Oliver's idea was that the wine was the property of the Monastery of Livers, in Picardy,* so could we cast doubt on this memory. That Stone remembers mention of such a community *in Picardy*, but could he perhaps be confudsing the name `Livers` with `Lyre`, or `Lyra`, which was a community with strong links ot the Island, although situated north-west of Paris in Normandy, rather than to the north-east, in Picardy?
+
+--
+https://archive.org/details/monasticonanglic01dugd_0/page/n233/mode/2up
+
+Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales : also of all such Scotch, Irish, and French monastaries, as did in any manner relate to those in England ...
+by Dugdale, William, Sir, 1605-1686; Hollar, Wenceslaus, 1607-1677, engraver; King, Daniel, d. 1664?, artist, engraver
+
+Publication date 1718
+
+
+p222
+
+CARESBROKE
+
+*Priory, in the Ifle of Wight.*
+
+*William Fitz-Osbern*, created Earl of *Hereford* by the Conqueror, fubdu'd the Ifle of *Wight*, the Heirs Male of this *William* failing, his Eftate defcended to *Baldwin* Earl of *Exeter*, who confirm'd to the Monaftery of St. *Mary of Lira* all the Churches and other Poffefions granted to them by the aforefaid *William*, or by his own Father *Richard Rivers*; *William Vernun* confirm'd to thefe Monks the Receipt of *two Marks* per Annum at *Newbury*. *William*, Earl of *Devonfhire*, confirm'd all their Pofleffions in the Ifle of *Wight*. The Charter of King *Henry* II. recites and confirms all the Donations made to them.
+
+
+
+p91-2
+
+A Controverfy arifing between thefe Monks and thofe of the Abby of *Lyra* about certain Tithes and Revenues in and about *Arretone*, *Hafeley*, *Titehingham*, *Lovecumb*, *Sandecumb*, *Cofham*, *Caresbroke* Caftle, *Kicherig* and *Richeburg*, in the Parifh of *Caresbroke*, the Difference was amicably agreed and adjufted between them by Deed, dated 1289.
+
+--
+
+
+---
+
+https://archive.org/details/in.ernet.dli.2015.502008/page/n63/mode/
+
+The Undercliff Of The Isle Of Wight Past And Present
+by Whitehead, John L.
+
+Publication date 1911
+
+THE TITHES OF THE MANOR.
+
+The great tithes of the manor `[Bonchurch]` were bestowed by William Fitz Osbern, on becoming the first lord of the Island, with the tithes of his demesne lands at Haseley, Arreton, Shalcombe, etc., in the Isle of Wight, on the Abbey of Lyra, a monastery he had founded in Normandy. The mother abbey at first collected the dues by a procurator, and later, the monks coming over from the Continent at intervals on visits of inspection to the Island properties are traditionally said to have landed at the little
+
+
+??p 32 missing
+
+
+--
+https://books.google.co.uk/books/about/The_Architectural_Antiquities_of_the_Isl.html?id=LuEwAQAAMAAJ&redir_esc=y
+The Architectural Antiquities of the Isle of Wight from the
+
+p5 
+
+Arreton
+
+... In 1140 we find the church and tithes of the manor of Arreton, with other tithes held Bestowed under Fitz Osbern's grant, conceded by the Convent of Lyra to Baldwin de Redvers' new Abbey of Quarr, on a yearly payment of forty shillings;-from "Heldearius, Abbot of Lyra, to Gervase, Abbot of Quarr," so runs the deed. And so the church remained in the monks' hands till the dissolution of the monasteries, and a good account, too, these worthy churchmen gave of their stewardship. No sooner had the building come into their possession, than they set about enlarging and beautifying it ; indeed, we may call all the work we now see incorporated into the present church the "monks' work." The most satisfactory way to describe this will be to take it in chronological sequence, as it progressed intermittently from the middle of the 12th to the beginning of the 16th century.
+
+
+p25
+Newchcuch
+
+In the Dean's Return, 1305, he states that the Abbey and Convent of Lyra receive all the greater and lesser tithes from the demesne of Wroxall, and the greater tithes from the manors of Appuldurcombe, Apse, Holeway, and Knighton.
+
+
+---
+
+https://archive.org/details/lettersarchaeolo01jameuoft/page/118/mode/2up?q=lyra+
+Letters, archaeological and historical relating to the Isle of Wight;
+by James, Edward Boucher; James, Rachel Boucher
+
+Publication date 1896
+
+p118-21
+
+Fitz Osborne pursued in the Isle of Wight the same course of conduct towards the Church, which his master and relative, the Conqueror, had adopted on the mainland. Like many of the Norman nobles and gentry, Fitz Osborne was what would be now called a strong churchman; in 1045 he had founded the Abbey of Lire, or Lyra, in the diocese of Evreux in Normandy, where also he was the founder of the Abbey of Coulanges, in which he died. As was the case with most of the Norman abbeys, a legend is attached to the foundation of Lire, which can be read in the church history of Normandy (*Neustria Pia*, p. 545). The monk William of Poitiers says that Normandy was an Egypt, a Thebaid, as regarded monasteries. Duke William of Normandy, so the same writer tells us, never refused his authorization to any one desirous of giving to churches. 'He built many monasteries,' so Ordericus affirms. A compound of boldness and political scheming, William's followers, soldiers and lawyers, like the ancient Romans, shaven like the clergy, and good friends of the clergy (at the beginning at least), supported the Church. It appears from Domesday Book, the great authority on the condition of England at the period of the Conquest, that William Fitz Osborne gave to Abbey of St. Mary de Lira, six churches with their lands and possessions, along with the tenths of the King's revenues. The only two churches whose names are mentioned in this survey are those of Bovecombe (Bowcombe or Carisbrooke) and Arreton. ... The churches which Fitz Osborne gave to Lire were served by monks from that distant abbey. Lire was under the Benedictine rule. The monastic system, as founded by Benedict, was entirely in the ascendent during the reign of William the Conqueror. The rules of the Benedictine order, which had been for some time relaxed, were revived with greater stringency by the Cluniac monks, so called from Clugni, in Burgundy, where the community was first founded, in the year 912, by an abbot named Berne. The monks of Clugni added many new and severe regulations to those formulated by Benedict of Niursia. Lire, though it did not attain the fame of the Abbey of Bee, whence issued those illustrious prelates the Lombard Lanfranc and Anselm, was itself also a school of religious knowledge, writing, philosophy, art, and law. One of the great distinctions of Benedict's rule was the substitution of study for the comparative uselessness of mere manual labour for religious instructors whose business is not to serve tables Our gratitude is due to those Norman abbeys for fostering what little there was of learning and refinement in that troublous and dreary period. The evil in the case of the Isle of Wight was that the centre of operations was in those days of restricted locomotion at so great a distance from its field of labour among the people of this Island. This difficulty was remedied at some time after the Conquest by the founding of a cell dependent upon the parent foundation, or, as it was afterwards called, an 'alien priory,' at Carisbrooke, from which the monks might go forth to serve the churches attached to the Abbey of Lire.
+
+*December* 16, 1887.
+
+II.
+
+Among the benefits which the establishment of the little colony from the Benedictines of the Norman Abbey of Lire at the centre of the Island conferred on the Isle of Wight may be reckoned the preservation of the name of Wihtgaresburh in its shortened form of Carisbrooke. That name does not appear in Domesday Book, the Castle lurking under the entry of Alverstone, Alvington, and the church attached to the manor of Bovecombe — Bowcombe. The prior and monks of Carisbrooke is their designation in one of the earliest cartularies. The building of the priory and the church connected with it drew its craftsmen and masons to mingle with the ploughmen and reapers of the church lands and of the Bowcombe manor. These were swelled by the families of the retainers at Carisbrooke Castle, and hence arose the village of that name. Protection was found under the strong hand of the authorities at the Castle, and Carisbrooke might have grown up into the chief town of the Isle of Wight, had not in later times the superior local advantages of the borough of the Medene at the confluence of two streams and with an access to the Solent led to what was then the New Port taking the place of the old Julish borough of the Wight. No doubt these Norman monks of Carisbrooke soon found recruits among the English inhabitants of the Isle of Wight. Monasteries were the only spots in those rude ages where a bookish youth could find shelter. The more refined minds gravitated towards these quiet refuges of learning and Christian devotion. The monastic life had its charm for keen intellects and men of business capacity. The monasteries had considerable property which it was not only necessary to manage but also to guard against impositions and robberies. This security was only to be obtained by means of royal diplomas and grants; threats of excommunication from the bishops, directed against imperious barons and knights, who were little disposed to act from motives of duty, but did a good deal from interest or private friendship. A task like this demanded both address and activity, frequent visits to the royal court or to the castles of powerful nobles, the talent of pleasing influential men and of treating with all sorts of j)eople. Such a career has an attraction to minds who pride themselves on their diplomatic tact in dealing with mankind, and brought in aspirants who for the sake of power were willing to forfeit some of the ordinary gratifications of human nature. Modern writers on monaslicism are apt to people the abbeys with men laden under the burden of the memory of past crimes, with others of ascetic devotion, and also with those timid natures to whom the exchange of the necessity of decision for obedience to some outward rule was a luxury. These historians of the past omit among the inmates of the monasteries those ambitious spirits to whom the cloister was the only road for distinction. Where was a young man born of poor parents in the Isle of Wight to find a career where he could use his intellectual gifts, except by becoming a novice or pupil in the Priory of Carisbrooke? So it was that many of the monks of old were very sagacious men, with a wonderful faculty for managing the things of earth, but with little, if any, of the finer sensibility or stern love of truth which we are taught to look for in those who seek the kingdom of heaven.
+
+
+pp291-4
+
+A DAY AT CARISBROOKE PRIORY IN THE THIRTEENTH CENTURY.
+
+...
+
+Let us go back to eight hundred years ago, when William the Conqueror 'gave the Isle of Wight,' as Ordericus Vitalis informs us, 'to William, the seneschal of Normandy, the son of Osborn.' This William Fitz Osborne was, like most of the Normans, a devout churchman. He gave to the Abbey of St. Mary de Lyra, which he had founded in his native country of Normandy, as we learn from Domesday Book, six churches, certain lands, and the tenth of all the king's revenues. These French-speaking monks of Lyra were disciples of St. Benedict and lived according to his rule. The order of the Benedictines had spread rapidly in Italy, France, and England. All the abbeys in England before the Norman Conquest belonged to this monastic order. ...
+
+Soon after the grant of lands and revenues to this French abbey in Normandy, we do not exactly know when, the inmates of that monastery bethought themselves of sending forth some few of their number as a kind of outpost for their insular possessions in the Wight. The new borough on the Medina was as yet unborn. Carisbrooke was the chief-place in the Island; and there, under the shelter and protection of the Lord of the Isle of Wight and his strong castle, these missionaries should have their headquarters.
+
+The forms of the hills and valleys were much the same then as now. The little stream of Lukely threaded its way through the narrow chalk vale of Bowcombe to join the more copious waters of the Medina. Virgin thickets of brushwood and larger trees covered the hills ; green strips of marshy meadow bordered the stream. No sound broke the silence of the valley except the chatter of the brook, the cry of the wild fowls in the reeds of the river, and the song of the thrush and the blackbird in the woods, unless it were the occasional shout of the ploughman as he was yoking his bullocks to the team and driving them to the field, or the whistle of the swine-herd beating the trees for acorns. Now as then the stream runs through the valley to the sea, to be absorbed by the sunbeams, and to fall back from the clouds into the heart of the hills, and thus feed the current of waters ever-going and ever-returning. The scattered inhabitants were one day startled by seeing a little company of men in black tunics and with leather girdles tied round their waists. The country people stared at these strangers, but they knew they were religious men, so they did not jeer or mock at them, they only wondered as to whence and why they had made their appearance among them. And then this little band of monks with their sandalled feet went spying out the land, till at last they fixed upon a high rising ground facing Carisbrooke Castle. According to the old line of verse, the Benedictines always chose a hill for the site of their houses where such an elevation could be found. They stood together on the hill side, they sung a Latin hymn to a Gregorian chant. The last note of the chant died away, and then the good brethren prepared to build their house, much in the same way that a setder in the bush of Australia or the backwoods of Canada might do in our days. It was no pleasant work; the Isle of Wight has a bright sky, but they had left a brighter sky in sunny France. I'hey had to bid farewell to Normandy, the paradise of churchmen, for a rude race of people with little or none of the polished courtesy of the Frenchman. ... If we could have looked at these men, clad in their cheap and homely dress of black, as the memento of death, and scanned their faces and features, half hidden by the hood, which was used for study and prayer, we should have seen that they were men of different types of character. One bore on his countenance traces of the inward fire which had wasted his life — a vehement man to whom it was indeed hard to obey the will of his superior ; another was of those tranquil, easy, timid natures, to which the exchange of the necessity of decision for submission to the rule of the order and the commands of the prior was a luxury and the monastery a refuge. And there were young ardent novices ready with open hearts and full hands to devote their very best to God, caring as little for their lives as men who march up to the cannon's mouth.
+
+--
 
 ## The Wine Trade
 
