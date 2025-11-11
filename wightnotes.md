@@ -2,6 +2,261 @@ Legend of Wolverton
 
 https://h2g2.com/edited_entry/A87785013
 
+
+
+
+https://archive.org/details/TheNewWorldOfEnglishWordsOrAGeneralDictionary1696/TheNewWorldOfEnglishWordsOrAGeneralDictionary1658/mode/2up?q=lyra+abbey+wight+caresbroke
+The New World Of English Words Or A General Dictionary 1696
+by AncientHistoryWorks
+
+Publication date 1696
+
+
+
+---
+https://www.journals.uchicago.edu/doi/pdf/10.1086/359914
+John S. P. Tatlock
+Classical Philology, Vol. 9, No. 4 (Oct., 1914), pp. 442-447 (6 pages)
+
+https://www.jstor.org/stable/261454
+
+SOME MEDIAEVAL CASES OF BLOOD-RAIN
+
+> The valuable chronicle known by the name of Benedict of Peterborough'
+consists mostly of contemporary entries, from 1170 into the reign of
+Richard I. On June 19, 1177, it records a bloody rain in the Isle of Wight:
+"Interim, die Dominica clausi Pentecosten, scilicet decimo tertio kalendas
+Julii, et festo Sanctorum Gervasii et Prothasii martyrum, sanguineus imber
+cecidit in insula de With, fere per duas horas integras; ita quod linei panni,
+qui per sepes suspensi fuerant ad siccandum, sic rore illo sanguineo aspersi
+fuerant, ac si mersi essent in vase aliquo sanguine pleno."  (claude.ai: Here's the English translation:
+"Meanwhile, on the Sunday of the octave of Pentecost, namely the thirteenth day before the kalends of July, and the feast of the Holy Martyrs Gervasius and Protasius, a rain of blood fell on the island of Wight, for nearly two whole hours; so that linen cloths, which had been hung over hedges to dry, were so sprinkled with that bloody dew, as if they had been immersed in some vessel full of blood." )
+
+
+https://archive.org/details/bim_early-english-books-1475-1640_the-theatre-of-the-empir_speed-john_1627/page/n343/mode/2up?q=wight
+
+The theatre of the empire of Great Britain: presenting an exact geography of England, Scotland, Ireland, ...  1627
+by Speed, John.
+
+Publication date 1627
+
+WIGHT ILAND.
+
+
+[includes tale of a shower of blood in 1176. It is reported, that in the yeare of mans saluation, 1176. and twenty three of King Henry the secod, that in this Iland ftrained a ſhowre of bloud, which continued for the fpace of two houres together,to the great wonder and amazementof the people that beheld it with feare,]
+
+<<”
+
+THE DESCRIPTION OF THE VVIGHT IL AND.
+
+paſt named by the Romans Veeta, Veitis, and V ittefts, by the Britaines,Guyth, by | the Emliſh Saxons, Wu: lanS, and Wicþ-/fa ( for an | Iland they tearmed «£2 ) Sar $11 and in theſe dayes viually called by vs, The Iſle of | Wight, Ithelongeth to the County of Southampton, and lyeth our in length ouer againſt the midi(t of it! South-ward, It is encompaſled round with the Byzt-' tiſh Seas, and ſeuered from the Maine-land, that it may ſecme to haue beene conjoyned to ir,and there-| | of it is thought the Briteſhname (Gwyth ) hath beene | | given vnto 1t, which berokenerh ſeparation, even as | ict) being broken off and cut from 1taty, gotthe name from Secando( which ſfignifieth cutting.) |
+
+( 2) The forme ofthis Ifle is long,and in the middeſt farre more wide then at eyther end : from Bizxbridze Tle in the Eaſt, ro Hurſt Caſtle in the Veſt, it {trercheth out in length 20.miles, & in bredth from Newport hauen Northward, to Chale-b4y Southward 12,miles, The whole in circumference is abour fixty \ miles,
+
+(3) Theayreis commended both for health and delight,wherof the firſt is witneſſed by the long continuance of the Inhabitants inthe ſtare of their bodies before they be decayed and the other for quan-
+
+| | | F
+
+|
+
+IGHT 1land vras in times |
+
+|
+
+titie giues place tono neighbouring Country,
+
+(4) The ground(to ſay nothing of the Sea,which is exceeding full of Fiſh ) confilteth of ſoile very fruirfull ; yer the husbandmans labour delerues to be thanketfully remembred, by whoſe ou and induſtry it doth not onely lupply it ſelfe, but atfords Corneto be carryed forth to others. The land is plenteouſly ſtored with Cattle and Graine, and breedes euery where ſtore of Conies, Hares, Partridges and Pheſants, pleaſant for meadow, paſturage, and Parkes3 ſo that nothing is wanting that may ſuffice man, The middeſt yeelds plentic ot paſture; and forrage for Sheepe z whoſe wool! the Clothiers eſteeme the beſt; next vnto that of Leinfter and Cotteſwold : It youcaſt your eyes towards
+
+Paſtures and Woods : It towards the South fide, it lyeth (ina manner) wholy bedecked with Cornefelds encloſed, where at each end the Sea doth ſo incroch itſelfe, that it makerh almoſt rwo Ilands beſides, namely, Freſhwater Iſle, which looketh to the Weſt, and Bznbridge Iſle anſwering itto the Eaſt,
+
+( 5) The Commodities of the whole chiefly con{iſt of Cattle, Sea-fowle, Fiſh, and Corne, whereof it hath ſufficient : Woods are not here very plentifull;forthar it is onely ſtored with one little Forreſt,
+
+etthe Countrie of Hantſhire for vicinitic of Site,ts a friendly neighbour in that behalfe;ſo{as it were beingryedtogether inaffinity)they arcalwayes ready, | and propenſet» adde to each orhers wants andde| fes by a mutuall ſupply.
+
+(6) The ancient Inhabitants of this Iland were the Belge,ſpoken of in the ſeuerall Prouinces of Sommer ſet-ſhire, wilt-ſhire, and Hant-ſhire, Such as did then poſleſſe it were called Lords of the Ile of Wight, till it fell into the Kings hands, by Roger ( Sonne to william Fits-Osburneſlaine in the warre of Flanders) that was driuen into exile, And Heprythe firſt King of England gauc it vnto Richard Riduers,with the fec orInheritance of the Towne of Chriſt-Church where
+
+the North, it is all ouer garniſhed with Meadowes,
+
+(as inall other places Jhe built cerraine Forrrefſes,
+
+xm _ _— _ - _ _— —
+
+De ee EC _-
+
+(7) The principall Market-Towne in the Iſle is Newport, called in times paſt Medena, and Nouns Burgius de Meden;, that is, the new Burgh of Meden, whereof the whole Country is diuided into EaftMein, and Weſt-Meden, A Towne well ſeared, and much frequented z vnto whoſe Burgeſles his Maicſtic hath lately granted the choyſe of a Maior, who with his Brethren, doe gouerne accordingly, It is populous with Inhabitants, hauing anentrance into the Ifle from the Hauen, anda paſlage for Velfels of ſmall burden vnto the Key. Not tarre from it is the Caſtle Caresbrooke, whoſe founder is faid to haue beene whitgar the Saxon, and from him called white-Geresburgh : but now made ſhorter for caſter pronunciation; the graduation whereof for Latitude is in the degree 50. 36, minutes : and her Longitude 1n 19. 4. minutes, where, formerly hath {tood a Priory, andat Quarre a Nunnery; a necellary neighbour to thoſe Penitentiaries, And yet in their merry mood the Inhabitants ofthis Iland doe boaſt, that they were happier then their neighbour Countryes, for that they neuer had Monke thart euer wore hood, Lawyers that cauilled, nor Foxes that were craftic, |
+
+(8) It is reported, that in the yeare of mans laluation, 1176. and twenty three of King Henry the {ecod, that in this Iland itrained a ſhowre of bloud, which continued for the fpace of two houres together,to the great wonder and amazementof the people that beheld it with feare,
+
+(9) This Iſle of Wight is fortified both by Art and Nature : for beſides the ſtrength of Arrificiall Forts and Blocke-houſes ( wherewith ir is well furniſhed) it wants not the aſſiſtance of naturall Fences, as being enriched with a continuall ridge and range of craggie Cliffes, and Rockes, and Banckes, very dangerous for Saylers,as the Necdles,ſo called by reaſon of theirſharpneſle : The Shingles, Mixon Brambles, &c,
+
+(10) Yeſpeſian was the firſt that brought it to the ſubieion of the Romanes, whileſt he ſcrucd as a priuate perſon vnder Claudius Ceſar, And Cerdic was the firſt Engliſh Saxox that ſubdued it, who granting it vnto Stuffe & whitgar, they ioyntly together flew
+
+(almoſt ) all the Brer:iſþ Inhabirants, (being bur few of them there remaining) inthe Towne atoreſaid, calted of his name !/h:toaresburgh. Uolpher King of the Mercians reduced this Tland afterwards vnder his obedience, and at that time when he became Godfather to Ed:/wa'ich King of the South-Saxons, and anſwered for him at his Baptilme; he aſſigned it oucr vnto him, with the Prownce alto of the Ate. auari. Bur when Edelwa'ch was {Jaine, and Arwandeys the petty King of the Iland was made away,Ceadwa/{x King of the weſt Saxons annexed itto his Dominion,and ina tragicalland lementable mafſacre pur to the ſword (almoſt) euery mothers childe of the inborne Inhabirants,
+
+The thing that is beſt worthy note and obſcruati. on is this, That Biſhop !#4//724 was the firſt char inted the Inhabitants of this Iland in Chriſtian re. ligion, and brought them from that Jdolarrous Su-
+
+erſtition, with the which(vnrothat time)they were obſcurely blinded, .
+
+For Eccleſiaſticall Iuriſdi&ion, this Country be[ongeth tothe Biſhop of Wzxcheſter, and for Ciuill gouernment tothe County of Soatbamprom.Itis for. tified with the ſtrength of (xe Caſtles, traded with three Market-Townes,and hath 36.Pariſh-Churches
+
+2
+
+"Ge
+
+| [us | ; |
+
+Newport the chiefe rowne.
+
+A ſhowre of bloud.
+
+The ſtrength of this Iland.
+
+The Romane Gourrnours,
+
+The Mercian King.
+
+bl ufrid.
+
+planted inir
+
+HE PARTITION| of WicGunr Iand,
+
+Eaſt-Medine.
+
+| Cliffe, E. Med.
+
+Weſt Medine.
+
+Brixton, VF. Med.
+
+Brock, YV, Med. Bridge-Court, E. Med. | Bul ,W. Med,
+
+Bulner,YF7. Med,
+
+C
+
+Calhourne, YY. Med. Caresbroke, FY. Med. Chak-Rockes, YY. MedChalr, E, Med. Chale-bay,FY. Med. Challorne, E.' Med, -Cheuerton,YY. Med, Cleybrok, /7.Med.
+
+Clifte whit, E, Med. Comley, E. Med. Compem 2p at [Compron, YY. Med.
+
+Couluer-cliffes, E, Med;
+
+D
+
+Dane, E. Med. Done-moſſe, E, Med,
+
+E
+
+Elmeſworth, , Med;
+
+-mouth, /7, Med, S. Helen, E. Med. S. Helens hauen, E.Med. Hill, &. Med,
+
+I
+
+Iacmans | chin, oy. Mea,
+
+K
+
+S. Katherines, E. Med, Kerne, E, Med, Kinger, Y/, Med,
+
+Kinget chyne, i. Mea. Kinghton, E. Med,
+
+Kingſword, w. Med.
+
+1
+
+;
+
+P
+
+|
+
+L
+
+Langford, E. Mea. Langhorne, E. Med,
+
+S. Lawrance Parke, E, Med,
+
+Limerſton, (#. Med. Luckome, E, Med.
+
+M
+
+Maruell, w. Med. Medhole, E, Med. Merſh, YV. Med. Merſton, E, Med. Mitton, E. Med.
+
+.| Mountlon, i, Med,
+
+Myzon,$E Med.
+
+Nettles hithe, E, Med. Neunam, E. Med.
+
+' Newtowne, . Med. | Newtowne hanen, i. Med. NEWPORT,yy. Med.
+
+Newport hauen,”. Med. Newport Caſtle, . Me a, Newchurch, E. Med, Nighton, E. Med. Norris, E. Med,
+
+North Court, E. Med,
+
+Northparke, E, Med,
+
+Northwood, E. Med, Nounwell, E. Med.
+
+| P
+
+| Pan, E, Med. "Pagan, E. Med.
+
+* Pouppoll, E. Med,
+
+| Q
+
+Quart, E, Med.
+
+| R
+
+Redway, E. Med,
+
+|
+
+b ) —
+
+Ride, E, Med, Rockley, E, Med.
+
+——
+
+——
+
+—
+
+Trablefeld, x, Med,
+
+Roughbarrow, #. Med; Roxall, E. Med,
+
+Q
+
+Sande head, E. Med, SANDON Caſile, E. Med, Sandon bay, E. Med, | Shankling, E. Med. pms, Ta Med r Caſtic, w. Mea, Shaucome, i, Med, Shaufleere, F, Med. Shauler, E, Med.
+
+Thotley, w, Med, Thorney reat, W. Med. Thornay bay, i. Med.
+
+w Wachingwy parke, i, Med, Waitcourr, Y/, Med, Warden Rockes; W. Med. Weeke, E. Med, Wellow, #. Med. Weſtcourt, W, Med, Welicow Caſtle, , Med. Welſtouer, #, Med. Whipingham, E. Med. Whiteild, E, Med. Whityell, E, Med. Woluerton, #, Med. Wodhouſe, E. Med Worleleys Towre, w. Med. Worton hauen, FE, Med. Wotton parke, E, Med.
+
+Y
+
+YARMOVTH, IW. Med. Yarmouth hauen, w.Me#. Yarmouth Caſtle, #, Med, Yarmouth Rode, w. Med. Yauerland, E, Med.
+
+
+
+
+?
+https://archive.org/details/themiroureofmanssalvacionne/page/n9/mode/2up
+The miroure of mans saluacionne, a fifteenth century translation into English of the Speculum humanae salvationis and now for the first time printed from a manuscript in the possession of Alfred Henry Huth. With preface and glossary
+by Huth, Alfred Henry, 1850-1910
+
+Publication date 1888
+
+
+---
+https://archive.org/details/bim_eighteenth-century_a-new-naval-history-or-_entick-john_1757/page/n5/mode/2up?q=wight
+A new naval history: or, compleat view of the British marine. In which the Royal Navy and the merchant's service are traced through all their periods and different branches: ... Illustrated with copper plates…  1757
+by Entick, John
+
 ---
 https://britishnewspaperarchive.co.uk/viewer/bl/0000397/17910622/014/0004
 Hereford Journal - Wednesday 22 June 1791
