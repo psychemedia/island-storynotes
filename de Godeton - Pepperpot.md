@@ -11,6 +11,11 @@ And thereby lays another tale...
 ---
 
 
+https://archive.org/details/peepsintopicardy00crau/mode/2up?q=abbey
+Peeps into Picardy
+by Craufurd, W. D; Manton, E. A; Manton, E
+
+Publication date 1914
 
 
 https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1119117&resourceID=19191
