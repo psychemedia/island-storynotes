@@ -628,14 +628,7 @@ A Controverfy arifing between thefe Monks and thofe of the Abby of *Lyra* about 
 --
 
 
----
-
-https://archive.org/details/in.ernet.dli.2015.502008/page/n63/mode/
-
-The Undercliff Of The Isle Of Wight Past And Present
-by Whitehead, John L.
-
-Publication date 1911
+In John L. Whitehead, *The Undercliff Of The Isle Of Wight Past And Present*, 1911, [p31-](https://archive.org/details/in.ernet.dli.2015.502008/page/n63/mode/).
 
 THE TITHES OF THE MANOR.
 
@@ -664,13 +657,8 @@ In the Dean's Return, 1305, he states that the Abbey and Convent of Lyra receive
 
 ---
 
-https://archive.org/details/lettersarchaeolo01jameuoft/page/118/mode/2up?q=lyra+
-Letters, archaeological and historical relating to the Isle of Wight;
-by James, Edward Boucher; James, Rachel Boucher
 
-Publication date 1896
-
-p118-21
+In Edward Boucher James, *Letters, archaeological and historical relating to the Isle of Wight*, 1896, [p118-21](https://archive.org/details/lettersarchaeolo01jameuoft/page/118/mode/2up).
 
 Fitz Osborne pursued in the Isle of Wight the same course of conduct towards the Church, which his master and relative, the Conqueror, had adopted on the mainland. Like many of the Norman nobles and gentry, Fitz Osborne was what would be now called a strong churchman; in 1045 he had founded the Abbey of Lire, or Lyra, in the diocese of Evreux in Normandy, where also he was the founder of the Abbey of Coulanges, in which he died. As was the case with most of the Norman abbeys, a legend is attached to the foundation of Lire, which can be read in the church history of Normandy (*Neustria Pia*, p. 545). The monk William of Poitiers says that Normandy was an Egypt, a Thebaid, as regarded monasteries. Duke William of Normandy, so the same writer tells us, never refused his authorization to any one desirous of giving to churches. 'He built many monasteries,' so Ordericus affirms. A compound of boldness and political scheming, William's followers, soldiers and lawyers, like the ancient Romans, shaven like the clergy, and good friends of the clergy (at the beginning at least), supported the Church. It appears from Domesday Book, the great authority on the condition of England at the period of the Conquest, that William Fitz Osborne gave to Abbey of St. Mary de Lira, six churches with their lands and possessions, along with the tenths of the King's revenues. The only two churches whose names are mentioned in this survey are those of Bovecombe (Bowcombe or Carisbrooke) and Arreton. ... The churches which Fitz Osborne gave to Lire were served by monks from that distant abbey. Lire was under the Benedictine rule. The monastic system, as founded by Benedict, was entirely in the ascendent during the reign of William the Conqueror. The rules of the Benedictine order, which had been for some time relaxed, were revived with greater stringency by the Cluniac monks, so called from Clugni, in Burgundy, where the community was first founded, in the year 912, by an abbot named Berne. The monks of Clugni added many new and severe regulations to those formulated by Benedict of Niursia. Lire, though it did not attain the fame of the Abbey of Bee, whence issued those illustrious prelates the Lombard Lanfranc and Anselm, was itself also a school of religious knowledge, writing, philosophy, art, and law. One of the great distinctions of Benedict's rule was the substitution of study for the comparative uselessness of mere manual labour for religious instructors whose business is not to serve tables Our gratitude is due to those Norman abbeys for fostering what little there was of learning and refinement in that troublous and dreary period. The evil in the case of the Isle of Wight was that the centre of operations was in those days of restricted locomotion at so great a distance from its field of labour among the people of this Island. This difficulty was remedied at some time after the Conquest by the founding of a cell dependent upon the parent foundation, or, as it was afterwards called, an 'alien priory,' at Carisbrooke, from which the monks might go forth to serve the churches attached to the Abbey of Lire.
 
@@ -910,22 +898,22 @@ In 1315 a commission issued to John de Grymstede, J., and others to try Walter d
 
 
 
-[https://archive.org/details/calendarofpaten01grea/page/604/mode/2up p604, Membrane 5d]
+[p604](https://archive.org/details/calendarofpaten01grea/page/604/mode/2up), Membrane 5d
 
 '1313. June 8, Westminster. The like to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.'
 
-[https://archive.org/details/calendarofpaten02grea/page/54/mode/2up p55, Membrane 18d]
+[p55](https://archive.org/details/calendarofpaten02grea/page/54/mode/2up), Membrane 18d
 '1313. July 24. Westminster. Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the *st. Mary* of Bayonne with 174 tuns of white wine at the town of Tormay on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of southampton, notwithstanding that many of the mariners escaped alive to land.'
 
 
-https://archive.org/details/calendarofpatent02grea_0/page/54/mode/2up
+
 
 Calendar of the patent rolls preserved in the Public Record Office: Edward II, A.D. 1313-1317
 by Great Britain. Public Record Office
 
 Publication date 1894
 
-p. 114
+[p. 114](https://archive.org/details/calendarofpatent02grea_0/page/54/mode/2up)
 
 Membrane 11.
 
@@ -933,7 +921,7 @@ Membrane 11.
 
 Protection for Elias Byger, Frederick Campanare, and Bernard de Columbers, merchants of the king's duchy [of Aquitaine], who are prosecuting a suit for the recovery of their wines before Thomas de Warblynton and his fellows, justices of oyer and terminer touching trespasses committed by divers persons of the county of Southampton, who had carried away their wines.
 
-[https://archive.org/details/calendarofpaten02grea/page/148/mode/2up pp. 149-50, Membrane 9d.]
+[pp. 149-50](https://archive.org/details/calendarofpaten02grea/page/148/mode/2up), Membrane 9d.
 '1314, May 26, Newcastle-upon-Tyne. The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitte: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s.'
 
 
@@ -947,26 +935,26 @@ As Simon's *The History of the Wine Trade in England*, described, just a few yea
 > On November 22nd, 1318, for instance, a complaint was lodged by Martin de Bek, merchant of *Oporto in Portugal* (*Tortus de Portynggale*) and his fellow merchants of the same place, that whereas they had laden a ship, called the *Ship of Jesus Christ of Oporto* (*navis Jehsu Christi de Portu*) in that port with goods for conveyance to England, and the ship was driven ashore at Brighteston, in the Isle of Wight, their merchandise was carried away by John de Presford and others. `[Calend. of Pat. Rolls, 12 Ed. II., Part. I., memb. 14 d.; 14 Ed. II., Part I, memb. 20 d. and 8d.]`
 
 
-[https://archive.org/details/calendarofpatent03grea_0/page/296/mode/2up, p296, Membrane 14d.]
+[p296](https://archive.org/details/calendarofpatent03grea_0/page/296/mode/2up), Membrane 14d.
 '1318. Nov. 22. York. The like [commission of oyer and terminer] to William de Hardenne, Richard de Byflet and John de Burton on complaint by Martin de Bek, merchant of Oporto in Portynggale (*Portus de Portynggale*) and of his fellows, merchants of the same place, that whereas they had laden a ship, called *The ship of Jesus Christ of Oporto* (*navis Jehsu Christi De Portu*) in that port with goods for conveyance to England and the ship was driven ashore at Brighteston in the Isle of Wight and wrecked, John de Presford, John son of William Gilberd, Robert le Hagger, Robert stille and Adam stille of Ermewe, with others, took and carried away their merchandise. By K.
 
 
-[https://archive.org/details/calendarofpaten03grea/page/485/ pp.484-5, Membrane 6d]
+[pp.484-5](https://archive.org/details/calendarofpaten03grea/page/485/), Membrane 6d
 May 8 [1320] Fulmer. Commission of oyer and terminer to John de Foxle, Richard Damory, John de stonore and Ralph de Bereford on complaint by Francis de Pymont, merchant, that, whereas he had laden a ship, called *Navis sancti Marie de sancto Andero*, in spain with divers wares to bring into the realm to trade with and the ship was driven ashore at Hanemouth in the Isle of Wight, although many of her men escaped ashore alive, William stonhard, William le Bakere, Alice la Moue, John de la Chaumbro, Walter atte Pyle, William le skynner, Alice la Coule, Alice atte Asshe, sibyl atte Wello, William le Yonge, Roger le Taillour, William Maundeville, Geoffrey Michel, William son of Felicia atte Welle, Robert atte Brugge, John atte Brugge, Roger atte Wyche, John atte Wyche, William le Fevre, John atte Wode, Richard atte Wode, John le Yonge, Robert le Erle, William sebod, Henry Michel, William Peynyng, William Foket, Adam le Taillour, William le Charetter, William Cacchefrensh, Geoffrey Berewyne, Geoffrey le Yonge of Chestele, Ralph atte Brugge, James le Yonge, John Jolyf, Hugh Thomas, John le Longe of Chestele, Hugh le Launge, Henry le skynnere, William Frankeleyn, Nicholas le Glide, Thomas atte Forde, William Leoun, Robert Wyron, John le Bole, William Glot, John stokard, Richard Burgeys, William le Glide, William le Moue, William Fynamour, John atte Yate, simon Polespote, Ivo Pantrich, Henry Hanecok, Richard le Chapeleyn, Hugh le Clerk, Robert Maugor, Robert Wythelee, John son of William Gilbert, Robert atte Gate, William Freke, William atte Mor, Richard Jolif, William Elilond, Adam atte Lone, Nicholas Hassok, John atte Forde and Ralph his brother, Henry la, Persone of Moterston, Adam Gilbert, Henry le Erle, William stokard, Philip Randolf, John le Bole, Nicholas Tadewelle, William Ude, Adam Gilbert, Richard de la strede, Peter Pedon, Robert Manewode, William le Yonge, John saunte (or sauute), Richard Billyng, John le Yonge, Robert le Yonge, John de Pydele, Adam Gilbert, Roger Pollespete, William Maundeville, Nicholas Baxmon, William Tassel, Walter atte Ride, Robert de stok, William Pelter, Robert Furci, John Bolde, Henry le Lange of Hamelehouk and John Cobele of Houk, with others, took and carried away the goods.
 
-[https://archive.org/details/calendarofpatent03grea_0/page/538/mode/2up p538-9, Membrane 20d.]
+[p538-9](https://archive.org/details/calendarofpatent03grea_0/page/538/mode/2up ), Membrane 20d.
 August 5th 1320 Westminster, The like `[commission of oyer and terminer]` to John de Foxle, John de Stonore and John de Tycheburn on complaint by Martin Bek, merchant of Portyngall, and his fellows, that, whereas they had laden a ship called the ship of *Jesus Christ* of Portyngall with merchandise for conveyance to England and the ship had been driven ashore on the coast by Brighteston in the Isle of Wight (*Insula Vecta*), and all on board her had escaped to land, whereby the ship and merchandise ought not to be deemed wreck of sea, John, prior of saresbrok (Caresbrok), John de Presford, John son of William Gilberd, Robert le Haggere, Robert stille, Adam stulle (stille) of the Isle of Wight, Philip Aubyn, John Gabriel, John de Notlye, 'spicer,' Roger atte Chirche, Ralph Fraunceys, John Fraunceys, Peter le Mercer, Walter de Bury, John de Holtham, Walter de suthewyk, Thomas Clouere, Alexander le Lef, William Yde, William Cuppyng, Richard de Colmeston, William atte Hurst, John de Istone, Robert de Chastesbury, John le Frenche and Robert le Ysmongere of Winchester took and carried away their goods, as if wreck of sea, when such was not the case. By K.
 
 
-https://archive.org/details/calendarofpatent03grea_0/page/546/mode/1up, p548, Membrane 8d
+[p548](https://archive.org/details/calendarofpatent03grea_0/page/546/mode/1up), Membrane 8d
 
 '1320. Nov. 21. Westminster. The like [commission of oyer and terminer] to John de Foxle, John de stonore and John de Tycheburn on complaint by Martin de Bek, merchant of the kingdom of Portingall, and his fellows merchants of that kingdom, that, they having laden a ship called the ship of "JESUS CHRIST" [navis de Jehsu Christi] of Portugal with merchandise for conveyance to England, and the ship having been driven ashore on the coast by Brighteston in the Isle of Wight and the said merchants and others having escaped alive to land, whereby the ship and goods did not become wreck of sea, John, Prior of Caresbrok, John de Presford, John son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight, Philip Auby [sic], John Gabriel, John de Notlye, "spicer", Roger atte Cherche, Alexander le Lef, William Yde, William Cuppyng, Richard de Colmeston, William atte Hurst, John de Istone, Robert de Chastesbury, John le Frenche, Robert le Ysmongere of Winchester, Hugh Tuterich of Crischerche and John Cobin of Crischerche, with others, took and carried away their goods, as if the same were wreck of sea, when such was not the case.' 
 
-[https://archive.org/details/calendarofpatent03grea_0/page/604/mode/2up p264, membrane 22d.]
+[p264](https://archive.org/details/calendarofpatent03grea_0/page/604/mode/2up), membrane 22d.
 February 28 1321 Westminster. The like `[commission of oyer and terminer]` to John de Foxle, John de Stonore and John de Tycheburn on complaint by Martin de Bek, merchant of Portyngal, and his fellows of the same country, that whereas they had laden a ship called the 'ship of *Jesus Christ*' in Portyngal with wares to the value of 5,000*l.* to convey into England to trade with and the ship was driven ashore at Brighteston in the Isle of Wight, and they and all on board escaped alive to land, the cargo also being brought ashore, whereby it was not wreck of sea, John de Presford, John son of William Gilbert, Robert le Haggere, Robert stille of the Isle of Wight, Roger atte Cherche, Ralph Fraunceys, John Fraunceys, Peter le Mercere, Walter de Bury, John de Holtham, Walter de suthewyk, Thomas Colmere, Alexander le Lef, William Yde, William Coppyng, Richard de Colmeston, William atte Hurst, John de Istone, Robert de Chastesbury, John le French of Wynton, Hugh Toterich of Lemynton, John Cobyn, William Borgage, William Litelcave of Lemynton, Thomas le Coliare of Christchurch, Henry le Tannare, John de Warham, Henry le Muleward of Christchurch, Peter Miffitte (Misfitte), Henry le Chaundeler, Richard le sust, Richard de Norhampton, John Trice, John Osbarn, John le Brut, Henry le sutere, William atte Croche, Henry Aylham, William le Corch, Thamas 'of Holle,' John 'of Holle,' and William de Achlyng, with others took and carried away their goods under colour of wreck of sea.
 
 
-https://archive.org/details/calendarofpatent04grea_0/page/315/mode/1up p315 membrane 12d
+[p315](https://archive.org/details/calendarofpatent04grea_0/page/315/mode/1up) membrane 12d
 
 May 3.
 York.
@@ -974,27 +962,26 @@ York.
 Commission of oyer and terminer to John de Foxle, James de Norton and John de Tycheburn, on complaint by Martin de Bek, merchant of Portyngall, and his fellows, merchants of the same kingdom, that whereas they had laded a ship called The ship of Jesus Christ of that realm with merchandise for conveyance to England, on the voyage the ship was driven ashore on the sea coast near Brighteston in the Isle of Wight, but they and all in the ship escaped alive to land, and they brought all the goods in the ship safely to land, so that the ship and goods were not wreck of sea, John de Presford, John son of William Gilberd, Robert le Haggere, Robert Stille, Adam Stille of the Isle of Wight, Hugh Tuterich of Lemynton, John Cobyn, William Borgage, William Litelcave, of Lemynton, Thomas le Colicre of Christchurch, Henry le Tannere, John de Warham, Henry MuUeward of Christchurch, Peter Misfote, Henry le Chaundeler, Richard le Sust', Richard de Northt', John Tr'iche, John Osbarn, John le Brut', Henry le Sutere, William atte Crouche, Henry Aylkam, William le Corch, Thomas OfhoUe, John Ofholle, William de Achlyng, John de Holt, clerk, Ralph deElveye, Ralph deWolferton, Walter Norreys, Michael Chivaler, Roger le AMiite, John de Weyvill, ^Valter de Todynton, Walter atte Strete, Thomas le Haywiird of Ferchewatere, Roger le White, the younger, Nicholas atte Forthe, William Algard', John Ayardely, Walter Tudrich, John Baroun, Henry Huspynne, John de Crudelmor, Robert de Lymcrston, Henry 'in the Felde,' Robert de Gardyn of Ferchewatere, 'clerk,' Henry Humphrey, Richard Franwell of 13riceston, Roger Piligrymo, John Philippe of Mulleford and others, under pretence that the said goods were wreck of sea, took and carried them away.
 
 
-https://archive.org/details/calendarofpatent04grea_0/page/380/mode/1up p 380, membrane 13d
+[p 380](https://archive.org/details/calendarofpatent04grea_0/page/380/mode/1up), membrane 13d
 
 '1323. Oct. 7. Ightenhill. Commission of oyer and terminer to John de Foxle, James de Norton and John de Tycheburn, on complaint by Martin de Bek, merchant of the realm of Portyngall, and his fellows, merchants of that realm, that whereas they had laded in that realm a ship called THE SHIP OF JESUS CHRIST of that realm with merchandise to take to England, and the said ship was cast ashore near Brighteston in the Isle of Wight and the merchants and others in her escaped alive and brought the goods in her safely to land, whereby the ship and goods could not be called wreck, John de Presford, John son of William Gilberd, Robert le Hagger, Robert stille, Adam stille of the Isle of Wight, John Cobyn, William Liteleave of Lemyngton, Thomas le Colyer of Christchurch, Henry le Tannere, John de Warham, Henry le Muleward of Christchurch, Peter Miffyt, Henry le Chaundeler, Richard le Gust, Richard de Norhampton, John Tryce, John Osbarn, John le Brut of Portesmuth, Henry le souter, William atte Cruche, Henry Aylham, William le Corche, Thomas "of Holle", John "of Holle", William de Achelyng, John de Holte, clerk, Ralph de Elneye, Roger le White, John de Weyvill, Walter de Godynton, Walter atte strete, Thomas le Hayward of Ferchewatere, Roger le White the younger, Nicholas atte Forde, William Algar, John Ardeby, Walter Thudrich, John Baroun, Henry Huppyne, John de Cruddemor, Robert de Limerston, Henry "in the Felde", Robert de Gardyn of Ferchewater, clerk, Henry Hunfrey, Richard Farnewell of Briceston, Roger Pylegrym, John Philyp of Muleford, and others, carried away the said goods under colour that they were wreck when they were not: the jury to be of the county of southampton.'
 
 
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015011275826&seq=310 mambrane 1d p208 Calendar of the patent rolls preserved in the Public record office / prepared under the superintendence of the deputy keeper of the records 1334-1338 Edward III v.3
+ mambrane 1d [p208](https://babel.hathitrust.org/cgi/pt?id=mdp.39015011275826&seq=310) Calendar of the patent rolls preserved in the Public record office / prepared under the superintendence of the deputy keeper of the records 1334-1338 Edward III v.3
 '1336. July 1. Berwick-on-Tweed. The like `[commission of oyer and terminer]` to John de stonore, John de Hampton and John de Tichebourn, on complaint by Martin de Bek, merchant of the kingdom of Portingale, and his fellows, merchants of the same, that whereas they had freighted in Portugal a ship, called the ship of JESUS CHRIST, with goods for England, and the ship was driven ashore by a storm by Brighteston in the Isle of Wight, and whereas they and all others in the ship got safely to land with the goods, whereby the ship and goods should not be accounted wreck, John de Presford, John son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight, John Gobyn, William Litelcane of Leymnton, Thomas le Coliare of Christchurch, Henry le Tannere, John de Warham, Henry le Muleward of Christchurch, Peter Miffit, Henry le Chaundeler, Richard le Guster, Richard de Norhampton, John Tryce, John Osbarn, John le Brut of Portsmouth, Henry suter, William atte Crouche, Henry Aylham, William le Corche, Thomas "of Holle", William de Arthelyng, John de Holte, clerk, Ralph de Olneye, Roger le White, John de Weyvill, Walter de Godyngton, Walter atte strete, Thomas le Hayward of Ferchewatere, Roger le White, the younger, Nicholas atte Forde, William Algar, John Hardele, Walter Thudrith, John Baroun, Henry Hurpynne, John de Crudelmor, Robert de Limerston, Henry "in the Felde", Robert de Gardyn of Ferchewatere, clerk, Henry Hymfrey, Richard Farnwell of Briteston, Roger Pilegrym, John Felippe of Muleford, and others carried away the goods as wreck. By C.[ouncil], because sealed at another time.'
 
 ---
 
 
-https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up?q=%22de+godyton%22
-Calendar of the Close rolls preserved in the Pulic record ofice
-by Great Britain. Public Record Office; Lyte, H. C. Maxwell, Sir
+```{admonition} On the death of Walter de Godyton, 1327
+:class: dropdown
 
-Publication date 1896
-
-p167
+In *Calendar of the Close rolls preserved in the Pulic record ofice
+by Great Britain*, 1896, [p167](https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up).
 
 I EDWARD III PART II.
 
 Membrane 12
 
 1327. Sept 20. To the sheriff of Southampton. Order to cause a coroner for that county to be elected in place of Walter de Godyton, deceased.
+```
