@@ -78,15 +78,33 @@ From the summit of the Downs the view is a panorama of perfect harmony — the f
 
 *Tales are also told of the shoals of mackerel that could be seen in the bay from the top of the down — see note elsewhere.*
 
-Not surprisingly, there is a story behind the origin of the Pepperpot. It's the early 1300s, in the reign of Edward II, and the sea provides as much of an income to the Islanders living thereabouts as the farming.
+Not surprisingly, with such an expansive range of sight lines, the location on top of St Catherine's down was a good one ofr a beacon.
 
-But not just from fishing...
+```{admonition} Use as a Beacon, 1927
+:class: dropdown
+
+In G. Dunning, "Excavation of a Barrow on St Catherine Hill, Niton, Isle of Wight", *Proc. Hants Field Club*. 1927, Vol. 10. [pp 12-24](https://www.hantsfieldclub.org.uk/publications/hampshirestudies/digital/1920s/vol10/Dunning.pdf):
+ 
+During August and September, 1925, I made some examination of a barrow on the summit (781 feet above sea level) of St. Catherine's Hill, near Niton, Isle of Wight. 
+
+...
+
+That beacons formerly existed on the higher parts of the Isle of Wight is clearly shown in the Inquisition, held at Shide Bridge, in July, 1324. There were 29 beacons in all—13 in the East Medine, 16 in the West Medine, the latter including a beacon on Chale Down, watched daily by four men and nightly by two. It is uncertain whether the pit excavated is really the beacon referred to in the Inquisition. 
+
+In a small Survey of the down made in 1566, part of which is reproduced in Fig. 16, two conical wood stacks are shown north-east of the Oratory and well over on the Niton side of the boundary fence, each with a circular trench round its base. It seems very likely that the beacon pit was supplied from these two stacks.
+```
+
+But what of the story behind the origin of the Pepperpot, for there surely is one. It's the early 1300s, in the reign of Edward II, and the sea provides as much of an income to the Islanders living thereabouts as the farming.
+
+*But not just from fishing...*
+
+## The Pepperpot Legend
 
 On the Sunday after Easter, 1313, the Saint Mary, of Bayonne, went down on Atherfield Ledge in Chale Bay. Carrying 174 tuns [large casks, each containing approximately 252 gallons] of white wine from France, the majority of the crew survived, and many of the barrels were washed ashore.
 
 Local architect, archaeologist, and writer, Percy Stone, a resident of Merstone, related the tale of what happened next in his collection of poems, *Legends and lays of the Wight*, published in 1912.
 
-```{admonition} *St. Catherine's*, Percy Stone, 1912 
+```{admonition} *St. Catherine's*, Percy Stone, 1912
 :class: dropdown
 
 https://archive.org/details/legendslaysofwig00ston/page/30/mode/2up?ref=ol
@@ -98,6 +116,7 @@ Publication date 1912
 pp. 31-37
 
 ST. CATHERINE'S (1314)
+
 On a stormy night in the winter of 1314, one of a fleet of ships chartered by merchants of Aquitaine to convey a consignment of wine to England, struck on the treacherous Atherfield ledge with the result told in the legend. An account is given — in the Abbreviation of Pleas, Hilary Term, 1315 — of the merchants' claim for redress against Walter de Godyton, urging the cargo was no 'wreck of the sea.' Certain it is that De Godyton built the oratory and pharos on the down, as an inquisition as to its endowment, held in August 1328, states that he was the founder and that it was built 'to give light to those sailing these perilous seas by night.' The amount of wine in question was considerable, being one hundred and seventy-four casks, each of the value of five marks, of which De Godyton had fifty-three. How Holy Church came in is not so plain, but a Papal Bull threatening excommunication was fulminated against the delinquent unless due restitution and penance was made. The rest is legend.
 
 Wild sweeps the wrack from the gates of the West.  
@@ -322,7 +341,7 @@ But in process of time the true story of the wreck travelled over the Channel an
 
 ```
 
-Such is the tale as commonly told. But as ever, I wonder, what truth lies behind the tale?
+Such is the tale as commonly told. But as ever, I wonder, what truth lies behind it?
 
 ## Along the Coastline
 
@@ -401,9 +420,9 @@ In particular, we might note the reference to *"Walter de Godyton, [who,] in the
 ```{admonition} Chale, 1795 [1781]
 :class: dropdown
 
-In Richard Warner, *Collections for the history of Hampshire, and the bishopric of Winchester: including the Isles of Wight, Jersey, Guernsey, and Sarke. With the original Domesday of the county, and an accurate English translation*, 1795, [pp125-8](https://archive.org/details/bim_eighteenth-century_collections-for-the-hist_d-y_1795_1/page/124/mode/2up)
+In Richard Warner, *Collections for the history of Hampshire, and the bishopric of Winchester: including the Isles of Wight, Jersey, Guernsey, and Sarke. With the original Domesday of the county, and an accurate English translation*, 1795, [pp125-8](https://archive.org/details/bim_eighteenth-century_collections-for-the-hist_d-y_1795_1/page/124/mode/2up), quoting Sir Richard Worsley, *The History of the Isle of Wight*, 1781, [pp244-9](https://play.google.com/books/reader?id=wOZWAAAAcAAJ&pg=GBS.PA246&hl=en_GB).
 
-CHALE `[Sir Richard Worsley's Isle of Wight, p. 244.]`
+CHALE
 
 IN the Iſle of Wight, below Sandown Caſtle.
 
@@ -427,7 +446,7 @@ Some years ago it was diſcovered, that the ſand under the cliffs was mixed wit
 
 ```
 
-TO DO A different opinion? more fabulous?
+A rather more creative interpretation of the structure can be found in a report of meeting of the Oxford Architectural and Historical Society in 1871.
 
 ```{admonition} A *Lanterne des Mortes*? 1871
 :class: dropdown
@@ -436,7 +455,7 @@ In *Oxfordshire Weekly News*, Wednesday 22nd November, 1871, [p6](https://www.br
 
 Oxford Architectural and Historical Society
 
-Mr. JAMES PARKER (treasurer), read two letters which he had received on behalf of the society. The first letter from Mr. Hodder M. Westropp of Ventnor, Isle of Wight, dated Nov. 13th. It called the attention of the society to a small lighthouse about 7 miles from Ventnor, on St. Catherine Down, which the writer believed to be a *Lanterne des Mortes*, it being in connection with a sepulchral chapel The fanal and chapel were supposed to have been erected in 1323, by Walter de Godyton, who endowed the chapel.
+Mr. JAMES PARKER (treasurer), read two letters which he had received on behalf of the society. The first letter from Mr. Hodder M. Westropp of Ventnor, Isle of Wight, dated Nov. 13th. It called the attention of the society to a small lighthouse about 7 miles from Ventnor, on St. Catherine Down, which the writer believed to be a *Lanterne des Mortes*, it being in connection with a sepulchral chapel. The fanal and chapel were supposed to have been erected in 1323, by Walter de Godyton, who endowed the chapel.
 
 ...
 
@@ -596,6 +615,23 @@ The endnote regarding the de Godeton's construction of the Oratory suggests that
 > Inquisition concerning the endowment of the Oratory of Saint Katherine upon Chale Down. ... It has been made known to us that a certain Walter de Goditone has begun to construct a certain Oratory in honor of the Blessed Virgin Katherine in the parish of Chale upon the mount which is called Chales Down in the Isle of Wight ... [and has] sufficiently endowed it with certain revenues both for the restoration of a certain oratory there in future times and also to provide the light of a certain night-time beacon in those dangerous parts of the sea by night for those sailing, where various dangers have often befallen those sailing in the darkness, and for other necessities of the same oratory, as he says. We, desiring to promote this pious purpose and divine worship, as far as we are able with God, commit to you and command, that concerning the endowment of the said Oratory and in this matter, and whether this can be done without prejudice to the mother church of Chale aforesaid, or not, you inquire in due form of law, having summoned all whom it concerns, more diligently into the truth, and what you find through the aforesaid inquisition you should make us more certain in due manner under your seal.
 > Given at Waltham on the 17th day before the Kalends of August, A.D. 1328.
 
+```{admonition} The sustentation of an oratory, 1911
+:class: dropdown
+
+In John L. Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, 1911, Chapter XII, [p329-331](https://archive.org/details/in.ernet.dli.2015.502008/page/n439/mode/2up).
+
+A further record appears in the Winchester registers of Bishop Stratford, having reference to the foregoing. "In a communication to the Archdeacon of the Isle of Wight, the Bishop mentions the fact that Walter de Godston (Godeton) had assigned certain rents for the sustentation of the oratory on Chale Downs, for the maintaining of a clear light on every night on those dangerous parts of the sea-board, whereby divers perils to those navigating the seas might be avoided, and also provided a sufficient endowment for the other uses of the oratory." `[Cox, County Churches, I. W., p. 77.]` The writer goes on to discuss the surmise as to there being "two small establishments on these desolate downs, the one a hermitage and the other this lighthouse and oratory of Godeton's founding, both dedicated to St. Catherine. Having seen the original entries, and having studied at first hand the entries as to hermitages in a score of cases in the early diocesan records, Mr. Cox says:—"There is no doubt whatever that the 1328 entry refers to the same establishment as that of 1312, and that Walter de Godeton reconstructed the lighthouse and oratory, putting the endowment on a more satisfactory footing. A hermitage of mediaeval England differed *in toto* from an ankerhold or dwelling for a recluse. I know of no case," he adds, "of a hermitage where the hermit had not some definite practical work assigned to him, the repair of a bridge, the mending of a causeway leading thereto, or the guarding of a ford" `[Ibid., p. 78.]`
+
+These duties were performed and the light continued to shine till the Reformation when at the dissolution of the chantries, *temp.* Henry VIII, the prayers of the priest, and the more efficacious security derived from the light-house, were involved in one common ruin, and both light and chantry disappeared. It was perhaps found impracticable to divide the useful from the superstitious part of the foundation, so that the whole fell together, the chantry involving the primitive light-house in its ruin. Neither of them was ever restored, yet the little tower, still called St. Catherine's, survived and continued to serve as a guide to mariners by day.
+
+Of the building erected by Walter de Godyton the foundations only remain. These were excavated, in 1757, by Sir Richard Worsley, and the form of the chapel was disclosed. The tower of the chapel stood at the west end, having four distinct storeys, and was 35ft. 6in. high, octangular without and quadrangular within, finished with a pyramidal roof, each side, interior as well as exterior, being four feet square. "The lower part was perhaps used as a belfry to the chapel of the Hermitage. Its upper story was evidently constructed as a lighthouse for the direction of mariners. It is of plain, but neat masonry. Just beneath the roof it is pierced with eight small windows, whose openings diminish inwards, and all tend to the centre of the building. This construction, which would have been ill calculated for the admission of light from without, is perfectly well contrived for its diffusion from within." The tower—towards the close of the i8th century—was again put into a state of thorough repair, so that it appears capable of withstanding, for another century, the stormy blasts which rage at this elevation. Worsley speaks of the priests' little cell, being found at the south-west corner close to the tower. Mr. Percy Stone, in his excavations undertaken in 1891, says he could find no trace of it, so must conclude Worsley was wrong in his bearings, and meant the walls of the oratory, which I successfully uncovered without finding anything of interest beyond the mere foundations. `[Stone, Percy, Archit Ant. I. of W,, vol. ii, p. 29.]`
+
+The tower stood on the summit of St. Catherine's Down, 781 feet above sea level. "When standing on this airy summit it is impossible not to picture to the mind the venerable inhabitant of this cell lifted almost out of the habitable world, and only recalled to it by the charitable care of his friendly lamp; mingling his nightly orisons with the howling of the storm, and pouring forth prayers for the safety of those whose anxious eyes were strained with watching for its welcome ray, twinkling by fits through the sweeping clouds."
+
+"The view from the hill," writes Mr. Thorne (*The Land we live in*), "is of wondrous extent, reaching over, by far the larger part of the island, and including the New Forest, the hills of Hampshire, and the south coast as far as Beachy Head."
+
+```
+
 ## The Lost Convent of "Livers"
 
 Percy Stone's account of the history of the Pepperpot in *Architectural Antiquities* appears to be the source of the commonly told tale that the wine had come from *"the religious community of Livers, in Picardy"*. But I can find no reference to such an abbey or convent.
@@ -617,13 +653,13 @@ CARESBROKE
 
 *Priory, in the Ifle of Wight.*
 
-*William Fitz-Osbern*, created Earl of *Hereford* by the Conqueror, fubdu'd the Ifle of *Wight*, the Heirs Male of this *William* failing, his Eftate defcended to *Baldwin* Earl of *Exeter*, who confirm'd to the Monaftery of St. *Mary of Lira* all the Churches and other Poffefions granted to them by the aforefaid *William*, or by his own Father *Richard Rivers*; *William Vernun* confirm'd to thefe Monks the Receipt of *two Marks* per Annum at *Newbury*. *William*, Earl of *Devonfhire*, confirm'd all their Pofleffions in the Ifle of *Wight*. The Charter of King *Henry* II. recites and confirms all the Donations made to them.
+*William Fitz-Osbern*, created Earl of *Hereford* by the Conqueror, ſubdu'd the Iſle of *Wight*, the Heirs Male of this *William* failing, his Eſtate defcended to *Baldwin* Earl of *Exeter*, who confirm'd to the Monaſtery of St. *Mary of Lira* all the Churches and other Poſſeſſions granted to them by the aforeſaid *William*, or by his own Father *Richard Rivers*; *William Vernun* confirm'd to theſe Monks the Receipt of *two Marks* per Annum at *Newbury*. *William*, Earl of *Devonfhire*, confirm'd all their Poſſeſſions in the Iſle of *Wight*. The Charter of King *Henry* II. recites and confirms all the Donations made to them.
 
 
 
 p91-2
 
-A Controverfy arifing between thefe Monks and thofe of the Abby of *Lyra* about certain Tithes and Revenues in and about *Arretone*, *Hafeley*, *Titehingham*, *Lovecumb*, *Sandecumb*, *Cofham*, *Caresbroke* Caftle, *Kicherig* and *Richeburg*, in the Parifh of *Caresbroke*, the Difference was amicably agreed and adjufted between them by Deed, dated 1289.
+A Controverfy arifing between theſe Monks and thoſe of the Abby of *Lyra* about certain Tithes and Revenues in and about *Arretone*, *Hafeley*, *Titehingham*, *Lovecumb*, *Sandecumb*, *Cofham*, *Caresbroke* Caftle, *Kicherig* and *Richeburg*, in the Pariſh of *Caresbroke*, the Difference was amicably agreed and adjuſted between them by Deed, dated 1289.
 
 --
 
@@ -737,12 +773,12 @@ The old lighthouse itself has an eight-sided pyramid shaped roof with eight rect
 
 ## The Wreck of the St Mary
 
-The most comprehensive report regarding the historical tale of Walter de Godeton's dealings with the shipwrecked wine from the St. Mary can be found in John Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*:
+Whilst Percy provides us with the key elements of the story as usually told, perhaps the most comprehensive attempt at unpicking the historical tale of Walter de Godeton's dealings with the shipwrecked wine from the St. Mary can be found in John Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, published in 1911:
 
 ```{admonition} Oft in this bay, 1911
 :class: dropdown
 
-In John L. Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, 1911, Chapter XII, [p327-334](https://archive.org/details/in.ernet.dli.2015.502008/page/n439/mode/2up).
+In John L. Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, 1911, Chapter XII, [p327-329](https://archive.org/details/in.ernet.dli.2015.502008/page/n439/mode/2up).
 
 ![St. Catherines Tower, 1801 (illustration; in "The Undercliff Of The Isle Of Wight Past And Present", facing p.327)](images/2015.502008.The-Undercliff_pepperpot.jpg)
 
@@ -763,95 +799,79 @@ The earliest intimation of any preventive measures having been taken to provide 
 
 "It is thus manifest," writes the Rev. Charles Cox, "that a hermitage existed on the high grounds of Chale prior to 1312. It is impossible to say and idle to conjecture for how long before this date a hermitage and chapel, with a beacon light attached to it, had existed on these lonely downs; but it seems clear that one had existed here sufficiently long to require rebuilding, and that it had been endowed by a pious founder with some slender stipend. Had it been a mere hermitage dependent on alms the entry would not have appeared in this form in the diocesan register. Had it at that date been first endowed, some record of the founder, however brief, would doubtless have appeared." `[Cox, County Churches I. of W., p. 76.]`
 
-Two years elapse ere the next phase relating to the primitive light thus referred to is entered upon and is connected with a shipwreck occurring off this coast. The story runs that a ship of Bayonne freighted with white wines of the duchy of Acquitaine sailing to the coast of Flanders, was wrecked on the hidden reef known as Atherfield Ledge in Chale Bay. Many of the sailors, however, escaped and came ashore. What then occurred is not clear. The story goes that certain persons would appear to have conspired together to dispute the ownership of the wines, with the result that one, Remigius de Depe, the claimant, was lodged in Winchester Gaol to await his trial. The particulars appear on a Patent Roll, 7 Edward II:—
+Two years elapse ere the next phase relating to the primitive light thus referred to is entered upon and is connected with a shipwreck occurring off this coast. The story runs that a ship of Bayonne freighted with white wines of the duchy of Acquitaine sailing to the coast of Flanders, was wrecked on the hidden reef known as Atherfield Ledge in Chale Bay. Many of the sailors, however, escaped and came ashore. What then occurred is not clear. The story goes that certain persons would appear to have conspired together to dispute the ownership of the wines, with the result that one, Remigius de Depe, the claimant, was lodged in Winchester Gaol to await his trial. 
 
-\1313. July 24. Westminster  
-"Association of John Randolph, with Thomas de Warblinton, John de Grymstede, and John le Flemyng, in a Commission of Westminster, oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the Duchy of [Aquitaine]. They had freighted a ship called the St. Mary of Bayonne, with 174 tuns of white wine at the town of Tormay, on the river Charrante, in Poitou, for conveyance to England, and on the voyage the vessel was driven ashore on the coast of the Isle of Wight, where the wine was seized as *wreck of sea* by divers men of the county of Southampton, notwithstanding that many of the mariners escaped alive to the land." `[Cal. Pat. R., 7 Edw. II, p. 55.]`
+```
 
-The other side of the story is related ten months later in the same series of Rolls:—
+In the *Calendar of the patent rolls preserved in the Public Record Office : Edward II*, 1307-1313, we see the initial application for oyer and terminer, which is to say, a judicial investigation, led by Thomas de Warblinton, John de Grimestede and John le Flemyng, into the original claim regarding the wreck of the St. Mary and the loss off 174 barrels of wine from her:
 
-\1314. May 26. Newcastle-on-Tyne.  
-"Commission of Oyer and Terminer to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy of [Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale, in the Isle of Wight, and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein. Robert de Harslade, John le Walshe, and Reynum Arnold having made a plot to injure him and conspired with certain others, at Newport, in the same island, that Elias Byger, Fretheric de Campane and Bernard de Columeners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of the wines from them, as if the wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his; procured his capture and detention for a long time, in prison at Winchester, until according to the law and custom of the realm he was acquitted: The justices are to enquire fully into these allegations, by oath of good men of the county of Southampton." `[Ibid., p. 149.]`
+> '1313. June 8, Westminster. The like `[Commission of oyer and terminer]` to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.' [[Membrane 5d, p604.](https://archive.org/details/calendarofpaten01grea/page/604/mode/2up)]
 
-In the meantime the 174 casks of wine had been sold, and since each cask was valued at five marks (a mark's value was 13s. 4d.) the amount taken was considerable. With reference to the allegation that the wine was seized as "wreck of the sea" by divers men of the county, it may be said, in explanation thereof, that from the earliest times lords of manors abutting on the sea front claimed "wreck of sea" as belonging to them. Sir Thomas Langford, having leased out his manor of Chale, specially reserved the rights and emoluments coming from this source. `[W., Hist., p. 245.]` It was shown, however, at the inquiry, that the cargo formed no "wreck of the sea." Further particulars appear in the Abbreviation of Pleas, 8 Edward II, giving an abstract of the pleadings in the King's Bench:—
+The commission appears to be granted a few weeks later:
+
+> '1313. July 24. Westminster. Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the *st. Mary* of Bayonne with 174 tuns of white wine at the town of Tormay on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of southampton, notwithstanding that many of the mariners escaped alive to land.' [[Membrane 18d, p55.](https://archive.org/details/calendarofpaten02grea/page/54/mode/2up)]
+
+
+We then TO DO CURIous 
+
+[p. 114](https://archive.org/details/calendarofpatent02grea_0/page/54/mode/2up)
+
+Membrane 11.
+
+1314 May 16. Durham.
+
+Protection for Elias Byger, Frederick Campanare, and Bernard de Columbers, merchants of the king's duchy [of Aquitaine], who are prosecuting a suit for the recovery of their wines before Thomas de Warblynton and his fellows, justices of oyer and terminer touching trespasses committed by divers persons of the county of Southampton, who had carried away their wines.
+
+
+
+Whitehead then comments that *"The other side of the story is related ten months later in the same series of Rolls"* and TO DO includes the following report, which appears to suggest that Besecu claims the ship was Remigius de Depe's the ship was his, that Robert de Harslade, John le Walshe and Reymund Arnald conspired to claim that Elias Byger, Fretheric de Campane and Bernard de Columiners, were the owners and Besecus charged with having stolenn from them
+
+[pp. 149-50](https://archive.org/details/calendarofpaten02grea/page/148/mode/2up), Membrane 9d.
+'1314, May 26, Newcastle-upon-Tyne. The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitted: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s.
+
+
+Underwood then explains how the wine had apparently been sold on, and includes the legal ruling ahainst de Goyeton *"and three others"*, previously given by Percy Stone from the *Abbreviated Pleas*. He also repeats the claim previosuly given by Stone that the wine originally appeared to have belonged to *"the monastery of Livers, in Picardy"*.
+
+```{admonition} In the meantime...
+:class: dropdown
+
+In the meantime the 174 casks of wine had been sold, and since each cask was valued at five marks (a mark's value was 13s. 4d.) the amount taken was considerable. With reference to the allegation that the wine was seized as "wreck of the sea" by divers men of the county, it may be said, in explanation thereof, that from the earliest times lords of manors abutting on the sea front claimed "wreck of sea" as belonging to them. Sir Thomas Langford, having leased out his manor of Chale, specially reserved the rights and emoluments coming from this source. `[W., Hist. (*i.e.* Sir Richard Worsley, *The History of the Isle of Wight*), p. 245.]` It was shown, however, at the inquiry, that the cargo formed no "wreck of the sea." Further particulars appear in the Abbreviation of Pleas, 8 Edward II, giving an abstract of the pleadings in the King's Bench:—
 
 "Ex gravi querela quorundem mercatorum ducatus domini Regis Aquitanise quod ipsi carcaverunt diversa dolea vini albi pro Anglia in quibusdam navibus unde una navis in veniendo versus Angliam super mare in costera Insule de Wight per venti contrarietatem et marls intemperiem ibidem ad terram projecta fuit et confracta vinaque predicta ad terram in diversis partibus in insula predicta devenerunt et quod quidam malefatores de com. Suth' vina predicta licet plures marinarii... Per quod dominus Rex assignavit justiciarios quod inde inquierunt per legates homines... Qui retornaverunt quod dicta Vina surrepta fuere per diversos homines de insula predicta set precipue per Waiterum de Godeton et iij alii usque ad numeram centum lx et xiiij doleorum vini albi plenorum et semiplenorum precii dolei v marcas... Set per alium juratorem computatum est quod predictus Walterus et duo alii liij dolea vinorum predictorum precii dolei v marcas, etc. `[From the serious complaint of certain merchants of the duchy of the lord King of Aquitaine, that they had loaded various casks of white wine for England into certain ships, of which one ship, while sailing towards England, was by contrary winds and the roughness of the sea cast ashore and wrecked on the coast of the Isle of Wight, and the aforementioned wines came ashore in various places on the said island. And that certain wrongdoers from the county of Southampton took the said wines, even though there were many sailors [present]... Whereupon the lord King assigned justices to investigate the matter by sworn men... who returned that the said wines were stolen by various men from the said island, but especially by Walter de Godeton and three others, to the number of 100 and 60 and 14 (=174) casks of white wine, full and half-full, each cask valued at 5 marks... But according to another juror's account, the aforesaid Walter and two others [had] 53 casks of the said wine, each valued at 5 marks,]` `[Abbrev. Placitor, Hill. Term, 8 Edw. II, [1315] 1195—1327.]`
 
 It appears, therefore, that Walter de Godeton and other local land-owners were involved, either in the seizure or by purchasing the wine. Ultimately the jurors returned a verdict to the effect that since Walter, with others, had unlawfully received fifty-three casks of the wine, they must pay for them the sum of 227 1/2 marks, etc. Here the matter should have terminated, but, inasmuch as the wine appears to have belonged to a religious community — the monastery of Livers, in Picardy, a further charge of sacrilege was preferred against De Godeton. For his misdeeds it is stated that he was threatened by the Pope with divers pains and penalties. In expiation, and as a token of contrition, he was ordered to build, on the down above the scene of the disaster, a lighthouse to warn ships off the dangerous coast, and further to assign certain rents for a chaunting priest to sing masses for the repose of the souls of Walter, his ancestors, and those lost at sea.
 
-A further record appears in the Winchester registers of Bishop Stratford, having reference to the foregoing. "In a communication to the Archdeacon of the Isle of Wight, the Bishop mentions the fact that Walter de Godston (Godeton) had assigned certain rents for the sustentation of the oratory on Chale Downs, for the maintaining of a clear light on every night on those dangerous parts of the sea-board, whereby divers perils to those navigating the seas might be avoided, and also provided a sufficient endowment for the other uses of the oratory." `[Cox, County Churches, I. W., p. 77.]` The writer goes on to discuss the surmise as to there being "two small establishments on these desolate downs, the one a hermitage and the other this lighthouse and oratory of Godeton's founding, both dedicated to St. Catherine. Having seen the original entries, and having studied at first hand the entries as to hermitages in a score of cases in the early diocesan records, Mr. Cox says:—"There is no doubt whatever that the 1328 entry refers to the same establishment as that of 1312, and that Walter de Godeton reconstructed the lighthouse and oratory, putting the endowment on a more satisfactory footing. A hermitage of mediaeval England differed *in toto* from an ankerhold or dwelling for a recluse. I know of no case," he adds, "of a hermitage where the hermit had not some definite practical work assigned to him, the repair of a bridge, the mending of a causeway leading thereto, or the guarding of a ford" `[Ibid., p. 78.]`
+```
 
-These duties were performed and the light continued to shine till the Reformation when at the dissolution of the chantries, *temp.* Henry VIII, the prayers of the priest, and the more efficacious security derived from the light-house, were involved in one common ruin, and both light and chantry disappeared. It was perhaps found impracticable to divide the useful from the superstitious part of the foundation, so that the whole fell together, the chantry involving the primitive light-house in its ruin. Neither of them was ever restored, yet the little tower, still called St. Catherine's, survived and continued to serve as a guide to mariners
-by day.
+TO DO At this point
 
-Of the building erected by Walter de Godyton the foundations only remain. These were excavated, in 1757, by Sir Richard Worsley, and the form of the chapel was disclosed. The tower of the chapel stood at the west end, having four distinct storeys, and was 35ft. 6in. high, octangular without and quadrangular within, finished with a pyramidal roof, each side, interior as well as exterior, being four feet square. "The lower part was perhaps used as a belfry to the chapel of the Hermitage. Its upper story was evidently constructed as a lighthouse for the direction of mariners. It is of plain, but neat masonry. Just beneath the roof it is pierced with eight small windows, whose openings diminish inwards, and all tend to the centre of the building. This construction, which would have been ill calculated for the admission of light from without, is perfectly well contrived for its diffusion from within." The tower—towards the close of the i8th century—was again put into a state of thorough repair, so that it appears capable of withstanding, for another century, the stormy blasts which rage at this elevation. Worsley speaks of the priests' little cell, being found at the south-west corner close to the tower. Mr. Percy Stone, in his excavations undertaken in 1891, says he could find no trace of it, so must conclude Worsley was wrong in his bearings, and meant the walls of the oratory, which I successfully uncovered without finding anything of interest beyond the mere foundations. `[Stone, Percy, Archit Ant. I. of W,, vol. ii, p. 29.]`
+A remark in the *Select Pleas in the Court of Admiralty*, 1894, seems to refer to actual prosecution of the above case in 13*15* (if we can trust the date) suggesting a procedural error that resulted in the case being retried.
 
-The tower stood on the summit of St. Catherine's Down, 781 feet above sea level. "When standing on this airy summit it is impossible not to picture to the mind the venerable inhabitant of this cell lifted almost out of the habitable world, and only recalled to it by the charitable care of his friendly lamp; mingling his nightly orisons with the howling of the storm, and pouring forth prayers for the safety of those whose anxious eyes were strained with watching for its welcome ray, twinkling by fits through the sweeping clouds."
+```{admonition} Miscarriage of justice, 1894
+:class: dropdown
 
-"The view from the hill," writes Mr. Thorne (*The Land we live in*), "is of wondrous extent, reaching over, by far the larger part of the island, and including the New Forest, the hills of Hampshire, and the south coast as far as Beachy Head."
+In Reginald G Marsden, *Select Pleas in the Court of Admiralty*, 1894, [p. xxi](https://archive.org/details/selectpleasinco01marsgoog/page/n23/mode/2up)
 
-The ancestors of Walter de Godyton are found mentioned in the feodary, 8 Edward I:— "Will'us de Godditon tenet dimidium feodi apud Hale," and a later reference to the same manor is entered in a Close Roll, under date July 26th, 1352:
+1315. Miscarriage of justice in a case of spoil of wreck.
 
-\1352. July 26.  
-The King appointed William de Ryngebourn, Theobald de Gorges, and John de Kyngesdon, to take an inquisition and it is found that a manor called Hale was lately half a Knight's fee, that William de Godyton now held it entire of the manor of Gatecombe in demesne... that the manor was not divided after the death of William de Hale and that Richard atte Hale held the messuage and land of Robert de Godyton by the service of a fourth part of a Knight's fee," etc. `[Cal Cl R., 1349—1354.]`
+In 1315 a commission issued to John de Grymstede, J., and others to try Walter de Godyton for spoiling a ship of one Byger which had gone ashore on the Isle of Wight. The indictment was quashed apparently upon the ground that the presentment was by a jury not drawn from the Isle of Wight. Subsequently the accused men were tried before a jury of the island, and judgment was given for restitution of the goods and for damages. There was a writ of error, upon which, however, no further proceedings appear to have been taken; but there was a difficulty in getting execution owing to misfeasance of the sheriffs. `[Cor. Reg. Hil. 8 Ed. II. rot. 88; ib. rotuli 20 and 111]`
+```
 
-The manor of Godyton is found under its modern name of "Gotten," as a farm situated on the north-east slope of Chale Down. In 1780 the Trinity Board, recognising the value of the ancient tower as a landmark, and desiring to re-establish the light, substantially repaired the tower, and, at an expense of £7,000, erected another pharos by its side. This light was soon found to be useless in bad weather when most wanted, for the high hills are almost always enveloped in clouds, and of course the lanthorns invisible at any little distance. Pennant, from whom the quotation is taken, mentions that "From mistaking this light for the Portland lights, a Dutch frigate of 36 guns and 250 men came bump ashore and was beat to pieces, and though most of the crew were saved at last, the surf ran so high it was one night and two days before they could be brought off." "I was," he adds, "the means of saving eight men, by bribing a desperate smuggler to go off to them in his boat." `[Pennants, Journey to the I. W., vol. ii, p. 189.]`
 
-In bygone days the south side of the island obtained an unenviable notoriety from the behaviour on these occasions of the people living on the coast strip. The ingenious Mr. J. Sturch, of Newport, writing on the Isle of Wight in 1756, says:—
 
-"The Country People, of the meaner Sort, have for many years been too much accustomed to make a barbarous Advantage of these Misfortunes, plundering and carrying off the Merchants Effects in a most unjust and infamous Manner," adding — "of late this savage Practice has been much suppressed." `[The General Magazine of Arts and Sciences, p. 122.]`
 
-Albin, writing in 1795, tells us "The inhabitants are usually more intent on plundering than on affording assistance to the distressed and shipwrecked mariner." A year later, Tomkins, in his *Tour of the Island*, refers "to an inhuman stratagem practised by the inhabitants of Chale" — adding that it has too much the air of fiction to be seriously credited — "on every stormy night the unwary mariner is allured to his destruction by fixing a lantern to the head of an old horse, one of whose legs had been previously tied up. The limping gait of the animal gave the lantern a kind of motion, exactly similar to that of a ship's light, and led the deceived pilot on these fatal rocks, to fall a prey to merciless plunderers."
+The final mention we find of Walter de Godyeton in the Calendar of the Close rolls comes in 1327, shortly following his death:
 
-In consequence of this atrocious behaviour — whether here or elsewhere — it was enacted in the reign of George II "That death was to be the punishment for hanging out false lights, also for stealing goods from a wreck."
+```{admonition} On the death of Walter de Godyton, 1327
+:class: dropdown
 
-Behaviour of this kind could not have been notorious here, or very general, since we find Gilpin, in 1798, writing:— "There is another picturesque circumstance frequently seen on the coasts of the Isle of Wight, which may be mentioned, though it is a dreadful one. A winter seldom passes in which the inhabitants of these dangerous coasts are not called together to see some dreadful event (a wreck) of this kind. Long experience has taught them to judge when the mischief is inevitable. They see that every wave which beats over the perishing vessel drives her nearer some reef of rocks, well known to them, though the seaman knows it not; signals can be of no use; yet they make what signals they can to point out the danger. In a short moment the dreadful crash arrives. The labouring vessel, now beating among the rocks, gives way in every part, and the hospitable islanders, very unlike their neighbours on the Cornish Coast, have nothing left but to do everything in their power to save the miserable people, and recover what they can from the wreck."
+In *Calendar of the Close rolls preserved in the Pulic record office*, 1896, [p167](https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up).
 
-From the earliest period "wreck of the sea, waifs and estrays," pertained to the lordship of the island. At an inquisition taken on the death of Baldwin de Redvers, 47 Henry III (1263), "the jurors also say that wreck of the sea belonging to the lord of the castle is worth 4s. per annum." During the countess Isabella's tenure the claim was contested by the abbot of Quarr, by John de Insula, owning Bonchurch and other Undercliff estates, by Sir Thomas de Aula, of St. Lawrence, and the lady Matilda de Estur, of Old Park, in Whitwell parish, on the plea that each of them was entitled to one-half of whatever should be wrecked on their respective lands, as a compensation or salvage for preserving the other half for the use of the lord." The trial took place before the Justices Itinerant, at Winchester, 8 Edward I (1280), when "Isabella, countess of Albermarl, was summoned to show to the Lord the King, by what warrant she thus claimed to have wreck of the sea, and Isabella comes and saith that she and all her ancestors, from the time of king Richard, and also before that time always unto the present time have had their wreck of the sea in her fee of the Isle of Wight without any interruption." The story is given in Hillier's unfinished *History of the Isle of Wight*, and "The jury being chosen, say upon oath, 'that the aforesaid Countess and also all her ancestors, from the time whereof memory doth not exist, had such wreck of sea in her fee,' etc., and by an order of the Itinerant Justices the rights of the Countess were confirmed. `[Hillier, Hist. and Antiq, I. W., pt. ii, p. 95.]`
+I EDWARD III PART II.
 
-In 1416, 3 Henry V, is entered the following:—
+Membrane 12
 
-"Edwardus Dux Ebor'.
-
-Insula de Wight et Caresbrok Castr' infra eundem et totum dominium addict' insulam et castrum pertinens cum wrecco maris..." `[Cal. Inq., p.m., vol. iv.]`
-
-The "revenue of wrecks" was granted as a royal franchise to lords of manors, and the Wardens of the Island claimed this privilege. Worsley writes:— "When the Lordship was in Prince Edward, Sir Henry Tyeys was Warden under him, a petition was exhibited against him to the Parliament by Ralph de Gorges (of Knighton, I. of W.), complaining that he (Sir Henry Tyeys) had defrauded the lord of part of the salvage of a wreck," etc. `[Worsley, Hist., p. 88.]` The lords of the manor of Ashey, which included the sub-manor of Knyghton, claimed to have all wrecks of the sea on the north side of the island between Ryde and Binstead, as far beyond low water mark as a man could reach the ground with an oar, 18 ft. long, as their property.
-
-The result of the inquiry is entered on a Patent Roll:—
-
-1320 Nov. 15 Westminster  
-"Commission of Oyer and Terminer to John de Bello Campo of Somersete (and others), touching the petition, exhibited before the King's Council, of Ralph de Gorges, alleging that divers trespasses and other malpractices under colour of office had been committed as well against the King, Edward, earl of Chester and lord of the Isle of Wight, his son, as against men of the county of Southampton and of the said Island, by Henry le Tyeys and John de Burton and other ministers of the said Henry during the time the same Henry was Constable of the said Island." `[Cal. Pat. R., 1317-1321, Edw. II. p. 546.]`
-
-And later, in the same series of Rolls, is entered:—
-
-1321. July 2. Westminster.  
-"Grant to Ralph de Gorges, lately taken prisoner while on the King's service and ransomed afterwards, of 500 marks towards his ransom, to be received out of the first money accruing from the £1000 by which Henry Tyeys lately made fine for trespasses against the King, Edward, earl of Chester, in the Isle of Wight of which he was convicted..." `[Ibid, p. 596.]`
-
-As the commerce between the continent and the mainland increased in volume this asset must have become much more valuable. It possibly explains the effort the early manorial lords seem to have made to secure a sea-frontage on the exposed south side of the Island, however contracted the area might be.
-
-The phrase "flotsam and jetsam" is often used, but the true meaning is not always fully understood. In order to constitute a legal wreck the goods must come to land. If they continue at sea the law distinguishes them by the above terms. "Jetsam" is applied where goods are cast into the sea, and there sink and remain under water; "flotsam," where the goods continue floating on the surface of the waves, and a third term, "ligan," where they are sunk in the sea, but tied to a cork or buoy to be found again, a mode of procedure endeared to the heart of many a bygone smuggler.
-
-The following deed is of interest, as showing that some of the rights claimed by the "Lords of the Island" in early days still appertained to the later governorship:—
-
-"An agreement between Richard Worsley, Captaine of the Isle of Wight, and certyn Merchaunts of London, concerning Goods wrecked on the Island, 35 Henry VIII (1544).
-
-> This Indenture made the vijth day of March in the xxxvth year of the Reign of our Sovereigne Lord Henry 8th by the Grace of God of Ingland, Fraunce and Ireland, Kyng, Defender of the Faith and on Erth immediately under God suppreme Hed of the Church of Ingland and Ireland. Betweene Richard Worsleye, Esqyer, Captaine of the Isle of Wight in the Countie of Sutht' of the one partie and us as well the Merchaunts and Laders as Factors, attourneys, and Deputies for the Merchauntts Laders of the Citie of London of and in a Ship namyed the 'Concepcion of Castric' lately perished and lost at a place called the Donne-Nose within the said Isle of Wight of the other partie. Witnesseth that the saide Merchauntts, Laders, Factors, Attorneys and Deputies for and in behalfe of the Merchauntts and Owners of al the Goods and Merchaundises conteyned within the saide Ship by these Presents hath covenanted concluded and fully agreed to and with the said Richard Worsleye in manner and forme followinge that is to say the seyd Richard Worsleye to have for the Recovery and Savying of all such merchaundises as yu the seyd Ship was laden and styvyn from hensforth as well brode Clothes, Screytes, Dosens, Kersies and Cottons as also Hides, Calf Skynnes, Tallowe, Pewter and other Marchandises wherewith the seyd Ship was laden as the saide Richard Worsleye shall save and recover or by any manner of meanes bring into his possession or Custodie as wel in hole clothes as Remnants and Pieces to the Behoof and Profit of us the seyd Merchauntts and Laders the fourthe part for his paines and i:harges of all the seyd Wares so hereafter by him savid and recovered. The saide Richard Worsleye delyveryng or causyng to be delyvered to uss the seyd Merchauntts or to owre assignes the other three partes clere of all manner of Costs and Charges which he shall do or cause to be done about the sayvng and recoveryng off the same. And the saide Richard shall also cause the saide Clothes as well hole as in pecys to be washyd, driyd, and d'elyverid to the seide Merchauntts or to theire assignes the seide three parts clere at the Key of the Town of Newporte within the seide He at his ppre Costs and Charges. In Witness whereof the parties aforesaide to these present Indentures have interchangeably set their Seales.  
-Per me Rolandu Stap. (L.S.)
-
-Dunnose, where the disaster happened, is a well-known and dangerous point on the coast near Luccombe, and here, in recent years, several shipping disasters have occurred, notably the wreck of H.M.S. Eurydice,
-
-From a note entered in a Calendar of State Papers it would seem attention had been drawn to the dangerous coast near by Dunnose:—
-
-"1661. Nov. 16. Reference to the Trinity House of the Petition of Edward Penruddock, for setting up a light house on the western coast and Dunnose Point on the south of the Isle of Wight." `[Cal, S. P. Dom, Ser., 1661—1663, p. 149.]`
-
-The foregoing "Notes" may very fitly conclude with a brief description of the well-known lighthouse situated at St. Catherine's Point, in the parish of Niton.
-
-ST. CATHERINE'S LIGHTHOUSE
-
-After the primitive light disappeared in consequence of the chantry endowments having been taken away in the reign of Henry VIII, no further attempt to lessen the dangers of navigation was made until the year 1780. In this year the Brethren of the Trinity House erected a lighthouse on the top of the down near to the western boundary of the parish of Niton. This, however, proved useless on account of the misty vapours which so frequently obscured the summit of the hill, when the mariners had most need of the lights' friendly aid.
-
-...
-
+1327. Sept 20. To the sheriff of Southampton. Order to cause a coroner for that county to be elected in place of Walter de Godyton, deceased.
 ```
 
 ## The Court Case
@@ -869,71 +889,47 @@ http://iwhistory.co.uk/The%20pepper%20box.doc  Alan F Champion
 
 Abbrev. Placitor.  Abbreviation of Pleas,
 
-```{admonition} Use as a Beacon, 1927
-:class: dropdown
+TO DO
 
-In G. Dunning, "Excavation of a Barrow on St Catherine Hill, Niton, Isle of Wight", *Proc. Hants Field Club*. 1927, Vol. 10. [pp 12-24](https://www.hantsfieldclub.org.uk/publications/hampshirestudies/digital/1920s/vol10/Dunning.pdf):
- 
-During August and September, 1925, I made some examination of a barrow on the summit (781 feet above sea level) of St. Catherine's Hill, near Niton, Isle of Wight. 
+Whitehead's history of de Godeton's tale pulls together many of the threads of the tale behind the origin of the Pepperpot, but a closer inspection of the rolls hints at a possibly rather more involved tale spread through the *Calendar of the patent rolls preserved in the Public Record Office: Edward II, A.D. 1313-1317*, 1894
 
-...
 
-That beacons formerly existed on the higher parts of the Isle of Wight is clearly shown in the Inquisition, held at Shide Bridge, in July, 1324. There were 29 beacons in all—13 in the East Medine, 16 in the West Medine, the latter including a beacon on Chale Down, watched daily by four men and nightly by two. It is uncertain whether the pit excavated is really the beacon referred to in the Inquisition. 
+https://archive.org/details/calendarofpaten01grea/page/604/mode/2up  1894, A.D. 1307-1313
 
-In a small Survey of the down made in 1566, part of which is reproduced in Fig. 16, two conical wood stacks are shown north-east of the Oratory and well over on the Niton side of the boundary fence, each with a circular trench round its base. It seems very likely that the beacon pit was supplied from these two stacks.
-```
+https://archive.org/details/calendarofpaten02grea/page/54/mode/2up 1898  A.D. 1313-1317
+
+
+https://archive.org/details/calendarofpaten03grea/page/485/ 1903
+Calendar of the patent rolls preserved in the Public Record Office : Edward II,Vol. III,  A.D. 1317-1321
+
+https://archive.org/details/calendarofpatent04grea_0, vol. IV, 1904  A.D. 1321-1324
+
+
 
 TO DO
 
-```{admonition} Miscarriage of justice, 1894
-:class: dropdown
-
-In Reginald G Marsden, *Select Pleas in the Court of Admiralty*, 1894, [p. xxi](https://archive.org/details/selectpleasinco01marsgoog/page/n23/mode/2up)
-
-1315. Miscarriage of justice in a case of spoil of wreck.
-
-In 1315 a commission issued to John de Grymstede, J., and others to try Walter de Godyton for spoiling a ship  of one Byger which had gone ashore on the Isle of Wight. The indictment was quashed apparently upon the ground that the presentment was by a jury not drawn from the Isle of Wight. Subsequently the accused men were tried before a jury of the island, and judgment was given for restitution of the goods and for damages. There was a writ of error, upon which, however, no further proceedings appear to have been taken; but there was a difficulty in getting execution owing to misfeasance of the sheriffs. `[Cor. Reg. Hil. 8 Ed. II. rot. 88; ib. rotuli 20 and 111]`
-```
 
 
-
-
-[p604](https://archive.org/details/calendarofpaten01grea/page/604/mode/2up), Membrane 5d
-
-'1313. June 8, Westminster. The like to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.'
-
-[p55](https://archive.org/details/calendarofpaten02grea/page/54/mode/2up), Membrane 18d
-'1313. July 24. Westminster. Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the *st. Mary* of Bayonne with 174 tuns of white wine at the town of Tormay on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of southampton, notwithstanding that many of the mariners escaped alive to land.'
-
-
-
-
-Calendar of the patent rolls preserved in the Public Record Office: Edward II, A.D. 1313-1317
-by Great Britain. Public Record Office
-
-Publication date 1894
-
-[p. 114](https://archive.org/details/calendarofpatent02grea_0/page/54/mode/2up)
-
-Membrane 11.
-
-1314 May 16. Durham.
-
-Protection for Elias Byger, Frederick Campanare, and Bernard de Columbers, merchants of the king's duchy [of Aquitaine], who are prosecuting a suit for the recovery of their wines before Thomas de Warblynton and his fellows, justices of oyer and terminer touching trespasses committed by divers persons of the county of Southampton, who had carried away their wines.
-
-[pp. 149-50](https://archive.org/details/calendarofpaten02grea/page/148/mode/2up), Membrane 9d.
-'1314, May 26, Newcastle-upon-Tyne. The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitte: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s.'
 
 
 
 TH: for the May 1314, was this the same as the 1313 ship, or a fraudulent claim made on another having lost on the firsT?
 
+
+
+
+
+
+
 ## A Second Wreck
+
+The shenanigams regarding wrecks and the claims arising from them appears not to have been an isloated incident.
 
 As Simon's *The History of the Wine Trade in England*, described, just a few years later there was another delivery of "distressed wine" to the shores of the back of the Wight, this time carried away by *"John de Presford and others"*.
 
 > On November 22nd, 1318, for instance, a complaint was lodged by Martin de Bek, merchant of *Oporto in Portugal* (*Tortus de Portynggale*) and his fellow merchants of the same place, that whereas they had laden a ship, called the *Ship of Jesus Christ of Oporto* (*navis Jehsu Christi de Portu*) in that port with goods for conveyance to England, and the ship was driven ashore at Brighteston, in the Isle of Wight, their merchandise was carried away by John de Presford and others. `[Calend. of Pat. Rolls, 12 Ed. II., Part. I., memb. 14 d.; 14 Ed. II., Part I, memb. 20 d. and 8d.]`
 
+Once again, we can look to the Calendar of the patent rolls  TO DO
 
 [p296](https://archive.org/details/calendarofpatent03grea_0/page/296/mode/2up), Membrane 14d.
 '1318. Nov. 22. York. The like [commission of oyer and terminer] to William de Hardenne, Richard de Byflet and John de Burton on complaint by Martin de Bek, merchant of Oporto in Portynggale (*Portus de Portynggale*) and of his fellows, merchants of the same place, that whereas they had laden a ship, called *The ship of Jesus Christ of Oporto* (*navis Jehsu Christi De Portu*) in that port with goods for conveyance to England and the ship was driven ashore at Brighteston in the Isle of Wight and wrecked, John de Presford, John son of William Gilberd, Robert le Hagger, Robert stille and Adam stille of Ermewe, with others, took and carried away their merchandise. By K.
@@ -948,7 +944,7 @@ August 5th 1320 Westminster, The like `[commission of oyer and terminer]` to Joh
 
 [p548](https://archive.org/details/calendarofpatent03grea_0/page/546/mode/1up), Membrane 8d
 
-'1320. Nov. 21. Westminster. The like [commission of oyer and terminer] to John de Foxle, John de stonore and John de Tycheburn on complaint by Martin de Bek, merchant of the kingdom of Portingall, and his fellows merchants of that kingdom, that, they having laden a ship called the ship of "JESUS CHRIST" [navis de Jehsu Christi] of Portugal with merchandise for conveyance to England, and the ship having been driven ashore on the coast by Brighteston in the Isle of Wight and the said merchants and others having escaped alive to land, whereby the ship and goods did not become wreck of sea, John, Prior of Caresbrok, John de Presford, John son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight, Philip Auby [sic], John Gabriel, John de Notlye, "spicer", Roger atte Cherche, Alexander le Lef, William Yde, William Cuppyng, Richard de Colmeston, William atte Hurst, John de Istone, Robert de Chastesbury, John le Frenche, Robert le Ysmongere of Winchester, Hugh Tuterich of Crischerche and John Cobin of Crischerche, with others, took and carried away their goods, as if the same were wreck of sea, when such was not the case.' 
+'1320. Nov. 21. Westminster. The like [commission of oyer and terminer] to John de Foxle, John de stonore and John de Tycheburn on complaint by Martin de Bek, merchant of the kingdom of Portingall, and his fellows merchants of that kingdom, that, they having laden a ship called the ship of "JESUS CHRIST" [navis de Jehsu Christi] of Portugal with merchandise for conveyance to England, and the ship having been driven ashore on the coast by Brighteston in the Isle of Wight and the said merchants and others having escaped alive to land, whereby the ship and goods did not become wreck of sea, John, Prior of Caresbrok, John de Presford, John son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight, Philip Auby [sic], John Gabriel, John de Notlye, "spicer", Roger atte Cherche, Alexander le Lef, William Yde, William Cuppyng, Richard de Colmeston, William atte Hurst, John de Istone, Robert de Chastesbury, John le Frenche, Robert le Ysmongere of Winchester, Hugh Tuterich of Crischerche and John Cobin of Crischerche, with others, took and carried away their goods, as if the same were wreck of sea, when such was not the case.'
 
 [p264](https://archive.org/details/calendarofpatent03grea_0/page/604/mode/2up), membrane 22d.
 February 28 1321 Westminster. The like `[commission of oyer and terminer]` to John de Foxle, John de Stonore and John de Tycheburn on complaint by Martin de Bek, merchant of Portyngal, and his fellows of the same country, that whereas they had laden a ship called the 'ship of *Jesus Christ*' in Portyngal with wares to the value of 5,000*l.* to convey into England to trade with and the ship was driven ashore at Brighteston in the Isle of Wight, and they and all on board escaped alive to land, the cargo also being brought ashore, whereby it was not wreck of sea, John de Presford, John son of William Gilbert, Robert le Haggere, Robert stille of the Isle of Wight, Roger atte Cherche, Ralph Fraunceys, John Fraunceys, Peter le Mercere, Walter de Bury, John de Holtham, Walter de suthewyk, Thomas Colmere, Alexander le Lef, William Yde, William Coppyng, Richard de Colmeston, William atte Hurst, John de Istone, Robert de Chastesbury, John le French of Wynton, Hugh Toterich of Lemynton, John Cobyn, William Borgage, William Litelcave of Lemynton, Thomas le Coliare of Christchurch, Henry le Tannare, John de Warham, Henry le Muleward of Christchurch, Peter Miffitte (Misfitte), Henry le Chaundeler, Richard le sust, Richard de Norhampton, John Trice, John Osbarn, John le Brut, Henry le sutere, William atte Croche, Henry Aylham, William le Corch, Thamas 'of Holle,' John 'of Holle,' and William de Achlyng, with others took and carried away their goods under colour of wreck of sea.
@@ -971,17 +967,3 @@ Commission of oyer and terminer to John de Foxle, James de Norton and John de Ty
 '1336. July 1. Berwick-on-Tweed. The like `[commission of oyer and terminer]` to John de stonore, John de Hampton and John de Tichebourn, on complaint by Martin de Bek, merchant of the kingdom of Portingale, and his fellows, merchants of the same, that whereas they had freighted in Portugal a ship, called the ship of JESUS CHRIST, with goods for England, and the ship was driven ashore by a storm by Brighteston in the Isle of Wight, and whereas they and all others in the ship got safely to land with the goods, whereby the ship and goods should not be accounted wreck, John de Presford, John son of William Gilberd, Robert le Haggere, Robert stille, Adam stille of the Isle of Wight, John Gobyn, William Litelcane of Leymnton, Thomas le Coliare of Christchurch, Henry le Tannere, John de Warham, Henry le Muleward of Christchurch, Peter Miffit, Henry le Chaundeler, Richard le Guster, Richard de Norhampton, John Tryce, John Osbarn, John le Brut of Portsmouth, Henry suter, William atte Crouche, Henry Aylham, William le Corche, Thomas "of Holle", William de Arthelyng, John de Holte, clerk, Ralph de Olneye, Roger le White, John de Weyvill, Walter de Godyngton, Walter atte strete, Thomas le Hayward of Ferchewatere, Roger le White, the younger, Nicholas atte Forde, William Algar, John Hardele, Walter Thudrith, John Baroun, Henry Hurpynne, John de Crudelmor, Robert de Limerston, Henry "in the Felde", Robert de Gardyn of Ferchewatere, clerk, Henry Hymfrey, Richard Farnwell of Briteston, Roger Pilegrym, John Felippe of Muleford, and others carried away the goods as wreck. By C.[ouncil], because sealed at another time.'
 
 ---
-
-
-```{admonition} On the death of Walter de Godyton, 1327
-:class: dropdown
-
-In *Calendar of the Close rolls preserved in the Pulic record ofice
-by Great Britain*, 1896, [p167](https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up).
-
-I EDWARD III PART II.
-
-Membrane 12
-
-1327. Sept 20. To the sheriff of Southampton. Order to cause a coroner for that county to be elected in place of Walter de Godyton, deceased.
-```
