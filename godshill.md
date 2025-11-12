@@ -377,6 +377,33 @@ place,
 
 Over the years, the church was rebuilt - the current church was perhaps started in the early 1400s, with the top part of the tower being rebuilt in the 16th century and later repaired following a lightning strike of 1778 - and the Church became a regular stopping off point for tourists and visitors alike, though perhaps today's visitors prefer the tea rooms and the chocolate shop and the model village to the Church.
 
+```{admonition} Struck by Lightning
+:class: dropdown
+
+In Sir Richard Worsley, *The History of the Isle of Wight*, 1781, [p214](https://books.googleusercontent.com/books/content?req=AKW5QafIHSrtgg4jp1YEFMni8TmsXo4DghFyXaPNuKVMOPOhpTQoZpD6xlzaQHRNVM-bBuqcdfaKGnmZBrKFsgaMoJTa7XYs9MQVdOq8g2ysFSA3tYwnwLhAAHTxQsgX1m5o8HiXRbDTvs4g981mOLt6JUIUwhFfwlhttfof0PofmkH-Ojfs6PYU7scFC3xHfgosv-llUcUpGucMu-7T-3QTk23LbJ13vrG9FCgsANuKcHwExk4rYzJrKHjO1QMFHzit8QVP8LDW0CU1IiOoV7wk9yqlk4-YMg).
+
+In the month of January, in the year one thouſand ſeven hundred and feventy-eight, the church was struck by lightning, and conſiderably damaged; the particulars of this ſtorm, and its effects, are described in a letter from the miniſter of the pariſh, in the following note.
+
+Dear Sir, we had here on Monday last, about nine in the morning, very ſevere lightning, with two of the loudest claps of thunder I ever heard. There was a ſenſible interval between the first flash of lightning and its thunder. The ſecond flash of lightning and clap of thunder, seemed to be at the fame inſtant. My houſe rocked as if it was tumbling down, and at first I thought it the effects of an earthquake. I concluded that the cloud would burst, and be attended with fatal conſequences: it firſt made its appearance against the old tower, and from thence, its zig zag, confused, and various directions are ſo perplexed that they cannot be followed in any one continued line of deſcription. It ſeems to have commenced its rage near the middle of the wall, about four feet below the dial plate of the clock, where it tore off large pieces of maſſive stone, and loofened many others, but did not penetrate quite through there: ſome of it must have entered by the ſpindle, in the centre of the dial-plate, as it broke the clock-caſe, liquified the upper part of the pendulum, distorted the works of the clock, and broke the piece of iron that regulates the ſtriking.
+
+It has done no miſchief in the ſtory where the bells are, except ſplitting the wall on the ſouth ſide; over the belfry, it has rolled up ſome of the lead, leaving no marks on the boards or timber that ſupported it. The battlements are looſened, the ſpindle that ſupports the weather-cock is bent double, ſo is the pinnacle on which it ſtands. The pinnacle on the ſouth east angle is in the ſame ſituation. The cramp irons and lead that fastened them in, are wrenched out of their places.
+
+Near that part of the tower, where it ſtruck, it broke almoſt all the glaſs in the great window behind the gallery; entered the church in an angle between the stone frame of the window and the wall, shivered and tore off part of the frame to which the glaſs was faſtened; and looſened it from the building.
+
+There is a large hole between the two roofs in the angle at the bottom of the weſt end, through which it must either have deſcended from the battlements of the tower, or come out from the story where the clock is fixed. In its eaftward direction, it has grazed over the arches, deſcended to the butment, doing no miſchief there, but tearing off ſome of the whitewash, it continued its courſe eastward, to the monument between the two chancels, struck off a part of the moulding, and then laid hold of the iron work, when it became forky, conducted by the different pieces of the iron about the movements. One part of it entered cloſe by the commer of one of the hatchments; inſinuated itself with inconceivable ſubtility through the wall, and came out again in the upper joint of the window-frame over the communion table. The other part entered the wall in the angle cloſe to the bottom of Mr. Stuart Worfley's monument; pierced through the wall and the buttreſs on the outſide, threw a large piece of stone to a conſiderable distance, deſcended down the buttrefs, ploughed up a furrow a yard or more in length at the north-east corner of the buttreſs, and made its exit. There are some stones loosened on the outſide of the opening of your family vault, which may, or may not be the effect of this ſhock-there is alſo, another furrow at the fouth-west corner of the church, near the place where it begun its violence.
+
+This is but a very faint deſcription of the effects of the lightning; if it had happened the day before, when we were aſſembled in the church, I believe many of the congregation would have been deftroyed by it.
+
+I thought it right to inform you, Sir, of the truth and particulars of this event; therefore, choſe rather to expoſe my ignorance of technical terms, than betray the leaſt unwillingness to inform you of any thing in my power, that you would wish to know ; a tribute of gratitude juſtly due to you from, Sir,
+
+your much obliged, and obedient humble ſervant,
+DANIEL WALSH.
+
+Godſhill, Jan. 21st. 1778.
+
+To Sir Richard Worſley, Baronet
+```
+
 If you do go up to the Church, and look on the noticeboards, you're as likely as not to see a poster for a flower festival, or a jumble sale, perhaps, as well as sundry other church notices.
 
 But for one visitor, John Hassell, writing in the second volume of his two volume work, *Tour of the Isle of Wight*, published in 1790, and which you can find nowadays in the Castle Museum library at Carisbrooke Castle, or via the [Internet Archive](https://archive.org/details/bim_eighteenth-century_tour-of-the-isle-of-wigh_hassell-j_1790_2/page/n121/mode/2up?), there was something rather more unusual posted there. After noting damage to two of the gable ends resulting from the 1178 lightning strike, Hassell recounts his experience of entering the Church (p.88): *[u]pon our entering the porch we observed abstracts from several acts of parliament fixed against the door, and among them one that excited both our curiosity and risibility;*
