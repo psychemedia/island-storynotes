@@ -1,14 +1,18 @@
 # A Second Contested Wreck
 
-The shenanigans regarding wrecks and the claims arising from them appears not to have been an isloated incident.
+The shenanigans regarding wrecks and the claims arising from them appears not to have been an isolated incident.
 
 As Simon's *The History of the Wine Trade in England*, described, just a few years later there was another delivery of "distressed wine" to the shores of the back of the Wight, this time carried away by *"John de Presford and others"*.
 
 > On November 22nd, 1318, for instance, a complaint was lodged by Martin de Bek, merchant of *Oporto in Portugal* (*Tortus de Portynggale*) and his fellow merchants of the same place, that whereas they had laden a ship, called the *Ship of Jesus Christ of Oporto* (*navis Jehsu Christi de Portu*) in that port with goods for conveyance to England, and the ship was driven ashore at Brighteston, in the Isle of Wight, their merchandise was carried away by John de Presford and others. `[Calend. of Pat. Rolls, 12 Ed. II., Part. I., memb. 14 d.; 14 Ed. II., Part I, memb. 20 d. and 8d.]`
 
-Once again, we can look to the Calendar of the patent rolls  TO DO
+Heritage Gateway, Historic England research records	
+https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=899227&resourceID=19191
 
-[p296](https://archive.org/details/calendarofpatent03grea_0/page/296/mode/2up), Membrane 14d.
+
+Once again, we can look to the Calendar of the patent rolls to try to piece together the sequence of events.
+
+[[membrane 14d., p296](https://archive.org/details/calendarofpatent03grea_0/page/296/mode/2up)]
 '1318. Nov. 22. York. The like [commission of oyer and terminer] to William de Hardenne, Richard de Byflet and John de Burton on complaint by Martin de Bek, merchant of Oporto in Portynggale (*Portus de Portynggale*) and of his fellows, merchants of the same place, that whereas they had laden a ship, called *The ship of Jesus Christ of Oporto* (*navis Jehsu Christi De Portu*) in that port with goods for conveyance to England and the ship was driven ashore at Brighteston in the Isle of Wight and wrecked, John de Presford, John son of William Gilberd, Robert le Hagger, Robert stille and Adam stille of Ermewe, with others, took and carried away their merchandise. By K.
 
 
