@@ -14,7 +14,7 @@ PREFACE.
 
 IN publishing this, the true account of the Great Ardlamont Mystery which for a period of four months occupied the attention of almost every man, woman, and child in the United Kingdom, I make but one apology-namely, to the British public for the delay in putting before them the facts within my own knowledge of that most unhappy and unfortunate occurrence which should (had not the Scotch law authorities by their action in charging me with an atrocious crime, without one particle of evidence to justify them in doing so) have been published long since.
 
-I make no claim to literary powvers, but will do my best to show by my statement how by one mistake (I mean my harmless adoption of a name other than that by which I was commonly known on the turf for reasons which I will explain) I woke up to find myself involved in a mystery, charged with murder, hunted like a dog with a price upon my head, declared an outlaw, and doomed to suffer more than by my poor ability I can ever hope to make my readers appreciate. Now for my story.  
+I make no claim to literary powers, but will do my best to show by my statement how by one mistake (I mean my harmless adoption of a name other than that by which I was commonly known on the turf for reasons which I will explain) I woke up to find myself involved in a mystery, charged with murder, hunted like a dog with a price upon my head, declared an outlaw, and doomed to suffer more than by my poor ability I can ever hope to make my readers appreciate. Now for my story.  
 *London, April, 1894.* EDWARD SWEENEY.
 
 CHAPTER 1.
@@ -51,7 +51,7 @@ Mr. Monson: Look here, old fellow, it will never do for me to introduce you to m
 
 I replied: I quite understand what you mean, and you may say whatever you like, so long as I know what to say myself.
 
-Mr Monson: Well I thought you wouldnlt ming; but my wife would know at once if she heard the name Ted Davis who you were, so you must not let her know.
+Mr Monson: Well I thought you wouldn't mind; but my wife would know at once if she heard the name Ted Davis who you were, so you must not let her know.
 
 "CALL ME JUGGINS."
 
@@ -79,13 +79,13 @@ IN ARDLAMONT HOUSE.
 
 Having arrived at Ardlamont House and been introduced to Mrs. Monson, who received me most cordially, we proceeded to the dining-room, where a very welcome and nice dinner awaited us. The party at dinner consisted of Mr. Monson and his wife, the governess (Miss Heron), and myself. Mr. Hambrough did not appear at dinner, and though I understood he was staying in the house, I had at this time never seen him, and did not know but what he was a guest similar to myself, and it never crossed my mind that he was the real owner and Monson was his tutor. I do not suggest that Mr. Monson deceived me as to this, or that I was wilfully misled; but I suppose, having been introduced to him as a swell with lots of money, I assumed all I saw and envied was part of his good fortune. I subsequently ascertained that Mr. Hambrough was away fishing that evening, and did not return until very late at night—past midnight.
 
-All went very pleasantly at dinner. Mrs. Monson was a charming hostess, and made me feel quite at home; and informed me amongst other things she hoped I could stay for the shooting, and as an indudement stated she had engaged a new cook for the shooting season for the benefit of the gentlemen who would be at Ardlamont.
+All went very pleasantly at dinner. Mrs. Monson was a charming hostess, and made me feel quite at home; and informed me amongst other things she hoped I could stay for the shooting, and as an inducement stated she had engaged a new cook for the shooting season for the benefit of the gentlemen who would be at Ardlamont.
 
 After dinner Mr. Monson and I adjourned to the smoking room, and there again I was struck by the completeness of things and the very comfortable way in which he lived. The dinner had been excellent, and the whisky was very fine, I remember, tempting me to take several glasses, and once more to thank my good fortune in having encountered my new friend.
 
 On being shown to my bedroom I fancied it was a little cold, and therefore I asked to have a good fire made to warm it, as I was, after my journey, feeling a little bit chilly, and feared an attack of asthma (to which complaint I am very subject) if I caught cold.
 
-My room having been beautifully warmed, after a parting glass and cigar with Mr. Monson, I retired to rest on the night of the 8th of August, 1893, without a thought of anything but my own good luck in being a vistor at Ardlamont House, the guest of such a delightful host and hostess as Mr. and Mrs. Monson.
+My room having been beautifully warmed, after a parting glass and cigar with Mr. Monson, I retired to rest on the night of the 8th of August, 1893, without a thought of anything but my own good luck in being a visitor at Ardlamont House, the guest of such a delightful host and hostess as Mr. and Mrs. Monson.
 
 https://britishnewspaperarchive.co.uk/viewer/BL/0000098/18940407/005/0001?browse=true
 Pall Mall Gazette - Saturday 07 April 1894
