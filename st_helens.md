@@ -6,7 +6,7 @@ If you go down to the Duver at St Helens, you'll see the ruined tower [tower was
 
 
 https://books.googleusercontent.com/books/content?req=AKW5QacX__HB7zujgtHdSwDVyAcA0BqDODRBueTp6MsKXot-9F8XK-jFMYQg2SszXMBGNEbDOCLYw_4OBPP1jHYya7yq_IAzWbAXNEIYrQw090WHNHeeCC5YzkJA7auYqLV7eHdAK2AsD6FVbzpn7n6gjhv2F3X6_M0GFtGB2Uxd7yD9RcMDytk6eu3fTzl_yJPgPPQ8x35gog3Pv3IsJjMKjdAsvfEZuAoAZubLb7Cs1xxuo3lHO24dy2jfNBEuuOoJvKL9_d9fDa5Hxu_bc3QE1NK5KFVNZ_0YPWdCOzbGom7svrveB50
-Percy Stone Architectural Antiquties Isle of Wight
+Percy Stone Architectural Antiquities Isle of Wight
 
 ![](images/Architectural_Antiquities_st_helens.png)
 
@@ -47,12 +47,10 @@ itself was shortly after granted by Edward IV. to the same foundation, from whom
 King, in the 14th year of his reign, appears to have transferred it to Windsor College.d
 In the reign of Edward I. the Prior released his claim to the Rectory of Brading. In Release of the same reign, in the Return of the Dean of the Island, 1305, under " Sct. Elene, " we find Brading.
 " Prior habet ecclesiam sibi appropriatam. " That at all events in the reign of Edward III.
-the Priory was not a wealthy establishment is evident, as it furnished only one archer to the
-Island strength. In the valuation of benefices by Cardinal Beaufort, temp. Henry VI . , the
-church is rated at 30 marks.
-The inroads of the sea have been the greatest enemy of the structure, which, from its The Church indecay.
-exposed position, bore the brunt of all the storms that swept up from the S.E. In the reign Temp.
-of Edward VI . the north wall was taken down as a dangerous structure, and in the reign o
+the Priory was not a wealthy establishment is evident, as it furnished only one archer to the Island strength. In the valuation of benefices by Cardinal Beaufort, temp. Henry VI . , the church is rated at 30 marks.
+
+The inroads of the sea have been the greatest enemy of the structure, which, from its The Church in decay.
+exposed position, bore the brunt of all the storms that swept up from the S.E. In the reign Temp. of Edward VI . the north wall was taken down as a dangerous structure, and in the reign o
 
 since " you might see in at one end and out at the other " ; and George Oglander, " the
 ،،
@@ -61,28 +59,19 @@ centoner of S. Elyn's, " in his report, December 1559, goes on to say " that the
 Eton, " there had been no curate and but little service for many years-" so that
 " the parishioners had been fain to bury their corpses themselves ; and yet they pay " nevertheless their tithes. Foreign sailors, seeing the shameful using of the same, think
 " that all other churches within the realm be like used, and so have both spoken and done
-" shameful acts in our derision ; and what they have said and made report of in their own
+" shameful acts in our derision; and what they have said and made report of in their own
 ،،
 Erection of country God knoweth." At the beginning of the 18th century the inhabitants obtained
 a faculty to erect a new church on a site to the north of the village, which was accordingly.
 church. consecrated by Bishop Trelawney, in 1719.
 The tower,
-Former im- portance of
+Former importance of
 S. Helen's.
 The only remaining portion of the ancient church is the Early 13th century tower, which
 was buttressed up, probably about the time of the building of the new church by the Trinity Board, as it formed a valuable landmark. In the reign of James I. the Priory was bought by
-Mr. Emanuel Badd, who, according to Sir John Oglander, was a poor man's son, “ but by God's blessing, and ye losse of 5 wyfes, he grewe very ritch ; " (the italics are mine). Of the ancient building not a vestige remains, it having been finally demolished, and a modern
-house erected on the site, about the middle of the last century.
-“
-The Parish of S. Helen's appears to have formerly enjoyed a certain amount of importance as a place of call for foreign vessels, and probably a harbour of refuge. Here
-it was that outward-bound ships were wont to put in for water, which it is said remained fresh
-and bright even at the end of a long voyage, so excellent was the spring from whence it was
-drawn. A family of some distinction took its name from S. Helen's, and appear from time to
-time in the history of the Island, generally as witnesses to deeds. It was from S. Helen's
-Sir Edward that the gallant Sir Edward Wydvil, * with the Island chivalry at his back, sailed, in 1488, on
-Wydvil.
-his ill-fated expedition which ended so disastrously on the field of St. Aubyn, in the July
-of the same year.
+Mr. Emanuel Badd, who, according to Sir John Oglander, was a poor man's son, "but by God's blessing, and ye losse of 5 wyfes, he grewe very ritch ;" (the italics are mine). Of the ancient building not a vestige remains, it having been finally demolished, and a modern house erected on the site, about the middle of the last century.
+"
+The Parish of S. Helen's appears to have formerly enjoyed a certain amount of importance as a place of call for foreign vessels, and probably a harbour of refuge. Here it was that outward-bound ships were wont to put in for water, which it is said remained fresh and bright even at the end of a long voyage, so excellent was the spring from whence it was drawn. A family of some distinction took its name from S. Helen's, and appear from time to time in the history of the Island, generally as witnesses to deeds. It was from S. Helen's Sir Edward that the gallant Sir Edward Wydvil, * with the Island chivalry at his back, sailed, in 1488, on his ill-fated expedition which ended so disastrously on the field of St. Aubyn, in the July of the same year.
 
  * The orthography of the family name in contemporary documents varies, a
 
@@ -142,33 +131,58 @@ alien priories henry V https://en.wikipedia.org/wiki/Alien_priory
 
 https://www.nationaltrust.org.uk/st-helens-duver/features/the-story-of-st-helens-old-church
 St Helens Church tower stands just off of National Trust land, and is an intriguing sight, located where the sea meets the land. It's the last remaining part of the ancient church that once stood here, and now serves as a marker for those at sea.
+
 The first church at St Helens, or 'Etharin' as we think it was then known, was built on the Duver in Saxon times by Hildila who was Chaplain to Wilfred, Bishop of Chichester.
+
 The wooden church
+
 Wilfred had been granted land on the Isle of Wight by Caedwalla the Saxon king, who took the Island by force in AD686.
+
 The simple wooden church with its views over to Chichester was built following Wilfred's visit to the Island in AD704 and is believed to have survived until it was burnt down by the marauding Danes in AD998.
+
 Founding the priory
+
 A priory at St Helens was founded after the Norman Conquest by French Benedictine monks. The church was rebuilt in Norman style to serve both parish and priory.
+
 It was dedicated to St Helena, mother of the Roman Emperor Constantine, from whom the village subsequently took its name. The tower was added in the 13th century during the reign of Henry III.
+
 Old Church St Helens has been used as a white sea mark for hundreds of years
+
 The tower is now all that remains of St Helens Old Church 
+
 The Old Church in decline
+
 The Benedictine community in St Helens survived for over 300 years until financial problems led to it disbanding in 1414. The property was given to Eton College who owned it until 1799 but failed to maintain it, so the church gradually fell into disrepair.
+
 Its exposed position became even more acute in the 1620s when Sir Hugh Myddleton built an embankment across the harbour from the duver (dunes). Limestone rocks making up the foreshore had protected the church but were now used in the construction of the new embankment, which only lasted eight years.
+
 Dismantling the church
+
 In the 1630s, the sea defences were further undermined by the tenant of the priory, who sold off the church stones.
+
 A dispute arose with his parishioners, but it's likely that they too were removing stones for their own purposes.
+
 Blocks of soft sandstone from which the church was built – known as 'Holy Stones' - were used by sailors of vessels anchored off St Helens to 'holystone the decks' - meaning to scour and whiten them.
+
 As a result, the church was left jutting out on a peninsula, washed on three sides by the sea. Eventually only the tower remained and this was subsequently bricked up and painted white as a seamark for Navy ships in 1719.
+
 It fulfils this purpose today and is associated with the high-level seamark on Ashey Down erected 16 years later. A new church for St Helens was built further inland in the 18th century. 
 
 https://www.nationaltrust.org.uk/st-helens-duver/features/maritime-history-of-st-helens-duver
 Although hard to imagine today, at the east end of today's St Helens Duver on the Isle of Wight, the port of St Helens was important from the end of the 13th-century until the rise of Cowes in the 1700s.
+
 St Helens Roads
+
 Naval and merchant fleets would often anchor in the sheltered waters of St Helen's Roads just offshore to take supplies on board. Press gangs would come ashore and try to boost crew numbers – hence the name of the Gaggen or Gaggun Edge path at the edge of the Common. The water of St Helens had excellent keeping qualities and would remain fresh for a voyage to the West Indies and back. Legend has it that Admiral Lord Nelson's last view of England was of the Old Church at St Helens when his ship HMS Victory stopped to take on supplies before setting sail for the Battle of Trafalgar.
+
 Strategic defence
+
 Of course St Helens was vulnerable to attack, particularly by the French navy who came ashore in 1340. On this occasion they were driven back, and again in 1545 during the campaign in which the Mary Rose capsized and sank off Portsmouth. A watchtower with a beacon was then erected at Nodes Point but although the waters round St Helens were sheltered, shipwrecks were not uncommon and many sailors who were drowned are buried locally.
+
 By the time of the Second World War, Woodnutt's boatyard at the west end of the Duver employed 200 workers, building mainly Fairmile-class patrol boats for the admiralty and airborne lifeboats for rescuing RAF crew who had ditched into the sea.
+
 More recent activity on the water
+
 There used to be a ferry from the Duver across the harbour entrance to Bembridge but it finally stopped running in 1993. This area has been used for commercial maritime activities from the end of the 19th-century. In that period, wooden hulls have been replaced by fibreglass, inboard motors have become outboard and new vessels have appeared such as catamarans. 
 
 
@@ -203,8 +217,11 @@ http://oro.open.ac.uk/57643/1/DX204643.pdf
 
 https://www.lymingtonharbour.co.uk/history-of-lymington
 Smuggling in Lymington
+
 In one tale about smuggling in Lymington, it was said that some weeping passengers and downcast crew came ashore from a ship that was moored here with the sad news that the captain had died whilst at sea.
+
 A doctor was called, and he duly certified the captain as deceased, and called the undertakers.
+
 Soon a sombre procession including the local customs men headed up the main high street, to drown their sorrows. The mourners called at 'The Angel Inn' (Originally called 'The George Inn', this is the oldest Inn in Lymington), where the King's men were especially well treated. The cortège continued, in a slightly less dignified manner, but as soon as there was a clear road, the hearse sped off so they were far away from the funeral, and the coffin and its contents of contraband were spirited away to a safer spot, no doubt to the benefit of undertakers, doctor and all of the mourners.
 There is good reason to believe that this ruse would have been successful even if the customs men had not had their brains fuddled by drink, The vicar was in league with the smugglers too, and he allowed the tower of St Thomas' church to be used for storage.
 
@@ -228,7 +245,9 @@ http://vectisarchaeology.org.uk/
 https://bembridgeharbourtrust.org/local-history/
 Some of the earliest relevant references concern 'St Helens Roads', being the area to the seaward of the harbour. This has always been a sheltered anchorage and is still used as such, as it is protected from westerly winds. It has often been a departure point for fleets sailing west down the English Channel, perhaps most famously being the departure point for Nelson's fleet in 1805 en route to Trafalgar.
 The original entrance of Brading Haven was by St Helens Old Church with the spit, known as the Duver, originally extending from the Bembridge side, although this changed, as a result of natural causes, by the early 1600s to the current layout, with the entrance on the Bembridge end of the Duver. The Old Church itself was built in the reign of Henry lll (1215-1272). The Church began to fall into the sea about 1550 and from then on gradually disintegrated until only the portion of the Tower seen today remained. In 1703 it was bricked up on the seaward side for use as a Seamark. Allegedly sailors used to remove the stones of the Old Church for scouring the decks of wooden ships and the term 'holystoning the decks' is said to have originated here.
+
 Several important construction operations have contributed to the development of the harbour into its current location and form. In 1338 the Yarbridge connection to the Isle of Binbridge (Bembridge) was constructed, blocking off the water to Sandham (Sandown). The next reclamation was in 1562 when the area alongside Carpenters Road at the Brading End was cut off. In 1594 land at the bottom of Quay Lane in Brading was reclaimed. Up until this point, small commercial vessels could sail nearly up to Brading High Street. The first attempt to cut off a major portion of the harbour was between 1620 – 1622 when a barrier was constructed from what is now Bembridge Lodge to Woodnutts but it only lasted eight years before being breached.
+
 The major closure of Brading Haven to form what is now known as Bembridge Harbour was started in 1874 and finally finished, after several abortive attempts, in 1880. After this work was completed the ownership of the Harbour passed into the hands of the local railway company. It passed to the Southern Railway after the First World War and then British Railways following nationalisation. It eventually passed back into private hands in 1968.
 
 On the 19th July 1545 Bembridge was invaded by the French under the command of Seigneur de Taix and the village set on fire. This was in order to provoke the English fleet in Portsmouth, who were able to see the flames, to come out and fight the French, but they did not, except the Mary Rose, which promptly sank. The French did not stay in Bembridge long, though. They managed to take Bembridge, Whitecliff and St. Helens, getting as far as Yarbridge in Brading and building temporary earthworks just outside Centurions Copse. The English fleet, though, refused to leave the safety of Portsmouth. Also, the local militia, having repelled another invasion at Yaverland, were approaching and were using the Brading Parish cannon, called the 'Fire Engine' to bombard the French positions over Brading Haven. The French admiral had also calculated that it would take 6,000 men to keep the island over the winter when ships were unable to sail regularly from France, and could not spare that many, and so the French forces soon left.
@@ -336,27 +355,17 @@ Seamen on Late Eighteenth-Century European Warships
 Niklas Frykman
 International Review of Social History
 https: // www. jstor .org / stable / 44583116 https://www.researchgate.net/publication/232015238_Seamen_on_Late_Eighteenth-Century_European_Warships p78
-. The day's
-work on a typical battleship began at four in the morning, when one of
-the two watches was ordered to commence holy-stoning the deck, one of
-the most odious activities on board:
-Here the men suffer from being obliged to kneel down on the wetted deck, and
-a gravelly sort of sand strewed over it. To perform this work, they kneel with
-their bare knees, rubbing the deck with a stone and the sand, the grit of which is
-often very injurious.49
-This continued for three and a half hours until breakfast, after which the
-other watch was set to holy-stoning for four hours. The crew detested this
-incessant cleaning of the decks, especially in the winter months – one new
-recruit was even driven to thoughts of desertion after only a single day of
-it – but captains nevertheless continued to order it, because quite simply
-there was little else for the crew to do.50
+. The day's work on a typical battleship began at four in the morning, when one of
+the two watches was ordered to commence holy-stoning the deck, one of the most odious activities on board:
+
+Here the men suffer from being obliged to kneel down on the wetted deck, and a gravelly sort of sand strewed over it. To perform this work, they kneel with their bare knees, rubbing the deck with a stone and the sand, the grit of which is often very injurious.49
+
+This continued for three and a half hours until breakfast, after which the other watch was set to holy-stoning for four hours. The crew detested this incessant cleaning of the decks, especially in the winter months – one new recruit was even driven to thoughts of desertion after only a single day of it – but captains nevertheless continued to order it, because quite simply there was little else for the crew to do.50
+
 49. William Robinson, Jack Nastyface: Memoirs of an English Seaman (Annapolis, MD, 1973),
 p. 32.
 50. A British Seaman, Life on Board a Man-of-War (Glasgow, 1829), pp. 28–29.
-As the majority of the men were impressed, conscripted, or crimped,
-there was plenty of disgruntlement on the lower deck, and the threat of
-open disaffection never far away. And so they were kept busy with makework like holy-stoning or endless drills at small arms or the great guns,
-both of which the men found only marginally less objectionable.52
+As the majority of the men were impressed, conscripted, or crimped, there was plenty of disgruntlement on the lower deck, and the threat of open disaffection never far away. And so they were kept busy with makework like holy-stoning or endless drills at small arms or the great guns, both of which the men found only marginally less objectionable.52
 52. Herman Melville, White-Jacket, or The World in a Man-of-War (Oxford, 1990), pp. 66–67.
 
 
@@ -391,5 +400,6 @@ St Urian - lost village of Wolverton - magic well
 https://www.h2g2.com/entry/A87775960
 St Urian - history: boucher - letters relating to isle of wight p72 1896.pdf
 Woolverton: new forest isle of wight 1903 Cornish.pdf p75-6 "The beautiful Jacobean manor house of Yaverland stands on the site of what was the ancient home of the Lords, not only of the Manor of Yaverland, but of the Isle of Bembridge, so far as its protection and defence demanded a captain. It was granted to Sir William Russell, an ancestor of the Duke of Bedford, by Edward I. There the people of the island used to send the first news of the coming of the French, and the Lords of Yaverland would summon their men and lead the array of the island. When the French landed at Bembridge in 1340 Sir Theobald Russell, of Yaverland, met them and drove them back to their ships, but was himself killed in the fight. There is a persistent tradition that the little church which stands by the manor house was built, not on the spot, but at Woolverton a short distance off, on the shore of the ancientBradingHaven. The local story is that the town of Woolverton was burnt by the French and every person killed but one, before the Knight of Yaverland could come to help them. The site of the old town is well authenticated, and is now covered by a thick wood called the "Centurion's Copse" (St. Urian's Copse according to antiquaries). The stones of the Norman chapel at Woolverton were taken to Yaverland when Sir William Russell built the church at Yaverland for the convenience of his household. The road, which anciently ran by Woolverton, is now carried higher up the hill-side above, a change made, according to the same tradition, because the ghosts of the dead people of Woolverton haunted the ruins where they made their last stand against the French.
+
 The traces of this ancient town which was strangled out of existence in a night, standing on the shores of a harbour which is now dry land, and called by a name dating from an earlier period than the foundation of the town itself, are a typical example of the history of the island and the sufferings of its inhabitants in its old and evil days."
 

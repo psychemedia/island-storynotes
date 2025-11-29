@@ -59,7 +59,7 @@ Numerous expedients had been tried to destroy or to reduce the number of these v
 
 At another time they made an attempt to poison the rats, and indeed they destroyed a great number, but the stench that arose from their dead bodies in the streets, and in their holes, and in every part of their houses, brought an infectious fever upon the inhabitants, so that a great number died.
 
-Large rewards had been offered to any one who would clear the place of rats. Rat- catchers had arrived there from all parts of the country, expecting to make their for- tunes. But their attempts always ended in disappointment to themselves and their employers. The rats continued to nibble, and gnaw, and multiply, in spite of the constant warfare carried on against them.
+Large rewards had been offered to any one who would clear the place of rats. Rat-catchers had arrived there from all parts of the country, expecting to make their fortunes. But their attempts always ended in disappointment to themselves and their employers. The rats continued to nibble, and gnaw, and multiply, in spite of the constant warfare carried on against them.
 
 One day there came a wandering piper to the town, fantastically dressed. There was hardly any colour or shade that was not to be found in some corner of his party-coloured clothing; this procured him the name of the Pied Piper. He called upon the mayor, and asked him what reward he should receive, if he destroyed every single rat in the borough of Franchville. The mayor sent the crier round to assemble the burgesses in the Town-hall, to consider what reward should be given. The debate lasted a considerable time, for the love of economy and the fear of the rats struggled hard against one another. The fear of the rats, however, appeared in the end to prevail, for they decided upon giving five hundred pounds (an enormous sum in those days) when the rats should be extinct.
 
@@ -72,7 +72,7 @@ When he had led his flock of rats down to the water, he got into a boat with hig
 When he landed, he went to the mayor to demand his promised reward. But the danger had now ceased, and the love of economy resumed its reign. They told him that they had thought it would have been a work of great labour and difficulty: indeed they had not anticipated that the reward would ever have been called for, or they never would have offered so large a sum; but as he had certainly done them a great benefit, they would not object to give him fifty pounds, which they considered to be very high wages for the trouble he had had.
 The Pied Piper demanded his reward according to the agreement; and when he could not obtain it, he swore he would be revenged upon them; but his menaces were only treated with contempt.
 
-The Pied Piper said, "Very well," and turning round he marched off, and strutted down the street as before. But as the inhabitants knew that every rat had been destroyed, they felt under no apprehension of his piping them back again, so that they merely laughed at him as he walked down the street, piping a merry tune. The old people ridiculed him as he passed by, but all the children ran after him, hopping and dancing to the music, and quizzing his party- coloured clothing.
+The Pied Piper said, "Very well," and turning round he marched off, and strutted down the street as before. But as the inhabitants knew that every rat had been destroyed, they felt under no apprehension of his piping them back again, so that they merely laughed at him as he walked down the street, piping a merry tune. The old people ridiculed him as he passed by, but all the children ran after him, hopping and dancing to the music, and quizzing his party-coloured clothing.
 
 There was something irresistible in his tunes to the ears of youth. They left their games and their play, and tripped after the Pied Piper. They ran away from their parents and guardians, saying, that they must join in the dance after the Spotted Piper.
 
@@ -167,11 +167,11 @@ In the *Preface*, pvii-x, Jacobs describes what policy he used when deciding wha
 
 He also admits to exerting editorial control over the words themselves:
 
-> I have re-written most of them, and in doing so have adopted the traditional English style of folk-telling, with its "Wells" and "Lawkamercy" and archaic touches, which are known nowadays as vulgarisms. From former experience, I find that each of these princi- ples has met with some dissent from critics who have written from the high and lofty standpoint of folk-lore, or from the lowlier vantage of "mere literature." I take this occasion to soften their ire, or perhaps give them further cause for reviling.
+> I have re-written most of them, and in doing so have adopted the traditional English style of folk-telling, with its "Wells" and "Lawkamercy" and archaic touches, which are known nowadays as vulgarisms. From former experience, I find that each of these principles has met with some dissent from critics who have written from the high and lofty standpoint of folk-lore, or from the lowlier vantage of "mere literature." I take this occasion to soften their ire, or perhaps give them further cause for reviling.
 
 Jacobs appreciates that this is likely to upset various other folklorists and collectors:
 
-> My folk-lore friends look on with sadness while they view me laying profane hands on the sacred text of my originals. I have actually at times introduced or deleted whole incidents, have given another turn to a tale, or finished off one that was incomplete, while I have had no scruple in prosing a ballad or softening down over- abundant dialect. This is rank sacrilege in the eyes of the rigid orthodox in matters folk-lorical.
+> My folk-lore friends look on with sadness while they view me laying profane hands on the sacred text of my originals. I have actually at times introduced or deleted whole incidents, have given another turn to a tale, or finished off one that was incomplete, while I have had no scruple in prosing a ballad or softening down over-abundant dialect. This is rank sacrilege in the eyes of the rigid orthodox in matters folk-lorical.
 
 But Jacobs perhaps sees himself as a *storyteller*, helping keep a tradition alive:
 
@@ -184,7 +184,7 @@ Regarding "legitimate" origins for the tales he has included, Jacobs is perhaps 
 
 This perhaps explains why Jacobs does not find it inappropriate to include Elder's version of the Pied Piper tale despite the moot nature of its local traditional folk origins:
 
-> But even the reader innocent of folk-lore can see that, holding these views, I do not attribute much anthropological value to tales whose origin is probably foreign, and am certainly not likely to make a hard-and- fast division between tales of the North Countrie and those told across the Border.
+> But even the reader innocent of folk-lore can see that, holding these views, I do not attribute much anthropological value to tales whose origin is probably foreign, and am certainly not likely to make a hard-and-fast division between tales of the North Countrie and those told across the Border.
 
 Again, Jacobs sees his role as of a storyteller keeping a story available to the folk mind:
 
@@ -231,7 +231,7 @@ So he hummed and ha'ad and at last, "Come, my good man," said he, "you see what 
 
 "Would you threaten us, you strolling vagabond?" shrieked the Mayor, and at the same time he winked to the Council; "the rats are all dead and drowned," muttered he; and so "You may do your worst, my good man," and with that he turned short upon his heel.
 
-"Very well," said the Piper, and he smiled a quiet smile. With that he laid his pipe to his lips afresh, but now there came forth no shrill notes, as it were, of scraping and gnawing, and squeaking and scurrying, but the tune was joyous and resonant, full of happy laughter and merry play. And as he paced down the streets the elders mocked, but from school-room and play- room, from nursery and workshop, not a child but ran out with eager glee and shout following gaily at the Piper's call. Dancing, laughing, joining hands and tripping feet, the bright throng moved along up Gold Street and down Silver Street, and beyond Silver Street lay the cool green forest full of old oaks and wide-spreading beeches. In and out among the oak-trees you might catch glimpses of the Piper's many-coloured coat. You might hear the laughter of the children break and fade and die away as deeper and deeper into the lone green wood the stranger went and the children followed.
+"Very well," said the Piper, and he smiled a quiet smile. With that he laid his pipe to his lips afresh, but now there came forth no shrill notes, as it were, of scraping and gnawing, and squeaking and scurrying, but the tune was joyous and resonant, full of happy laughter and merry play. And as he paced down the streets the elders mocked, but from school-room and play-room, from nursery and workshop, not a child but ran out with eager glee and shout following gaily at the Piper's call. Dancing, laughing, joining hands and tripping feet, the bright throng moved along up Gold Street and down Silver Street, and beyond Silver Street lay the cool green forest full of old oaks and wide-spreading beeches. In and out among the oak-trees you might catch glimpses of the Piper's many-coloured coat. You might hear the laughter of the children break and fade and die away as deeper and deeper into the lone green wood the stranger went and the children followed.
 
 All the while, the elders watched and waited. They mocked no longer now. And watch and wait as they might, never did they set their eyes again upon the Piper in his parti-coloured coat. Never were their hearts gladdened by the song and dance of the children issuing forth from amongst the ancient oaks of the forest.
 

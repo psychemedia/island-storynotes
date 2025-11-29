@@ -6,7 +6,7 @@ A query on the same topic has also been raised in *Notes & Queries*, [Vol 12 Iss
 
 > "TALES AND LEGENDS OF THE ISLE OF WIGHT: with the Adventures of the Author in search of Them." By Abraham Elder, Esq. 2nd edition, 1843.— Who wrote this work? It is not mentioned in Mr. Olphar Hamst's *Handbook*. Mr. Abraham Elder was evidently a person of culture and research, possessed of a delicate humour and much literary skill. His book is very interesting, and might well be reprinted. Even those parts of it which are out of date serve to show how far we have advanced, in certain directions, in the last thirty years, —such a sentence as the following, for instance, from his discourse on the Pied Piper of Newtown:—
 >
-> "There are also still in existence some very beautiful and copious remains of ancient literature in a language which Sir William Jones affirms to be more perfect than the Greek, and more copious than the Latin—the Sans- crit, the oldest language known."
+> "There are also still in existence some very beautiful and copious remains of ancient literature in a language which Sir William Jones affirms to be more perfect than the Greek, and more copious than the Latin—the Sanscrit, the oldest language known."
 >
 > The book is illustrated with pictures by Robert Cruikshank— a man how different from George!  
 > A. J. Munby.  

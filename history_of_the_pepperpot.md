@@ -613,6 +613,7 @@ The endnote regarding the de Godeton's construction of the Oratory suggests that
 > *Addressed by Bishop Stratford to the Archdeacon of the Isle of Wight.*
 >
 > Inquisition concerning the endowment of the Oratory of Saint Katherine upon Chale Down. ... It has been made known to us that a certain Walter de Goditone has begun to construct a certain Oratory in honor of the Blessed Virgin Katherine in the parish of Chale upon the mount which is called Chales Down in the Isle of Wight ... [and has] sufficiently endowed it with certain revenues both for the restoration of a certain oratory there in future times and also to provide the light of a certain night-time beacon in those dangerous parts of the sea by night for those sailing, where various dangers have often befallen those sailing in the darkness, and for other necessities of the same oratory, as he says. We, desiring to promote this pious purpose and divine worship, as far as we are able with God, commit to you and command, that concerning the endowment of the said Oratory and in this matter, and whether this can be done without prejudice to the mother church of Chale aforesaid, or not, you inquire in due form of law, having summoned all whom it concerns, more diligently into the truth, and what you find through the aforesaid inquisition you should make us more certain in due manner under your seal.
+> 
 > Given at Waltham on the 17th day before the Kalends of August, A.D. 1328.
 
 ```{admonition} The sustentation of an oratory, 1911
@@ -805,47 +806,49 @@ Two years elapse ere the next phase relating to the primitive light thus referre
 
 In the *Calendar of the patent rolls preserved in the Public Record Office : Edward II*, 1307-1313, we see the initial application for oyer and terminer, which is to say, a judicial investigation, led by Thomas de Warblinton, John de Grimestede and John le Flemyng, into the original claim regarding the wreck of the St. Mary and the loss off 174 barrels of wine from her:
 
-> '1313. June 8, Westminster. The like `[Commission of oyer and terminer]` to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.' [[Membrane 5d, p604.](https://archive.org/details/calendarofpaten01grea/page/604/mode/2up)]
+> '1313. June 8, Westminster.
+> 
+> The like `[Commission of oyer and terminer]` to Thomas de Warblinton, John de Grimestede and John le Flemyng, on complaint by Elias Biger, Frederick Campanare and Bernard de Columers, merchants of the duchy [of Aquitaine], who had laden a ship, the *st. Mary* of Bayonne, with 174 tuns of white wine at Tonnay `[Tonnay-Charente]`, upon the River Charrante, in Poitou, for export to England, and whose ship was wrecked on the Isle of Wyght, and the wine was cast ashore at divers places in the island, that divers men of the county of southampton seized and carried away the wine, although it was not wreck of sea, as many of the mariners of the ship had escaped alive to the land. Witness: J Bishop of Bath and Wells. By the Bishop of Worcester.' [[Membrane 5d, p604.](https://archive.org/details/calendarofpaten01grea/page/604/mode/2up)]
 
 The commission appears to be granted a few weeks later:
 
-> '1313. July 24. Westminster. Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the *st. Mary* of Bayonne with 174 tuns of white wine at the town of Tormay on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of southampton, notwithstanding that many of the mariners escaped alive to land.' [[Membrane 18d, p55.](https://archive.org/details/calendarofpaten02grea/page/54/mode/2up)]
+> '1313. July 24. Westminster.
+> 
+> Association of John Randolf with Thomas de Warblinton, John de Grymstede, and John le Flemyng in a commission of oyer and terminer issued touching a complaint by Elias Biger, Frederick Campanare, and Bernard de Columers, merchants of the duchy [of Aquitaine]. They had freighted a ship called the *st. Mary* of Bayonne with 174 tuns of white wine at the town of Tormay `[Tonnay-Charente]` on the river Charrante in Poitou for conveyance to England, and on the voyage the ship was driven ashore on the coast of the Isle of Wight, where the wine was seized as wreck of sea by divers men of the county of southampton, notwithstanding that many of the mariners escaped alive to land.' [[Membrane 18d, p55.](https://archive.org/details/calendarofpaten02grea/page/54/mode/2up)]
 
+Almost a year later, mention of the merchants Elias Byger, Frederick Campanare, and Bernard de Columbers turns up again, this time filing for "protection":
 
-We then TO DO CURIous 
+> 1314 May 16. Durham.
+> 
+> Protection for Elias Byger, Frederick Campanare, and Bernard de Columbers, merchants of the king's duchy [of Aquitaine], who are prosecuting a suit for the recovery of their wines before Thomas de Warblynton and his fellows, justices of oyer and terminer touching trespasses committed by divers persons of the county of Southampton, who had carried away their wines. [[Membrane 11, p. 114.](https://archive.org/details/calendarofpatent02grea_0/page/54/mode/2up)]
 
-[p. 114](https://archive.org/details/calendarofpatent02grea_0/page/54/mode/2up)
+Whitehead picks up the trail with a comment that *"The other side of the story is related ten months later in the same series of Rolls"*:
 
-Membrane 11.
+> '1314, May 26, Newcastle-upon-Tyne.
+> 
+> The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitted: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s. [[Membrane 9d, pp. 149-50.](https://archive.org/details/calendarofpaten02grea/page/148/mode/2up)]
 
-1314 May 16. Durham.
+This appears to suggest that a certain John Besecu has claimed the ship was under the charge of Remigius de Depe's, and proven to be so, but that Robert de Harslade, John le Walshe and Reymund Arnald, along with "certain others at Newport", conspired to claim that Elias Byger, Fretheric de Campane and Bernard de Columiners, owned the ship, with the result that Remigius de Depe spent some time in Winchester gaol.
 
-Protection for Elias Byger, Frederick Campanare, and Bernard de Columbers, merchants of the king's duchy [of Aquitaine], who are prosecuting a suit for the recovery of their wines before Thomas de Warblynton and his fellows, justices of oyer and terminer touching trespasses committed by divers persons of the county of Southampton, who had carried away their wines.
+A note in the *Heritage Gateway*'s
+[Historic England research records](https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1119117&resourceID=19191) further comments that *"this may be an alternative account of the same vessel, ... but it is also possible that if [Byger et al.] had not obtained restitution for their wreck, they instead claimed a stake in another wreck nearby"*.
 
-
-
-Whitehead then comments that *"The other side of the story is related ten months later in the same series of Rolls"* and TO DO includes the following report, which appears to suggest that Besecu claims the ship was Remigius de Depe's the ship was his, that Robert de Harslade, John le Walshe and Reymund Arnald conspired to claim that Elias Byger, Fretheric de Campane and Bernard de Columiners, were the owners and Besecus charged with having stolenn from them
-
-[pp. 149-50](https://archive.org/details/calendarofpaten02grea/page/148/mode/2up), Membrane 9d.
-'1314, May 26, Newcastle-upon-Tyne. The like `[commission of oyer and terminer]` to Master John de Everesdon and John de Westecote, on complaint by John Besecu that, whereas a ship of Remigius de Depe, merchant of Bayonne, freighted with white wines in the duchy [of Aquitaine] to be carried to the ports of Flanders by the said Remigius de Depe and his men, was driven ashore by tempest near Chale in the Isle of Wight and wrecked, by which a great part of the wine was endangered, and the said Remigius de Depe proved that the ship and wines were his, and afterwards obtained that proof and made his profit therein, Robert de Harslade, John le Walshe and Reymund Arnald having made a plot to injure him, and conspired with certain others at Newport in the same island that Elias Byger, Fretheric de Campane and Bernard de Columiners, unknown men, should lay claim to the ship and wines, and that the said John Besecu should be indicted of having committed a theft of these wines from them, as if those wines had been their property when they were not, and as if Remigius de Depe had not proved that the ship and wines were his, procured his capture and detention for a long time in prison at Winchester until according to the law and custom of the realm he was acquitted: the justices are to enquire fully into these allegations by oath of good men of the county of southampton. By fine of 40s.
-
-
-Underwood then explains how the wine had apparently been sold on, and includes the legal ruling ahainst de Goyeton *"and three others"*, previously given by Percy Stone from the *Abbreviated Pleas*. He also repeats the claim previosuly given by Stone that the wine originally appeared to have belonged to *"the monastery of Livers, in Picardy"*.
+Insofar as Underwood understands the chain of events, he then explains how the wine had apparently been sold on, and includes the legal ruling against de Goyeton *"and three others"*, previously given by Percy Stone from the *Abbreviated Pleas*. He also repeats the claim previosuly given by Stone that the wine originally appeared to have belonged to *"the monastery of Livers, in Picardy"*.
 
 ```{admonition} In the meantime...
 :class: dropdown
 
 In the meantime the 174 casks of wine had been sold, and since each cask was valued at five marks (a mark's value was 13s. 4d.) the amount taken was considerable. With reference to the allegation that the wine was seized as "wreck of the sea" by divers men of the county, it may be said, in explanation thereof, that from the earliest times lords of manors abutting on the sea front claimed "wreck of sea" as belonging to them. Sir Thomas Langford, having leased out his manor of Chale, specially reserved the rights and emoluments coming from this source. `[W., Hist. (*i.e.* Sir Richard Worsley, *The History of the Isle of Wight*), p. 245.]` It was shown, however, at the inquiry, that the cargo formed no "wreck of the sea." Further particulars appear in the Abbreviation of Pleas, 8 Edward II, giving an abstract of the pleadings in the King's Bench:—
 
-"Ex gravi querela quorundem mercatorum ducatus domini Regis Aquitanise quod ipsi carcaverunt diversa dolea vini albi pro Anglia in quibusdam navibus unde una navis in veniendo versus Angliam super mare in costera Insule de Wight per venti contrarietatem et marls intemperiem ibidem ad terram projecta fuit et confracta vinaque predicta ad terram in diversis partibus in insula predicta devenerunt et quod quidam malefatores de com. Suth' vina predicta licet plures marinarii... Per quod dominus Rex assignavit justiciarios quod inde inquierunt per legates homines... Qui retornaverunt quod dicta Vina surrepta fuere per diversos homines de insula predicta set precipue per Waiterum de Godeton et iij alii usque ad numeram centum lx et xiiij doleorum vini albi plenorum et semiplenorum precii dolei v marcas... Set per alium juratorem computatum est quod predictus Walterus et duo alii liij dolea vinorum predictorum precii dolei v marcas, etc. `[From the serious complaint of certain merchants of the duchy of the lord King of Aquitaine, that they had loaded various casks of white wine for England into certain ships, of which one ship, while sailing towards England, was by contrary winds and the roughness of the sea cast ashore and wrecked on the coast of the Isle of Wight, and the aforementioned wines came ashore in various places on the said island. And that certain wrongdoers from the county of Southampton took the said wines, even though there were many sailors [present]... Whereupon the lord King assigned justices to investigate the matter by sworn men... who returned that the said wines were stolen by various men from the said island, but especially by Walter de Godeton and three others, to the number of 100 and 60 and 14 (=174) casks of white wine, full and half-full, each cask valued at 5 marks... But according to another juror's account, the aforesaid Walter and two others [had] 53 casks of the said wine, each valued at 5 marks,]` `[Abbrev. Placitor, Hill. Term, 8 Edw. II, [1315] 1195—1327.]`
+"Ex gravi querela quorundem mercatorum ducatus domini Regis Aquitanise quod ipsi carcaverunt diversa dolea vini albi pro Anglia in quibusdam navibus unde una navis in veniendo versus Angliam super mare in costera Insule de Wight per venti contrarietatem et marls intemperiem ibidem ad terram projecta fuit et confracta vinaque predicta ad terram in diversis partibus in insula predicta devenerunt et quod quidam malefatores de com. Suth' vina predicta licet plures marinarii... Per quod dominus Rex assignavit justiciarios quod inde inquierunt per legates homines... Qui retornaverunt quod dicta Vina surrepta fuere per diversos homines de insula predicta set precipue per Waiterum de Godeton et iij alii usque ad numeram centum lx et xiiij doleorum vini albi plenorum et semiplenorum precii dolei v marcas... Set per alium juratorem computatum est quod predictus Walterus et duo alii liij dolea vinorum predictorum precii dolei v marcas, etc. 
+> 
+> [From the serious complaint of certain merchants of the duchy of the lord King of Aquitaine, that they had loaded various casks of white wine for England into certain ships, of which one ship, while sailing towards England, was by contrary winds and the roughness of the sea cast ashore and wrecked on the coast of the Isle of Wight, and the aforementioned wines came ashore in various places on the said island. And that certain wrongdoers from the county of Southampton took the said wines, even though there were many sailors [present]... Whereupon the lord King assigned justices to investigate the matter by sworn men... who returned that the said wines were stolen by various men from the said island, but especially by Walter de Godeton and three others, to the number of 100 and 60 and 14 (=174) casks of white wine, full and half-full, each cask valued at 5 marks... But according to another juror's account, the aforesaid Walter and two others [had] 53 casks of the said wine, each valued at 5 marks,]` `[Abbrev. Placitor, Hill. Term, 8 Edw. II, [1315] 1195—1327.]`
 
 It appears, therefore, that Walter de Godeton and other local land-owners were involved, either in the seizure or by purchasing the wine. Ultimately the jurors returned a verdict to the effect that since Walter, with others, had unlawfully received fifty-three casks of the wine, they must pay for them the sum of 227 1/2 marks, etc. Here the matter should have terminated, but, inasmuch as the wine appears to have belonged to a religious community — the monastery of Livers, in Picardy, a further charge of sacrilege was preferred against De Godeton. For his misdeeds it is stated that he was threatened by the Pope with divers pains and penalties. In expiation, and as a token of contrition, he was ordered to build, on the down above the scene of the disaster, a lighthouse to warn ships off the dangerous coast, and further to assign certain rents for a chaunting priest to sing masses for the repose of the souls of Walter, his ancestors, and those lost at sea.
 
 ```
 
-TO DO At this point
-
-A remark in the *Select Pleas in the Court of Admiralty*, 1894, seems to refer to actual prosecution of the above case in 13*15* (if we can trust the date) suggesting a procedural error that resulted in the case being retried.
+At this point, things are complicated even further by a remark in the *Select Pleas in the Court of Admiralty*, 1894, which seems to refer to the actual prosecution of the case in 13*15* (*8 Edward II.*, if we can trust the date) and further suggests that a procedural error had resulted in the case being retried.
 
 ```{admonition} Miscarriage of justice, 1894
 :class: dropdown
@@ -857,41 +860,29 @@ In Reginald G Marsden, *Select Pleas in the Court of Admiralty*, 1894, [p. xxi](
 In 1315 a commission issued to John de Grymstede, J., and others to try Walter de Godyton for spoiling a ship of one Byger which had gone ashore on the Isle of Wight. The indictment was quashed apparently upon the ground that the presentment was by a jury not drawn from the Isle of Wight. Subsequently the accused men were tried before a jury of the island, and judgment was given for restitution of the goods and for damages. There was a writ of error, upon which, however, no further proceedings appear to have been taken; but there was a difficulty in getting execution owing to misfeasance of the sheriffs. `[Cor. Reg. Hil. 8 Ed. II. rot. 88; ib. rotuli 20 and 111]`
 ```
 
+A historical note on a now defunct website published by the owners of Gotten Manor [c. 2021](https://web.archive.org/web/20211130034414/https://www.gottenmanor.co.uk/history/) commented:
 
+> After a long trial, culminating at Westminster, [de godeton] was fined so heavily that all his goods had to be distrained, "except the horses and oxen of his ploughs" and half of his lands and tenements leases out until the fine of 287 and a half marks had been paid in full. Many stories have been woven around this case but the only documented evidence is a local record of 1323 that Walter gave to the Church "an acre of land with Buildings on St Catherine's Down". On this site was built the famous 'St Catherine's Oratory' with the tower which served as a lighthouse for centuries and still stands today.
 
+The reference to 1323 is not qualified, and could potentially be 1328 corrupted, recalling the endnote in Percy Stone's *Architectural Antiquities* regarding Bishop Stratford's missive to the Archdeacon of the Isle of Wight in 1328 to the effect that *"a certain Walter de Goditone has begun to construct a certain Oratory in honor of the Blessed Virgin Katherine in the parish of Chale upon the mount which is called Chales Down"*. The remark surrounding how de Godeton's finalcial penaly was levied provides a rather compelling narrative detail, though!
 
-The final mention we find of Walter de Godyeton in the Calendar of the Close rolls comes in 1327, shortly following his death:
+The last mention we find of Walter de Godyeton in the Calendar of the Close rolls is in 1327, presumably shortly after his death:
 
 ```{admonition} On the death of Walter de Godyton, 1327
 :class: dropdown
 
-In *Calendar of the Close rolls preserved in the Pulic record office*, 1896, [p167](https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up).
+In *Calendar of the Close rolls preserved in the Pulic record office*, 1896, [membrane 12, p167](https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up).
 
 I EDWARD III PART II.
-
-Membrane 12
 
 1327. Sept 20. To the sheriff of Southampton. Order to cause a coroner for that county to be elected in place of Walter de Godyton, deceased.
 ```
 
+TO DO the account at least insofar as I have been able to peice it together is fragmentary and congusing  but there a more than enough ingredients to make a good story, and the story as commonly told is a good example of just such one interpretation. And is perhaps one of the more stable folk interpretations.
+
+On the grounds that *stories* are not necessarily *history*, there seems to be plenty of scope for a tale with all sorts of ingredients that are "true" at least to the extent that "I have heard them (historically) said...". Might we wonder, for example, whether the Papal Bull was actually a red-herring, and that de Godeton was constructing the tower as a final act of piety on land donated to the Church for the purpose five or so years before his death? Or is there a tale we can tell around the machinations of the various merchants who claimed to have a stake in the ship, the St. Mary?
+
 ## The Court Case
-
-
-TO DO
-
-```{admonition} Two court cases?
-:class: dropdown
-
-http://iwhistory.co.uk/The%20pepper%20box.doc  Alan F Champion
-
-... one stormy night in 1314 a vessel, the 'Mary of Bayonne', laden with 174 tuns (barrels) of white wine foundered in Atherfield Bay. She was part of a fleet belonging to some merchants of the King's Duchy of Aquitaine all carrying wine, loaded in Tormay, on the River Charrante in Poitou to England. The wine was consumed by the locals or sold as 'wrecks of the sea' `[Whitehead J.L. The Undercliff of the Isle of Wight, p. 333 See: Wrecks of the Sea, Flotsam, Jetsom and Ligan]` but the owners took action to recover their loss in the King's Court-Malefactiones de Comittatu de Suthanton `[Abbrev. Placitor, Hilary 8 Edward II AD 1315]` mentioning one Walter de Godeton. His defence that he had bought the wine in good faith from the survivors of the wreck was successful in spite of the fact that as 'Flotsam' it still belonged to the shippers. Another jury however found the Islanders to blame and they had to pay for 53 casks of wine some 227 marks. `[Abbrev. Placitor, Hilary 20 Edward II AD 1327.]` The Church were not satisfied with this as the wine was said to belong to the Monastery of Livers in Picardy so they then took action in a Papal Court and a Bull was issued ordering Walter, in reparation and expiation, 'to make good their losses and build the present oratory and lighthouse in penance or to prevent further shipwreck'; (see Percy Stone p28. Vol. n.). A visit to the tower was recorded in the 'Gentleman's Magazine' [Gentleman's Magazine. Vol. xxvii, 1757.] Percy Stone thought that the anchorite's chapel and the oratory were different buildings. Both were dedicated to St Catherine but she was patron saint of hills.
-```
-
-Abbrev. Placitor.  Abbreviation of Pleas,
-
-TO DO
-
-Whitehead's history of de Godeton's tale pulls together many of the threads of the tale behind the origin of the Pepperpot, but a closer inspection of the rolls hints at a possibly rather more involved tale spread through the *Calendar of the patent rolls preserved in the Public Record Office: Edward II, A.D. 1313-1317*, 1894
 
 
 https://archive.org/details/calendarofpaten01grea/page/604/mode/2up  1894, A.D. 1307-1313
@@ -908,12 +899,6 @@ https://archive.org/details/calendarofpatent04grea_0, vol. IV, 1904  A.D. 1321-1
 
 TO DO
 
-
-
-
-
-
-TH: for the May 1314, was this the same as the 1313 ship, or a fraudulent claim made on another having lost on the firsT?
 
 
 

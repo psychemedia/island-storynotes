@@ -192,7 +192,7 @@ The report appears to have prompted a poetic response that appeared three weeks 
 
 > A LEGEND OF ARRETON DOWN
 >
-> [A short time ago some men, digging on the down, found the skull with teeth perfect, amid other bones, supposed to be the remains of Micah Morey, a woodman, who was hung there- for the murder of his grandson in the year 1735.]
+> [A short time ago some men, digging on the down, found the skull with teeth perfect, amid other bones, supposed to be the remains of Micah Morey, a woodman, who was hung there for the murder of his grandson in the year 1735.]
 >
 > Old Micah Morey, I've heard say,  
 > His grandson's head cut off one day;  

@@ -344,7 +344,7 @@ Tyrell was sentenced to 26 years' jail when he was convicted last March for his 
 
 She could be 60 before she is released and now, as her jail term begins in earnest, Customs investigators are looking at the possibility of confiscating gang members' property.
 
-Julie Paterson was born into a world of comfort, even privilege, and she married into wealth. But the farmer's daughter from Norfolk wanted more; she craved excitement, thrills and risk. She found them all during her short- lived reign as the Cocaine Queen.
+Julie Paterson was born into a world of comfort, even privilege, and she married into wealth. But the farmer's daughter from Norfolk wanted more; she craved excitement, thrills and risk. She found them all during her short-lived reign as the Cocaine Queen.
 
 
 --

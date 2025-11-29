@@ -138,7 +138,7 @@ p168
 
 "TALES AND LEGENDS OF THE ISLE OF WIGHT: with the Adventures of the Author in search of Them." By Abraham Elder, Esq. 2nd edition, 1843.— Who wrote this work? It is not mentioned in Mr. Olphar Hamst's *Handbook*. Mr. Abraham Elder was evidently a person of culture and research, possessed of a delicate humour and much literary skill. His book is very interesting, and might well be reprinted. Even those parts of it which are out of date serve to show how far we have advanced, in certain directions, in the last thirty years, —such a sentence as the following, for instance, from his discourse on the Pied Piper of Newtown :—
 
-"There are also still in existence some very beautiful and copious remains of ancient literature in a language which Sir William Jones affirms to be more perfect than the Greek, and more copious than the Latin—the Sans- crit, the oldest language known."
+"There are also still in existence some very beautiful and copious remains of ancient literature in a language which Sir William Jones affirms to be more perfect than the Greek, and more copious than the Latin—the Sanscrit, the oldest language known."
 
 The book is illustrated with pictures by Robert Cruikshank— a man how different from George!
 A. J. Munby.
@@ -162,13 +162,13 @@ The twelfth annual meeting of this association will commence in the Isle of Wigh
 
 The following is the programme of the proceedings of the Congress: —
 
-Monday, August 20.— Meeting in the Council Chamber of the Town-hall of Newport, at half-past one p.m., where the members and visitors are requested to enter their names and their places of abode during the congress. — Public meeting in the Town-hall at three p.m. — President's ad- dress.—Introductory Sketch of the Antiquities of the Isle of Wight, by T. J. Pettigrew, Esq., vice-president and treasurer — Exhibition of plans of the town of Newport. — Lecture on the Municipal Records of Newport, by W. H. Black, Esq. — lnspection of the Town — Remains of St. Thomas's Church — The Grammar School — Museum of the Isle of Wight — Evening Meeting at the Town-hall for the Reading and Discussion of Papers, Exhibitions of Antiquities, &c, half-past eight p.m.
+Monday, August 20.— Meeting in the Council Chamber of the Town-hall of Newport, at half-past one p.m., where the members and visitors are requested to enter their names and their places of abode during the congress. — Public meeting in the Town-hall at three p.m. — President's address.—Introductory Sketch of the Antiquities of the Isle of Wight, by T. J. Pettigrew, Esq., vice-president and treasurer — Exhibition of plans of the town of Newport. — Lecture on the Municipal Records of Newport, by W. H. Black, Esq. — lnspection of the Town — Remains of St. Thomas's Church — The Grammar School — Museum of the Isle of Wight — Evening Meeting at the Town-hall for the Reading and Discussion of Papers, Exhibitions of Antiquities, &c, half-past eight p.m.
 
 Tuesday, Aug. 21. — Visit to Carisbrooke Castle — Remains of Priory — Carisbrooke Church — Shalfleet Church— Newtown (Site of Ancient Francheville) — Examination of ancient documents— Return to Newport — Evening meeting — Papers — Conversazione.
 
 Wednesday, August 22.— Visit to Calborne Church— Longstone — Mottistone — Brixton Church — Supposed site of Roman villa — Westcourt— Manor-house — Shorwell Church — Rowborough — Ancient British town of Gallibury — Return to Newport— Evening meeting— Papers— Conversazione.
 
-Thursday, August 23.— Visit to Niton— Puckaster Cove — St. Lawrence ?? tion and examination of Barrows on Wroxall Downs—Re- turn to Newport.
+Thursday, August 23.— Visit to Niton— Puckaster Cove — St. Lawrence ?? tion and examination of Barrows on Wroxall Downs—Return to Newport.
 
 Friday, August 24. — Visit to Southampton— Reception in the Audit House — Inspection of Ancient Muniments — Exhibition of Antiquities, MSS., &c. — Examination of the Ancient Walls and Fortifications — St. Michael's Church, &c. — Lecture on the Corporation Documents, by W. H. Black, Esq. — Ordinary — Conversazione.
 
