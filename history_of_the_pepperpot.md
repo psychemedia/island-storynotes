@@ -24,7 +24,7 @@ I Send you four views of the tower of *St Catharine's* which stands upon the sum
 
 *"Walter de Langsterell, admissus ad Hermitorium supra montem de Chale in insula Vectis, Idil. Octobris A.D. 1312."*
 
-The figure of this tower within, is quadrangular, and without octagonal; each side both of the oétagon and quadrangle is just four feet, its height to the roof is 27 feet, and the perpendicular height of the roof is two feet.
+The figure of this tower within, is quadrangular, and without octagonal; each side both of the octagon and quadrangle is just four feet, its height to the roof is 27 feet, and the perpendicular height of the roof is two feet.
 
 It seems to be a Gothic imitation of the Temple of the eight winds at *Athens*, which was built by *Azdronicus*, whom *Vitruvius* calls *Cyrrhastes*, at *Athens*.
 
@@ -78,7 +78,7 @@ From the summit of the Downs the view is a panorama of perfect harmony — the f
 
 *Tales are also told of the shoals of mackerel that could be seen in the bay from the top of the down — see note elsewhere.*
 
-Not surprisingly, with such an expansive range of sight lines, the location on top of St Catherine's down was a good one ofr a beacon.
+Not surprisingly, with such an expansive range of sight lines, the location on top of St Catherine's down was a good one for a beacon.
 
 ```{admonition} Use as a Beacon, 1927
 :class: dropdown
@@ -467,11 +467,9 @@ Mr.James Parker said that as far as he remembered he did not see any vestige of 
 
 ```
 
-TO DO https://en.wikipedia.org/wiki/Lanterns_of_the_Dead
+*See elsewhere for an aside on "Lanters of the Dead".*
 
-
-
-TO DO. Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
+Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
 
 ```{admonition} Obscuring vapours, 1796
 :class: dropdown
@@ -516,7 +514,7 @@ A survey of 1566, of which Mr. Stone supplies a facsimile, shows the lighthouse 
 The lighthouse tower, 36 ft. high, which may without hesitation be assumed to be that built by Walter de Godston, though much repaired, has an octagonal roof of pyramidal form. The outer massive walls are octagonal, but the interior is about 5 ft. square. It consists of four stories, the two lowest of which had doorways into the annexe or oratory; the two upper stages were gained by ladders. Excavations made here by Mr. Stone in 1891 showed that this annexe had an inner measurement of about 38 ft. by 15 ft.; it was divided into two floors, the upper serving as the chapel, and the lower for the dwelling and stores of the chantry priest. Built into the lower part of the southern fall of the tower is a stone with a piscina drain, which was doubtless originally within the chapel.
 ```
 
-TO DO. Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
+Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
 
 ```{admonition} Obscuring vapours, 1796
 :class: dropdown
@@ -534,7 +532,6 @@ This chantry was originally intended to anſwer the double purpoſe of a light-h
 ```
 
 Cox's source for the tale appears to be Percy Stone, and his highly regarded two volume work from 1891, *The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive* ([vol 1](https://books.google.co.uk/books/about/The_Architectural_Antiquities_of_the_Isl.html?id=LuEwAQAAMAAJ&redir_esc=y), including references to the Pepperpot in *volume 2* `[I have not yet located an openly licensed online version of this work.]`
-
 
 ```{admonition} Merited attention, 1892
 :class: dropdown
@@ -639,63 +636,34 @@ Percy Stone's account of the history of the Pepperpot in *Architectural Antiquit
 
 More specifically, Stone says *"From memory, Mr. Oliver's idea was that the wine was the property of the Monastery of Livers, in Picardy,* so could we cast doubt on this memory. That Stone remembers mention of such a community *in Picardy*, but could he perhaps be confudsing the name `Livers` with `Lyre`, or `Lyra`, which was a community with strong links ot the Island, although situated north-west of Paris in Normandy, rather than to the north-east, in Picardy?
 
---
-https://archive.org/details/monasticonanglic01dugd_0/page/n233/mode/2up
+The relationship begween the church on the Island and the abbey at *Lyre* (*Lyra*) is widely rerferred to in even the oldest histories. For example, in *Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales*, 1718, [p222](https://archive.org/details/monasticonanglic01dugd_0/page/n233/mode/2up), Sir William Dugdale describes the history of Carisbrooke Priory as follows:
 
-Monasticon anglicanum, or, The history of the ancient abbies, monasteries, hospitals, cathedral and collegiate churches, with their dependencies in England and Wales : also of all such Scotch, Irish, and French monastaries, as did in any manner relate to those in England ...
-by Dugdale, William, Sir, 1605-1686; Hollar, Wenceslaus, 1607-1677, engraver; King, Daniel, d. 1664?, artist, engraver
+> CARESBROKE
+>
+> *Priory, in the Ifle of Wight.*
+> 
+> *William Fitz-Osbern*, created Earl of *Hereford* by the Conqueror, ſubdu'd the Iſle of *Wight*, the Heirs Male of this *William* failing, his Eſtate defcended to *Baldwin* Earl of *Exeter*, who confirm'd to the Monaſtery of St. *Mary of Lira* all the Churches and other Poſſeſſions granted to them by the aforeſaid *William*, or by his own Father *Richard Rivers*; *William Vernun* confirm'd to theſe Monks the Receipt of *two Marks* per Annum at *Newbury*. *William*, Earl of *Devonfhire*, confirm'd all their Poſſeſſions in the Iſle of *Wight*. The Charter of King *Henry* II. recites and confirms all the Donations made to them.
 
-Publication date 1718
+He also notes a conflict between the Islanders and the mother abbey in 1289, [pp91-2]:
 
+> A Controverfy arifing between theſe Monks and thoſe of the Abby of *Lyra* about certain Tithes and Revenues in and about *Arretone*, *Hafeley*, *Titehingham*, *Lovecumb*, *Sandecumb*, *Cofham*, *Caresbroke* Caftle, *Kicherig* and *Richeburg*, in the Pariſh of *Caresbroke*, the Difference was amicably agreed and adjuſted between them by Deed, dated 1289.
 
-p222
+Percy Goddard Stone also variously discussed links to *Lyra* in *The Architectural Antiquities of the Isle of Wight from the XIth to the XVIIth Centuries Inclusive*, [Volume 1](https://books.google.co.uk/books/about/The_Architectural_Antiquities_of_the_Isl.html?id=LuEwAQAAMAAJ&redir_esc=y), 1891:
 
-CARESBROKE
+> Arreton [p5]
+> 
+> ... In 1140 we find the church and tithes of the manor of Arreton, with other tithes held Bestowed under Fitz Osbern's grant, conceded by the Convent of Lyra to Baldwin de Redvers' new Abbey of Quarr, on a yearly payment of forty shillings;-from "Heldearius, Abbot of Lyra, to Gervase, Abbot of Quarr," so runs the deed. And so the church remained in the monks' hands till the dissolution of the monasteries, and a good account, too, these worthy churchmen gave of their stewardship. No sooner had the building come into their possession, than they set about enlarging and beautifying it ; indeed, we may call all the work we now see incorporated into the present church the "monks' work." The most satisfactory way to describe this will be to take it in chronological sequence, as it progressed intermittently from the middle of the 12th to the beginning of the 16th century.
+> 
+> Newchurch [p25]
+> 
+> In the Dean's Return, 1305, he states that the Abbey and Convent of Lyra receive all the greater and lesser tithes from the demesne of Wroxall, and the greater tithes from the manors of Appuldurcombe, Apse, Holeway, and Knighton.
 
-*Priory, in the Ifle of Wight.*
+As well as reviewing the history of the Church on the Isle of Wight, and its links to the Convent Abbey at Lire, the Revd. Edward Boucher James, who was vicar ar Carisbrooke from 1858 to 1892, also provided a glimpse into what life might have been like at Carisbrooke Priory around the time of the sinking of the St Mary:
 
-*William Fitz-Osbern*, created Earl of *Hereford* by the Conqueror, ſubdu'd the Iſle of *Wight*, the Heirs Male of this *William* failing, his Eſtate defcended to *Baldwin* Earl of *Exeter*, who confirm'd to the Monaſtery of St. *Mary of Lira* all the Churches and other Poſſeſſions granted to them by the aforeſaid *William*, or by his own Father *Richard Rivers*; *William Vernun* confirm'd to theſe Monks the Receipt of *two Marks* per Annum at *Newbury*. *William*, Earl of *Devonfhire*, confirm'd all their Poſſeſſions in the Iſle of *Wight*. The Charter of King *Henry* II. recites and confirms all the Donations made to them.
+```{admonition} A Day at Carisbrooke Priory in the Thirteenth Century, 1896
+:class: dropdown
 
-
-
-p91-2
-
-A Controverfy arifing between theſe Monks and thoſe of the Abby of *Lyra* about certain Tithes and Revenues in and about *Arretone*, *Hafeley*, *Titehingham*, *Lovecumb*, *Sandecumb*, *Cofham*, *Caresbroke* Caftle, *Kicherig* and *Richeburg*, in the Pariſh of *Caresbroke*, the Difference was amicably agreed and adjuſted between them by Deed, dated 1289.
-
---
-
-
-In John L. Whitehead, *The Undercliff Of The Isle Of Wight Past And Present*, 1911, [p31-](https://archive.org/details/in.ernet.dli.2015.502008/page/n63/mode/).
-
-THE TITHES OF THE MANOR.
-
-The great tithes of the manor `[Bonchurch]` were bestowed by William Fitz Osbern, on becoming the first lord of the Island, with the tithes of his demesne lands at Haseley, Arreton, Shalcombe, etc., in the Isle of Wight, on the Abbey of Lyra, a monastery he had founded in Normandy. The mother abbey at first collected the dues by a procurator, and later, the monks coming over from the Continent at intervals on visits of inspection to the Island properties are traditionally said to have landed at the little
-
-
-??p 32 missing
-
-
---
-https://books.google.co.uk/books/about/The_Architectural_Antiquities_of_the_Isl.html?id=LuEwAQAAMAAJ&redir_esc=y
-The Architectural Antiquities of the Isle of Wight from the
-
-p5 
-
-Arreton
-
-... In 1140 we find the church and tithes of the manor of Arreton, with other tithes held Bestowed under Fitz Osbern's grant, conceded by the Convent of Lyra to Baldwin de Redvers' new Abbey of Quarr, on a yearly payment of forty shillings;-from "Heldearius, Abbot of Lyra, to Gervase, Abbot of Quarr," so runs the deed. And so the church remained in the monks' hands till the dissolution of the monasteries, and a good account, too, these worthy churchmen gave of their stewardship. No sooner had the building come into their possession, than they set about enlarging and beautifying it ; indeed, we may call all the work we now see incorporated into the present church the "monks' work." The most satisfactory way to describe this will be to take it in chronological sequence, as it progressed intermittently from the middle of the 12th to the beginning of the 16th century.
-
-
-p25
-Newchcuch
-
-In the Dean's Return, 1305, he states that the Abbey and Convent of Lyra receive all the greater and lesser tithes from the demesne of Wroxall, and the greater tithes from the manors of Appuldurcombe, Apse, Holeway, and Knighton.
-
-
----
-
-
-In Edward Boucher James, *Letters, archaeological and historical relating to the Isle of Wight*, 1896, [p118-21](https://archive.org/details/lettersarchaeolo01jameuoft/page/118/mode/2up).
+In Edward Boucher James, *Letters, archaeological and historical relating to the Isle of Wight*, vol. I, 1896, [p118-21](https://archive.org/details/lettersarchaeolo01jameuoft/page/118/mode/2up):
 
 Fitz Osborne pursued in the Isle of Wight the same course of conduct towards the Church, which his master and relative, the Conqueror, had adopted on the mainland. Like many of the Norman nobles and gentry, Fitz Osborne was what would be now called a strong churchman; in 1045 he had founded the Abbey of Lire, or Lyra, in the diocese of Evreux in Normandy, where also he was the founder of the Abbey of Coulanges, in which he died. As was the case with most of the Norman abbeys, a legend is attached to the foundation of Lire, which can be read in the church history of Normandy (*Neustria Pia*, p. 545). The monk William of Poitiers says that Normandy was an Egypt, a Thebaid, as regarded monasteries. Duke William of Normandy, so the same writer tells us, never refused his authorization to any one desirous of giving to churches. 'He built many monasteries,' so Ordericus affirms. A compound of boldness and political scheming, William's followers, soldiers and lawyers, like the ancient Romans, shaven like the clergy, and good friends of the clergy (at the beginning at least), supported the Church. It appears from Domesday Book, the great authority on the condition of England at the period of the Conquest, that William Fitz Osborne gave to Abbey of St. Mary de Lira, six churches with their lands and possessions, along with the tenths of the King's revenues. The only two churches whose names are mentioned in this survey are those of Bovecombe (Bowcombe or Carisbrooke) and Arreton. ... The churches which Fitz Osborne gave to Lire were served by monks from that distant abbey. Lire was under the Benedictine rule. The monastic system, as founded by Benedict, was entirely in the ascendent during the reign of William the Conqueror. The rules of the Benedictine order, which had been for some time relaxed, were revived with greater stringency by the Cluniac monks, so called from Clugni, in Burgundy, where the community was first founded, in the year 912, by an abbot named Berne. The monks of Clugni added many new and severe regulations to those formulated by Benedict of Niursia. Lire, though it did not attain the fame of the Abbey of Bee, whence issued those illustrious prelates the Lombard Lanfranc and Anselm, was itself also a school of religious knowledge, writing, philosophy, art, and law. One of the great distinctions of Benedict's rule was the substitution of study for the comparative uselessness of mere manual labour for religious instructors whose business is not to serve tables Our gratitude is due to those Norman abbeys for fostering what little there was of learning and refinement in that troublous and dreary period. The evil in the case of the Isle of Wight was that the centre of operations was in those days of restricted locomotion at so great a distance from its field of labour among the people of this Island. This difficulty was remedied at some time after the Conquest by the founding of a cell dependent upon the parent foundation, or, as it was afterwards called, an 'alien priory,' at Carisbrooke, from which the monks might go forth to serve the churches attached to the Abbey of Lire.
 
@@ -705,10 +673,9 @@ II.
 
 Among the benefits which the establishment of the little colony from the Benedictines of the Norman Abbey of Lire at the centre of the Island conferred on the Isle of Wight may be reckoned the preservation of the name of Wihtgaresburh in its shortened form of Carisbrooke. That name does not appear in Domesday Book, the Castle lurking under the entry of Alverstone, Alvington, and the church attached to the manor of Bovecombe — Bowcombe. The prior and monks of Carisbrooke is their designation in one of the earliest cartularies. The building of the priory and the church connected with it drew its craftsmen and masons to mingle with the ploughmen and reapers of the church lands and of the Bowcombe manor. These were swelled by the families of the retainers at Carisbrooke Castle, and hence arose the village of that name. Protection was found under the strong hand of the authorities at the Castle, and Carisbrooke might have grown up into the chief town of the Isle of Wight, had not in later times the superior local advantages of the borough of the Medene at the confluence of two streams and with an access to the Solent led to what was then the New Port taking the place of the old Julish borough of the Wight. No doubt these Norman monks of Carisbrooke soon found recruits among the English inhabitants of the Isle of Wight. Monasteries were the only spots in those rude ages where a bookish youth could find shelter. The more refined minds gravitated towards these quiet refuges of learning and Christian devotion. The monastic life had its charm for keen intellects and men of business capacity. The monasteries had considerable property which it was not only necessary to manage but also to guard against impositions and robberies. This security was only to be obtained by means of royal diplomas and grants; threats of excommunication from the bishops, directed against imperious barons and knights, who were little disposed to act from motives of duty, but did a good deal from interest or private friendship. A task like this demanded both address and activity, frequent visits to the royal court or to the castles of powerful nobles, the talent of pleasing influential men and of treating with all sorts of j)eople. Such a career has an attraction to minds who pride themselves on their diplomatic tact in dealing with mankind, and brought in aspirants who for the sake of power were willing to forfeit some of the ordinary gratifications of human nature. Modern writers on monaslicism are apt to people the abbeys with men laden under the burden of the memory of past crimes, with others of ascetic devotion, and also with those timid natures to whom the exchange of the necessity of decision for obedience to some outward rule was a luxury. These historians of the past omit among the inmates of the monasteries those ambitious spirits to whom the cloister was the only road for distinction. Where was a young man born of poor parents in the Isle of Wight to find a career where he could use his intellectual gifts, except by becoming a novice or pupil in the Priory of Carisbrooke? So it was that many of the monks of old were very sagacious men, with a wonderful faculty for managing the things of earth, but with little, if any, of the finer sensibility or stern love of truth which we are taught to look for in those who seek the kingdom of heaven.
 
+...
 
-pp291-4
-
-A DAY AT CARISBROOKE PRIORY IN THE THIRTEENTH CENTURY.
+A DAY AT CARISBROOKE PRIORY IN THE THIRTEENTH CENTURY `[pp291-4]`.
 
 ...
 
@@ -718,11 +685,14 @@ Soon after the grant of lands and revenues to this French abbey in Normandy, we 
 
 The forms of the hills and valleys were much the same then as now. The little stream of Lukely threaded its way through the narrow chalk vale of Bowcombe to join the more copious waters of the Medina. Virgin thickets of brushwood and larger trees covered the hills ; green strips of marshy meadow bordered the stream. No sound broke the silence of the valley except the chatter of the brook, the cry of the wild fowls in the reeds of the river, and the song of the thrush and the blackbird in the woods, unless it were the occasional shout of the ploughman as he was yoking his bullocks to the team and driving them to the field, or the whistle of the swine-herd beating the trees for acorns. Now as then the stream runs through the valley to the sea, to be absorbed by the sunbeams, and to fall back from the clouds into the heart of the hills, and thus feed the current of waters ever-going and ever-returning. The scattered inhabitants were one day startled by seeing a little company of men in black tunics and with leather girdles tied round their waists. The country people stared at these strangers, but they knew they were religious men, so they did not jeer or mock at them, they only wondered as to whence and why they had made their appearance among them. And then this little band of monks with their sandalled feet went spying out the land, till at last they fixed upon a high rising ground facing Carisbrooke Castle. According to the old line of verse, the Benedictines always chose a hill for the site of their houses where such an elevation could be found. They stood together on the hill side, they sung a Latin hymn to a Gregorian chant. The last note of the chant died away, and then the good brethren prepared to build their house, much in the same way that a setder in the bush of Australia or the backwoods of Canada might do in our days. It was no pleasant work; the Isle of Wight has a bright sky, but they had left a brighter sky in sunny France. I'hey had to bid farewell to Normandy, the paradise of churchmen, for a rude race of people with little or none of the polished courtesy of the Frenchman. ... If we could have looked at these men, clad in their cheap and homely dress of black, as the memento of death, and scanned their faces and features, half hidden by the hood, which was used for study and prayer, we should have seen that they were men of different types of character. One bore on his countenance traces of the inward fire which had wasted his life — a vehement man to whom it was indeed hard to obey the will of his superior ; another was of those tranquil, easy, timid natures, to which the exchange of the necessity of decision for submission to the rule of the order and the commands of the prior was a luxury and the monastery a refuge. And there were young ardent novices ready with open hearts and full hands to devote their very best to God, caring as little for their lives as men who march up to the cannon's mouth.
 
---
+```
 
 ## The Wine Trade
 
+To provide a little more context for the story, a brief consideration of the more general state of the the wine trade in Northern Europe around this period of time suggest that while the case surround the wreck of the St Mary at Chale was a *notable* one, it was not necessarily an *uncommon* one.
+
 ```{admonition} The wine trade in England
+:class: dropdown
 
 In André Louis Simon, *The History of the Wine Trade in England*, 1906, [pp. 180-5](https://archive.org/details/historywinetrad01simogoog/page/n196/mode/2up).
 
@@ -774,7 +744,7 @@ The old lighthouse itself has an eight-sided pyramid shaped roof with eight rect
 
 ## The Wreck of the St Mary
 
-Whilst Percy provides us with the key elements of the story as usually told, perhaps the most comprehensive attempt at unpicking the historical tale of Walter de Godeton's dealings with the shipwrecked wine from the St. Mary can be found in John Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, published in 1911:
+Whilst Percy provides us with the key elements of the story as usually told, perhaps the most comprehensive attempt at unpicking the historical tale of Walter de Godeton's dealings with the shipwrecked wine from the St. Mary can be found in John Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, published in 1911, which takes us on a trip through the *Calendar of the patent rolls preserved in the Public Record Office: Edward II* [A.D. 1307-1313 (1894)](https://archive.org/details/calendarofpaten01grea/), [A.D. 1313-1317 (1898)](https://archive.org/details/calendarofpaten02grea), [A.D. 1317-1321, (1903)](https://archive.org/details/calendarofpaten03grea), [A.D. 1321-1324 (1904)](https://archive.org/details/calendarofpatent04grea_0), and *Edward III*, [A. D. 1327-30 (1896)](https://archive.org/details/abd4709.0001.001.umich.edu).
 
 ```{admonition} Oft in this bay, 1911
 :class: dropdown
@@ -871,35 +841,13 @@ The last mention we find of Walter de Godyeton in the Calendar of the Close roll
 ```{admonition} On the death of Walter de Godyton, 1327
 :class: dropdown
 
-In *Calendar of the Close rolls preserved in the Pulic record office*, 1896, [membrane 12, p167](https://archive.org/details/abd4709.0001.001.umich.edu/mode/2up).
+In *Calendar of the Close rolls preserved in the Pulic record office, Edward III, 1327-30 (1896)*, [membrane 12, p167](https://archive.org/details/abd4709.0001.001.umich.edu/page/166/mode/2up).
 
 I EDWARD III PART II.
 
 1327. Sept 20. To the sheriff of Southampton. Order to cause a coroner for that county to be elected in place of Walter de Godyton, deceased.
 ```
 
-TO DO the account at least insofar as I have been able to peice it together is fragmentary and congusing  but there a more than enough ingredients to make a good story, and the story as commonly told is a good example of just such one interpretation. And is perhaps one of the more stable folk interpretations.
+The account, at least insofar as I have been able to piece it together, is still fragmentary and confusing; but there are more than enough ingredients to make a good story. The story *as commonly told* is a good example of just such one interpretation, and is perhaps one of the more stable folk interpretations, not least because it keeps getting repeated in print. But that does open up the opportunity for telling *diffrerent* versions based on older documents, such as the court rolls.
 
 On the grounds that *stories* are not necessarily *history*, there seems to be plenty of scope for a tale with all sorts of ingredients that are "true" at least to the extent that "I have heard them (historically) said...". Might we wonder, for example, whether the Papal Bull was actually a red-herring, and that de Godeton was constructing the tower as a final act of piety on land donated to the Church for the purpose five or so years before his death? Or is there a tale we can tell around the machinations of the various merchants who claimed to have a stake in the ship, the St. Mary?
-
-## The Court Case
-
-
-https://archive.org/details/calendarofpaten01grea/page/604/mode/2up  1894, A.D. 1307-1313
-
-https://archive.org/details/calendarofpaten02grea/page/54/mode/2up 1898  A.D. 1313-1317
-
-
-https://archive.org/details/calendarofpaten03grea/page/485/ 1903
-Calendar of the patent rolls preserved in the Public Record Office : Edward II,Vol. III,  A.D. 1317-1321
-
-https://archive.org/details/calendarofpatent04grea_0, vol. IV, 1904  A.D. 1321-1324
-
-
-
-TO DO
-
-
-
-
-TO DO see also another_contested_wreck.md

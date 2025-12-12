@@ -904,8 +904,6 @@ An Authentic account of James Hill, otherwise John Hind, otherwise James Hind,,
 https://archive.org/details/bim_eighteenth-century_john-the-painters-ghost_1777
 John the painter's ghost: how he appeared on the night of his execution to Lord Temple; and how his lordship did communicate the same at full court, to the astonishment of all present: ...  1777
 
-TO DO
-
 PREFACE
 
 The scotch hang their heads, and endeavour to blush for the disgrace which John the Painter hath brought upon. them; and tho' the man was born in Edinboro', and educated in Herriot's Hospital, yet they say—it might be—but he went so young to America, that he imbibed new tenets and sentiments, by the transmarine expedition. This subterfuge is evaded, by proving, that he was bound apprentice to a Painter at fifteen, served seven years, and two years after the expiration of his apprenticeship, he went to James Town, in Virginia, at the full age of twenty-five. — Now, the scotch blush for the conduct of their countryman; yet, I think, they blush without occasion, when we reflect, that the natural disposition. of a scotsman, is, cunning—duplicity—rapine—and rebellion. The earliest times of these kingdoms have proved these assertions; the civil war in America confirms it; and the deposing of Lord Pigot, in India, puts it beyond a doubt. But where the scotch condemn, I acquit: and I rather look on James Aitken to have been an honour to his race, than a disgrace.—He was a fellow of penetration, sense, and observation—prone to commit every violent deed to aggrandize his wealth, or sate his passions, a strong republican in principle, an Enthusiast in religion, and a Quixote in romance. His robberies were committed on the antient plan of Clanism, which formerly taught every Scot to strip his neighbour for his convenience, if he was the strongest.—I must contradict one circumstance relative to this daring robber, and *inflammitist*, who wished to be made immortal, like him that burnt the Temple of Ephesus. Mr. James Gambier, the Commissioner of Portsmouth Yard, gives you more new dying speeches of John the Painter,—tho' these were his last nervous, and pathetick expressions.—"I left England with a desire of seeing foreign countries. I fixed on America, and I liked its people; but when England, the Parent state, grew unnatural in her persecutions, I resolved to achieve some great mischief in revenge to her & barbarity; and as she had brought fire, sword, rapine, murder, rapes, and ruin among her Colonies, I determined, individually, to burn the Docks of Plymouth and Portsmouth, for by crippling the fleet, I should prevent a further progress against America, — such were my determinations. In principle, I am a Republican. I hate all Kings of all nations and denominations."—These were the concluding words in the life of James Aitken; and when the man and his motives are considered, people may determine those opinions as strike their senses; for my part, I think he acted like a Scot, and with more reputation, than many who have appeared with fair characters. But he is hanged, and his Ghost is unappeased; but why, I leave the *Cardinal* Prelate, the A---b---- of C, to determine.
@@ -945,7 +943,7 @@ The foe of England's Crown.
 `[Lord Lovet, beheaded on Tower-Hill, when a very old man, for being concerned in the Scotch Rebellion of 1745 against the brave, honest, and illustrious George the Second. He endeavoured to impeach his own son to save himself. The present Gen. F————— is lineally descended from his august loins.]`
 
 Malice had, like the canker-worm,  
-Consum d his early prime:  
+Consum'd his early prime:  
 The chord he wore around his neck,  
 Had kill'd him ere his time.
 
@@ -996,273 +994,187 @@ The tutor of thy King?
 And for those precepts he instill'd,  
 Should not the caitiss swing?
 
-TO DO
-
-
-Is there not s wv wight,  
+Is there not S-------, wicked wight,  
 Who rul'st the sea and storms;  
 Who has destroy'd the English fleet,  
 More than her deadliest worms.
 
 Has he not promis'd love and truth,  
-Nor did his promise keeps;  
-Has he not sworn a thousand 'oaths,  
-Then left the Dame to weep?  
+Nor did his promise keep;  
+Has he not sworn a thousand oaths,  
+Then left the Dame to weep?
 
 Has he not ruin'd many maids,
-seduc'd the loving wife  
-Has he 300 damn'd the widow's peace,  
-To ev'ry grief of life? 8
+Seduc'd the loving wife  
+Has he not damn'd the widow's peace,  
+To ev'ry grief of life?
 
-Has not the tenour of his days mon gabe 192 of Been One inferpib! bier? Tn! od 4
+Has not the tenour of his days  
+Been One infernal blot?  
+Then since his vice on record stands,  
+A gallows be his lot!
 
-Then since his vice on record Nands," J M641 207 b
+Say, shall lank L------n escape,  
+So emulous to sin?  
+Who with his *Sancho Panza* `[The flashing author of the Diaboliad, makes the translator of Semiramis his Lordship's pimp and parasite, but without any propriety or truth, for he is certainly too green and raw a youth to be so initiated in vice, tho' he may have studied under so great and able a master.]` wades,  
+To crimes---through thick and thin.
 
-; 2 \ " * 0 3 5 . £ = 7 8. , A ows be his 63.408; 15; 2 4 2 : wot ib 6 = — 6 W 4: 4 0 — *
+Shall he---because his stains are deep,    
+Receive the royal smile;  
+And plead the measures of the Court,  
+To blast this flow'ry isle?
 
-say, shall lank Lesen escapb e. | 80 emulous to sin * <7} 67 Who with his sancho Penze * 'wades, 51825 7
-
-shall he- because his stains are deep, r  
-Receive the af oyal smile; 15 10.
-
-To blast this flow'ry isle ?
-
-shall all this be---and all escape,
-
-- ,
-
+Shall all this be---and all escape,  
 And wretched I---your theme;
-
-While vices blossom in the. sun,
-
+While vices blossom in the Sun,  
 And glide like Thames his stream.
 
-* The flashing author of the Diaboliad, makes the translator of semiramis his Lordship's pimp and parasite, but without any propriety or truth, for he is certainly too green and raw a youth to be so initiated in vice, tho* he may have studied under fo great and able a master.
-
-shall he wits risk'd Old England's fame,  
+Shall he wits risk'd Old England's fame,  
 On Minden's bloody plain,  
-Bear honours thick upon his breast, 1
-  And for them call'd 8
+Bear honours thick upon his breast,  
+And for them call'd *Germain*.
 
-Now, Temple, pray attend this truth,  
-Which Durnford can't deny;  
-No vows for George escap'd my mouth, -
-
+Now, *Temple*, pray attend this truth,  
+Which *Durnford* `[Mr. Durnford, one of the Justices of the Peace to whom John the Painter made his confession. But he declared he made no prayer for the Royal Family, as afterwards related by James Gambier, Esq; for he thus expressed himself,---"I early in my life went to America, and when I found that England was exercising such unnatural oppressions on her Colonies, I came over individually, resolved to perpetrate every evil against the kingdom. I am a Republican in sentiment, and I hate all Kings of all denominations."]` can't deny;  
+No vows for *George* escap'd my mouth,  
 I died---without one lie.
 
-I'm a Republican in mind, £  
-All Monarchs bear my hate ;
+I'm a Republican in mind,  
+All Monarchs bear my hate;  
+I never blest in prayer a King,  
+Or Minister of State.
 
-I 8 blest in prayer a King,
+But hark! the Cock has warn'd me hence,  
+I smell the morning air!---
+*Temple* awake, thy pillow turn,  
+For thorns are planted there.
 
-Or Minister of state.
+Now through the streets the milk-maids scream'd,  
+And *Temple* rais'd his head;  
+Pale was the Wight, and his long limbs  
+Shook as he left the bed.
 
-But hark ! the Cock has warn d me hence,
-
-I smell the morning air !---
-
-* Mr. Durnford, one of the Justices of the Peace to whom John the Painter made his confession. But he declared he made no prayer for the Royal Family, as afterwards related by James Gambier, Esq; for he thus expressed himself,---<< I early in my life << went to America, and when I found that England was exercising such unnatural oppressions on her Colonies, I came over individually, resolved to perpetrate every evil against the kingdom. I am a Republican in sentiment, and I hate all Kings « of all denaminations," | | |
-
-
-Temple awake, thy pillow turn,
-
-0 PFor thorns are planted there.
-
-Now through the streets the milk-maids feream! md,  
-And Temple rais'd. his head; 1 .
-
-| Pale was the Wight, and his long limbs shook. as he ol the bed.
-
-He hy'd him to the glittering Court, | :
-
-On legs as small as canes
-
-| nk
-
-And in the circle to the king  
+He hy'd him to the glittering Court,  
+On legs as small as canes;  
+And in the circle to the King,  
 Pour'd out these dolefull strains.
 
-Forgive the tremour of my tongue,
+"Forgive the tremour of my tongue,  
+"But o, my gracious Liege,  
+"I have a tale will wound your ear,  
+"And all your soul besiege.
 
-«* But o, my gracious Liege,
+"Cause your lank hairs to stand on end,  
+"Like fretful Porcupine  
+"Freeze all the Courtiers of your ring,  
+"Make Maids of Honour pine.
 
-« J have a tale will wound your car,
+"If there's a creature round your throne  
+"Who fears nor God or law,  
+"I beg your Majesty's commands,  
+"May bid him to withdraw."
 
-« And all your soul besiege. |
-
-*
-
-ws Caude-: your lank hairs to stand an end, «  
-Like fretful Fo Freeze all the Courtiers of your ring,
-
-„Make Maitls of Honour pine.
-
- If there's a creature wund your throne 511g! u Re |
-
-| «© Who feats: nor God or law, 15 25 1 beg en Majesty's commands,  
-May bid him te wichdraut. 40
-
+*Sir Clement Cotterell* `[The Master of the Ceremonies]` by command,  
 Two wicked Lords addresss'd;  
-
-such pointed satire rat thesa Peers, Dis ad 211 : A  
-Made their warm; blood to rise; ad T
-
-says L=-==---N, WE pray to, stay, 2392. 10 bal v2 5  
-We' ve God before our Nes. 3 28
-
-.
-
-Then Temple thaw the Throne address N Low bowing to the earth z: F
-
-„ Most Gracious sovereign, wise and wo
-
-Great erb of .
-
-* The Master of the Ceremonies
-
-« Last aha about the midnight hour,
-
-„When all ny household sept 4  
-Not crook'd-back Richard tost in dream,
-
-«« Not half 40 forely: wept.
-
-I wak d- and heard a hollow groan⸗ -
-
-« When lot my curtains drew; fe  
-And Nabe the Painter palid Form, --
-
-8 ee to view? ..
-
-Ar this the Maids of Hotous-foremd, a  
-The virtuous 'Queen® withdrew;
-
-And every lady of her train, n ne.
-
-3
-
-on 8115 1.
-
-5 : Was FI IN 979
-
-Excepting one-of Anta high, 5  
-And T-----<9# is her name;
-
-=
-
-* It bath ever been, custom with? the world to speak highly vf this amiable
-
-Princess.
-
-+ A lady celebrated for her wit and, prowess, and no ways. . in either to the
-
-Pucelle D' Orleans. c Une 8 douce comme un mulon'; 0
-
-Mais Jeanne D'Arc eut un Coeur de Lion. Et le plus grand de ses rares travaux, Fut 8 un an son n
-
-says he, den En Gt I know nor fear or shame.
-
-At that, tad 7 emple turn 'd around,
-
-And made a len gthen'd bend ;
-
-« I do rejoice- Meet Bridget fair. | .  
-That you've no cause to mend.
-
-His Lordship then his tale renew d L Pp My Lond blue. red, and green, « Ye ut PANE 2 H ye the goblin seen. „ 'Twas in the dead and darksome hour, «  
-My Lady by my fide; 85 When, lo! the spectre did appear, *  
-And thus it mournfull cried :
-
-« Aurica shall victor 1
-
-25 What hath your Counsels done? c  
-You've blighted now the fairest Ile, a} 3 «© That bloom'd een the sus.
-
-« For a poor shrub of China's*
-
-« A civil discord. raise: -
-
-: „ * 5 . 1 1 E233 11 K 4
-
-yo!
-
-*
-
-England, those whither'd roll'd up leaves, | RET DB ATEY Fans Y Dt0 « Will make no wreath
-
-©
-
-— * \
-
-7%
-
-„ 44» As of bays.
-
-: x nnn
-
-f
-
-«© Tell him the fates resolve ;-
-
-« Unless he breaks the P--------, ; K nn ole af nog? boo] - 2177 % His kingdoms will dissolve. i 7 "8 . Ts #- $3 „„ 9% ack 334 sWALALYAT Os
-
-1 * 1 4 Y 0 1 A 1 121 K 1
-
-« stands on my pale right hand; .. oe And sure a wholesome Bill he drew,
-
-e I 292 207 £4 367 1 : « To purge this venal land.
-
-by 1 * NI $3 4 #
-
-oy
-
-Tea, a native of China, which the English P--------t endeavoured to make the
-
-people of America drink, first making them pay a tax of two shillings in the pound.
-
-This tax would have produced 32, oool. a year, out of which 16, oool. would have been swallowed up by the gatherers; therefore, to inforce this tax, Britain had recourse to arms, and after a sea of blood had been spilt, 25, ooo men destroyed, 24 millions of
-
-money expended, in the month of March 1777, she found herself in possession of Long
-
-Island, New York Isle, and about 25 miles of Continent. Now, if the rest of the thirteen Provinces cost as much money, and as many men to conquer them, in what condition will the constitution of England be in ?---As certain as light succeeds to dark, America will establish her point, and sing Tz-Dzvm, in spite of the tax on Tea.
-
-+ His excellent Bill for-preventin Bribery at Elections, but tho' it hath hither⸗ to failed in its effects, yet it shewed the good intention of that able states
-
-0 Lord Chancelhr Yr. url, e with gaping wounds, Fe Makes i fad- trio- here: 6 Oh on your knees implore the King. a To lend a yielding ear-—1
-
-vc Or F rance or spain in dreadful: leaguie, | | „ The Colonies will jon: & And then, ye ne'er will ee the face ole
-
-« Of George upon con-
-
-« All like a vision's baselels form, 1010.2. eee ee 4 shall vanish- into Air n Ont „ Nor leave one wreck behind to pr hE ... « One city-'gibat:brcfair mer gill
-
-*The fatal end of this good man, is a stain to the annals of the times in
-
-which» it happened. He sunk under" the sting. of remorse, having accepted a place, at the peculiar solicitations of. a certain great man, contrary to the sLOWER promise,
-
-he had made his friends.
-
- this---in/one tremendous groan" © The Courtiers sunk to earth 9 I And Wirth 5% ae i r
-
-Awhile— in sullen fear reposed,
-Like Bayes's troops they lay:  
+S------- snd L--------, says he,  
+Retreat---be not depressed.
+
+Such pointed satire at these Peers,  
+Made their warm to blood to rise;  
+Says L-------n, we pray to stay,  
+We' ve God before our eyes.
+
+Then *Temple* thus the Throne address'd  
+Low bowing to the earth:  
+"Most Gracious sovereign, wise and good,  
+"Great enemy of mirth.
+
+"Last night about the midnight hour,  
+"When all my household slept;  
+"Not crook'd-back Richard tost in dream,  
+"Not half so sorely wept.
+
+"I wak'd--- and heard a hollow groan---  
+"When lo! my curtains drew;  
+"And *John the Painter's* palid form,  
+"Conspicuous stood to view."
+
+At this the Maids of Honour scream'd,  
+The virtuous Queen `[It hath ever been, a custom with the world to speak highly of this amiable Princess.]` withdrew;  
+And every lady of her train,  
+Was chill'd with deadly dew.
+
+Excepting one of mettle high,  
+And *T------e* `[A lady celebrated for her wit and prowess, and no ways inferior in either to the Pucelle D'Orleans. Une beautè douce comme un mulon; Mais Jeanne D'Arc eut un Coeur de Lion. Et le plus grand de ses rares travaux, Fut degarder un an son pucelage.]` is her name;  
+Says she, shall I from Goblins fly,  
+I not not fear or shame.
+
+At that, Lord *Temple* turn 'd around,  
+And made a lengthen'd bend ;
+"I do rejoice--- sweet *Bridget* fair.  
+"That you've no cause to mend."
+
+His Lordship then his tale renew'd:  
+"My Lond blue, red, and green,  
+"Ye all had look'd as pale as me  
+"Had ye the goblin seen.
+
+"'Twas in the dead and darksome hour,  
+"My Lady by my side;  
+"When, lo! the spectre did appear,  
+"And thus it mournfull cried:
+
+"*America* shall victor be  
+"What hath your Counsels done?  
+"You've blighted now the fairest Ile,  
+"That bloom'd beneath the Sun.
+
+"For a poor shrub of *China's* `[Tea, a native of China, which the Engliah P--------t endeavoured to make the people of America drink, first making them pay a tax of two shillings in the pound. This tax would have produced 32,000l. a year, out of which 16,000l. would have been swallowed up by the gatherers; therefore, to inforce this tax, Britain had recourse to arms, and after a sea of blood had been spilt, 25,000 men destroyed, 24 millions of money expended, in the month of March 1777, she found herself in possession of Long Island, New York Isle, and about 25 miles of Continent. Now, if the rest of the thirteen Provinces cost as much money, and as many men to conquer them, in what condition will the constitution of England be in?---As certain as light succeeds to dark, America will establish her point, and sing Te-Deum, in spite of the tax on Tea.]` clime,  
+"A civil discord raise:  
+"England, those whither'd roll'd up leaves,  
+"Will make no wreath of bays.
+
+"Ah *Temple*, fly to *Goerge* thy King,  
+"Tell him the fates resolve;---  
+"Unless he breaks the P--------,  
+"His kingdoms will dissolve.
+
+"*George* `[His excellent Bill for preventing Bribery at Elections,--- but tho' it hath hitherto failed in its effects, yet it shewed the good intention of that able Statesman.]` *Grenville* wise,---thy brother true,  
+"Stands on my pale right hand;  
+"And sure a wholesome Bill he drew,  
+"To purge this venal land.
+
+"*Lord Chancellor York*, `[The fatal end of this good man, is a stain to the annals of the times in which it happened. He sunk under the sting of remorse, having accepted a place, at the peculiar solicitations of a certain great man, contrary to the avowed promise he had made his friends.]` with gaping wounds,  
+"Makes a sad trio here:  
+"Oh on your knees implore the King,  
+"To lend a yielding ear---!
+
+"Or France or Spain in dreadful leaguie,  
+"The Colonies will join:  
+"And then, ye ne'er will see the face  
+"Of George upon a coin.
+
+"All like a vision's baseless form,  
+"Shall vanish into air;  
+"Nor leave one wreck behind to prove,  
+"One city great or fair."
+
+At this---in one tremendous groan  
+The Courtiers sunk to earth;  
+His M------ maintain'd his state,  
+And showed his usual mirth.
+
+Awhile---in sullen fear repos'd,  
+Like Bayes's `[Bayes's Troops, have a sort of suppleness fitted to the disposition of Courtiers.]` troops they lay:  
 Then as electrified they rose,  
 And adverse ran away.
 
-`[Bayes's Troops, have a sort of suppleness fitted to the disposition of Courtiers.]`
-
 The vacant Chief was left alone  
-To talk to vacant air——  
+To talk to vacant air---  
 He turn'd upon his royal heel,  
 Big with the clouds of care.
-
 
 At that, gay Lady Bridget flounc'd,  
 To see the men such Bears `[A familiar expression of her Ladyship's to men who are rude in manners, and Inattentive to her wit and charms.]`.  
 When a white-powder'd Page `[There are diminutive, tiny things about the Palace, called Pages, which are employed to run about the town, and glean entertaining fables for the amusement of their master. These Pages are made up of powder, pomatum, and silk; and they laugh, and smile, and can say yes, or no, but never to the purpose. They are early instructed in fables, and they deal in no other art or science.]` appear'd,  
 And handed her down stairs.
-
-
-
-
-

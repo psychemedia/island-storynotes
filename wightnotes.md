@@ -45,7 +45,7 @@ WIGHT ILAND.
 
 [includes tale of a shower of blood in 1176. It is reported, that in the yeare of mans saluation, 1176. and twenty three of King Henry the secod, that in this Iland ftrained a ſhowre of bloud, which continued for the fpace of two houres together,to the great wonder and amazementof the people that beheld it with feare,]
 
-<<”
+<<"
 
 THE DESCRIPTION OF THE VVIGHT IL AND.
 
@@ -191,7 +191,7 @@ Nettles hithe, E, Med. Neunam, E. Med.
 
 ' Newtowne, . Med. | Newtowne hanen, i. Med. NEWPORT,yy. Med.
 
-Newport hauen,”. Med. Newport Caſtle, . Me a, Newchurch, E. Med, Nighton, E. Med. Norris, E. Med,
+Newport hauen,". Med. Newport Caſtle, . Me a, Newchurch, E. Med, Nighton, E. Med. Norris, E. Med,
 
 North Court, E. Med,
 
@@ -411,17 +411,17 @@ See: https://en.wikipedia.org/wiki/Tichborne_Dole also the Tichborne Claimant
 Isle of Wight Redding Ware
 
 fpotforafelf-indulgenthermit. Thus runs the registration: "Walter de Langftrell, ad miffus ad hermitorium fupra montem
-de Chale, in infula Vectis, idib. O&obris, A.D. 1312." "Wal- ter de Langftrell, admitted to the hermitage at the summit of
+de Chale, in infula Vectis, idib. O&obris, A.D. 1312." "Walter de Langftrell, admitted to the hermitage at the summit of
 Chale mount, in the Isle of Wight."
 
 Undercliff of Isle of Wight, Whitehead
 p122 Crab and Lobster Inn, Ventnor, Crab Fair
 p177 Smuggler's retreat / shibeen
 Whitwell
-One of the small cottages in the lower part of the village, once used as the village post office, during the i8th century was widely known as the "smugglers' retreat," and kept open as a shebeen or "pop" shop, where smuggled spirits could be obtained at a cheap rate. Being an unlicensed house, it was closed later by the lord of the manor. A legendary story attaches to the house, connected with the little spring of water, still seen issuing from a recess in the stone wall, close to, but below the ground level of the house. The story is as follows: "At the base of the down above and on its northern aspect, is a farmstead placed in the valley and situated a short distance off the road to the right, leading from St. Lawrence to Whitwell. In the farm yard is the usual pond, on which a brood of ducks—one of these being a fancy breed —were accustomed to swim about and disport themselves. One morning the latter was missing, and early next day it was reported that the missing duck had been found lying in an exhausted condition by the spring near the cottage. From this fact it was positively asserted that the duck had fallen into the well at the farm, and found its way under- ground to St.Lawrence, a mile and a half distant." From this circumstance, the house obtained its later name as the "Duck." The sign of the "Dog and Duck" was a common public house sign in the 17th century, and had reference to a sport in vogue at that period, which consisted in seeing ducks hunted in a pond by spaniels. The pleasure arose from watching the bird escape from the dog's mouth by diving.
+One of the small cottages in the lower part of the village, once used as the village post office, during the i8th century was widely known as the "smugglers' retreat," and kept open as a shebeen or "pop" shop, where smuggled spirits could be obtained at a cheap rate. Being an unlicensed house, it was closed later by the lord of the manor. A legendary story attaches to the house, connected with the little spring of water, still seen issuing from a recess in the stone wall, close to, but below the ground level of the house. The story is as follows: "At the base of the down above and on its northern aspect, is a farmstead placed in the valley and situated a short distance off the road to the right, leading from St. Lawrence to Whitwell. In the farm yard is the usual pond, on which a brood of ducks—one of these being a fancy breed —were accustomed to swim about and disport themselves. One morning the latter was missing, and early next day it was reported that the missing duck had been found lying in an exhausted condition by the spring near the cottage. From this fact it was positively asserted that the duck had fallen into the well at the farm, and found its way underground to St.Lawrence, a mile and a half distant." From this circumstance, the house obtained its later name as the "Duck." The sign of the "Dog and Duck" was a common public house sign in the 17th century, and had reference to a sport in vogue at that period, which consisted in seeing ducks hunted in a pond by spaniels. The pleasure arose from watching the bird escape from the dog's mouth by diving.
 
 The house obtained further notoriety from being the residence of a well-known and successful leader in the local contraband trade, and thither all the local free traders resorted. Captain H maintained intimate relations with the opposite coast, crossing the Channel frequently in his dealings with France and Holland. A story is told which throws a side-light on the social aspects of village life at this period. A vessel—commonly known as a "Dutch Dogger"—lay anchored off the shore fronting the village one Sunday morning and attracted the villagers on board, for the purpose of obtaining spirits, or, possibly to aid in removing the cargo. When the minister arrived for the usual service, the clerk said: "It be no use opening th' church, ail th' folks begone aboard the dogger." The clerk was an old man named
-Thos. Paine, living at the "Duck" public-house. His successor, "old John Green," combined the office of parish clerk with that of schoolmaster. He was widely known for his poetical effusions, and currently credited with maintaining more than a passively sympathetic relation with the contrabandists of the day. There was no church-house, and old John occupied the cottage still standing nearly opposite the church. This served a double purpose as vestry and schoolroom. Here, the rector had to robe himself, putting on a white surplice over his black gown. The arrangements for the religious service were of the primitive type customary in small parish churches at that period. The pulpit and reading desk were combined and the clerk sat under. The rector led the singing, and after reciting the first verse of the hymn before the sermon, dis- appeared from view, sitting down on a low stool, to disrobe himself of the white surplice and to reappear in the black gown in which he concluded the service.
+Thos. Paine, living at the "Duck" public-house. His successor, "old John Green," combined the office of parish clerk with that of schoolmaster. He was widely known for his poetical effusions, and currently credited with maintaining more than a passively sympathetic relation with the contrabandists of the day. There was no church-house, and old John occupied the cottage still standing nearly opposite the church. This served a double purpose as vestry and schoolroom. Here, the rector had to robe himself, putting on a white surplice over his black gown. The arrangements for the religious service were of the primitive type customary in small parish churches at that period. The pulpit and reading desk were combined and the clerk sat under. The rector led the singing, and after reciting the first verse of the hymn before the sermon, disappeared from view, sitting down on a low stool, to disrobe himself of the white surplice and to reappear in the black gown in which he concluded the service.
 
 p336-344 smuggling
 p340 ghost horse
