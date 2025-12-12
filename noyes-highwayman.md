@@ -169,7 +169,7 @@ Plaiting a dark-red love-knot into her long black hair.
 ALFRED NOYES.
 ```
 
-So here it is 
+So here it is...
 
 ```{admonition} *My first attempt at a telling...*
 :class: dropdown
