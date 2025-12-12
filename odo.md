@@ -817,11 +817,6 @@ Bishop Gosfrith with his nephew, depopulating Bath, and Berkeley, and part of th
 
 --
 
-https://archive.org/details/literaltranslati00gurn/page/240/mode/2up?q=odo
-A literal translation of the Saxon Chronicle
-by Gurney, Anna, 1795-1857
-Publication date 1819
-
 pp. 394-400
 
 TO DO
@@ -894,6 +889,19 @@ Some have conjectured that Wulfnoth,! the brother of Harold, may have passed the
 ---
 
 https://archive.org/details/dli.ministry.02748/page/396/mode/2up?q=%22isle+of+wight%22
+History of the four conquests of England
+by Augustus, James
+
+Publication date 
+1862
+
+
+https://archive.org/details/literaltranslati00gurn/page/240/mode/2up?q=odo
+A literal translation of the Saxon Chronicle
+by Gurney, Anna, 1795-1857
+Publication date 1819
+
+
 
 ---
 
@@ -905,45 +913,20 @@ Publication date 1765
 
 
 --
-
-
-The history of England from the first invasion to the Romans to the accession of William and Mary in 1688. --
+https://archive.org/details/vol2historyofeng00ling/page/18/mode/2up?q=%22During+his+absence+the+king+had+intrusted%22
+The history of England from the first invasion to the Romans to the accession of William and Mary in 1688. Vol. 2
 by Lingard, John, 1771-1851
 
-Publication date 1902
-p 439
+TO DO
 
-THE REGENTS.
+Publication date 1825
+p. 18-21
 
-supported by other evidence. The superiority of the chap. English artists was so generally acknowledged, that a.d. 1067. articles of delicate workmanship in embroidery, or in the precious metals, were usually denominated by the other European nations "opera Anglica" or English work.1
+During his absence the king had intrusted the reins of government to William Fitz-Osbern, and Odo, bishop of Bayeux. Odo was his uterine brother, the son of Herleva by her husband Herluin. `[Herleva married Herluin after the death of Robert. Her children by this marriage were Robert, earl of Mortagne; Odo, bishop of Bayeux; and a daughter, countess of Albemarle. — Will. Gem. vii. 3; viii. 37.]` The favour of William had promoted him at an early age to the see of Bayeux; and he soon displayed extraordinary abilities both in the administration of his diocese, and in the counsels of his sovereign. He possessed a splendid revenue, and spent it in beautifying his episcopal city, and rewarding the services of his retainers. In obedience to the canons he forbore to carry arms; but he constantly attended his brother in battle, and assisted with his advice in every military enterprise. "He was," says a historian who had probably shared in his bounty, "a prelate of such rare and noble qualities, that the English, barbarians as they were, could not but love him and fear him." `[Piet. 152]` On the other hand, we are assured by another  Norman, but a less partial writer, that his character was a compound of vice and virtue; and that, instead of attending to the duties of his station, he made riches and power the principal objects of his pursuit. `[Orderic, 255.]`
 
-During his absence the king had intrusted the reins of government to William Fitz-Osbern, and Odo, bishop of Bayeux. Odo was his uterine brother, the son of Herleva by her husband Herluin.2 The favour of William had promoted him at an early age to the see of Bayeux; and he soon displayed extraordinary abilities both in the administration of his diocese, and in the counsels of his sovereign. He possessed a splendid revenue, and spent it in beautifying his episcopal city, and rewarding the services of his retainers.
+To Odo had been assigned the government of Kent, the inhabitants of which, from their frequent intercourse with the continent, were deemed less savage than the generality of their countrymen. `[Unde a minus feris hominibus incolitur. Pict. 152]` The remainder of the kingdom was committed to the vigilance of Fitz-Osbern, a Norman baron, related on the mother's side to the ducal family. William and he had grown up together from their infancy; and the attachment of their childish years had been afterwards strengthened by mutual services. In every civil commotion Fitz-Osbern had supported his sovereign; to his influence was attributed the determination of William to invade England; and to the praise of consummate wisdom in the cabinet he added that of unrivalled courage in the field. He was considered the pride of the Normans and the scourge of the English. `[Pidt. 151.]`
 
-In obedience to the canons he forbore to carry arms; but he constantly attended his brother in battle, and assisted with his advice in every military enterprise.
-
-"He was," says a historian who had probably shared in his bounty, "a prelate of such rare and noble "qualities, that the English, barbarians as they "were, could not but love him and fear him." 3 On the other hand, we are assured by another well-informed and less partial writer, that his character was a compound of vice and virtue; and that, instead of attending to the duties of his station, he made riches and power the principal objects of his pursuit.4
-
-1 Leo Marsicanus apud Muratori, Antiq. Med. HCvi, diss. Iviii.
-2 Herleva married Herluin after the death of Robert. Her children by this marriage were Robert, earl of Mortagne; Odo, bishop of Bayeux; and a daughter, countess of Albemarle. — Will.
-Gem. vii. 3; viii. 37.
-2 Piet. 153. 4 Orderic, 255.
-
-440
-WILLIAM I.
-CHAP. VIII. A.D. 1067
-To Odo had been assigned the government of Kent, the inhabitants of which, from their frequent intercourse with the continent, were deemed less savage than the generality of their countrymen.1 The remainder of the kingdom was committed to the vigilance of Fitz-Osbern, a Norman baron, related on the mother's side to the ducal family. William and he had grown up together from their infancy; and the attachment of their childish years had been afterwards strengthened by mutual services. In every civil commotion Fitz-Osbern had supported his sovereign; to his influence was attributed the determination of William to invade England; and to the praise of consummate wisdom in the cabinet he added that of unrivalled courage in the field. He was considered the pride of the Normans and the scourge of the English.2
-
-The previous merits of these ministers must be received on the word of their panegyrist; but their subsequent conduct does not appear to merit the confidence which was reposed in them by their sovereign; and to their arrogance and rapacity should be attributed the insurrections, forfeitures, and massacres, which so long afflicted this unhappy country, and which at last reduced the natives to a state of beggary and servitude. As soon as they entered on their high office, they departed from the system of conciliation which the king had adopted, and assumed the lofty mien and the arrogant manners of conquerors. The complaints of the injured were despised; aggression was encouraged by impunity; and the soldiers in the different garrisons insulted the persons, abused the
-1 Unde a minus feris hominibus incolitur. — Piet. i?2. s Piet. 1 5 1.
-
-NATIVES REVOLT.
-441
-wives and daughters, and rioted at free quarters on the property of the natives.1 The refusal of redress awakened the indignation of the English; and in this moment of national effervescence, if an individual had come forward able to combine and direct the general hostility, the Norman ascendancy would probably have been suppressed. But the principal chieftains were absent; and the measures of the insurgents, without system or connection, were the mere result of sudden irritation, and better calculated for the purpose of present revenge than of permanent deliverance. Neither were the natives unanimous. Numbers attended more to the suggestions of selfishness than of patriotism: the archbishop of York and several of the prelates, many thanes, who had hitherto been undisturbed, and the inhabitants of most of the towns, whose prosperity depended on the public tranquillity, remained quiet spectators of the confusion around them. Some even lent their aid to put down the insurgents.2
-
-1 Orderic, 203.
-s Ibid. 206.
-l
-
+The previous merits of these ministers must be received on the word of their panegyrist; but their subsequent conduct does not appear to merit the confidence which was reposed in them by their sovereign; and to their arrogance and rapacity should be attributed the insurrections, forfeitures, and massacres, which so long afflicted this unhappy country, and which at last reduced the natives to a state of beggary and servitude. As soon as they entered on their high office, they departed from the system of conciliation which the king had adopted, and assumed the lofty mien and the arrogant manners of conquerors. The complaints of the injured were despised; aggression was encouraged by impunity; and the soldiers in the different garrisons insulted the persons, abused the wives and daughters, and rioted at free quarters on the property of the natives. `[Orderic, 203.]` The refusal of redress awakened the indignation of the English; and in this moment of national effervescence, if an individual had come forward able to combine and direct the general hostility, the Norman ascendancy would probably have been suppressed. But the principal chieftains were absent; and the measures of the insurgents, without system or connection, were the mere result of sudden irritation, and better calculated for the purpose of present revenge than of permanent deliverance. Neither were the natives unanimous. Numbers attended more to the suggestions of selfishness than of patriotism: the archbishop of York and several of the prelates, many thanes, who had hitherto been undisturbed, and the inhabitants of most of the towns, whose prosperity depended on the public tranquillity, remained quiet spectators of the confusion around them. Some even lent their aid to put down the insurgents. `[Oideric, 206.]`
 
 ---
 
