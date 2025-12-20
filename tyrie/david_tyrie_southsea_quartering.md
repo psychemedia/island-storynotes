@@ -287,7 +287,7 @@ At the Sessions this Day at the Old Bailey, John Graham, was tried for a Misdeme
 *The trial of John Graham, as well as his wife, provides yet another tale, but that is one that I will have to tell elsewhere...*
 
 ```{admonition} John Graham, trial and memoir
-
+:class: dropdown seealso
 See also [John Graham, trial and memoir](./john_graham_memoir.md).
 ```
 
@@ -960,7 +960,7 @@ I'll expect to hear from you to-morrow.—Your ever faithful and obliged friend.
 Mr. John Graham."
 ```
 
-Unsurpisingly, there was consider interest in the story north of the border, so it's not surprising that a reasonably comprehensive report of the trial also appeared in *The Scots Magazine*.
+Unsurpisingly, there was considerable interest in the story north of the border, so it's not surprising that a reasonably comprehensive report of the trial also appeared in *The Scots Magazine*.
 
 ```{admonition} The Trial of David Tyrie, August 1782
 :class: dropdown
@@ -1076,6 +1076,9 @@ The Scots Magazine - August 1782
 ```
 
 
+TO DO TH: the following incorrectly?? suggest s gibbeting near where John the Painter was gibbeted?
+
+
 ```{admonition} A certain American, August 1782
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820829/013/0003
@@ -1097,16 +1100,6 @@ Bath Chronicle and Weekly Gazette - Thursday 19 July 1781
 
 ```
 
-
-
-TH: the following incorrectly?? suggest s gibbeting near where John the Painter was gibbeted?
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820829/013/0003
-Stamford Mercury - Thursday 29 August 1782
-
-By a Gentleman who arrived in town last night from Portsmouth, we are informed that David Tyrie, who was convicted at the last Winchester assize, for holding a treasonable correspondence with the French Ministry, was taken from the prison of that city, early on Saturday morning last, to Portsmouth, where he was on a gibbet erected for the purpose, in the presence of an immense crowd of people. The unhappy man it is said to have behaved throughout with such a decent fortitude that most of the spectators seemed sensibly affected at his misfortunes, and treated him with great tenderness at the place of execution. His body is to be hung in chains at the Gosport side, near Blockhouse fort.
-
-Tyrie, a short time before execution, made a full discovery of his accomplices, one of them is in custody, and remains to be tried; but the prisoner has discovered, that his employment was a regular and well digested system of information, in the conveying of which no pains or expence was spared. It appears that a certain American, who lately took a trip over to Paris, has been the principal planner and conductor of the scheme, and got his neck out of the halter, by suffering La Motte, Tyrie, and others, to be apprehended and executed, when he himself was the greater culprit. By some means or other these incendiaries not only got at the Admiralty orders, but they informed the French Court of the actual force and destination of our fleets long before they were equipped, and by such means rendered their expeditions abortive.
 
 
 ```{admonition} The life and trial of F. H. de la Motte, 1781
@@ -1218,6 +1211,7 @@ TO DO
 
 
 ```{admonition} Indicted for Aiding and Abetting an Escape Attempt, January 1783
+:class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830120/014/0003?browse=true
 Hampshire Chronicle - Monday 20 January 1783
 
@@ -1312,7 +1306,7 @@ Yesterday the report was made to his Majesty in Council of the prisoners under s
 The following are respited during his Majesty's pleasure, viz. ... Jane Graham (wife of Graham ordered for execution) ... 
 ```
 
-```{admonition} John Graham et al. executed, October 11782
+```{admonition} John Graham et al. executed, October 1782
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000189/17821010/016/0004
 Derby Mercury - Thursday 17 October 1782 (in BNA, given as 10 October)
