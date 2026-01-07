@@ -234,6 +234,12 @@ Well, I think it high time that you hop the twig.
 The illustrations, from the pencil of Thomas Hood's son, have really very great merit; for they are intensely humorous, and very suggestive of the moral of the story. The appearance of Piggy himself through the various stages of his career is very admirably preserved; and the minor illustrations, which allegorically typify the dangers and temptations which beset him, from the callow nestling falling into the jaws of the attentive cat, and the spider weaving her snares for the unthinking fly, down to the suggestive group composed of a butcher's keen knife, string of sausages, ham, and carcase of poor Piggy, form a very agreeable commentary upon the whole story. In a few prefatory lines, written by Mrs. Broderip (Hood's daughter), we are told that both she and her brother feel that they are fulfilling what would have been their father's own wish, in giving to another generation of little girls and boys the veritable history of Piggy's chequered career; but whether Hood did or did not intend them to be published, we are quite sure that many little readers will receive it with the warmest welcome.
 
 
+--
+
+Old woman and pig
+
+https://github.com/psychemedia/childrens-stories/blob/main/old_woman_and_pig.md
+
 
 
 ---
@@ -249,6 +255,32 @@ Publication date 1969
 ---
 
 And also of course "This little pig went to market" nursery rhyme.
+
+https://books.google.co.uk/books?id=alsCAAAAQAAJ&printsec=frontcover&dq=Popular+Rhymes+and+Nursery+Tales+1853&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=snippet&q=went%20to%20market&f=false
+
+The nursery rhymes of England, ed. by J.O. Halliwell
+
+p172
+
+CCCXVIII
+
+[A song set to five fingers.]
+
+\1. This pig went to market;  
+\2. This pig staid at home;  
+\3. This pig had a bit of meat;  
+\4. And this pig had none;  
+\5. This pig said, Wee, wee, wee!  
+    I can't find my way home.
+
+which i remember as
+
+This little pig went to market,  
+This little pig stayed at home,  
+This little pig had roast beef,  
+This little pig had none,  
+And this little pig went  
+Wee, wee, wee, all the way home.
 
 
 
