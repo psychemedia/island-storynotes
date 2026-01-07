@@ -70,11 +70,74 @@ We see also there were pigs at the farm there from an advertisement in the *Hamp
 
 In *Jenkinson's practical guide to the Isle of Wight*, [p65](https://archive.org/details/jenkinsonspract00jenkgoog/page/n158/mode/2up?q=%22merry+garden%22).
 
-The tourist may descend to Borthwood farm and return to Sandown by a footpath which passes near the waterworks by Black Pan Common ; or he may continue on the road by the hamlet of Borthwood, and a small Methodist chapel to the village of Lake,' passing the Lee and Merry garden farms : the latter is a pleasant-looking place, said to have been once famous for its cherry gardens, hence its name from the French, merise — ^wild cherry.
+The tourist may descend to Borthwood farm and return to Sandown by a footpath which passes near the waterworks by Black Pan Common; or he may continue on the road by the hamlet of Borthwood, and a small Methodist chapel to the village of Lake,' passing the Lee and Merry garden farms : the latter is a pleasant-looking place, said to have been once famous for its cherry gardens, hence its name from the French, merise — ^wild cherry.
 
 ```
 
-The tale was reprinted in Jacobs' *English Fairy Tales* of 1890, and opens with a rhyme:
+I also wonder whether the following song could be used as part of a set up where the mother sow is killed and the little pigs are orphaned?!
+
+```{admonition} Shooting the sow, Fol the rol, 1881
+:class: dropdown
+
+https://archive.org/details/originalglossari12skeauoft/page/48/mode/2up
+Original glossaries. 23. Isle of Wight words
+by Skeat, Walter W. (Walter William), 1835-1912
+
+Publication date 1881
+
+The following song, which constituted part of the vocal entertainment at the home-harvest at Landguard, I give from memory. Mr. Halliwell-Phillipps has printed two versions of it in his 'Nursery Rhymes' for the Percy Society, 1844. It will be seen that mine is more complete. ...
+
+1.
+
+The old carrion crow he sat upon an oak,  
+Fol the rol, the rol, the rol, the rido.  
+And he saw a saucy tailor cutting out a coat,  
+With heigho, the old carrion crow cried caa, caa,  
+Fol the rol, &c.
+
+2.
+
+"Wife, go and fetch me my arrow and my bow,"  
+Fol the rol, &c.  
+"That I may shoot this old carrion crow  
+That cries caa, caa, caa,"  
+Fol the rol, &c.
+
+3.
+
+The tailor he shot, but he missed his mark;  
+Fol the rol, &c.  
+And he shot his neighbour's old sow through and through the heart,  
+With heigho, the old carrion crow cried caa, caa,  
+Fol the rol, &c.
+
+4.
+
+"Wife, go and fetch me some treacle in a spoon;"  
+Fol the rol, &c.  
+"For our neighbour's old sow is gone into a swoon;  
+With heigho, the old carrion crow cried caa, caa,  
+Fol the rol, &c.
+
+5.
+
+"Od dang it," cried the tailor, "I don't care a louse,"  
+Fol the rol, &c.  
+"For we shall have chitterlings, black puddings, and souse;  
+With heigho, the old carrion crow cried caa, caa,  
+Fol the rol, &c.
+
+6.
+
+Oh, the bells they did ring, and the bells they did toll;  
+Fol the rol, &c.  
+And the little pigs squeak'd for the old sow's soul;  
+With heigho, the old carrion crow cried caa, caa,  
+Fol the rol, &c.
+
+```
+
+The *Three Little Pigs* tale was reprinted in Jacobs' *English Fairy Tales* of 1890, and opens with a rhyme:
 
 ```{admonition} *The Story of the Three Little Pigs*, Jacobs, 1890
 :class: dropdown
@@ -83,18 +146,16 @@ In *English Fairy Tales*, Joseph Jacobs, 1890, [pp.68-72](https://archive.org/de
 
 XIV. The Story of the Three Little Pigs
 
-Once upon a time when pigs spoke rhyme
-And monkeys chewed tobacco,
-And hens took snuff to make them tough,
+Once upon a time when pigs spoke rhyme 
+And monkeys chewed tobacco,  
+And hens took snuff to make them tough,  
 And ducks went quack, quack, quack, O!
 
-THERE was an old sow with three little pig and as she had not enough to keep them, sh sent them out to seek their fortune. The fin that went off met a man with a bundle of straw, and sat to him:
+THERE was an old sow with three little pig and as she had not enough to keep them, she sent them out to seek their fortune. The first that went off met a man with a bundle of straw, and said to him:
 
 "Please, man, give me that straw to build me house."
 
-Which the man did, and the little pig built a house
-
-with it Presently came along a wolf, and knocked at the door, and said:
+Which the man did, and the little pig built a house with it. Presently came along a wolf, and knocked at the door, and said:
 
 "Little pig, little pig, let me come in."
 
@@ -335,7 +396,7 @@ One day she called her sons to her, and, with tears in her eyes, told them that 
 
 She kissed them all round, and the three little pigs set out upon their travels, each taking a different road, and carrying a bundle slung on a stick across his shoulder.
 
-The first little pig had not gone far before he met a man carrying a bundle of straw ; so he said to him, "Please, man, will you give me that straw to build me a house?" The man was very good-natured, so he gave him the bundle of straw, and the little pig built a pretty little house with it.
+The first little pig had not gone far before he met a man carrying a bundle of straw; so he said to him, "Please, man, will you give me that straw to build me a house?" The man was very good-natured, so he gave him the bundle of straw, and the little pig built a pretty little house with it.
 
 No sooner was it finished, and the little pig thinking of going to bed, than a wolf came along, knocked at the door, and said, "Little pig, little pig, let me come in."
 
@@ -361,7 +422,7 @@ But the little pig answered: "No, no, by the hair of my chinny chin-chin."
 
 "Then," said the wolf "I'll huff, and I'll puff, and I'll blow your house in."
 
-Well, he huffed and he puffed, and he puffed and he huffed, and he huffed and he puffed ; but he could not get the house down. At last he had no breath left to huff and puff with, so he sat down outside the little pig's house and thought for awhile.
+Well, he huffed and he puffed, and he puffed and he huffed, and he huffed and he puffed; but he could not get the house down. At last he had no breath left to huff and puff with, so he sat down outside the little pig's house and thought for awhile.
 
 Presently he called out: "Little pig, I know where there is a nice field of turnips."
 
@@ -401,7 +462,7 @@ He did not know what to do, so he crept into the churn to hide, and, by so doing
 
 Down the hill it went, rolling over and over, with the little pig squeaking inside.
 
-The wolf could not think what the strange thing rolling down the hill could be ; so he turned tail and ran away home in a fright without ever going to the fair at all. He went to the little pig's house to tell him how frightened he had been by a large round thing which came rolling past him down the hill.
+The wolf could not think what the strange thing rolling down the hill could be; so he turned tail and ran away home in a fright without ever going to the fair at all. He went to the little pig's house to tell him how frightened he had been by a large round thing which came rolling past him down the hill.
 
 "Ha! ha!" laughed the little pig; "so I frightened you, eh? I had been to the fair and bought a butter-churn; when I saw you I got inside it and rolled down the hill."
 
