@@ -249,25 +249,41 @@ The word *dout* (do out) is not confined to the Isle of Wight; and it occurs in 
 
 The following poem has been printed in 'The Gentleman's Magazine' (1863), appended to a brief memoir I gave of the writer, my cousin, Mrs. Moncrieff. It was composed and written for this Glossary on her death-bed, at the Bride of Earn, near Perth. Mrs. Moncrieff was born at Wroxall, three or four miles distant from Landguard, our birth-place; and there she lived until her marriage. The poem contains some words which were not in my brother's list; and of these two or three may have been almost obsolete by the time my brother, considerably her junior, entered upon the duties of the farm. The poem has merit beyond its dialectic interest; and has justly been admired. The late Mr. Albert Way called it "charming;" and urged me to reprint it.
 
-TO DO
-
 A DREAM OF THE ISLE OF WIGHT.
 
-"I dreampt of thee, Yectis, and thine, as of yore: Joy thou in thy change, while mine I deplore. My dream was of seeking for emmets again, For my pheasants, in nooks made soft by the rain. I was climbing the shoot at the side of the butt; The path by a founder of hummock was shut. So I lopped o'er the fence to the ramshackled shed, Where cattle was foddered, and mud calves were fed. For good cowed milk, thought I, this will do; But the kittle was empty; the cows were assue. A man in a corner, in smock frock and Strogs, Lolled, lazily sorting the mores and the logs; For he grubbed like a want; one source of his pelf, Being, trapping the heaving blind roamer himself: A larapping fellow, a native I'll vouch By his hybrid gait, twixt a lounge and a slouch. He was dunch as a plock; and fully as dull; Then, inwardly grumbling, he handled a zull Which he wistfully tighted from right hand to left; And then declined meddling because of the heft
-
+"I dreampt of thee, Vectis, and thine, as of yore:  
+Joy thou in thy change, while mine I deplore.  
+My dream was of seeking for emmets again,  
+For my pheasants, in nooks made soft by the rain.  
+I was climbing the shoot at the side of the butt;  
+The path by a founder of hummock was shut.  
+So I lopped o'er the fence to the ramshackled shed,  
+Where cattle was foddered, and mud calves were fed.  
+For good cowed milk, thought I, this will do;  
+But the kittle was empty; the cows were assue.  
+A man in a corner, in smock frock and strogs,  
+Lolled, lazily sorting the mores and the logs;  
+For he grubbed like a want; one source of his pelf,  
+Being, trapping the heaving blind roamer himself:  
+A larapping fellow, a native I'll vouch  
+By his hybrid gait, twixt a lounge and a slouch.  
+He was dunch as a plock; and fully as dull;  
+Then, inwardly grumbling, he handled a zull  
+Which he wistfully tighted from right hand to left;  
+And then declined meddling because of the heft.
 From a neighbour's small bargain, a plot of few Ings  
 He cultures as garden, and as freehold hugs;  
-Where too, among greens, small fruits, and rucls,  
+Where too, among greens, small fruits, and ruds,  
 A wire stops the hare, as nibbling she scuds.  
 Out thence the fleet comer never will go;  
-But wait, in close covert, the thuckster's ' So, ho.  
+But wait, in close covert, the thuckster's 'So, ho.'  
 The cur at his heel can larger game harry,  
 A lank scaithy whelp, trained to fetch and to carry.  
 As he skulks through the copses for sparods and ledgers,  
 Which he stealthily sells to thatchers and hedgers.  
 He, with the long yawn of habitual delay,  
 Said, - 'Tell me aneuse the time of the day;  
-The duck's coming on; I'll be off in astore,^  
+The duck's coming on; I'll be off in astore,  
 The fry will be burnt, though 'twas swimming galore:  
 My Gimmer's at market; one calf she will sell,  
 Eeserving the lebb, pluck, and haslet as well.  
@@ -292,19 +308,20 @@ Leaving Yectis identical only in place."
 
 The following extracts are in point, both as showing Major Smith's perception of deviations from strict local pronunciation, and as examples of the dialect.
 
-"Did you read Zeary Tullidge's evidence in 'The Hampshire Independent'? There was some pretty genuine Isle of Wight dialect, with one or two exceptions, where they make her say 'werry' instead of 'very.' This she never pronounced in that way 'I'll be bound vor't.' Who ever heard an Isle of Wight person talk like that? Noobody upon the feyace of the yeath I know! They can pronounce the V well enough in the Island; and of all other letters in the alphabet they use it the most frequently, and almost invariably instead of the F; more particularly when that letter is the leading consonant. For instance, they would not say, 'The first frost froze the floor;' but 'the vust vrost vroze the vloor:' therefore it is not likely wold Zeary called very 'werry.'"
+"Did you read Zeary Tullidge's evidence in 'The Hampshire Independent'? There was some pretty genuine Isle of Wight dialect, with one or two exceptions, where they make her say 'werry' instead of 'very.' This she never pronounced in that way 'I'll be bound vor't.' Who ever heard an Isle of Wight person talk like that? Noobody upon the feyace of the yeath I know! They can pronounce the V well enough in the Island; and of all other letters in the alphabet they use it the most frequently, and almost invariably instead of the F; more particularly when that letter is the leading consonant. For instance, they would not say, 'The first frost froze the floor;' but 'the vust vrost vroze the vloor:' therefore it is not likely wold Zeary called *very* 'werry.'"
 
 HANTS COUNTY SESSIONS. Saturday, October 26, 1844.
 
-"Sarah Header (17) was charged with stealing half-a-crown from the widow Tullage, a garrulous old daine o'er whose brows the snows of nearly eighty winters had passed. The manner of her giving her evidence created no little amusement in the Court. 'That ere gal,' said she, 'cum into my house a vortnight gorn by, an axed me if I wanted a cap. I zed I didn't as I kuow'd on. She axed zixpence for un; then vourpence. I took dreepence out o' th' zugar pot a' top o' the dresser, where zhe zet, and gid her vor un. There was a pus in the pot wi' a half-crown in un. She had un thirty years; and she could recollect the giver; and the pus had sliding rings, and a hole in the middle to put the money in. I took out the pus, and zhe zid un; and then I gid her a apple to make ur a pudden, and I put the pus in the pot agen, and when zhe was gone the pus was gone. I never zid ur take un, cause I turned my back to ur, and he hadn't got eyes in un; but I heer' d suinmat rattle, and there was ne'er a child there, nor nobody else wasn't there; no, nobody, neither chick nor child. I wexed wery much about un; but I never zid the pus agen. A thief and a liar be two o' the wost things in the wordle. Zhe dedn't lave me a hapenny to help myself, and I be zebnty-zebn, and ben a slave all my lite.'
+"Sarah Header (17) was charged with stealing half-a-crown from the widow Tullage, a garrulous old daine o'er whose brows the snows of nearly eighty winters had passed. The manner of her giving her evidence created no little amusement in the Court. 'That ere gal,' said she, 'cum into my house a vortnight gorn by, an axed me if I wanted a cap. I zed I didn't as I know'd on. She axed zixpence for un; then vourpence. I took dreepence out o' th' zugar pot a' top o' the dresser, where zhe zet, and gid her vor un. There was a pus in the pot wi' a half-crown in un. She had un thirty years; and she could recollect the giver; and the pus had sliding rings, and a hole in the middle to put the money in. I took out the pus, and zhe zid un; and then I gid her a apple to make ur a pudden, and I put the pus in the pot agen, and when zhe was gone the pus was gone. I never zid ur take un, cause I turned my back to ur, and he hadn't got eyes in un; but I heer' d suinmat rattle, and there was ne'er a child there, nor nobody else wasn't there; no, nobody, neither chick nor child. I wexed wery much about un; but I never zid the pus agen. A thief and a liar be two o' the wost things in the wordle. Zhe dedn't lave me a hapenny to help myself, and I be zebnty-zebn, and ben a slave all my life.'
 
-"The old woman was again placed at the bar, and being desired to look at the prisoner again, she exclaimed, 'No, no, I never wants to zee her veace agen. I ded zay I thought zhe waan't zoo tall; but zhe had un. My zight edn't very good, but that be zhe;' and turning round she exclaimed to the prisoner with great vehemence of manner, 'Ye huzzy, what do 'e think ull become o' ee? The devil 'ull have 'ee as zure as thee beest alive. Thee ought to ha' thee vlesh flogged from thee boanes, to zarve a poor ould woman zo.'"
+"The old woman was again placed at the bar, and being desired to look at the prisoner again, she exclaimed, 'No, no, I never wants to zee her veace agen. I ded zay I thought zhe waan't zoo *tall*; but zhe had un. My zight edn't very good, but that be zhe;' and turning round she exclaimed to the prisoner with great vehemence of manner, 'Ye huzzy, what do 'e think ull become o' ee? The devil 'ull have 'ee as zure as thee beest alive. Thee ought to ha' thee vlesh flogged from thee boanes, to zarve a poor ould woman zo.'"
 
 The use of the present for the past tense in the verb to come, exemplified in the foregoing report, is universal in the Isle of Wight and throughout Hampshire also; and it is by no means confined to the uneducated. In the course of the Tichborne trial the faulty orthography of the Claimant's writing was commented on. The Lord Chief Justice remarked that the letters of the real Sir Roger were not free from grammatical errors; and he instanced an example of the use of the present instead of the past tense, not knowing that this very fact tended to show his Hampshire origin, and that this peculiar error would not be likely to occur in the writing or speaking of a Londoner.
 
 A clever poem which appeared in 'Punch' in 1855, is, like the above report, convicted of mistakes which prove, as my brother remarks, that it could not well have been written by a native of the Island
 
- ZONG (AS) ZUNG AT ZHORREL HARVEST WHOAM! (Metre and Idiom purely Isle of Wight.)
+ZONG (AS) ZUNG AT ZHORREL HARVEST WHOAM!  
+*(Metre and Idiom purely Isle of Wight.)*
 
 "O Tommus, young Tommus, wot bist thee about,  
 Wee that bit o' rooap, aal zo thic' an zo ztout;  
@@ -343,7 +360,7 @@ Zpeake Tommus, young Tommus, zpeak out, and zpeak true."
 
 "Oh, Dannul, oh, Dannul, the truth I wool zpeak,  
 I'me zick o' my loife, vor a young ooman's zeak;  
-'Tes along o' Ziuanner, I axed her to wed, 4  
+'Tes along o' Ziuanner, I axed her to wed,  
 Goolong thee gurt zoat, no I wunt,' then zhe zed.
 
 "I zought vor to meak her my broide and my deear,  
@@ -361,48 +378,53 @@ From a Contributor to Punch. (Oct., 1855.)
 
 The following song, which constituted part of the vocal entertainment at the home-harvest at Landguard, I give from memory. Mr. Halliwell-Phillipps has printed two versions of it in his 'Nursery Rhymes' for the Percy Society, 1844. It will be seen that mine is more complete. In 1834 Mr. Buckstone introduced it in 'The May Queen'; but very imperfectly. In a note to the printed copy he says, "This song was sung about the streets of London more than forty years ago, by an old street-singer, who never sang any other; the late Mr. Charles Dibden, the younger, who had heard him, wrote the words from recollection, and at my request presented me with a copy." — J. B. B. It will be seen that, on comparing it with mine, it is a poor paraphrase, void of all the spirit and character of the original.
 
+1.
+
 The old carrion crow he sat upon an oak,  
 Fol the rol, the rol, the rol, the rido.  
 And he saw a saucy tailor cutting out a coat,  
 With heigho, the old carrion crow cried caa, caa,  
 Fol the rol, &c.
 
-"Wife, go and fetch me my arrow and my bow,"
+2.
 
-Fol the rol, &c. "That I may shoot this old carrion crow
-
-That cries caa, caa, caa," Fol the rol, &c.
+"Wife, go and fetch me my arrow and my bow,"  
+Fol the rol, &c.  
+"That I may shoot this old carrion crow  
+That cries caa, caa, caa,"  
+Fol the rol, &c.
 
 3.
 
-The tailor he shot, but he missed his mark;
-
-Fol the rol, &c. And he shot his neighbour' s old sow through and through the
-
-heart,
-
-With heigho, the old carrion crow cried caa, caa, Fol the rol, &c.
-
-"Wife, go and fetch me some treacle in a spoon; "
-
+The tailor he shot, but he missed his mark;  
+Fol the rol, &c.  
+And he shot his neighbour's old sow through and through the heart,  
+With heigho, the old carrion crow cried caa, caa,  
 Fol the rol, &c.
 
+4.
+
+"Wife, go and fetch me some treacle in a spoon;"  
+Fol the rol, &c.  
 "For our neighbour's old sow is gone into a swoon;  
-With heigho, the old carrion crow cried caa, caa, Fol the rol, &c.
-
-5. "Od dang it," cried the tailor, "I don't care a louse,"
-
+With heigho, the old carrion crow cried caa, caa,  
 Fol the rol, &c.
 
+5.
+
+"Od dang it," cried the tailor, "I don't care a louse,"  
+Fol the rol, &c.  
 "For we shall have chitterlings, black puddings, and souse;  
-With heigho, the old carrion crow cried caa, caa, Fol the rol, &c.
-
-6. Oh, the bells they did ring, and the bells they did toll;
-
+With heigho, the old carrion crow cried caa, caa,  
 Fol the rol, &c.
 
-And the little pigs squeak' d for the old sow's soul;  
-With heigho, the old carrion crow cried caa, caa, Fol the rol, &c.
+6.
+
+Oh, the bells they did ring, and the bells they did toll;  
+Fol the rol, &c.  
+And the little pigs squeak'd for the old sow's soul;  
+With heigho, the old carrion crow cried caa, caa,  
+Fol the rol, &c.
 
 We have here the arrow and the bow; the treacle (probably the theriac composition so extolled as a curative); and the satirical finale, which claim for the song a far higher antiquity than the other versions denote; and one of these is of the time of Charles I.
 
@@ -523,11 +545,11 @@ So drink, boys, drink, etc.
 
 If the entire families of the men-folk did not attend the feast, they were not forgotten. The remnants, ever substantial, were sent to their homes. Home-harvest, or harvest-home, is now a custom of the past. I can boast of having assisted in early life at four; at North Stoneham and Nursling near Southampton; and at Landguard and Apse in the Isle of Wight.
 
-SAYIN GS.
+SAYINGS.
 
 WHEN St. Catharine wears a cap,  
 Then all the Island wears a hat.  
-. When the clay beats the sand,  
+When the clay beats the sand,  
 Then 'tis merry England.  
 When the sand beats the clay,  
 Then, Old England, well-a-day.  
@@ -551,9 +573,8 @@ A rainbow in the morning is the shepherd's warning.
 Evening red and morning grey,  
 Are sure signs of a fine day.
 
-If the ice be strong enough to bear a man before Christmas, it will not bear a goose after.
-
-The last two winters have not verified this saying.
+If the ice be strong enough to bear a man before Christmas, it will not bear a goose after.  
+*The last two winters have not verified this saying.*
 
 Mares' tails and a mackerel sky,  
 Not four and twenty hours dry.  
@@ -565,8 +586,7 @@ Winter will have another flight:
 If Candlemas day be clouds and rain,  
 Winter is gone and won't come again.
 
-When the wind is in the east
-
+When the wind is in the east  
 'Tis good for neither man nor beast.
 
 Magpies. One, sorrow; two, mirth;  
