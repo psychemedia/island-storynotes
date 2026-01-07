@@ -1,6 +1,20 @@
 # The Sandown Barracks Master Affair, 1806
 
 
+
+
+https://api.parliament.uk/historic-hansard/commons/1806/may/21/barrack-abuses
+HANSARD 21 May 1806, Commons Sitting
+BARRACK ABUSES.
+HC Deb 21 May 1806 vol 7 cc293-5
+
+Lord H. Petty rose, and observed, that before he proceeded to the statement of the business, of which he had given notice, he trusted the house would indulge him with their attention for a few moments, while he said something respecting what had lately passed in the house concerning the barrack department. It would be in the recollection of the house that, when the hon, gent. behind him (Mr. Robson) brought forward some motions on that subject, one of them had been agreed to, while the previous question had been moved and carried with respect to the others. This, the house would recollect, had been done in the absence of all explanation, as to the object which the hon. gent. had in view, that was intelligible to him, or he believed, that could be intelligible to any person in the house. He had moved the previous question, with a view to induce the hon. gent. to come forward with the necessary information, and also with the intention, in case he should still refuse, to examine into the business himself, and find it out either with or without his assistance. He now flattered himself, that he had discovered the object of these motions. He found that they related to transactions, which took place in 1805, respecting the barns, hired as barracks, in the division of Sandown Bay, in the Isle of Wight, which were paid for at a very extravagant rate, when a building for barracks was offered at a much more reasonable expence. He would, therefore, under these circumstances, propose all the motions of the hon. gent., respecting which, the previous question had been before carried, and also add a new motion, which would relate to the barrack-master, who, it appeared, had hired these barns at an extravagant rent, and made an improper report, with regard to the building offered as a barrack. It was right that he should be called upon to explain his conduct, with respect to this 294transaction. He concluded, by moving for Copies of the letters from Mr. Day, of Brading, in the Isle of Wight, to the barrack-master of the Sandown Bay division, and to the secretary at war, respecting the building of a barrack at Brading, with the answers to them, if any; and a list of the barns, hired as barracks. In addition to these which had been previously called for, he moved for, a Copy of the report that had been made by major Davis, the barrack-master, relative to the proposals of Mr. Day, for building a barrack at Brading.
+Mr. Robson rose to second the motion, and at the same time to express some astonishment at the conduct of the noble lord throughout the whole of this business. Feeling it to be his privilege and right, as a member of parliament, to call for certain documents, respecting the extravagant expenditure of public money, he had given 4 days notice of his intention to move for those documents, that there might be no intention imputed to him of wishing to take the house by surprise. He accordingly made his motion, which he prefaced by such observations as he thought could leave no doubt upon the mind of any gent. who heard him, as to the object of his motion, and the intention with which he meant to follow it up. The noble lord thought proper to resist his motion, and to vote for the previous question; but now, when the extravagance of the barrack department, and the extraordinary opposition of the noble lord to his motion for papers to prove that extravagance, were in the mouth of every man who walked the public streets, the noble lord himself moved for a list of those very documents, which he verily believed was a copy of the identical motions which had been refused upon a former night. Really he thought it but reasonable to expect, that the noble lord's motion this day would have been accompanied by some apology for a conduct so unaccountable.
+
+Lord Henry Petty answered, that for the house he should certainly offer no apology for refusing, on such grounds as it thought fit, to comply with the motion alluded to; and for himself he thought it sufficient to state, that he was not, on the former night, made acquainted with the hon. gent.'s object, so as to justify him in assenting to his motion. He now was acquainted with the purposes of his motion, and therefore moved to produce the papers in question.
+
+Mr. Robson rose to explain, but was proceeding to a length which occasioned a general cry of chair! chair! upon which, the speaker reminded the hon. member of the order of the house, and he sat down.—The motions were then agreed to.
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18060526/008/0003
 Hampshire Chronicle - Monday 26 May 1806
 
@@ -86,29 +100,15 @@ Sir,—Having duly considered the several papers received in your letter of the 
 
 TO DO BELOW
 
-Master General, to the bhigr Barrack Master in the Isle of Wight, date!, Barrack Office, 19th Feb. 1806.
+Master General, to the bhigr Barrack Master in the Isle of Wight, dated, Barrack Office, 19th Feb. 1806.
 
-Six ;—I am directed by the’ Barrack Master General to transmit to you; the enclosed copy of aletter from the Sec: at War, respecting Mr. Atkins, Barrack Master of Sandown, and to desire you will immediately communicate the same to-him, and direct him to prepare to deliver up the. barracks, and stores, now. under his charge, to the person who may be appointed to succeed him. You will also direct him’ to prepare for closing- his accounts with this office, as Barrack Master at Sandown, to the ‘period, when the transfer of the barracks shall be made.—/( Signed) P- Carey, Dty. B. M: Gi.
+Sir,— I am directed by the Barrack Master General to transmit to you; the enclosed copy of a letter from the Sec. at War, respecting Mr. Atkins, Barrack Master of Sandown, and to desire you will immediately communicate the same to him, and direct him to prepare to deliver up the barracks, and stores, now under his charge, to the person who may be appointed to succeed him. You will also direct him to prepare for closing his accounts with this office, as Barrack Master at Sandown, to the period, when the transfer of the barracks shall be made.—( Signed) P. Carey, Dty. B. M: Gi.
 
-Copy of a Letter from. Mr. Atkins, to the Secretary ut War, dated Feb. 22d, 1800. Sir ;—I have this day the honor to receive, through Captain Bygrave, your order communicated to the Barrack Master General; with respect for your decision, I must beg leave to appeal to: your liberality, to be made acquainted with those charges preferred against me; and 10 permit, me to stand 2 fair and candid trial. Unconscidts that cu'pability could be attached to my_ pointing out situatious where vast savings might have been made to Government, I stepped, pethaps, beyond the line of my duty, not aware of the consequence. (Signed) B.W ATKINS,
+Copy of a Letter from. Mr. Atkins, to the Secretary ut War, dated Feb. 22d, 1800. Sir ;—I have this day the honor to receive, through Captain Bygrave, your order communicated to the Barrack Master General; with respect for your decision, I must beg leave to appeal to: your liberality, to be made acquainted with those charges preferred against me; and 10 permit, me to stand 2 fair and candid trial. Unconscious that culpability could be attached to my_ pointing out situations where vast savings might have been made to Government, I stepped, perhaps, beyond the line of my duty, not aware of the consequence. (Signed) B.W ATKINS,
 
-Copy of a Letter from the Deputy Secretary at War, te Mr, Atkins, dated, War OfJice, 27th Fel. 1800.
+Copy of a Letter from the Deputy Secretary at War, to Mr. Atkins, dated, War Office, 27th Feb. 1800.
 
-Six ;—In reply to your letter of the 22d instant, I am directed to acquaint you,
-
-that you were discharged from His Majesty s
-
-service in consequerice of misconduct in the
-
-discharge of your duties as Barrack Master, and viot as you erroneously conceive, from
-
-any statement you may have giver! with r-
-
-"spect to the rates of batracks hired in the
-
-Isle of Wight —(Signed) F. Moomt.
-
-sar * Sis GPL isi.
+Sir,— In reply to your letter of the 22d instant, I am directed to acquaint you, that you were discharged from His Majesty's service in consequence of misconduct in the discharge of your duties as Barrack Master, and not as you erroneously conceive, from any statement you may have given with respect to the rates of barracks hired in the Isle of Wight —(Signed) F. Moomtsar * Sis GPL isi.
 
 i ee > ch be Pa Pa: to''Mr, "Atkins
 
@@ -118,4 +118,4 @@ TO DO lots more
 
 TO DO ABOVE
 
-suffered, ought to do it; but, my hope is, that this distinction of feeling in the government and in the, public will never exist; and that the appearance of it, will, upon this occasion, be rendered impossible by the conduct of the government itself.As to the fact of his distress, they will not, I am sure, affect ignorance. They will read what I have here written, and when I tell them that I speak from my own knowledge, I know they will believe me. That he *may* have committed faults, I am by no means disposed to deny; but, to say nothing of the liability of us all to commit faults, what, let me ask, would be the fate of public officers in general, were they, for offences such as have been *alledged* against Mr. Atkins, to be punished as Mr. Atkins has been? What would be, nay, what *must* be, the consequence, if we take, as we are justified in taking, the decision against Mr. Atkins as a precedent for deciding with respect to the conduct of all other persons in places of public trust?
+suffered, ought to do it; but, my hope is, that this distinction of feeling in the government and in the, public will never exist; and that the appearance of it, will, upon this occasion, be rendered impossible by the conduct of the government itself. As to the fact of his distress, they will not, I am sure, affect ignorance. They will read what I have here written, and when I tell them that I speak from my own knowledge, I know they will believe me. That he *may* have committed faults, I am by no means disposed to deny; but, to say nothing of the liability of us all to commit faults, what, let me ask, would be the fate of public officers in general, were they, for offences such as have been *alledged* against Mr. Atkins, to be punished as Mr. Atkins has been? What would be, nay, what *must* be, the consequence, if we take, as we are justified in taking, the decision against Mr. Atkins as a precedent for deciding with respect to the conduct of all other persons in places of public trust?
