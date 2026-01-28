@@ -4,11 +4,11 @@ As a brief aside, in *The book of Hallowe'en*, 1919, [p112](https://archive.org/
 
 > In France from the twelfth to the fourteenth century stone buildings like lighthouses were erected in cemeteries. They were twenty or thirty feet high, with lanterns on top. On Hallowe'en they were kept burning to safeguard the people from the fear of night-wandering spirits and the dead, so they were called "lanternes des morts".
 
-with the Encylopedia Brittanica of 1875 desecribing them as *"curious small slender towers, found chiefly in the centre and west of France, having apertures at the top, where a light was exhibited at night to mark the place of a cemetery. Some have supposed that the round towers in Ireland may have served for this purpose."
+with the Encyclopedia Brittanica of 1875 describing them as *"curious small slender towers, found chiefly in the centre and west of France, having apertures at the top, where a light was exhibited at night to mark the place of a cemetery. Some have supposed that the round towers in Ireland may have served for this purpose."
 
 P. L. Jacob's *Military and religious life in the Middle Ages and at the period of the Renaissance*, 1870, also reviews the hostory of these structures, as well as providing several illustrations:
 
-```{admonotion} *En vogue*, 1870
+```{admonition} *En vogue*, 1870
 :class: dropdown
 
 In P. L. Jacob's *Military and religious life in the Middle Ages and at the period of the Renaissance*, 1870, [p481-4 (p486)](https://archive.org/details/gri_33125008050011/page/486/mode/1up)
@@ -68,9 +68,9 @@ When I was visiting Garway Church in Herefordshire several years ago, an opening
 
 Father Thurston, S.J., in 'The Catholic Encyclopedia,' iii. 507, writes:—
 
-> "A curious feature found in many churchyards from the twelfth to the fourteenth century, especially in France, is the so-called lanterne des morts, a stone erection sometimes 20 or 30 feet high, surmounted by a lantern, and presenting a general resemblance to a small lighthouse. The lantern seems to have been lighted only on certain feasts or vigils, and in particular on All Souls’ Day. An altar is commonly found at the foot of the column. Various theories have been suggested to explain these remarkable objects, but no one of them can be considered satisfactory."
+> "A curious feature found in many churchyards from the twelfth to the fourteenth century, especially in France, is the so-called lanterne des morts, a stone erection sometimes 20 or 30 feet high, surmounted by a lantern, and presenting a general resemblance to a small lighthouse. The lantern seems to have been lighted only on certain feasts or vigils, and in particular on All Souls' Day. An altar is commonly found at the foot of the column. Various theories have been suggested to explain these remarkable objects, but no one of them can be considered satisfactory."
 
-One may compare the French and Italian custom of putting lighted candles on graves on All Souls’ Eve.
+One may compare the French and Italian custom of putting lighted candles on graves on All Souls' Eve.
 
 Mr. Leopold Wagner, in his 'Manners, Customs, and Observances,' p. 270, states that in the time of the Druids the ancient Trish prayed to Saman, the Lord of Death, in front of their lighted candles, for the souls of their departed relatives. Father Thurston in 'The Catholic Encyclopedia,' iii. 247, says: "St. Cyprian in 258 was buried *praelucentibus ceris*."
 
@@ -82,11 +82,11 @@ Mueller and Mothes in their (German) 'Archeological Dictionary,' *s.v.* 'Todtenl
 
 According to the same authors, such lights were either burnt on isolated columns or in stone lamps attached to church walls. Examples of the former kind are still extant in France (12th century) and Germany (13th to 16th centuries). In Germany their use was abandoned about the latter date.
 
-Illustrations are given in the book of an isolated light in Freistadt (Upper Austria) dating from about a.p. 1488, and of an attached lantern against the wall of St. Stephen’s Cathedral in Vienna (A.D. 1502).
+Illustrations are given in the book of an isolated light in Freistadt (Upper Austria) dating from about a.p. 1488, and of an attached lantern against the wall of St. Stephen's Cathedral in Vienna (A.D. 1502).
 
 Other examples mentioned are those at Schulpforta (13th century), Regensburg (Cathedral, 14th century), and Klosterneuburg (A.D. 1381), the last being about 30 feet high. Others are to be found in Austria and Westphalia, but the localities are not given.
 
-Tapers and lamps are nowadays st'll burnt on graves in Roman Catholic cemeteries on the Continent, but only on one evening in the year, viz., on All Souls’ Eve. L.L.K.
+Tapers and lamps are nowadays st'll burnt on graves in Roman Catholic cemeteries on the Continent, but only on one evening in the year, viz., on All Souls' Eve. L.L.K.
 
 In a very few remote Roman Catholic villages in Germany, e.g., in Westphalia, a "Totenlaterne" is lighted when a child dies. At the funeral the "Totenlaterne" is carried before the coffin to the graveside. When the burial service is over, the "Totenlaterne" is brought back to its place in the church and then extinguished. The Roman Catholic priest to whom I owe this information thought that nothing definite was known of the origin of this rare and almost forgotten rural usage.
 
@@ -100,11 +100,11 @@ In June last, when looking at some of the old tombstones in the cemetery of Linz
 
 In *Notes and Queries*, 1911-04-29: Vol 3 Iss 70 (11 S. III. Apr. 29, 1911), [p.336](https://archive.org/details/sim_notes-and-queries_1911-04-29_3_70/mode/2up):
 
-POOR SOULS' LIGHT: "TOTENLATERNE" (11 S. ii. 448; iii. 30). — In the cemetery of Kloster Neuberg, near Vienna, there is an elegant cross or *Todtenleuchte*, *lanterne des morts*. Its height is about 30 ft.; the date engraved upon it is 1381. There is a small door about 5 ft. from the ground, and near the summit a chamber with six glazed windows, in which the light was exhibited. In France some ten or twelve of these lanterns have been found and described ; in Germany about as many.
+POOR SOULS' LIGHT: "TOTENLATERNE" (11 S. ii. 448; iii. 30). — In the cemetery of Kloster Neuberg, near Vienna, there is an elegant cross or *Todtenleuchte*, *lanterne des morts*. Its height is about 30 ft.; the date engraved upon it is 1381. There is a small door about 5 ft. from the ground, and near the summit a chamber with six glazed windows, in which the light was exhibited. In France some ten or twelve of these lanterns have been found and described in Germany about as many.
 
 M. Lecointre, "Archeologue de Poitiers," remarks —
 
-> "The hollow columns or *janaux* were specially raised in the cemeteries in order to protect the living from the fear of those returning and from the spirits of darkness, and to safeguard them from this terror of the night — this affair that walketh in the darkness, of which the Psalmist speaks ; finally, to invite the living to pray for the dead.''
+> "The hollow columns or *janaux* were specially raised in the cemeteries in order to protect the living from the fear of those returning and from the spirits of darkness, and to safeguard them from this terror of the night — this affair that walketh in the darkness, of which the Psalmist speaks, finally, to invite the living to pray for the dead."
 
 Viollet-le-Duc observes:—
 

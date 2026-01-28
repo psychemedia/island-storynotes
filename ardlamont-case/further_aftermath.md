@@ -33,7 +33,7 @@ with a dressing-bag. The bag was packed for travelling, and Monson said he was "
 
 Metcalf was arrested late on Saturday night and gave his name as Robert Ives Metcalf, and admitted that in 1896 he was a member of the firm of Lumley, of 148, Shaftesbury-avenue.
 
-When the charge was read over in the presence of all four, Norgate said, "I understand" ; Monson, "I see"; Honour, "it's a lie" ; Metcalf, "Yes."
+When the charge was read over in the presence of all four, Norgate said, "I understand"; Monson, "I see"; Honour, "it's a lie"; Metcalf, "Yes."
 
 Mr. Arthur Newton, who appeared for the defence of Honour, reserved his cross-examination.
 
@@ -43,7 +43,7 @@ Witness believed that the insurance company had taken proceedings in Chancery an
 
 [ILLUSTRATION P. NORGATE. METCALF.]
 
-promise to him to get him out of the dock. Witness had also been in communieation with Monson, who likewise had given information which had been laid before the Public Prosecutor, and from a telegram found on Monson he believed that Monson was "going North," only In the ordinary way of business, and not to avoid arrest.
+promise to him to get him out of the dock. Witness had also been in communication with Monson, who likewise had given information which had been laid before the Public Prosecutor, and from a telegram found on Monson he believed that Monson was "going North," only In the ordinary way of business, and not to avoid arrest.
 
 NOT THE ONLY CASE.
 

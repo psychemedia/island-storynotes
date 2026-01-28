@@ -98,7 +98,7 @@ cherished his acquaintance on ac8:
 
 and he was soon after introduced at court, where he met with a gracious reception, it being at the eve of a general election, and his parliamentary Interest was much desired.
 
-It may be supposed that he entered into all the gay amusements of the polite world, as he had a taste for = dress as well as dissipation ; but he could never be prevailed upon to play for any considerable sum, as he had received some useful lessons from an uncle, who in his juvenile days had been a considerable sufferer, by following the _ of the late Lord Chesterfield, with whom he was very intimate, and for whom he entertained so high an opinion, on account of his wit and abilities, that he thought it impossible for him to err.
+It may be supposed that he entered into all the gay amusements of the polite world, as he had a taste for = dress as well as dissipation; but he could never be prevailed upon to play for any considerable sum, as he had received some useful lessons from an uncle, who in his juvenile days had been a considerable sufferer, by following the _ of the late Lord Chesterfield, with whom he was very intimate, and for whom he entertained so high an opinion, on account of his wit and abilities, that he thought it impossible for him to err.
 
 From this uncle, who was an old bachelor, he also received another piece of useful advice, for though he did not fay with old Acafto i in the Orphan,
 
@@ -711,7 +711,7 @@ F 2 leave
 
 „ leave of her ladyship, and ee 7 B 2 for the capital, leaving Mr. P
 
-commander in chief of the amorous batteries which were planted against the Citadel of love, which soon surrendered at discretion, being an old soldier in the campaigns of Venus, though a young man as to years, acted with becoming judgement and discretion; he knew that if he exhausted all his ammunition in afeu de joyre, he should stand a very great chance of being driven from his post, by some suc= cessue rival, WhO might make his appearance, and approve himself more powerful general. He, therefore had often recourse to stratagem, and made many false fires, which though but flashes in the pan, had a good effect, and frequently saved him the trouble of coming to more certain action.
+commander in chief of the amorous batteries which were planted against the Citadel of love, which soon surrendered at discretion, being an old soldier in the campaigns of Venus, though a young man as to years, acted with becoming judgement and discretion; he knew that if he exhausted all his ammunition in afeu de joyre, he should stand a very great chance of being driven from his post, by some suc= cessue rival, Who might make his appearance, and approve himself more powerful general. He, therefore had often recourse to stratagem, and made many false fires, which though but flashes in the pan, had a good effect, and frequently saved him the trouble of coming to more certain action.
 
 1 true her ladyship 5 PE him to a more general and decisive combat; but he was of opinion with Fabius and Washington, that a compleat victory was upon this occasion " OY to be gained by ay. = 
 e 1 3" Whit
@@ -933,7 +933,7 @@ of her. HOOP» intimacy 3 Vith Captain B——t, which has fo — recently 00 bo
 
 trial for erin con, and pronounced, 1 s
 
-the now UNEAsY busband, A tvelvepenny cuckold.
+the now UNEASY husband, A tvelvepenny cuckold.
 
 The acquaintance, we find, between sir R— and the captain commenced last spring, and was occasioned by the purchase of an estate the baronet was desirous of making of him, which secured a borough. : Ia ne of this negociation,
 

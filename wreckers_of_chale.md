@@ -3,6 +3,25 @@
 
 Such was the law of the land regarding shipwrecks. But how was the law framed and interpreted on the Island?
 
+
+?Some of the following is duplicated in Boucher James "but if any owner appears"
+
+https://archive.org/details/commentariesonla00blac_003/page/n409/mode/2up?q=ligan
+Commentaries on the laws of England: in four books, Volume 1 
+by sir William Blackstone
+
+Publication date 1807
+
+p.292-4
+
+It is to be observed, that, in order to constitute a legal *wreck*, the goods must come to land. If they continue at sea, the law distinguishes them by the barbarous and uncouth appelations of *jetsam*, *flotsam* and *ligan*. Jetsam is where goods are cast into the sea, and there sink and remain under water: flotsam is where they continue swimming on the surface of the waves: ligan is where they are sunk in the sea, but tied to a cork or buoy, in order to be found again. These are also the king's, if no owner appears to claim them; but if any owner appears he is entitled to recover the possession. For even if they be cast overboard, without any mark or buoy, in order to lighten the ship, the owner is not by this act of necessity construed to have renounced his property: much less can things ligan be supposed to be abandoned, since the owner has done all in his power to assert and retain his property. These three are therefore accounted so far a distinct thing from the former, that by the king's grant to a man of wrecks, things jetsam, flotsam, and ligan will not pass.
+
+Wrecks in their legal acceptation, are at present not very frequent: for, if any goods come to land, it rarely happens, since the improvement of commerce, navigation, and correspondence, that the owner is not able to assert his property within the year and day limited by law. And in order to preserve this property entire for him and if possible to prevent wrecks at all, our laws have made many very humane regulations; in a spirit quite opposite to those savage laws, which formerly prevailed in all the northern regions of Europe, and a few years ago were still said to subsist on the coasts of the Baltic sea, permitting the inhabitants to seize on whatever they could get as lawful prize: or, as an author of their own expresses it, *in naufragorum miseria et calamitate tanquam vultures ad praedam currere* ["in the wave of misery and disaster, run after their prey like vultures"]. For by the statute 27 Edw. III. c. 13. if any ship be lost on the shore, and the goods come to land, (which cannot, says the statute, be called wreck,) they shall be presently delivered to the merchants, paying only a reasonable reward to those that saved  and preserved them, which is entitled *salvage*. Also by the common law, if any persons (other than the sheriff) take any goods so cast on shore, which are not legal wreck, the owners might have a commission to inquire and find them out, and compel them to make restitution. And by statute 12 Ann. st. 2. c. 18. confirmed by 4 Geo. I. c. 12. in order to assist the distressed, and prevent the scandalous illegal practices on some of our sea coasts, (too similar to those on the Baltic,) it is enacted, that all head-officers and others of towns near the sea shall, upon application made to them, summon as many hands as are necessary, and send them to the relief of any ship in distress, on forfeiture of 100*l.* and, in case of assistance given, salvage shall be paid by the owners, to be assessed by three neighbouring justices. All persons that secrete any goods shall forfeit their treble value:  and if they wilfully do any act whereby the ship is lost or destroyed, by making holes in her, stealing her pumps, or otherwise, they are guilty of felony, without  benefit of clergy. Lastly, by the statute 26 Geo. II. c. 19, plundering any vessel either in distress, or wrecked, and whether any living creature be on board, or not, (for, whether wreck or otherwise, it is clearly not the property of the  populace,) such plundering, I say, or preventing the escape  of any person that endeavours to save his life, or wounding him with intent to destroy him, or putting out false lights in order to bring any vessel into danger, are all declared to be capital felonies; in like manner as the destroying of trees,  steeples, or other stated sea-marks, is punished by the statute 8 Eliz. c. 13. with a forfeiture of 100*l*. or outlawry. Moreover, by the statute of George II, pilfering any goods cast ashore is declared to be petty larceny; and many other salutary regulations are made for the more effectually preserving ships of any nation in distress.
+
+[By the civil law, to destroy persons shipwrecked, or prevent their saving the ship, is capital. And to steal even a plank from a vessel in distress, or wrecked, makes the party liable to answer for the whole ship and cargo. The laws also of the Wisigoths, and the most early Neapolitan constitutions, punished with the utmost severity all those who neglected to assist any ship in distress, or plundered any goods cast on shore.]
+
+---
+
 ```{admonition} The Village of Chale and the Wreckers, 1896
 :class: dropdown
 
@@ -43,7 +62,6 @@ TO DO
 :class: dropdown
 
 In John L. Whitehead's *The Undercliff Of The Isle Of Wight Past And Present*, 1911, Chapter XII, [p331-334](https://archive.org/details/in.ernet.dli.2015.502008/page/n443/mode/2up).
-
 
 The manor of Godyton is found under its modern name of "Gotten," as a farm situated on the north-east slope of Chale Down. In 1780 the Trinity Board, recognising the value of the ancient tower as a landmark, and desiring to re-establish the light, substantially repaired the tower, and, at an expense of £7,000, erected another pharos by its side. This light was soon found to be useless in bad weather when most wanted, for the high hills are almost always enveloped in clouds, and of course the lanthorns invisible at any little distance. Pennant, from whom the quotation is taken, mentions that "From mistaking this light for the Portland lights, a Dutch frigate of 36 guns and 250 men came bump ashore and was beat to pieces, and though most of the crew were saved at last, the surf ran so high it was one night and two days before they could be brought off." "I was," he adds, "the means of saving eight men, by bribing a desperate smuggler to go off to them in his boat." `[Pennants, Journey to the I. W., vol. ii, p. 189.]`
 

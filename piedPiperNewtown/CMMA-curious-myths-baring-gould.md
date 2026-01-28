@@ -277,7 +277,7 @@ In one of the heroic ballads of the Minussinchen Tartars, the wind, which is rep
 
 "All the creatures of the forest,  
 All the wing'd fowl of the air,  
-Come and breathless to her listen ;"
+Come and breathless to her listen;"
 
 and the watchers are charmed into letting her steal away the children, as Hermes stole Io from Argus, and she revives them with the water of life, which is the dew. `[Heldensagen der Minussischen Tataren, v. A. Schiefnei. Petersburg, 1859, p. 60]`
 

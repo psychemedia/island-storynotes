@@ -454,7 +454,7 @@ She'd cook the meals and then work as crew.
 
 'With Mike, she could drink, chat and laugh and he told her fantastic stories about the ideas he had that really pulled her in. He was setting her up. She discovered that he was cheating on her with another woman, the wife of one of the island's most influential lawyers.
 
-He'd told the other woman he loved her too and set her up in a house in England. Julie told me, "Mike has broken my heart'' but she never stopped loving him.' She was born Julie Windley in June 1956 and grew up on Primrose Farm, her family's idyllic smallholding near Aylsham, just north of Norwich.
+He'd told the other woman he loved her too and set her up in a house in England. Julie told me, "Mike has broken my heart" but she never stopped loving him.' She was born Julie Windley in June 1956 and grew up on Primrose Farm, her family's idyllic smallholding near Aylsham, just north of Norwich.
 
 At discos and social events, she mingled with the scions of families who were considerably wealthier than her father, Peter, who contentedly farmed a modest herd of Jersey dairy cattle. In 1976, she married James Patterson, who came from a rich Norfolk land-owning family.
 

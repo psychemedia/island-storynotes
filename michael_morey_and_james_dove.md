@@ -275,10 +275,10 @@ MICAH MOREY'S CAVE.
 
 *To the Editor of the Isle of Wight County Press.*
 
-Sir,—My brothers and I in our school days often used to visit Arreton marl-pit and climb up to the cave, which, however, we always call Michael Morey’s Cave. I have never met with the printed sheet signed W. Cole, jun., nor with Mr. John Dore's poem on the subject, referred to by "Stylus," nor have I succeeded in gleaning any further particulars about Michael Morey than those embodied in the following rhyme, which, as a boy, I often heard repeated:—
+Sir,—My brothers and I in our school days often used to visit Arreton marl-pit and climb up to the cave, which, however, we always call Michael Morey's Cave. I have never met with the printed sheet signed W. Cole, jun., nor with Mr. John Dore's poem on the subject, referred to by "Stylus," nor have I succeeded in gleaning any further particulars about Michael Morey than those embodied in the following rhyme, which, as a boy, I often heard repeated:—
 
 "Michael Morey, he is dead  
-For cutting off his grandson’s head;  
+For cutting off his grandson's head;  
 He was hanged on Arreton Down  
 And there he'll hang till he drops down."
 

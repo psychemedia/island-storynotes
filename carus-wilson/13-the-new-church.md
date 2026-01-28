@@ -75,7 +75,7 @@ Around about the same time — June 1849 — it seems as if the magistrates were
 
 At the Borough Petty Sessions, before the Mayor and Mr. Abraham Clarke, Esq.,—Eliza Lacount, Fanny Castles, Mary Tayler, Ann Gladdis, Emma Kimber, and Caroline Kimber, who had been locked up from the Saturday evening, and others from Sunday, were complained against by Mr. George Grapes, inspector of police, as common prostitutes, and having been found in the streets late at night. The mayor said the magistrates were determined to put down such open and gross vice and immorality. It was enough to call down the judgment of the Almighty, if not attempted to be checked. The court would not deal severely in the present instance, but it was intended as a warning to others and to themselves, if brought again before the court. As the defendants had been locked up a considerable time they would be discharged, with the exception of Emma Kimber, who was intoxicated and fined 5s., and 2s. 6d. costs, or one week's imprisonment.
 
-Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock ;—he was so almost every night.— Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
+Abraham Racket, charged by the inspector of police with being drunk the night before, between eleven and the twelve o'clock;—he was so almost every night.— Fined 5s. with a notice from the mayor that unless the fine was paid he would be placed in the stocks.
 
 ```
 

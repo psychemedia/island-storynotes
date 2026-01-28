@@ -249,7 +249,7 @@ D d " Of
 "Of the cuppe ye fhall ferve me  
 "And all your men with you fhal be,  
 "Ye may dwell here at your wille,  
-"Bote '' your beryng be full ylle."  
+"Bote your beryng be full ylle."  
 "Madame, he faid, grantmercy,"  
 He thanked the ladye corteyfly.  
 She commandith him to the mete.  

@@ -160,7 +160,7 @@ You'll see Marie Wilton, you lucky young pig!"'
 https://archive.org/details/sim_athenaeum-uk_the-athenaeum_1858-12-11_1624/page/764/mode/2up?q=%22Where+are+you+going+to%2C+you+little+pig%3F%22
 The Athenaeum  1858-12-11: Iss 1624
 
-‘The Headlong Career and Woeful Ending of Precocious Piggy', by the late Thomas Hood, illustrated by his Son, is an instance of the use of a name, for these few doggrel verses of Hood’s are raked up out of the dust-heap of oblivion, and brought out with marvellously dull drawings all about—"Where are you going to, you little pig!—Why, I'm going to have a nice ride in a gig.— In a gig, little pig? what, a pig in a gig? Well, I never yet saw a pig ride in a gig." Of all the drolleries that Aesop has suggested, perhaps this is the feeblest, and it should not have been published by Messrs. Griffith & Farran, even for the smallest of children.
+‘The Headlong Career and Woeful Ending of Precocious Piggy', by the late Thomas Hood, illustrated by his Son, is an instance of the use of a name, for these few doggrel verses of Hood's are raked up out of the dust-heap of oblivion, and brought out with marvellously dull drawings all about—"Where are you going to, you little pig!—Why, I'm going to have a nice ride in a gig.— In a gig, little pig? what, a pig in a gig? Well, I never yet saw a pig ride in a gig." Of all the drolleries that Aesop has suggested, perhaps this is the feeblest, and it should not have been published by Messrs. Griffith & Farran, even for the smallest of children.
 
 
 
@@ -400,13 +400,13 @@ And now it was the largest of the three little pigs who began to talk about goin
 
 "You had better stay at home and take things as they come. The crock that goes often to the well gets broken at last;" that was what the cock, the speckled hen, the black drake, and the grey goose said; and they thought themselves very wise to talk as they did.
 
-But no ; the little pig wanted to go out into the woods, and into the woods the little pig would go, ogre or no ogre.
+But no; the little pig wanted to go out into the woods, and into the woods the little pig would go, ogre or no ogre.
 
 After he had eaten all of the acorns that he wanted he began to think of going home again, but just then the ogre came stumping along. "Aha!" says he, "we have met again, have we?"
 
 "Yes," said the largest of the three little pigs, "we have. And I want to say that I could find no roast apple at home, and so I did not come back again."
 
-Yes, yes, that was all very fine; but they should have a settling of old scores now. The largest of the three little pigs might just come along home with the ogre, and to-morrow he should be made into sausages ; for there was to be no trickery this time, so there was an end of the matter.
+Yes, yes, that was all very fine; but they should have a settling of old scores now. The largest of the three little pigs might just come along home with the ogre, and to-morrow he should be made into sausages; for there was to be no trickery this time, so there was an end of the matter.
 
 Come, come! the ogre must not be too testy. There was such a thing as having too much pepper in the pudding — that was what the largest of the little pigs said. If it were sausages that the ogre was after, maybe the pig could help him. Over home at the farm yonder was a storehouse filled with more sausages and good things than two men could count. There was a window where the ogre could just squeeze through. Only he must promise to eat what he wanted and to carry nothing away with him.
 
@@ -428,7 +428,7 @@ By and by the little pig bawled out as loud as he could, "Have you had enough ye
 
 And, sure enough, the farmer and his men were coming as fast as they could lay foot to the ground.
 
-But when the ogre heard them coming, he felt sure that it was time that he was getting away home again, and so he tried to get out of the same window that he had gotten in a little while before. But he had stuffed himself with so much of the good things that he had swelled like everything, and there he stuck in the storehouse window like a cork in a bottle, and could budge neither one way nor the other ; and that was a pretty pickle to be in.
+But when the ogre heard them coming, he felt sure that it was time that he was getting away home again, and so he tried to get out of the same window that he had gotten in a little while before. But he had stuffed himself with so much of the good things that he had swelled like everything, and there he stuck in the storehouse window like a cork in a bottle, and could budge neither one way nor the other; and that was a pretty pickle to be in.
 
 "Oho!" says the farmer, "you were after my sausages and my puddings, were you? Then you will come no more."
 

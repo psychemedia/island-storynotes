@@ -49,7 +49,7 @@ Oak, your Ladyship have alternately hand-
 
 led, and trafficked in. Your Philanthropy
 
-is as unbounded as your defires ; for, like the good man in the Gospel, you are
+is as unbounded as your defires; for, like the good man in the Gospel, you are
 
 a
 
@@ -134,7 +134,7 @@ And being bar'd of Cup m's flood, she'd bathe in Mzpwar's pool.
 
 VII.
 
-0 Whither, sEYMOR A, do you roam?“ said Vorcan, with a sigh,
+O Whither, SEYMOR A, do you roam?" said Vorcan, with a sigh,
 
 60 T m drowsy,—weary,—far from home—
 
@@ -161,7 +161,7 @@ And Boreas howls aloud.
 Kt
 
 « Oh, Mags Y id Vor.can, & now she's gone,  
-"Her charms I will rehearse ; 3 cc  
+"Her charms I will rehearse; 3 cc  
 Her form the Medicis* oon! ;
 
 « And”yond the reach of verse!
@@ -213,11 +213,11 @@ VI.
 
 For, like huge Behemoth, he stoop'd
 
-To bear the lusty load ;
+To bear the lusty load;
 
 He thought his antler too much droop'd,
 
-And Maxs would raise that goad. |
+And Maxs would raise that goad. 
 
 In
 
@@ -422,7 +422,7 @@ XXXIX.
 Bot proving false, Vulc. placed a net  
 Of parchment dire for him;  
 Tho' *Banco Regis* it was set,  
-ONE sHILLING *cut* THE WHIM!!!
+ONE SHILLING *cut* THE WHIM!!!
 
 FINIS
 
@@ -718,7 +718,7 @@ But all in vain te figd, Content.
 
 « Weary, fatigu d, a fruitless rover,  
 No 480 long a universal lover, win 07 Jot . 1 6 2:1217070  
-Resolv'd to make my searehes oV ,  
+Resolv'd to make my searches oV ,  
 Determin'd now to end my measures,  
 But not to stop my carnal pleasures;  
 In ev'ry way to change my rien 100 15/20 300  

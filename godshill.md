@@ -394,7 +394,7 @@ There is a large hole between the two roofs in the angle at the bottom of the we
 
 This is but a very faint deſcription of the effects of the lightning; if it had happened the day before, when we were aſſembled in the church, I believe many of the congregation would have been deſtroyed by it.
 
-I thought it right to inform you, Sir, of the truth and particulars of this event; therefore, choſe rather to expoſe my ignorance of technical terms, than betray the leaſt unwillingness to inform you of any thing in my power, that you would wish to know ; a tribute of gratitude juſtly due to you from, Sir,
+I thought it right to inform you, Sir, of the truth and particulars of this event; therefore, choſe rather to expoſe my ignorance of technical terms, than betray the leaſt unwillingness to inform you of any thing in my power, that you would wish to know; a tribute of gratitude juſtly due to you from, Sir,
 
 your much obliged, and obedient humble ſervant,
 DANIEL WALSH.

@@ -526,7 +526,7 @@ To which are added The ARGUMENTs made use of by the CounseL respecting the Plea 
 
 LONDON:
 
-Printed for E. RICH, opposite Anderton's Coffee-House, Fleet-street, and sold ' by the Booksellers at the Royal-Exchange.
+Printed for E. RICH, opposite Anderton's Coffee-House, Fleet-street, and sold by the Booksellers at the Royal-Exchange.
 
 [ Price six-Pence ]
 

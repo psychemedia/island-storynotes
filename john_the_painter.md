@@ -12,7 +12,7 @@ William James ("peter the painter") 1776
 Royal timber yard
 
 
- The ship. scotsman. American war-;plan to burn fleet. hanged from yard  ar, hanged in chains at tide level. Bodyparts stolen. Head in ship.  Haunted upstairs bedroom (hourly rate). Priest. Bishop. ?Old Bob (sold winds; bag tied with wind, open by sailor end of outbound leg, favourable wind back; (survivor bias/wald)). Get rid of ghost. Through keyhole. Don't believe, get into bottle. stoppered. (bottle walled up, rediscovered, keepsake, Titanic)
+ The ship. scotsman. American war; plan to burn fleet. hanged from yard arm, hanged in chains at tide level. Bodyparts stolen. Head in ship.  Haunted upstairs bedroom (hourly rate). Priest. Bishop. ?Old Bob (sold winds; bag tied with wind, open by sailor end of outbound leg, favourable wind back; (survivor bias/wald)). Get rid of ghost. Through keyhole. Don't believe, get into bottle. stoppered. (bottle walled up, rediscovered, keepsake, Titanic)
 
  
 
@@ -24,17 +24,20 @@ It's 1776, and Britain is at war with America, but not, for now at least, with F
 
 His Majesty's dockyards, at Portsmouth, Plymouth, and elsewhere provision and maintain the ships that project British power across the Atlantic.
 
-The dockyards are defended from attack from land and sea. sea defences guard entry to the ports from the sea; defensive walls protect the yards from land attacks.
+The dockyards are defended from attack from land and sea. Sea defences guard entry to the ports from the sea; defensive walls protect the yards from land attacks.
 
 At Portsmouth, there's one main gate into the dockyard, near the Hard, where there's still an entrance to this day.
 
-It's winter time. December. several ships are in Dock, laden with gunpowder to feed their guns. The ships are still sailing ships, which means a large part of the dockyard is concerned with keeping the rigging in order. The long rope house, where ropes are made to feed the rigging, and store houses for hemp from which the ropes are made.
+It's winter time. December. Several ships are in Dock, laden with gunpowder to feed their guns. The ships are still sailing ships, which means a large part of the dockyard is concerned with keeping the rigging in order. The long rope house, where ropes are made to feed the rigging, and store houses for hemp from which the ropes are made.
 
+---
+
+On Saturday, December 7th, 1776, a fire broke out in the rope house in Portsmouth dock yard. Over the following couple of weeks, reports appeared in the regional press suggesting that foul play was suspected and that two men had been taken up on suspicion.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17761206/013/0003
 Derby Mercury - Friday 13 December 1776 (incorrectly given as December 06 by the BNA.)
 
-*Extract of a Letter from Portsmouth, Dec. 8.*
+*Extract of a Letter from Portsmouth, `[Sunday]` Dec. 8.*
 
 "Yesterday Afternoon, about Half past Four o'Clock, a Fire broke out in the upper Loft of the Rope-House in the Dock-Yard at this Place, which entirely consumed that Building, of 364 Yards in length, and about 21 in breadth. Fortunately it stopped there, and did no other Damage. A great Part of the Riggings, Cables, and other stores, deposited in it were saved. There is great Reason to believe it was maliciously set on Fire, as it was perceived to break out at each End, and in the Center, at the same Time; two Men are taken up and secured on suspicion of being privy to the Mischief.
 
@@ -48,7 +51,7 @@ PORTSMOUTH, saturday, Dec. 14.
 
 ...
 
-saturday night, about a quarter before five o'clock, the inhabitants of this place, Gosport and the Common, were greatly alarmed by fire breaking out in his Majesty's dock-yard here, in three different places in the rope-house, which is occasionally used for the rigging house. The fire was so fierce that in a few minutes the said house, which was four hundred yards in length, and twenty-one broad, was on fire from one end to the other, and the whole building is entirely consumed; the dock-men were all in the yard, when this shocking accident happened; and had it not been for the immediate assistance given by the workmen, and the marines and invalids of this garrison, the different store-houses, particularly one almost adjacent to it, which is full of hemp, must have shared the same fate. How the accident happened is not yet come to light; but by its breaking out in three different places almost in an instant, gives great room for suspicion.
+saturday night `[i.e. December 7th]`, about a quarter before five o'clock, the inhabitants of this place, Gosport and the Common, were greatly alarmed by fire breaking out in his Majesty's dock-yard here, in three different places in the rope-house, which is occasionally used for the rigging house. The fire was so fierce that in a few minutes the said house, which was four hundred yards in length, and twenty-one broad, was on fire from one end to the other, and the whole building is entirely consumed; the dock-men were all in the yard, when this shocking accident happened; and had it not been for the immediate assistance given by the workmen, and the marines and invalids of this garrison, the different store-houses, particularly one almost adjacent to it, which is full of hemp, must have shared the same fate. How the accident happened is not yet come to light; but by its breaking out in three different places almost in an instant, gives great room for suspicion.
 
 As there was but little wind, and that to the northward, no other damage was done.
 
@@ -60,6 +63,17 @@ It is somewhat remarkable that this building has been burnt down three times wit
 
 A party of the dragoon guards arrived here with 50,000*l.* sterling, to pay the artificers and labourers at this dock yard.
 
+
+---
+
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000235/17761218/010/0003
+Kentish Gazette - Wednesday 18 December 1776
+
+COUNTRY NEWS.
+
+*Portsmouth, Dec. 13.* The Comptroller, and several of the Commissioners of the Navy, having been for several days past examining into the state of the Dock-yard in consequence of the late fire, and of persons on whom the slightest suspicions had fallen, but had not been able to detain any one, the suspicions appearing to be groundless. The damage sustained is the rope-house, and a few stores, and rigging to the Princess Amelia, now fitting out, and the workmen's tools. The greatest loss is the want of the rope-house, for now the ropemakers and spinners are going to the other Dock-yards to work until a temporary place can be built for them here, which will take up a considerable time.
 
 
 --
@@ -89,14 +103,6 @@ Leicester Journal - saturday 14 December 1776
 Yesterday several of sir John Fielding's men were dispatched from the Public Office in Bow-street to Portsmouth, in order to apprehend several suspicious persons that are imagined to have had some hand in setting fire to the Dock-yard.
 
 ...
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000235/17761218/010/0003
-Kentish Gazette - Wednesday 18 December 1776
-
-COUNTRY NEWS.
-
-*Portsmouth, Dec. 13.* The Comptroller, and several of the Commissioners of the Navy, having been for several days past examining into the state of the Dock-yard in consequence of the late fire, and of persons on whom the slightest suspicions had fallen, but had not been able to detain any one, the suspicions appearing to be groundless. The damage sustained is the rope-house, and a few stores, and rigging to the Princess Amelia, now fitting out, and the workmen's tools. The greatest loss is the want of the rope-house, for now the ropemakers and spinners are going to the other Dock-yards to work until a temporary place can be built for them here, which will take up a considerable time.
-
 
 ---
 The following also included the news item that appeared in he Kentish Gazette of December 18th, 1776.
@@ -161,7 +167,7 @@ FIFTY POUNDS REWARD
 
 WHEREAS there is strong reason to suspect that the Ropehouse in his Majesty's Dock-yard at Portsmouth was, on the 7th of December wickedly and maliciously set on fire, and whereas several attempts (some of which have taken effect) have been made to set fire to the city of Bristol, and there is reason to suppose the incendiary or incendiaries may have been the same in both cases, the following description of a person who was seen in the Ropehouse in Portsmouth yard on the day the said fire happened, and whose conduct was suspicious, is now published, in hopes that, on his apprehension, some light may thrown on these two dreadful transactions:— He was called JOHN, and is a PAINTER, said he worked as such last summer with one Golding, at Titchfield, in Hampshire; he is about twenty-five or twenty-six years of age, about five feet seven inches high, rather thin in person and thin visaged, smooth faced, of a fair complexion, with whitish eye-lids, wore his own hair, which is of a light sandy colour, neither tied nor curled, he had on a chocolate coloured surtout coat faded, a rusty hat, rather smartly cocked, with a fantail behind.
 
-Whoever will apprehend the said JOHN, and bring him before a magistrate, or give such notice as may be the means of his being apprehended, so that he may be produced to his Majesty's Commissioners of the Navy or to the Commissioners his Majesty's Navy in London, shall receive FIFTY POUNDs Reward, to be paid bythe said Commissioners; or if the said person, knowing himself to be innocent, will voluntarily appear before Commissioner Gambier at Portsmouth, or the Commissioners of London, he shall himself be entitled to the same reward.
+Whoever will apprehend the said JOHN, and bring him before a magistrate, or give such notice as may be the means of his being apprehended, so that he may be produced to his Majesty's Commissioners of the Navy or to the Commissioners his Majesty's Navy in London, shall receive FIFTY POUNDs Reward, to be paid by the said Commissioners; or if the said person, knowing himself to be innocent, will voluntarily appear before Commissioner Gambier at Portsmouth, or the Commissioners of London, he shall himself be entitled to the same reward.
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770127/006/0003
@@ -248,7 +254,7 @@ Was you ever at southampton?
 
 I don't chuse to make any answer to that question.
 
-Was you ever at Titchhfield?
+Was you ever at Titchfield?
 
 No.—
 
@@ -319,10 +325,187 @@ by Aitken, James
 
 Publication date 1777
 
+A SHORT ACCOUNT, &c.
+
+Was born to no fortune. My parents, who were honeſt, induſtrious tradesfolk, did not however ſuffer me grow up without ſome education. The maſter of a neighbouring country ſchool taught me to read and write, and my own inclination led me to ſtudy all the books which fell in my way, and were not above my comprehenſion.
+
+I thought it neceſſary to mention this much, to pret any ſurprize in the learned reader, who will find in few following pages ſome marks of hiſtorical and er reading The reaſoning he will meet is ſuch as man in ſuch circumſtances as mine muſt have uſed to give him courage enough to undertake. the boldeſt attempt that has been made for many years.
+
+And before I enter upon the motives which determined me to this great action, I would beg the people of England, to lay down their prejudices for a moment. My blood is ſome attonement for my crime, if it was one. If not, (and I hope I ſhall be able to ſhew it was not) though the Courts of Law have condemned my body to death, the people ought not to paſs a like ſentence on my fame.
+
+Being born an American, I conſidered America and England, whilſt they were united, as my native country; and from the time I firſt began to think the love of my country was my ruling paſſion, I would have run any riſque, faced any danger, to do my country a ſervice. Had there been a war between England and France upon juſt grounds, I am perſuaded I would as ſoon, nay ſooner, have entered Breſt and Toulon, to do our natural enemies a miſchief, than I did Portſmouth to burn the Dock; and that I would on ſuch an occaſion as little dread the *French* wheel as before my trial I feared the *Engliſh* gallows.
+
+And in this ſpirit of ſerving my country, all the good books I ever read confirmed me. To be accounted an hero after one's death, ſeemed to me to be better than to wear a crown during one's life. For as the wiſe man ſaith, "The things of this world paſs away quickly."  What ſignifies worldly grandeur, when ſuch vile men as Nero, and Domitian, and Caligula, in old Rome, or as Henry the 8th, or James the 1ſt, or Richard the 3d, of England, wore purple garments, and were called Kings and Emperors? Who would not rather be old Codrus, or Cato, or ſuch a man as our Mr. Sydney, who bled upon Tower-hill for defending Liberty and the Proteſtant Religion, than any one of that naſty groupe? To be ſure the Kings ſlept upon ſofter beds, and fed upon richer neats, and drunk better wine, and more of it, than the Patriots, but then mankind do not look up to them now, andbleſs them, as their guardians and benefactors.
+
+So that a good name appeared to me to be better an riches. To get this good name in a very high degree I thought we muſt render ſome very great ſervice to our country. No opportunity offered till the breaking out of the war between *America* and *England*.
+
+Before I bound myſelf to either ſide, I endeavoured to examine (as the merry Mr. Stephens begs us) both ſides of the queſtion, I thought it hard of the government here to tax the Americans (my countrymen) without their conſent, particularly as they did not refuſe to tax themſelves. I thought it ſtill harder, inſtead of hearth money collectors, exciſe and cuſtom-houſe officers, and the other people who gather government money, that ſoldiers ſhould be ſent acroſs, to turn their pockets inſide out, and ſhake all the money there into the —--s. And what was ſtill the hardeſt of all, goverment ſhut up their harbours, took away their fiſheries, and ſent twenty or forty thouſand innocent people to beg or ſtarve.
+
+As my countrymen were Engliſhmen in every ſenſe of the word, they reſolved to loſe all their blood ſooner than any of their liberties. They took up arms. And they were on the right ſide, and had Justice with them. I declared for the liberties of the Colonies, and determined to die free, ſooner than live a ſlave.
+
+
+TO DO
+
+As ſoon as the armies on both Shen came to action, a In I ſaw the havock of my countrymen, my blood boil
+
+= 7 . 2
+
+
+Within me. Poor Jack Turner, who was both good an
+
+FT 
+
+
+
+
+1 wy
+
++ <1"
+
+YL F
+1
+
+charitable, who had married a wife he loved, and had five young children, I ſaw him with his ſkull broken, and his brains knocked out with a Heſſian muſquet.
+
+To mention all I ſaw, to reckon up all the brave men who periſhed on both ſides, would make any good Chriſtian's heart ache. God forgive the men who begun this war, and begin every war without good reaſon! To ſee the poor people flying from the coaſt to the back ſettlements, and turning every now and then to ſee their houſes in a flame, to ſee the ſteeples and churches, the market-place, the ſquares and ſtreets of the cities they dwelt ſo long in, ſet on fire by the ſoldiers, and blazing at once up to Heaven ---I ſay again, God forgive thoſe who can deal ſo inhumanly with their fellow creatures!
+
+I conſeſs I was not at that time ſo charitable in my wiſhes for the enemies of America. Our ſufferings enraged me. I determined to do ſome notable action, that would ſhew how much I loved my country. I even then determined, as the force of England conſiſts chiefly in their ſhipping, to ſtrike them to the very heart, by burning the ſtores at Portſmouth.
+
+How I miſcarried in my attempt---how I was tried for it, and was convicted of it, would be needleſs 0 mention here, as the public papers have already ſpreadf the account through England, Ireland, Scotland, and]
+
+America.
+
+9 It is natural for the people here to condemn the ; action; but not more juſt than in the followers of Porſenna, King of ſome little territory in 1zaly, to blame the] gallant Roman who entered Porſenna's camp in aifuiſe with an intention of aſſaſſinating him. Our motive, were the ſame. He attacked the King, who was an enemy . to Rome. I attempted to burn the magazine, that” would be ruinous to America. Love of country was the motive of both; of me, FJobn Moxam ; of him, Mutiu Scavola. And they who approve the a& of that great. | minded Roman, cannot, without inconſiſtency, condemu} L mine. | | | I I.
+
+r It is eertlin to any one who conſiders without preju}
+
+dice, that my motives muſt be as pure, and my reſolution as fixed and heroic, as thoſe of any of the great men of
+
+1
+
+antiquity. Curtius, who rode down the gulph, did nof
+
+go to more certain deſtruction than I. Codrus, whom
+
+a
+
+1 1 4
+
+
+1 L
+
+f 123 the enemy's centinel to ſtab him, did not court deſtruction more ſurely. They were victims offered up for their country's good---noble ones indeed! and ſo
+
+o N ad was I. But with this difference. dl 3 . ON: 1 When Curtius entered the gulph, a crowd of Romans
+
+F ſtood on the brink of the precipice, applauding the ſpirit
+
+hf Pf the young hero, and panting for a ſhare in his glory. 74 How muſt his heart have ſwelled with honeſt pride to
+
+hl pontemplate his great ſuperiority over ſuch a nation as ie, the Roman! and to conſider, if he had time in that moent of ſelf-congratulation, that he would be propoſed, as model of generous patriotiſm, not only to the youth of
+
+hat Þis own country, but to men of all ranks i in all quarters
+
+It the world |
+
+ves
+
+This was a reward I had not. No one ſtood by to 5 pplaud my act. I was in the country of an enemy. The people of this country too heated againſt me and my 9 Puntrymen. No favour, no affection, either to the part Wrformed, or the principles upon which 1 acted. On eju'Y Re contrary, I muſt be eſteemed and puniſhed as a crition Wnal by the laws of this country. The people would
+
+| 4
+
+n o hor me for an attempt to in their navy. I had no lace to look for claifort but in my own heart. That [
+
+| danger, for the ſake of advancing the freedom of my country, and checking the power that would take our li- 1
+
+Whatever injury they offered the Continent, we e had a
+
+9 — 1 5 a
+
+4 » ? « CE
+
+indeed told me I was a lover of my country, and an he- ; roic one; that I underwent much fatigue, expence, ahd 4
+
+berties from us.
+
+Ca which whe not a Kundatioe of 5 If bo Miniſtry here burned our harbours, we could not be! wrong in doing an harm to theirs. If they burned our towns, and ſlaughtered our people, we had an equal right to burn their cities, and ſlaughter their inhabitants.
+
+right to retaliate on Great Britain.
+
+I know ave are many who will make a fooliſh diſtinction between the act of armies, and of a ſingle many as one. They will ſay it was baſe and treacherous to come into their country privily, with an intention of doing it an Injury ; ; — a great deal more of the ſame 4 kind. # | 3
+
+12
+
+
+To „ ehiofe I will abbr, that the world has judged ways wrongly in this point. Do beating drums, and colours, purge a band of robbers and murderers of guilt? Does it ſignify as to the nature of the crime, whether he who commits it wears a red coat or a brown?
+
+Whether he holds a painter's bruſh in his hand, or a ge2 Feral s truncheon? An army may be called an army; but if this army fights in an juft cauſe, cuts the throats,
+
+plunders the houſes of a people, every man in this ng chess my who aſſiſts in this unjuſt cauſe, is not more or leſs an a murderer and a robber. A reaſonable Fudge) oui pth ſufficient power, would — up c_ man of Dem.
+
+wal 5
+
+Ats * 3 „ 1 As to my coming privily into the country, it ſhews
+
+id © 3 Has
+
+Wat our fade cannot do things openly and above board, as he Miniſtry do. Why can they not? Becauſe they are 
+
+ ſtrong enough. Their weakneſs ſhews very evidently Ichink that they would not give the firſt ſtroke in this
+
+n ar, (Anglici rebellion) but that they were boxed and pro-
+
+” * pked before they would venture to return the blow. Now
+
+they did not give the firſt blow, and were not ſtrong
+
+enough to reſent it in the field, what were they to do? Were they to fit quiet and ſay, Do, gentlemen, demoiſh our towns, burn or take our ſhips, kill our people,
+
+ſeize our grounds, and do with us what you pleaſe. We 1 57 
+
+Would I, when I knew him to be a much ſtronger man, better armed, and more expert in the management of hig
+
+nor ſo well armed or diſciplined as the Engliſb, and thei
+
+down, and ſuffer our throats to be cut tamely ? Everj
+
++ a |
+
+cannot meet you *fairly* in the field, and we will take no other method of redreſſing ourselves."
+
+If a robber broke into my houſe, with an intent to plunder it, and kill all my family, would I make it a point of honour to call this robber out as a gentleman? Would I, when I knew him to be a much ſtronger man, better armed, and more expert in the management of his weapons, give him a *fair* chance? I ſhould be thought a madman if I did not take any advantage of him; if I did not ſtab him in the dark, when an opportunity preſented itſelf.
+
+TO DO ABOVE
+
+And now, when America is invaded, as it appears to me, (and to many of *the greateft men in England* beſides me) unjuſtly, are we, becauſe our armies are not ſo large, nor so well armed or diſciplined as the English, and their clean-handed friends the *Heſſians*---are we, I ſay, to ſit down, and suffer our throats to be cut tamely, Every American, who believes his cauſe to be a juſt one, ought to exert himſelf in whatever way he can be ſerviceable to his country. If in the field, let him carry arms; if not let him light a torch. His enemies ſurround him. If he cannot deſtroy them by open force, he muſt by ſtratagem.
+
+And now, ſince this world is almoſt paſt, and another approaches, may I be received according to deſerts. I have meant honeſtly, and acted in my own apprehenſion gloriouſly. If my heart acquits me, I value at very little the verdict of a jury. My generous countrymen will weep blood over me. My name will be famous in their annals to all eternity. My ſoul will be ſhortly in the hand of him who made it. Let the executors of the law wreak what vengeance they pleaſe on my body, I am ſatisfied in my own conſcience, and in that perſuaſion leave the world whenever it ſhall pleaſe God to call me out of it. May he be merciful to me! as my intentions were upright.
+
+*Amen.*
+
+Thus I hope I have anſwered people who would have found no fault in me, had I fought in America, and died a common ſoldier. But they think it monſtrous, and riſible, and I do not know what, to attempt to burn oy Dock at Portſmouth, not conſidering how many docks, and towns, and ſhips of ours, have been burned by their ſoldiers in America.
+
+The more I think upon what I have done, the better am I pleaſed. I die, as the greateſt men have died, in attempting, without ſucceſs, to ſerve my country. My death gives me very little trouble. Life is at beſt but ſhort. A fit of the gravel, a fever, a fall from an horſe, the moſt vulgar diſorder, the moſt common accident, may end it. Beſide, what was life to ſuch a man as me, without ſomething to diſtinguish it?
+
+The gentleman of the Houſe of Commons, who thinks he does wonders when he raiſes the price of his conſcience a few pounds more than he could in reaſon expect for it, may laugh at me for ſuch notions. So no doubt will the merchant, who ſpends his whole life in cheating and over-reaching, not in ſerving and benefiting the country to which he belongs. I do not care a rum for the opinions of ſuch men. Let the courtier go on and lick up the ſpittle of the Miniſter or his uncerlings. Let the rich Alderman doze over his accounts in the morning, and his turtle at night. I would rather die on the gallows for ſuch a crime, (as it will perhaps be called) than live like ſuch poor creatures, to die at laſt of a p?? or a ſurfeit.
+
+The people of England may perhaps condemn my action as a very vile one. The Americans will extol it as very noble. I may be curſed here as a very bold, infamous fellow. There I ſhall be ſung about through the towns and villages, as a martyr to my country. Here I may be gibbeted and frighten crows; there a grateful people will erect ſtatues to their PATRIOT, and remember my name with honour. I do not value the reproaches of the people here, becauſe they are the reproaches of a people ſliding into -------; I would wiſh to have the praiſes of the Americans, becauſe they love freedom.
+
+Beſide, if people find fault with the TREACHERY, as I know ſome will, let them conſider that treachery and underhand dealing did not begin on our ſide; let them reember a certain LORD who acted the firſt deceit practiſed on either fide; him I mean who forged the notes of the Congreſs. His treachery was as great, nay greater, than mine, as I can prove very clearly.
+
+For what could I burn at Portſmouth, which ſome caſh could not repair? Had I forged a draught or draughts on the Bank of England to the amount of the ſtores in Portſmouth, the loſs to the nation muſt be as great as if thoſe ſtores were burned. I do not know, upon a nice calculation, whether it would not be greater.
+
+But the right honourable and the right honeſt Lord who forged the paper money of America, might have held on his hand to the higheſt amount, if he had not been detected in time. The loſs to America muſt have been greater, as they are more poor and more unprovided than the Engliſh in all things. The forgery was more baſe and more cowardly than the attempt to fire the Docks. He ran no riſque. But the burning of Portſmouth could not be done without the greateſt danger.
+
+But if, inſtead of burning Portſmouth, we were at war with France, and I had ſet fire to the magazines at Breſt, what a glorious fellow people would think me! There is not a porter or punch houſe in London where my health would not be toaſted. Brave John the Painter would be the word! and all England would ring with it.
+
+Now that I have attempted to ſerve my country truly, and after the example of the greateſt men in hiſtory, a few of whom I have mentioned, and many more I could mention, the *Engliſh* will curſe me as a traitor. So should the *Puritans* have curſed Colonel Rumſey (I think that's his name) if he had attempted to aſſinate *Oliver Cromwell*; and ſo would the *Etrurians* haved curſed *Scaevola* if he had ſucceeded in killing their King *Porſenna*. Why? Becauſe Cromwell was a convenience to his party -*Porſenna* to his kingdom. But REASON, that has nothing to win or loſe, will ſpeak without prejudice, and ſay, that the acts of thoſe two men were heroic. Why? Becauſe the attempt was made in favour of their country. This ſame REASON will likewiſe ſay, that my attmpt, however diſagreeable and inconvenient to the *Engliſh*, will ſhine as much as either in hiſtory. The *Engliſh* cannot be impartial judges of my conduct. Their intereſt is a ſtumbling block to their reaſon. They ſtand in the ſame point of view as the Puritans and the *Etrurians* above-mentioned.
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17770120/003/0003
 Gloucester Journal - Monday 20 January 1777
+
+TO DO
 
 GLOCESTER, January 20.
 
@@ -610,7 +793,7 @@ His father was a blacksmith at Edinburgh and he was apprenticed to a painter the
 As to any merchant in London or any other person except Dr. Bancroft he had no recommendation to, or conversation with, respecting the many unhappy accidents before related.
 
 That he stopt a port chaise between Portsmouth and Petersfield with a gentleman and lady in it some considerable time before the fire, and robbed them of nine shillings and six-pence, of which he returned two shillings.
- 
+
 The latter end of December, 1775, he enlisted at Chard into the 13th regiment with a recruiting serjeant, and a few days after deserted.
 
 At Tichfield as has been publicly mentioned he followed the trade of a painter, also at Birmingham, with Mr. Robinson, at Warrington, and many other places.
@@ -677,6 +860,80 @@ p159
 summary of execution aftermath by Gambier
 
 
+
+---
+
+Gale
+Monday,  Dec. 9, 1776
+Publication: Morning Chronicle (1770) (London, England)
+Issue: 2357
+
+Morning Chronicle, London Dec. 9. 1776
+
+By an express which arrived yesterday morning at the General Post-Office, from Portsmouth, we hear that a fire burst out in the Dock-yard there, at five o'clock on Saturday afternoon, and was burning furiously when the express came away. It is somewhat remarkable, that it burst out in the very same place in which the dreadful fire in the Dock-yeard about four years since began; it is threfore imagined to be wickedly caused by some interested incendiaries.
+
+
+Morning Chronicle, London Dec. 11. 1776
+
+*Extract of a Letter from Portsmouth, Dec. 9th.*
+
+...
+
+"Two men who were apprehended here on suspicion of setting fire to the rope house, &c. of the dock-yard on Saturday evening last, have been examined, and from what has already been drawn from them, it seems pretty clear, that they were certainly the instruments set on to do this desparate deed, by some more interested agents."
+
+It was yesterday morning reported, that three persons had been taken into custody, for setting fire to the Dock-yeard at Portsmouth.
+
+An anonymous letter has been sent to a distinguished personage, which it is thought may lead to a discovery of the incendiaries who fired Portsmouth dock-yeard. Messengers have been dispatched to make enquiries mentioned in the letter.
+
+
+---
+New Morning Post or General Advertiser, Dec. 12, 1776
+
+*Articles of Intelligence from the Daily Papers of Yesterday.
+
+...
+
+The poor man that was confined for getting out of the window of the spinning-loft after the fire began, in Portsmouth dock-yard, proves to be a house-carper, who has for many years worked constantly in the rope-house, and who, after the fire was discovered, went up in order to save his working-tools, but the fire followed him so close, that he could neither save them, or get down the stairs again, and was obliged to hang by the frame of one of the windows, until the people could get a ladder for him to descend by; and he was so much frightened when he got down, that he was in a manner speechless and insensible, which was the reason they confined him , until he gave a satisfacory account of his actions.
+
+---
+
+
+General Evening Post, December 7-10, 1776
+
+
+p1
+
+On Sunday morning at three o'clock, an express arrived at the Admiralty from Portsmouth, with advice that a fire broke out in the dock-yard there on Saturday (supposed to have been maliciously done) which consumed a range of buildings, and did other considerable damage.
+
+p2.
+
+London.
+
+*Admiralty Office, Dec. 9, 1776.* Advice was yesterday received by express, that a fire broke out in the ropehouse in his Majesty's yard at Portsmouth, about half an hour after four o'clock, on Saturday in the afternoon, which burnt with great violence and consumed the same, except the outer walls, which are standing; but by the timely assistance and vigorous efforts of the workmen of the yard, the seamen of his Majesty's ships, the marines quartered at Portsmouth, and the men belonging to the ordnance, with their respective officers, it was happily prevented from extendign to any other of the buildings in the yard, and was totally got under at ten o'clock last night, nothing but embers being left burning. The loss sustained by this accident, except the damage done to the ropehouse, is not considerable, consisting chiefly of part of the Princess Amelia's and Deal-Castle's rigging, the implements belonging to the rope-makers and rigging-house, a small quantity of cordage, and some toppings of hemp. It is not discovered by what means the accident happened.
+
+p3.
+
+*Extract of a letter from Portsmouth, Dec. 8.*
+
+"THe Albion, a brig, with 2000 barrels of gunpowder on board, was in Portsmouth harbour at the time th efire broke out; but the tide being high, was ordered out, and in a few minutes got quite clear of the harbour, otherwise it might have proved very fatal to the town."
+
+...
+
+Yesterday several of Sir John Fielding's men were dispatched form he Public Office in Bow-streeet to Portsmouth, in order to apprehend several suspicious persons that are imagined to have had some hand in setting fire to the dock-yard.
+
+
+p4.
+
+*Extract of a Letter from Portsmouth, Dec. 9.*
+
+"The loss by the fire in the dock-yard is but inconsiderable, to what it might have been, had the evening been windy, as, through Providence, it was not. The most valuable part of the goods, which were in the store-house that was burnt, are saved. An officer of the yard informed me this morning, that the loss does not exceed 500l. exclusive of the building. It is generally supposed this fire was maliciously occasioned, and was not to have happened so early, but intended to break out some time in the night, and then the consequences might have been dreadful indeed! A man, said to be at or near the fire at the first discovery of it, is taken into custody; but what proof they can get of his setting it on fire, time will discover. Through the general confusion and hurry this must cause, I do not hear of the loss of any man's life, nor any particular accident of any kind."
+
+Two men who were apprehended at Portsmouth on suspicion of setting fire to the rope-house, &c. of that dock-yard on Saturday evening last, have been examined, and from what has been already drawn from them, it seems pretty clear, that they were certainly the instruments set on to do this depsaerate deed, by some more interested agents.
+
+Yesterday morning summonses were issued to all the Lords of the Admiralty for a Board to be held at one o'clock, on account of the late fire at the rope-yeard at Portsmouth; at the breaking up of which a messenger was dispathced to Portsmouth.
+
+---
+
 https://babel.hathitrust.org/cgi/pt?id=njp.32101076879749&seq=4&q1=%22john+the+painter%22
 
 The gentleman's magazine, and historical chronicle vol. 47 (1777)
@@ -720,6 +977,9 @@ A narrative of the objects and proceedings of silas Deane, as commissioner of th
 
 Published 1891
 
+
+
+The gibbeted body appears to have been something of a tourist attraction.
 
 https://archive.org/details/in.ernet.dli.2015.43052/page/n181/mode/2up?q=%22john+the+painter%22
 Journey From London To The Isle Of Wight.  Vol. 2
@@ -850,7 +1110,7 @@ He prayed earnestly a few minutes, when giving the signal, he was drawn up to th
 
 ---
 
-still hanging in chains a coupleo years later
+still hanging in chains a couple of years later
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17790628/004/0003
 Hampshire Chronicle - Monday 28 June 1779
@@ -863,7 +1123,7 @@ HOME NEWS. PORTSMOUTH, Saturday, June 26.
 
 We had a very hot press on Wednesday night: 300 men were taken at this port.
 
-On Tuesday was executed on board the Culloden man of war in the harbout, one Murphy an American, who was taken into the service at New-York, and on account of his abilities as a good seaman was some time afterwards promoted to the rank of midshipman. When the was her passage home, he formed a plot with several of the ships crew, to murder the Captain and the officers, and run the ship into the American service, which plot was just going to be put in execution, when the whole was discovered by a servant, who was one of the conspirators. Since the ship has been in harbour, and while under sentence of death, he found means to get off his irons, and made his escape through one of the port holes, and attempted to swim on shore; but his heart failed him when he had got a little way from the ship, so that he returned again to the place of confinement undiscovered.— Before he was executed, he said he had only one regret, which was, that he had not set the on fire, after he found he could not run away with her. He was buried directly under the gibbet of John the Painter at Blockhouse Point.
+On Tuesday was executed on board the Culloden man of war in the harbour, one Murphy an American, who was taken into the service at New-York, and on account of his abilities as a good seaman was some time afterwards promoted to the rank of midshipman. When the was her passage home, he formed a plot with several of the ships crew, to murder the Captain and the officers, and run the ship into the American service, which plot was just going to be put in execution, when the whole was discovered by a servant, who was one of the conspirators. Since the ship has been in harbour, and while under sentence of death, he found means to get off his irons, and made his escape through one of the port holes, and attempted to swim on shore; but his heart failed him when he had got a little way from the ship, so that he returned again to the place of confinement undiscovered.— Before he was executed, he said he had only one regret, which was, that he had not set the on fire, after he found he could not run away with her. He was buried directly under the gibbet of John the Painter at Blockhouse Point.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000085/17790703/004/0002
 Newcastle Courant - Saturday 03 July 1779
@@ -1110,7 +1370,7 @@ Says she, shall I from Goblins fly,
 I not not fear or shame.
 
 At that, Lord *Temple* turn 'd around,  
-And made a lengthen'd bend ;
+And made a lengthen'd bend;
 "I do rejoice--- sweet *Bridget* fair.  
 "That you've no cause to mend."
 

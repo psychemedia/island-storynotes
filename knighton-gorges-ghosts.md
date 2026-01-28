@@ -1,6 +1,6 @@
 # Knighton Gorges
 
-Originally a well presented manor house, Knighton Gorges, just of the road from Newchurch that hangers left up the hill to the Down's road towards Ryde, is the location of a tragic tale that tells of an attempt to avoid the ruin that could be caused to a family by a case of *fel de se* — suicide. It was immortalised by Percy Stone in his *Legends and lays of the Wight*:
+Originally a well presented manor house, Knighton Gorges, just of the road from Newchurch that hangers left up the hill to the Down's road towards Ryde, is the location of a tragic tale that tells of an attempt to avoid the ruin that could be caused to a family by a case of *felo de se* — suicide. It was immortalised by Percy Stone in his *Legends and lays of the Wight*:
 
 ```{admonition} Sir Tristram's Weird, 1912
 :class: dropdown
@@ -98,7 +98,7 @@ And speaks him bold and fair.
 Their slopes lie bleak and bare.
 
 'There's naught in dale. There's naught on down,  
-To raise the gold upon — '  
+To raise the gold upon—'  
 'Perdition! I'll to Newport town  
 And speak with Lawyer John.'
 
@@ -289,7 +289,7 @@ We find that Knighton furniſhed a bowman to the defence of the iſland, in the 
 
 were kept here, under the command of Sir Robert Dillington, in 1638.
 
-Taz manor houſe is an ancient building, but appears to have been conſtructed with much taſte and judgment ; and great attention has been evidently pid to it, to preſerve its original beauty, in the various reparations which inevitably have been beſtowed upon it. In particular we may obſerve, that one part of the building is finely varie-
+Taz manor houſe is an ancient building, but appears to have been conſtructed with much taſte and judgment; and great attention has been evidently pid to it, to preſerve its original beauty, in the various reparations which inevitably have been beſtowed upon it. In particular we may obſerve, that one part of the building is finely varie-
 
 perhaps, are too numerous to afford pleaſure and delight to the eye; and that the windows in front are all latticed, and retain their antique pillars of ſtone for their preſent ſupporters. It is finely ſituated on the gentle riſing of a hill between ſome fine woods, but at a ſufficient diſtance to afford ſome very beautiful proſpects. |
 
@@ -309,9 +309,9 @@ Publication date 1876
 
 pp. 62-3
 
-The old manor house of Knighton was once one of the most considerable mansions in the island. It was built in the reign oif James I. on the site of a much older structure. Although the place is picturesque, and suitable for a ramble, it will be visited by the stranger chiefly on account of its associations. It was here that Legh Richmond had his first interview with Elizabeth Walbridge, "The Dairyman's Daughter," who was at that time a servant in the establishment. We gather from the correspondence of John Wilkes, a very pleasing idea of the genial and refined hospitiality which pervaded here, when, during his visits to Mr. Fitzmaurice, he often found assembled the leading gentry of the island, together with David Garrick, Mrs. Garrick, Sir Richard Worsley, and a number of foreigners.
+The old manor house of Knighton was once one of the most considerable mansions in the island. It was built in the reign oif James I. on the site of a much older structure. Although the place is picturesque, and suitable for a ramble, it will be visited by the stranger chiefly on account of its associations. It was here that Legh Richmond had his first interview with Elizabeth Walbridge, "The Dairyman's Daughter," who was at that time a servant in the establishment. We gather from the correspondence of John Wilkes, a very pleasing idea of the genial and refined hospitality which pervaded here, when, during his visits to Mr. Fitzmaurice, he often found assembled the leading gentry of the island, together with David Garrick, Mrs. Garrick, Sir Richard Worsley, and a number of foreigners.
 
-Like many other mansions Knighton was reported to be haunted ; but the exact nature of the unearthly visitant is not stated, though it was said to intimate its whereabout by a noise resembling the clanking of heavy chains. In later ' times, however, this noise was confined to one room, which was never opened, and over its entrance was inscribed a Latin legend of such mystic power as to prevent the egress of the troubled spirit. There is a strange story current respecting the death of the last male of the Diliington family, who for many years possessed the manor and house of Knighton. Sir Tristram Dillington lost his wife and all his children in rapid succession, and finally he fell himself by his own hand through despair, leaving two sisters, who afterwards died single. To prevent the forfeiture of the estate by the suicide of his master, the steward directly he became aware of the tragedy, took the horse his master usually rode, and having reversed the saddle, drove it into the mill-pond close to the house. This countenanced a report which he immediately spread, that Sir Tristram, returning home late at night, inadvertently rode into the pond, and through the slackness of the saddlegirth fell from his horse and was drowned before assistance could be rendered. This occurred at least a century ago. It was easy to avoid an inquest, and the stratagem succeeded. The shadowy form of Sir Tristram is said to be seen sometimes wandering over the deserted terraced gardens of his demolished mansion holding his head in his hand.
+Like many other mansions Knighton was reported to be haunted; but the exact nature of the unearthly visitant is not stated, though it was said to intimate its whereabout by a noise resembling the clanking of heavy chains. In later times, however, this noise was confined to one room, which was never opened, and over its entrance was inscribed a Latin legend of such mystic power as to prevent the egress of the troubled spirit. There is a strange story current respecting the death of the last male of the Diliington family, who for many years possessed the manor and house of Knighton. Sir Tristram Dillington lost his wife and all his children in rapid succession, and finally he fell himself by his own hand through despair, leaving two sisters, who afterwards died single. To prevent the forfeiture of the estate by the suicide of his master, the steward directly he became aware of the tragedy, took the horse his master usually rode, and having reversed the saddle, drove it into the mill-pond close to the house. This countenanced a report which he immediately spread, that Sir Tristram, returning home late at night, inadvertently rode into the pond, and through the slackness of the saddlegirth fell from his horse and was drowned before assistance could be rendered. This occurred at least a century ago. It was easy to avoid an inquest, and the stratagem succeeded. The shadowy form of Sir Tristram is said to be seen sometimes wandering over the deserted terraced gardens of his demolished mansion holding his head in his hand.
 
 Legh Richmond says: "The house was a large and venerable mansion. It stood in a beautiful valley at the foot of a high hilL It was embowered in fine woods, which were interspersed in every direction with rising, falling, and swelling ground. The manor house had evidently descended through a long line of ancestry from a distant period of time. The Gothic character of its original architecture was still preserved in the latticed windows, adorned with carved divisions and pillars of stonework. Several pointed terminations also, in the construction of the roof, according to the custom of our forefathers, fully corresponded with the general features of the building. One end of the house was entirely clothed with the thick foliage of an immense ivy, which climbed beyond customary limits, and embraced a lofty chimney up to its very summit. Such a tree seemed congenial to the walls that supported it, and conspired with the antique fashion of the place to carry imagination back to the days of our ancestors."
 
@@ -410,7 +410,7 @@ https://britishnewspaperarchive.co.uk/viewer/bl/0004801/18900103/071/0005
 Hampshire Post and Southsea Observer - Friday 03 January 1890
 
 
-A ROMANCE OF THE ISLE OF WIGHT. MRS, A. C. Dicker, better known in the literary world as Miss Constance MacEweN, has just published s novel called "A Cavalier’s Ladye: A Romance of the Isle of Wight," of which place, we understand, she is a resident. It is dedicated to Sir Richard Webster, the Attorney-General and Member for the Island, and assumes to be a sixteenth (seventeenth!) century romance in a nineteenth century dress. ... The manuscript, which is supposed to written in the form of a journal by Mistress Judith Dyonesia DYLLINGTON, was discovered in a strong metal box in the course of excavations, carried out "not long ago," where once stood the mansion of the Lords of Knighton Gorges. This is a somewhat stale expedient, and in the present case there is no apparent reason why concealment was necessary. The journal, which deals for the most part with the imprisonment of Charles I at Carisbrooke, is in no sense of an incriminatory nature; and even if it had been, the intimation at the end of the early restoration of the monarchy would imply that the time of danger for the cavalier party was past. We can only suppose that the intentions of the authoress became unconsciously changed as she proceeded, and that in the sequel the Besant element predominated over the Udolphian element. We are almost led to assume, in view of the difference of literary workmanship in the romantic and historical portions of the story, that two writers were employed upon the work. The heroine is the only daughter of Sir TRISTRAM DYLLINGTON, the head of a once powerful family in the Island, and a man of a strong and violent nature, He is represented as wearing mail, and as having a penchant for driving a team of eight horses to and from Newport. He is also the owner of a spirited charger named Thunderbolt. One night in September he was heard galloping home across Arreton Down at a breakneck pace, and soon afterwards his anxious wife was informed that the horse had carried him into the fish-pond and that he was drowned. The widow suspects foul play, and, after vainly attempting for tem years to unravel the mystery. she solemnly bequeaths to her daughter the duty of pursuing the investigation and dies. ... Spiritual influences reveal, or, rather, partly reveal, the mystery of Sir Tristram's untimely end. Knighton Gorges has a secret chamber, which once resounded with the sound of clashing armour, but which, after the ghosts had been exorcised by a priest, had ever since been the source of heavenly harmonies. After a visit to this chamber the heroine has a dream, in which she encounters her father on the Downs, and accompanies him to his self-inflicted death. Here, then, we have the solution of the problem, except as to the matter of motive. The reader is led to believe that impecuniosity—in spite of abundant evidences of wealth—was the real cause which led Sir Tristram to commit suicide, and it is only near the close of the narrative that we learn that he has an illegitimate son, and that it was in consequence of the latter’s urgent demand for recognition which impelled the father to shoot himself. This son is the chief of a band of pirates who make Black Gang Chine their headquarters, and is the possessor of fabulous wealth in gold, silver, and precious stones, all of which are concealed in caves, in comparison with the wonders of which that of the Forty Thieves is as nothing. This amiable cut-throat is a sort of Mephistopheles in his way, and combines with his other virtues those of a virtuoso, a philosopher, and an electric battery. He abducts the heroine, well-knowing her to be his sister, and runs off with her lover, of whom we hear nothing more until the concluding chapters. With this episode the romantic portion of the story comes to an end ...
+A ROMANCE OF THE ISLE OF WIGHT. MRS, A. C. Dicker, better known in the literary world as Miss Constance MacEwen, has just published s novel called "A Cavalier's Ladye: A Romance of the Isle of Wight," of which place, we understand, she is a resident. It is dedicated to Sir Richard Webster, the Attorney-General and Member for the Island, and assumes to be a sixteenth (seventeenth!) century romance in a nineteenth century dress. ... The manuscript, which is supposed to written in the form of a journal by Mistress Judith Dyonesia DYLLINGTON, was discovered in a strong metal box in the course of excavations, carried out "not long ago," where once stood the mansion of the Lords of Knighton Gorges. This is a somewhat stale expedient, and in the present case there is no apparent reason why concealment was necessary. The journal, which deals for the most part with the imprisonment of Charles I at Carisbrooke, is in no sense of an incriminatory nature; and even if it had been, the intimation at the end of the early restoration of the monarchy would imply that the time of danger for the cavalier party was past. We can only suppose that the intentions of the authoress became unconsciously changed as she proceeded, and that in the sequel the Besant element predominated over the Udolphian element. We are almost led to assume, in view of the difference of literary workmanship in the romantic and historical portions of the story, that two writers were employed upon the work. The heroine is the only daughter of Sir TRISTRAM DYLLINGTON, the head of a once powerful family in the Island, and a man of a strong and violent nature, He is represented as wearing mail, and as having a penchant for driving a team of eight horses to and from Newport. He is also the owner of a spirited charger named Thunderbolt. One night in September he was heard galloping home across Arreton Down at a breakneck pace, and soon afterwards his anxious wife was informed that the horse had carried him into the fish-pond and that he was drowned. The widow suspects foul play, and, after vainly attempting for tem years to unravel the mystery. she solemnly bequeaths to her daughter the duty of pursuing the investigation and dies. ... Spiritual influences reveal, or, rather, partly reveal, the mystery of Sir Tristram's untimely end. Knighton Gorges has a secret chamber, which once resounded with the sound of clashing armour, but which, after the ghosts had been exorcised by a priest, had ever since been the source of heavenly harmonies. After a visit to this chamber the heroine has a dream, in which she encounters her father on the Downs, and accompanies him to his self-inflicted death. Here, then, we have the solution of the problem, except as to the matter of motive. The reader is led to believe that impecuniosity—in spite of abundant evidences of wealth—was the real cause which led Sir Tristram to commit suicide, and it is only near the close of the narrative that we learn that he has an illegitimate son, and that it was in consequence of the latter's urgent demand for recognition which impelled the father to shoot himself. This son is the chief of a band of pirates who make Black Gang Chine their headquarters, and is the possessor of fabulous wealth in gold, silver, and precious stones, all of which are concealed in caves, in comparison with the wonders of which that of the Forty Thieves is as nothing. This amiable cut-throat is a sort of Mephistopheles in his way, and combines with his other virtues those of a virtuoso, a philosopher, and an electric battery. He abducts the heroine, well-knowing her to be his sister, and runs off with her lover, of whom we hear nothing more until the concluding chapters. With this episode the romantic portion of the story comes to an end ...
 
 
 
@@ -434,27 +434,21 @@ THE knightly family of the De Gorges ranks among the most distinguished of the e
 
 An earlier family of repute — the De Morvilles — were located here by, or shortly
 
-before, the commencement of Henry II.' 3.. reign. William de Morville it is conjectured, obtained a grant of the manor from theCrown, but no documentary evidence of such grant has been traced. His name is attached to two important island charters of 1150 and 1161. His descendant Ivo de Morville, Lord of Bradpole, co. Dorset, Wraxall, co. Somerset, and Knighton, Isle of Wight, died before 1256, the date usually assigned, leaving an only daughter Elena, heiress to his large estates. She married' Ralph, son of Ivo de Gorges of Tamworth,. co. Warwick.
+before, the commencement of Henry II.' 3.. reign. William de Morville it is conjectured, obtained a grant of the manor from the Crown, but no documentary evidence of such grant has been traced. His name is attached to two important island charters of 1150 and 1161. His descendant Ivo de Morville, Lord of Bradpole, co. Dorset, Wraxall, co. Somerset, and Knighton, Isle of Wight, died before 1256, the date usually assigned, leaving an only daughter Elena, heiress to his large estates. She married' Ralph, son of Ivo de Gorges of Tamworth,. co. Warwick.
 
-Ralph (1) de Gorges. His marriage with, the heiress took place before 1241, both parties being probably under age. This surmise is based upon the following, entered on a Patent Roll, bearing date Jan 16 1241 :—
+Ralph (1) de Gorges. His marriage with, the heiress took place before 1241, both parties being probably under age. This surmise is based upon the following, entered on a Patent Roll, bearing date Jan 16 1241:—
 
-" Appointment during pleasure of Bartholomew Peche and Joan de Gorges to the custody of the-
-
-lands of Ralph de Gorges and Eleanor his wife ' '
+"Appointment during pleasure of Bartholomew Peche and Joan de Gorges to the custody of the lands of Ralph de Gorges and Eleanor his wife."
 
 Cal. Pat. R., 1232-47, p. 243.
 
-(A reference to Joan de Gorges is found on the Liberate Rolls, May 7, 26 Henry III., Issues of the Exchequer : " Pay &c. to Joari' wife of Ralph de Gorges, 4 marks to purchase a rcbe and coat.")
+(A reference to Joan de Gorges is found on the Liberate Rolls, May 7, 26 Henry III., Issues of the Exchequer: "Pay &c. to Joari' wife of Ralph de Gorges, 4 marks to purchase a rcbe and coat.")
 
-In September of the following year is a mandate to the Archbishop of York, " to assign as soon as possible to Ralph de Gorges
+In September of the following year is a mandate to the Archbishop of York, "to assign as soon as possible to Ralph de Gorges ten pounds yearly for the maintenance of him and his wife." — Cal. Pat. R., 1232-47, p. 323.
 
-ten pounds yearly for the maintenance of hln
+Wiff en, 'Historical Memoirs of the House of Russell,' i. 136, alludes to an earlier alliance of Ralph de Gorges with the heiress of Foliot of Warleigh, but cites no authority for the statement. This story is echoed later by the Rev. George S. Master, 'Collections for a Parochial History of Wraxall' n 10 published 1900:—
 
-and his wife." — Cal. Pat. R., 1232-47, p. 323.
-
-Wiff en, ' Historical Memoirs of the House of Russell,' i. 136, alludes to an earlier alliance of Ralph de Gorges with the heiress of Foliot of Warleigh, but cites no authority for the statement. This story is echoed later by the Rev. George S. Master, ' Collections for a Parochial History of Wraxall ' n 10 published 1900:—
-
-"Sir Ralph' de Gorges married for his first wif» Margaret, daughter and heir of Robert Foliot of 'Warleigh, in Tamerton Foliot, co. Devon and by her, who died in 1239, had issue, &c." ' The Foliot heiress did marry a Ralph de Gorges, but he was of Est Almere, co. Dorset, who is named later as one of the executors of the will of his namesake of Knighton Gorges, whose death took place circa 1272. A pedigree of the ' Gorges of Tamerton Foliot ' is given in Pole's 'Devon' p. 335. Particulars of the inquisition following on the death in 1289 of "Ralph de Gorges de Almere " is given in the 'Calendar of Inquisitions,' ii. 462, published in 1906. He died, in 1289, sine prole, and his wife's name was Margaret, a daughter of Simon de Brionne, vel. Bryon.
+"Sir Ralph' de Gorges married for his first wife, Margaret, daughter and heir of Robert Foliot of 'Warleigh, in Tamerton Foliot, co. Devon and by her, who died in 1239, had issue, &c." The Foliot heiress did marry a Ralph de Gorges, but he was of Est Almere, co. Dorset, who is named later as one of the executors of the will of his namesake of Knighton Gorges, whose death took place circa 1272. A pedigree of the 'Gorges of Tamerton Foliot' is given in Pole's 'Devon' p. 335. Particulars of the inquisition following on the death in 1289 of "Ralph de Gorges de Almere" is given in the 'Calendar of Inquisitions,' ii. 462, published in 1906. He died, in 1289, sine prole, and his wife's name was Margaret, a daughter of Simon de Brionne, vel. Bryon.
 
 A lengthened period elapses before any further allusion to Ralph is found in the public records, but that he might have been actively engaged during the interval may be inferred from the following : —
 
@@ -470,69 +464,67 @@ Sir Ralph was one of those attendant on the king when he was "blocked up," in th
 
 Grave anxiety as to an invasion of the Isle of Wight by the French caused the king in the year 1267
 
-" to appoint our beloved and faithful servants Ralph de Gorges, with others, to well and truly guard the aforesaid island." — Pat. R., 51 Henry III., m. 9d.
+"to appoint our beloved and faithful servants Ralph de Gorges, with others, to well and truly guard the aforesaid island." — Pat. R., 51 Henry III., m. 9d.
 
-"In the year 1270," Sir Ralph " was signed with the Cross, in order for his journey to the Holy Land, where he attended and shared with Prince Edward the glories of the expedition." — Hoare, ' Hist, of Wilts.,' vols. ii.-iii. p. 29.
+"In the year 1270," Sir Ralph "was signed with the Cross, in order for his journey to the Holy Land, where he attended and shared with Prince Edward the glories of the expedition." — Hoare, 'Hist, of Wilts.,' vols. ii.-iii. p. 29.
 
-During, or shortly after his return from, the Crusade he died, leaving his widow with three others — Ralph de Gorges de Almere being one — executors of his will (e Rotulo Finium, 56 Henry III.). He left issue two sons, Ralph the eldest, and John, to whom a reference is made at the time of his mother's demise : —
+During, or shortly after his return from, the Crusade he died, leaving his widow with three others — Ralph de Gorges de Almere being one — executors of his will (e Rotulo Finium, 56 Henry III.). He left issue two sons, Ralph the eldest, and John, to whom a reference is made at the time of his mother's demise:—
 
-" Feb. 5, 1291. Grant to John, son of Elena de Gorges, for the services of the said Elena to the King and late Queen in the guardianship of their children, the princesses Eleanor and Johanna, of a suitable marriage when one falls in." — Cal. Pat. R., 1281-92, p. 422.
+"Feb. 5, 1291. Grant to John, son of Elena de Gorges, for the services of the said Elena to the King and late Queen in the guardianship of their children, the princesses Eleanor and Johanna, of a suitable marriage when one falls in." — Cal. Pat. R., 1281-92, p. 422.
 
 Lady Elena survived her husband many years. Dying in 1291, the royal mandate to take possession of her lands bears the date Feb. 18, 20 Edward I. (Rot. Fin., m. 12). The inquisition was held the same year and the jurors say : —
 
-" Radulphus de Gorges est filius et proximui hseres dictae Elenae, defuncti, et est setatis trigenta sexannorumetamplius." — Calend. Inq. p.m. (Rec Com., 1806), i. 109.
+"Radulphus de Gorges est filius et proximui hseres dictae Elenae, defuncti, et est setatis trigenta sexannorumetamplius." — Calend. Inq. p.m. (Rec Com., 1806), i. 109.
 
 Ralph (2) de Gorges, Lord of Braunton, co. Devon, Bradpole, co. Dorset, Wraxall, co. Somerset, and Knighton, Isle of Wight, son and heir, succeeded his father, circa 1271 and his mother in 1291.
 
-He is first mentioned in connexion with' [sle of Wight records in a plaint relating to ;he levying of scutage in the eighth year of Edward I. This dispute with the Crown appears to have inherited from his father, upon whom an unjust distraint for a contribution to an aid for marrying the king's sldest daughter had been levied, 38-39 Henry III. (Worsley's 'Hist.,' p. 77).
+He is first mentioned in connexion with Isle of Wight records in a plaint relating to the levying of scutage in the eighth year of Edward I. This dispute with the Crown appears to have inherited from his father, upon whom an unjust distraint for a contribution to an aid for marrying the king's sldest daughter had been levied, 38-39 Henry III. (Worsley's 'Hist.,' p. 77).
 
-He was a knight in 1285 ( ' Inq. and Ass. re Feudal Aids, Dorset,' ii. 34), and equalled lis father in military distinction, taking an active and prominent part in the wars of Edward I. An entry on the Close Rolls, 12 Edward I., gives the following notification bo the Exchequer : —
+He was a knight in 1285 ('Inq. and Ass. re Feudal Aids, Dorset,' ii. 34), and equalled lis father in military distinction, taking an active and prominent part in the wars of Edward I. An entry on the Close Rolls, 12 Edward I., gives the following notification bo the Exchequer:—
 
-" That the King in return for his good service has pardoned Ralph de Gorges 24Z. in which he is indebted for the debts of Ralph de Gorges.his father, for the time when he was sheriff of Dorset."' —Cal. Cl. R., 1279-88, p. 260.
+"That the King in return for his good service has pardoned Ralph de Gorges 24Z. in which he is indebted for the debts of Ralph de Gorges.his father, for the time when he was sheriff of Dorset."' —Cal. Cl. R., 1279-88, p. 260.
 
 The nature of the service rendered is not specified. Other smaller amounts are remitted, from time to time, and would thus seem to suggest that Sir Ralph was a persona grata to the king.
 
-From an entry on the Patent Rolls, June 24, 1287, it is evident Sir Ralph was actively engaged in the French wars, a protection order being granted him " going abroad with the King."
+From an entry on the Patent Rolls, June 24, 1287, it is evident Sir Ralph was actively engaged in the French wars, a protection order being granted him "going abroad with the King."
 
-The death of his mother, Lady Elena, occurred early in the twentieth year of Edward I.'s reign, and Sir Ralph doing homage in March of that year had seisin of her estates (Rot. Fin., 20 Edw. I., m. 11). A protection order with clause volumus was granted, June 24, 1291, to him "staying in Scotland on the King's service until Christmas " (Cal. Pat. R.,m. 1). " He was," says Dugdale ' Baronage of England,' ii.-iii., 55, " Marshal of the King's army in Gascoigne, 21 Edward I.," and the following year he returned again to those parts, where he attained such favour from the king that the following grant was made him, in July 15, 1294, that
+The death of his mother, Lady Elena, occurred early in the twentieth year of Edward I.'s reign, and Sir Ralph doing homage in March of that year had seisin of her estates (Rot. Fin., 20 Edw. I., m. 11). A protection order with clause volumus was granted, June 24, 1291, to him "staying in Scotland on the King's service until Christmas" (Cal. Pat. R.,m. 1). "He was," says Dugdale 'Baronage of England,' ii.-iii., 55, "Marshal of the King's army in Gascoigne, 21 Edward I.," and the following year he returned again to those parts, where he attained such favour from the king that the following grant was made him, in July 15, 1294, that going to Gascony on the King's service that if anything should happen to him, before his return, the exors. of his will shall have free administration of his lands and goods for 3 years after his death and also free administration of his mother's will, whereof he is said to be executor." — Cal. Pat. R., 1292-1301, m. 14.
 
-" going to Gascony on the King's service that if anything should happen to him, before his return, the exors. of his will shall have free administration of his lands and goods for 3 years after his death and also free administration of his mother's will, whereof he is said to be executor." — Cal. Pat. R., 1292-1301, m. 14.
+Dugdale referring to the aforesaid grant writes:—
 
-Dugdale referring to the aforesaid grant writes : —
+"But in that year, Charles, brother of the French King, invading Gascoigne with a great power laid siege to Risune, where John de Bretania was governor, who forsaking his charge, exposed those in the garrison to the mercy of the enemy, •-amongst which this Ralph being one, was carried prisoner to Paris."
 
-" But in that year, Charles, brother of the French King, invading Gascoigne with a great power laid siege to Risune, where John de Bretania was governor, who forsaking his charge, exposed those in the garrison to the mercy of the enemy, •-amongst which this Ralph being one, was carried prisoner to Paris."
+Evidence is supplied in a Close Roll that Sir Ralph had already started in September -on his unfortunate expedition to France (Cal. CL R., 1288-96, p. 369). He died during his captivity abroad; the writ to the •escheator bears date Portsmouth, May 23. The text is found on the Fine Rolls (25 Edw. I., m. 13). A closing word "vacat" leads to an inference that the customary writ was issued in ignorance of the grant made to Sir Ralph in 1294, and was quashed later -when it was found, in consequence thereof, -that the king had no interest in Ralph's Elands. The year is given as 1296, but if the regnal year began on Nov. 16, the date is really May 24, 1297, and since the death took place in France it follows that Sir Ralph had been dead some little time on May 24.
 
-Evidence is supplied in a Close Roll that Sir Ralph had already started in September -on his unfortunate expedition to France •(Cal. CL R., 1288-96, p. 369). He died •during his captivity abroad; the writ to the •escheator bears date Portsmouth, May 23. 'The text is found on the Fine Rolls (25 Edw. I., m. 13). A closing word " vacat " 'leads to an inference that the customary writ was issued in ignorance of the grant made to 'Sir Ralph in 1294, and was quashed later -when it was found, in consequence thereof, -that the king had no interest in Ralph's Elands. The year is given as 1296, but if the regnal year began on Nov. 16, the date is really May 24, 1297, and since the death took place in France it follows that Sir Ralph had been dead some little time on May 24.
+Evidence of Sir Ralph's marriage is supplied in the following assignment of dower to his widow:—
 
-Evidence of Sir Ralph's marriage is supplied in the following assignment of dower to his widow : —
+"1297, June 27. These lands [in Essex] are assigned to Maud, late the wife of Ralph de Gorges, as her dower, for a third part of the lands that belonged to Ralph by the assent of the exors. of the will, &c." — Cal. Cl. R., 1296-1302, p. 114.
 
-" 1297, June 27. These lands [in Essex] are assigned to Maud, late the wife of Ralph de Gorges, as her dower, for a third part of the lands that belonged to Ralph by the assent of the exors. of the will, &c." — Cal. Cl. R., 1296-1302, p. 114.
+'The text of the foregoing deed is of more than ordinary importance, since it shows that a Ralph de Gorges had died in the year 1297, leaving a widow, surviving-dower being assigned from the de Gorges estates. Now this Ralph must be "the Marshal," Lord of Knighton Gorges, with wide estates over on the mainland, father of — not identical with — "Ralph, Baron Gorges," who died in 1325.
 
-'The text of the foregoing deed is of more than ordinary importance, since it shows that a Ralph de Gorges had died in the year 1297, leaving a widow, surviving-dower being assigned from the de Gorges estates. Now this Ralph must be "the Marshal," Lord of Knighton Gorges, with wide estates over on the mainland, father of — not identical with — ""Ralph, Baron Gorges," who died in 1325.
+From the following excerpta it will be seen that Dugdale, with other writers, has confused two different personages, the dates given being also at variance with the true facts, since Ralph "the Marshal" died after March, 1295-96, and before May, 1297.
 
-From the following excerpta it will be seen that Dugdale, with other writers, has confused two different personages, the dates given being also at variance with the true facts, since Ralph " the Marshal " died after March, 1295-96, and before May, 1297.
+Collinson, 'Hist, of Somerset,' art. 'Wraxall,' pp. 156-8, writes : —
 
-Collinson, ' Hist, of Somerset,' art. ' Wraxall,' pp. 156-8, writes : —
+"Ralph de Gorges, son and heir of Ralph by Elena his wife, was a knight, and 21 Edward I. was Marshal of the King's army in Gascony."
 
-" Ralph de Gorges, son and heir of Ralph by Elena his wife, was a knight, and 21 Edward I. was Marshal of the King's army in Gascony."
+He goes on to say:—
 
-He goes on to say : —
+"2 Edward II., he was summoned to Parliament among the Barons and died Nov. 29> 17 Edward II., leaving issue by his wife Eleanor* <fcc."
 
-" 2 Edward II., he was summoned to Parliament among the Barons and died Nov. 29> 17 Edward II., leaving issue by his wife Eleanor* <fcc."
+G. E. C.'s 'Complete Peerage,' vol. iv., p. 54, art. 'Gorges,' has : —
 
-G. E. C.'s 'Complete Peerage,' vol. iv., p. 54, art. ' Gorges,' has : —
+"Ralph de Gorges, s. and h. of Ralph de Gorges, Gov. of the castles of Shirburn and Exeter and sometime -Sheriff of Devon, by Eleanor, dr. and h. of John Moreville of Wraxall, co. Som., succ. his father 1272. . . .and was summoned to Parl. as a Baron [Lord Gorges] by writ. He m. Eleanor, &c."
 
-" Ralph de Gorges, s. and h. of Ralph de Gorges, Gov. of the castles of Shirburn and Exeter and sometime -Sheriff of Devon, by Eleanor, dr. and h. of John Moreville of Wraxall, co. Som., succ. his father 1272. . . .and was summoned to Parl. as a Baron [Lord Gorges] by writ. He m. Eleanor, &c."
+'The Victoria County History,' art. 'Knighton,' v. 182, says:—
 
-'The Victoria County History,' art. ' Knighton,' v. 182, says : —
-
-" John or Ivo de Morville died in 1256, leaving a daughter and heir married to Ralph de Gorges. She died in 1291-92, leaving a son Ralph, who in 1305 leased the manor," &c. " The manor see ms to have reverted to Ralph before 1316. Ra'ph (afterwards Sir Ralph) and his wife Eleanor had one son Ralph, who died without issue, evidently before 1330-31."
+"John or Ivo de Morville died in 1256, leaving a daughter and heir married to Ralph de Gorges. She died in 1291-92, leaving a son Ralph, who in 1305 leased the manor," &c. "The manor see ms to have reverted to Ralph before 1316. Ralph (afterwards Sir Ralph) and his wife Eleanor had one son Ralph, who died without issue, evidently before 1330-31."
 
 JOHN L. WHITEHEAD.
 
 Ventnor.
 
-( To be concluded }
+( To be concluded )
 
 https://archive.org/details/s12notesqueries06londuoft/s12notesqueries06londuoft/page/202/mode/2up?q=%22knighton+gorges%22
 12 S. VI MAY 15. 1920
@@ -547,23 +539,21 @@ ISLE OF WIGHT, A.D. 1241-1349.
 
 (See ante, p. 182.)
 
-RALPH ( 3 ^ de Gorges, son and heir of Ralph " the Marshal " and his wife Maud, succeeded to the family estates by May, 1296-97 (Rot. Fin., 25 Edw. I., m. 13). He served under his father in Gascony in the campaign 1294, and was probably taken prisoner with
+RALPH ( 3 ^ de Gorges, son and heir of Ralph "the Marshal" and his wife Maud, succeeded to the family estates by May, 1296-97 (Rot. Fin., 25 Edw. I., m. 13). He served under his father in Gascony in the campaign 1294, and was probably taken prisoner with
 
-him at Risuna, as will be shown later on in • references to the losses he and his father jointly sustained in that expedition. Evidence of his being still in captivity is shown in a protection order, bearing date April 2, 1299, " for Ralph de Gorges for as long as he emains a prisoner with the King of France " (Cal. Pat. R., 1292-1301, p. 402).
+him at Risuna, as will be shown later on in • references to the losses he and his father jointly sustained in that expedition. Evidence of his being still in captivity is shown in a protection order, bearing date April 2, 1299, "for Ralph de Gorges for as long as he emains a prisoner with the King of France" (Cal. Pat. R., 1292-1301, p. 402).
 
-Dugdale says he was serving in Scotland ;he following year, but cites no authority for the statement, and in face of the foregoing excerpt it is probable he was still a prisoner and Dugdale's authority may be only a writ summoning him. He must, however, have 3een set at liberty soon afterwards since he was certainly present at the siege of Caerlaverock in 1300. Hoare says that he is celebrated
+Dugdale says he was serving in Scotland the following year, but cites no authority for the statement, and in face of the foregoing excerpt it is probable he was still a prisoner and Dugdale's authority may be only a writ summoning him. He must, however, have 3een set at liberty soon afterwards since he was certainly present at the siege of Caerlaverock in 1300. Hoare says that he is celebrated by the minstrel as being one of the foremost chieftains who sat down with their chivalry before that noted fortress:—
 
-' by the minstrel as being one of the foremost chieftains who sat down with their chivalry before ;hat noted fortress : —
+There more than once the new-dubbed knight Sir Kalph de Gorges I saw, hemmed round." His long detention as a prisoner in France may have been the cause or reason of his late knighthood. It may be noted here that Wiffen, 'Russell Memoirs,' i. 137, identifies Ralph "the Marshal" in 1294 with Ralph at Caerlaverock in 1300, whereas the latter was the former's son.
 
-There more than once the new-dubbed knight Sir Kalph de Gorges I saw, hemmed round." His long detention as a prisoner in France may have been the cause or reason of his late knighthood. It may be noted here that Wiffen, 'Russell Memoirs,' i. 137, identifies Ralph "the Marshal " in 1294 with Ralph at Caerlaverock in 1300, whereas the latter was the former's son.
-
-By a fine (29 Edw. I., 1301) evidence is afforded of Sir Ralph being then married, a " Magister Thomas Gorges " granting certain manors and the advowson of a church, &c., in the county of Dorset " to Ralph de Gorges and Alionora his wife."
+By a fine (29 Edw. I., 1301) evidence is afforded of Sir Ralph being then married, a "Magister Thomas Gorges" granting certain manors and the advowson of a church, &c., in the county of Dorset "to Ralph de Gorges and Alionora his wife."
 
 In the year 1305 the manor of Knighton Gorges was leased to William de Caleshale and his wife Cicely for the term of their lives (Inq. a.q.d., file 55, no. 20).
 
-The claim advanced by Sir Ralph to be reimbursed for the losses he had sustained in the French wars in Gascony is now dealt with : —
+The claim advanced by Sir Ralph to be reimbursed for the losses he had sustained in the French wars in Gascony is now dealt with:—
 
-" 1308, May 4. To the treasurer and Barons of the Exchequer. Order to allow to Ralph de Gorges in the debts due from him, the arrears of the wages due to him and his father Ralph, for the time when they were in the late King's service in Gascony in the twenty-second year of his reign, and for the restitution of their horses, their loot, and also for the wool of his father seized for the use of the late King." — Cal. Pat. R., 1307-13. It appears from an entry made in the Close Rolls two years later that some difficulty was found in carrying out the order, "because they were not notified of the number and price of the said horses, &c." (Cal. Cl. R., 1307-13, p. 104, m. 26).
+"1308, May 4. To the treasurer and Barons of the Exchequer. Order to allow to Ralph de Gorges in the debts due from him, the arrears of the wages due to him and his father Ralph, for the time when they were in the late King's service in Gascony in the twenty-second year of his reign, and for the restitution of their horses, their loot, and also for the wool of his father seized for the use of the late King." — Cal. Pat. R., 1307-13. It appears from an entry made in the Close Rolls two years later that some difficulty was found in carrying out the order, "because they were not notified of the number and price of the said horses, &c." (Cal. Cl. R., 1307-13, p. 104, m. 26).
 
 The foregoing notices are all important, as I have already pointed out, showing that the
 
@@ -571,7 +561,7 @@ pedigrees given in the peerages are an error,
 
 .-since they make Ralph "the Marshal" in
 
-' Oascony, 1294, and who died by or before
+' Gascony, 1294, and who died by or before
 
 .May, 1296, > identical with Ralph, "Baron
 
@@ -589,7 +579,7 @@ enough to take part in the campaign, who
 
 must be identified with Ralph, Baron Gorges,
 
-summoned to Parliament as a " Baron by
+summoned to Parliament as a "Baron by
 
 Writ from Mar. 4, 2 Edward II., 1309, to
 
@@ -601,13 +591,11 @@ Evidence in the Close Rolls (Gal., 1307-13, p. 318) shows that Sir Ralph was wit
 
 About this time Sir Ralph was chosen to
 
-;hold the important office of Justiciary in Ireland. The particulars are entered on the Patent Rolls and involved " keeping the
-
-'land of Ireland with its castles, receiving as long as he shall remain in that office 500?.
+;hold the important office of Justiciary in Ireland. The particulars are entered on the Patent Rolls and involved "keeping the land of Ireland with its castles, receiving as long as he shall remain in that office 500?.
 
 • a year" (Cal. Pat. R., 1321-24, p. 546, m. 7d). A protection order for three years
 
-•was granted, "Mar. 28, 1321, for Thomas de Anne going with Ralph de Gorges " the elder "to Ireland on the king's service." It would, however, seem doubtful if Sir Ralph
+•was granted, "Mar. 28, 1321, for Thomas de Anne going with Ralph de Gorges "the elder "to Ireland on the king's service." It would, however, seem doubtful if Sir Ralph
 
 • ever reached Ireland and took up the appointment for, apparently, when on his way thither he was turned aside and sent
 
@@ -619,19 +607,19 @@ It would appear, from a later notice, that the ransom alluded to was never paid,
 
 " to Roger de Mortuo Mari of Wygenor to cause Ralph de Gorges to be released from the custody -wherein he holds him, or, to signify to the king 'the reason for not obeying this 'order."
 
-Sir Ralph was probably released before Feb. 15, 1322-23, when he is commissioned to raise a thousand footmen in the counties of Somerset and Dorset ; and later is further empowered "to raise double that number, five hundred to be armed " (Cal. Pat. R., 1321-24, pp. 73, 76). On the same Rolls (p. 188) is a notice that a protection order was granted to Ralph de Gorges going with Hugh le Despencer " the younger " with the king to Scotland.
+Sir Ralph was probably released before Feb. 15, 1322-23, when he is commissioned to raise a thousand footmen in the counties of Somerset and Dorset; and later is further empowered "to raise double that number, five hundred to be armed" (Cal. Pat. R., 1321-24, pp. 73, 76). On the same Rolls (p. 188) is a notice that a protection order was granted to Ralph de Gorges going with Hugh le Despencer "the younger" with the king to Scotland.
 
-Sir Ralph died in October, 17 Edward II., the writ — " ad diem suum clausit extremum " — is dated the 24th, the inquisition being held on Dec. 30 ( ' Calendar of Inquisitions,' publ. 1906, vol. vi., p. 299), and the jurors say " that Ralph, his son, aged 15 on the feast of St. Michael last, is the next heir." He left further three daughters, Elizabeth, Eleanor, and Joan. Lady Eleanor survived until 1349.
+Sir Ralph died in October, 17 Edward II., the writ — "ad diem suum clausit extremum" — is dated the 24th, the inquisition being held on Dec. 30 ('Calendar of Inquisitions,' publ. 1906, vol. vi., p. 299), and the jurors say "that Ralph, his son, aged 15 on the feast of St. Michael last, is the next heir." He left further three daughters, Elizabeth, Eleanor, and Joan. Lady Eleanor survived until 1349.
 
-Of Ralph (4) de Gorges. He was born about Michaelmas, 1308. Collinson, ' Hist, of Somerset,' says "he left no issue." Hoare, 'Hist, of Wilts.,' p. 29, writes : "He soon followed his father to the grave, unwedded." G. E. C.'s 'Complete Peerage' states : " He died soon afterwards, a minor, and unmarried." The foregoing statements are more or less inaccurate, for Ralph was living in 1336, and was married, 4 Edw. III., to a lady Elizabeth, whose family name has not been traced. The marriage is evidenced to
+Of Ralph (4) de Gorges. He was born about Michaelmas, 1308. Collinson, 'Hist, of Somerset,' says "he left no issue." Hoare, 'Hist, of Wilts.,' p. 29, writes: "He soon followed his father to the grave, unwedded." G. E. C.'s 'Complete Peerage' states: "He died soon afterwards, a minor, and unmarried." The foregoing statements are more or less inaccurate, for Ralph was living in 1336, and was married, 4 Edw. III., to a lady Elizabeth, whose family name has not been traced. The marriage is evidenced to
 
-" by a fine made in the year 1330, at Westminster, between Walter Waleys, querent, and Ralph de Gorges and Elizabeth his wife for the manor of Wroxhale and for the advowson of the church there, &c."- — Publ. Som. Rec. Soc., xii. 146.
+"by a fine made in the year 1330, at Westminster, between Walter Waleys, querent, and Ralph de Gorges and Elizabeth his wife for the manor of Wroxhale and for the advowson of the church there, &c."- — Publ. Som. Rec. Soc., xii. 146.
 
-The writer of the article ' Knighton ' in the ' Victoria County History,' v. 182. errs in stating : —
+The writer of the article 'Knighton' in the 'Victoria County History,' v. 182. errs in stating:—
 
-" Ralph and his wife Eleanor had a son Ralph, who died without issue, evidently before 1330-31, when Sir Ralph settled the manor in tail-male on two younger sons of his daughter Eleanor who had married Theobald Russell of Yaverland. William, the elder of the two brothers, died s.p., and the manor (Knighton) was delivered to his brother and heir Theobald in 1343."
+"Ralph and his wife Eleanor had a son Ralph, who died without issue, evidently before 1330-31, when Sir Ralph settled the manor in tail-male on two younger sons of his daughter Eleanor who had married Theobald Russell of Yaverland. William, the elder of the two brothers, died s.p., and the manor (Knighton) was delivered to his brother and heir Theobald in 1343."
 
-A query arises, was not this rather on the death of Ralph (4) de Gorges who was living in 1336, as shown in the following quit claim : " 10 Edw. III., Feb. 27, 1336, by Ralph, son of Sir Ralph Gorges, to Sir John de Roches for lands in Bromley, &c." (Montagu Burrows, ' Brocas of Beaurepaire, ' p. 349). The deed was witnessed to by Sirs Theobald Russel, Bartholomew de Insula, and John de Glamorgan, and was dated at Yaverland 'in the Isle of Wight.
+A query arises, was not this rather on the death of Ralph (4) de Gorges who was living in 1336, as shown in the following quit claim: "10 Edw. III., Feb. 27, 1336, by Ralph, son of Sir Ralph Gorges, to Sir John de Roches for lands in Bromley, &c." (Montagu Burrows, 'Brocas of Beaurepaire,' p. 349). The deed was witnessed to by Sirs Theobald Russel, Bartholomew de Insula, and John de Glamorgan, and was dated at Yaverland 'in the Isle of Wight.
 
 Ralph died before 1346-47, for in that year Theobald Russel was sued by Elizabeth, widow of Ralph de Gorges "the younger," for the manor of Knighton. Judgment was given in her favour, but since she had no issue by Ralph, the manor reverted to Theobald, who was in possession in 1362 (Gal. 01. R., 36 Edw. III., m. 9, no. 14).
 
@@ -648,20 +636,20 @@ Publication date 1884
 
 p166-7
 
-Descending the down, southward, we come, in a leafy gorge of singular beauty, upon the scanty relics of a mansion, once the most considerable in the island ; the ancient manor-house of *Knighton Gorges*, built in the reign of James I. (on the site of a yet older building, the residence of the De Gorges). In the early part of the reign of George III. it belonged to Mr. Fitzmaurice, who assembled here the Georgian wits, Wilkes, David Garrick, Mrs. Garrick, and others.
+Descending the down, southward, we come, in a leafy gorge of singular beauty, upon the scanty relics of a mansion, once the most considerable in the island; the ancient manor-house of *Knighton Gorges*, built in the reign of James I. (on the site of a yet older building, the residence of the De Gorges). In the early part of the reign of George III. it belonged to Mr. Fitzmaurice, who assembled here the Georgian wits, Wilkes, David Garrick, Mrs. Garrick, and others.
 
-"Like many other mansions, Knighton House," we are told, "was reported to be haunted; but the exact nature of the unearthly visitant is not stated, though it was said to intimate its whereabouts by a noise resembling the clanking of heavy chains. In later times, however, this noise was confined to one room, which was never opened ; and above its entrance Avas inscribed a Latin legend of such potency as to prevent the troubled spirit's egress. There is a strange story current respecting the death of the last male of the Dillington family, who for many years possessed the manor and house of Knighton. The party alluded to, Sir Tristram Dillington, lost his wife and all his children in rapid succession, and finally fell himself by his own hand through despair — leaving two sisters, who afterwards died single. To prevent the forfeiture of the estate by the felo de se of his master, the steward, directly he became aware of the tragedy, took the horse his master usually rode, and having reversed the saddle, drove it into the mill-pond close to the house. This countenanced a report, which he immediately sj3read, that Sir Tristram, returning home late at night, inadvertently rode into the pond ; and through the slackness of the saddle-girth fell from his horse, and was drowned before assistance could be rendered. This occurred at least a century ago. It was easy to avoid an inquest, and the stratagem succeeded " ( Walks Round Ryde).
+"Like many other mansions, Knighton House," we are told, "was reported to be haunted; but the exact nature of the unearthly visitant is not stated, though it was said to intimate its whereabouts by a noise resembling the clanking of heavy chains. In later times, however, this noise was confined to one room, which was never opened; and above its entrance Avas inscribed a Latin legend of such potency as to prevent the troubled spirit's egress. There is a strange story current respecting the death of the last male of the Dillington family, who for many years possessed the manor and house of Knighton. The party alluded to, Sir Tristram Dillington, lost his wife and all his children in rapid succession, and finally fell himself by his own hand through despair — leaving two sisters, who afterwards died single. To prevent the forfeiture of the estate by the felo de se of his master, the steward, directly he became aware of the tragedy, took the horse his master usually rode, and having reversed the saddle, drove it into the mill-pond close to the house. This countenanced a report, which he immediately sj3read, that Sir Tristram, returning home late at night, inadvertently rode into the pond; and through the slackness of the saddle-girth fell from his horse, and was drowned before assistance could be rendered. This occurred at least a century ago. It was easy to avoid an inquest, and the stratagem succeeded" (Walks Round Ryde).
 
-Legh Richmond describes the old house as a large and venerable mansion, standing in a beautiful valley at the foot of a high hill, and embowered in fine woods, which were interspersed in every direction with rising, falling, and swelling grounds. " It had evidently descended through a long line of ancestry from a distant period of time. The Gothic character of its original architecture was still preserved in the latticed windows, adorned with carved divisions and pillars of stonework. Several pointed terminations also, in the construction of the roof, according to the custom of our forefathers, fully corresponded with the general features of the building. One end of the house was entirely clothed with the thick foliage of an immense ivy, which climbed beyond customary limits, and embraced a lofty
+Legh Richmond describes the old house as a large and venerable mansion, standing in a beautiful valley at the foot of a high hill, and embowered in fine woods, which were interspersed in every direction with rising, falling, and swelling grounds. It had evidently descended through a long line of ancestry from a distant period of time. The Gothic character of its original architecture was still preserved in the latticed windows, adorned with carved divisions and pillars of stonework. Several pointed terminations also, in the construction of the roof, according to the custom of our forefathers, fully corresponded with the general features of the building. One end of the house was entirely clothed with the thick foliage of an immense ivy, which climbed beyond customary limits, and embraced a lofty
 
 
 ENVIRONS OF RYDE. 167
 
 eliimiiey Tip to its very summit. Such a tree seemed congenial to the walls that supported it, and conspired with the antique fashion of the place to carry imagination back to the days of our ancestors."
 
-It was here that Legh Eichmond first made the acquaintance of Elizabeth Wallbridge, the " Dairyman's Daughter," then a servant in the establishment.
+It was here that Legh Eichmond first made the acquaintance of Elizabeth Wallbridge, the "Dairyman's Daughter," then a servant in the establishment.
 
-The only remains of the old house are some garden- walls, grassgrown piles of masonry, and the entrance gates. In the immediate vicinity are a farm-house, a cottage, and a portion of the Ryde Water- works. Of these, however, the princiiDal section is situated in the valley between Ashey and Brading Downs.
+The only remains of the old house are some garden- walls, grassgrown piles of masonry, and the entrance gates. In the immediate vicinity are a farm-house, a cottage, and a portion of the Ryde Water- works. Of these, however, the principal section is situated in the valley between Ashey and Brading Downs.
 
 
 
@@ -681,7 +669,7 @@ Ashey
 
 The manor of Knighton Gorges was held in the reign of Henry III. by John de Morville, a younger brother of De Morvilles, a conſiderable family in the county of Cumberland. John de Morville dying in the forticth year of Henry III. Ralph de Gorges, who married Elen, his daughter and coheir, enjoyed the manor in her right, and received the homage of his tenants at Bradpole, in Dorſetſhire. Sir Ralph de Gorges, the ſon of Elen, left only one daughter, Eleanor the wite of the celebrated Sir Theobald Ruſſel, whoſe ſon Sir Ralph Ruſſel ſucceeded to the Lordſhip of Knighton, and left Sir Maurice his heir. Thomas the only ſon of Sir Maurice dying withbut iſſue, his heirs general were John Hacket, ſon of one of the daughters of Sir Maurice Ruſſel, f and two of her daughters, Margaret, who married John Keneys, and Eleanor, the wife of Stephen Hatfield. Knighton fell ro the ſhare of Hacket, as appears by the return to an inquiſition taken in the ſeventeenth year of the reign of Henry VI. He alſo poſſeſſed Woolverton, Milton, and other eſtates in this iſland. f He left two daughters, Joan and Agnes; Joan married Gilbert, of Whitcombe,
 
-in Somerſetſhire, and had Knighton with part of Woolverton for her portion; and that manor continued in the Gilbert family until the 5th of Elizabeth, when George Gilbert, of Whitcombe, fold the manor of Knighton, and his ſhares of Milton, Woolverton in Bimbridge, and the manor of Cleavelands in the pariſh of Newchurch, to Anthony Dillington, Eſq. of Pool, in Dorſetſhire: Mr. Dillington ſold his ſhare of Woolverton, Milton, and Cleavelands, to Sir Robert Worſley ; but Knighton continued for a long time the ſeat of his family, until, by a failure in the male line, the manor devolved to two ſiſters, coheireſſes of Sir Triſtram Dillington, Bart. the laſt of whom bequeathed it to Maurice Bocland, Eſq. on whoſe deceaſe, it deſcended to the preſent proprietor, George Maurice Biſſet, Eſq. Knighton Houſe is an old building, containing ſeveral good apartments, beautifully ſituated on the edge of a hill. between ſome fine woods, formerly remarkable for great plenty of pheaſants.
+in Somerſetſhire, and had Knighton with part of Woolverton for her portion; and that manor continued in the Gilbert family until the 5th of Elizabeth, when George Gilbert, of Whitcombe, fold the manor of Knighton, and his ſhares of Milton, Woolverton in Bimbridge, and the manor of Cleavelands in the pariſh of Newchurch, to Anthony Dillington, Eſq. of Pool, in Dorſetſhire: Mr. Dillington ſold his ſhare of Woolverton, Milton, and Cleavelands, to Sir Robert Worſley; but Knighton continued for a long time the ſeat of his family, until, by a failure in the male line, the manor devolved to two ſiſters, coheireſſes of Sir Triſtram Dillington, Bart. the laſt of whom bequeathed it to Maurice Bocland, Eſq. on whoſe deceaſe, it deſcended to the preſent proprietor, George Maurice Biſſet, Eſq. Knighton Houſe is an old building, containing ſeveral good apartments, beautifully ſituated on the edge of a hill. between ſome fine woods, formerly remarkable for great plenty of pheaſants.
 
 
 https://archive.org/details/bim_eighteenth-century_collections-for-the-hist_d-y_1795_1/page/n329/mode/2up?q=%22knighton+gorges%22+%22felo+de+se%22
@@ -705,7 +693,7 @@ Maurice Ruſſel,“ and two of her daughters; Margaret, who married John Keneys
 
 ia Somerſetſhire, and had Knighton, with part of Wolverton for her portion; and that
 
-manor continued in the Gilbert family until the fifth of Elizabeth, when George Gilbert of Witcombe, ſold the manor of Knighton, and his ſhares of Milton, Woolverton in Bimbridge, and the manor of Cleavelands in the pariſh of Newchurch, to Anthony Dillington, Eſq. of Pool, in Dorſetſhite: Mr, Dillington fold his ſhare of Woolverton, Milton, and Cleavelands, to Sir Robert Worſley ; but Knighton continued for a long time the ſeat of his family, until by a failure in the male line, the manor devolved to two ſiſters, coheireſſes of Sir Triſtram Dillington, Baronet, the laſt of whom begueathed it to Maurice Bocland, Eſquire, on whoſe deceaſe it deſcended to the preſent proprietor, George Maurice Biſſet, Eſquire. Knighton Houſe is an old building, containing ſeveral good apartments, beautifully ſituated on the edge of a hill between ſome fine woods, formerly remarkable for great plenty of pheaſants.
+manor continued in the Gilbert family until the fifth of Elizabeth, when George Gilbert of Witcombe, ſold the manor of Knighton, and his ſhares of Milton, Woolverton in Bimbridge, and the manor of Cleavelands in the pariſh of Newchurch, to Anthony Dillington, Eſq. of Pool, in Dorſetſhite: Mr, Dillington fold his ſhare of Woolverton, Milton, and Cleavelands, to Sir Robert Worſley; but Knighton continued for a long time the ſeat of his family, until by a failure in the male line, the manor devolved to two ſiſters, coheireſſes of Sir Triſtram Dillington, Baronet, the laſt of whom begueathed it to Maurice Bocland, Eſquire, on whoſe deceaſe it deſcended to the preſent proprietor, George Maurice Biſſet, Eſquire. Knighton Houſe is an old building, containing ſeveral good apartments, beautifully ſituated on the edge of a hill between ſome fine woods, formerly remarkable for great plenty of pheaſants.
 
 * Dugdale has mentioned the Ruſſel family as anceſtors of the Dukes of Bedford; but the Ruſſels of
 
@@ -715,4 +703,4 @@ the Iſle of Wight not only bore different arms, but appear plainly to have ſun
 
 p. 69
 
-The charter of Iſabella de Fortibus received ſeveral royal confirmations ; `[The preamble to the confirmation of Queen Elizabeth, in the records of the town, enumerates the ſeveral following Princes who had ratified the charter of the borough of Newport. Elizabeth, by the grace of God, Queene of England, France, and Ireland, defender of the faith, Ke. beheld the charter of her brother Edward the vith. Edward vith. beheld the charter of his father “ Henrie the viiith. Henry the viiith, beheld the charter of Henry vii, Henry vii. beheld the charter * of Edward the iiijth, Edward the iiijth. behelde the charter of Richard the ijd. Richard the ijd. * behelde the charter of his graunt father Edward the iijd. Edward the iijd, behelde the charter of the good Ladye Iſabell de Fortibus, who, in her pure widoed, gave, granted, and confirmed the charter of Medyne, now comonlie called Newporte, to the balives and comburgeſyes of the ſame, as in the * ſaid charter hereafter ſhall and may more at large appeare.“ g]` that of Edward IV. included a grant of the forfeitures of outlaws, felons, fugitives, and of felo de ſe within the borough : and to the confirmations by Henry VII. and Edward VI, are added the petty cuſtoms within any port or creek of the iſland.
+The charter of Iſabella de Fortibus received ſeveral royal confirmations; `[The preamble to the confirmation of Queen Elizabeth, in the records of the town, enumerates the ſeveral following Princes who had ratified the charter of the borough of Newport. Elizabeth, by the grace of God, Queene of England, France, and Ireland, defender of the faith, Ke. beheld the charter of her brother Edward the vith. Edward vith. beheld the charter of his father “ Henrie the viiith. Henry the viiith, beheld the charter of Henry vii, Henry vii. beheld the charter * of Edward the iiijth, Edward the iiijth. behelde the charter of Richard the ijd. Richard the ijd. * behelde the charter of his graunt father Edward the iijd. Edward the iijd, behelde the charter of the good Ladye Iſabell de Fortibus, who, in her pure widoed, gave, granted, and confirmed the charter of Medyne, now comonlie called Newporte, to the balives and comburgeſyes of the ſame, as in the * ſaid charter hereafter ſhall and may more at large appeare.“ g]` that of Edward IV. included a grant of the forfeitures of outlaws, felons, fugitives, and of felo de ſe within the borough : and to the confirmations by Henry VII. and Edward VI, are added the petty cuſtoms within any port or creek of the iſland.

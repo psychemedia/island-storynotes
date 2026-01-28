@@ -28,7 +28,7 @@ I observed to the antiquary that I had hoped to have left Southampton in the for
 
 "Well — well — well," said the antiquary, "now you have finished what you had to say, I will just inform you, that the childish appellation of chopped ham, or rather, as it should be called, "chopped Hamo," is derived from a very ancient and curious tradition, — from which both the town of Southampton, and the county in which it is situated, have derived their name; but it would be as well here to observe, that many things that appear at first trivial, or, as in the present instance, childish, may be derived from an origin both important and curious."
 
-Here the captain of the steamer got upon the paddle-box, and said to the man on deck, "go a-head." The man on deck said to the engineer below, "Go a-'ead ;" and away we steamed down Southampton Water. I left the antiquary a little time to himself; for his temples had evidently been slightly ruffled by my last observation: and then I hinted to him how much I wished to hear
+Here the captain of the steamer got upon the paddle-box, and said to the man on deck, "go a-head." The man on deck said to the engineer below, "Go a-'ead;" and away we steamed down Southampton Water. I left the antiquary a little time to himself; for his temples had evidently been slightly ruffled by my last observation: and then I hinted to him how much I wished to hear
 
 THE STORY OF CHOPPED HAMO.
 

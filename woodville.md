@@ -428,7 +428,7 @@ Which proved our rue and loss.
 
 Chateaubrian the 'rereward' led —  
 'Twas there our weakness lay;  
-The ''van' was marshalled by de Rieux,  
+The 'van' was marshalled by de Rieux,  
 Rank on rank in order true,  
 The 'battle' by D'Albret.
 

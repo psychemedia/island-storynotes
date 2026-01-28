@@ -47,7 +47,7 @@ wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg
 IW LIBRARY
 https://iow.spydus.co.uk/cgi-bin/spydus.exe/ENQ/OPAC/BIBENQ?ENTRY=Royal+Isle+of+Wight+Golf+Club&ENTRY_NAME=BS&ENTRY_TYPE=K&SEARCH_FORM=%2Fcgi-bin%2Fspydus.exe%2FMSGTRN%2FOPAC%2FBSEARCH%3FHOMEPRMS%3DBSEARCHPARAMS&SORTS=SQL_REL_BIB&ISGLB=0&GQ=Royal+Isle+of+Wight+Golf+Club
 Select
-	Cover - Link opens in a new windowThe Royal isle of Wight Golf Club [book]
+	Cover - Link opens in a new window The Royal isle of Wight Golf Club [book]
 BROWNING, Robert H K.
 The Golf Clubs Association, [1946]
 Location	Collection	Call Number	Status/Desc
