@@ -1,8 +1,6 @@
-# The Last Pistol Duel
+# The Last Pistol Duel on the Island
 
-last pistol duel in country?
-
-Lockyer buried in St mary;s Cowes graveyard
+Several years ago, someone made mention to me of the last duel on the island that had taken place at Northwood in Cowes. I didn't chase it up at the time, but it was more recently brought to my mind when I heard contemporary folk duo Jess Leigh Ong and Al Watson, aka *Berlingo Flick*, singing their song *The Final Duel* on the Acoustic Stage at Kashmir Fringe Festival (2026) at Quay Arts in Newport.
 
 
 Berlingo Flick (Jess Leigh Ong + Al Watson)
@@ -51,7 +49,67 @@ The Final Duel
 
 Jess - "That's most of the lyrics, certainly the factual ones, the ship and where it was headed, what he is purported to have said, that John Sutton had been playing billiards elsewhere earlier and had taken his winnings in wine, and was already well away when he arrived at the dolphin inn about 9pm..."
 
+
+
+Lockyer buried in St mary's Cowes graveyard. west wall?
+
 ---
+
+
+https://academic.oup.com/book/45624/chapter/394884888?login=false
+Artisans Abroad: British Migrant Workers in Industrialising Europe, 1815-1870
+Fabrice Bensimon
+
+https://www.jstor.org/stable/3112919?seq=1
+Damming the Flood: British Government Efforts to Check the Outflow of Technicians and Machinery, 1780-1843
+David I. Jeremy
+The Business History Review, Vol. 51, No. 1 (Spring, 1977), pp. 1-34 (36 pages)
+
+...  No artisans at all were licensed by the Privy Council to emigrate between 1814 and 1824. And in the period 1780-1824, apart from the three permits to steam engine erectors, the Board of Trade allowed only one skilled worker, Richard Smith, to go abroad. Halted at the Liverpool Customs in 1817, he admitted that he had once been a master spinner, was presently assistant to a Staffordshire land surveyor, and was going to Philadelphia to recover unspecified property taken thence by James Slater, late of Cheadle. `[P.C. 2/205 pp. 420-421. B.T. 1/119, ff. 8-10. B.T. 5/26, p. 140]` ...
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170929/011/0003
+Morning Chronicle - Monday 29 September 1817
+
+A CASE OF UNCOMMON VILLAINY.
+
+*Mansion-house.*—Three or four persons of respectable appearance applied on Saturday to the Lord Mayor, in consequence of the conduct of a person named Fitzgerald, a resident in this city, who has raised considerable sums by the means which we shall represent to our readers.
+
+On the 28th June, 1817, the barque Caledonia, Thomas Armstrong, Master, owned by James and Thomas Fitzgerald, wharfingers, near the Tower, London, was advertised as a vessel for passengers from Liverpool to New York and Philadelphia. It was stated the vessel would positively sail on or about the 10th July; and, as an additional inducement for persons to engage with the vessel, it was also stated that a Mr. Ross was going out in the ship, who would settle in Philadelphia, connected with a house of the first respectability in London, and do all in his power to procure employment for such as might be in want thereof, on their arrival in America. In consequence of this advertisement, and the terms of passage being deemed cheap, about one hundred and thirty persons entered themselves as passengers on board the Caledonia, several of those persons having wives and families. From these persons James Fitzgerald, then in Liverpool, received money on account of their passage, and from some of them the whole amount. It is estimated, that in the whole he received the sum of 500l. The Caledonia did not sail on the 10th July; and in the course of the month, Thomas Armstrong, the Master, was arrested for a debt contracted by him on account of the vessel. James Fitzgerald was himself arrested; and, to procure his liberty, deposited the ship's register with the creditor as a pledge for the debt. On the 14th of August, he set out, as alleged, for London, leaving the vessel under the command of the chief mate, to whom he addressed a note, stating he should return to Liverpool in four days, and requesting, in the interim, the mate would study the comfort of the passengers. The mate having no money or credit, the steerage passengers and himself and crew might have starved, had not the cabin passengers permitted them, from charitable motives, to participate in their sea-stores and provisions, until the whole was consumed. James Fitzgerald has not yet returned to Liverpool; but, in consequence of representations made on behalf of the distressed passengers to one of the Fitzgeralds in London, a person was sent down to Liverpool to take the command of the vessel. This person, on his arrival in Liverpool, sent a day's provision on board for the almost famished passengers and crew, and continued thus to supply them for a few days; but suddenly ceased, alleging that he had spent all his own money. At length dispatches arrived; the present Captain assumed the command of the vessel, redeemed the register from pledge, and instantly discharged the mate and crew, refusing to pay them one shilling on account of wages. The vessel is now repairing, and, to the astonishment of the passengers, they are told she will not proceed either to New York or Philadelphia, but will clear out for St. John's, New Brunswick. The Captain has offered to replace the sea-stores and provisions which belonged to the cabin passengers, and were consumed aboard the vessel by themselves, the steerage passengers, and mate and crew, provided the passengers will consent to proceed with the vessel to St. John's; but this proposal has been (in general) declined, as only offering to the passengers the prospect of perishing amidst the snows of Canada.
+
+It is almost impossible to describe the miseries endured by the passengers who are now on board the vessel. It is to be recollected that she has for nearly three months been the only place of shelter for 130 human beings, and not the slightest attention has ever been paid by any person on behalf of the owners, either to the cleanliness or comfort of the births. To most of those unfortunate passengers it is a matter of strict necessity to abide by the vessel whatever may be the result, having no other place in which to shelter their heads from the damps of night. One of them, a respectable tradesman, sent his few goods to America by another vessel (the Caledonia, taking passengers only) in the hope that he should reach the United States in time personally to receive them.— After payment of the passage money for himself, his wife, and children, he was robbed on board the Caledonia of what little money he then possessed. And to complete his misfortunes, he has lately received intelligence of the failure of a person in America indebted to him in a sum of money which was to have formed the capital for his future pursuits across the Atlantic. This passenger is now therefore completely destitute, not possessed of one shilling to purchase his children bread. Another poor man, a native of Ireland, having paid for his passage, and spent the remainder of the small sum of money with which he had set out upon his journey, in supporting life, determined upon the singular expedient of travelling back to his native country, (at one of the most distant parts of which his friends resided), for the purpose of obtaining from them the means of laying in a stock for the voyage, which he was sanguine enough to suppose was not in the air. In poverty he travelled to Ireland, and in poverty he returned; but he brought a fever which he had contracted in his journey through the diseased districts. He now lies in his hammock under the influence of the disorder, which may extend its ravages amongst the whole of the passengers, who are compelled to remain on board the vessel, in the apprehension of a more certain evil which awaits them on shore. Several of the poor passengers who have been so fortunate as to be still in possession of a little money, have proceeded to America, leaving authority with their friends to proceed against Fitzgerald for the recovery of their money. The mate and seamen have arrested the vessel by warrant out of the Court of Admiralty, to recover their wages.—The Lord Mayor, at this statement, asked whether application had been made to any authorities at Liverpool upon the subject?—The complainants replied, that although the case had excited the utmost horror in Liverpool, there seemed to be a doubt whether it came within the view of criminal prosecution.
+
+The Lord Mayor recollected some complaint of a description, the atrocity of which nearly resembled that he had just paid attention to. It occurred on Tower-hill, and the plan seemed to have been arranged upon the same system, and nearly to the same effect. The persons employed in the deception, however, evaded the pursuit of justice. It was a case, his Lordship said, upon which the best judgment should be taken. He apprehended the failure of a criminal proceeding, but recommended that legal advice should be immediately resorted to.
+
+The complainants begged to know whether the process of the Court of Admiralty could not be extended to the case of the unfortunate passengers. If so, their claims might be speedily adjusted, but at present they were without any effectual remedy in the midst of disasters.
+
+The Lord Mayor again recommended application to the best legal authorities, and expressed his promptitude to assist in obtaining satisfaction for the poor creatures who were labouring under such privations.
+
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170930/010/0003
+Morning Chronicle - Tuesday 30 September 1817
+
+THE SHIP CALEDONIA.
+
+We readily give insertion to the following letter and accompanying documents, respecting the case mentioned in our Paper of yesterday, to have occurred at the at Mansion House. We copied, in common with all the other Papers of yesterday, the statement referred to (with some curtailment), from a Sunday Paper, which we find, however, in this instance as in others, is not in the least to be relied upon:
+
+TO THE EDITOR OF THE MORNING CHRONICLE.
+
+Sir,
+
+There having appeared in your Paper of this day a long paragraph, entitled "A case of uncommon Villany," evidently taken from *The Observer* paper of yesterday, which is by no means true, I beg that you will cause the under-written statement of what occurred before the Lord Mayor to be published in your Paper of to-morrow, as the least amends you can make for the great injury that such paragraph must occasion to me in my mercantile pursuits. I am, Sir, your obedient servant, - JAMES FITZGERALD, Joint Owner of the Ship Caledonia.
+
+On Saturday the 20th inst. Mr. Michael Wall applied to the Lord Mayor for a summons against James Fitzgerald, as owner of the Caledonia, in order to obtain from him a return of 22l. paid by Mr. Wall for his passage to New York and Philadelphia. This summons was attended on Tuesday by Mr. Fitzgerald, who stated to his Lordship the unfortunate cause which had detained that vessel at Liverpool, and that she was undergoing repairs, from the circumstance of her having been run foul of by another vessel, and greatly injured; and Mr. Fitzgerald offered to make Mr. Wall any remuneration in his power, for the inconvenience he had sustained, and which he had since done to Mr. Wall's satisfaction. On Friday last Mrs. Ann Boyle went before the Lord Mayor (not having seen Mr. Fitzgerald in the first instance), with a clerk of Messrs. Dacie and John, of Gray's Inn, in order to make a similar complaint to that which had been preferred by Mr. Wall; and upon shewing to his Lordship a letter, stating that she was a passenger by the Caledonia, his Lordship said, that the owner had been summoned before him a few days ago, by a Mr. Wall, and that he had made a satisfactory arrangement with Mr. Wall, and his conduct had been very liberal; and his Lordship recommended Mrs. Boyle to call on Mr. Fitzgerald, and that he had no doubt but that Mr. Fitzgerald would satisfy her; his Lordship stated also that he could not do any thing for her. Mrs. Boyle took the advice of the worthy Chief Magistrate, and has been amply recompenced by Mr. Fitzgerald for the inconvenience she has experienced, and is perfectly satisfied with his conduct in every respect; and she declares that when she left the vessel on Wednesday last there was not any fever on board, nor at that time more than 12 grown persons and a few children; and the ship is of the burthen of 336 tons register measurement.
+
+London to wit,
+
+We, Michael Wall and Ann Boyle, do hereby severally make oath that the above statement of facts, as far as respects us individually is perfectly true, and we believe that the reason why the ship Caledonia did not proceed to sea was, that several of the passengers were not prepared with the certificates required by the Custom-house at Liverpool to prove that they were not mechanics MICH. WALL. A BOYLE. Sworn at the Guildhall this 29th day of September 1817, before me, M. Wood, Mayor.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18171213/011/0003
+Star (London) - Saturday 13 December 1817
+
+Thursday the ship Grace of London, DAVEY Master, with eighty Officers on board, bound to St. Thomas's, on the South American Expedition, was seized in Cowes roadstead, by John WARD, Esq. Collector of Customs at that port, for having received on board many of the said Officers in a clandestine manner, contrary to the Passengers' Act; and also for having no papers on board, to prove the ship's identity and character. The Grace is reported to be owned by a Mr. FITZGERALD, who some time since was examined before the LORD MAYOR, for engaging to convey passengers out of the kingdom, in a ship called the Caledonia, the circumstances of which must be in the remembrance of many of our Readers.
+
+On the day preceding the seizure of the above vessel, Mr. SUTTON, a volunteer Officer for South America, was shot in a duel, at West Cowes, by Major LOCKYER, a British Officer, about to depart on the same enterprise. An inquest being held on the body, a Verdict of Wilful Murder was given against Major Lockyer, and Lieutenants Hand and Redesdale, the seconds, all of whom have absconded.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18171216/018/0003
 Morning Herald (London) - Tuesday 16 December 1817
@@ -59,6 +117,11 @@ Morning Herald (London) - Tuesday 16 December 1817
 FATAL DUEL. The following extract gives a further account of this transaction:
 
 "ISLE OF WIGHT, DEC. 13.— On Wednesday last an inquest was taken at the Dolphin Inn, in West Cowes, before THOMAS SEWELL, Esq. Coroner of the Isle of Wight, on view of the body of a gentleman of the name of John Sutton, who was killed in a duel, in Northwood Park, that morning. It appeared in evidence, that the deceased was one of the passengers about to proceed to St. Thomas's in the ship Grace, now lying in Cowes Roads; that the preceding evening, the deceased, a Major Lockyer, a Mr. Redesdale, and a Air. Hand, and other passengers, were in company together at the Dolphin; that Major Lockyer took offence at some expression made use of by the deceased, and in consequence challenged him. The parties met the next morning, Mr. Redesdale attending as second to Major Lockyer, and Mr. Hand as second to the deceased. Major Lockyer only fired at the appointed signal; the ball entered the deceased's body between the third and fourth ribs on the right side, passed through the ventricle of the heart, lodged in the integuments on the left side, and occasioned, of course, instant death. The principal and seconds immediately fled. The Jury, without hesitation, returned a verdict of *Wilful Murder* against Major Lockyer and Messrs. Redesdale and Hand, and the Coroner issued his warrant for their apprehension. Mr. Hand was apprehended by Allen, (the Newport constable) at Portsmouth, on Thursday; the others are still at large.
+
+https://britishnewspaperarchive.co.uk/viewer/bl/0000156/18171217/003/0002
+Bury and Norwich Post - Wednesday 17 December 1817
+
+The ship Grace, from London to St. Thomas, with 80 officers on board, going to join the Spanish Patriots, put into Cowes last week, and was there seized for receiving persons on board contrary to the Passenger Act, and having no papers to prove the ship's identity. — Major Lockyer and Lieut. Cochrane Sutton, two of the Grace's passengers, fought a duel near West Cowes on Thursday: the latter was shot through the heart, and immediately expired. —Verdict, Wilful Murder.
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18171217/017/0004
 Evening Mail - Wednesday 17 December 1817
@@ -124,7 +187,7 @@ The time was now one in the morning. The conversation ceased; Lockyer left the r
 At eight o'clock the parties met at the Dolphin; walked at no great distance from each other, to a field adjacent to the town. The seconds attended, and a doctor was at hand. Twelve paces were measured, and the combatants took each his ground. On the delivery of the pistols, Sutton instructed his second to say to Major Lockyer, that he never intended to give him offence, and that he was willing to make that confession as an apology, but could not think of offering one framed in humbler terms; also, that he would not return the Major's fire, presuming that standing to be shot at like a post would expiate his unintentional offence, and that he possessed the courage with which
 the name of Cochrane had ever before been allied.
 
-Major Lockyer called for the signal to fire, which was given by the dropping of a handkerchief, and Sutton fell, being shot through the heart. Lockyer, Redsdale, and Hands instantly fled ; the doctor remained with the body, but it was of no avail; the ball entered by the right breast, penetrated both ventricles of the heart, and burrowed itself in the integuments of the left side.
+Major Lockyer called for the signal to fire, which was given by the dropping of a handkerchief, and Sutton fell, being shot through the heart. Lockyer, Redsdale, and Hands instantly fled; the doctor remained with the body, but it was of no avail; the ball entered by the right breast, penetrated both ventricles of the heart, and burrowed itself in the integuments of the left side.
 
 The Coroner's Inquest has returned a verdict of *Wilful Murder* against the principal and both seconds. Sutton's second is in custody, and hopes are entertained that the two others cannot escape. The above particulars are on the Coroner's record, and may be published without reproach.
 
