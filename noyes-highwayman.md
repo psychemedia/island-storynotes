@@ -178,7 +178,7 @@ It was a dark night, a windy night, with just enough moonlight to see the ribbon
 
 Approaching the site of those inns, a highwayman comes riding, a gun at his side, and a sword on his belt.
 
-There's a clatter of horses hooves as he crosses the cobbled courtyard and approaches the inn. But he doesn't enter: the door's locked for the night, and the windows are shuttered.
+There's a clatter of horse's hooves as he crosses the cobbled courtyard and approaches the inn. But he doesn't enter: the door's locked for the night, and the windows are shuttered.
 
 He taps with his whip on the shutters, softly whistles a tune. A light goes on in an upstairs window. It's Bess, the raven haired landlord's daughter, who's been waiting for his signal.
 
@@ -186,7 +186,7 @@ They speak in whispers, as she ties a love knot in her long black hair.
 
 "I've business on the road tonight. There's gold with my name on it... But I'll be back before dawn, God willing. Though if I'm pressed, or chased, or harried, I'll lead them away. Then watch for me by moonlight, wait for me by moonlight, I'll come to thee at midnight, though hell should bar the way!"
 
-He rose up in his stirrups, reached out as if to touch her hand:,"one kiss my love, one kiss". And from the window, she unloosened her hair; it tumbled down, onto his breast; he breathed in its perfume, kissed it gently. Then turning his horse, tugged on the reins, and was gone, gone into the night.
+He rose up in his stirrups, reached out as if to touch her hand: "one kiss my love, one kiss". And from the window, she unloosened her hair; it tumbled down, onto his breast; he breathed in its perfume, kissed it gently. Then turning his horse, tugged on the reins, and was gone, gone into the night.
 
 From the corner of the yard, from the stable in the corner there, Tim the ostler has been watching; and listening. There's only one thing he loves more than the horses, and that's Bess, the landlord's red-lipped daughter. Oh, Bess...
 
@@ -196,7 +196,7 @@ Dawn approaches, and young Bess again waits by the window. At noon, she looks ou
 
 The sun begins to set, and a red ribbon snakes its way across the moor towards the inn. A red-coated troop of the King's men, marching across the moor.
 
-They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, gagged her, bind her, her hands behind her back, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and stroke her hair. "A pretty one, this..."
+They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, gag her, bind her, her hands behind her back, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and caress her hair. "A pretty one, this..."
 
 "Look for me by moonlight; watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!" And she knew what she must do.
 
@@ -222,5 +222,5 @@ He cursed the sky, turned his horse again, and spurred like a madman to seek his
 
 The story doesn't quite end there, of course, how could it? Because it is said, that even to this day, when the night is dark, and the wind blows across it, with just enough moonlight to see the ribbon of the road by, as it snakes its way across the moor, you can hear the highwayman come riding towards that inn. You can hear a horse's hooves clatter across the cobble-stoned yard, the tap of a whip on a closed shutter, and a softly whistled tune. And if you look up to the window, you can see the figure of a raven haired, young woman tying a love knot in her long black hair. Bess, the landlord's daughter.
 
-And that is the tale of the highwaymen, once penned as a poem by a yound Alfred Noyes.
+And that is the tale of the highwaymen, once penned as a poem by a young Alfred Noyes.
 ```

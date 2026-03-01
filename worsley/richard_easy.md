@@ -735,26 +735,23 @@ next morning, and the beginning of the evening past with great cordiality, as he
 
 (. 141 However, towards the close of the night, her ladyship had like to have
 
-testified her jealousy, upon Mr. P—'s fitting next to the apothecary's wife, who was a very pretty woman, and to whom he said some civil things, which greatly pleased this daughter of pharmacy. Lady Wagtail bit her lips, changed colour, lost deal, took : snuff, and was upon the point of i shedding tears, when she was relieved by Mrs. Pestle' 8 apprentice coming with the lanthorn to 1 her home. :
+testified her jealousy, upon Mr. P—'s fitting next to the apothecary's wife, who was a very pretty woman, and to whom he said some civil things, which greatly pleased this daughter of pharmacy. Lady Wagtail bit her lips, changed colour, lost deal, took snuff, and was upon the point of shedding tears, when she was relieved by Mrs. Pestle's apprentice coming with the lanthorn to her home.
 
+No sooner had M.. Pestle departed, than Lady Wagtail renewed her wonted spirits and her usual gaiety ; and having stript the pool with her garoien , was excellent company during the remainder of the night.
 
-No sooner had M.. Pestle departed, than Lady Wagtail renewed her wonted spirits and her usual gaiety ; and having stript the pool with her garoien , was excellent company during ine remainder of the night.
-
-she, nevertheless, took an opportunity of reptrmanding Mr. P_—_ for his behaviour, where he was obliged E to excuse himself by declaring he þÞþ thought Mrs. Pestle one of the prettiest dolls i in the world; but that a mere doll could never excite in him any other ideas but saying foolish things without meaning to Powe such insipid Automatons. This excuse pleased her ladyship, as it placed her imaginary rival in a ridiculous point of view, and gratified her own Vanity.
+she, nevertheless, took an opportunity of reptrmanding Mr. P_—_ for his behaviour, where he was obliged E to excuse himself by declaring he þÞþ thought Mrs. Pestle one of the prettiest dolls in the world; but that a mere doll could never excite in him any other ideas but saying foolish things without meaning to Powe such insipid Automatons. This excuse pleased her ladyship, as it placed her imaginary rival in a ridiculous point of view, and gratified her own Vanity.
 
 
 CHAP. XIII.
 
-A flo grant plagiarism detected. A _ wwhinical story of a flemisp painter. The history resumed. A jolly party arrives at sir Richard's in the Isle of Wight. Lord A 7 dispostion. Lady Wagtait 72 care 50 and tenderness upon the occasion. The relapse—but no virtue in danger. Captain 5— is indisposed in the like manner, and her ladyship's : good offices toward him. WD
+A flagrant plagiarism detected. A whinical story of a flemish painter. The history resumed. A jolly party arrives at sir Richard's in the Isle of Wight. Lord A 7 dispostion. Lady Wagtail 72 care 50 and tenderness upon the occasion. The relapse—but no virtue in danger. Captain 5— is indisposed in the like manner, and her ladyship's good offices toward him. WD
 
-5 5 HEN the writer of these
-
-VV sheets had got thus far, ne was almost induced to trop the pen, = upon
+WHEN the writer of these sheets had got thus far, he was almost induced to trop the pen, = upon
 
 
 papers, of the publication of Meand perused the dedication*®, he was
 
-_ bare faced catchpenny, as almost ever line of the introduction, is taken verbatim, from a novel publ. Shed some time since, entituled Nocturnal Revels, &c. Thus convinced of the Originality and, of course, the Auchapter of the second Vol. of Nocturnal Revels, the chief part of which is here copied verbatim, for the entertainment of the curious readers.
+_ bare faced catchpenny, as almost ever line of the introduction, is taken verbatim, from a novel published some time since, entituled Nocturnal Revels, &c. Thus convinced of the Originality and, of course, the Auchapter of the second Vol. of Nocturnal Revels, the chief part of which is here copied verbatim, for the entertainment of the curious readers.
 
 
 upon feeing an advertisment in the
@@ -766,14 +763,14 @@ te moirs of sir Finical Whimsy, &c.“ but having sent for the pamphlet, thoroug
 erty
 
 
-thenticity of these memoirs and anecdotes as they are called, the writer of these pages altered his mind, and instead of committing them to the flames as being anticipated, immediately communicated them to the Printer, being convinced that in many instances the Race is not to the swift, though the battle. may: be to the n
+authenticity of these memoirs and anecdotes as they are called, the writer of these pages altered his mind, and instead of committing them to the flames as being anticipated, immediately communicated them to the Printer, being convinced that in many instances the Race is not to the swift, though the battle. may be to the n
 
 | © Upon 3 of this flagrant plegiarism, che author could not help
 
 
 recol {Qing an interview with a flemin painter to whom he was introduced some years since at Antwerp.
 
-The artist shewed as a chef deuvre an historical picture upon which he greatly plumed himself ; but his visiter not paying any fulsome compliments on the occasion, the painter, somewhat nettled, assured him, he had employed only seven days in producing that capital picture. The « world, it's true, said his: auditor, we are taught to believe x was ee created i in seven days; but for the future, sir, always allow at least 6 a fortnight to an historical piece, and I am apt to believe you e will not then find it Wie percc * fect," 2
+The artist shewed as a chef deuvre an historical picture upon which he greatly plumed himself ; but his visiter not paying any fulsome compliments on the occasion, the painter, somewhat nettled, assured him, he had employed only seven days in producing that capital picture. The world, it's true, said his auditor, we are taught to believe was created in seven days; but for the future, sir, always allow at least a fortnight to an historical piece, and I am apt to believe you will not then find it Wie perfect," 2
 
 
 But to quit this digression, which forced itself upon us, let us proceed in our own narrative.
@@ -782,13 +779,13 @@ The party sir Richard expected from town arrived agreeable to their appointment.
 
 Captain
 
-They were all choice spirits, : and after dinner, the usual bumpers having circulated, catches and glees began, and continued till midnight, when every man carried off near four bottles of claret to bed, and about two in the morning they retired to rest,"
+They were all choice spirits, and after dinner, the usual bumpers having circulated, catches and glees began, and continued till midnight, when every man carried off near four bottles of claret to bed, and about two in the morning they retired to rest,"
 
-sir Richard had paid his devotions fo copiously at the shrine of Bacchus, being president, that his company as bed-fellow became quite disagreeable, more particularly as he snored most intolerably. Her ladyship was accordingly, obliged. to rise and retire, it is supposed to her maid's s apartment to pass the remainder of the morning. There is some reason, however, to suspect she mistook the chamber door, and through mistake went into that of Lord 4—. What gave rise to this opinion was, that in the morning, when the rest of the gentlemen were prepared to go on a shooting party, as had been agreed upon the night before, his lordship feigned being taken very ill, and desired to be excused from accompanying them,
+sir Richard had paid his devotions fo copiously at the shrine of Bacchus, being president, that his company as bed-fellow became quite disagreeable, more particularly as he snored most intolerably. Her ladyship was accordingly, obliged to rise and retire, it is supposed to her maid's apartment to pass the remainder of the morning. There is some reason, however, to suspect she mistook the chamber door, and through mistake went into that of Lord 4??—. What gave rise to this opinion was, that in the morning, when the rest of the gentlemen were prepared to go on a shooting party, as had been agreed upon the night before, his lordship feigned being taken very ill, and desired to be excused from accompanying them,
 
 Her ladyship, with her wonted benevolence, like another lady Bountiful, made him some sack, whey, carried it to him herself, and attended by his bed side, at least, to anticipate his wants. In this situation, sir Richard Easy returning from shooting, found Lady Wagtail, upon which occasion he highly extolled her n and tendernesss. Being so well nursed, and by such an agreeable attendant, his lordship soon recovered, but we find he had a relapse of the same complaint two days after, when Lady Wagtail failed repeating her good offices; she, indeed, exerted her abilities to afford Lord A all the comfort in her power. 88 B— called this, a relapse, without virtue being in danger."
 
-It must be wid that captain th viewed these attentions and assiduities 5 with a jealous eye, and he resolved i in turn to be taken 5 in order to try .
+It must be said that captain th viewed these attentions and assiduities with a jealous eye, and he resolved in turn to be taken in order to try .
 
 
  if Lady Wagtail' bountiful _
@@ -800,55 +797,55 @@ but he was agreeably diese of the contrary, and he found that she as eagerly sou
 CH AP.
 
 C133. HA XI. 
-Grateful acknowledgment of Lady Wagtail's Patients, The whole party returns to London, Her ladyship gives an unbounded fwing to Plegsure and enjoyment. The baronet is not jo fortunate in his amours as his CARA spOsA appears to be for the present, she retires into the country to recover Her se if from te fatigues of gratification. Sir Richard soon soon Mes 72 5 0 companied by Lord D—
+Grateful acknowledgment of Lady Wagtail's Patients, The whole party returns to London, Her ladyship gives an unbounded fwing to Plegsure and enjoyment. The baronet is not jo fortunate in his amours as his CARA spOsA appears to be for the present, she retires into the country to recover herselff from the fatigues of gratification. Sir Richard soon soon Mes 72 5 0 companied by Lord D—
 
-: E left our . in the last VV. chapter, performing the part of Lady Bountiful with great applause, by two of the best judges of female acfing perhaps in the kingdom. Their plaudits were alternately reiterated, and her ladyship's lust of praise Was highly a by their 
+: E left our . in the last VV. chapter, performing the part of Lady Bountiful with great applause, by two of the best judges of female acting perhaps in the kingdom. Their plaudits were alternately reiterated, and her ladyship's lust of praise was highly a by their 
 
 
 After ten days bad 45 the party broke up, and both Lady Wagtail's patients were perfectly relieved from the chsaructions they had laboured under; but like most physicians she would have kept them longer under her hands, for though her fees were not pecuniary, they were of such a kind as afforded her ample satisfaction,
 
 Lord A told her it was almost a pleasure to be ill, to have so agreeable a nurse; and captain B— went still farther in his politeness, in saying, he could wish to be her patient all the days, aye, and =__ of his life.
 
-We may now suppose the visitors, " as well as sir Richard Easy, and Lady Wagtail returned to the capital. Her ladyship now flourished 1 in every part of the town and it's environs: her 5 conquests were innumerable, from the drawing room to sadler's Wells. : she moved the queen of love and free indulgence.
+We may now suppose the visitors, as well as sir Richard Easy, and Lady Wagtail returned to the capital. Her ladyship now flourished in every part of the town and it's environs: her conquests were innumerable, from the drawing room to sadler's Wells. : she moved the queen of love and free indulgence.
 
 indulgence at Ranelagh and Vauxhall; and notwithstanding the hair breadth escape she had once had at the Pantheon, she now braved all danger, scorned all fear, and never missed a masqued ball, when ever *
 
-was announced. To enumerate the many pleasant adventures she had Dy upon these occasions, would swell a larger volume than this, beyond it's usual size, suffice it to say, that neither monks, nor monkeye, heroes or harlequins, quacks, or quidnuncs, escaped her, and in their disguise, in general kept up their parts so well, that her
+was announced. To enumerate the many pleasant adventures she had upon these occasions, would swell a larger volume than this, beyond it's usual size, suffice it to say, that neither monks, nor monkeye, heroes or harlequins, quacks, or quidnuncs, escaped her, and in their disguise, in general kept up their parts so well, that her
 
 0 W was frequently at a loss to determine in whose favour to give the preference. As these may be stiled flying Rencontres, as it were in the dark, and the incognito's names being unknown, we cannot enroll them in the * of her enamerato "Iz
 
-We find that her Kah Caro se £ who never interfered in Lady Wagtail's amours, amused himself at the same time in King $ Place, Newsman street and it's vicinity. With what success he carried on this traffic of love, we will not determine, for as he had now descended to mere Grizettes for the lake of economy, we cannot suppose chat in this lottery of venus he was a successful adventurer, Indeed, if we may suggest from his freqnent visits to a certain surgeon near Pall-mall, when he had neither sprained his ancle, or dislocated hisshoulder, that some other complaint, which required chirurgical aid, induced him to ring so often at at certain bell.
+We find that her Kah Caro se £ who never interfered in Lady Wagtail's amours, amused himself at the same time in King's Place, Newsman street and its vicinity. With what success he carried on this traffic of love, we will not determine, for as he had now descended to mere Grizettes for the lake of economy, we cannot suppose chat in this lottery of venus he was a successful adventurer, Indeed, if we may suggest from his freqnent visits to a certain surgeon near Pall-mall, when he had neither sprained his ancle, or dislocated hisshoulder, that some other complaint, which required chirurgical aid, induced him to ring so often at at certain bell.
 
 We will, however, do justice to our hero, so far as to assert with tolerable good authority, that he acted like a man of honour upon the occasion, and that Lady: Wagtail had no reason to complain of his irregularities in this respect.
 
-Lady Wagtail hurried from one public diversion to another, and jaded with an incessant rou nd of pleasure, frequent vigils, and cyprian sports, Was desirous of recruiting her health and spirits, by a retreat into the country and she sets off for the Isle of Wight, leaving the unlucky Wight, her easy busband, to compleat his pharmaceutic course, and restore his health 1
+Lady Wagtail hurried from one public diversion to another, and jaded with an incessant rou nd of pleasure, frequent vigils, and cyprian sports, was desirous of recruiting her health and spirits, by a retreat into the country and she sets off for the Isle of Wight, leaving the unlucky Wight, her easy busband, to compleat his pharmaceutic course, and restore his health 1
 
 2 London,
 
-He did not, however, ee many days in the Capital after her ladyship's departure, for finding now that his sole complaint was owing to relaxation, and that bathing in sea water would accomplish his cure, he set out, with young Lord D. for Hampshire, where he had invited bi . to pass some Gays,
+He did not, however, ee many days in the Capital after her ladyship's departure, for finding now that his sole complaint was owing to relaxation, and that bathing in sea water would accomplish his cure, he set out, with young Lord D. for Hampshire, where he had invited to pass some days,
 
-Upon their 1 ber ladyship received Lord Di— with great politeness, and more than common affa- dility—a favourable prognostic, and a happy prelude to a more social in- Th tercourse.
+Upon their 1 her ladyship received Lord Di— with great politeness, and more than common affa- dility—a favourable prognostic, and a happy prelude to a more social in- Th tercourse.
 
 "CHAP.
 
 
-CH A P. XV. Amorous Anecdotes of the gallant Lord D——t. His Reception at Lady Wagtail s. The hind Invitation of sir Richard Ea, to make an Impression upon her Ladysbip. f His Lordsbip improves the Hint— ; and is accordiagly met with 7 in her Dressing-Room. 1 whim cal DE- 
+CH A P. XV. Amorous Anecdotes of the gallant Lord D——t. His Reception at Lady Wagtail s. The hind Invitation of sir Richard Ea, to make an Impression upon her Ladysbip. His Lordsbip improves the Hint— ; and is accordiagly met with in her Dressing-Room. 1 whim cal DE- 
 ' NOUEMENT, succeeded by some Hig reres a tes,
 
 \HE gay, the gallant p- 5 
 Was at this time the 1 of the age. His person was tall and elegant, his countenance uncommonly pre-engaging, his conversation sprightly and vivacious.
 
-We need not be suprised at the comeliness of his person, or the gracefulness of his figure, when we recollect he is the son of the celebrated Miss G—g, afterwards Lady Cy. : His lordship had already established his reputation for gallantry and intrigue, amongst the first rate demi-reps upon the ton, by whom he was usually called the male Gsuch: a lter a8 at t Lady Wagtail 1 could not fail of meeting with the most gracious reception, as the had long wished for a te 2 tôte with his lordship, whom she was ambitious of enrolling in the list of her chers amis; and never could a more favourable opportunity occur, as the sequel will evince, :
+We need not be suprised at the comeliness of his person, or the gracefulness of his figure, when we recollect he is the son of the celebrated Miss G—g, afterwards Lady Cy. : His lordship had already established his reputation for gallantry and intrigue, amongst the first rate demi-reps upon the ton, by whom he was usually called the male Gsuch: a lter a8 at t Lady Wagtail could not fail of meeting with the most gracious reception, as the had long wished for a tete a tete with his lordship, whom she was ambitious of enrolling in the list of her chers amis; and never could a more favourable opportunity occur, as the sequel will evince.
 
-One evening over a bottle, Easy 5 fad to D —t; What do you think of her ladyship—ls not she a fine woman?“ To which his lordship replied, « Amazingly hand- hae". gad you would say lo,
+One evening over a bottle, Easy 5 fad to D —t; What do you think of her ladyship—is not she a fine woman?“ To which his lordship replied, "Amazingly hand- hae". gad you would say so,
 
-continued sir 13 if vou were to see her naked,"
+continued sir 13 if you were to see her naked,"
 
 You are a very lucky man, resumed his lordship, to be in possession of such a treasure,"
 
 "Why, look ye, D—t, I like to make my friends happy, as well as myself. Many fine fellows have sbeen at her, but without success I believe ; now Pl give 9 leave to take your chance with her,"
 
-such an invitation, doubtless, ad not 8⁰ unaccepted; and his lordship was. accordingly found the next morning carly i in her ladyship's s dress5 W * sir Richard, where
+such an invitation, doubtless, ad not 8⁰ unaccepted; and his lordship was accordingly found the next morning carly i in her ladyship's s dress5 W * sir Richard, where
 
 Gods mer gods, and joRRled i in the dark. — —
 
@@ -857,11 +854,11 @@ Heavens, said the baronet, who is there!" "It is only me," said his lordship, "I
 W hee de Dre ... e 
 T1407 himself walked a few minutes longer in his sleep."
 
-The easy husband was not in the least displeased at his lordship's itinerant disposition under the influence of Morpheus; and that he might have more favourable opportunities of indulging his nocturnal perambulations, sir Richard intreated him to remain several successive days (and 5 nights of course) at his villa; during which time he had many tere d tote parties with her ladyship, in different excursions, where he failed not to make good the defalcation occasioned by Cornuto's not walking some time longer in his sleep. Among other places where these snug Tete a bete parties took place, southampton bore a repeated witness of their joys, as did afterwards Kingston and Godalmin ; the careless husband giving his lordship a fair chance with Lady Wagtail, who, sensible of the obligation she owed to sir Richard for this kind indulgence, did her best endeavours to spread his antlers as far as possible; and though they had already a very respectable appearance, they now out-stripped the decorations g
+The easy husband was not in the least displeased at his lordship's itinerant disposition under the influence of Morpheus; and that he might have more favourable opportunities of indulging his nocturnal perambulations, sir Richard intreated him to remain several successive days (and 5 nights of course) at his villa; during which time he had many tere d tote parties with her ladyship, in different excursions, where he failed not to make good the defalcation occasioned by Cornuto's not walking some time longer in his sleep. Among other places where these snug Tete a tete parties took place, southampton bore a repeated witness of their joys, as did afterwards Kingston and Godalmin; the careless husband giving his lordship a fair chance with Lady Wagtail, who, sensible of the obligation she owed to sir Richard for this kind indulgence, did her best endeavours to spread his antlers as far as possible; and though they had already a very respectable appearance, they now out-stripped the decorations g
 
 oo sI tions of all the cornuto's heads in the three kingdoms.
 
-Her ladyship exerted bor abilities upon this occasion, doubtless, from principles of gratitude ; considering that all good offices should be mutual, or they can be of no long duration, In this respect her success was equal to her efforts, and sir Richard Easy might ere now sit down perfectly satisfied, that his character, as an affable, good-natured, obliging husband, was established beyond the power of fame, ill nature, or scandal, in any degree to diminish it.
+Her ladyship exerted bor abilities upon this occasion, doubtless, from principles of gratitude; considering that all good offices should be mutual, or they can be of no long duration, In this respect her success was equal to her efforts, and sir Richard Easy might ere now sit down perfectly satisfied, that his character, as an affable, good-natured, obliging husband, was established beyond the power of fame, ill nature, or scandal, in any degree to diminish it.
 
 CHAP. XVI.
 
@@ -885,13 +882,13 @@ Lady Wagtail's attention.
 
 Their first acquaintance was at Ranelagh, almost two years since.
 
-Her ladyship, who now seemed to aim at universal conquest, was happy in the idea of having such an ad= mired Beau Gargon of his rank amongst the list of her sigbing swains.
+Her ladyship, who now seemed to aim at universal conquest, was happy in the idea of having such an admired Beau Gargon of his rank amongst the list of her sigbing swains.
 
 It is, however, a nice point, whether her ladyship, for the time, felt more the weight of his chains, than
 
 Lo did her" 8.
 
-However having made a party the . next day to Richmond, they refoly- : f ed 5
+However having made a party the next day to Richmond, they refoly- : f ed 5
 
 
 „ ed in amorous conflict to testify on which side the force of passion was the greatest, The trial was very warm, and the action frequently renewed; but though his lordship rallied his forces extremely well, and greatly to her ladyship's wishes, he was at length obliged to yield, and acknowledge her the e of the day.
@@ -916,20 +913,17 @@ We must again FEE short in our career, with regard to her ladyship 8 amorous con
 
 We are assured, that when the marquis upbraided her some time after with the treatment he had met
 
->; with" from her, and requested to know who was the cause of her present indisposition? she frankly replied, she would not be so unjust as to charge any individual with it as he might have been the Devil at
-
-
-( 256 Y the masquerade, or one of his Imps in the Ifle of Wight.
+>; with" from her, and requested to know who was the cause of her present indisposition? she frankly replied, she would not be so unjust as to charge any individual with it as he might have been the Devil at the masquerade, or one of his Imps in the Ifle of Wight.
 
 It is somewhat remarkable, that the careless husband never once complained of any injury he had received from his faithless wife; a pretty certain proof that he had, by neglecting her charms, left family duty to be performed by substitutes, as well among the regulars as in the Militia.
 
-„ CHAP, XVI.. Being the conclusive Chapter, in which the extraordinary Affair between sir Richard and Mr. Bout 7s impartially discussed. T, 2 extraordi= 1 ya Change in the Baronet's Con- BM
+„ CHAP, XVI.. Being the conclusive Chapter, in which the extraordinary Affair between sir Richard and Mr. Bout 7s impartially discussed. T, 2 extraordinary Change in the Baronet's Con- BM
 
 displayed. With the Consequences, and their present e /; "I 8 TY 1 Y 1
 
 'E now approach the period
 
-of her. HOOP» intimacy 3 Vith Captain B——t, which has fo — recently 00 bone a 5 remarkable „ 4
+of her. HOOP» intimacy 3 Vith Captain B——t, which has so recently bokjne a 5 remarkable „ 4
 
 trial for erin con, and pronounced, 1 s
 
@@ -937,23 +931,18 @@ the now UNEASY husband, A tvelvepenny cuckold.
 
 The acquaintance, we find, between sir R— and the captain commenced last spring, and was occasioned by the purchase of an estate the baronet was desirous of making of him, which secured a borough. : Ia ne of this negociation,
 
-Mr. B8 ek. and a good under- 1
+Mr. B8 ek. and a good understanding prevailed between him and the family. Some liberties the captain took with Lady Wagtail in the Presence of sir Richard might have sufficiently alarmed his jealousy, if he had been disposed that way; but though the captain often pulled her Upon his lap and kissed her, in her husband's company, he seemed to treat it in a jocular manner. Nay, so far did the cornuto 0 from being Ut displeased with B— rs conduct, that some time after her ladyship being at the cold bath at Maidstone, the end husband willing to display his wife's charms to the greatest advantage, told B. -t he would shew him one of the finest naked women in England; and accordingly raised the captain upon his shoulders, that he might view her ladyship through an aperture or small window, which B——+t could not otherwise have reached. Upon this occasion one cannot help remarking, that not contented with being the sewer and cultivator of his own towering antlers, he at length became the Arras of his own INFAMY.
 
-- frequently visited at the
-
-standing prevailed between him and the family. Some liberties the captain took with Lady Wagtail in the Presence of sir Richard might have sufficiently alarmed his jealousy, if he had been disposed that way ; but though the captain often pulled her Upon his lap and kissed her, in her husband's company, he seemed to treat it in a jocular manner. Nay, so far did the cornuto 0 from being Ut displeased with B— rs conduct, that some time after ber ladyship being at the cold bath at Maidstone, the end husband willing to display his wife's charms to o the greatest advantage, told B. -t he would shew him one of the finest naked women in England; and accordingly raised the captain upon his shoulders, that he might view her ladyship through an aperture or small window, which B——+t could not otherwise have reached. Upon this occasion one cannot help remarking, that not contented with being the sewer and cultivator of his own towering antlers, : he at length became the Arras of his own INFAMY.
-
-But what can be surprisingi in the conduct of a husband who, upon receiving remonstrances from modest ladies, respecting the licentious behaviour of Lady Wagtail, r replied, with the greatest ufd imaginable,
+But what can be surprisingi in the conduct of a husband who, upon receiving remonstrances from modest ladies, respecting the licentious behaviour of Lady Wagtail, replied, with the greatest ufd imaginable,
 
 
 1 Jyoti wyoming ye
 
-TH) a nable, that Lady Wagtail liked it. The ladies naturally pittied him for beingtbe most easy contented cuckold in the world.
+TH) a nable, that Lady Wagtail liked it. The ladies naturally pittied him for being the most easy contented cuckold in the world.
 
-Neventidless, upon Mr. B a : elopement from Lewes with Lady Wagtail, the baronet, now first : offended at his wife's conduct, after making a great bustle at captain L—'s, where they had passed the evening, he went home, and in an aggregate fit of Jealousy for all her infidelities, which he doubtless this moment , and never before, began to suspect, he destroyed all her clothes, threw her miniature picture in the fire, broke her china, and when her ladyship arrived in town, at the Hotel in Pall-mall, she had nothing but her maiden blush to cover herself from shame and from her exposing those naked charms, which the now very wneasy husband, had often displayed to his ends, and particularly his present rival.
+Neventheless, upon Mr. B a : elopement from Lewes with Lady Wagtail, the baronet, now first offended at his wife's conduct, after making a great bustle at captain L—'s, where they had passed the evening, he went home, and in an aggregate fit of Jealousy for all her infidelities, which he doubtless this moment, and never before, began to suspect, he destroyed all her clothes, threw her miniature picture in the fire, broke her china, and when her ladyship arrived in town, at the Hotel in Pall-mall, she had nothing but her maiden blush to cover herself from shame and from her exposing those naked charms, which the now very wneasy husband, had often displayed to his ends, and particularly his present rival.
 
-When Lady. Wagtail dfdf that the baronet had resolved to commence a prosecution against captain 
-B—, and that he proposed laying his damages at 20,000l. She resolved to go all lengths to circumvent his design. Her character was already lost, her reputation facrificed, all her female connections destroyed; and the was determined now to make her husband appear, at least, as infamous as herself. She sent the Baronet a letter, in which she intimated if he persisted in his defign of prosecuting the Captain, he would only expose himself, and become the object of universal contempt and derision. At the same time she added a list of about three-score gallants, to whom she acknowleged having been perfectly liberal with her favours, of which he could not be ignorant, unless he had been more blind than a mole. She also inclosed Dr. O — account with the  recipes be had prescribed for her; and concluded with assuring him, if
+When Lady. Wagtail dfdf that the baronet had resolved to commence a prosecution against captain B—, and that he proposed laying his damages at 20,000l. She resolved to go all lengths to circumvent his design. Her character was already lost, her reputation facrificed, all her female connections destroyed; and the was determined now to make her husband appear, at least, as infamous as herself. She sent the Baronet a letter, in which she intimated if he persisted in his defign of prosecuting the Captain, he would only expose himself, and become the object of universal contempt and derision. At the same time she added a list of about three-score gallants, to whom she acknowleged having been perfectly liberal with her favours, of which he could not be ignorant, unless he had been more blind than a mole. She also inclosed Dr. O — account with the  recipes be had prescribed for her; and concluded with assuring him, if
 
 be ail remained obslinate she hoot
 
