@@ -223,6 +223,10 @@ His colleagues carried him back to the Wheatsheaf where his wife Anne tendered t
 
 ![](images/wheatsheaf_pub_and_story.jpg)
 
+[Interactive map, Ordnance Survey, Newport, Isle of Wight, OS 1:500, 1861-4](https://maps.nls.uk/geo/explore/#zoom=19.0&lat=50.69984&lon=-1.29473&layers=117746211&b=1&o=100), *via National Library of Scotland*; includes many pub names; surveyed 1862, published 1865.
+
+![Shows Red Lion and Wheatsheaf — https://maps.nls.uk/geo/explore/#zoom=19.0&lat=50.69984&lon=-1.29473&layers=117746211&b=1&o=100](images/newport_map_pubs.png)
+
 https://britishnewspaperarchive.co.uk/viewer/bl/0002647/18130712/009/0002
 Statesman (London) - Monday 12 July 1813
 
