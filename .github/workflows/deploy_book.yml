@@ -10,25 +10,40 @@ jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+
+      # Cache Jupyter Book build artifacts
+    - name: Cache Jupyter Book build
+      uses: actions/cache@v3
+      with:
+        path: |
+          _build/
+          ~/.cache/pip
+        key: ${{ runner.os }}-jb-${{ hashFiles('_config.yml', '_toc.yml') }}
+        restore-keys: |
+          ${{ runner.os }}-jb-
 
     # Install dependencies
     - name: Set up Python 3.11
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v4
       with:
         python-version: 3.11
 
     - name: Install dependencies
       run: |
-        pip install "jupyter-book<2" ou-jupyter-book-tools 
+        pip install "jupyter-book<2" ou-jupyter-book-tools
     # Build the book
     - name: Build the book
+      env:
+        SPHINXOPTS: "-j auto"
       run: |
         jupyter-book build .
         cp 404.html ./_build/html/404.html
+        touch ./_build/html/.nojekyll
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
-      uses: peaceiris/actions-gh-pages@v3.6.1
+      uses: peaceiris/actions-gh-pages@v3.9.3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_build/html
+        cname: island-storynotes.montystoryteller.org
