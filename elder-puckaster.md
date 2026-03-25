@@ -1,6 +1,6 @@
 # A Legend of Puckaster
 
-The following tale originally appeared originally in *Betley's Miscellany* of [June 6th, 1839](https://archive.org/details/sim_bentleys-miscellany_1839-07_6/page/368/mode/2up), and then was later included in the second edition of Elder's *Tales and Legends ofd the Isle of Wight*, published in 1843.
+The following tale originally appeared originally in *Bentley's Miscellany* of [June 6th, 1839](https://archive.org/details/sim_bentleys-miscellany_1839-07_6/page/368/mode/2up), and then was later included in the second edition of Elder's *Tales and Legends ofd the Isle of Wight*, published in 1843.
 
 A derivative version of the tale also appeared, without crediting the original, in the *Isle of Wight Observer* of [Saturday 28 December 1895](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18951228/012/0006).
 
