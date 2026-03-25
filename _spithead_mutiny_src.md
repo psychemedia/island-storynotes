@@ -1,27 +1,56 @@
 # Spithead Mutiny — Original News Reports
 
-Original reports
+A couple of days after Easter, 1797, news reports started appearing with unsettling news from Portsmouth: men aboard several of His Majesty's ships moored at Spithead, the naval anchorage at the eastern end of the Solent, were in a state of mutiny.
 
-Unlawful Oaths Act 1797 - response to the Spithead and Nore mutinies?
+```{admonition} A Very Alarming Account, April 1797
+:class: dropdown
 
-----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970418/021/0004
-Kentish Weekly Post or Canterbury Journal - Tuesday 18 April 1797
+In *Kentish Weekly Post or Canterbury Journal*, [Tuesday 18 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970418/021/0004).
 
 Our Portsmouth correspondent has transmitted to us a very alarming account of a mutiny board every ship at Spithead. The cause of this mutiny is stated to be a demand for an encrease of wages, and it is even said, that the crews of the ships of Lord Bridport's fleet, though his Lordship is on board, and under failing orders, have refused to weigh anchor until their demands are complied with.— *Courier*.
 
-Another paper states the account of the mutiny. But says it was happily got under.
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970421/014/0004
-Kentish Weekly Post or Canterbury Journal - Friday 21 April 1797
+A delegation was sent down to Portsmouth from the Admiralty in London, although the first reports lacked detail about what it had achieved.
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Staffordshire Advertiser*, [Saturday 22 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000215/17970422/012/0004).
+
+Thursday's Mail.
+
+LONDON,
+
+WEDNESDAY, April 19.
 
 ...
 
-Some further advices were on Wednesday received at the Admiralty from Earl Spencer at Portsmouth, the contents of which have not transpired, and very few private letters have, for the last two days. reached town from that place. Such as came to hand on Wednesday agree in stating, that notwithstanding the seamen on board the fleet have expressed themselves satisfied with the liberal promises made to them, in the name of the Admiralty Board, by Lord Spencer, they continue determined not to proceed to sea until their demands for an advance of wages and a more equal distribution of prize money, shall be fully compelled with, and sanctioned by Parliament, except they shall in the mean tim, be assured of sailing of the French fleet's in which case they are determined to prove that their King, and love for their country, were never greater than they are at the present moment.
+We learn from Portsmouth that Rear-Admiral Pole, who arrived there on Monday from London, carried no answer whatever to the remonstrances of the seamen of the fleet.
 
-On the arrival of Lord Spencer at Portsmouth, he immediately held a board in Admiral Parker's ship. He then went on board the Royal George, Lord Bridport's ship, and, after expostulating with the sailors on the dangerous consequences that might result from heir determination, informed them that their demands had been taken into consideration and should be complied with as soon as the necessary forms would permit, provided they conducted themselves in a manner becoming the character of British seamen. The sailors, as we have already stated, expressed themselves satisfied with his Lordship's declarations; but at the same time hoped that all the differences would be adjusted before they were ordered to put to sa. It is with infinite concern we find that they have since been guilty of several acts of outrage on board the fleet, such as threatening to throw one of the Admirals (Gardner) overboard, for having upbraided them with sluggishly remaining in port while the enemy's fleet were on the eve of putting to sea— hanging up one of the crew who attempted to reason with them upon the impropriety of offering any violence to the gallant Admiral— flogging and ducking several others for disobedience of orders— taking possession of the cabins of the different Commanders—and entering into a resolution that no seamen should for the future be punished, unless found guilty of an offence by a Jury of twelve of his companions. These distressing circumstances are related in most of the letters received on Wednesday from Portsmouth. It is a painful part of our duty to state them: we fear, alas! they are not entirely unfounded.
+Yesterday, between eleven and twelve o'Clock Earl Spencer, with three other Lords of the Admiralty, arrived at Mr. Fielding's, the Fountain Inn, Portsmouth, where a Board was held, which broke up three o'Clock.
+
+Admirals Lord Bridport, Gardner, Colpoys, and Pole, were present at the above Board, but their determination is hitherto an impenetrable secret.
+
+The seamen, at the date of our letters, seven o'Clock last night, still retained the command of the fleet. The Board of Admiralty was at that moment at dinner with Sir Peter Parker.
+
+The mutiny is, without exception, general, insomuch so, that on Monday the sick and convalescents in Haslar Hospital displayed flags, composed of Handkerchiefs tacked together, with three cheers, which were returned by every ship of war at Spithead.
+```
+
+That said, the early indications were that the mutineers were reasonably pleased with what the delegation had had to say, although not going far enough for them to call off the mutiny.
+
+It was also clear that whilst the sailors would not set sail under general orders, if the situation demanded it, such as an imminent threat from the French naval ships, the fleet *would* sail.
+
+```{admonition} Some further advices, April 1797
+:class: dropdown
+
+In *Kentish Weekly Post or Canterbury Journal*, [Friday 21 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970421/014/0004).
+
+...
+
+Some further advices were on Wednesday received at the Admiralty from Earl Spencer at Portsmouth, the contents of which have not transpired, and very few private letters have, for the last two days, reached town from that place. Such as came to hand on Wednesday agree in stating, that notwithstanding the seamen on board the fleet have expressed themselves satisfied with the liberal promises made to them, in the name of the Admiralty Board, by Lord Spencer, they continue determined not to proceed to sea until their demands for an advance of wages and a more equal distribution of prize money, shall be fully compelled with, and sanctioned by Parliament, except they shall in the mean time, be assured of sailing of the French fleet's in which case they are determined to prove that their King, and love for their country, were never greater than they are at the present moment.
+
+On the arrival of Lord Spencer at Portsmouth, he immediately held a board in Admiral Parker's ship. He then went on board the Royal George, Lord Bridport's ship, and, after expostulating with the sailors on the dangerous consequences that might result from heir determination, informed them that their demands had been taken into consideration and should be complied with as soon as the necessary forms would permit, provided they conducted themselves in a manner becoming the character of British seamen. The sailors, as we have already stated, expressed themselves satisfied with his Lordship's declarations; but at the same time hoped that all the differences would be adjusted before they were ordered to put to sea. It is with infinite concern we find that they have since been guilty of several acts of outrage on board the fleet, such as threatening to throw one of the Admirals (Gardner) overboard, for having upbraided them with sluggishly remaining in port while the enemy's fleet were on the eve of putting to sea— hanging up one of the crew who attempted to reason with them upon the impropriety of offering any violence to the gallant Admiral— flogging and ducking several others for disobedience of orders— taking possession of the cabins of the different Commanders—and entering into a resolution that no seamen should for the future be punished, unless found guilty of an offence by a Jury of twelve of his companions. These distressing circumstances are related in most of the letters received on Wednesday from Portsmouth. It is a painful part of our duty to state them: we fear, alas! they are not entirely unfounded.
 
 The following are copies of letters received by that day's post:
 
@@ -32,9 +61,43 @@ ANOTHER LETTER, SAME DATE.
 
 "The seamen still retain the command of the fleet. The Board of Admiralty, at this moment, (seven o'clock in the evening) are at dinner with Sir Peter Parker. The mutiny is general all over the fleet. On Monday the sick and convalescents in Hasler hospital displayed flags, composed of handkerchiefs tacked to gether, with three cheers, which were returned by every ship of war at Spithead."
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970421/022/0003
-Kentish Gazette - Friday 21 April 1797
+```
+
+As the week progressed, more details started to appear about what demands the mutineers were actually making.
+
+```{admonition} Full and accurate details, April 1797
+:class: dropdown
+
+In *Kentish Gazette*, [Friday 21 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970421/027/0004).
+
+FRIDAY, April 21. LONDON.
+
+...
+
+We received yesterday morning, very full and accurate details from Portsmouth and Gosport. The complaints of the sailors are by no means settled and so far are their discontents from having subsided, that they have assumed a more serious and formidable character and complexion.
+
+Earl Spencer with three other Lords of the Admiralty, arrived at Portsmouth, on Tuesday about twelve o'clock. A board immediately followed. The following were present:—
+
+Bridport, Colpoys, Gardner, Pole.
+
+The Sailors on board the Fleet, at Portsmouth, have chosen four subjects of complaint:—
+
+First, An increase of PAY to ONE SHILLING per day.  
+Second, Full weight of Provisions of 16 ounces to the pound.  
+Third, A greater proportion PRIZE MONEY.  
+Fourth, An Asylum or Pension for all Persons wounded.
+
+These grievances, which they have now put into shape, have been long muttered in the mess; and have every reason to believe will be done away.
+
+The sailors, by the last accounts, had the ascendency, and the mutiny is without exception—we are sorry to say, general—Insomuch so, that on Monday the sick and convalescents in Haslar Hospital displayed flags, composed of handkerchiefs tacked together, with three cheers, which were returned by every ship of war at Spithead.
+```
+
+Editorially, concern was unsurprisingly expressed at the state of mutiny, but also showed sympathy for the situation of the men involved. The mutineers appeared to remain loyal to the King, for example, notwithstanding the actions they felt it necessary to take in order to further their cause.
+
+```{admonition} It is with great concern..., April 1797
+:class: dropdown
+
+In *Kentish Gazette*, [Friday 21 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970421/022/0003).
 
 LONDON.
 
@@ -62,60 +125,18 @@ A Petition or Memorial of considerable length was transmitted to the Admiralty, 
 
 In confidence they may implicitly repose.— The best wishes of the Nation must ever be with those men, who display such heroic conduct in her defence; and there is certainly no reasonable recompense which it can be the wish of any friend to his Country to withhold from a set of men at once so useful and meritorious.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970421/027/0004
-Kentish Gazette - Friday 21 April 1797
+```
 
-FRIDAY, April 21. LONDON.
+The text of a petition from the men to Parliament clearly shows that, as much as anything, what they were seeking was an improvement in pay that covered inflation since the pay level was originally set many years before.
 
-...
+Meanwhile, on board ship, discipline was being maintained in the traditional way.
 
-We received yesterday morning, very full and accurate details from Portsmouth and Gosport. The complaints of the sailors are by no means settled and so far are their discontents from having subsided, that they have assumed a more serious and formidable character and complexion.
+```{admonition} A Petition, addressed to Parliament, April 1797
+:class: dropdown
 
-Earl Spencer with three other Lords of the Admiralty, arrived at Portsmouth, on Tuesday about twelve o'clock. A board immediately followed. The following were present:—
+In *Cumberland Pacquet, and Ware's Whitehaven Advertiser*, [Tuesday 25 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000950/17970425/029/0002?browse=true).
 
-Bridport, Colpoys, Gardner, Pole.
-
-The Sailors on board the Fleet, at Portsmouth, have chosen four subjects of complaint:—
-
-First, An increase of PAY to ONE SHILLING per day.  
-Second, Full weight of Provisions of 16 ounces to the pound.  
-Third, A greater proportion PRIZE MONEY.  
-Fourth, An Asylum or Pension for all Persons wounded.
-
-These grievances, which they have now put into shape, have been long muttered in the mess; and have every reason to believe will be done away.
-
-The sailors, by the last accounts, had the ascendency, and the mutiny is without exception—we are sorry to say, general—Insomuch so, that on Monday the sick and convalescents in Haslar Hospital displayed flags, composed of handkerchiefs tacked together, with three cheers, which were returned by every ship of war at Spithead.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000215/17970422/012/0004
-Staffordshire Advertiser - Saturday 22 April 1797
-
-Thursday's Mail.
-
-LONDON,
-
-WEDNESDAY, April 19.
-
-...
-
-We learn from Portsmouth that Rear-Admiral Pole, who arrived there on Monday from London, carried no answer whatever to the remonstrances of the seamen of the fleet.
-
-Yesterday, between eleven and twelve o'Clock Earl Spencer, with three other Lords of the Admiralty, arrived at Mr. Fielding's, the Fountain Inn, Portsmouth, where a Board was held, which broke up three o'Clock.
-
-Admirals Lord Bridport, Gardner, Colpoys, and Pole, were present at the above Board, but their determination is hitherto an impenetrable secret.
-
-The seamen, at the date our letters, seven o'Clock last night, still retained the command of the fleet. The Board of Admiralty was at that moment at dinner with Sir Peter Parker.
-
-The mutiny is, without exception, general, insomuch so, that on Monday the sick and convalescents in Haslar Hospital displayed flags, composed of Handkerchiefs tacked together, with three cheers, which were returned by every ship of war at Spithead.
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000950/17970425/029/0002?browse=true
-Cumberland Pacquet, and Ware's Whitehaven Advertiser - Tuesday 25 April 1797
-
-MUTINY in the FLEET.
+MUTINY IN THE FLEET.
 
 Discontents have lately broke out on board the fleet at Spithead, of a very serious and alarming appearance. Lord *Bridport* on Saturday made the signal for the ships under his command at Spithead to drop down to St. Helen's, but was astonished to find that the signal was not obeyed; and he then learnt, for the first time, of the mutinous spirit which had taken possession of the fleet. On Sunday it shewed itself more fully. There was a perfect understanding amongst the seamen of all the ships at Spithead; and the signal for making public their resolutions was,— those of the Queen Charlotte running up the fore-shrouds and giving three cheers at the moment when the signal was made by the Admiral to prepare for sea. The plan was concerted and arranged with the utmost secrecv.— Each ship deputed two men to manage and direct the business; and the crews rove a rope through a block on the starboard yard-arm of each ship, for the purpose of hanging any man who did not support the cause, or who should betray it, and also for the purpose of keeping strict discipline.— Lord *Bridport* made on Sunday a communication to the Admiralty of this unexpected occurrence; and early on Monday morning Rear Admiral *Pole* arrived in town on the occasion. A Board of Admiralty was held, which was attended by Mr. *Pitt*.— In the afternoon, Earl *Spence*, Lord *Arden*, and Admiral *Young*, (composing a Board) set off for Portsmouth, to make such further arrangements as might be thought requisite upon the spot.
 
@@ -133,13 +154,18 @@ The names of the deputies (thirty-two in number) are subscribed to this petition
 
 It is but common justice to say, that the seamen have conducted themselves through the whole business with a sobriety, steadiness, unanimity, and determined resolution, that would do honour to any other cause.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/17970426/009/0004
-Hereford Journal - Wednesday 26 April 1797
+```
+
+In the regional press, reports reviewed the events that had taken place during the the first week of the mutiny.
+
+```{admonition} First week of the mutiny in review, April 1797
+:class: dropdown
+
+In *Hereford Journal*, [Wednesday 26 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/17970426/009/0004).
 
 COMBINATION OF THE SEAMEN.
 
-BOARD THE GRAND FLEET AT SPITHEAD.
+ON BOARD THE GRAND FLEET AT SPITHEAD.
 
 The letters from Portsmouth bring the very unpleasant intelligence of a continuance of the discontents on board all the ships of Lord Bridport's fleet at Spithead, on account of the demands made by the seamen for an increase of pay. The following are the particulars:
 
@@ -158,18 +184,21 @@ The mutiny is, without exception, general, insomuch so, that on Monday the sick 
 The discontents among the seamen existed before the fleet under the command of Lord Bridport went last to sea. The Admiralty were not ignorant of the sentiments of the seamen upon this subject; and several plans have been under consideration, by which some additional advantages might be accorded without greatly burthening the State.
 
 The seamen thought the present proper time openly to declare their alleged grievances; and they therefore resolved to make them known before the fleet again put to sea. There was a perfect understanding among the seamen of all the ships at Spithead; and the signal for their making public their resolution was, those of the Queen Charlotte running up the fore-shrouds, and giving three cheers, at the moment when the signal was made by the Admiral to prepare for sea.— The combination that had been entered into then became apparent; and though a slight disposition to disorder seemed to arise, by the firmness of the Officers, its dangerous effects were in a great measure averted.
+```
 
----
+Reports also started to appear unpicking the negotiations that had been taking place.
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17970429/001/0001
-Northampton Mercury - Saturday 29 April 1797
+```{admonition} Offer and response, April 1797
+:class: dropdown
+
+In *Northampton Mercury*, [Saturday 29 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17970429/001/0001).
 Saturday 29 April 1797
 
 The SEAMENS' CLAIMS ADJUSTED.
 
-Lord Spencer, and the other Commissioners of the Admiralty, arrived town from Portsmouth on Saturday; their negociation with the delegates of the fleet proceeding no further than the following correspondence :—
+Lord Spencer, and the other Commissioners of the Admiralty, arrived town from Portsmouth on Saturday; their negociation with the delegates of the fleet proceeding no further than the following correspondence:—
 
-Portsmouth, April 18. We, the Commissioners of the Admiralty, having the strongest desire to attend to all the Complaints of the Seamen, and to grant them every just and reasonable redress, have resolved to recommend to his Majesty to propose to Parliament to increase the wages of Seamen in his Majesty s Navy, in the following proportions, viz.
+Portsmouth, April 18. We, the Commissioners of the Admiralty, having the strongest desire to attend to all the Complaints of the Seamen, and to grant them every just and reasonable redress, have resolved to recommend to his Majesty to propose to Parliament to increase the wages of Seamen in his Majesty's Navy, in the following proportions, viz.
 
 To add four shillings per month to the wages of petty Officers and able Seamen, three shillings per month to the wages of ordinary Seamen, and two shillings per month to the wages Landmen.
 
@@ -198,11 +227,14 @@ After the business was concluded, the Delegates wrote a very respectful letter t
 The Board of Admiralty, in the arrangement of the delicate and important business at Spithead, have displayed an union of temperance and firmness, of judgment and vigour, which entitle them to the warmest thanks of the nation. Indeed, the Nobleman who presides at the Board has invariably discharged the duties of his office, in times uncommonly critical, with a degree of zeal and ability that reflect the highest honour on his head and heart. By the reconciliation which has taken place, the hopes of the disaffected are completely frustrated, and the terrors of Britain's foes effectually revived.
 
 It is with infinite pleasure we announce, that communication was yesterday received at the Admiralty by means of the telegraph, from Portsmouth, of the first division the Channel fleet having dropped down from Spithead to St. Helen's, in the most perfect order; and further advices were received in the course of the afternoon, that the second division was also about to drop down to the same place. The whole are expected to put to sea this day or to-morrow, for the purpose of cruising off Brest. The men are all in high spirits, and in great hopes of being afforded a speedy opportunity of shewing their gratitude to their countrymen, by chastising the enemies of Great-Britain.
+```
 
----
+TO DO 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000073/17970429/019/0004
-Oxford Journal - Saturday 29 April 1797
+```{admonition} TO DO
+:class: dropdown
+
+In *Oxford Journal*, [Saturday 29 April 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000073/17970429/019/0004).
 
 LONDON, April 25.
 
@@ -250,17 +282,18 @@ Given at our Court at Windsor, the Twenty-second day of April, One Thousand Seve
 GOO SAVE THE KING.
 
 Much fear has been expressed that the issue of the business maybe considered as a death-blow to the discipline of the Navy. We hope otherwise——nay we are confident that our brave Seamen will prove, by their conduct, that the professions of attachment to their country, which were held out in their different memorials, were from the heart. British Seamen do not say one thing, while they mean another; and we are sure they will now be as unanimous in their attention to duty and submission to their officers, as they were firm in demanding a redress of grievances. They are not so short-sighted as many people may imagine, and the man who would attempt to sow among them the feeds of insubordination would speedily find that they have discernment enough to see his real character, for they would consider and treat him as their enemy.
+```
 
----
+TO DO 
 
-https://archive.org/details/parliamentaryre41britgoog/page/n161/mode/1up
-The Parliamentary Register
+```{admonition} TO DO
+:class: dropdown
 
-1797
+In *The Parliamentary Register*, 1797, [pp148-150](https://archive.org/details/parliamentaryre41britgoog/page/n161/mode/1up).
+
 
 TO DO
 
-pp148-150
 
 Wednesday, 3d May.
 
@@ -286,9 +319,14 @@ Earl HOWE again rose and said, that from what had fallen in the course of the de
 
 Lord GRENVILLE said, that he believed everyone of their Lordships and every man in the kingdom, was perfectly convinced that His Lordship had acted through a long life, the part of a virtuous and honourable supporter of the rights and interests of his country. He once more deprecated any farther discussion of the subject and moved to adjourn.— Adjourned.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970505/018/0004
-Kentish Gazette - Friday 05 May 1797
+```
+
+TO DO 
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Kentish Gazette*, [Friday 05 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970505/018/0004).
 
 HOUSE OF LORDS.— Wednesday, May 3.
 
@@ -309,10 +347,14 @@ SAILORS AT PORTSMOUTH.
 The first he heard of this unfortunate business was during his indisposition, between the second week in February and the beginning of March, when several petitions were presented to him as from the seamen; they were exactly similar, and prayed for an advance of wages, that they might be enabled to make their families more comfortable. Four or five of these petitions were written in different hands, but they wer evidently dated by the same hand: these petitions were not signed by any name, therefore it was impossible for him to take any notice of them. He, however, sent an Officer at Portsmouth, whose situation rendered it likely for him to ascertain the fact, to know whether there was any appearance of any discontent in the fleet; to which he replied there was not; and this induced his Lordship to believe the whole a manoeuvre of some incendiary to stir up discontent, by making him notice a complaint which did not exist.— The day after he came to town, the 22d of March, one of the Members of the Admiralty Board called upon him, to whom he communicated this circumstance, and sent the petitions to the Noble Earl who presides at the head of the Admiralty; and he knew nothing more of the unhappy transaction than what had appeared in the public prints.—If the insinuations had been against him in any act of his professional duty, h must have borne it; but from such an attack as he had received, he could only be rescued by their Lordships.
 
 *Lord Grenville* declared that the Noble Earl's conduct in this business had been marked with the same honor which characterised every transaction of his life, and he believed every Noble Peer in the House was of the same opinion. After which the Noble Lord moved that this House do now adjourn till tomorrow; which was done accordingly.
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970512/011/0004
-Kentish Gazette - Friday 12 May 1797
+TO DO 
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Kentish Gazette*, [Friday 12 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000235/17970512/011/0004).
 
 FRIDAY, May 12. LONDON.
 
@@ -383,9 +425,14 @@ For the Motion, 63, —Against 237.—Majority 174
 
 *[A list of members who voted for censure then followed.]*
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970509/016/0004
-Kentish Weekly Post or Canterbury Journal - Tuesday 09 May 1797
+```
+
+TO DO 
+
+```{admonition} With heart-rending pain, May 1797
+:class: dropdown
+
+In *Kentish Weekly Post or Canterbury Journal*, [Tuesday 09 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001409/17970509/016/0004).
 
 MUTINY AT SPITHEAD.
 
@@ -397,9 +444,14 @@ It is very currently reported that, the French fleet are at sea, and have a flee
 
 It was very generally reported on Saturday, that Mr. Pitt had delivered in his resignation to the King on the preceding evening. Such an event, we know, is considered in the political circles as likely to take place in very short time; but we can assure our readers that no arrangements for that purpose have yet been made.— *M. Herald.*
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/17970510/009/0003
-Hereford Journal - Wednesday 10 May 1797
+```
+
+TO DO 
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Hereford Journal*, [Wednesday 10 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000398/17970510/009/0003).
 
 MUTINY ON BOARD THE FLEET.
 
@@ -441,9 +493,14 @@ As no boats are allowed to go on board the ships, our correspondents have not be
 "It is stated, that intelligence from Sir J. B. Warren, announces, that the French fleet had worked out into the outer road of Brest, consisting of 17 sail of the line and a vast number of transports, which appeared ready for sailing at a moment's notice."
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/17970523/004/0001
-Chester Courant - Tuesday 23 May 1797
+```
+
+TO DO 
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Chester Courant*, [Tuesday 23 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/17970523/004/0001).
 
 TO DO terrorem
 
@@ -455,9 +512,14 @@ THE LATE MUTINY AT PORTSMOUTH.
 
 On their return on board the Queen Charlotte, they informed the convention and the Admirals, that was the determination of the crew belonging to the Royal George to agree nothing that should not be sanctioned by Parliament, and guaranteed by the king's proclamation; which so disappointed and irritated Admiral Gardner, that he seized one of the delegates by the collar, and swore he would have them all hanged, with every fifth man throughout the fleet. This act of intemperance so exasperated the crew against the gallant Admiral, that it was with the utmost difficulty he escaped from the ship with his life. The delegates from the Royal George now returned to their ship, and informed the crew of what had happened, who, after some consultation, resolved on summoning ail the delegates on board their ships which was done by hoisting the red or bloody flag which struck terror through the fleet (as the signal was not generally understood) and particularly to the officers, who trembled for the consequences, fearing that something dreadfully hostile was intended. It was at this moment that the much-valued and respected Lord Bridport's flag was struck, with a resolution never to display it again, which drew tears from almost all the officers. The fleet next proceeded to load all their guns, ordered a watch to be kept the same as at sea, and put every thing in a state of defence, keeping every officer to his respective ship. This was a proper precaution, as the rashness of Admiral Gardner had so inflamed the minds of the men, that something very serious was apprehended. On the 22d the men were somewhat pacified, and caused two letters to be written, one to the Lords of the Admiralty, stating the cause of their conduct on the preceding day; the other to Lord Bridport, in which they stiled him their *Father* and *Friend*, and avowed no intentional offence to him. This had a good effect, for on the 23d, the Admiral returned to his ship and re-hoisted his flag, and after a short address to the crew, in which he told them the painful business of the last week would be the means of hurrying him shortly to his grave, he informed them that he had brought with him a redress to all their grievances, and his Majesty's pardon for the offenders, which, after some deliberation were when every man returned to his duty.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000230/17970513/003/0002?browse=true
-Hampshire Chronicle - Saturday 13 May 1797
+```
+
+TO DO 
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Hampshire Chronicle*, [Saturday 13 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000230/17970513/003/0002?browse=true).
 
 HOUSE COMMONS.
 
@@ -562,9 +624,14 @@ Mr. Whitbread made a general reply, and declared his firm intention to persist i
 
 A division then took place, when there appeared,—For the motion 63, Against it 237.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17970513/011/0004
-Hampshire Chronicle - Saturday 13 May 1797
+```
+
+TO DO 
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Hampshire Chronicle*, [Saturday 13 May 1797](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17970513/011/0004).
 
 HOME NEWS.
 
@@ -640,9 +707,138 @@ W. Fawkener.
 
 This week the following singular circumstance happened on board his Majesty's ship in this harbour: the armourer and a man on board having a dispute, blows ensued, and, while fighting both fell over the ship's side into the tide, and, though every assistance was instantly rendered to them, we are sorry to say, the armourer was drowned.
 
+```
+
+
 ---
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0002155/17970617/010/0003?browse=true
-Cambridge Intelligencer - Saturday 17 June 1797
+https://britishnewspaperarchive.co.uk/viewer/bl/0000419/17970520/004/0004
+Cambridge Chronicle and Journal - Saturday 20 May 1797
+
+MUTINY at PORTSMOUTH
+
+Dispatches were received at the Admiralty on Friday from Admiral Lord Bridport and Admiral Earl Howe, dated on board the Royal George, the flag ship of the Commander in Chief, at St. Helen's. They contain the pleasing intelligence that the several crews, sensible of their past errors, and thankful for the bounty and liberality lately extended to them by his Majesty and by Parliament, have returned to their duty, and expressed their wish to proceed to sea immediately, to face the enemies of their country. Earl Howe went on board most of the ships on Friday morning, and, after promising, in the name of the King, a general pardon for their past conduct, provided they submitted without delay to the orders of their Officers, earnestly exhorted them not to sully that fair fame which their attention to the necessary rules of discipline and subordination required from them, by resisting any longer the authority of their Commanders, who had so often led them on to victory and to glory. His Lordship was received in the most respectful manner, and the sailors, confiding in his Lordship's promise of a full and perfect amnesty, declared their unconditional submission to their Officers, requested that such of them as had been sent on shore might forthwith resume their commands, and agreed to put to sea without any further remonstrance. The Mars continued to display the Blue Flag, the signal of mutiny, for some time after it had been pulled down by other ships; and it was not until the crew were threatened with force by the remainder of the fleet that they consented to return to their duty. Most of the seamen complain bitterly of having been deluded by the artifices of designing men, and promise to make due atonement for their past errors by their future conduct.
+
+On the receipt of the dispatch from Earl Howe, Lord Spencer went to St. James's, and laid its contents before his Majesty, who was pleased to give the fullest sanction to the proceedings of the Noble Earl; and a Messenger was immediately sent off for Portsmouth with letters signifying the same.
+
+Portsmouth, May 14. On this day week I took up my pen to inform you of the re-appearance of dissatisfaction and discontent among the Seamen in the Fleet — I now resume my pen, to assure you that every thing is finally and satisfactorily adjusted: and the following you may RELY upon as FACT.
+
+Lord Howe, who arrived here with full and plenary power to enquire into and settle the matters in dispute, has been indefatigable in directing his attention and best exertions in the only and proper mode in which his endeavours were likely to be crowned with success, viz. personal application to, and interviews with the Delegates; by which means, he informed himself thoroughly of all their grievances, which enabled him to apply the proper remedies; and I am happy to say he has effected a perfect cure.
+
+This day, at half-past eleven, A. M. the Delegates all landed from St. Helen's: and immediately a report flew like electricity through the town, that every thing in the fleet was accommodated.
+
+About half-past twelve, Lord Howe came on shore in the Port Admiral's barge; he was received by Sir P. Parker, and the surrounding multitude, with silent but heartfelt applause and satisfaction. On the parade he was met by Lady Howe, Sir W. Pitt and Lady, with many Officers of the Garrison; and they passed on to the Governor's house — just by the door of which, Joyce, one of the principal Delegates, approached Lord Howe, and asked him at what hour in the morning (of to-morrow) he would embark: his Lordship replied, their time should be his; and seven o'clock, on account of the tide's serving, was the hour fixed on. Joyce next asked Lady Howe, if she would not honour them with her company, as her Ladyship would be perfectly safe, and had not any cause for the least apprehension; she replied, she would most assuredly do herself that pleasure, and should commit herself to their care with the most perfect confidence and heartfelt satisfaction. Lord Howe then invited Joyce into the Governor's house, to drink a glass of wine; which invitation was readily accepted, with a manly freedom, unaccompanied with the least particle of familiarity and rudeness.
+
+To-morrow morning, at seven, the barges of the fleet are to be manned, and assembled at the Sally-port, at which hour Lord Howe and his suite embark, accompanied by the Delegates; from whence they proceed in order, and row round every ship at St. Helen's, with colours flying, and music playing "RULE BRITANNIA;" the ships are to man yards, &c. and, as they pass round, fire a salute, and give three cheers — when every man returns to his duty.
+
+On Tuesday morning, all Officers are to go on board their respective ships: and all those who shall be pointed out by the Delegates as obnoxious to the crews, are to be superseded by the Admiralty. Every other complaint is to be redressed; and an amnesty under the King's Sign-manual, distributed through the Fleet; & not a syllable of what has passed is ever to be mentioned by Officers to the Men, or by Men to the Officers, as a matter of reproach, insult, or triumph.
+
+A few hours ago a Messenger arrived from the Admiralty with the King's Proclamation for a general Pardon. He also brought with him the following Declaration of Pardon of the Lords Commissioners of the Admiralty:—
+
+*By the Commissioners for executing the Office of Lord High Admiral of Great Britain and Ireland, &c.*
+
+Whereas his Majesty hath been most graciously pleased to issue his Royal Proclamation, dated the 11th instant, and thereby to declare that all such Seamen and Marines on board any ships of the fleet, who may have been guilty of any act of mutiny or disobedience of orders, or neglect of duty, and who have returned, or shall, upon notification of such his Majesty's Proclamation, return to the regular and ordinary discharge of their duty, shall be discharged and released from all prosecutions, imprisonments, and penalties, incurred by reason of any act of mutiny or disobedience of orders, or any breach or neglect of duty previously committed by them or any of them:
+
+And whereas it is our intention, that on no occasion hereafter the minds of the Seamen and Marines to whom the benefit of the same Proclamation has been extended, shall be disquieted by any reproof or reproach in respect of all or any such acts of mutiny, disobedience of orders, or breach or neglect of duty, as before-mentioned, but that a total oblivion of such offences should as far as possible obtain, in consequence thereof; we have therefore thought fit by these our Orders, to signify such meaning and intention to the several Flag Officers, Captains, Commanders, and all their subordinate Officers in the Fleet; and they are hereby required and directed to conform to these our Orders and Intentions accordingly.
+
+Given under our hands the 14th day of May, 1797.  
+SPENCER,  
+GAMBIER,  
+YOUNG.  
+To the several Flag Officers, Captains and Commanders of his Majesty's Fleet.
+
+Portsmouth, May 15. Admiral Earl Howe, having settled the mutiny in the fleet, to the entire satisfaction of the seamen, his Lordship landed at the Sally-port at six o'clock: on passing the platform he received a salute from the Battery, as also from the whole of the Garrison, which was drawn up on the walls. Not less than ten thousand people met his Lordship with the greatest acclamations. Sir W. Pitt's carriage was in waiting to receive his Lordship; but British Seamen, having come to a true sense of their duty, would not suffer him to proceed in the carriage, but carried him in triumph in a chair, the Marine band playing "RULE BRITANNIA."
+
+[From another Correspondent.]
+
+This has been one of the most joyful days this town has experienced for a number of years. It was ushered in by a procession of the Delegates of the Fleet at seven o'clock, who, attended with bands of music, proceeded in the most orderly manner to the Government House, where they were received in the Balcony first, and soon introduced to the Governor, Lord Howe, Ladies Howe and Pitt, and other gentry. At eight o'clock, the Governor, Lord Howe, Admiral Sir Peter Parker, and the Ladies went off in a barge, accompanied by a barge from each ship, containing each Ship's Delegates. They rowed to St. Helen's to every ship, where Lord Howe and the other distinguished persons above-mentioned were received by every ship with the most hearty cheers; thence they returned to Spithead, where, after staying about five hours, the complaints of Sir Roger Curtis's fleet were redressed, and we are happy to say, that every ship has returned to subordination and duty. — Seventeen sail of the line certainly go to sea to-morrow morning.
+
+Lord Howe is just returned from Spithead; on his coming near the shore, the saluting battery fired eleven guns; the West Kent, Dorset, and Gloucester Militia, and the Portsmouth Loyal Volunteers, were stationed on the Ramparts, and in rotation fired three vollies. On his landing, the Delegates carried his Lordship on their shoulders to the Government House, and his Lordship's carriage was soon filled with other Delegates, who are all gone to the Government House to dinner.
+
+Many thousand persons attended this grateful scene, which has returned for the protection of the country its greatest bulwark and defence.
+
+Shortly after the crew of the Royal Sovereign had sent Vice-Admiral Gardner and three of his Lieutenants on shore, they sent to the Admiral to beg his return on board, at the same time objecting to one of his Lieutenants. He returned for answer, that he would not return but with all his Officers. The men, after deliberating for some time, sent to the Admiral, begging him to return to the ship upon any terms he pleased; and in consequence of a deputation from the crew of his ship, praying forgiveness, he and all his Officers have returned on board the Royal Sovereign, and so have many other Officers of different ships. On going on board, the crew gave him three cheers, and he addressed them in a very pathetic speech, telling them that it was his determination to see justice done to all parties, both Officers and Seamen; and that he hoped the future good conduct of the men would be the means of obliterating from his remembrance all that had passed.
+
+Admiral Colpoys's conduct has been, in every instance, noble and manly. The Seamen of the London, in the first burst of their revenge for the death of their comrades, were about to hang the first Lieutenant of the ship, and had actually prepared a rope for that purpose. The Admiral nobly called out to them to give him a hearing for five minutes, when he addressed them in nearly the following terms:
+
+"My Lads,  
+"Though you have thus flown in the face of lawful authority, and trampled under foot the duty you owe to me as your Commander, you are sufficiently acquainted with discipline, though you will not practise it, to know, that this gentleman whom you are about to treat so ignominiously and unjustly, has done no more than his duty; that he was bound under pain of death to obey my orders, and that he has done nothing from his own head or authority. Can you then be so unjust, so cruel, as to rob him of his life for an act that was mine? Martial law would have doomed him to death, if he had disobeyed me, and you want to put him to death, because in obedience to the laws of his country, he has executed the orders of his superior Officer. He had no will of his own; he must have obeyed me or forfeited his life for disobedience. Can you, then, be so barbarous as to single out for your vengeance, a man circumstanced as he is? If you are bent upon murder, if your fury must have a victim, here I stand ready to die: the act was mine, let the consequence of it also be mine; involve not in them this innocent and faithful Officer; spare him, and I shall die contented."
+
+The magnanimity of this conduct operated so powerfully upon the feelings of the men, as they immediately released the Lieutenant, and only committed the Admiral to his cabin.
+
+The following Address has been published by the crew of the Robust:
+
+"Robust, May 11, 1797.  
+"The favours and goodness our Officers confer upon us are such as can be equalled by few Officers in the fleet, and that is our just and grateful sense of the Officers of his Majesty's ship Robust. Is there a man so poor in spirit that praises such as we have, without imitating the actions worthy of them?
+
+"How pleased would be the toils of war, did all employed in it meet with the same recompence! It is our deeds alone render us worthy their indulgence, and preserve their good opinion. To inform you wish how much ardency we wish to serve them, if ever accidents fall in our way, we are thoroughly resolved to lead them into the paths of glory; and they may rest assured that all of us will rejoice in an opportunity of testifying our duty, affection, gratitude, and submission, which we flatter ourselves they will not hereafter disapprove.
+
+"We are, with the utmost respect and submission, your Honours eternally devoted servants,  
+"Robust Ship's Company."
+
+All our letters from Portsmouth concur in stating that the second mutiny on board the fleet was occasioned by the seditious Emissaries at that port, who assured the sailors, that, from what had been said in Parliament on the subject of their demands, it was clear that Government were not sincere in their promises, and that, if they consented to go, they would find themselves completely deceived.
+
+The diabolical spirit in the Fleet has been kept up, it is confidently said, by some infernal villains on shore, it being now discovered that very few of the Seamen were *really disaffected*. On board some of the *three-decked ships*, not more than ten; in others, not exceeding thirty. The Seamen of the Mars had themselves fixed on one of their Crew to be tried by a Court Martial, for inflaming their minds by false assertions. On board the Sovereign, the King's Proclamation was nailed to the mast: some infernal scoundrel cut out *God Save the King*: the Seamen have offered *Fifty Guineas Reward* for the discovery, and swear they will hang the man the instant he is detected.
+
+The Seamen on board the Duke broke open the Spirit-room, and getting intoxicated, indulged in every riotous excess.
+
+The Landmen, raised in the different parishes, were the principal leaders in the mutiny. A more convincing proof there cannot be, than that of about 110 men taken out of the Royal William by the London's people down to St. Helen's, there was not one seaman; for the whole of them were sea-sick by the little motion of the Tender which carried them down.
+
+Joyce, Holyoak, and Glynn, have said, that Lord Howe was the only man who could have settled the points in dispute, as he perfectly understood the matters complained of; and the manner in which he has settled them will crown him with more laurels, and do his Country more real good, than the celebrated splendid victory on the First of June.
+
+---
+https://britishnewspaperarchive.co.uk/viewer/bl/0000246/17970520/007/0004
+Saturday 20 May 1797
+
+Tuesday and Wednesday's Posts.
+
+LONDON, TUESDAY MAY 16.
+
+THE influence Earl Howe, whom the seamen venerate with degree of filial love, has had its effect, and we rejoice to announce the complete return of the fleet to obedience and discipline. The Noble Earl undertook to be their mediator with his Majesty for a pardon and oblivion of all that has happened, upon condition of submission to their officers, and an engagement made through the organ of their delegates, that they should in future co-operate with their commanders in enforcing subordination, and in checking the first appearances of mutiny. A conference was held on board the Royal William, at which all the Admirals and Captains assisted, and received from the delegates the required engagement. In consequence of this a messenger was dispatched to the London, soliciting the King's pardon, and on Sunday tbe following proclamation was issued under the King's Sign Manual, and was sent down by a messenger to Portsmouth.
+
+*By the Commissioners for executing the office of Lord High Admiral of Great Britain and Ireland, &c.*
+
+Whereas his Majesty hath been most graciously pleased to issue his Royal Proclamation, dated the 11th instant, and thereby to declare that all Seamen and Marines on board any ships of the fleet, who may have been guilty of any act of mutiny, or disobedience of orders, or neglect of duty, and who have returned, or shall upon notification of such his Majesty's Proclamation, return to the regular and ordinary discharge of their duty, shall be discharged and released from all prosecutions, imprisonments, and penalties, incurred by reason of any act of mutiny, disobedience of orders, or any breach or neglect of duty committed by them or any of them.
+
+And whereas we think proper that no expressions of reproof or reproach in respect of any or all such acts of mutiny, disobedience of orders, or neglect of duty as before-mentioned, shall be urged to disquiet the minds of the seamen and marines to whom the benefit of the said Proclamation has been extended, and mean that a total oblivion of such offences should as far as possible obtain, in consequence thereof: the several flag Officers, Captains, and Commanders, and all their Subordinate Officers in the Fleet, are hereby required and directed to pay all due regard to these our orders and intentions accordingly. Given under our hands the 14th day of May, 1797.  
+SPENCER, GAMBIER, YOUNG.
+
+To the several Flag-Officers, Captains and Commanders of his Majesty's Fleet. By command of their Lordships, MARSDEN.
+
+Lieut. Justice, of the Navy, arrived at the Admiralty on Saturday, from the Nore, with an account of a mutiny having broke out on board the Sandwich guard-ship, and that the mutineers had turned him and several other officers on shore.
+
+...
+
+The following are the particulars of the ceremony which took place Portsmouth, on the final adjustment of the disturbances there:
+
+Portsmouth, May 15.— This has been one of the most joyful days this town has experienced for a number of years. It was ushered in by a procession of the Delegates of the Fleet at seven o'clock, who, attended with bands of music, proceeded in the most orderly manner to the Government House, where they were first received in the balcony, & soon after introduced to the Governor, Earl Howe, Ladies Howe and Pitt, and other Gentry. At eight o'clock the Governor, Earl Howe, Admiral Sir Peter Parker, and the Ladies, went off in a barge, accompanied by one from each ship, containing the ship's Delegates. They rowed to St. Helen's to every ship, where Lord Howe, and the other distinguished persons who accompanied him, were received with the most hearty cheers. Thence they returned to Spithead, where, after staying about five hours, the complaints of Sir Roger Curtis's fleet were redressed; and we are happy to say, that every ship has returned to subordination and duty.
+
+"At Five o'Clock, Ladies Howe and Pitt, Sir William Pitt and General Culyer, returned in the Royal William's barge. At Six o'Clock, His Lordship returned, accompanied by a boat from each ship, forming three lines a-breast, in the most regular order; the Royal standard on the platform was hoisted as the procession passed, accompanied by a Royal salute and a *feu de joie* the West Kent, South Devon, and Marines, from the walls of the garrison. The horses were taken from his Lordship's carriage by the populace. His Lordship was taken from his barge in a chair, and carried by the Seamen to the Governor's house, with the Union Jack-flying over his head, amidst the most heartfelt acclamations of joy, by the greatest concourse of people that ever was remembered to have been seen in this place."
+
+Thus has the second mutiny, which threatened the total ruin of the Empire, been put a stop to by the dignified character of a single individual. Much gratitude is due from the British nation to Lord Howe for his services on former occasions, particularly at St. Cas, and the glorious 1st of June, 1794; but far more for conciliating the British seamen, and restoring subordination in the fleets.
+
+---
+
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Manchester Mercury*, [Tuesday 23 May 1797](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/17970523/004/0002).
+
+PORTSMOUTH, May 17, *six o'Clock in the Evening*.
+
+THIS morning at six o'clock Admiral Lord Bridport sailed from St. Helen's with the whole of the fleet, consisting of the Royal George, Queen Charlotte, London, Duke, Pompee, Royal Sovereign, Terrible, Defetnse, Glory, L'Impetueux, Monarch, Defiance, Robust, Ramilies, Minnotaur, Marlbro, and Mars, men-of-war; and La Nymph and other frigates, with a fine breeze at South East.
+
+*Seven o'clock in the Evening.*. 
+The wind coming about to the West, the fleet, it is expected, will return to St. Helen's, but there is no appearance of them yet. 
+
+```
+
+In the month following the end of TO DO a letter written at the time of the mutiny from ?? to ??
+
+```{admonition} Dear Parents, June (April) 1797
+:class: dropdown
+
+In *Cambridge Intelligencer*, [Saturday 17 June 1797](https://www.britishnewspaperarchive.co.uk/viewer/BL/0002155/17970617/010/0003?browse=true).
 
 ORIGINAL LETTERS LATELY RECEIVED FROM THE FLEET AT PORTSMOUTH.
 
@@ -659,11 +855,14 @@ I received yours, and my intention was to answer it the same day, but the shippi
 DEAR PARENTS, St. Helens, May, 1797.
 
 I sent you a letter dated April 20, and I sent one at the same time to my father, and desired him to send you a copy of a letter how we were going on. I hope you have received his letter, as I dared not send you one, as all the letters were stopped just after I sent this. I hope you have not been unhappy about us. I will now tell you the whole truth and proceedings. Last December I received a letter from the Royal George on Christmas Day from one of my old ship-mates. What they wanted, viz. *two shillings* a month advance of wages. I passed this to every birth in the ship; all hands agreed it. We drew up a petition, and sent it to Earl Howe; he took no notice of it. `[He Lordship has since satisfactorily explained HIS OWN conduct.]` On February 18, we sent him another, and to the Lords of the Admiralty;—no answer. I, as well as the rest, made it known to all the fleet in as secret a manner as possible, and Easter Tuesday was the day fixed to rise through the whole fleet at eight in the morning, and any ship that refused was to be sunk immediately. Our officers got hint of it, and our Second Lieutenant called all hands, and told us we should have liberty to go on shore next week, and several more deceitful promises as before, we gave him three cheers, and the other ships hearing us, they thought we had begun; they ran up the rigging, but they did not cheer: at three that afternoon, Saturday, April 15, the signal was made for us to unmoor, we all went between the decks and gave three cheers, and lowered the ports; the other ships heard us, they manned, and the whole fleet, in ten minutes, gave three cheers, *twenty two thousand* men all of one mind! this was a dreadful, but most glorious sight; now we knew every man's mind. At eight, Easter Sunday morning, we sent up top-gallant yards. We now demanded the keys of the magazine, and all the keys of the ship—our Captain resigned them. We now all cleaned ourselves and went to prayers, and a sermon was preached; and while that was preaching, a boat went from every ship and formed a line, and took two men from every ship, chosen by the company, to go on board the Queen Charlotte to settle every thing; we called them delegates; after church was over, we rove two ropes at our fore yard arms, to hang the first man that flinched: this alarmed our officers; we now chose two privy counsellors, and a committee. I was chosen president of the committee composed of six men. At four that afternoon, we held a court-martial to try our Captain and all our Officers. I was mounted on a stage on the forecastle, like a judge; we now ordered every Officer to assemble— the Captain first; he made a long speech, and we gave him answer, reprimanded him, and let him go. We tried all the rest, and we sent on shore our Doctor, two Lieutenants, two Masters' Mates, three Midshipmen, and were very near hanging our Purser, but we cleared him. We tried our *Parson* next, gave him a severe reprimand, made him take our oath, *and never to get drunk more; to read prayers and preach a sermon every Sunday.* I passed his sentence. We tried the Boatswain, and he was cast by consent of all hands; our rope going round his neck, his little son cried, and asked me what we were going to do with his daddy?—I thought of my little fellows, it cut me to the heart to hear his little innocent son speak— he could not speak himself—his son is about seven, and knowing me better than any other person, he cried to me. I called our committee and council aside, and begged his life, he having a wife and four small children on shore—it was done. The next was Mr. ————, our Carpenter, who behaved so well to you.— Every Carpenter said there was a charge against him. It cut me when I saw him down on his knees, and the tears running down his wrinkled face, and his white hair and bald head— a man who had been round the world, and twenty-eight years in the service, an able workman, to be tried by British tars: — He asked our pardon, and made several long speeches, and said he was obliged to support a mother eighty-nine years of age, a wife, and seven sons and daughters. All this I weighed in my mind, and his kind behaviour to you when you was on board. I begged his life, and he was reprieved, taking our oath never to strike a man, nor complain of any man, as did the Boatswain. I had very near been hanged myself, for shewing such partiality to both of them. We tried the Gunner, Surgeon, Mate, &c. and after all was over, made them ail stand in a line, and take our oath, beg our pardon, and we reprieved them; and sent the others on shore, to be dismissed his Majesty's service for ever. My father's letter will explain to you some of our laws. No officer to leave the without leave of the Captain of the Forecastle; and the committee to consent to no woman to go on shore, but as many may come on board as choose; and to cheer every night and morning, as well as the men on the gang way, the small boys on the mast head on the truck, every one on their station on the yards and rigging, and hree cheers at eight in the morning. We had a *gulling* ready for any officer refusing our orders, and a furnace, which alarmed them. We punished twenty-two men and one woman in our ship; the men for getting drunk with our small beer, were hauled up to the yard-arm and ducked three or four times, letting them fall about 70 feet. A lieutenant made the above whore drunk; he was sent ashore and dismissed, and she ducked. We sent a petition to Lord S. and the Lords of the Admiralty—if they did not comply with our terms on Saturday, we would batter down the fort, burn the Dock-yard, and knock down the towns of Portsmouth and Gosport: this news brought them down, and Lord S————— begged to come on board. We sent him for answer, we would hang him if he came; he begged of us not to destry the town and yard, and he to agreed some of our terms, and set off for London, but we would not agree to go to sea without granting us as follows, viz. half the ship's company to go on shore on liberty, when in harbour; no flour to be served out when in harbour without fresh Meat; Prize-money to be regularly shared from an Admiral to an officer's boy, and to have sixteen ounces to the pound meat, bread, flour, cheese, and beer measure. Our Wine, Rum, and all of better quality, and this fleet never to be parted or drafted. Our provisions and liquors are now half as much more as before, being then only nine ounces to the pound; and we farther demanded all the Officers in this fleer, being near Two hundred, never to be in his Majesty's service more; and that Greenwich pensioners should be 10l. instead of 7l. per annum, and that as soon as any man is wounded, to commence pay, *and every line-of-battle ship to have a Minister*, and no man to be beat with a cane or rope, but with a cat of nine-tails unknotted, and not to have more than two dozen at a time; and until all this is granted, and an Act of Parliament and his Majesty's most gracious pardon, we will not lift anchor. On Sunday last, the King's messenger arrived with his Majesty's gracious pardon, and that the Lords of the Admiralty and Privy Council had agreed to all we asked for. `[The honest tar must mean, that the PRINCIPAL of their demands were granted, not ALL of them.]` We immediately hoisted our bloody flag, and he thought we were going to hang him, he begged for mercy; he was told we were not going to hurt him, but honor him. He saw every ship, &c. cheer him three times, with the yard rigging mast-head, &c. manned in sight of thousands on shore. The whole country and houses were covered to see us, not knowing what we were going at; this done, we hauled down the flags, and gave the Keys to the captain; resigned the command of the ship; after being in our possession eight days; not one man killed, nor one bone broke, out of Twenty-two thousand men. During all our cheering, *the Lord was on our side*. We are all happy now, and more united ever, and our Officers praise us for our good conduct and spirit. The whole fleet is now at St. Helens, and we expect to sail the first fair wind. There were Ten thousand soldiers sent to Portsmouth to frighten us, but we were not such fools. The marine would have fought all the soldiers in the kingdom; we were prepared for them, and all our guns double shotted, and small arms ready; we kept three watches night and day, and kept a good look-out. All sort of trade was stopped at Portsmouth, and no gun boats allowed, and every letter that went and came opened. Every thing was carried on in as private a manner as possible. As our laws and regulations were very severe, it has been represented we are all in mutiny; no such thing; there was not a store-room in the fleet broke open, nor no ill treatment to any person whatever. The soldiers on shore laid down their arms. They declared we were doing what was right.
+```
 
----
+TO DO 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18931124/003/0002
-Portsmouth Evening News - Friday 24 November 1893
+```{admonition} Naval Mutinies Lecture, Portsmouth, 1893
+:class: dropdown
+
+In *Portsmouth Evening News*, [Friday 24 November 1893](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18931124/003/0002).
 
 NAVAL MUTINIES.  
 LECTURE AT PORTSMOUTH.
@@ -674,10 +873,14 @@ A paper "The Mutinies Spithead and the Nore in 1797" was ready by Geo. Long, J.P
 
 In referring to the difference in the position of the seaman now as compared with 1797, the President said that British seamen were now treated properly and humanely, and were, therefore, a respectable body of men, and their wives were good, respectable women. (Loud applause.)— General Harward proposed, Mr. Lewis seconded, and Mr. G. L. Green supported, a vote of thanks to the lecturer and the President, which was carried by acclamation, and the meeting then terminated.
 
----
-Portsmouth Evening News - Thursday 15 April 1897
-100 years on ...
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18970415/015/0002
+```
+
+So how were the events of 1797 remembered a century later?
+
+```{admonition} A hundred years on, April 1897
+:class: dropdown
+
+In *Portsmouth Evening News*, Thursday 15 April 1897](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18970415/015/0002)/
 
 THE SPITHEAD MUTINY. NOTABLE CENTENARY.  
 THE STORY OF A GREAT STRUGGLE.
@@ -756,13 +959,27 @@ So ended the famous Spithead Mutiny. It was a critical moment in the nation's hi
 
 [For the foregoing account of a great historical event we are largely indebted to Mr. William H. Saunders, the Curator of the Borough Museum, who kindly placed his manuscript notes at our disposal, and to Mr. George Long, J.P., who supplied us with a copy of an interesting paper upon the subject, read by him some years ago before the Portsmouth Literary and Scientific Society.]
 
+```
+
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Norfolk Chronicle*, [Saturday 22 July 1797](https://britishnewspaperarchive.co.uk/viewer/bl/0000246/17970722/003/0001).
+
+HOUSE OF COMMONS.
+
+*Thursday, July 13.* Mr. Percival brought in a Bill to enable his Majesty to grant a conditional pardon, and to regulate the imprisonment of persons, under the sentence of Naval Courts Martial, which was read a first time.
+
+The Farmer's Bill; unlawful Oaths Bill; and the Base Coin Bill, were read a third time, and passed.
+```
+
 
 Spithead/St Helens mutiny https://en.wikipedia.org/wiki/Spithead_and_Nore_mutinies
 
 https://www.euppublishing.com/doi/pdf/10.3366/rom.2007.13.2.133
 
 
---
 
 
 https://www.philipkallan.com/single-post/the-spithead-mutiny
@@ -775,3 +992,96 @@ History of the mutiny at Spithead and the Nore: with an enquiry into its origin 
 by Neale, W. Johnson (William Johnson), 1812-1893
 
 Publication date 1842
+
+!---
+
+
+As a consequence of the mutiny that would play out at the Nore, Parliament rushed through specific legislation to try to isolate those involved from any support.
+
+```{admonition} TO DO
+:class: dropdown
+https://books.google.co.uk/books?id=7wjKeKNK9qUC&printsec=frontcover#v=onepage&q&f=false
+Statutes at Large,
+Anno tricefimoSeptimo GEORGII III. Regis:
+Being the FIRST Seſſion of the
+Eighteenth Parliament of GREAT BRITAIN.
+1797
+
+pp.270-3
+
+Cap. LXX
+
+*AN Act for the better prevention and punishment of attempts to seduce persons serving in his Majeſty's forces by ſea or land, from their duty and allegiance to his Majeſty, or to incite them to mutiny or disobedience*.—[ June 6, 1797.]
+
+*WHEREAS divers wicked and evil diſpoſed perſons, by the publication of written or printed papers, and by malicious and adviſed ſpeaking, have of late industriously endeavoured to ſeduce perſons ſerving in his Majeſty's forces by ſea and land from their duty and allegiance to his Majesty, and to incite them to mutiny and diſobedience:* be it enacted by the King's most excellent majesty, by and with the advice and conſent of the lords ſpiritual and temporal, and commons, in this preſent parliament aſſembled, and by the authority of the ſame, That, from and after the paſſing of this act, any person who ſhall maliciouſly and adviſedly endeavour to ſeduceany perſon or perſons ſerving in his Majeſty's forces, by ſea or land, from his or their duty and allegiance to his Majeſty, or to incite or ſtir up any ſuch perſon or perſons to commit any act of mutiny, or to make or endeavour to make, any mutinous aſſembly, or to commit any traiterous or mutinous practiſe whatsoever, ſhall, on being legally convicted of ſuch offence, be adjudged guilty of felony, and ſhall ſuffer death as in caſes of felony without benefit of clergy.
+
+II. Provided always, and be it enacted by the authority aforeſaid, That any offence committed against this act, whether committed on the high ſeas or within that part of *Great Britain* called *England*, ſhall and may be proſecuted and tried before any court of oyer and terminer or gaol delivery for any county in that part of *Great Britain* called *England*, in ſuch manner and form as if the ſaid offence had been therein committed.
+
+III. Provided always, and it is hereby declared and enacted, That any person who ſhall be tried and acquitted, or convicted of any offence against this act, ſhall not be liable to be indicted, proſecuted, or tried again for the ſame offence or fact, as high treaſon, or miſpriſion of high treaſon; and that nothing in this act contained ſhall be conſtrued to extend, to prevent any perſons guilty of any offence against this act, and who ſhall not be tried for the ſame as an offence against this act, from being tried for the ſame as high treaſon, or miſpriſion of high treaſon, in ſuch manner as if this act had not been made.
+
+IV. And be it further enacted by the authority aforesaid,
+That this act shall continue and be in force until the expiration of one month after the commencement of the next ſeſſion of parliament, and no longer.
+
+CAP. LXXI.
+
+*An act for more effectually restraining intercourse with the crews of certain of his Majeſty's ſhips now in a state of mutiny and rebellion, and for the more effectual ſuppreſſion of such mutiny and rebellion.*—[June 6, 1797.]
+
+*WHEREAS the crews of certain of his Majeſty's ſhips, notwithſtanding the repeated marks of his Majeſty's gracious favour and condeſcenſion towards them, have perſiſted, and do still perſiſt, in a most dangerous and criminal mutiny, and in the commiſſion of divers acts of the most heinous and treasonable nature, against the crown and dignity of our ſovereign lord the King, and to the manifeſt danger of the safety of this realm, engaged in war againſt a foreign enemy: and whereas it is neceſſary that immediate proviſion ſhould be made for the ſuppreſſion and puniſhment of offences of so high and dangerous a nature, and for deterring all others from being guilty of ſimilar crimes in future:* be it therefore enacted by the King's most excellent majesty, by and with the advice and conſent of the lords ſpiritual and temporal, and commons, in this preſent parliament aſſembled, and by the authority of the ſame, That it ſhall and maybe lawful for the lord high admiral or commiffioners for executing the office of lord high admiral,
+or any three or more of them, being thereto authorised by order of his Majeſty in council, to declare the crew of any of his Majeſty's ſhips who have been guilty of acts of mutiny and rebellion, and who ſtill perfiſt therein, and alſo the crew of any other of his Majesty's ſhips who ſhall be guilty of any of the like offences, to be in a ſtate of mutiny and rebellion, and by ſuch declaration to warn all his Majeſty's faithful ſubjects to abſtain from all communication or intercourse with the crews of the ſaid ſhips; and ſuch declaration ſhall forthwith be published in the *London Gazette*, and ſhall alſo (as ſoon as the fame can conveniently be done) be proclaimed in his Majesty's dock yards.
+
+II. And be it enacted, That, from and after the date of ſuch publication in *The London Gazette*, it ſhall not be lawful for any of his Majesty's liege ſubjects, or others refiding or being within this realm, to have any communication or intercourse, whether perſonally or by letter, meſſage, or otherwise, with the crew of any ſhip ſo declared to be in a ſtate of mutiny and rebellion, or with any perſons or perſon being part of ſuch crew, or with any perſon who ſhall remain on board the ſaid ſhip, after the day on which ſuch declaration ſhall have been ſo publiſhed in *The London Gazette* as aforeſaid, or in any manner to ſupply, aid, comfort, or aſſiſt the ſaid crew, or any perſons or perſon being part thereof, or any perſon ſo remaining on board the ſaid ſhip.
+
+III. And be it enacted, That any perſon who, after the date of ſuch publication as aforesaid, ſhall wilfully and adviſedly have any ſuch communication or intercourse with ſuch crew, or with any perſons or perſon being part thereof, or with any perſon ſo remaining on board any ſuch ſhip as aforesaid, or in any manner ſupply, aid, comfort, or aſſiſt ſuch crew, or any perſons or perſon being part thereof, or any perſons or perſon ſo remaining on board the faid ſhip, ſhall, on conviction thereof, be adjudged guilty of felony, and ſhall fuffer death, as in caſes of felony without benefit of clergy.
+
+IV. And be it further enacted, That, from and after the date of ſuch publication as aforesaid, all wages and other allowances payable to the ſaid crew, or any of them, ſhall ceaſe and determine, and be no longer payable, and they ſhall reſpectively from thenceforth forfeit and loſe all wages and other allowances, and all ſhares of prizes then due to them reſpectively, and all benefits or advantages to which they might otherwise be entitled from *Greenwich* hoſpital or the cheſt at *Chatham*, and all other benefits and advantages whatſoever, to which they might be otherwiſe entitled in conſequence of their having ſerved as ſeamen or marines on board any of his Majeſty's ſhips; and that all perſons voluntarily remaining on board any of the ſaid ſhips, after having had knowledge of ſuch declaration, ſhall be adjudged guilty of piracy and felony, and ſhall ſuffer ſuch pains of death and loſs of lands, goods, and chattels, as any pirates or felons by virtue of an act, made in the eleventh year of King *William* the Third, intituled, *An act for the more effectual ſuppreſſion of piracy*, or any other act, ought to ſuffer.
+
+V. Provided always, That nothing in this act ſhall be conſtrued to extend to ſuch communication or intercourſe as may be carried on with the ſaid crews, or any perſons remaining on board the ſaid ſhips as aforesaid, by the lord high admiral, or the commiſſioners for executing the office of lord high admiral, or any three or more of them, or by their order or authority, or by the order or authority of ſuch perſons or perſon, as may be authoriſed by them to grant permiſſion or to give directions in that behalf.
+
+VI. Provided always, and be it further enacted, That it ſhall be lawful for the lord high admiral, or commiſſioners for executing the office of lord high admiral, or any three or more of them, in ſuch manner as his Majeſty ſhall authorife and require, to accept the ſubmiſſion of the crew of any ſhip which ſhall have been ſo declared to be in a ſtate of mutiny and rebellion, or of any perſon or perfons, part of ſuch crew, or of any perſon or perſons on board of any of ſuch ſhips, or to declare any ſuch perſon or perſons to have returned to their duty, and thereupon to declare the perſons or perſon whoſe ſubmiſſion ſhall be ſo accepted, or who ſhall be ſo declared to have returned to their duty, to be exempted and relieved from all or any of the penalties and forfeitures in this act contained, in ſuch manner, and under ſuch terms and reſtrictions as his Majesty ſhall think fit; and from and after ſuch declaration, nothing in this act contained ſhall extend to prevent any ſuch intercourſe or communication as aforesaid, with any perſons or perſon to whom ſuch declaration ſhall apply.
+
+VII. Provided always, and be it enacted by the authority aforesaid, That any offence committed against this act, whether committed on the high ſeas or within that part of *Great Britain* called England, ſhall and may be proſecuted and tried before any court of oyer and terminer or gaol delivery for any county in that part of *Great Britain* called *England*, in ſuch manner and form as if the ſaid offence had been therein committed.
+
+VIII. Provided always, and it is hereby declared and enacted, That any perſon who ſhall be tried and acquitted, or convicted of any offence against this act, ſhall not be liable to be indicted, proſecuted, or tried again for the ſame offence or fact, as high treaſon, or miſpriſion of high treaſon; and that nothing in this act contained ſhall be conſtrued to extend, to prevent any perſons guilty of any offence against this act, and who ſhall not be tried for the ſame as an offence against this act, from being tried for the ſame as high treaſon, or miſprifion of high treaſon, in ſuch manner as if this act had not been made.
+
+IX. And be it enacted, That this act ſhall be in force until the expiration of one month after the commencement of the next ſeſſion of parliament, and no longer.
+
+X. Provided alſo, and be it further enacted, That it ſhall be lawful to amend or alter this act, or any part thereof, during the preſent ſeſſion of parliament.
+
+```
+
+
+Parliament also took more general measures to disrupt the organisation of mutinous activities by passing an act that made it illegal to swear "unlawful oaths". This legislation would later be used against the Luddites in 1812, and the Tolpuddle Martyrs in 1834.
+
+
+```{admonition} TO DO
+:class: dropdown
+
+https://books.google.co.uk/books?id=7wjKeKNK9qUC&printsec=frontcover#v=onepage&q&f=false
+Statutes at Large,
+Anno tricefimoSeptimo GEORGII III. Regis:
+Being the FIRST Seſſion of the
+Eighteenth Parliament of GREAT BRITAIN.
+1797
+
+
+pp459-61
+
+CAP. CXXIII
+
+*An act for more effectually preventing the administering or taking of unlawful oaths.*— [July 19, 1797]
+
+*WHHEREAS divers wicked and evil-diſpoſed perſons have of late attempted to seduce perſons ſerving in his Majesty's forces by ſea and land, and others of his Majeſty's ſubjects, from their duty and allegiance to his Majeſty, and to incite them to acts of mutiny and ſedition, and have endeavoured to give effect to their wicked and traiterous proceedings, by impoſing upon the persons whom they have attempted to ſeduce the pretended obligation of oaths unlawfully adminiſtered:* be it enacted by the King's most excellent majeſty, by and with the advice and conſent of the lords ſpiritual and temporal, and commons, in this preſent parliament aſſembled, and by the authority of the ſame, That any perſon or perſons who ſhall, in any manner or form whatsoever, adminiſter, or cauſe to be adminiſtered, or be aiding or aſſiſting at, or preſent at and conſenting to, the adminiftering or taking of any oath or engagement, purporting or intended to bind the perſon taking the ſame to engage in any mutinous or ſeditious purpoſe; or to disturb the publick peace; or to be of any aſſociation, ſociety, or confederacy, formed for any fuch purpoſe; or to obey the orders or commands of any committee or body of men not lawfully conſtituted; or of any leader or commander, or other perſon not having authority by law for that purpoſe; or not to inform or give evidence against any aſſociate, confederate, or other perſon; or not to reveal or discover any unlawful combination or confederacy; or not to reveal or diſcover any illegal act done or to be done; or not to reveal or diſcover any illegal oath or engagement which may have been adminiſtered or tendered to or taken by ſuch perſon or perſons, or to or by any other perfon or perſons, or the import of any ſuch oath or engagement; ſhall, on conviction thereof by due courſe of law, be adjudged guilty of felony, and may be tranſported for any term of years not exceeding ſeven years; and every perſon who ſhall take any ſuch oath or engagement, not being compelled thereto, ſhall, on conviction thereof by due courſe of law, be adjudged guilty of felony, and may be tranſported for any term of years not exceeding ſeven years.
+
+II. Provided always, and be it further enacted, That compulſion ſhall not juſtify or excuſe any perſon taking ſuch oath or engagement, unleſs he or ſhe ſhall, within four days after the  taking thereof, if not prevented by actual force or ſickneſs, and then within four days after the hindrance produced by ſuch force or ſickneſs ſhall ceaſe, declare the ſame, together with the whole of what he or ſhe ſhall know touching the ſame, and the perſon or perſons by whom, and in whoſe preſence, and when and where, ſuch oath or engagement was adminiſtered or taken, by information on oath before one of his Majesty's juſtices of the peace, or one of his Majesty's principal ſecretaries of ſtate, or his Majeſty's privy council; or, in caſe the perſon taking ſuch oath or engagement ſhall be in actual ſervice in his Majesty's forces by ſea or land, then by ſuch information on oath as aforeſaid, or by information to his commanding officer.
+
+III. And be it further enacted, That perſons aiding and aſſiſting at, or preſent at and conſenting to, the adminiſtering or taking of any ſuch oath or engagement as aforesaid, and perſons cauſing any ſuch oath or engagement to be adminiſtered or taken, though not preſent at the adminiſtering or taking thereof, ſhall be deemed principal offenders, and ſhall be tried as ſuch, although the perſons or perſon who actually adminiſtered ſuch oath or engagement, if any such there ſhall be, ſhall not have been tried or convicted.
+
+IV. And be it further enacted, That it ſhall not be neceſſary, in any indictment against any perſon or perſons adminiſtering, or cauſing to be adminiſtered or taken, or taking any ſuch oath or engagement as aforesaid, or aiding or aſſiſting at, or preſent at and conſenting to the adminiſtering or taking thereof, to ſet forth the words of ſuch oath or engagement; and that it ſhall be ſufficient to ſet forth the purport of ſuch oath or engagement, or ſome material part thereof.
+
+V. Provided always, and be it further enacted, That any engagement or obligation whatsoever, in the nature of an oath, ſhall be deemed an oath within the intent and meaning of this act, in whatever form or manner the ſame ſhall be adminiſtered or taken; and whether the ſame ſhall be actually adminiſtered by any perſon or perſons to any other perſon or perfons, or taken by any perſon or perſons without any adminiſtration thereof by any other perſon or perſons.
+
+VI. Provided alſo, and be further enacted by the authority aforesaid, That any offence committed against this act on the high ſeas, or out of this realm, or within that part of *Great Britain* called *England*, ſhall and may be proſecuted, tried, and determined, before any court of oyer and terminer or gaol delivery, for any county in that part of *Great Britain* called *England*, in ſuch manner and form as if ſuch offence had been therein committed; and if committed in that part of *Great Britain* called *Scotland*, ſhall and may be proſecuted, tried, and determined, either before the juſticiary court at *Edinburgh*, or in any of the circuit courts in that part of the united kingdom.
+
+VII. Provided alſo,and it is hereby declared, That any perſon under this act, who ſhall be tried, and acquittted or convicted of any offence against this act, ſhall not be liable to be indicted, proſecuted, or tried again, for the ſame offence or fact, sas high treaſon; and that nothing in this act contained ſhall be conſtrued to extend to prevent any perſon guilty of any offence against this act, and who ſhall not be tried for the ſame as an offence against this act, from being tried for the ſame as high treaſon, or miſpriſion of high treaſon, in ſuch manner as if this act had not been made.
+
+```
