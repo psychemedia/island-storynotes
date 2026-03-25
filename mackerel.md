@@ -695,7 +695,7 @@ On Saturday, the Petty Sessions held at the Guildhall, a man of name of Barnicle
 https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18411120/014/0003
 Hampshire Advertiser - Saturday 20 November 1841
 
-ODD SMUGGLING ADVENTURE.— We last week gave a report of the committal to Winchester gaol of a party of smugglers (two Englishmen and three Frenchmen) wbo formed the crew of a vessel taken by Captain M'Conachy, commander of the Rose, revenue cutter, in Chale Bay, Captain M'C. sent a party of his own men on board the smuggler, her captain being left on board. During the night the wind blew strongly off the coast, and the preventive men on board were obliged to let the vessel drift across the English channel, when she ultimately run into Cherbourg, and the captain immediately claimed his vessel and his liberty, leaving the preventive men to get back to England again as they could.
+ODD SMUGGLING ADVENTURE.— We last week gave a report of the committal to Winchester gaol of a party of smugglers (two Englishmen and three Frenchmen) who formed the crew of a vessel taken by Captain M'Conachy, commander of the Rose, revenue cutter, in Chale Bay, Captain M'C. sent a party of his own men on board the smuggler, her captain being left on board. During the night the wind blew strongly off the coast, and the preventive men on board were obliged to let the vessel drift across the English channel, when she ultimately run into Cherbourg, and the captain immediately claimed his vessel and his liberty, leaving the preventive men to get back to England again as they could.
 
 ```{admonition} An extensive seizure, 1844
 :class: dropdown
