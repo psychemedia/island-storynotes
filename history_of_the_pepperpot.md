@@ -406,6 +406,13 @@ Mention has already been made of the Difficulty of Landing upon almoſt any of t
 
 ```
 
+```{admonition} Profiting themselves, 1795
+:class: dropdown
+In John Albin, *A new, correct, and much-improved history of the Isle of Wight*, 1795, [p626-7](https://archive.org/details/bim_eighteenth-century_a-new-correct-and-much_albin-john_1795/page/626/mode/2up).
+
+As considerable profits have been often made by attending wrecks here, we cannot omit the anecdote of a carpenter of this place [Atherfield] some years ago, when a ship with a rich cargo was stranded on this coast. Having hid his basket of tools in a furze bush, the booty which he found on attending to the vessel so fully engrossed his attention that for six weeks, as our correspondent assures us he has been credibly informed, his mind never once was impressed with a thought of them; and the property which he acquired upon this occasion enabled him to make a purchase of about eight pounds a year, that is now known by the name of Knights. We are nevertheless assured, that the natives humanely exert their utmost efforts in affording. assistance to the distressed passengers and seamen on these unfortunate occasions, though it must be admitted that their motive for so doing is profit to themselves.
+```
+
 By all accounts, such behaviour played a part in the history of the Pepperpot.
 
 ## Archaeological and Ecclesiastical History
@@ -465,23 +472,6 @@ Mr.James Parker said that as far as he remembered he did not see any vestige of 
 ```
 
 *See elsewhere for an aside on "Lanters of the Dead".*
-
-Another impression of the Pepperpot, from 1796, appears in the second volume of Tomkins' *A tour to the Isle of Wight*.
-
-```{admonition} Obscuring vapours, 1796
-:class: dropdown
-
-In Charles Tomkins, *A tour to the Isle of Wight, illustrated with eighty views, drawn and engraved in aquatinta. In two volumes*, 1796, volume 2, [p112](https://archive.org/details/bim_eighteenth-century_a-tour-to-the-isle-of-wi_tomkins-charles_1796_2/mode/2up).
-
-One of the ſignal-houſes is erected on St. Catherine's, and there is likewiſe a lighthouſe; but owing to the vapours that obſcure the top of the down, the latter is rendered uſeleſs. In 1323, Walter de Godyton erected a chantry in this place, and dedicated it to St. Catherine: ſome remains of it appear in the annexed plate.
-
-This chantry was originally intended to anſwer the double purpoſe of a light-houſe, and a place of worſhip. The following entry in the regiſter of the dioceſe of Wincheſter, clearly proves, that there was ſome religious houſe on this ſpot, prior to the erection of the chantry.
-
-*Walter de Langſtrell, admiſſus ad hermitorium ſupra montem de Chale, in inſula Vectis, Idil. Octobris A D. 1312.*
-
-![St Catherine's](images/bim_eighteenth-century_a-tour-to-the-isle-of-wi_tomkins-charles_1796_2_0202.jpg)
-
-```
 
 Writing in *Isle of Wight: its churches and religious houses* in 1911, the history of St. Catherine's oratory, as the Pepperpot is perhaps more correctly known, given by J. Charles Cox, adds in various detials that claim to describe how Walter de Godeton came to commission the construction of the tower.
 
