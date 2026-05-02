@@ -701,7 +701,7 @@ XXXIV*
 'f hat the governor and niatfori shall riot, but by order of the surgeon^ suffer any poor persons, belonging to the house, to drink tea therein : — and neither the governor, matron, or other officer, shall buy or fell, or suffer any distilled liquors to be brought into the house, without leave of the committee; nor shall any tobacco or tea be allowed, but to such persons for whom the surgeon may think them necessary.
 
 XXXV,
-Tbat the governor and triatfdh shall execute all bye-laws, made by the directors and acting guardians under the authority of the kdl of parliament; and also such temporary orders as both Or either of them shall receive from the weekly committee— the same being first entered in the committee-book^ and attested by the clerk;-^
+That the governor and triatfdh shall execute all bye-laws, made by the directors and acting guardians under the authority of the kdl of parliament; and also such temporary orders as both Or either of them shall receive from the weekly committee— the same being first entered in the committee-book^ and attested by the clerk;-^
 C such
 
 
