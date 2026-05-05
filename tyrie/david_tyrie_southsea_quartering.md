@@ -295,6 +295,8 @@ See also [John Graham, trial and memoir](./john_graham_memoir.md).
 
 On Saturday, August 10th, the Special Commission met at Winchester Town Hall to try David Tyrie on a charge of High Treason.
 
+TO DO
+
 ```{admonition} A special commission at the Town-hall, August 1782
 :class: dropdown
 https://britishnewspaperarchive.co.uk/viewer/bl/0000204/17820817/002/0002
@@ -307,6 +309,31 @@ On Saturday came on by a special commission at the Town-hall in Winchester, the 
 
 David Tyrie, who was convicted of high-treason on Saturday last at Winchester for holding a correspondence with the French, was the projector of that late gold coinage, for which it was said, he was offered a place of about 200*l.* a year, which he refused, considering it inadequate to his services.—— After he was taken from to the bar the gaoler found a razor concealed under the knee-band of his breeches.— After conviction when he was asked by the Clerk of Arraigns why sentence of death should not be pronounced upon him, he replied "he did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and he despised the malice of his enemies".
 ```
+
+
+TO DO
+
+```{admonition} An Attempted Escape, August 1782
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17820819/003/0003
+Hampshire Chronicle - Monday 19 August 1782
+
+WINCHESTER, Saturday August 17.
+
+Late this evening it was discovered, that the felons confined in the dungeon belonging to the county gaol in this city, had for time past been endeavouring to effect their escape, and had not the discovery been made when it was, every one of them would have been at large before the morning, together with Tyrie, now under sentence of death for high treason, who was the first object have been released.— the circumstance which led to the discovery is as follows: On Friday evening, Tyrie enquired how thick the wall of his cell was. He was answered, Three feet. He expressed some wonder at its being built so thick; and being asked, if he had any thought of trying to break out, he answered in the negative; but seemed to intimate, that less substance would have been sufficiently secure. The Keeper of the Prison being struck by the oddity of this conversation, made in the course of this day a minute search round the walls of the cells, and fortunately discovered in the malefactors dungeon a piece of plank, which gave way on receiving a hard stroke with the hammer. On taking out the plank, it was found that the brick work behind had been removed, nearly the whole thickness of the wall, and the bricks were replaced again in exact order, but so loose as to be taken out in few minutes. Their tools were also concealed here, consisting of a hammer, some large chisels, a hand-saw, &c. What rendered a discovery very difficult, is the inside of the cells having been lately white washed, and the plank was cut out in an irregular direction, so as to slip in and out with great nicety, and the delinquents had every morning after their work very carefully done over the crevice, with a thick white cement, so as to correspond exactly with the other part of the wall. This business is supposed to have been in hand upwards of a fortnight; and it is discovered, that when Graham (who was apprehended here for negotiating counterfeit bank notes) called at the gaol to see Tyrie, he gave him half a guinea, which money appears to have been laid out in purchasing implements to work their escape.— Throughout the whole of Tyrie's deportment since he has been under the dreadful sentence of the law, he has not shown any apparent expectation of death. aad has plainly manifested his reliance on the success of this attempt, which has been thus timely and fortunately frustrated. After securing the prisoners, the Keeper began making the strictest enquiry for the person that furnished them with the implements, who it is much to be wished, will not remain long undetected.
+
+It has been reported, that a reprieve was brought down for Tyrie by a King's Messenger last night; but we have authority to say it is without foundation, and that he will be executed next Saturday at Portsmouth, agreeable to his sentence, which may be seen in his Trial, published at large by J. Wilkes, printer of this paper, from the notes taken in Court Mr. Gurney.
+
+...
+
+David Tyrie, who was convicted of High-Treason on Saturday, for holding a correspondence with the French, was the projector of the late gold coinage, for which, it is said, he was offered a place of 200*l.* a year, which he refused, considering it inadequate to his services. He was then clerk to a merchant in London; afterwards he went into trade as a merchant for himself, and failed; then he settled at Gosport, where he committed the crime for which he was cast.
+
+As David Tyrie, convicted last Saturday of holding a treasonable correspondence with France, was able to ascertain an estimate of the sum that would be necessary for bribing a clerk in several of the public offices, are there not some grounds for a suspicion that he had accomplices in some, if not in all the offices alluded to? This matter should at least, be keenly investigated, that the guilty parties, if there are any, may no longer remain in a situation which enable them to do their country more fatal injury by a single whisper, than an enemy would, perhaps, be able to effect by fair and open hostilities in the course of years. 
+
+```
+
+TO DO
+
 
 It didn't take long for a transcript of the trial to be published.
 
@@ -960,7 +987,7 @@ I'll expect to hear from you to-morrow.—Your ever faithful and obliged friend.
 Mr. John Graham."
 ```
 
-Unsurpisingly, there was considerable interest in the story north of the border, so it's not surprising that a reasonably comprehensive report of the trial also appeared in *The Scots Magazine*.
+Unsurprisingly, there was considerable interest in the story north of the border, as a  reasonably comprehensive report of the trial from *The Scots Magazine* suggests.
 
 ```{admonition} The Trial of David Tyrie, August 1782
 :class: dropdown
@@ -1032,7 +1059,6 @@ It is given out, that his accomplices are discovered, and that a certain America
 ...
 
 ```
-
 
 TO DO
 
@@ -1430,7 +1456,7 @@ Stamford Mercury - Thursday 26 June 1783
 
 Also appeared in Derby Mercury - https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17830619/009/0002 Thursday 26 (incorrectly shown by BNO as 19) June 1783; https://britishnewspaperarchive.co.uk/viewer/bl/0000572/17830630/008/0003 Aberdeen Press and Journal - Monday 30 June 1783
 
-To the disgrace of the police of this country, the head of the unfortunate Tyrie, who was executed at Portsmouth last summer, as a spy, and whose body was dissected by the barbarous and inhuman multitude that surrounded him, is made a shew of to this very hour, by the keeper of Gosport Bridewell. The number of unthinking people that have paid one shilling for seeing it, is truly astonishing; but the dreadful accident that has happened in consequence of its being made a public will, it is hoped, be the means of its being immediately ordered to be buried, to prevent such dismal catastrophes in future.—A sailor, lately arrived from the West-Indies, hearing such a sight was to be seen, went to satisfy his curiosity, taking his girl with him without letting ber know where he was going, On their arrival at Bridewell, he called for some wine, at the same time whispering the gaoler, to bing the head, which being suddenly and unexpectedly placed upon the table before the girl, had such an effect upon the poor young creature, that she fainted away. With great difficulty she was conveyed home, and put to bed, from whence she never rose. The sailor, knowing himself to be the author of this melancholy event, has more than once endeavoured to make away with himself. It is to be hoped that the Judges at the ensuing assizes will make it their business to enquire into this shameful traffic.
+To the disgrace of the police of this country, the head of the unfortunate Tyrie, who was executed at Portsmouth last summer, as a spy, and whose body was dissected by the barbarous and inhuman multitude that surrounded him, is made a shew of to this very hour, by the keeper of Gosport Bridewell. The number of unthinking people that have paid one shilling for seeing it, is truly astonishing; but the dreadful accident that has happened in consequence of its being made a public will, it is hoped, be the means of its being immediately ordered to be buried, to prevent such dismal catastrophes in future.—A sailor, lately arrived from the West-Indies, hearing such a sight was to be seen, went to satisfy his curiosity, taking his girl with him without letting ber know where he was going, On their arrival at Bridewell, he called for some wine, at the same time whispering the gaoler, to bring the head, which being suddenly and unexpectedly placed upon the table before the girl, had such an effect upon the poor young creature, that she fainted away. With great difficulty she was conveyed home, and put to bed, from whence she never rose. The sailor, knowing himself to be the author of this melancholy event, has more than once endeavoured to make away with himself. It is to be hoped that the Judges at the ensuing assizes will make it their business to enquire into this shameful traffic.
 
 ```
 
@@ -1445,3 +1471,29 @@ The last man to suffer the completed sentence of being hung and quartered, on So
 Whilst the Despard plot conspirators in 1803, the Pentridge rebels in 1817, and the Cato Street conspirators in 1820, were also sentenced to hanging, beheading and quartering, their sentences were commuted in each case by the Prince Regent to hanging until dead, and then beheading.
 
 ```
+
+
+
+---
+
+
+## Mutiny????
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830623/016/0003
+Hampshire Chronicle - Monday 23 June 1783
+
+A very alarming mutiny has happened this week on board the Raisonable man of war at Spithead, the crew of which, on being ordered to sail for the River, in company with the Anson, Ruby, and Polyphemus, to be paid off there, absoluteiy refused to sail; but on the contrary prepared to bring the ship into harbour, insisting she should be paid off at this place. Information of these proccedings being sent to Admiral Montague, who commands at this port, he immediately gave orders for the men of war at Spithead bear up and lay their boradsides towards her, and the guns from South Sea Battery, the platform, and Block house, to bear upon her, that, in case the crew attempted to bring her into harbour, they should, the moment they got under weigh, fire upon, and sink her; notice of which orders he prieviousy sent on board the Raisonable, to inform the crew of their inevitable destiny, if they persisted in their unwarrantable proceedings. This resolute and decisive conduct in the Admiralty, had its proper effect. The ship's company were to man struck with the danger that awaited them, and were soon brought to a sense of their indiscretion and imprudence. Very happily no further opposition or mischief ensued, nor did any of the sailors in other ships join the mutiny, the expectation of which was so great, that orders were sent to the regiments quartered in the neighbouring towns, to hold themselves in readiness to march to the aid of the Commander in Chief here, on a few minuets notice, in case they should be wanted. The crew thus brought to a proper sense of their duty, have since weighed anchor, and sailed for the River, where they are to be paid off.
+
+---
+
+The RIver - ? Medway / Chatham Dockyard
+
+
+## Royal George
+
+https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830623/016/0003?browse=true&fullscreen=true
+
+
+The Diligente, one of the ships appointed to weigh the Royal George, has been at Spithead some days past, to be ready against the attempt is made, which will take place as soon as she is joined by the Royal William, now fitting for that service.
+
+The diving-bell, poised with lead, and which is to sink full of air, is to be situated as near as possible parallel to the horizon, so as to close with the water's surface all at once, at the operation of raising the Royal George.
