@@ -16,7 +16,7 @@ Which is to say....
 > law and ensign Edward Mcguire.
 >
 > Mcguire accused Blundell of being a coward and as a
-> matter of honour Blundel challenged Mcguire to a duel
+> matter of honour Blundell challenged Mcguire to a duel
 > which took place at
 > Carisbrooke Castle on the 9 July 1813.
 >
@@ -42,7 +42,7 @@ Needless to say, my next stop was the [*British Newspaper Archive*](https://brit
 
 ## Introducing the Wheatsheaf
 
-The Wheatsheaf Hotel is one of the few surviving pubs of old Newport. We can find a near contemporary description of it from an advert posted in the *Hampshire Chronicle* just over a decade later, announcing the sale, by auction, of the premises.
+The Wheatsheaf Hotel is one of the few surviving pubs of old Newport. It must have been a sizeable inn even in the early 1800s, acting as a location for local auctions, amongst other things.
 
 ```{admonition} Old-established Public-House, December 1826
 :class: dropdown
@@ -52,7 +52,7 @@ TO BREWERS, INN KEEPERS, AND OTHERS.
 
 Capital Free and Old-established Public-House, in one of the best situations in the town of Newport.
 
-TO SOLD by AUCTION, by Mr FRANCIS PITTIS, by order and under the direction of the Executors of the late Mr. F. Kiddle, on Tuesday the 19th of December, 1826, at the Wheat-sheaf Inn, Newport, Isle of Wight, all that Good Accustomed PUBLIC HOUSE, known the name of the *Red Lion*, situated in the centre of St. James's Square, where the cattle market is held, and now in the occupation of Mr George Pedder. The house is very substantially brick built, and comprises on the ground floor, three sitting rooms in front, two back ditto, a good cellar, large stables, and stores; the second floor, two large rooms in front, and three back bed rooms the attic, six sleeping rooms. The whole of the rooms are well arranged, and the premises are front thirty-seven feet.
+TO SOLD by AUCTION, by Mr FRANCIS PITTIS, by order and under the direction of the Executors of the late Mr. F. Kiddle, on Tuesday the 19th of December, 1826, at the Wheat-sheaf Inn, Newport, Isle of Wight, all that Good Accustomed PUBLIC HOUSE, known by the name of the *Red Lion*, situated in the centre of St. James's Square, where the cattle market is held, and now in the occupation of Mr George Pedder. The house is very substantially brick built, and comprises on the ground floor, three sitting rooms in front, two back ditto, a good cellar, large stables, and stores; the second floor, two large rooms in front, and three back bed rooms the attic, six sleeping rooms. The whole of the rooms are well arranged, and the premises are front thirty-seven feet.
 
 *The Sale to commence precisely at Six o'Clock in the Evening.*
 
@@ -265,9 +265,9 @@ At the Hampshire Assizes, Edward M'Guire, Andrew Dillon, Joseph Gilchrist, & Dan
 
 A report that appeared in several locations, including the *Saint James's Chronicle* and the *London Courier and Evening Gazette*, repeated verbatim much of the text that also appeared in the *Star (London)* report, but also included further detail about what had happened on the evening of Thursday, July 8th, 1813, the night before the duel, as well as the character witness testimony, or lack of it.
 
-In particular, Blundell's mother-in-law appears to have got wind of trouble between Blundell and M'Guire, and called on a magistrate, Rev. Jon Barwis of Niton, to intercede. He finds M'Guire at the *White* Lion (the reference is perhaps given in error, referring instead to the *Red Lion*, just round the corner, and essentially behind the Wheatsheaf, in St. James' Square), and gets him to agree that he will not *issue* a challenge to Blundell. He then summons Blundell, but on Blundell not turning up, Barwis seeks him out, where Blundell is in the company of Dillon and O'Brien. Blundell appears to have claimed that in some situations a duel was necessary, and Dillon implied that it might also be expected. On trying to deter the men from fighting, the response seems to be that if there is fighting, it won't take place in his jurisdiction.
+In particular, Blundell's mother-in-law appears to have got wind of trouble between Blundell and M'Guire, and called on a magistrate, Rev. Jon Barwis of Niton, to intercede. He finds M'Guire at the *White Lion*, at the corner of Barton Road and Coppins Bridge, next to where the Church on the roundabout is today, and gets him to agree that he will not *issue* a challenge to Blundell. He then summons Blundell, but on Blundell not turning up, Barwis seeks him out, where Blundell is in the company of Dillon and O'Brien. Blundell appears to have claimed that in some situations a duel was necessary, and Dillon implied that it might also be expected. On trying to deter the men from fighting, the response seems to be that if there is fighting, it won't take place in his jurisdiction.
 
-On the morning of Friday the 9th, Gilchrist'servant took a box into Newport from the barracks at Parkhurst, and then on to Carisbrook Castle, with Gilchrist and M'Guire, where they were then joined by Blundell and Hemming. Hemming asked Gilchrist for a pistol, which appears to have been denied, and then Blundell instructed Hemming to get one of his own. Stood at a distance of 12 or 13 paces, both men took a shot on Hemming's word, but Blundell's pistol appeared to fail, and so he requested use of one of Gilchrist's. The seconds approached each of the duellists in turn, and each was then given a loaded gun of Gilchrist's. On firing, Blundell was hit.
+On the morning of Friday the 9th, Gilchrist's servant took a box into Newport from the barracks at Parkhurst, and then on to Carisbrook Castle, with Gilchrist and M'Guire, where they were then joined by Blundell and Hemming. Hemming asked Gilchrist for a pistol, which appears to have been denied, and then Blundell instructed Hemming to get one of his own. Stood at a distance of 12 or 13 paces, both men took a shot on Hemming's word, but Blundell's pistol appeared to fail, and so he requested use of one of Gilchrist's. The seconds approached each of the duellists in turn, and each was then given a loaded gun of Gilchrist's. On firing, Blundell was hit.
 
 ```{admonition} On Keeping the Peace, August 1813
 :class: dropdown
