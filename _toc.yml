@@ -20,9 +20,10 @@ parts:
   - file: walter_de_godeton_and_the_shipwrecked_wine
   - file: mackerel
   - file: shrinking_week_down
-- caption: "Carisbrooke Castle: Residents' Tales"
+- caption: "Carisbrooke Castle"
   chapters:
   - file: edward-woodville
+  - file: wheatsheaf_duel.md
 - caption: Hanging in Chains
   chapters:
   - file: michael_morey_and_james_dove
