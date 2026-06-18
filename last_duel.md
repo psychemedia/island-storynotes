@@ -1,6 +1,6 @@
 # The Last Pistol Duel on the Island
 
-Several years ago, someone made mention to me of the last duel on the island that had taken place at Northwood in Cowes. I didn't chase it up at the time, but it was more recently brought to my mind when I heard contemporary folk duo Jess Leigh Ong and Al Watson, aka *Berlingo Flick*, singing their song *The Final Duel* on the Acoustic Stage at Kashmir Fringe Festival (2026) at Quay Arts in Newport.
+Several years ago, I overheard a passing mention of the last duel on the island that had taken place at Northwood in Cowes. I didn't chase it up at the time, but when I heard contemporary folk duo Jess Leigh Ong and Al Watson, aka *Berlingo Flick*, singing their song *The Final Duel* on the Acoustic Stage at Kashmir Fringe Festival (2026) at Quay Arts in Newport, I was reminded of it, and quicly set off to do some digging.
 
 
 Berlingo Flick (Jess Leigh Ong + Al Watson)
@@ -50,20 +50,42 @@ Jess - "That's most of the lyrics, certainly the factual ones, the ship and wher
 
 Lockyer buried in St mary's Cowes graveyard. west wall?
 
----
 
-https://academic.oup.com/book/45624/chapter/394884888?login=false
-Artisans Abroad: British Migrant Workers in Industrialising Europe, 1815-1870
-Fabrice Bensimon
+```{admonition}
+:class: dropdown
 
-https://www.jstor.org/stable/3112919?seq=1
-Damming the Flood: British Government Efforts to Check the Outflow of Technicians and Machinery, 1780-1843
+John Gideon Millingen, *The history of duelling*, volume 2, 1841, [pp222-3](https://archive.org/details/the-history-of-duelling-v-2-images/page/222/mode/2up).
+
+
+BETWEEN MAJOR LOCKYER AND MR. SUTTON COCHRANE. Cowes, December 12, 1817.
+
+On Wednesday a duel was fought here between Major Lockyer and Mr. Sutton Cochrane, recently a lieutenant in the Royal Navy, which proved fatal to the latter, he having received his antagonist’s ball under the right breast, which passed through both ventricles of the heart, and the lungs.
+
+These gentlemen, in company with a Mr. Redesdale, a Mr. Hand, and upwards of sixty others, were going out as adventurers to South America, in the ship Grace, Davy master, now lying in these roads, wind-bound. The trifling difference between the parties arose in consequence of an expression of an unguarded nature from the deceased, the evening before, while regaling themselves, with several others, at an inn; he having asserted, that they were all in debt, and were seeking their fortunes. At which the major felt very indignant, and asked, if the other meant to include him? The deceased replied in the affirmative, and declared he would prove his assertion, which he did by giving a very ingenious explanation, observing, that if we were not in debt to any of our fellow-beings, we were all indebted to our Maker. But the major, not considering the explanation satisfactory, insisted on Mr. Cochrane’s meeting him the next morning, at the dawn of day, who very reluctantly fell into the measure, previously declaring that he would not fire himself, but that if his opponent insisted, he would receive his fire.
+
+It was agreed that they should both fire at one time; but when the signal was made, it was observed, the deceased never raised his arm to level his pistol, while the ball of his antagonist’s pistol immediately struck the seat of life. When the pistol of the deceased was examined afterwards, it was found neither unstopped nor cocked. The major, and the two seconds, Messrs. Redesdale and Hand, immediately decamped across the water.
+
+The deceased was a well-educated and genteel young man, about twenty years of age, and we believe a relation of Lord Cochrane.
+
+A coroner’s inquest sat upon the body, the jury delivered their verdict, « wilful murder,” against Major Lockyer, and Messrs. Redesdale and Hand, and the coroner issued his warrant for their apprehension. Mr. Hand was apprehended (by Allen, the Newport constable) at Portsmouth, on Thursday ; the others are at large.
+
+Major Lockyer and Mr. Hand were tried at Winchester Assizes, on the 7th of March, 1818; and the jury returning a verdict of manslaughter, they were sentenced to three months’ imprisonment.
+
+```
+
+
+
+
+Fabrice Bensimon, [Artisans Abroad: British Migrant Workers in Industrialising Europe, 1815-1870](https://academic.oup.com/book/45624/chapter/394884888?login=false).
+
+
+*Damming the Flood: British Government Efforts to Check the Outflow of Technicians and Machinery, 1780-1843*
 David I. Jeremy
-The Business History Review, Vol. 51, No. 1 (Spring, 1977), pp. 1-34 (36 pages)
+The Business History Review, Vol. 51, No. 1 (Spring, 1977), [pp. 1-34](https://www.jstor.org/stable/3112919?seq=1) (36 pages)
 
 ...  No artisans at all were licensed by the Privy Council to emigrate between 1814 and 1824. And in the period 1780-1824, apart from the three permits to steam engine erectors, the Board of Trade allowed only one skilled worker, Richard Smith, to go abroad. Halted at the Liverpool Customs in 1817, he admitted that he had once been a master spinner, was presently assistant to a Staffordshire land surveyor, and was going to Philadelphia to recover unspecified property taken thence by James Slater, late of Cheadle. `[P.C. 2/205 pp. 420-421. B.T. 1/119, ff. 8-10. B.T. 5/26, p. 140]` ...
 
-```{admonition} TO DO
+```{admonition} A Case of Uncommon Villainy, September 1817
 :class: dropdown
 In *Morning Chronicle*, [Monday 29 September 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170929/011/0003).
 
@@ -82,7 +104,7 @@ The complainants begged to know whether the process of the Court of Admiralty co
 The Lord Mayor again recommended application to the best legal authorities, and expressed his promptitude to assist in obtaining satisfaction for the poor creatures who were labouring under such privations.
 ```
 
-```{admonition} TO DO
+```{admonition} The Ship Caledonia, September 1817
 :class: dropdown
 In *Morning Chronicle*, [Tuesday 30 September 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170930/010/0003).
 
@@ -103,7 +125,9 @@ London to wit,
 We, Michael Wall and Ann Boyle, do hereby severally make oath that the above statement of facts, as far as respects us individually is perfectly true, and we believe that the reason why the ship Caledonia did not proceed to sea was, that several of the passengers were not prepared with the certificates required by the Custom-house at Liverpool to prove that they were not mechanics MICH. WALL. A BOYLE. Sworn at the Guildhall this 29th day of September 1817, before me, M. Wood, Mayor.
 ```
 
-```{admonition} TO DO
+In December, 1817, two items of news from Cowes made it into the London newspapers.
+
+```{admonition} A ship is seized, and a duel is fought December 1817
 :class: dropdown
 In *Star (London)*, [Saturday 13 December 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0002646/18171213/011/0003).
 
@@ -112,7 +136,9 @@ Thursday the ship Grace of London, DAVEY Master, with eighty Officers on board, 
 On the day preceding the seizure of the above vessel, Mr. SUTTON, a volunteer Officer for South America, was shot in a duel, at West Cowes, by Major LOCKYER, a British Officer, about to depart on the same enterprise. An inquest being held on the body, a Verdict of Wilful Murder was given against Major Lockyer, and Lieutenants Hand and Redesdale, the seconds, all of whom have absconded.
 ```
 
-```{admonition} TO DO
+More details of the duel were reported following the coroner's inquest.
+
+```{admonition} Fatal Duel, December 1817
 :class: dropdown
 In *Morning Herald (London)*, [Tuesday 16 December 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18171216/018/0003).
 
@@ -121,14 +147,18 @@ FATAL DUEL. The following extract gives a further account of this transaction:
 "ISLE OF WIGHT, DEC. 13.— On Wednesday last an inquest was taken at the Dolphin Inn, in West Cowes, before THOMAS SEWELL, Esq. Coroner of the Isle of Wight, on view of the body of a gentleman of the name of John Sutton, who was killed in a duel, in Northwood Park, that morning. It appeared in evidence, that the deceased was one of the passengers about to proceed to St. Thomas's in the ship Grace, now lying in Cowes Roads; that the preceding evening, the deceased, a Major Lockyer, a Mr. Redesdale, and a Air. Hand, and other passengers, were in company together at the Dolphin; that Major Lockyer took offence at some expression made use of by the deceased, and in consequence challenged him. The parties met the next morning, Mr. Redesdale attending as second to Major Lockyer, and Mr. Hand as second to the deceased. Major Lockyer only fired at the appointed signal; the ball entered the deceased's body between the third and fourth ribs on the right side, passed through the ventricle of the heart, lodged in the integuments on the left side, and occasioned, of course, instant death. The principal and seconds immediately fled. The Jury, without hesitation, returned a verdict of *Wilful Murder* against Major Lockyer and Messrs. Redesdale and Hand, and the Coroner issued his warrant for their apprehension. Mr. Hand was apprehended by Allen, (the Newport constable) at Portsmouth, on Thursday; the others are still at large.
 ```
 
-```{admonition} TO DO
+It also turned out that the duellists were passengers of the seized ship.
+
+```{admonition} Duellists were seized ship's passengers, 1817
 :class: dropdown
 In *Bury and Norwich Post*, [Wednesday 17 December 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000156/18171217/003/0002).
 
 The ship Grace, from London to St. Thomas, with 80 officers on board, going to join the Spanish Patriots, put into Cowes last week, and was there seized for receiving persons on board contrary to the Passenger Act, and having no papers to prove the ship's identity. — Major Lockyer and Lieut. Cochrane Sutton, two of the Grace's passengers, fought a duel near West Cowes on Thursday: the latter was shot through the heart, and immediately expired. —Verdict, Wilful Murder.
 ```
 
-```{admonition} TO DO
+So what had happened when the man had come ashore?
+
+```{admonition} Having come on shore, 1817
 :class: dropdown
 In *Evening Mail*, [Wednesday 17 December 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0001316/18171217/017/0004).
 
@@ -153,7 +183,9 @@ Major Lockyer called for the signal to fire, which was given by the dropping of 
 The inquest has returned a verdict of *Wilful Murder* against the principal and both seconds. Sutton's second is in custody, and hopes are entertained that the two others cannot escape. The above particulars are on the Coroner's record, and may be published without reproach.
 ```
 
-```{admonition} TO DO
+Some weeks after he had absconded, Major Lockyer was apprehended in Portsmouth. and the ship Grace finally set sail.
+
+```{admonition} Duellist apprehended, February 1818
 :class: dropdown
 In *Hampshire Chronicle*, [Monday 09 February 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18180209/047/0006).
 
@@ -162,17 +194,19 @@ Major Lockyer, who shot Mr. S. Cochrane in duel a few weeks ago in the Isle of W
 Yesterday morning a ship called the Grace, lying at St. Helen's, with a number of adventurers on board for South America, in the absence of the Master, who was on shore with one of the passengers procuring necessaries for the voyage, was taken possession of the passengers remaining on board, who, availing themselves of a favourable wind, turned the pilot out of the ship, and proceeded to sea.
 ```
 
-```{admonition} TO DO
+Lockyer was charged before the Assizes at Winchester, and the events of the previous December recalled.
+
+```{admonition} On trial at Winchester Assizes, March 1818
 :class: dropdown
 In *Cambridge Chronicle and Journal*, [Friday 13 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000420/18180313/004/0002).
 
 Winchester Assizes.— *Orlando Lockyer* and *Robert Hand*, charged with the murder of John Sutton, at Northwood, in the Isle of Wight. John Holding, a surgeon, was going to South America with the prisoners on the ship Grace. On the 9th of December he was with them at the Dolphin inn, West Cowes; they sat together for two hours, when Sutten `(sic)` remarked, that all the company were in debt. Major Lockyer replied, "Do you mean to say that I am in debt?" Sutton said, he did. Major Lockyer answered, "Whoever is in debt, I am not." Sutton replied, "We are in debt to our Creator." Major Lockyer left the room, and messages passed between them and a Mr. Redesdale, another passenger. Sutton said, if he (Major Lockyer) called him out, he would meet him. Next morning they met to settle the dispute by fighting a duel. Hand and. Redesdale measured the ground. Hand called Sutton and gave him a pistol, when he and Major Lockyer took their ground. Major Lockyer fired, and Sutton clapped his hand on his breast, staggered forward two or three paces and held out his hand; Major Lockyer advanced and took it. He immediately fell, and the prisoners ran away. Sutton soon after expired, Mr. Fitzgerald (brother to the owner of the vessel) deposed, that Hand seriously pressed Sutton to settle the affair, when they were going to the field; all was said that could be said to induce him to make concession for the words he had used, and not fight: this admonition he repeated several times. Several other witnesses were examined, but their testimony added no new fact to those already known. Major Lockyer and Mr. Hand both read along and very able defence. The judge, in summing up the evidence, told the jury they must not listen to the appeals from the prisoners, nor let any reports or statements before known to them prejudice the case—they must judge according to the evidence then given.. Verdict—Manslaughter.—Three months' imprisonment each.
 
-```{admonition} TO DO
+```{admonition} The trial excited much interest, March 1818
 :class: dropdown
 In *Hampshire Chronicle*, [Monday 09 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18180309/006/0003).
 
-Hants Lent Aasizes
+Hants Lent Assizes
 
 ...
 
@@ -182,7 +216,9 @@ Crown Bar.  — The following prisoners were tried and received sentence as unde
 
 ```
 
-```{admonition} TO DO
+In contrast to the speed with which news travels around the world today, it took a year for the duel to be reported im Australia.
+
+```{admonition} The duel is reported in Australia, November 1818
 :class: dropdown
 
 In *The Sydney Gazette and New South Wales Advertiser*, [Sat 14 Nov 1818](https://trove.nla.gov.au/newspaper/article/2178338).
@@ -193,8 +229,7 @@ FATAL DUEL.—West Cowes, Isle of Wight, Dec 14.—The most melancholy occurrenc
 
 On Tuesday, the 9th instant, the parties above mentioned came on shore, intending to pass the day in a social manner, and never dreaming that any subject of quarrel could arise among men who had previously lived on terms the most remote from jealously or strife. In the course of the afternoon they accidently separated; Sutton and Hands repaired to a tavern, where, with others, they played for wine for a considerable time; & Lockyer and Redesdale retired to the Dolphin, and there remained till Sutton and Hands had insulted them; which was not, however, till Sutton had drank sufficient to lose the steady control of his mind.
 
-The hour was nine. The conversation, as natural to adventurers, turned upon the subject of their voyage. Some advanced one opinion, and some another; at length the motive for sailing, and the necessity of continuing it, began to be investigated with some degree
-of warmth; this drew the following remark from Sutton:—" We are all idle, and in debt at home; can there be stronger motives for seeking activity and bread abroad?" Major Lockyer indignantly replied, "Sir, I am not in debt; and I desire you to be more particular in my company." Sutton retorted, "I can prove that we are all in debt."—"It is false," exclaimed his opponent. Sutton now, with an expression of archness and jocularity, is said to have observed, "Why, Lockyer, if we are not in debt to any human being, you will still allow that we are all in debt to our Creator."
+The hour was nine. The conversation, as natural to adventurers, turned upon the subject of their voyage. Some advanced one opinion, and some another; at length the motive for sailing, and the necessity of continuing it, began to be investigated with some degree of warmth; this drew the following remark from Sutton:—" We are all idle, and in debt at home; can there be stronger motives for seeking activity and bread abroad?" Major Lockyer indignantly replied, "Sir, I am not in debt; and I desire you to be more particular in my company." Sutton retorted, "I can prove that we are all in debt."—"It is false," exclaimed his opponent. Sutton now, with an expression of archness and jocularity, is said to have observed, "Why, Lockyer, if we are not in debt to any human being, you will still allow that we are all in debt to our Creator."
 
 The time was now one in the morning. The conversation ceased; Lockyer left the room, sent in for his friend Redesdale, who, instantly after, returned to the room, and whispered a message from his principal in Sutton's ear. Lockyer next hired a boat, in which he went to the Grace for his case of pistols; and, returning to the Dolphin, retired to rest. Sutton and his friends, after drinking some time longer, perambulated the town.
 
@@ -208,4 +243,3 @@ The Coroner's Inquest has returned a verdict of *Wilful Murder* against the prin
 DUEL.—APPREHENSION OF MAJOR LOCKYER.— Extract of a letter, dated Newport, Isle of Wight, 5th February, 1818:— "Yesterday was apprehended at Portsmouth, Major Lockyer, who was brought here this morning, & afterwards taken before T. Sewell, Esq. the Coroner, who immediately committed him to Winchester Gaol to take his trial at the next assizes. It may be recollected, that Major Lockyer killed Mr. John Sutton in a duel at West Cowes, on the 10th of December. The Major shot him through the heart the first fire, and Mr. Sutton did not discharge his pistol, which was found on the half cock lying near him, after Major Lockyer and the two seconds had absconded, which they did immediately Mr. Sutton fell.— On the following day Mr. Hand, the second of Mr. Sutton, was apprehended at Portsmouth by a constable of West Cowes, Major Lockyer, and Mr. Redesdale, his second, had the address to deceive the officer, and made their escape from him; and it was not till yesterday that Major Lockyer was taken, but Mr. Redesdale it still at large.
 
 ```
-
