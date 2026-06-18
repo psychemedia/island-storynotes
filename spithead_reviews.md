@@ -217,8 +217,6 @@ In referring to the difference in the position of the seaman now as compared wit
 
 ```
 
-
-
 So how were the events of 1797 remembered a century later?
 
 ```{admonition} A hundred years on, April 1897
