@@ -3,7 +3,6 @@
 
 *A Chronology, based largely on Naval Mutinies of 1797, Gill, 1913*
 
-
 Saturday, April 15th, Holy Saturday I.e. Easter Saturday, saturday between Good Friday and Easter Sunday) Bridport's flag raised but the men refused to sail.
 
 Easter 1797 - 16 April
@@ -84,38 +83,11 @@ Howe read the proclamation aboard the Royal George, displayed the Royal Seal, an
 
 Bridport had orders to sail to Brest, but the celebrations delayed things; eventually, final preparations could be mde on the 16th and Bridport could sail on the 17th.
 
-NB Pompee returned to Portsmouth on June 16th; two days before discoverd that 80 men wanted to mutiny and sail the ship into Brest and desert to the French side. Six ringleaders were brought home to be court-martialled.
+NB Pompee returned to Portsmouth on June 16th; two days before discovered that 80 men wanted to mutiny and sail the ship into Brest and desert to the French side. Six ringleaders were brought home to be court-martialled.
 
 
-the nore... but that is another story for another day
+Spithead/St Helens mutiny https://en.wikipedia.org/wiki/Spithead_and_Nore_mutinies
 
-The tale is told in
-https://archive.org/details/historyofmutinya00neal
-History of the mutiny at Spithead and the Nore: with an enquiry into its origin and treatment: and suggestions for the prevention of future discontent in the Royal Navy
-by Neale, W. Johnson (William Johnson), 1812-1893
-Publication date 1842
+https://www.euppublishing.com/doi/pdf/10.3366/rom.2007.13.2.133
 
-
-https://archive.org/details/navalmutiniesof00gill
-The naval mutinies of 1797
-by Gill, Conrad, 1883-
-Publication date 1913
-
-https://archive.org/details/in.ernet.dli.2015.227167/mode/1up
-The Floating Republic
-by G.e Manwaring
-Publication date 1935
-
-We can also refer to original newspaper reports of the mutiny, on which much of the content of the *History of the mutiny at Spithead and the Nore* seems to draw.
-
-https://archive.org/details/sim_new-annual-register_1797/page/n137/mode/1up?q=mutiny
-The New Annual Register  1797
-Publication date 1797
-pp108-110
-Chap IV
-
-https://archive.org/details/sim_new-annual-register_1797/page/n403/mode/1up
-The New Annual Register  1797
-Publication date 1797
-Principal Occurrences
-p77-89
+https://www.philipkallan.com/single-post/the-spithead-mutiny
