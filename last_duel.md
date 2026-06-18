@@ -51,7 +51,7 @@ Jess - "That's most of the lyrics, certainly the factual ones, the ship and wher
 Lockyer buried in St mary's Cowes graveyard. west wall?
 
 
-```{admonition}
+```{admonition} The history of duelling, 1841
 :class: dropdown
 
 John Gideon Millingen, *The history of duelling*, volume 2, 1841, [pp222-3](https://archive.org/details/the-history-of-duelling-v-2-images/page/222/mode/2up).
@@ -72,9 +72,6 @@ A coroner’s inquest sat upon the body, the jury delivered their verdict, « wi
 Major Lockyer and Mr. Hand were tried at Winchester Assizes, on the 7th of March, 1818; and the jury returning a verdict of manslaughter, they were sentenced to three months’ imprisonment.
 
 ```
-
-
-
 
 Fabrice Bensimon, [Artisans Abroad: British Migrant Workers in Industrialising Europe, 1815-1870](https://academic.oup.com/book/45624/chapter/394884888?login=false).
 
