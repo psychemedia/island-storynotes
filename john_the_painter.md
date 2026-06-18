@@ -880,7 +880,7 @@ p3.
 
 *Extract of a letter from Portsmouth, Dec. 8.*
 
-"THe Albion, a brig, with 2000 barrels of gunpowder on board, was in Portsmouth harbour at the time th efire broke out; but the tide being high, was ordered out, and in a few minutes got quite clear of the harbour, otherwise it might have proved very fatal to the town."
+"The Albion, a brig, with 2000 barrels of gunpowder on board, was in Portsmouth harbour at the time th efire broke out; but the tide being high, was ordered out, and in a few minutes got quite clear of the harbour, otherwise it might have proved very fatal to the town."
 
 ...
 
