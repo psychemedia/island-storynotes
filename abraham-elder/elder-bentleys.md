@@ -160,7 +160,7 @@ Smoking Robin, pp369-97
 https://archive.org/details/sim_bentleys-miscellany_1847-07_22/page/n325/mode/2up
 Bentley's Miscellany  1847-07: Vol 22
 
-THe Wandering Fiddler, pp. 313-327
+The Wandering Fiddler, pp. 313-327
 
 https://archive.org/details/sim_bentleys-miscellany_1848-01_23/page/30/mode/2up
 Bentley's Miscellany  1848-01: Vol 23
