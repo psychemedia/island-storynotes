@@ -554,7 +554,7 @@ Since Percy Stone appears to be the common source for the tale, as now told, of 
 ```{admonition} The Oratory of St. Catherine, 1891
 :class: dropdown
 
-In Percy Goddard Stone, *The Architectural Antiquities of the Isle of Wight, Part II, THe West Medine*, 1891, pp. 27-31. `[Thanks to Sasha Ford for providing scans of the corresponding pages.]`
+In Percy Goddard Stone, *The Architectural Antiquities of the Isle of Wight, Part II, The West Medine*, 1891, pp. 27-31. `[Thanks to Sasha Ford for providing scans of the corresponding pages.]`
 
 CHALE
 
