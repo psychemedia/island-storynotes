@@ -792,7 +792,7 @@ Yet when another; and another came,
 The *object* alter'd, the *desire* the same;  
 I strictly followed Nature's liberal plan,  
 And what she gave to me, bestow'd on Man.  
-Blame on, ye Prudes! Aud censure those who may,  
+Blame on, ye Prudes! And censure those who may,  
 I'm quite regardless what the world can say.
 
 
