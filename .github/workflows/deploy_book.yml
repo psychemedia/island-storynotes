@@ -17,42 +17,48 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+    # 1. Fetch full history so Jupyter Book can accurately check file timestamps
     - uses: actions/checkout@v5
+      with:
+        fetch-depth: 0 
 
-    # Cache Jupyter Book build artifacts
+    # 2. Cache Jupyter Book build artifacts and tracked file modifications
     - name: Cache Jupyter Book build
       uses: actions/cache@v5
       with:
         path: |
           _build/
           ~/.cache/pip
-        key: ${{ runner.os }}-jb-${{ hashFiles('_config.yml', '_toc.yml') }}
+        # Added **/*.md and **/*.ipynb to the key so any content change invalidates the old cache root
+        key: ${{ runner.os }}-jb-${{ hashFiles('_config.yml', '_toc.yml', '**/*.md', '**/*.ipynb') }}
         restore-keys: |
           ${{ runner.os }}-jb-
 
-    # Install dependencies
+    # 3. Setup Python
     - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
         python-version: 3.11
 
+    # 4. Install dependencies
     - name: Install dependencies
       run: |
         pip install "jupyter-book<2" ou-jupyter-book-tools
 
-    # Build the book
+    # 5. Build the book (Will now incrementally build only the changed pages)
     - name: Build the book
       env:
         SPHINXOPTS: "-j auto"
       run: |
         jupyter-book build .
 
-    # Deploy to GitHub Pages
+    # 6. Upload artifact (Updated to v4 to clear Node deprecation warnings)
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./_build/html
 
+    # 7. Deploy to GitHub Pages (Updated to v5 to clear Node deprecation warnings)
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v5
