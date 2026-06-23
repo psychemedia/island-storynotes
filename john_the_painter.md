@@ -1,24 +1,34 @@
 # John the Painter
 
-Jim ??, Nottingham
-Festival at the Edge story circle
+Although set in Portsmouth I first heard this tale at Festival at The Edge, in 2025, from a Nottingham based teller whose name I forget (Jim, maybe?). He had lived in Portsmouth and heard this tale, told as a ghost story based in fact, from a local naval man. The name he used for main character — "Peter the painter" — was either misremembered, or reimagined to provide some distance to the original, historical tale. My scribbled note also mentions a certain *William James*, but he features in a separate tale...
 
+> Royal timber yard; The ship. scotsman. American war; plan to burn fleet. hanged from yard arm, hanged in chains at tide level. Bodyparts stolen. Head in ship.  Haunted upstairs bedroom (hourly rate). Priest. Bishop. ?Old Bob (sold winds; bag tied with wind, open by sailor end of outbound leg, favourable wind back; (survivor bias/wald)). Get rid of ghost. Through keyhole. Don't believe, get into bottle. stoppered. (bottle walled up, rediscovered, keepsake, Titanic)
 
-(facts are actually misremembered)
+A history of British military engagements, published in 1795, gave a summary of the affair, one of three examples of domestic treason and treachery associated the the Revolutionary War (John the Painter, David Tyrie, and Henry de la Motte), all three of which were associated with Portsmouth.
 
+```{admonition} John the Painter
+:class: dropdown
 
-William James ("peter the painter") 1776
+Thomas Mante, *Naval and military history of the wars of England: including the wars of Scotland and Ireland*, 1795, vol. VII, *Of the Wars of England during the Reign of George III*, [pp282-4](https://archive.org/details/navalmilitaryhis_07mant/page/282/mode/2up).
 
-Royal timber yard
+... It has repeatedly been observed, that thro' the violence of parties, a general temper of distrust and suspicion took place throughout the nation, insomuch that the most improbable stories with respect to individuals began to gain credit, of which an instance was given in the case of Mr. Sayre. From certain circumstances, however, it appeared, that there undoubtedly were persons in the kingdom who wished if possible to destroy the national strength in such a manner as to render it impossible for us to make head against the attempts of our enemies. On the 8th of December 1776, a fire broke out in the ropehouse of the dockyard at Portsmouth, which totally consumed it, but without doing any very material damage. For some time the affair passed as an accident; but in clearing away the rubbish, a tin-box was found with a wooden bottom containing matches which had been lighted, and underneath was a vessel with spirit of wine: however, the fire not having been properly supplied with air, had extinguished of itself before it touched the spirit of wine- Had it caught fire, all the stores in the storehouse, sufficient to rig out 50 sail of men of war, would have been destroyed. In the beginning of the year 1777, a fire happened at Bristol, which consumed six or seven warehouses; and by the finding of machines similar to those already mentioned, it was evident that the fire had not been accidental. The terror of the public was now greatly increased, and the most violent accusations against each other were thrown out by the ministerial and popular parties. On this point, however, they soon came to a right understanding, by the discovery of the author of all this mischief. This was one James Aitken, alias John the Painter, a native of Edinburgh. Having been from his early years accustomed to a vagrant life, to which indeed his profession naturally led him, he had gone through many different adventures. He had enlisted as a soldier, deserted, and, when pinched by want, made no scruple of betaking himself to the highway, or committing thefts. Having traversed a great part of America, he there imbibed the prejudices against Britain to such a degree, that he at last took the extraordinary resolution of singly overturning the whole power of the nation. This he was to accomplish by setting on Ere the dockyards at Portsmouth and Plymouth, and afterwards the principal trading towns of the nation. With this view, he inspected with the utmost care those docks and other places on which his attempts were to be made, m order to learn with what care they were guarded. This he found in general as negligent as he could wish; and indeed had he not been some way or other very deficient in the construction of his machines, he must certainly have done a great deal of mischief: for, as his attempts were always discovered by finding his machines, it was apparent that he had met with abundance of opportunities.
 
+For some time the affair at Portsmouth passed, as has already been mentioned, for an accident. It was soon recollected, however, that a person had been seen loitering about the rope-house, and had even been locked up one night in it; that he had worked as a painter, and taken frequent opportunities of getting into that house, &c. These circumstances exciting suspicion that he was the incendiary, he was traced to different places, and at last found in a prison, to which he had been committed for a burglary. On his examination, however, he behaved with such assurance and apparent consciousness of innocence, as almost disconcerted those who thought him guilty. At last he was deceived into a confession by another painter, who was likewise an American, and pretended to compassionate his case. Thus evidence was procured against him: but he maintained his character to the very last; rejecting and invalidating the testimony of his false friend, on account of his baseness and treachery. He received his sentence with great fortitude; and at length not only confessed his guilt, but left some directions for preventing the dock-yards and magazines from being exposed to the like danger in time to come.
 
- The ship. scotsman. American war; plan to burn fleet. hanged from yard arm, hanged in chains at tide level. Bodyparts stolen. Head in ship.  Haunted upstairs bedroom (hourly rate). Priest. Bishop. ?Old Bob (sold winds; bag tied with wind, open by sailor end of outbound leg, favourable wind back; (survivor bias/wald)). Get rid of ghost. Through keyhole. Don't believe, get into bottle. stoppered. (bottle walled up, rediscovered, keepsake, Titanic)
+```
 
- 
+Another account of the affair suggests a possible origin of a ghost story...
 
-https://en.m.wikipedia.org/wiki/Arson_in_royal_dockyards
+```{admonition} Skeleton hidden in a pub in Gosport, 1828
+:class: dropdown
 
-https://en.m.wikipedia.org/wiki/John_the_Painter
+Henry Slight & Julian Slight, Chronicles of Portsmouth, 1828, [p137](https://archive.org/details/chroniclesports00sliggoog/page/n158/mode/2up).
+
+A. D. 1776, December 7th, the destruction of the rope-house was effected by John Aitkin, alias Jack the Painter. The fire was at the time considered accidental, but a hollow piece of wood being found under some hemp in the following January, filled with combustibles covered with tin full of holes, and which had evidently been inflamed by a tube and match at one end, discovered the atrocious offender, who was taken, tried at Winchester, found guilty, was led through the yard, and shown the devastation he had caused, and executed, on March 10th, 1777, at the dock gates, on a gibbet sixtyfour feet and a half high (formed from the mizen-mast of the Arethusa), and afterwards hung in chains on Blockhouse Beach. He acknowledged the justness of his sentence, was penitent, and decent in his behaviour, and advised the Government to be more vigilant. The damage done at this time amounted to 60,000*l*. Some sailors took the skeleton of this wretched man down some years after his execution, placed it in a sack, and left it in the chimney-corner of a public-house at Gosport.
+
+```
+
+## The Story Begins...
 
 It's 1776, and Britain is at war with America, but not, for now at least, with France.
 
@@ -30,12 +40,12 @@ At Portsmouth, there's one main gate into the dockyard, near the Hard, where the
 
 It's winter time. December. Several ships are in Dock, laden with gunpowder to feed their guns. The ships are still sailing ships, which means a large part of the dockyard is concerned with keeping the rigging in order. The long rope house, where ropes are made to feed the rigging, and store houses for hemp from which the ropes are made.
 
----
-
 On Saturday, December 7th, 1776, a fire broke out in the rope house in Portsmouth dock yard. Over the following couple of weeks, reports appeared in the regional press suggesting that foul play was suspected and that two men had been taken up on suspicion.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17761206/013/0003
-Derby Mercury - Friday 13 December 1776 (incorrectly given as December 06 by the BNA.)
+```{admonition} Yesterday Afternoon, about Half past Four, December 1776
+:class: dropdown
+
+In *Derby Mercury*, [Friday 13 December 1776 (incorrectly given as December 06 by the BNA.)](https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17761206/013/0003).
 
 *Extract of a Letter from Portsmouth, `[Sunday]` Dec. 8.*
 
@@ -43,15 +53,18 @@ Derby Mercury - Friday 13 December 1776 (incorrectly given as December 06 by the
 
 "The Albion, a Brig, with 2000 Barrels of Gunpowder on board, was in Portsmouth Harbour at the Time the Fire broke out; but the Tide being high, was ordered out, and in a few Minutes got quite clear off the Harbour, otherwise it might have proved very fatal to the Town."
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17761216/004/0003
-Hampshire Chronicle - Monday 16 December 1776
+```{admonition} Fire breaks out, December 1776
+:class: dropdown
 
-PORTSMOUTH, saturday, Dec. 14.
+In *Hampshire Chronicle*, [Monday 16 December 1776](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17761216/004/0003).
+
+PORTSMOUTH, Saturday, Dec. 14.
 
 ...
 
-saturday night `[i.e. December 7th]`, about a quarter before five o'clock, the inhabitants of this place, Gosport and the Common, were greatly alarmed by fire breaking out in his Majesty's dock-yard here, in three different places in the rope-house, which is occasionally used for the rigging house. The fire was so fierce that in a few minutes the said house, which was four hundred yards in length, and twenty-one broad, was on fire from one end to the other, and the whole building is entirely consumed; the dock-men were all in the yard, when this shocking accident happened; and had it not been for the immediate assistance given by the workmen, and the marines and invalids of this garrison, the different store-houses, particularly one almost adjacent to it, which is full of hemp, must have shared the same fate. How the accident happened is not yet come to light; but by its breaking out in three different places almost in an instant, gives great room for suspicion.
+Saturday night `[i.e. December 7th]`, about a quarter before five o'clock, the inhabitants of this place, Gosport and the Common, were greatly alarmed by fire breaking out in his Majesty's dock-yard here, in three different places in the rope-house, which is occasionally used for the rigging house. The fire was so fierce that in a few minutes the said house, which was four hundred yards in length, and twenty-one broad, was on fire from one end to the other, and the whole building is entirely consumed; the dock-men were all in the yard, when this shocking accident happened; and had it not been for the immediate assistance given by the workmen, and the marines and invalids of this garrison, the different store-houses, particularly one almost adjacent to it, which is full of hemp, must have shared the same fate. How the accident happened is not yet come to light; but by its breaking out in three different places almost in an instant, gives great room for suspicion.
 
 As there was but little wind, and that to the northward, no other damage was done.
 
@@ -63,40 +76,15 @@ It is somewhat remarkable that this building has been burnt down three times wit
 
 A party of the dragoon guards arrived here with 50,000*l.* sterling, to pay the artificers and labourers at this dock yard.
 
+```
 
----
-
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000235/17761218/010/0003
-Kentish Gazette - Wednesday 18 December 1776
-
-COUNTRY NEWS.
-
-*Portsmouth, Dec. 13.* The Comptroller, and several of the Commissioners of the Navy, having been for several days past examining into the state of the Dock-yard in consequence of the late fire, and of persons on whom the slightest suspicions had fallen, but had not been able to detain any one, the suspicions appearing to be groundless. The damage sustained is the rope-house, and a few stores, and rigging to the Princess Amelia, now fitting out, and the workmen's tools. The greatest loss is the want of the rope-house, for now the ropemakers and spinners are going to the other Dock-yards to work until a temporary place can be built for them here, which will take up a considerable time.
+Arson was suspected, but nothing could be proven...
 
 
---
+```{admonition} Bow Street Men Sent to Portsmouth, December 1776
+:class: dropdown
 
-Further confusion about dates?
-
-
-
-http://britishnewspaperarchive.co.uk/viewer/bl/0001407/17761224/007/0002
-Kentish Weekly Post or Canterbury Journal - Tuesday 24 December 1776
-
-*Extract of a letter from Gosport, Dec. 15.*
-
-"Last night the Dock-yard had like to have been set on fire again; it had caught fire, but by timely assistance it was got out. Two men were taken plundering, and endeavoured to make their escape, but were prevented."
-
-
---
-
-Around the country, 
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000204/17761214/002/0002
-Leicester Journal - saturday 14 December 1776
+In *Leicester Journal*, [Saturday 14 December 1776](https://britishnewspaperarchive.co.uk/viewer/bl/0000204/17761214/002/0002).
 
 ...
 
@@ -104,11 +92,23 @@ Yesterday several of sir John Fielding's men were dispatched from the Public Off
 
 ...
 
----
-The following also included the news item that appeared in he Kentish Gazette of December 18th, 1776.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17761219/011/0002
-stamford Mercury - Thursday 19 December 1776
+```{admonition} Suspicious, or not? December 1776
+:class: dropdown
+
+In *Kentish Gazette*, [Wednesday 18 December 1776](https://britishnewspaperarchive.co.uk/viewer/bl/0000235/17761218/010/0003).
+
+COUNTRY NEWS.
+
+*Portsmouth, Dec. 13.* The Comptroller, and several of the Commissioners of the Navy, having been for several days past examining into the state of the Dock-yard in consequence of the late fire, and of persons on whom the slightest suspicions had fallen, but had not been able to detain any one, the suspicions appearing to be groundless. The damage sustained is the rope-house, and a few stores, and rigging to the Princess Amelia, now fitting out, and the workmen's tools. The greatest loss is the want of the rope-house, for now the ropemakers and spinners are going to the other Dock-yards to work until a temporary place can be built for them here, which will take up a considerable time.
+
+```
+
+```{admonition} Everyone on their guard, December 1776
+:class: dropdown
+
+In *Stamford Mercury*, [Thursday 19 December 1776](https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17761219/011/0002).
 
 ...
 
@@ -118,20 +118,44 @@ A letter from Portsmouth says, "The late disaster there has put as upon our guar
 
 A letter from Portsmouth, Dec. 12, says, "The workmen have begun clearing away the rubbish in the Dock-yard, which was occasion'd by the late fire; and the Ropehouse will be rebuilt as soon as possible."
 
+```
 
+A report a couple of weeks later appears to suggest another fire having been set, but this is, perhaps, the fog of news miscommunicated at the time?
 
+```{admonition} Dock yard set on fire again? December 1776
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770120/004/0003
-Hampshire Chronicle - Monday 20 January 1777
+In *Kentish Weekly Post or Canterbury Journal*, [Tuesday 24 December 1776](http://britishnewspaperarchive.co.uk/viewer/bl/0001407/17761224/007/0002).
+
+*Extract of a letter from Gosport, Dec. 15.*
+
+"Last night the Dock-yard had like to have been set on fire again; it had caught fire, but by timely assistance it was got out. Two men were taken plundering, and endeavoured to make their escape, but were prevented."
+
+```
+
+Although no evidence had been found in the immediate aftermath of the fire at Portsmouth suggestive of an arson attack, such evidence would be discovered a month or so later.
+
+```{admonition} Canister found, filled with combustibles, January 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 20 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770120/004/0003).
 
 PORTSMOUTH, SATURDAY, Jan. 18.
 
 ...
 
-On Wednesday was found in the hemp-house belonging to the dock-yard, (in which is deposited several hundred, tons of hemp) a piece of wood about a foot long, hollowed out and filed with gunpowder, with a tin box at the end about the size of a pound cannister, filled with combustibles, and the top punched full of holes; it was found under a large body of hemp, and appeared to have been set on fire, but had not the effect the perpetrator intended; which, it is supposed, was to have set that room on fire at the time the ropehouse was. From the above circumstances, there cannot remain a doubt but the different fires which have happened in the dock-yard were done by design, and not by accident. The box was on Thursday sent up to the Admiralty.
+On Wednesday was found in the hemp-house belonging to the dock-yard, (in which is deposited several hundred, tons of hemp) a piece of wood about a foot long, hollowed out and filled with gunpowder, with a tin box at the end about the size of a pound cannister, filled with combustibles, and the top punched full of holes; it was found under a large body of hemp, and appeared to have been set on fire, but had not the effect the perpetrator intended; which, it is supposed, was to have set that room on fire at the time the ropehouse was. From the above circumstances, there cannot remain a doubt but the different fires which have happened in the dock-yard were done by design, and not by accident. The box was on Thursday sent up to the Admiralty.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000235/17770122/015/0003
-Kentish Gazette - Wednesday 22 January 1777
+```
+
+## Fires Break Out in Bristol
+
+At the same time as evidence was appearing that suggested the Portsmouth attack may have been arson, there were news reports of fires having been set in Bristol.
+
+```{admonition} Diabolical scheme discovered in Bristol, January 1777
+:class: dropdown
+
+In *Kentish Gazette*, [Wednesday 22 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000235/17770122/015/0003).
 
 A letter from Bristol, dated January 6, says,
 
@@ -139,20 +163,90 @@ Last night, or early this morning, a diabolical scheme was discovered for destro
 
 A letter from Portsmouth, dated Jan. 16. says,
 
-"Yesterday was very fortunately discovered, by the removal of some hemp, in the great hemp storehouse, in the Dock-yard, at this Port, a piece of wood hollowed out and filled with combustible matter, which was covered with tin, full of holes, to admit air, and a tube and match to each end. This instrument had been secretly conveyed under some refuse of hemp, with evident intention to set fire thereto. There is reason to believe, the match had been lighted, but providentially went out before the machine took fire. This discovery may tend to convince the Public, that the three late fires in the Dock-yard, which by many were imputed to accident, were perpetrated by some incendiaries. It is to be hoped that such measures will now be taken as may effectually prevent these great calamities in future, and that such enquiries will be made as may lead to conviction and punishment of the offenders. If this contrivance had taken place, it would have happened at a period when many persons are inclined to think we are at the eve of a foreign war; and so considerable is the present stock of hemp, that if the discovery had not been timely made, the consequences might have been fatal."
+"Yesterday was very fortunately discovered, by the removal of some hemp, in the great hemp storehouse, in the Dock-yard, at this Port, a piece of wood hollowed out and filled with combustible matter, which was covered with tin, full of holes, to admit air, and a tube and match to each end. This instrument had been secretly conveyed under some refuse of hemp, with evident intention to set fire thereto. There is reason to believe, the match had been lighted, but providentially went out before the machine took fire. This discovery may tend to convince the Public, that the three late fires in the Dock-yard, which by many were imputed to accident, were perpetrated by some incendiaries. It is to be hoped that such measures will now be taken as may effectually prevent these great calamities in future, and that such enquiries will be made as may lead to conviction and punishment of the offenders. If this contrivance had taken place, it would have happened at a period when many persons are inclined to think we are at the eve of a foreign war; and so considerable is the present stock of hemp, that if the discovery had not been timely made, the consequences might have been fatal."-
 
+```
 
----
+The previous *"letter from Portsmouth, dated Jan. 16."* was preceded in the following by an additional commentary suggesting the Portsmouth fire was the work of American rebels.
 
-The previous "letter from Portsmouth, dated Jan. 16." was preceded in the following by an additional commentary:
+```{admonition} It now appears, January 1777
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000239/17770121/003/0004
-Manchester Mercury - Tuesday 21 January 1777
+In *Manchester Mercury*, [Tuesday 21 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000239/17770121/003/0004).
 
 It now appears that the late Fire which happened at Portsmouth Dock Yard was premeditated and malicious, and although it had not the desired Effect of our Enemies most ardent Wishes, yet nothing is more certain than their diabolical Intentions; for on Wednesday Morning, in clearing away the Ruins of the Rope-walk, to begin its rebuilding, a Tin Box, curiously constructed, holding Matches, and a Vial of spirits of Wine, was found. The Matches were in a great Measure burnt out, and too great a Quantity of Flax and other stuff thrown upon it, not given it sufficient Air, had extinguished it before the expected Explosion of the spirits took Place; to whom we are indebted to for this Time and a suitable Reward are the only likely Means of discovering; but it is generally supposed some Persons connected with the American Rebels.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000246/17770125/005/0002
-Norfolk Chronicle - Saturday 25 January 1777
+```
+
+```{admonition} A providential discovery of a most diabolical plot, January 1777
+:class: dropdown
+
+In *Gloucester Journal*, [Monday 20 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17770120/003/0003).
+
+GLOCESTER, January 20.
+
+*Bristol, January 18.* Tuesday last a general meeting of the citizens was held at Guildhall, pursuant to a public advertisement, to consider of an address to the King, on the late success of his Majesty's arms against the rebels in America, Alderman Mugleworth in the chair.—The business was opened by George Daubney, Esq; in a sensible, judicious and well connected speech; in which the occasion of the meeting and the propriety of an address at this time were shewn;— and whilst he pathetically lamented the unhappy delusion of our fellow subjects, and the fatal necessity of our having recourse to arms to vindicate the rights of Britain, he fully and firmly supported the measures made use of, as the only one left us to reduce those rebellious people to their allegiance and subordination to the British government. The speech was so well received by the assembly present, as numerous and respectable as was ever known on a like occasion, that on putting the question, whether an address should be presented or no, not a dissenting voice was heard. An address was then produced and read aloud twice, it was submitted to the approbation of the meeting, when only one person at the lower part of the hall opposed it, who giving no reason for it, he was turned out by some near him, and it was then unanimously agreed to and signed.—The following citizens, were proposed... Esqrs. It was then agreed that sir James ..Esqr. .., B. Chester and Rich. Combe, Esqrs. members of parliament, be desired to attend the deputation—and that his Grace the Duke of Beaufort, and Lord Clifford, be visited upon by the gentlemen deputed, to request the honour of their attendance also on the occasion.—It was ordered, that the address should remain at the Taylor's-hall 'till Saturday evening for signing.
+
+Thursday morning a providential discovery was made of a most diabolical plot, which might have terminated in the general conflagration of this city, the loss of many lives, and perhaps the ruin of thousands.—Early that morning a fire was perceived on the deck of the savanna La Mar, a vessel belonging to Messrs. Meyler and Maxse, lying at the Quay, and bound for Jamaica, which, before it could be extinguished, communicated itself to the mizen mast, and did other damage. It evidently appeared to have been designedly done. This opinion was soon after confirmed by the discovery of some combustible materials placed on board the same, lying at a distance from the savanna La Mar, and destined for the same voyage, which fortunately did not take the like effect. A third attempt was made on the Hibernia, Capt. Knethell, a Cork trader, situated at another part of the Quay; on board this vessel was found a bottle of turpentine, besides other inflammable matters. The intended wickedness of those villains did not stop here, for they broke open a warehouse of Messrs. Morgan and sons, druggists, in Cypher-lane, Corn-street, and therein set fire to a box, in which they had also put some combustibles, which happily went out. several pieces of touch-paper were found just by. As liberal rewards are offered for apprehending those daring offenders, 'tis to be hoped they will be speedily brought to justice.
+
+The following Advertisement appears in Saturday night's Gazette.
+
+*st. James's, Jan. 18.* Whereas it has been humbly represented to the King, that in the night of Wednesday last the 15th instant, or early in the morning of Thursday last the 16th instant, the ship savannah La Mar, lying near the Crane No. 8, at Bristol Quay, and also the ship Fame, lying at another part of the said Quay, were wilfully and maliciously set on fire, whereby not only those vessels, but likewise the other ships and vessels at the Quay, and all that part of the town, were in the most imminent danger of being totally burnt and destroyed; and also that at the same time the ship Hibernia, lying at the said Quay, was attempted to be set on fire; and likewise that at the same time a warehouse, situate in Cypher-lane near Corn-street, the property of Mess. James Morgan and sons, was attempted to be burnt, the said warehouse having been broken open, and a box therein, containing several combustible materials, set on fire; his Majesty, for the better discovering and bringing to Justice the persons concerned in the said atrocious offences, is hereby pleased to grant his most gracious pardon to any of the offenders, (except the person or persons who actually set fire to the said ship or warehouse) who shall discover his or her accomplice or accomplices therein, so that he, she, or they, may be apprehended and convicted thereof. SUFFOLK.
+
+And, as a further encouragement for bringing to punishment the person or persons who committed the atrocious crime of setting the said ships on fire, the Mayor and Aldermen of the city of Bristol do hereby promise a reward of One Hundred Guineas, the society of Merchants-Venturers of the city of Bristol One Hundred Guineas, Mess. Meyler and Maxse and Davis and Protheroe, Merchants, One Hundred Guineas, Mess. Morgan and sons, Fifty Guineas, and the Proprietors of the several Fire-offices, One Hundred and Fifty Guineas.
+
+*Just as our paper was going to press, we received an Express from Bristol, with the following melancholy intelligence. Our correspondent's letter is dated, sunday morning 12 o'clock:*
+
+"The city of Bristol seems threatened with destruction. This morning about six o'clock a fire, the most dreadful known for many years in this city, broke out in the warehouse of Mr. A. Brown, bookseller, and communicated to those of Mr. Lewsley, in Bell-lane, which were almost all full of spanish wool. Matches and other combustibles were discovered in the warehouses; which, it is imagined, were placed there in the night, tho' the fire did not appear 'till the hour above-mentioned. Most of the wool, &c. was saved, though greatly damaged; but the warehouses, which form one side of Bell-lane are entirely consumed. The Bell tavern, on the other side the lane, caught fire three or four times, but by the assistance of the engines, which were well supplied with water, it was prevented from spreading farther; which had it done, in all probability not only that lane, but the greatest part of Broad-street and small-street must have been destroyed.
+
+"About the time that the fire broke out, a quantity of combustibles were found on the Key, among a number of barrels of oil, to which the villains had attempted to set fire, but providentially were disappointed in their diabolical scheme.
+
+"These alarming circumstances have determined the principal inhabitants to patrole the city every night:
+
+"*Postscript,—One o'clock.* I am just returned from the Council-house where several persons have been examined; most of whom were discharged. Two however, I am informed, are sent to Bridewell:
+
+"Thank God, the fire is now extinguished."
+
+```
+
+With news that the Portsmouth dockyard fire had been a deliberate attack, and that the fires in Bristol were also deliberate, editors around the country were starting to suspect American rebels as being the agents of such destructive actions.
+
+```{admonition} Desparate partisans of the American Rebels, January 1777
+:class: dropdown
+
+In *Leeds Intelligencer*, [Tuesday 28 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17770128/001/0001).
+
+An evening paper says, that an express arrived early yesterday morning at the secretary of state's office from Bristol, which place he left on Saturday morning at nine o'clock, and brings the very serious and alarming intelligence, "That the town had been wickedly and maliciously set on fire on Friday night, in several different places at the same time; that very considerable damage had been done in Corn-street, Cypher-lane, and the buildings along the Quay; that the fire continued to rage furiously when the express left Bristol, and that they had sent to Gloucester for a regiment of dragoons." These advices add, "That some violent Americans in that city were suspected of being incendiaries, in revenge for the Address to his Majesty, which was voted on Tuesday last, congratulating him on the success of his arms against the American rebels."
+
+...
+
+It is evident from the accounts received from Portsmouth and Bristol, that there are in this kingdom some desparate partisans of the American Rebels, who finding that Great Britain is likely to gain a decisive victory in the field, are endeavouring, by the most hellish plots, to undermine her glory, and prevent her success. Of all bad characters an incendiary is the foulest. He acts as an assassin armed with the most dreadful of mischiefs, and in executing his diabolical purposes, he involves the innocent and the guilty in the same remedyless ruin. May every being so lost to humanity live an object of conscience-goading pain, and die an object of universal contempt.
+
+```
+
+```{admonition} We are all in uproar, January 1777
+:class: dropdown
+
+In *Leeds Intelligencer*, [Tuesday 28 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17770128/003/0002).
+
+*Extract of a letter from Bristol, Jan. 19.*
+
+We are all in uproar; for this morning Key-lane was all in a blaze, but happily it did not burn above six warehouses; and the Bell in Broad-street, where Mr. Ferguson used to read his Lectures, was five times on fire, but received little damage. As the people were about the fire, they found some of the combustibles, which I saw; they seemed to be a compound of rosin, pitch, gunpowder, oil, and other inflammable matter. several people are taken up on suspicion. I am told, that as one man was going to Bridewell, he said to the Constables, that if they would let him go back to the Council-house, he would discover something of moment; when he came there, he took out of his pocket tinder-box, and some gunpowder, and said that it was intended to set fire to an Alderman's house."
+
+It having been represented to his Majesty, that on sunday morning last, the 19th instant, about seven o'clock, a dreadful fire broke out in a range of warehouses, in a place called Quay-lane, in the city of Bristol, whereby the whole range of warehouses, with the several dwelling adjoining, and opposite to the said warehouses, were immediately in flames; and as there is the greatest reason to suspect that the said warehouses were wilfully and maliciously set on fire by some evil disposed persons, at present unknown; his Majesty's pardon for the discovering and bringing to justice the persons concerned in the above atrocious offence, is promised to any one of the said offenders (except the person or persons who actually set fire to the said warehouses) who shall discover his or her accomplice or accomplices in the offence. And his Majesty also promises a reward of One Thousand Pounds unto or amongst such person or persons who shall discover his or her accomplice or accomplices in the said offence. And his Majesty also promises a reward of One Thousand Pounds unto or amongst such person or persons who shall, within three months, from this time, discover any of the offenders.
+
+It is very warmly, as well as very rationally conjectured, that the *virtuous* Americans have many emissaries in the sea-ports of this kingdom, to devise every base, every cowardly method of destroying our shipping, or firing our habitations. The barbarous attempt to burn the city of New-York, and the horrible improvements in cruelty for which the *persecuted saints* are so eminently conspicuous, render an idea of this nature too probable; but it is to be hoped that the vigilance of Government will equal the wickedness of its enemies, and that striking examples will be made of such miscreants as shall be convicted of these diabolical attacks upon the welfare of their country.
+
+The fire at New-York, the fire at Portsmouth, the fire at Bristol, and the burning of the hemp warehouses on Monday night in southwark, have changed the opinions of many people in this country, who before were disposed to favour the Americans;—in short, all these fires have served to cool these mistaken Zealots, who had espoused the unnatural cause of ungrateful Children, against a too indulgent Parent.
+
+```
+
+Meanwhile, an unnamed man was arrested on suspicion of being involved in the arson attacks.
+
+```{admonition} Conveying a man to Bridewell, January 1777
+:class: dropdown
+
+In *Norfolk Chronicle*, [Saturday 25 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000246/17770125/005/0002).
 
 A private letter this day from Bristol says; that last Monday night another attempt was made to burn that city; that a fire broke out near Wells's sugarhouse; and another in a hay-loft; that a candle was found lighted at both ends amongst some shavings, and some combustible matters lay near both places.
 
@@ -160,18 +254,30 @@ A private letter this day from Bristol says; that last Monday night another atte
 
 By a letter from Bristol we learn, that as the Constables were conveying a man to Bridewell on suspicion of the late horrid attempt to fire that city, he told them that if they would let him back to the Council-house, he would discover something of moment; when he came there, he took out of his pocket a tinder-box and some gunpowder, and said that it was intended to set fire to an Alderman's house.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770127/009/0002
-Hampshire Chronicle - Monday 27 January 1777
+```
+
+Back in Portsmouth, investigations following the discovery of the incendiary device have led to the identification of a man the authorities think may be responsible.
+
+```{admonition} Reward offered for a man named John, a Painter, January 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 27 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770127/009/0002).
 
 FIFTY POUNDS REWARD
 
 WHEREAS there is strong reason to suspect that the Ropehouse in his Majesty's Dock-yard at Portsmouth was, on the 7th of December wickedly and maliciously set on fire, and whereas several attempts (some of which have taken effect) have been made to set fire to the city of Bristol, and there is reason to suppose the incendiary or incendiaries may have been the same in both cases, the following description of a person who was seen in the Ropehouse in Portsmouth yard on the day the said fire happened, and whose conduct was suspicious, is now published, in hopes that, on his apprehension, some light may thrown on these two dreadful transactions:— He was called JOHN, and is a PAINTER, said he worked as such last summer with one Golding, at Titchfield, in Hampshire; he is about twenty-five or twenty-six years of age, about five feet seven inches high, rather thin in person and thin visaged, smooth faced, of a fair complexion, with whitish eye-lids, wore his own hair, which is of a light sandy colour, neither tied nor curled, he had on a chocolate coloured surtout coat faded, a rusty hat, rather smartly cocked, with a fantail behind.
 
-Whoever will apprehend the said JOHN, and bring him before a magistrate, or give such notice as may be the means of his being apprehended, so that he may be produced to his Majesty's Commissioners of the Navy or to the Commissioners his Majesty's Navy in London, shall receive FIFTY POUNDs Reward, to be paid by the said Commissioners; or if the said person, knowing himself to be innocent, will voluntarily appear before Commissioner Gambier at Portsmouth, or the Commissioners of London, he shall himself be entitled to the same reward.
+Whoever will apprehend the said JOHN, and bring him before a magistrate, or give such notice as may be the means of his being apprehended, so that he may be produced to his Majesty's Commissioners of the Navy or to the Commissioners his Majesty's Navy in London, shall receive FIFTY POUNDS Reward, to be paid by the said Commissioners; or if the said person, knowing himself to be innocent, will voluntarily appear before Commissioner Gambier at Portsmouth, or the Commissioners of London, he shall himself be entitled to the same reward.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770127/006/0003
-Hampshire Chronicle - Monday 27 January 1777
+```
+
+As more details of the fires in Bristol are published, rewards are offered for information regarding the attacks there.
+
+```{admonition} The City of Bristol in Uproar, January 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 27 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770127/006/0003).
 
 *Letter from Bristol, to the Printers of the Hampshire Chronicle, dated Jan. 22, 1777.*
 
@@ -191,8 +297,31 @@ Hampshire Chronicle - Monday 27 January 1777
 
 "I do not hear of any discoveries made of the wretches concerned in the above diabolical plot; but it is hoped it will be brought out, as the following ample rewards are offered, viz. one thousand pounds by his Majesty; one hundred guineas by the Mayor and Aldermen Bristol; one hundred guineas by the society of Merchants Venturers; one hundred guineas by Messrs. Meyler, Maxse, Davis and Prothroe; fifty guineas by Messrs. Morgan and Sons; one hundred and fifty guineas from the Fire  Office in Bristol, and his Majesty's pardon to an accomplice."
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770210/002/0002
-Hampshire Chronicle - Monday 10 February 1777
+```
+
+```{admonition} Suspicions grow, January 1777
+:class: dropdown
+
+In *Gloucester Journal*, [Monday 27 January 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17770127/003/0003).
+
+The following appears in this night's Gazette.
+
+Navy-Office, January 23.
+
+*Whereas there is strong reason to suspect that the Rope-house in the Dock yard at Portsmouth, was, on the 7th of December last, most wickedly and maliciously set on fire; and whereas several attempts (some of which have taken effect) have been made to set fire to the city of Bristol; and as there is reason to suppose, that the incendiary or incendiaries may have been the same in both cases, the following description of a person who seen in the Rope-store in Portsmouth yard on the day the said fire happened, and whose conduct was suspicious, is now published in hopes that on his apprehension some light may be thrown on these two dreadful transactions.*
+
+*He was called John, and is a painter, said he worked as such with one Golding at Titchfield, in Hampshire; he appeared to be about 25 or 26 years of age, is about five feet seven inches high, his complexion fair, with a smooth face and whitish eye-lids, said to have a sort of stammering in his speech; had his own hair of a sandy colour, neither tied up nor curled; thinnish in body, and thin faced; he had on a surtout coat, chocolate coloured, but faded; his hat smartly cocked with a fan-tailed flap.*
+
+*Whoever will apprehend the said John the painter, and bring him before any Magistrate, or give such notice as may be the means of his being apprehended, so that he be produced to his Majesty's Commissioner of Portsmouth Dockyard, or to the Commissioners of his Majesty's Navy, in London, shall receive FIFTY POUNDS reward to be paid by the Commissioners of the Navy; or if the said person knowing himself to be innocent will voluntarily appear before Commissioner Gambier, at Portsmouth, or the Commissioner of his Majesty's Navy, in London, he shall himself be entitled to the reward.
+
+```
+
+Around the other dockyards, security is stepped up.
+
+```{admonition} Marines march into Woolwich, February 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 10 February 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770210/002/0002).
 
 Friday 3000 marines marched into Woolwich, who are to guard the dock and rope-yards. This appears necessary, because it is easier to prevent evil, than to remedy it.
 
@@ -203,35 +332,55 @@ The Lords of the Admiralty have ordered detachments of marines to march immediat
 
 We are informed, that letters have been received from Harwich, purporting an attempt to set the dock-yard there on fire, which was happily prevented.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17770203/006/0001?browse=true
-Hampshire Chronicle - Monday 03 February 1777
+```
+
+In the *Hampshire Chronicle*, a report seems to suggest a man in Bristol, recognised from Portsmouth, had left behind evidence that was perhaps suggestive of revolutionary intent. The editor suggests that the report may not be credible.
+
+```{admonition} Suggestive evidence found, February 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 03 February 1777](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17770203/006/0001?browse=true).
 
 A few days previous to the eruption of the fire at Bristol, a person came there who was at first perfectly a stranger. He took lodgings in the city, and while he was burning one of his shirts to tinder in his room, he was seen by the husband of the woman of whom he had hired his lodgings, who recognised him, and remembered to have seen him at Portsmouth previous to the fire which broke out in the dock-yard of that place. The man, after this, took the earliest opportunity of leaving the house, and has not since been heard of. On searching his lodging, it appeared that he left behind him the consumed shirt, a quantity of combustibles, and tin cases and his little library, which consisted of all the pamphlets respecting America, written and published by Doctor Price, and a volume of Voltaire's works, with the leaf turned down, in one the pages of which the account the massacre of Paris began.—Extraordinary as this article may appear, we fear there is too much reason to believe it is founded in fact.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770203/004/0003
-Hampshire Chronicle - Monday 03 February 1777
+```
 
-A letter from Bristol, dated Wednesday morning, says, "The Mayor's officers are now in pursuit of a person that answers the description of the man who set fire to Portsmouth-dock. And last night a great quantity of combustibles were discovered in old house upon the Butts (on st. Augustine's-back). You see they are determined to do the mischief near the shipping. Wind to the northward at that time."
+With the description of the suspect behind the Portsmouth fire in circulation, the same man is now also of interest to the Bristol authorities.
+
+```{admonition} Now in pursuit, February 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 03 February 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770203/004/0003).
+
+A letter from Bristol, dated Wednesday morning, says, "The Mayor's officers are now in pursuit of a person that answers the description of the man who set fire to Portsmouth-dock. And last night a great quantity of combustibles were discovered in old house upon the Butts (on St. Augustine's-back). You see they are determined to do the mischief near the shipping. Wind to the northward at that time."
 
 ...
 
 It is said that the person described in the advertisement from Portsmouth (see the first page as suspected of being concerned in setting fire to the dock-yard, is taken up in the Isle of Wight.
 
+```
 
+News then breaks, in a widely syndicated report, that the suspect, John the Painter, has been arrested in the Isle of Wight. The matter of the the arrest is correct, but the location probably not so.
 
-TH: Widely syndicated below, a report of the following form. The Isle of Wight reference is suspect?
+```{admonition} John the Painter supposedly sent to London under guard, 1777
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000071/17770201/006/0002
-Ipswich Journal - saturday 01 February 1777
+In *Ipswich Journal*, [Saturday 01 February 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000071/17770201/006/0002).
 
 E. Country News
 
 Portsmouth, Jan. 27. A man, advertised by the name of John the Painter, and supposed to have been concerned in setting fire to the dock-yard rope-house, was sent from hence under a guard for London. He was taken in the Isle of Wight.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770210/003/0003
-Hampshire Chronicle - Monday 10 February 1777
+```
 
-Portsmouth, saturday, Feb. 8.
+At the Hampshire Chronicle, a letter perhaps clarifies the earlier untrusted story regarding the suspicious evidence found relating to John the Painter.
+
+```{admonition} John the Painter apprehended, February 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 10 February 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770210/003/0003).
+
+Portsmouth, Saturday, Feb. 8.
 
 ...
 
@@ -245,12 +394,18 @@ The man advertised by the name of John the Painter, on suspicions of setting fir
 
 "The following discovery has been made: A man belonging to Mr. Pike's brewhouse of Portsmouth letting lodgings, a man went to lodge at his house, and there always being a great smoke, and strong smell of turpentine, they could not bear it, and often told the man of it, but to no purpose, and they looked upon him to be a quack doctor. He being out one day, and a great smoke arising, the landlady thought the room was fire, and went up stairs, and let the smoak out; but going to open the window, saw the cannister with matches that was lately found in the Ropehouse, but did not know then what use it was for. However, after mentioning it to her neighbours since the fire, they persuaded her to go and look at the cannister in the dock-yard, which she did, and has taken her oath that it is the same which was in her chamber where the man lodged. she likewise says that the man left her house the very morning before the fire broke out at the dock-yard. The man answers the description given of him in the dock. The woman says he changed his cloaths everyday.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770217/003/0003
-Hampshire Chronicle - Monday 17 February 1777
+```
+
+Having been taken up to London, John the Painter, now identified as John *Hill*, is not very forthcoming in his examination.
+
+```{admonition} A Private Examination, February 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 17 February 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770217/003/0003).
 
 Tuesday John Hill, the painter, charged with setting fire to Portsmouth dock, and Bristol, and likewise with a burglary at Calne, in Wiltshire, underwent a private examination before sir John Fielding, in Bow-street, and some gentlemen from the Admiralty; he was allowed to sit on a stool. He was asked,
 
-Was you ever at southampton?
+Was you ever at Southampton?
 
 I don't chuse to make any answer to that question.
 
@@ -288,252 +443,29 @@ Two or three more questions of very little importance were asked him; but a gent
 
 Wednesday at the Public Office Bow-street, John Hill, alias John the Painter, was examined; a letter from Mr. Brothers, at Fairford, in Gloucestershire, dated the 9th instant, was read, giving an account of his shop having been broke open some time ago, and robbed of hosiery and handkerchiefs; that he had traced some of the things stolen far as Tetbury, in the said county, where they had been disposed of by a man who went by the name of John Hynes, and who answered the description given of Hill, in the Gazette; and that the person who had disposed of the stolen property, had a wound in his right breast, near his shoulder, as if by bullet. Jennings, who had examined the prisoner in Tothill Fields Bridewell, at the desire of the Justices, deposed, that he had a wound similar to that mentioned by Mr. Brothers; the prisoner very freely shewed his breast in the office, and the wound appeared there as Jennings had related. Another letter, dated from Exeter the 7th inst. signed James Carrington, was read, which stated, that a person, who answered the description of Hill, came to that town the 28th of December last, and worked there as a painter; that he lodged with ———— Payne, in that city, and went from thence on the 31st of December, staid away till January 8, and then returned to his lodging; that he then said he had been in Plymouth dock for three days, and had set up there three nights; that he afterwards set out from Exeter for London, and told Payne, in confidence, that unless he was imprisoned, he should hear *from* him, and even if so, should hear *of* him shortly, with some other ambiguous expressions. The Magistrates gave orders, that the parties should be sent for from Gloucester, Tetbury, and Exeter, and Hill was remanded for further examination.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770303/004/0003
-Hampshire Chronicle - Monday 03 March 1777
+```
 
-WINCHESTER, saturday, March 1.
+After examination in London, John the Painter was then returned to Winchester, to face trial for setting the fire at Portsmouth.
+
+```{admonition} An artful, hardened, fellow, March 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 03 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770303/004/0003).
+
+WINCHESTER, Saturday, March 1.
 
 Tuesday night, arrived, here, under the care of four of sir John Fielding's men, the noted John Hill, alias John the Painter. He is strongly guarded, and loaded with heavy irons; no one is permitted to converse with him, and he is constantly attended by one of the above men. His trial for setting fire to the dock-yard at Portsmouth will come on early in the assizes, which begin on Tuesday next. Much information is expected on this important trial, and a very great concourse of people will be drawn here on this event. Lodgings are already provided for Lord sandwich and the rest of the Lords of the Admiralty, sir John Fielding, &c.
 
-He hath appeared on his several examinations, an artful, hardened, fellow, —one instance need only be recited as a confirmation of it, and which, we are assured, is true. Being closely urged to discover his accomplices in those dark schemes, and accept his Majesty's pardon, he replied, *that hi did not desire to receive mercy from such a King and such a Government*.
+He hath appeared on his several examinations, an artful, hardened, fellow, —one instance need only be recited as a confirmation of it, and which, we are assured, is true. Being closely urged to discover his accomplices in those dark schemes, and accept his Majesty's pardon, he replied, *that he did not desire to receive mercy from such a King and such a Government*.
 
 If John the Painter should not be convicted at our assizes, for the fire at Portsmouth, he will be removed to salisbury, to take his trial, for a burglary, at Calne, in Wilts; and if then cleared, is to be tried at Gloucester, for a burglary at Fairford.
 
-https://archive.org/details/bim_eighteenth-century_the-life-of-james-aitken_aitken-james_1777_0
-The life of James Aitken, commonly called John the Painter, an incendiary, who was tried at the castle of Winchester, on Thursday the 7th day of March, 1777, and convicted of setting fire to His Majesty's dock-yard, at Portsmouth ... taken down from
-by Aitken, James
+```
 
-Publication date 1777
+```{admonition} The Arrival of James Hill at Winchester, February 1777
+:class: dropdown
 
-https://archive.org/details/bim_eighteenth-century_the-whole-trial-of-john-_aitken-james_1777
-The whole trial of John the Painter, for setting fire to the rope-house at Portsmouth, which came on at the assizes held at Winchester, on Thursday last, the 6th of March, 1777.  1777
-by Aitken, James
-
-Publication date 1777
-
-https://archive.org/details/bim_eighteenth-century_the-trial-at-large-of-ja_aitken-james_1777/mode/1up
-The trial at large of James Hill, otherwise James Hind, otherwise James Aitken, commonly known by the name of John the Painter, who was tried and convicted at the assizes held at Winchester, on Thursday March 6, 1777, ... for setting fire to the rope-house in His Majesty's dock-yard at Portsmouth, ... together with the confession ... also the particulars of his life, ...  1777
-by Aitken, James
-
-Publication date 1777
-
-
-https://archive.org/details/bim_eighteenth-century_a-short-account-of-the-m_aitken-james_1777
-
-A short account of the motives which determined the man, called John the Painter; and a justification of his conduct; written by himself, and sent to his friend, Mr. A. Tomkins, with a request to publish it after his execution.  1777
-by Aitken, James
-
-Publication date 1777
-
-A SHORT ACCOUNT, &c.
-
-Was born to no fortune. My parents, who were honeſt, induſtrious tradesfolk, did not however ſuffer me grow up without ſome education. The maſter of a neighbouring country ſchool taught me to read and write, and my own inclination led me to ſtudy all the books which fell in my way, and were not above my comprehenſion.
-
-I thought it neceſſary to mention this much, to pret any ſurprize in the learned reader, who will find in few following pages ſome marks of hiſtorical and er reading The reaſoning he will meet is ſuch as man in ſuch circumſtances as mine muſt have uſed to give him courage enough to undertake. the boldeſt attempt that has been made for many years.
-
-And before I enter upon the motives which determined me to this great action, I would beg the people of England, to lay down their prejudices for a moment. My blood is ſome attonement for my crime, if it was one. If not, (and I hope I ſhall be able to ſhew it was not) though the Courts of Law have condemned my body to death, the people ought not to paſs a like ſentence on my fame.
-
-Being born an American, I conſidered America and England, whilſt they were united, as my native country; and from the time I firſt began to think the love of my country was my ruling paſſion, I would have run any riſque, faced any danger, to do my country a ſervice. Had there been a war between England and France upon juſt grounds, I am perſuaded I would as ſoon, nay ſooner, have entered Breſt and Toulon, to do our natural enemies a miſchief, than I did Portſmouth to burn the Dock; and that I would on ſuch an occaſion as little dread the *French* wheel as before my trial I feared the *Engliſh* gallows.
-
-And in this ſpirit of ſerving my country, all the good books I ever read confirmed me. To be accounted an hero after one's death, ſeemed to me to be better than to wear a crown during one's life. For as the wiſe man ſaith, "The things of this world paſs away quickly."  What ſignifies worldly grandeur, when ſuch vile men as Nero, and Domitian, and Caligula, in old Rome, or as Henry the 8th, or James the 1ſt, or Richard the 3d, of England, wore purple garments, and were called Kings and Emperors? Who would not rather be old Codrus, or Cato, or ſuch a man as our Mr. Sydney, who bled upon Tower-hill for defending Liberty and the Proteſtant Religion, than any one of that naſty groupe? To be ſure the Kings ſlept upon ſofter beds, and fed upon richer neats, and drunk better wine, and more of it, than the Patriots, but then mankind do not look up to them now, andbleſs them, as their guardians and benefactors.
-
-So that a good name appeared to me to be better an riches. To get this good name in a very high degree I thought we muſt render ſome very great ſervice to our country. No opportunity offered till the breaking out of the war between *America* and *England*.
-
-Before I bound myſelf to either ſide, I endeavoured to examine (as the merry Mr. Stephens begs us) both ſides of the queſtion, I thought it hard of the government here to tax the Americans (my countrymen) without their conſent, particularly as they did not refuſe to tax themſelves. I thought it ſtill harder, inſtead of hearth money collectors, exciſe and cuſtom-houſe officers, and the other people who gather government money, that ſoldiers ſhould be ſent acroſs, to turn their pockets inſide out, and ſhake all the money there into the —--s. And what was ſtill the hardeſt of all, government ſhut up their harbours, took away their fiſheries, and ſent twenty or forty thouſand innocent people to beg or ſtarve.
-
-As my countrymen were Engliſhmen in every ſenſe of the word, they reſolved to loſe all their blood ſooner than any of their liberties. They took up arms. And they were on the right ſide, and had Justice with them. I declared for the liberties of the Colonies, and determined to die free, ſooner than live a ſlave.
-
-
-TO DO
-
-As ſoon as the armies on both Shen came to action, a In I ſaw the havock of my countrymen, my blood boil
-
-= 7 . 2
-
-
-Within me. Poor Jack Turner, who was both good an
-
-FT 
-
-
-
-
-1 wy
-
-+ <1"
-
-YL F
-1
-
-charitable, who had married a wife he loved, and had five young children, I ſaw him with his ſkull broken, and his brains knocked out with a Heſſian muſquet.
-
-To mention all I ſaw, to reckon up all the brave men who periſhed on both ſides, would make any good Chriſtian's heart ache. God forgive the men who begun this war, and begin every war without good reaſon! To ſee the poor people flying from the coaſt to the back ſettlements, and turning every now and then to ſee their houſes in a flame, to ſee the ſteeples and churches, the market-place, the ſquares and ſtreets of the cities they dwelt ſo long in, ſet on fire by the ſoldiers, and blazing at once up to Heaven ---I ſay again, God forgive thoſe who can deal ſo inhumanly with their fellow creatures!
-
-I conſeſs I was not at that time ſo charitable in my wiſhes for the enemies of America. Our ſufferings enraged me. I determined to do ſome notable action, that would ſhew how much I loved my country. I even then determined, as the force of England conſiſts chiefly in their ſhipping, to ſtrike them to the very heart, by burning the ſtores at Portſmouth.
-
-How I miſcarried in my attempt---how I was tried for it, and was convicted of it, would be needleſs to mention here, as the public papers have already ſpreadf the account through England, Ireland, Scotland, and America.
-
-9 It is natural for the people here to condemn the ; action; but not more juſt than in the followers of Porſenna, King of ſome little territory in Italy, to blame the gallant Roman who entered Porſenna's camp in aifuiſe with an intention of aſſaſſinating him. Our motive, were the ſame. He attacked the King, who was an enemy to Rome. I attempted to burn the magazine, that” would be ruinous to America. Love of country was the motive of both; of me, FJobn Moxam ; of him, Mutiu Scavola. And they who approve the a& of that great minded Roman, cannot, without inconſiſtency, condemn mine.
-
-It is eertlin to any one who conſiders without prejudice, that my motives muſt be as pure, and my reſolution as fixed and heroic, as thoſe of any of the great men of antiquity. Curtius, who rode down the gulph, did not go to more certain deſtruction than I. Codrus, whom
-
-
-f 123 the enemy's centinel to ſtab him, did not court deſtruction more ſurely. They were victims offered up for their country's good---noble ones indeed! and ſo was I. But with this difference. When Curtius entered the gulph, a crowd of Romans ſtood on the brink of the precipice, applauding the ſpirit of the young hero, and panting for a ſhare in his glory. 74 How muſt his heart have ſwelled with honeſt pride to
-
-hl pontemplate his great ſuperiority over ſuch a nation as ie, the Roman! and to conſider, if he had time in that moment of ſelf-congratulation, that he would be propoſed, as model of generous patriotiſm, not only to the youth of
-
-hat his own country, but to men of all ranks in all quarters
-
-It the world |
-
-ves
-
-This was a reward I had not. No one ſtood by to applaud my act. I was in the country of an enemy. The people of this country too heated againſt me and my countrymen. No favour, no affection, either to the part Wrformed, or the principles upon which 1 acted. On the contrary, I muſt be eſteemed and puniſhed as a crition Wnal by the laws of this country. The people would
-
-| 4
-
-n o hor me for an attempt to in their navy. I had no lhace to look for claifort but in my own heart. That  danger, for the ſake of advancing the freedom of my country, and checking the power that would take our li- 1
-
-Whatever injury they offered the Continent, we e had a
-
-9 — 1 5 a
-
-4 » ? « CE
-
-indeed told me I was a lover of my country, and an heroic one; that I underwent much fatigue, expence, ahd 4
-
-berties from us.
-
-Ca which whe not a Kundatioe of 5 If bo Miniſtry here burned our harbours, we could not be wrong in doing an harm to theirs. If they burned our towns, and ſlaughtered our people, we had an equal right to burn their cities, and ſlaughter their inhabitants.
-
-right to retaliate on Great Britain.
-
-I know ave are many who will make a fooliſh diſtinction between the act of armies, and of a ſingle many as one. They will ſay it was baſe and treacherous to come into their country privily, with an intention of doing it an Injury ; ; — a great deal more of the ſame 4 kind. # | 3
-
-12
-
-
-To „ ehiofe I will abbr, that the world has judged ways wrongly in this point. Do beating drums, and colours, purge a band of robbers and murderers of guilt? Does it ſignify as to the nature of the crime, whether he who commits it wears a red coat or a brown?
-
-Whether he holds a painter's bruſh in his hand, or a general's truncheon? An army may be called an army; but if this army fights in an juft cauſe, cuts the throats, plunders the houſes of a people, every man in this ng chess my who aſſiſts in this unjuſt cauſe, is not more or leſs an a murderer and a robber. A reaſonable Fudge) oui pth ſufficient power, would — up c_ man of Dem.
-
-wal 5
-
-Ats * 3 „ 1 As to my coming privily into the country, it ſhews
-
-id © 3 Has
-
-Wat our fade cannot do things openly and above board, as he Miniſtry do. Why can they not? Becauſe they are ??? ſtrong enough. Their weakneſs ſhews very evidently Ichink that they would not give the firſt ſtroke in this
-
-n ar, (Anglici rebellion) but that they were boxed and pro-
-
-” * pked before they would venture to return the blow. Now they did not give the firſt blow, and were not ſtrong enough to reſent it in the field, what were they to do? Were they to fit quiet and ſay, Do, gentlemen, demoliſh our towns, burn or take our ſhips, kill our people, ſeize our grounds, and do with us what you pleaſe.
-
-Would I, when I knew him to be a much ſtronger man, better armed, and more expert in the management of hig
-
-nor ſo well armed or diſciplined as the Engliſb, and thei
-
-down, and ſuffer our throats to be cut tamely ? Everj
-
-+ a |
-
-cannot meet you *fairly* in the field, and we will take no other method of redreſſing ourselves."
-
-If a robber broke into my houſe, with an intent to plunder it, and kill all my family, would I make it a point of honour to call this robber out as a gentleman? Would I, when I knew him to be a much ſtronger man, better armed, and more expert in the management of his weapons, give him a *fair* chance? I ſhould be thought a madman if I did not take any advantage of him; if I did not ſtab him in the dark, when an opportunity preſented itſelf.
-
-TO DO ABOVE
-
-And now, when America is invaded, as it appears to me, (and to many of *the greateft men in England* beſides me) unjuſtly, are we, becauſe our armies are not ſo large, nor so well armed or diſciplined as the English, and their clean-handed friends the *Heſſians*---are we, I ſay, to ſit down, and suffer our throats to be cut tamely, Every American, who believes his cauſe to be a juſt one, ought to exert himſelf in whatever way he can be ſerviceable to his country. If in the field, let him carry arms; if not let him light a torch. His enemies ſurround him. If he cannot deſtroy them by open force, he muſt by ſtratagem.
-
-And now, ſince this world is almoſt paſt, and another approaches, may I be received according to deſerts. I have meant honeſtly, and acted in my own apprehenſion gloriouſly. If my heart acquits me, I value at very little the verdict of a jury. My generous countrymen will weep blood over me. My name will be famous in their annals to all eternity. My ſoul will be ſhortly in the hand of him who made it. Let the executors of the law wreak what vengeance they pleaſe on my body, I am ſatisfied in my own conſcience, and in that perſuaſion leave the world whenever it ſhall pleaſe God to call me out of it. May he be merciful to me! as my intentions were upright.
-
-*Amen.*
-
-Thus I hope I have anſwered people who would have found no fault in me, had I fought in America, and died a common ſoldier. But they think it monſtrous, and riſible, and I do not know what, to attempt to burn oy Dock at Portſmouth, not conſidering how many docks, and towns, and ſhips of ours, have been burned by their ſoldiers in America.
-
-The more I think upon what I have done, the better am I pleaſed. I die, as the greateſt men have died, in attempting, without ſucceſs, to ſerve my country. My death gives me very little trouble. Life is at beſt but ſhort. A fit of the gravel, a fever, a fall from an horſe, the moſt vulgar diſorder, the moſt common accident, may end it. Beſide, what was life to ſuch a man as me, without ſomething to diſtinguish it?
-
-The gentleman of the Houſe of Commons, who thinks he does wonders when he raiſes the price of his conſcience a few pounds more than he could in reaſon expect for it, may laugh at me for ſuch notions. So no doubt will the merchant, who ſpends his whole life in cheating and over-reaching, not in ſerving and benefiting the country to which he belongs. I do not care a rum for the opinions of ſuch men. Let the courtier go on and lick up the ſpittle of the Miniſter or his uncerlings. Let the rich Alderman doze over his accounts in the morning, and his turtle at night. I would rather die on the gallows for ſuch a crime, (as it will perhaps be called) than live like ſuch poor creatures, to die at laſt of a p?? or a ſurfeit.
-
-The people of England may perhaps condemn my action as a very vile one. The Americans will extol it as very noble. I may be curſed here as a very bold, infamous fellow. There I ſhall be ſung about through the towns and villages, as a martyr to my country. Here I may be gibbeted and frighten crows; there a grateful people will erect ſtatues to their PATRIOT, and remember my name with honour. I do not value the reproaches of the people here, becauſe they are the reproaches of a people ſliding into -------; I would wiſh to have the praiſes of the Americans, becauſe they love freedom.
-
-Beſide, if people find fault with the TREACHERY, as I know ſome will, let them conſider that treachery and underhand dealing did not begin on our ſide; let them reember a certain LORD who acted the firſt deceit practiſed on either fide; him I mean who forged the notes of the Congreſs. His treachery was as great, nay greater, than mine, as I can prove very clearly.
-
-For what could I burn at Portſmouth, which ſome caſh could not repair? Had I forged a draught or draughts on the Bank of England to the amount of the ſtores in Portſmouth, the loſs to the nation muſt be as great as if thoſe ſtores were burned. I do not know, upon a nice calculation, whether it would not be greater.
-
-But the right honourable and the right honeſt Lord who forged the paper money of America, might have held on his hand to the higheſt amount, if he had not been detected in time. The loſs to America muſt have been greater, as they are more poor and more unprovided than the Engliſh in all things. The forgery was more baſe and more cowardly than the attempt to fire the Docks. He ran no riſque. But the burning of Portſmouth could not be done without the greateſt danger.
-
-But if, inſtead of burning Portſmouth, we were at war with France, and I had ſet fire to the magazines at Breſt, what a glorious fellow people would think me! There is not a porter or punch houſe in London where my health would not be toaſted. Brave John the Painter would be the word! and all England would ring with it.
-
-Now that I have attempted to ſerve my country truly, and after the example of the greateſt men in hiſtory, a few of whom I have mentioned, and many more I could mention, the *Engliſh* will curſe me as a traitor. So should the *Puritans* have curſed Colonel Rumſey (I think that's his name) if he had attempted to aſſinate *Oliver Cromwell*; and ſo would the *Etrurians* haved curſed *Scaevola* if he had ſucceeded in killing their King *Porſenna*. Why? Becauſe Cromwell was a convenience to his party -*Porſenna* to his kingdom. But REASON, that has nothing to win or loſe, will ſpeak without prejudice, and ſay, that the acts of thoſe two men were heroic. Why? Becauſe the attempt was made in favour of their country. This ſame REASON will likewiſe ſay, that my attmpt, however diſagreeable and inconvenient to the *Engliſh*, will ſhine as much as either in hiſtory. The *Engliſh* cannot be impartial judges of my conduct. Their intereſt is a ſtumbling block to their reaſon. They ſtand in the ſame point of view as the Puritans and the *Etrurians* above-mentioned.
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17770120/003/0003
-Gloucester Journal - Monday 20 January 1777
-
-TO DO
-
-GLOCESTER, January 20.
-
-*Bristol, January 18.* Tuesday last a general meeting of the citizens was held at Guildhall, pursuant to a public advertisement, to consider of an address to the King, on the late success of his Majesty's arms against the rebels in America, Alderman Mugleworth in the chair.—The business was opened by George Daubney, Esq; in a sensible, judicious and well connected speech; in which the occasion of the meeting and the propriety of an address at this time were shewn;—and whilst he pathetically lamented the unhappy delusion of our fellow subjects, and the fatal necessity of our having recourse to arms to vindicate the rights of Britain, he fully and firmly supported the measures made use of, as the only one left us to reduce those rebellious people to their allegiance and subordination to the British government. The speech was so well received by the assembly present, as numerous and respectable as was ever known on a like occasion, that on putting the question, whether an address should be presented or no, not a dissenting voice was heard. An address was then produced and read aloud twice, it was submitted to the approbation of the meeting, when only one person at the lower part of the hall opposed it, who giving no reason for it, he was turned out by some near him, and it was then unanimously agreed to and signed.—The following citizens, were proposed... Esqrs. It was then agreed that sir James ..Esqr. .., B. Chester and Rich. Combe, Esqrs. members of parliament, be desired to attend the deputation—and that his Grace the Duke of Beaufort, and Lord Clifford, be visited upon by the gentlemen deputed, to request the honour of their attendance also on the occasion.—It was ordered, that the address should remain at the Taylor's-hall 'till saturday evening for signing.
-
-Thursday morning a providential discovery was made of a most diabolical plot, which might have terminated in the general conflagration of this city, the loss of many lives, and perhaps the ruin of thousands.—Early that morning a fire was perceived on the deck of the savanna La Mar, a vessel belonging to Messrs. Meyler and Maxse, lying at the Quay, and bound for Jamaica, which, before it could be extinguished, communicated itself to the mizen mast, and did other damage. It evidently appeared to have been designedly done. This opinion was soon after confirmed by the discovery of some combustible materials placed on board the same, lying at a distance from the savanna La Mar, and destined for the same voyage, which fortunately did not take the like effect. A third attempt was made on the Hibernia, Capt. Knethell, a Cork trader, situated at another part of the Quay; on board this vessel was found a bottle of turpentine, besides other inflammable matters. The intended wickedness of those villains did not stop here, for they broke open a warehouse of Messrs. Morgan and sons, druggists, in Cypher-lane, Corn-street, and therein set fire to a box, in which they had also put some combustibles, which happily went out. several pieces of touch-paper were found just by. As liberal rewards are offered for apprehending those daring offenders, 'tis to be hoped they will be speedily brought to justice.
-
-The following Advertisement appears in saturday night's Gazette.
-
-*st. James's, Jan. 18.* Whereas it has been humbly represented to the King, that in the night of Wednesday last the 15th instant, or early in the morning of Thursday last the 16th instant, the ship savannah La Mar, lying near the Crane No. 8, at Bristol Quay, and also the ship Fame, lying at another part of the said Quay, were wilfully and maliciously set on fire, whereby not only those vessels, but likewise the other ships and vessels at the Quay, and all that part of the town, were in the most imminent danger of being totally burnt and destroyed; and also that at the same time the ship Hibernia, lying at the said Quay, was attempted to be set on fire; and likewise that at the same time a warehouse, situate in Cypher-lane near Corn-street, the property of Mess. James Morgan and sons, was attempted to be burnt, the said warehouse having been broken open, and a box therein, containing several combustible materials, set on fire; his Majesty, for the better discovering and bringing to Justice the persons concerned in the said atrocious offences, is hereby pleased to grant his most gracious pardon to any of the offenders, (except the person or persons who actually set fire to the said ship or warehouse) who shall discover his or her accomplice or accomplices therein, so that he, she, or they, may be apprehended and convicted thereof. SUFFOLK.
-
-And, as a further encouragement for bringing to punishment the person or persons who committed the atrocious crime of setting the said ships on fire, the Mayor and Aldermen of the city of Bristol do hereby promise a reward of One Hundred Guineas, the society of Merchants-Venturers of the city of Bristol One Hundred Guineas, Mess. Meyler and Maxse and Davis and Protheroe, Merchants, One Hundred Guineas, Mess. Morgan and sons, Fifty Guineas, and the Proprietors of the several Fire-offices, One Hundred and Fifty Guineas.
-
-*Just as our paper was going to press, we received an Express from Bristol, with the following melancholy intelligence. Our correspondent's letter is dated, sunday morning 12 o'clock:*
-
-"The city of Bristol seems threatened with destruction. This morning about six o'clock a fire, the most dreadful known for many years in this city, broke out in the warehouse of Mr. A. Brown, bookseller, and communicated to those of Mr. Lewsley, in Bell-lane, which were almost all full of spanish wool. Matches and other combustibles were discovered in the warehouses; which, it is imagined, were placed there in the night, tho' the fire did not appear 'till the hour above-mentioned. Most of the wool, &c. was saved, though greatly damaged; but the warehouses, which form one side of Bell-lane are entirely consumed. The Bell tavern, on the other side the lane, caught fire three or four times, but by the assistance of the engines, which were well supplied with water, it was prevented from spreading farther; which had it done, in all probability not only that lane, but the greatest part of Broad-street and small-street must have been destroyed.
-
-"About the time that the fire broke out, a quantity of combustibles were found on the Key, among a number of barrels of oil, to which the villains had attempted to set fire, but providentially were disappointed in their diabolical scheme.
-
-"These alarming circumstances have determined the principal inhabitants to patrole the city every night:
-
-"*Postscript,—One o'clock.* I am just returned from the Council-house where several persons have been examined; most of whom were discharged. Two however, I am informed, are sent to Bridewell:
-
-"Thank God, the fire is now extinguished."
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17770128/001/0001
-Leeds Intelligencer - Tuesday 28 January 1777
-
-An evening paper says, that an express arrived early yesterday morning at the secretary of state's office from Bristol, which place he left on saturday morning at nine o'clock, and brings the very serious and alarming intelligence, "That the town had been wickedly and maliciously set on fire on Friday night, in several different places at the same time; that very considerable damage had been done in Corn-street, Cypher-lane, and the buildings along the Quay; that the fire continued to rage furiously when the express left Bristol, and that they had sent to Gloucester for a regiment of dragoons." These advices add, "That some violent Americans in that city were suspected of being incendiaries, in revenge for the Address to his Majesty, which was voted on Tuesday last, congratulating him on the success of his arms against the American rebels."
-
-...
-
-It is evident from the accounts received from Portsmouth and Bristol, that there are in this kingdom some desparate partisans of the American Rebels, who finding that Great Britain is likely to gain a decisive victory in the field, are endeavouring, by the most hellish plots, to undermine her glory, and prevent her success. Of all bad characters an incendiary is the foulest. He acts as an assassin armed with the most dreadful of mischiefs, and in executing his diabolical purposes, he involves the innocent and the guilty in the same remedyless ruin. May every being so lost to humanity live an object of conscience-goading pain, and die an object of universal contempt.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17770128/003/0002
-Leeds Intelligencer - Tuesday 28 January 1777
-
-*Extract of a letter from Bristol, Jan. 19.*
-
-We are all in uproar; for this morning Key-lane was all in a blaze, but happily it did not burn above six warehouses; and the Bell in Broad-street, where Mr. Ferguson used to read his Lectures, was five times on fire, but received little damage. As the people were about the fire, they found some of the combustibles, which I saw; they seemed to be a compound of rosin, pitch, gunpowder, oil, and other inflammable matter. several people are taken up on suspicion. I am told, that as one man was going to Bridewell, he said to the Constables, that if they would let him go back to the Council-house, he would discover something of moment; when he came there, he took out of his pocket tinder-box, and some gunpowder, and said that it was intended to set fire to an Alderman's house."
-
-It having been represented to his Majesty, that on sunday morning last, the 19th instant, about seven o'clock, a dreadful fire broke out in a range of warehouses, in a place called Quay-lane, in the city of Bristol, whereby the whole range of warehouses, with the several dwelling adjoining, and opposite to the said warehouses, were immediately in flames; and as there is the greatest reason to suspect that the said warehouses were wilfully and maliciously set on fire by some evil disposed persons, at present unknown; his Majesty's pardon for the discovering and bringing to justice the persons concerned in the above atrocious offence, is promised to any one of the said offenders (except the person or persons who actually set fire to the said warehouses) who shall discover his or her accomplice or accomplices in the offence. And his Majesty also promises a reward of One Thousand Pounds unto or amongst such person or persons who shall discover his or her accomplice or accomplices in the said offence. And his Majesty also promises a reward of One Thousand Pounds unto or amongst such person or persons who shall, within three months, from this time, discover any of the offenders.
-
-It is very warmly, as well as very rationally conjectured, that the *virtuous* Americans have many emissaries in the sea-ports of this kingdom, to devise every base, every cowardly method of destroying our shipping, or firing our habitations. The barbarous attempt to burn the city of New-York, and the horrible improvements in cruelty for which the *persecuted saints* are so eminently conspicuous, render an idea of this nature too probable; but it is to be hoped that the vigilance of Government will equal the wickedness of its enemies, and that striking examples will be made of such miscreants as shall be convicted of these diabolical attacks upon the welfare of their country.
-
-The fire at New-York, the fire at Portsmouth, the fire at Bristol, and the burning of the hemp warehouses on Monday night in southwark, have changed the opinions of many people in this country, who before were disposed to favour the Americans;—in short, all these fires have served to cool these mistaken Zealots, who had espoused the unnatural cause of ungrateful Children, against a too indulgent Parent.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000532/17770127/003/0003
-Gloucester Journal - Monday 27 January 1777
-
-The following appears in this night's Gazette.
-
-Navy-Office, January 23.
-
-*Whereas there is strong reason to suspect that the Rope-house in the Dock yard at Portsmouth, was, on the 7th of December last, most wickedly and maliciously set on fire; and whereas several attempts (some of which have taken effect) have been made to set fire to the city of Bristol; and as there is reason to suppose, that the incendiary or incendiaries may have been the same in both cases, the following description of a person who seen in the Rope-store in Portsmouth yard on the day the said fire happened, and whose conduct was suspicious, is now published in hopes that on his apprehension some light may be thrown on these two dreadful transactions.*
-
-*He was called John, and is a painter, said he worked as such with one Golding at Titchfield, in Hampshire; he appeared to be about 25 or 26 years of age, is about five feet seven inches high, his complexion fair, with a smooth face and whitish eye-lids, said to have a sort of stammering in his speech; had his own hair of a sandy colour, neither tied up nor curled; thinnish in body, and thin faced; he had on a surtout coat, chocolate coloured, but faded; his hat smartly cocked with a fan-tailed flap.*
-
-*Whoever will apprehend the said John the painter, and bring him before any Magistrate, or give such notice as may be the means of his being apprehended, so that he be produced to his Majesty's Commissioner of Portsmouth Dockyard, or to the Commissioners of his Majesty's Navy, in London, shall receive FIFTY POUNDs reward to be paid by the Commissioners of the Navy; or if the said person knowing himself to be innocent will voluntarily appear before Commissioner Gambier, at Portsmouth, or the Commissioner of his Majesty's Navy, in London, he shall himself be entitled to the reward.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0001407/17770304/014/0003
-Kentish Weekly Post or Canterbury Journal - Tuesday 04 March 1777
+In *Kentish Weekly Post or Canterbury Journal*, [Tuesday 04 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0001407/17770304/014/0003).
 
 Friday, Feb. 28.
 
@@ -543,13 +475,23 @@ Winchester, Feb, 26.
 
 LAST night James Hill, called John the Painter, arrived at our gaol from London, under a guard of sir John Fielding's men, in order to take his trial at our assizes for setting fire to the Dock-yard at Portsmouth.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000038/17770311/020/0002
-Belfast News-Letter - Tuesday 11 March 1777
+```
+
+```{admonition} Brought under a strong guard, February 1777
+:class: dropdown
+
+In *Belfast News-Letter*, [Tuesday 11 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000038/17770311/020/0002).
 
 *Winchester March 1.* Tuesday evening James Hill commonly called John the Painter, was brought, under a strong guard, from New Prison, Clerkenwell, to our county gaol, to take his trial at the ensuing assize, for wilfully and maliciously setting fire to the rope-house in hs Majesty's dock-yard at Portsmouth, which consumed the same, together with a large quantity of naval stores therein. He is kept under close confinement in the dungeon, with remarkable strong irons, attended with a strong guard — Lodgings are taken for Lord sandwich, sir John Fielding, and a number of other gentlemen, who are to attend his trial; also for several gentlemen of Portsmouth, Gosport, Bristol, salisbury, Devizes, &c. &c.
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000235/17770312/006/0002?browse=true
-Kentish Gazette - Wednesday 12 March 1777
+```
+
+As the Assizes began, the crowds gathered.
+
+```{admonition} The streets were full, March 1777
+:class: dropdown
+
+In *Kentish Gazette*, [Wednesday 12 March 1777](https://britishnewspaperarchive.co.uk/viewer/BL/0000235/17770312/006/0002?browse=true).
 
 The late Fire in the Dock Yard at Portsmouth happened at such an alarming crisis, and threatened consequences so dreadful to the welfare of this country that every man who feels himself a Briton will naturally be glad to know every circumstance likely to point out the authors and perpetrators of a Deed which might have involved the whole Nation in immediate ruin. We therefore take the earliest opportunity of presenting our readers with the following Circumstantial Account of the TRIAL of JOHN the PAINTER, which came on last Thursday at the Castle of Winchester.
 
@@ -565,7 +507,7 @@ The third, with feloniously, wilfully, and maliciously setting on fire, burning,
 
 Serjeant Davy next rose, and entered into an ample discussion of the question before the Jury, stating the fact of the fire, which was well known so have burst out on the 7th of December last, and dwelling for a considerable time on the dreadful consequences which might have followed, and pointing out the mischiefs which must inevitably have fallen us as a people, had the scheme of burning all the dock-yards taken place at this crisis. After for some time holding up a picture of national horror, the serjeant took a view of the evidence which would be given in support of the indictment, and shewed that the whole of the charge, enormous as it was, would be impossible for the Jury to entertain a doubt of the guilt the prisoner. He declared, that the hand of Providence was apparent, and that it was owing to a most unexpected and happy discovery that it had come light whom this country was indebted for the attempt to destroy her natural strength, and render her an easy prey to her enemies; in order to prove this, he that by mere accident, one of the witnesses, whose name was Baldwin, had got acquainted with the prisoner, while he was in prison; and that the prisoner had in the fullest manner acknowledged his guilt to him, stating every minute circumstance of his conduct, from his interview with Silas Deane, in Paris, to the moment of his being apprehended. The serjeant took great pains to shew that Baldwin's testimony was unimpeachable; that it stood on the fairest and most honourable grounds; and that it was most clearly genuine and well founded; because that every assertion made by Baldwin, which related to a fact ascertained by the testimony of other witnesses, was supported by the strongest and most indubitable collateral proofs.— After going through the whole of the intended evidence, the serjeant held up in a new point of view the danger this country had escaped, from the failure of the scheme; he appealed to the Jury, whether men, so totally lost to every sense of national honour and interest, men who could become the instruments of such wretches as Mr. Silas Deane (whose day of retribution was, he hoped near at hand) ought not to be made dreadful examples of the justice of an injured nation. He concluded with hoping, that the prisoner would be able to deny and refute would be against him; but if he failed in so doing, he repeated, that it would be impossible for the Jury, acting on principles of conscience, honour, and honesty, to acquit him. —The serjeant then preceded to examine the witnesses.
 
-James Russel deposed, that he was Clerk the Rope-house in Portsmouth Dock-yard, and that a fire burst out in the Rope-house on saturday the 7th of December last, soon after four in the afternoon. He described the situation of the Rope-house, the position of the stores it contained, and the quantity consumed by the fire; and further deposed, that on the 15th of January, in searching the hemp store-house, he found a tin cannister of a singular construction, and at a small distance a wooden bottom, which fitted the cannister, and which contained a candle stuck in the centre, and a quantity of pitch, tar, and turpentine, in a receptacle or hollow in the middle it; this machine, he said, appeared to have been flung over the hemp, and by striking against something the parts had separated. [The instrument was produced, and the witness, after carefully viewing it, swore it was the same which he found the Rope-house, and delivered to Commissioner Gambier.]
+James Russel deposed, that he was Clerk the Rope-house in Portsmouth Dock-yard, and that a fire burst out in the Rope-house on Saturday the 7th of December last, soon after four in the afternoon. He described the situation of the Rope-house, the position of the stores it contained, and the quantity consumed by the fire; and further deposed, that on the 15th of January, in searching the hemp store-house, he found a tin cannister of a singular construction, and at a small distance a wooden bottom, which fitted the cannister, and which contained a candle stuck in the centre, and a quantity of pitch, tar, and turpentine, in a receptacle or hollow in the middle it; this machine, he said, appeared to have been flung over the hemp, and by striking against something the parts had separated. [The instrument was produced, and the witness, after carefully viewing it, swore it was the same which he found the Rope-house, and delivered to Commissioner Gambier.]
 
 William Tench deposed, that was apprentice to a tin-man at Canterbury; that the prisoner, whose person he recognized, came to his master's ship about a month or six weeks before Christmas, and bespoke a tin machine; that he made it, the prisoner standing by him, and explaining as he went on, what manner he meant it to be formed.—-[The machine was handed to him and he swore that it was the instrument made by him for the prisoner.]
 
@@ -581,7 +523,7 @@ Mary Cole deposed, that the bundle produced was the identical bundle left by the
 
 William Abram, a blacksmith, deposed, that he lodged at the house of Elizabeth Boxell; that on Friday, the 6th of December last, the prisoner was there, and entered into a conversation with him; that the prisoner asked him if the press was not hot Portsmouth; and on hearing that they took all persons who could not give a good account of themselves, he said, what then must he do if they took him, as he had nothing to shew who he was, but some writings in his pocket? The witness further deposed, that the prisoner particularly enquired what chance there was for an escape, if he was taken, and what sort of a prison there was in the town? and on being told by the witness, that it had very high walls, he asked if those walls could not be climed over?
 
-John Baldwin `[On this witness appearing in Court, the prisoner said, "He could not embrace then as cordially as he  did some time since."]` deposed, that he was a painter, and having been in America, he was sent by Lord Temple to the office in Bow-street, to hear the examination of the prisoner, and see if he recognized his person; that sir John Fielding asked him the question, and he replied in the negative; that the prisoner instantly bowed to him from the bar; that he followed the prisoner after the examination into another room, when the latter returned him thanks for his behaviour, and he could make him satisfaction; [Here the prisoner hastily said, *satisfaction!— for what?* but the Court desiring him not to interrupt the witness, but that as soon as he had finished his evidence, he should ask any question he chose, he accorded, and the witness pursued the thread of his testimony, declaring that the prisoner told him] that he was a gentleman, but that there had been other persons questioned about him, who had spoke what they were entirely ignorant of, and had even gone so far as to say, he could change the colour of his hair if he chose, just as if he was a cameleon; that in the course of conversation, the prisoner asked him come and see him in New-prison; that he took the advice of Lord Temple on the subject, and went at four in the afternoon to New-prison, where he and the prisoner, between the two gates, talked together; that America was the subject, and that he mentioned the names of several persons there, and had much conversation about his family, having married his wife at Perth Amboy, and having worked at New York and Philadelphia; that a kind of intimacy subsisted between them, insomuch that he visited the prisoner daily, and frequently twice a day, till the 15th of February; that in the course of that time their conversation often turned upon America, of which country, and its concerns, the prisoner spoke in general terms, and appeared to be very urgent to know if General Cornwallis had keen worsted; that he asked him if he knew Deane, and upon his replying in the negative, the prisoner replied,"Not know Deane, silas Deane@ Oh, he's a fine fellow, he's employed by the Congress at Paris: I believe Benjamin Franklin is also employed there on the same account." `[At the mention of Deane's name, the prisoner checked the witness, and said, "Beware of perjury; take care what you say of Mr. Deane; there's a righteous God above, who deals out righteous judgements, and in whose presence we are at this moment."]` That the prisoner asked him what countryman he was; that he replied, a Welchman; that the prisoner said he saw clearly he was nevertheless in the interest of America, and was an American by principle; that he therefore talked to him very freely, saying, that he knew General Washington; that he was much abler than General Howe; that the former would perplex and harrass the latter during the winter, but the grand campaign was to be in the summer; that America would certainly be victorious; that she had plenty of pitch, tar, and turpentine, and that the back country would furnish stores; and that all her army wanted was a few officers, and that France would supply them. On the 15th of February the witness declared that the prisoner fully revealed his criminality, telling him that he had been to Paris to silas Deane, and had carried him an account of the several garrisons in this kingdom, their prefec?t state, the number of guns and men at each, and also an account of the quantity of shipping in the service of the navy, their tonnage, guns, &c. That silas Deane much applauded his zeal; that he then proposed to him the important scheme of setting fire to the Dock-yards, and offered to return and execute it; that Deane was amazed, and thought it too great matter to be carried into execution one man; that he said he could execute more than either he or any person on the face of the earth, could imagine; that Deane asked him what money he'd have; that he replied, not much, he only desired to be rewarded according to his merit. That Deane gave him a letter on the great man in the city, a merchant, with bills drawn on the same merchant to the amount of 300*l.*. That he in consequence came over to England, and at Canterbury applied to a tinman to make him a machine of his own contriving, somewhat like a cannister, and stood by him whilst he finished what he wanted; that he put it under the breast of his coat, and went to an alehouse, where he was interrupted by two dragoons, and had an affray with them; that he got the wooden part of the cannister also made at Canterbury, and that it fitted so close that no person could see a light was in it, after it was shut in; that he ordered two more of the same kind of cannisters to be made at another tinman's, but that he left them behind him, they not being finished in time; that he made the best of his way to Portsmouth, and there hired a lodging at the house of Mrs. Boxell; that he instantly set about his preparations; that his mode of making matches was to fold paper double, and cut it into slips; that after grinding charcoal on painter's colour-stone, quite fine, and breaking gunpowder with a knife, as painters do vermillion, to mix the two in clear water till it came to the consistency of new milk, and then to cover the matches with it; that when so prepared, they would last, according to their length, any given time after they were alight. That Mrs. Boxell was an imprudent woman, for that she had opened his bundle in his absence, and that she had come and seen him at work, and being alarmed, had obliged him to quit her lodgings. That Friday he had got into the hemp-house, and found the hemp so closely packed, that it took him a considerable time to loosen it; that he pulled off his coat to do it, and sprinkled a quantity of turpentine all about the hemp, laying also trains of gunpowder upon the floor, and lightly throwing hemp over them. That he had some difficulty to find his coat, and after he had found it, he perceived a good deal of hemp upon it, which he took off; that when he attempted to go out, he found the door fastened; that he pulled off his shoes, and got up in the loft, hoping to get out that way, but that he found it impracticable; that he then returned below, and hearing a person at one of the doors, he cried halloa! and was asked what he did there; That he replied, that he went in from motives of curiosity, and was locked in; that the person at first said he must stay there all night, but at length he was let out; that he found his matches would not do, that he bought a halfpennyworth of others, of a woman who lived on Common; that on saturday morning he took two lodgings on Common, and picked such houses as had most wood in them, intending to set them on fire, that the engines might be employed in extinguishing them while the Dock-yard was burning. That on saturday got into the Rope-house again, and renewed his labour there, cutting his matches into short pieces; that he wasted a whole box of tinder in trying to make his matches light, and almost burnt his lips in blowing the sparks; that he was so vexed at the last matches not succeeding, that he was almost ready to fire in at the windows of the woman he bought them of; that after firing the Rope-House, and burning the letter to the merchant in London, and the bills for 300l. for fear Mrs. Boxell's having opened his bundle should lead to a discovery of him, he set off to escape, and, as he was running along the road, overtook a market-woman's cart; that got up in it, and begged the woman to drive fast, wanting to get by the centinels, who are posted four miles round Portsmouth; that the woman drove pretty briskly, but had occasion to stop to purchase something; that he begged she would not, but that she said she must, and would not stay; that when she stopped, what she bought came to a shilling, that he got out of the cart, threw down 6d and made the best of his way towards London; that after going some way, he turned round and saw the flames of the rope-house, and that it appeared as if the element itself was on fire. That he walked all night, and two dogs barking at him, fired a pistol at one of them, that he believes he either killed or wounded him; that he reached Kingston about ten in the morning, staid there till evening, when he went to town in the stage, and on his arrival called on the merchant for whom the letter had been directed; that he informed that he came from Paris, and what had passed between him and silas Deane, and mentioned the bills; that the merchant received him very coldly, and said he had no advices from Paris which adverted to the matter; that he then told him, he had fired the Dock-yard at Portsmouth, as he would see by the Monday's newspapers; that after this he accompanied the merchant to a coffee-house, and observing a person there eye him in a very particular manner, he went away, and walked to Hamersmith; that he was exceedingly vexed at the merchant's reception of him, and wrote him a letter that night, in which he told him he was going Bristol, where he would soon hear of his *handy works*; that he went accordingly; [Here, upon a volunteer motion of a Counsel who sat at the table, the Counsel objected to the witness being examined as to the circumstance which happened at Bristol, the facts there not being in question before the Court. It was agreed by the Counsel for the Crown to go[?] no further into the matter, than just as far as was necessary to confirm the truth of Baldwin's testimony by the assistance of collateral proofs; he was therefore suffered to go on, and he further said] that the prisoner told him, that on his arrival there he applied to a painter in or near Bristol, and borrowed his colour-stone to ground some charcoal upon. The witness added, that the prisoner lamented much having left his bundle [at?] Portsmouth, and said it contained and English Justin, Ovid's Metamorphoses, and the Art of War and of making Fireworks, according the manner practiced last war by the military of the King of France, with a French passport, a pistol, a pair of buckles, a piece of an old shirt, &c. But what grieved him most was the passport's being there, as it contained his real name; it was some comfort it was in French, and probably those who found it would not be able to read it. The witness concluded with declaring, that he had parted to Lord Temple and Lord George G[??]maine all that the prisoner had told him.
+John Baldwin `[On this witness appearing in Court, the prisoner said, "He could not embrace then as cordially as he  did some time since."]` deposed, that he was a painter, and having been in America, he was sent by Lord Temple to the office in Bow-street, to hear the examination of the prisoner, and see if he recognized his person; that sir John Fielding asked him the question, and he replied in the negative; that the prisoner instantly bowed to him from the bar; that he followed the prisoner after the examination into another room, when the latter returned him thanks for his behaviour, and he could make him satisfaction; [Here the prisoner hastily said, *satisfaction!— for what?* but the Court desiring him not to interrupt the witness, but that as soon as he had finished his evidence, he should ask any question he chose, he accorded, and the witness pursued the thread of his testimony, declaring that the prisoner told him] that he was a gentleman, but that there had been other persons questioned about him, who had spoke what they were entirely ignorant of, and had even gone so far as to say, he could change the colour of his hair if he chose, just as if he was a cameleon; that in the course of conversation, the prisoner asked him come and see him in New-prison; that he took the advice of Lord Temple on the subject, and went at four in the afternoon to New-prison, where he and the prisoner, between the two gates, talked together; that America was the subject, and that he mentioned the names of several persons there, and had much conversation about his family, having married his wife at Perth Amboy, and having worked at New York and Philadelphia; that a kind of intimacy subsisted between them, insomuch that he visited the prisoner daily, and frequently twice a day, till the 15th of February; that in the course of that time their conversation often turned upon America, of which country, and its concerns, the prisoner spoke in general terms, and appeared to be very urgent to know if General Cornwallis had keen worsted; that he asked him if he knew Deane, and upon his replying in the negative, the prisoner replied,"Not know Deane, silas Deane@ Oh, he's a fine fellow, he's employed by the Congress at Paris: I believe Benjamin Franklin is also employed there on the same account." `[At the mention of Deane's name, the prisoner checked the witness, and said, "Beware of perjury; take care what you say of Mr. Deane; there's a righteous God above, who deals out righteous judgements, and in whose presence we are at this moment."]` That the prisoner asked him what countryman he was; that he replied, a Welchman; that the prisoner said he saw clearly he was nevertheless in the interest of America, and was an American by principle; that he therefore talked to him very freely, saying, that he knew General Washington; that he was much abler than General Howe; that the former would perplex and harrass the latter during the winter, but the grand campaign was to be in the summer; that America would certainly be victorious; that she had plenty of pitch, tar, and turpentine, and that the back country would furnish stores; and that all her army wanted was a few officers, and that France would supply them. On the 15th of February the witness declared that the prisoner fully revealed his criminality, telling him that he had been to Paris to silas Deane, and had carried him an account of the several garrisons in this kingdom, their prefec?t state, the number of guns and men at each, and also an account of the quantity of shipping in the service of the navy, their tonnage, guns, &c. That silas Deane much applauded his zeal; that he then proposed to him the important scheme of setting fire to the Dock-yards, and offered to return and execute it; that Deane was amazed, and thought it too great matter to be carried into execution one man; that he said he could execute more than either he or any person on the face of the earth, could imagine; that Deane asked him what money he'd have; that he replied, not much, he only desired to be rewarded according to his merit. That Deane gave him a letter on the great man in the city, a merchant, with bills drawn on the same merchant to the amount of 300*l.*. That he in consequence came over to England, and at Canterbury applied to a tinman to make him a machine of his own contriving, somewhat like a cannister, and stood by him whilst he finished what he wanted; that he put it under the breast of his coat, and went to an alehouse, where he was interrupted by two dragoons, and had an affray with them; that he got the wooden part of the cannister also made at Canterbury, and that it fitted so close that no person could see a light was in it, after it was shut in; that he ordered two more of the same kind of cannisters to be made at another tinman's, but that he left them behind him, they not being finished in time; that he made the best of his way to Portsmouth, and there hired a lodging at the house of Mrs. Boxell; that he instantly set about his preparations; that his mode of making matches was to fold paper double, and cut it into slips; that after grinding charcoal on painter's colour-stone, quite fine, and breaking gunpowder with a knife, as painters do vermillion, to mix the two in clear water till it came to the consistency of new milk, and then to cover the matches with it; that when so prepared, they would last, according to their length, any given time after they were alight. That Mrs. Boxell was an imprudent woman, for that she had opened his bundle in his absence, and that she had come and seen him at work, and being alarmed, had obliged him to quit her lodgings. That Friday he had got into the hemp-house, and found the hemp so closely packed, that it took him a considerable time to loosen it; that he pulled off his coat to do it, and sprinkled a quantity of turpentine all about the hemp, laying also trains of gunpowder upon the floor, and lightly throwing hemp over them. That he had some difficulty to find his coat, and after he had found it, he perceived a good deal of hemp upon it, which he took off; that when he attempted to go out, he found the door fastened; that he pulled off his shoes, and got up in the loft, hoping to get out that way, but that he found it impracticable; that he then returned below, and hearing a person at one of the doors, he cried halloa! and was asked what he did there; That he replied, that he went in from motives of curiosity, and was locked in; that the person at first said he must stay there all night, but at length he was let out; that he found his matches would not do, that he bought a halfpennyworth of others, of a woman who lived on Common; that on Saturday morning he took two lodgings on Common, and picked such houses as had most wood in them, intending to set them on fire, that the engines might be employed in extinguishing them while the Dock-yard was burning. That on Saturday got into the Rope-house again, and renewed his labour there, cutting his matches into short pieces; that he wasted a whole box of tinder in trying to make his matches light, and almost burnt his lips in blowing the sparks; that he was so vexed at the last matches not succeeding, that he was almost ready to fire in at the windows of the woman he bought them of; that after firing the Rope-House, and burning the letter to the merchant in London, and the bills for 300l. for fear Mrs. Boxell's having opened his bundle should lead to a discovery of him, he set off to escape, and, as he was running along the road, overtook a market-woman's cart; that got up in it, and begged the woman to drive fast, wanting to get by the centinels, who are posted four miles round Portsmouth; that the woman drove pretty briskly, but had occasion to stop to purchase something; that he begged she would not, but that she said she must, and would not stay; that when she stopped, what she bought came to a shilling, that he got out of the cart, threw down 6d and made the best of his way towards London; that after going some way, he turned round and saw the flames of the rope-house, and that it appeared as if the element itself was on fire. That he walked all night, and two dogs barking at him, fired a pistol at one of them, that he believes he either killed or wounded him; that he reached Kingston about ten in the morning, staid there till evening, when he went to town in the stage, and on his arrival called on the merchant for whom the letter had been directed; that he informed that he came from Paris, and what had passed between him and silas Deane, and mentioned the bills; that the merchant received him very coldly, and said he had no advices from Paris which adverted to the matter; that he then told him, he had fired the Dock-yard at Portsmouth, as he would see by the Monday's newspapers; that after this he accompanied the merchant to a coffee-house, and observing a person there eye him in a very particular manner, he went away, and walked to Hamersmith; that he was exceedingly vexed at the merchant's reception of him, and wrote him a letter that night, in which he told him he was going Bristol, where he would soon hear of his *handy works*; that he went accordingly; [Here, upon a volunteer motion of a Counsel who sat at the table, the Counsel objected to the witness being examined as to the circumstance which happened at Bristol, the facts there not being in question before the Court. It was agreed by the Counsel for the Crown to go[?] no further into the matter, than just as far as was necessary to confirm the truth of Baldwin's testimony by the assistance of collateral proofs; he was therefore suffered to go on, and he further said] that the prisoner told him, that on his arrival there he applied to a painter in or near Bristol, and borrowed his colour-stone to ground some charcoal upon. The witness added, that the prisoner lamented much having left his bundle [at?] Portsmouth, and said it contained and English Justin, Ovid's Metamorphoses, and the Art of War and of making Fireworks, according the manner practiced last war by the military of the King of France, with a French passport, a pistol, a pair of buckles, a piece of an old shirt, &c. But what grieved him most was the passport's being there, as it contained his real name; it was some comfort it was in French, and probably those who found it would not be able to read it. The witness concluded with declaring, that he had parted to Lord Temple and Lord George G[??]maine all that the prisoner had told him.
 
 The Prisoner having several times offered to object to particular parts of Baldwin's testimony, the Judge, as soon as it was ended, told him it was then his time to offer his cross examine. He declared he could not tell what passages to object, unless he heard the [?] again. The Judge, therefore, very distinctly [?] recited the whole from his notes, which were exceedingly accurate; the prisoner, instead of objecting, barely remarked on the little de[??] of credit due to Baldwin; he was therefore [?] the Court, that had better reserve his observations till he made his defence. The [?] then went on, and
 
@@ -633,32 +575,33 @@ The trial lasted near seven hours, and during the whole time the prisoner seemed
 
 The regular and exact manner in which the witnesses were called upon, and the compact form in which the evidence was adduced, did Mr. Dyson, the solicitor to the Admiralty, and sir John Fielding (by the industry of the first of whom, and by the advice of the second, the whole business of this important national prosecution was conducted) infinite credit.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000071/17770315/070/0004
-Ipswich Journal - Saturday 15 March 1777
+```
+
+```{admonition} Another long report, March 1777
+:class: dropdown
+
+In *Ipswich Journal*, [Saturday 15 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000071/17770315/070/0004).
 
 [another long report]
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17770315/008/0002
-Caledonian Mercury - Saturday 15 March 1777
+```
 
-*Extract of a letter from Portsmouth, dated yesterday, one o'clock.*
+To meet popular demand, special edition reports of the trial were rapidly printed.
 
-John the Painter ss this instant executed on a gallows sited on purpose, opposite the Dock-gates. He was drawn in a cart from Portsmouth, had round the Dock-yard, and particularly round the ruins of fire. It is said he made a full confession of his whole life. A gibbet is fixed at Brockhouse foot, where he will be carried this afternoon, and hanged in chains."
+```{admonition} The authentic trial of James Hill, March 1777
+:class: dropdown
 
-We have just received from another correspondent at Portsmouth the following intelligence: before the execution of John the Painter, he was drawn in a cart, pinioned, round the dockyard; on his passing the house of Mr Gambier, he desired to speak with him; on the Commissioner's coming to him, he expressed a penitence for his crime, acknowledged the justness of his sentence, and advised him to be particularly cautious who was admitted in the docks, as he had reason to think other attempts would be made. "I intended (added he) to have given a stab in the side, but it las only been a slight scratch in the hand." He also remarked, of all the docks, Plymouth was the most easy to carry such attempts into execution. He desired his intelligence might be given to the Lords of the Admiralty, and concluded, "I have been a very wicked fellow, but H hope, through the merits of Christ, to be forgiven." He was executed on a gibbet fifty feet high, in view of all the shipping.— The gaoler says he has given a more ample account to him.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770324/013/0004
-Hampshire Chronicle - Monday 24 March 1777
+In *Hampshire Chronicle*, [Monday 24 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770324/013/0004).
 
 FIRE AT PORTSMOUTH
 
-*This day is published, by Authority,  price ??*
+*This day is published, by Authority,  price 1s.*
 
 THE authentic TRIAL of JAMES HILL, alias JOHN the PAINTER, for firing his Majesty's stores at Portsmouth; containing the arguments verbatim, examination of evidence, the charge to the jury, and sentence of death.
 
 The whole the above genuine trial was taken in short hand by the accurate Mr. W. Blanchard, of Dean-street.
 
-Printed for J. Wenman, No. 144, Fleet-street, London; and sold by Linden and Hodson, southampton; J. Hodson, salisbury; and may be had of the Newsmen.
+Printed for J. Wenman, No. 144, Fleet-street, London; and sold by Linden and Hodson, Southampton; J. Hodson, Salisbury; and may be had of the Newsmen.
 
 N.B. As there are various publications of this trial, be careful ask for that printed for Wenman, it being quite correct.
 
@@ -666,18 +609,190 @@ ALSO,
 By AUTHORITY of the COURT,  
 *in a few days will published,*
 
-THE EVIDENCE verbatim, with the Arguments of the Counsel, and of the Court, on the TRIAL of JAMEs HILL, alias JAMEs HIND, alias JOHN the PAINTER, for wilfully and maliciously setting fire to the Rope-house in his Majesty's Dock-yard at Portsmouth; before the Hon. sir William Henry Ashurst, and sir Beaumont Hotham, the Assize at Winchester, on Thursday the 6th inst. Taken in short hand by Joseph Gurney.
+THE EVIDENCE verbatim, with the Arguments of the Counsel, and of the Court, on the TRIAL of JAMES HILL, alias JAMES HIND, alias JOHN the PAINTER, for wilfully and maliciously setting fire to the Rope-house in his Majesty's Dock-yard at Portsmouth; before the Hon. sir William Henry Ashurst, and sir Beaumont Hotham, the Assize at Winchester, on Thursday the 6th inst. Taken in short hand by Joseph Gurney.
 
 Printed for G. Kearsly, at No, 46, near serjeant's Inn, Fleet-street, London and sold by Linden and Hodson, southampton; J. Hodson, salisbury; Mrs. Whiting, Romsey; by the persons mentioned at the bottom of this paper, and the Newsmen.
 
+```
+
+```{admonition} Drawn in a cart, March 1777
+:class: dropdown
+
+In *Caledonian Mercury*, [Saturday 15 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17770315/008/0002).
+
+*Extract of a letter from Portsmouth, dated yesterday, one o'clock.*
+
+John the Painter was this instant executed on a gallows sited on purpose, opposite the Dock-gates. He was drawn in a cart from Portsmouth, had round the Dock-yard, and particularly round the ruins of fire. It is said he made a full confession of his whole life. A gibbet is fixed at Brockhouse foot, where he will be carried this afternoon, and hanged in chains."
+
+...
+
+```
+
+```{admonition} A Letter from Portsmouth, March 1777
+:class: dropdown
+
+In *Derby Mercury*, [Friday 14 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17770307/016/0004).
+
+*Extract of a Letter from Portsmouth, March 10.*
+
+"This Day, at eight Minutes before One o'Clock, John the Painter, as he is called, who was tried at Winchester last Thursday, and convicted of having set Fire to his Majesty's Rope-House in this Dock-Yard, was hanged near the Hardway on the Common, on a Gallows near 60 Feet high, which I believe is the highest ever erected in England, being the mizen Mast of the Arethusa Man of War; and after hanging the usual Time, was lowered down, and put into Irons, and afterwards carried over to Blockhouse Point, where he was hung up on a new Gibbet, created for this Purpose, pursuant to his sentence, amidst a vast Concourse of People, who assembled on the Occasion.
+
+"He was brought in a Coach from Winchester to the common Gaol, and from thence to the Dock, drawn in a Cart round the Buildings which he set on Fire, and from thence to the Place of Execution. He made a long speech, but what he said I have not as yet heard."
+
+We have just received from another Correspondent at Portsmouth the following Intelligence: Before the Execution of John the Painter, he was drawn in a Cart, pinioned, round the Dock-Yard; on his passing the House of Mr. Gambier, he desired to speak with him; on the Commissioner's coming to him, he expressed a Penitence for his Crime, acknowledged the Justness of his sentence, and advised him to be particularly cautious who was admitted into the Docks, as he had Reason to think other Attempts would be made. "I intended (added he) to have given a stab in the side, but it has only been a slight scratch in the Hand." He also remarked, of all the Docks, Plymouth was the most easy to carry such attempts into Execution. He desired this Intelligence might be given to the Lords of the Admiralty, and concluded, "I have been a very wicked Fellow, but hope, through the Merits of Christ to be forgiven." He was executed on a Gibbet fifty Feet high, in view of all the shipping. — The Gaoler says he has given a more ample Account to him.
 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770317/005/0003
-Hampshire Chronicle - Monday 17 March 1777
+```
 
-Confession of John the Painter.
+The gibbet was to remain at Blockhouse Point, as a warning, for several years.
 
-TO DO - see if it differs to below
+```{admonition} An American plot to take a British vessel, June 1779
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 28 June 1779](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17790628/004/0003).
+
+HOME NEWS. PORTSMOUTH, Saturday, June 26. 
+
+...
+
+We had a very hot press on Wednesday night: 300 men were taken at this port.
+
+On Tuesday was executed on board the Culloden man of war in the harbour, one Murphy an American, who was taken into the service at New-York, and on account of his abilities as a good seaman was some time afterwards promoted to the rank of midshipman. When the was her passage home, he formed a plot with several of the ships crew, to murder the Captain and the officers, and run the ship into the American service, which plot was just going to be put in execution, when the whole was discovered by a servant, who was one of the conspirators. Since the ship has been in harbour, and while under sentence of death, he found means to get off his irons, and made his escape through one of the port holes, and attempted to swim on shore; but his heart failed him when he had got a little way from the ship, so that he returned again to the place of confinement undiscovered.— Before he was executed, he said he had only one regret, which was, that he had not set the on fire, after he found he could not run away with her. He was buried directly under the gibbet of John the Painter at Blockhouse Point.
+
+```
+
+```{admonition} Buried under John the Painter's gibbet, July 1779
+:class: dropdown
+
+In *Newcastle Courant*, [Saturday 03 July 1779](https://britishnewspaperarchive.co.uk/viewer/bl/0000085/17790703/004/0002).
+
+*Portsmouth, June 22.* This morning Murphey, the midshipman, was executed on board his majesty's ship the Culloden, agreeable to the sentence of a Court-martial for mutiny board the said ship. He made a short speech to the sailors, advising them never to attempt to turn against their King and country. He was buried under the gibbet where John the Painter hangs in chains.
+
+```
+
+Several years later, the gibbet cage was still there.
+
+```{admonition} Near the shore, a gibbet, 1787
+:class: dropdown
+
+Thomas Pennant, *Journey From London To The Isle Of Wight*,  Vol. 2, 1801, [p146-7](https://archive.org/details/in.ernet.dli.2015.43052/page/n181/mode/2up).
+
+`[The tour was made in 1787]`
+
+From Gosport we passed to the vast hospital at *Haslar*, a little to the west, lying on the side of the narrow bay to the east; *Alverstoke* stands on the head of this water. Near the shore, suspended on a gibbet, were the remains of John the Painter. The hospital is a vast plain building, or rather several ranges of buildings, capable of receiving between two and three thousand patients; but at this time had no more than one hundred and fifty. The date is 1762; but the ground was bought by Government in 1745.
+
+```
+
+Just over a century later, human remains were found at the site that were claimed to be John the Painter's.
+
+```{admonition} SUpposed Discovery of Jack the Painter's Remains
+In *Hampshire Telegraph*, [Saturday 22 November 1884](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18841122/021/0005).
+
+SUPPOSED. DISCOVERY OF JACK THE PAINTER'S REMAINS.
+
+What appears to be an interesting discovery was en Wednesday made at Blockhouse Fort, while the Royal Engineers stationed there were at their annual practice in field works. It seems that one of the men, while excavating en the north side of the fort, just outside the wall, came upon a quantity of human bones. This occurrence was reported to Major Bucknell, who is in command at the fort, and he ordered the bones to be collected and temporarily covered over with earth, while awaitingr orders from the officer commanding the Royal Engineers as to their ultimate disposal. The interest which attaches to the discovery arises from the fact that the bones are supposed to be the remains of John Aitkin, generally known as "Jack the Painter," whoa in 1776 set fire to the store-house in Portsmouth Dock-yard, and who was executed and subsequently hung in chains on Blockhouse Beach. In accordance with instructions received Miajor Bucknell this morning communicated the facts of the discovery to Mr. Edgar Goble, the County Coroner, and it is considered probable that an inquest will be held on the remains. Meanwhile they have been placed in a small deal box and deposited in the store-room at the fort. The spot where the bones were discovered is situated almost exactly opposite the Round Tower at Portsmouth, and it is said that near here a gibbet projected from the wall some years ago. The remains were about 4ft. below the surface, and did not seem to have been enclosed in a coffin or box. They were just clear of the foundation of the wall of the fort. On being pieced together, it was found that they formed a tolerably perfect skeleton, although the skull and both armus were missing. The hones are evidently very old, and appear to have been in the ground many years. Major Bucknell proposes to have further excavations made on Monday near the spot where they were foond, in order to find any more bones that may be there. It is stated that some years ago a woman found a human skull on the beach in the vicinity, and handed it ever to one of the Medical Officers at Haslar Naval Hospital. The generally received history of the circumstances which have made the memory of "Jack the Painter" famouS is that on December 7th, 1770, the destruction of the rope-house in Portsmouth Dockyard was effected by incendiarism, and John Aitken was found to be the culprit. The origin of the fire was not discovered until the following January, when a hollow piece of wood, which had been filled with combustibles and covered with a perforated tin plate, and the contents of which had evidently been fired by a fuse, was discovered under come hemp, and this led to the apprehension of the incendiary. He was taken to Winchester for trial, and having been found guilty was brought back to Portsmouth, and taken through the Dockyard, where he was shown the mischief he had caused. On the 10th of March, 1777, he was executed ou a gibbet 64 1/2 feel high (formed from the mizen-mast of the Arethusa), erected outside the Dockyard Gates. Towards the end he acknowledged the justice of his sentence and professed contrition, while he advised the Government to be more vigilant. The damage done by the fire was e estimated at 60,000*l*. After the execution the body was hung in chains on Blockhouse Beach, and it has been stated that some years later the skeleton was taken down by some sailors, who placed it in a sack, and left it in the chimney corner of a Gosport public-house. It seems more probable, however, that the remains were buried beneath the gibbet on which they had so long been suspended. The materials a with which the culprit was supposed to have set fire to the store-house consisted of a powder-flask, gimlet, pistol, and bottle of turpentine. They were purchased from the widow of the constable who apprehended him by Captain Bagnold, who presented them to the U.S. Museum, with an autograph letter erom Sir John Fielding, relating to the capture of the offender.
+```
+
+## Confessions of John the Painter
+
+```{admonition} Anecdote of John the Painter, March 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 17 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770317/005/0003).
+
+ANECDOTE of JOHN THE PAINTER.
+
+About half a year ago, John the Painter worked with Mr. Smith, glazier and painter, at Hungerford, where, having a set of chairs to paint, he did his work so slowly, that Mr. Smith reproved him for his indolence, which so irritated him, that the same night he broke open a bureau of his master's and took out four guineas, with which he made off. Mr. Smith suspected he was the same person who worked for him when he heard of his being at Winchester for trial, went thither, just in time enough to see him brought back to prison after his condemnation. Mr. Smith stepped from the crowd, and touching the prisoner on the shoulder, asked him if he knew him? He seemed surprized, and said, he knew him very well, and begged him to come into the prison with him, where he asked his pardon for robbing him, and told him he did it more out of revenge for the affair of the chairs than for want, but hoped that God and he would forgive him. He seemed not all affected with his fate or with the guilt of the fact for which he was condemned; but he complained of unfair treatment in having treacherous fellows sent to visit him, to sift him before his trial; and said, they could not have convicted him, had not such *inquisitorial* proceedings been made use of. He was calm in his mind, that he recollected owing a young man sixpence at Hungerford, which he requested Mr. Smith to take and pay for him; and seemed exceedingly happy being seen and forgiven by his old master.
+
+```
+
+Following the trial, several accounts would appear of the trial, as well as accounts claiming to provide the history of the man himself. The following accounts are all available on `archive.org`:
+
+- *The life of James Aitken, commonly called John the Painter, an incendiary, who was tried at the castle of Winchester, on Thursday the 7th day of March, 1777, and convicted of setting fire to His Majesty's dock-yard, at Portsmouth ... taken down from James Aitken*, [1777](https://archive.org/details/bim_eighteenth-century_the-life-of-james-aitken_aitken-james_1777_0).
+- *The whole trial of John the Painter, for setting fire to the rope-house at Portsmouth, which came on at the assizes held at Winchester, on Thursday last, the 6th of March, 1777*. [1777](https://archive.org/details/bim_eighteenth-century_the-whole-trial-of-john-_aitken-james_1777).
+- *The trial at large of James Hill, otherwise James Hind, otherwise James Aitken, commonly known by the name of John the Painter, who was tried and convicted at the assizes held at Winchester, on Thursday March 6, 1777, ... for setting fire to the rope-house in His Majesty's dock-yard at Portsmouth, ... together with the confession ... also the particulars of his life*, [1777](https://archive.org/details/bim_eighteenth-century_the-trial-at-large-of-ja_aitken-james_1777/mode/1up).
+
+The authorship of many of the accounts, and the words ascribed to John the Painter. Are surely moot. The following manifesto, for example, in which the author presents himself as, first and foremost, an American.
+
+```{admonition} A short account of the motives, 1777
+:class: dropdown
+
+James Aitken, *A short account of the motives which determined the man, called John the Painter; and a justification of his conduct; written by himself, and sent to his friend, Mr. A. Tomkins, with a request to publish it after his execution*, [1777](https://archive.org/details/bim_eighteenth-century_a-short-account-of-the-m_aitken-james_1777).
+
+A SHORT ACCOUNT, &c.
+
+Was born to no fortune. My parents, who were honeſt, induſtrious tradesfolk, did not however ſuffer me grow up without ſome education. The maſter of a neighbouring country ſchool taught me to read and write, and my own inclination led me to ſtudy all the books which fell in my way, and were not above my comprehenſion.
+
+I thought it neceſſary to mention this much, to pret any ſurprize in the learned reader, who will find in few following pages ſome marks of hiſtorical and er reading The reaſoning he will meet is ſuch as man in ſuch circumſtances as mine muſt have uſed to give him courage enough to undertake. the boldeſt attempt that has been made for many years.
+
+And before I enter upon the motives which determined me to this great action, I would beg the people of England, to lay down their prejudices for a moment. My blood is ſome attonement for my crime, if it was one. If not, (and I hope I ſhall be able to ſhew it was not) though the Courts of Law have condemned my body to death, the people ought not to paſs a like ſentence on my fame.
+
+Being born an American, I conſidered America and England, whilſt they were united, as my native country; and from the time I firſt began to think the love of my country was my ruling paſſion, I would have run any riſque, faced any danger, to do my country a ſervice. Had there been a war between England and France upon juſt grounds, I am perſuaded I would as ſoon, nay ſooner, have entered Breſt and Toulon, to do our natural enemies a miſchief, than I did Portſmouth to burn the Dock; and that I would on ſuch an occaſion as little dread the *French* wheel as before my trial I feared the *Engliſh* gallows.
+
+And in this ſpirit of ſerving my country, all the good books I ever read confirmed me. To be accounted an hero after one's death, ſeemed to me to be better than to wear a crown during one's life. For as the wiſe man ſaith, "The things of this world paſs away quickly."  What ſignifies worldly grandeur, when ſuch vile men as Nero, and Domitian, and Caligula, in old Rome, or as Henry the 8th, or James the 1ſt, or Richard the 3d, of England, wore purple garments, and were called Kings and Emperors? Who would not rather be old Codrus, or Cato, or ſuch a man as our Mr. Sydney, who bled upon Tower-hill for defending Liberty and the Proteſtant Religion, than any one of that naſty groupe? To be ſure the Kings ſlept upon ſofter beds, and fed upon richer neats, and drunk better wine, and more of it, than the Patriots, but then mankind do not look up to them now, andbleſs them, as their guardians and benefactors.
+
+So that a good name appeared to me to be better an riches. To get this good name in a very high degree I thought we muſt render ſome very great ſervice to our country. No opportunity offered till the breaking out of the war between *America* and *England*.
+
+Before I bound myſelf to either ſide, I endeavoured to examine (as the merry Mr. Stephens begs us) both ſides of the queſtion, I thought it hard of the government here to tax the Americans (my countrymen) without their conſent, particularly as they did not refuſe to tax themſelves. I thought it ſtill harder, inſtead of hearth money collectors, exciſe and cuſtom-houſe officers, and the other people who gather government money, that ſoldiers ſhould be ſent acroſs, to turn their pockets inſide out, and ſhake all the money there into the —--s. And what was ſtill the hardeſt of all, government ſhut up their harbours, took away their fiſheries, and ſent twenty or forty thouſand innocent people to beg or ſtarve.
+
+As my countrymen were Engliſhmen in every ſenſe of the word, they reſolved to loſe all their blood ſooner than any of their liberties. They took up arms. And they were on the right ſide, and had Justice with them. I declared for the liberties of the Colonies, and determined to die free, ſooner than live a ſlave.
+
+As ſoon as the armies on both ſides came to action, and I ſaw the havock of my countrymen, my blood boiled within me. Poor Jack Turner, who was both good and charitable, who had married a wife he loved, and had five young children, I ſaw him with his ſkull broken, and his brains knocked out with a Heſſian muſquet.
+
+To mention all I ſaw, to reckon up all the brave men who periſhed on both ſides, would make any good Chriſtian's heart ache. God forgive the men who begun this war, and begin every war without good reaſon! To ſee the poor people flying from the coaſt to the back ſettlements, and turning every now and then to ſee their houſes in a flame, to ſee the ſteeples and churches, the market-place, the ſquares and ſtreets of the cities they dwelt ſo long in, ſet on fire by the ſoldiers, and blazing at once up to Heaven — I ſay again, God forgive thoſe who can deal ſo inhumanly with their fellow creatures!
+
+I conſeſs I was not at that time ſo charitable in my wiſhes for the enemies of America. Our ſufferings enraged me. I determined to do ſome notable action, that would ſhew how much I loved my country. I even then determined, as the force of England conſiſts chiefly in their ſhipping, to ſtrike them to the very heart, by burning the ſtores at Portſmouth.
+
+How I miſcarried in my attempt — how I was tried for it, and was convicted of it, would be needleſs to mention here, as the public papers have already ſpread the account through *England*, *Ireland*, *Scotland*, and *America*.
+
+9 It is natural for the people here to condemn the action; but not more juſt than in the followers of *Porſenna*, King of ſome little territory in *Italy*, to blame the gallant Roman who entered *Porſenna*'s camp in diſguiſe with an intention of aſſaſſinating him. Our motives were the ſame. He attacked the King, who was an enemy to *Rome*. I attempted to burn the magazine, that would be ruinous to *America*. Love of country was the motive of both; of me, *John Moxam*; of him, *Mutius Scavola*. And they who approve the act of that great minded Roman, cannot, without inconſiſtency, condemn mine.
+
+It is certain to any one who conſiders without prejudice, that my motives muſt be as pure, and my reſolution as fixed and heroic, as thoſe of any of the great men of antiquity. *Curtius*, who rode down the gulph, did not go to more certain deſtruction than I. *Codrus*, who provoked the enemy's centinel to ſtab him, did not court deſtruction more ſurely. They were victims offered up for their country's good — noble ones indeed! and ſo was I. But with this difference.
+
+When *Curtius* entered the gulph, a crowd of Romans ſtood on the brink of the precipice, applauding the ſpirit of the young hero, and panting for a ſhare in his glory. How muſt his heart have ſwelled with honeſt pride to contemplate his great ſuperiority over ſuch a nation as the Roman! and to conſider, if he had time in that moment of ſelf-congratulation, that he would be propoſed, as model of generous patriotiſm, not only to the youth of his own country, but to men of all ranks in all quarters of the world!
+
+This was a reward I had not. No one ſtood by to applaud my act. I was in the country of an enemy. The people of this country too heated againſt me and my countrymen. No favour, no affection, either to the part performed, or the principles upon which I acted. On the contrary, I muſt be eſteemed and puniſhed as a criminal by the laws of this country. The people would abhor me for an attempt to injure their navy. I had no place to look for comfort but in my own heart. That  danger, for the ſake of advancing the freedom of my country, and checking the power that would take our liberties from us.
+
+I would be extremely concerned to commit any thing raſhly, which had not a foundation of juſtice. If the Miniſtry here burned our harbours, we could not be wrong in doing an harm to theirs. If they burned our towns, and ſlaughtered our people, we had an equal right to burn their cities, and ſlaughter their inhabitants. Whatever injury they offered the Continent, we had a right to retaliate on Great Britain.
+
+I know ave are many who will make a fooliſh diſtinction between the act of armies, and of a ſingle man, as one. They will ſay it was baſe and treacherous to come into their country privily, with an intention of doing it an Injury; and a great deal more of the ſame kind.
+
+To thioſe I will anſwer, that the world has judged ways wrongly in this point. Do beating drums, and flying colours, purge a band of robbers and murderers of all guilt? Does it ſignify as to the nature of the crime, whether he who commits it wears a red coat or a brown? Whether he holds a painter's bruſh in his hand, or a general's truncheon? An army may be called an army; but if this army fights in an *unjuſt* cauſe, cuts the throats, plunders the houſes of a people, every man in this army who aſſiſts in this *unjuſt* cauſe, is not more or leſs than a murderer and a robber. A *reaſonable Judge*, with ſufficient power, would hang up every man of them.
+
+As to my coming privily into the country, it ſhews that our ſide cannot do things openly and above board, as the Miniſtry do. Why can they not? Becauſe they are not ſtrong enough. Their weakneſs ſhews very evidently I think that they would not give the firſt ſtroke in this war, (Anglici rebellion) but that they were boxed and provoked before they would venture to return the blow. Now they did not give the firſt blow, and were not ſtrong enough to reſent it in the field, what were they to do? Were they to ſit quiet and ſay, "Do, gentlemen, demoliſh our towns, burn or take our ſhips, kill our people, ſeize our grounds, and do with us what you pleaſe. We cannot meet you *fairly* in the field, and we will take no other method of redreſſing ourselves."
+
+If a robber broke into my houſe, with an intent to plunder it, and kill all my family, would I make it a point of honour to call this robber out as a gentleman? Would I, when I knew him to be a much ſtronger man, better armed, and more expert in the management of his weapons, give him a *fair* chance? I ſhould be thought a madman if I did not take any advantage of him; if I did not ſtab him in the dark, when an opportunity preſented itſelf.
+
+And now, when America is invaded, as it appears to me, (and to many of *the greateft men in England* beſides me) unjuſtly, are we, becauſe our armies are not ſo large, nor so well armed or diſciplined as the English, and their clean-handed friends the *Heſſians*---are we, I ſay, to ſit down, and suffer our throats to be cut tamely, Every American, who believes his cauſe to be a juſt one, ought to exert himſelf in whatever way he can be ſerviceable to his country. If in the field, let him carry arms; if not let him light a torch. His enemies ſurround him. If he cannot deſtroy them by open force, he muſt by ſtratagem.
+
+And now, ſince this world is almoſt paſt, and another approaches, may I be received according to deſerts. I have meant honeſtly, and acted in my own apprehenſion gloriouſly. If my heart acquits me, I value at very little the verdict of a jury. My generous countrymen will weep blood over me. My name will be famous in their annals to all eternity. My ſoul will be ſhortly in the hand of him who made it. Let the executors of the law wreak what vengeance they pleaſe on my body, I am ſatisfied in my own conſcience, and in that perſuaſion leave the world whenever it ſhall pleaſe God to call me out of it. May he be merciful to me! as my intentions were upright.
+
+*Amen.*
+
+Thus I hope I have anſwered people who would have found no fault in me, had I fought in America, and died a common ſoldier. But they think it monſtrous, and riſible, and I do not know what, to attempt to burn oy Dock at Portſmouth, not conſidering how many docks, and towns, and ſhips of ours, have been burned by their ſoldiers in America.
+
+The more I think upon what I have done, the better am I pleaſed. I die, as the greateſt men have died, in attempting, without ſucceſs, to ſerve my country. My death gives me very little trouble. Life is at beſt but ſhort. A fit of the gravel, a fever, a fall from an horſe, the moſt vulgar diſorder, the moſt common accident, may end it. Beſide, what was life to ſuch a man as me, without ſomething to diſtinguish it?
+
+The gentleman of the Houſe of Commons, who thinks he does wonders when he raiſes the price of his conſcience a few pounds more than he could in reaſon expect for it, may laugh at me for ſuch notions. So no doubt will the merchant, who ſpends his whole life in cheating and over-reaching, not in ſerving and benefiting the country to which he belongs. I do not care a rum for the opinions of ſuch men. Let the courtier go on and lick up the ſpittle of the Miniſter or his uncerlings. Let the rich Alderman doze over his accounts in the morning, and his turtle at night. I would rather die on the gallows for ſuch a crime, (as it will perhaps be called) than live like ſuch poor creatures, to die at laſt of a p?? or a ſurfeit.
+
+The people of England may perhaps condemn my action as a very vile one. The Americans will extol it as very noble. I may be curſed here as a very bold, infamous fellow. There I ſhall be ſung about through the towns and villages, as a martyr to my country. Here I may be gibbeted and frighten crows; there a grateful people will erect ſtatues to their PATRIOT, and remember my name with honour. I do not value the reproaches of the people here, becauſe they are the reproaches of a people ſliding into -------; I would wiſh to have the praiſes of the Americans, becauſe they love freedom.
+
+Beſide, if people find fault with the TREACHERY, as I know ſome will, let them conſider that treachery and underhand dealing did not begin on our ſide; let them reember a certain LORD who acted the firſt deceit practiſed on either fide; him I mean who forged the notes of the Congreſs. His treachery was as great, nay greater, than mine, as I can prove very clearly.
+
+For what could I burn at Portſmouth, which ſome caſh could not repair? Had I forged a draught or draughts on the Bank of England to the amount of the ſtores in Portſmouth, the loſs to the nation muſt be as great as if thoſe ſtores were burned. I do not know, upon a nice calculation, whether it would not be greater.
+
+But the right honourable and the right honeſt Lord who forged the paper money of America, might have held on his hand to the higheſt amount, if he had not been detected in time. The loſs to America muſt have been greater, as they are more poor and more unprovided than the Engliſh in all things. The forgery was more baſe and more cowardly than the attempt to fire the Docks. He ran no riſque. But the burning of Portſmouth could not be done without the greateſt danger.
+
+But if, inſtead of burning Portſmouth, we were at war with France, and I had ſet fire to the magazines at Breſt, what a glorious fellow people would think me! There is not a porter or punch houſe in London where my health would not be toaſted. Brave John the Painter would be the word! and all England would ring with it.
+
+Now that I have attempted to ſerve my country truly, and after the example of the greateſt men in hiſtory, a few of whom I have mentioned, and many more I could mention, the *Engliſh* will curſe me as a traitor. So should the *Puritans* have curſed Colonel Rumſey (I think that's his name) if he had attempted to aſſinate *Oliver Cromwell*; and ſo would the *Etrurians* haved curſed *Scaevola* if he had ſucceeded in killing their King *Porſenna*. Why? Becauſe Cromwell was a convenience to his party -*Porſenna* to his kingdom. But REASON, that has nothing to win or loſe, will ſpeak without prejudice, and ſay, that the acts of thoſe two men were heroic. Why? Becauſe the attempt was made in favour of their country. This ſame REASON will likewiſe ſay, that my attmpt, however diſagreeable and inconvenient to the *Engliſh*, will ſhine as much as either in hiſtory. The *Engliſh* cannot be impartial judges of my conduct. Their intereſt is a ſtumbling block to their reaſon. They ſtand in the ſame point of view as the Puritans and the *Etrurians* above-mentioned.
+
+```
+
+```{admonition} Confession of John the Painter, March 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 17 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770317/005/0003).
 
 Confession of JOHN the PAINTER
 
@@ -720,10 +835,14 @@ We have authority to assure the public, that the gentleman to whom John the Pain
 
 It would doubtless be unpleasing to any person of decent character, to be brought into public view as connected with a matter df this nature; and we therefore omit the name of the gentleman in question; to mention it, would only gratify an idle, and, in this case, a culpable curiosity. It may suffice, that he is known to the King's Ministers, and that even in their judgment his conduct has been blameless.
 
-*[The trial at large of the above-mentioned James Hill, is this day published by J. Wilkes in Winchester, price sixpence, illustrated with a plate of the cannister, and containing the whole of his confession after condemnation. Sold by Linden and Hodsen in Southampton, by all other booksellers, and may be had of the newsmen.*
+*[The trial at large of the above-mentioned James Hill, is this day published by J. Wilkes in Winchester, price sixpence, illustrated with a plate of the cannister, and containing the whole of his confession after condemnation. Sold by Linden and Hodsen in Southampton, by all other booksellers, and may be had of the newsmen.]*
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770324/007/0004
-Hampshire Chronicle - Monday 24 March 1777
+```
+
+```{admonition} A genuine confession, March 1777
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 24 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770324/007/0004).
 
 The following is the GENUINE CONFESSION OF JOHN the PAINTER.
 
@@ -789,189 +908,18 @@ I likewise committed a burglary the house of Mr. Newman, glazier in Romsey, and 
 
 Besides these I have committed great number of crimes of a more petty nature (that may less concern the general world both now and in my unhappy life) but I beg forgiveness of all the world as they would wish to be forgiven of God. And I for my part freely forgive all mankind, none excepted, even as I wish myself to be forgiven of God.
 
+```
 
----
+```{admonition} A summary account of John the Painter, March 1777
+:class: dropdown
 
-Re below: date in BNA wrong - listed as March 7 but is actually From March 7 to March 14
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17770307/016/0004
-Derby Mercury - Friday 14 March 1777
-
-*Extract of a Letter from Portsmouth, March 10.*
-
-"This Day, at eight Minutes before One o'Clock, John the Painter, as he is called, who was tried at Winchester last Thursday, and convicted of having set Fire to his Majesty's Rope-House in this Dock-Yard, was hanged near the Hardway on the Common, on a Gallows near 60 Feet high, which I believe is the highest ever erected in England, being the mizen Mast of the Arethusa Man of War; and after hanging the usual Time, was lowered down, and put into Irons, and afterwards carried over to Blockhouse Point, where he was hung up on a new Gibbet, created for this Purpose, pursuant to his sentence, amidst a vast Concourse of People, who assembled on the Occasion.
-
-"He was brought in a Coach from Winchester to the common Gaol, and from thence to the Dock, drawn in a Cart round the Buildings which he set on Fire, and from thence to the Place of Execution. He made a long speech, but what he said I have not as yet heard."
-
-We have just received from another Correspondent at Portsmouth the following Intelligence: Before the Execution of John the Painter, he was drawn in a Cart, pinioned, round the Dock-Yard; on his passing the House of Mr. Gambier, he desired to speak with him; on the Commissioner's coming to him, he expressed a Penitence for his Crime, acknowledged the Justness of his sentence, and advised him to be particularly cautious who was admitted into the Docks, as he had Reason to think other Attempts would be made. "I intended (added he) to have given a stab in the side, but it has only been a slight scratch in the Hand." He also remarked, of all the Docks, Plymouth was the most easy to carry such attempts into Execution. He desired this Intelligence might be given to the Lords of the Admiralty, and concluded, "I have been a very wicked Fellow, but hope, through the Merits of Christ to be forgiven." He was executed on a Gibbet fifty Feet high, in view of all the shipping. — The Gaoler says he has given a more ample Account to him.
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17770317/005/0003
-Hampshire Chronicle - Monday 17 March 1777
-
-ANECDOTE of JOHN THE PAINTER.
-
-About half a year ago, John the Painter worked with Mr. smith, glazier and painter, at Hungerford, where, having a set of chairs to paint, he did his work so slowly, that Mr. smith reproved him for his indolence, which so irritated him, that the same night he broke open a bureau of his master's and took out four guineas, with which he made off. Mr. smith suspected he was the same person who worked for him when he heard of his being at Winchester for trial, went thither, just in time enough to see him brought back to prison after his condemnation. Mr. smith stepped from the crowd, and touching the prisoner on the shoulder, asked him if he knew him? He seemed surprized, and said, he knew him very well, and begged him to come into the prison with him, where he asked his pardon for robbing him, and told him he did it more out of revenge for the affair of the chairs than for want, but hoped that God and he would forgive him. He seemed not all affected with his fate or with the guilt of the fact for which he was condemned; but he complained of unfair treatment in having treacherous fellows sent to visit him, to sift him before his trial; and said, they could not have convicted him, had not such *inquisitorial* proceedings been made use of. He was calm in his mind, that he recollected owing a young man sixpence at Hungerford, which he requested Mr. smith to take and pay for him; and seemed exceedingly happy being seen and forgiven by his old master.
-
-
-
-
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015021715654&seq=158&q1=%22john+the+painter%22
-
-The Universal magazine v.60-61 1777
-
-p159
-
-summary of execution aftermath by Gambier
-
-
-
----
-
-Gale
-Monday,  Dec. 9, 1776
-Publication: Morning Chronicle (1770) (London, England)
-Issue: 2357
-
-Morning Chronicle, London Dec. 9. 1776
-
-By an express which arrived yesterday morning at the General Post-Office, from Portsmouth, we hear that a fire burst out in the Dock-yard there, at five o'clock on Saturday afternoon, and was burning furiously when the express came away. It is somewhat remarkable, that it burst out in the very same place in which the dreadful fire in the Dock-yard about four years since began; it is therefore imagined to be wickedly caused by some interested incendiaries.
-
-
-Morning Chronicle, London Dec. 11. 1776
-
-*Extract of a Letter from Portsmouth, Dec. 9th.*
-
-...
-
-"Two men who were apprehended here on suspicion of setting fire to the rope house, &c. of the dock-yard on Saturday evening last, have been examined, and from what has already been drawn from them, it seems pretty clear, that they were certainly the instruments set on to do this desparate deed, by some more interested agents."
-
-It was yesterday morning reported, that three persons had been taken into custody, for setting fire to the Dock-yard at Portsmouth.
-
-An anonymous letter has been sent to a distinguished personage, which it is thought may lead to a discovery of the incendiaries who fired Portsmouth dock-yard. Messengers have been dispatched to make enquiries mentioned in the letter.
-
-
----
-New Morning Post or General Advertiser, Dec. 12, 1776
-
-*Articles of Intelligence from the Daily Papers of Yesterday.
-
-...
-
-The poor man that was confined for getting out of the window of the spinning-loft after the fire began, in Portsmouth dock-yard, proves to be a house-carper, who has for many years worked constantly in the rope-house, and who, after the fire was discovered, went up in order to save his working-tools, but the fire followed him so close, that he could neither save them, or get down the stairs again, and was obliged to hang by the frame of one of the windows, until the people could get a ladder for him to descend by; and he was so much frightened when he got down, that he was in a manner speechless and insensible, which was the reason they confined him , until he gave a satisfactory account of his actions.
-
----
-
-
-General Evening Post, December 7-10, 1776
-
-
-p1
-
-On Sunday morning at three o'clock, an express arrived at the Admiralty from Portsmouth, with advice that a fire broke out in the dock-yard there on Saturday (supposed to have been maliciously done) which consumed a range of buildings, and did other considerable damage.
-
-p2.
-
-London.
-
-*Admiralty Office, Dec. 9, 1776.* Advice was yesterday received by express, that a fire broke out in the ropehouse in his Majesty's yard at Portsmouth, about half an hour after four o'clock, on Saturday in the afternoon, which burnt with great violence and consumed the same, except the outer walls, which are standing; but by the timely assistance and vigorous efforts of the workmen of the yard, the seamen of his Majesty's ships, the marines quartered at Portsmouth, and the men belonging to the ordnance, with their respective officers, it was happily prevented from extending to any other of the buildings in the yard, and was totally got under at ten o'clock last night, nothing but embers being left burning. The loss sustained by this accident, except the damage done to the ropehouse, is not considerable, consisting chiefly of part of the Princess Amelia's and Deal-Castle's rigging, the implements belonging to the rope-makers and rigging-house, a small quantity of cordage, and some toppings of hemp. It is not discovered by what means the accident happened.
-
-p3.
-
-*Extract of a letter from Portsmouth, Dec. 8.*
-
-"The Albion, a brig, with 2000 barrels of gunpowder on board, was in Portsmouth harbour at the time th efire broke out; but the tide being high, was ordered out, and in a few minutes got quite clear of the harbour, otherwise it might have proved very fatal to the town."
-
-...
-
-Yesterday several of Sir John Fielding's men were dispatched form he Public Office in Bow-street to Portsmouth, in order to apprehend several suspicious persons that are imagined to have had some hand in setting fire to the dock-yard.
-
-
-p4.
-
-*Extract of a Letter from Portsmouth, Dec. 9.*
-
-"The loss by the fire in the dock-yard is but inconsiderable, to what it might have been, had the evening been windy, as, through Providence, it was not. The most valuable part of the goods, which were in the store-house that was burnt, are saved. An officer of the yard informed me this morning, that the loss does not exceed 500l. exclusive of the building. It is generally supposed this fire was maliciously occasioned, and was not to have happened so early, but intended to break out some time in the night, and then the consequences might have been dreadful indeed! A man, said to be at or near the fire at the first discovery of it, is taken into custody; but what proof they can get of his setting it on fire, time will discover. Through the general confusion and hurry this must cause, I do not hear of the loss of any man's life, nor any particular accident of any kind."
-
-Two men who were apprehended at Portsmouth on suspicion of setting fire to the rope-house, &c. of that dock-yard on Saturday evening last, have been examined, and from what has been already drawn from them, it seems pretty clear, that they were certainly the instruments set on to do this desperate deed, by some more interested agents.
-
-Yesterday morning summonses were issued to all the Lords of the Admiralty for a Board to be held at one o'clock, on account of the late fire at the rope-yard at Portsmouth; at the breaking up of which a messenger was dispatched to Portsmouth.
-
----
-
-https://babel.hathitrust.org/cgi/pt?id=njp.32101076879749&seq=4&q1=%22john+the+painter%22
-
-The gentleman's magazine, and historical chronicle vol. 47 (1777)
-
-Vol XLVII, 1777
-
-Historical Chronicle
-
-February 1777
-
-Monday 3.
-
-A man who calls himself
-
-Monday 10.
-
-..
-
-March 1777.
-
-TO DO large narrative account
-
-March 1777.
-
-Thursday 6.
-
-..
-
-p609 ?? Wednesday 24. insurance fraud??
-
-p614, 617 no hanging for firing merchant ships?
-
-https://babel.hathitrust.org/cgi/pt?id=hvd.hxkmtj&seq=127&q1=%22john+the+painter%22
-The Westminster magazine :or, The Pantheon of taste v.5:1 (1777)
-
-Duplicates of elsewhere?
-
-https://babel.hathitrust.org/cgi/pt?id=mdp.39015088246494&seq=9
-
-A narrative of the objects and proceedings of silas Deane, as commissioner of the United Colonies to France; made to the British government in 1776 / by Edward Bancroft. Ed. by Paul Leicester Ford
-
-Published 1891
-
-
-
-The gibbeted body appears to have been something of a tourist attraction.
-
-https://archive.org/details/in.ernet.dli.2015.43052/page/n181/mode/2up?q=%22john+the+painter%22
-Journey From London To The Isle Of Wight.  Vol. 2
-by Pennant, Thomas
-
-Publication date 1801
-
-p146-7
-
-From Gosport we passed to the vast hospital at *Haslar*, a little to the west, lying on the side of the narrow bay to the east; *Alverstoke* stands on the head of this water. Near the shore, suspended on a gibbet, were the remains of John the Painter. The hospital is a vast plain building, or rather several ranges of buildings, capable of receiving between two and three thousand patients; but at this time had no more than one hundred and fifty. The date is 1762; but the ground was bought by Government in 1745.
-
-
-[The tour was made in 1787]
-
---
-
-
-https://archive.org/details/sim_london-magazine-enlarged-and-improved_1777-03_46/page/n3/mode/2up
-London Magazine
-
-Vol. XLVI, March 1777
+In *London Magazine*, Vol. XLVI, March 1777
 
 ![James Aitken, alias John the Painter, London Magazine, Vol. XLVI, March 1777](images/london_magazine_xlvi_1777_john_painter.png)
 
-p115-119
+[p115-119](https://archive.org/details/sim_london-magazine-enlarged-and-improved_1777-03_46/page/n3/mode/2up).
 
-A summary Account of the Life, Trial, and Confession of John the Painter, alias James Hill, alias
+A Summary Account of the Life, Trial, and Confession of John the Painter, alias James Hill, alias
 James Hind, alias James Actzen, alias James Aitken, tried at Winchester Assize, March 6, 1777, for setting fire to the Rope-House in Portsmouth Dock-Yard, December 7, 1776, and who was executed March 10, 1777.
 
 (With an accurate Likeness,)
@@ -1071,63 +1019,13 @@ The prisoner being ordered to be executed at the dock gate, was taken from Winch
 
 He prayed earnestly a few minutes, when giving the signal, he was drawn up to the top of the gibbet made of the Arethusa's mizen mast, 64 feet high; and afterwards was taken down and hung in chains on Block house point, at the mouth of the harbour.
 
+```
 
 
----
+```{admonition} John the painter's Ghost, 1777
+:class: dropdown
 
-still hanging in chains a couple of years later
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17790628/004/0003
-Hampshire Chronicle - Monday 28 June 1779
-
-TO SO
-
-HOME NEWS. PORTSMOUTH, Saturday, June 26. 
-
-...
-
-We had a very hot press on Wednesday night: 300 men were taken at this port.
-
-On Tuesday was executed on board the Culloden man of war in the harbour, one Murphy an American, who was taken into the service at New-York, and on account of his abilities as a good seaman was some time afterwards promoted to the rank of midshipman. When the was her passage home, he formed a plot with several of the ships crew, to murder the Captain and the officers, and run the ship into the American service, which plot was just going to be put in execution, when the whole was discovered by a servant, who was one of the conspirators. Since the ship has been in harbour, and while under sentence of death, he found means to get off his irons, and made his escape through one of the port holes, and attempted to swim on shore; but his heart failed him when he had got a little way from the ship, so that he returned again to the place of confinement undiscovered.— Before he was executed, he said he had only one regret, which was, that he had not set the on fire, after he found he could not run away with her. He was buried directly under the gibbet of John the Painter at Blockhouse Point.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000085/17790703/004/0002
-Newcastle Courant - Saturday 03 July 1779
-
-*Portsmouth, June 22.* This morning Murphey, the midshipman, was executed on board his majesty's ship the Culloden, agreeable to the sentence of a Court-martial for mutiny board the said ship. He made a short speech to the sailors, advising them never to attempt to turn against their Kmg and country. He was buried under the gibbet where John the Painter hangs in chains.
-
-
---
-
-https://imageonline.io/black-and-white/
-
-https://babel.hathitrust.org/cgi/pt?id=osu.32435022012611&seq=32&q1=%22john+the+painter%22
-
-
-The parliamentary debates: official reports 1777-1778 v.19 1777-1778
-
-p11
-
-Debate on suspending habeas corpus\
-
-p235 Bill for securing dockyards
-
-https://babel.hathitrust.org/cgi/pt?id=hvd.hxh1an&seq=186&q1=%22john+the+painter%22
-The Parliamentary register : or, History of the proceedings and debates of the House of Commons 14th:v.7 (1777)
-
-
-https://babel.hathitrust.org/cgi/pt?id=nyp.33433075952782&seq=260&q1=%22john+the+painter%22
-The New Newgate calendar : or, Malefactor's bloody register : containing authentic and circumstantial accounts of the lives transactions, exploits, trials, executions, dying speeches, confessions, and other curious particulars, relating to all the most notorious criminals (of both sexes) and violators of the laws of their country, who have suffered death and other exemplary punishments, in England, scotland, and Ireland, from the commencement of the year 1700, to the present time v. 5
-
-p228
-
-An Authentic account of James Hill, otherwise John Hind, otherwise James Hind,,
-
-
-
-
-
-https://archive.org/details/bim_eighteenth-century_john-the-painters-ghost_1777
-John the painter's ghost: how he appeared on the night of his execution to Lord Temple; and how his lordship did communicate the same at full court, to the astonishment of all present: ...  1777
+*John the painter's ghost: how he appeared on the night of his execution to Lord Temple; and how his lordship did communicate the same at full court, to the astonishment of all present*, [1777](https://archive.org/details/bim_eighteenth-century_john-the-painters-ghost_1777).
 
 PREFACE
 
@@ -1403,3 +1301,214 @@ At that, gay Lady Bridget flounc'd,
 To see the men such Bears `[A familiar expression of her Ladyship's to men who are rude in manners, and Inattentive to her wit and charms.]`.  
 When a white-powder'd Page `[There are diminutive, tiny things about the Palace, called Pages, which are employed to run about the town, and glean entertaining fables for the amusement of their master. These Pages are made up of powder, pomatum, and silk; and they laugh, and smile, and can say yes, or no, but never to the purpose. They are early instructed in fables, and they deal in no other art or science.]` appear'd,  
 And handed her down stairs.
+
+```
+
+
+```{admonition} An authentic account, 1779
+:class: dropdown
+
+*The malefactor's register; or, the Newgate and Tyburn calendar. Containing the authentic lives, trials, accounts of executions, and dying speeches, of the most notorious violators of the laws of their country; ... from the year 1700 to Lady-Day 1779. ... Embellished with a most elegant and superb set of copper plates*, Vol. 5, 1779, [p228-](https://archive.org/details/bim_eighteenth-century_the-malefactors-registe_1779_5/page/n246/mode/1up).
+
+An authentic Account of JAMES HILL, otherwiſe JOHN HIND, otherwiſe JAMES HIND, otherwiſe JAMES ACKSAN, commonly called JOHN the PAINTER who was executed for ſetting fire to the Rope-houſe belonging to his Majeſty's Dock Yard at Portſmouth.
+
+ABOUT four o'clock in the afteraoon of the 7th of December, 1776, a fire broke out in the Rope-bouſe of Portſmouth dock, which entire1y conſumed that building. The fire was Wholly attributed to accident; but on the 15th of January the following diſcovery was made, which inconteſtably proved that the building kad been deſtroyed by deſign.
+
+Three men being employed in the hemp-houſe, they found a tin machine, ſomewhat reſembling a tea canniſter, and near the ſame ſpot a wooden box containing various kinds of combuſtibles. This circumſtance being communicated to the commiſſioner of the dock, and circulated among the public, ſeveral vague and indefinite ſuſpicions fell upon a man who had been lurking about the dock-yard, whoſe ſurname was not known, but who had been diſtinguiſhed by ihe appellation of John the Painter, and had been a journeyman to Mr. Golding, a Painter at Titchfield.
+
+In conſequerce of advertiſements in the Newspapers, offering a reward of 50£. for apprehending John the Painter, he was ſecured at Odiham. On the 7th of February the priſoner was examined at Sir John Fielding's office in Bow-ſtreet, where John Baldwin, who had exerciſed the trade of a painter in different parts of America, attended by the direction of Lord Temple, who imagined that the parties might know each other. Baldwin declared he had not the leaſt knowledge of the priſoner, who then bowed to him, and ſoon after requeſted that he would favour him with a viſit in New-priſon. Baldwin attended him in the afternoon, and on the following days till the 15th, and their converſations were on general ſubjects relating to the affairs of America; but on the 15th, and the ſubſequent days till the 24th, the priſoner's diſcourſe with Baldwin operated very materially towards his conviction, as it was brought in corroboration of a variety of evidence on trial. He aſked Baldwin whether he was acquainted with Mr. Dean, and, being anſwered in the negative, exclaimed, "What not Mr. Dean, Silas Dean, employed by the congreſs? He is a fine fellow. I believe Benjamin Franklin is employed on the ſame errand." He ſaid he had taken a view of moſt of the dock yards and fortifications about England, the number of Ships in the navy, and obſerved their weight of metal and their number of men, and had been to France two or three times to inform Silas Dean of his diſcoveries; and that Dean gave him bills to the amount of 300£. and letters of recommendation to a merchant in the city, which he had burnt, leſt they ſhould lead to a diſcovery. He informed Baldwin that he inſtructed a tin-man's apprentice at Canterbury to make him a tin canniſter, which he carried to Portſmouth, where he hired a lodging at one Mrs. Boxall's, and tried his preparations for ſetting fire to the dock yard.
+
+After reconnting the manner of preparing matches and combuſtibles, he ſaid that on the 6th of the preceding December he got into the hemphouſe, and having placed a candle in a wooden box and a tin canniſter over it, and ſprinkled turpentine over ſome of the hemp, he proceeded to the ropehouſe, where he placed a bottle of turpentine among a quantity of looſe hemp, which he ſprinkled with turpentine, and having laid matches, made of Paper painted over with powdered charcoal and gunpowder diluted with water, and other combuſtibles about the place, he returned to his lodgings. The next day he hired lodgings in two other houſes to which he intended to ſet fire, that the engines might not be all employed together in quenching the conflagration at the dock. On this day he again went to the hemp-houſe, intending to ſet it on fire, which he however was unable to effect, owing to a halfpenny-worth of common houſe matches `[the matches he had formed for firing the combuſtibles were ſo contrived as to continue burning for twenty four hours; ſo that by cutting them into proper lengths he provided for his eſcape, knowing the preciſe time when the fire would reach the combuſtibles,]` that he had bought not being ſufficiently dry. This diſappointmeut, he ſaid, rendered him exceedingly uneaſy, and that he went trom the hemp-houſe to the ropehouſe, and ſet fire to the matches he had placed there. He ſaid his uneaſineſs was increaſed becauſe he could not return to the lodging where he had left a bundle containing an Ovid's Metamorphoſes, a treatiſe on war and making fire works, a Juſtin, a piſtol, and a French paſſport, in which his real name was inſerted.
+
+When he had ſet fire to the rope-houſe he proceeded towards London, deeply regretting his failure in attempting to fire the other building, and was ſtrongly inclined to ſire into the windows of the woman who had ſold him the bad matches. He jumped into a cart, and gave the woman who drove it ſixpence, to induce her to drive quick; and, when he had paſſed the centinels, obſerved the fire to have made ſo rapid a progreſs, that the "element ſeemed in a blaze.” About ten the next morning he arrived at Kingſton, where he remained till the duſk of the evening, and proceeded to London in the ſtage.
+
+Soon after his arrival, he waited upon the gentleman in the city, and informed him of having been under the neceſſity of burning the bills upon, and letters to, him from Silas Dean. The gentleman behaved to him with ſhyneſs, but appointed to meet him at a coffee-houſe. At the coffee-houſe the gentleman ſeemed to be doubtful as to the ſtory told by Ackſan, who therefore went away diſpleaſed, and as ſoon as he reached Hammerſmith wrote to the merchant, ſaying he was going to Briſtol, and that the "handy works" he meant to perform there would be ſoon known to the public.
+
+Soon after his arrival at Briſtol, he ſet fire to ſeveral houſes, which all were burning with great rapidity at one time, and the flames were not extinguiſhed till damage was ſuſtained to the amount of fifteen thouſand pounds. He alfo ſet fire to combuſtibles that he had placed among a number of oil barrels upon the quay, but happily without effect. He related to Baldwin a great number of other circumſtances, which were confirmed by a variety of evidence on the trial.
+
+James Ruſſel produced a tin caſe and a wooden box made to fit each other, containing combuſtibles, which he ſwore he found in the hemp-houſe at Portſmouth.
+
+Willian Tench, apprentice to a tinman at Canterbury, depoſed, that about a month or ſix weeks before Chriitmas he made the tin caſe produced by Ruſſel, by the order and under the immediate inſpection of the priſoner.
+
+Elizabeth Boxall ſwore that the priſoner lodged at her houſe on the night preceding that on which the fire happened, and that in the morning ſhe perceived a violent ſmell of ſulphur, and going into the priſoner's room complained that ſhe was fearful he would ſet fire to her houſe; that he left a bundle, which ſhe opened and found to contain a tin caſe; and being ſhewn the canniſter produced by Ruſſel, ſhe believed it to be the ſame.
+
+Mrs. Cole ſwore that the priſoner took a lodging at her houſe, and left there a bundle `[This bundle contained the books, the French paſſport, &c. which the piiſonct mentioned to Baldwin.]` containing ſome books and other things, which ſhe delivered to Mr. Jeffrey, clerk to the commiſſioner of the dock.
+
+John Fiſher, ſervant to Mr. Tuck, tinman at Canterbury, depoſed, that about fix or ſeven weeks before Chriſtmas the priſoner came to his maſter's ſhop, and gave orders for two tin caſes, but that, not being finiſhed at the time he had appointed to call for them, they were left on his maſter's hands. Fiſher produced one of the caſes, which was found to correſpond with that found in the hemp-houſe.
+
+William Baldy and William Weſton ſwore, that they ſaw and converſed with the priſoner in the hemp-houſe at Portſmouth on the 7th of December.
+
+Anne Hopkins depoſed that about four, or half paſt four, of the day on which the fire happened at Portſmouth-dock, the priſoner overtook her near the Flying-bull at Coſham, and ſaying he was going to Petersfield, and feared he ſhould be benighted, deſired ſhe would allow him to ride part of the way in her cart, and gave her ſixpence in order that ſhe might drive quick; and that, when ſhe came within ſight of her houſe, he leaped out of the cart, and took the road leading to London.
+
+Anne Gentle ſwore, that on the day before the fire at Portſmouth the priſoner bought a half-penny worth of matches at her ſhop on Portmouth Common; and John Hillingdon ſwore that, as far as he could judge from human probability, the priſoner was the man to whom he ſold to ounces of ſpirits of turpentine, and a quarter of a pound of ſalt-petre, either three or four days before or after the 20th of November.
+
+Mary Biſhop depoſed, that ſome time between Michaelmas and Chriſtmas the priſoner came to her houſe in Canterbury, and aſked whether ſhe could procure a wooden thing to be made for him. Being ſhewn the wooden box found with the tin caſe in the hemp houſe, ſhe ſaid ſhe ſaw a thing like it brought to the priſoner by Mr, Ormiſham's apprentice, who was ſince dead.
+
+John Dobby, who apprehended the priſoner, declared that he found in his cuſtody the following articles; a ſnuff-box containing tinder, a ſmall powder horn with gunpowder, a ſtriking tinderbox primed, a phial half full of ſpirits of turpentine, a parcel of matches and ſome other things not of a ſuſpicious nature.
+
+Thomas Maſon, a painter near Briſtol, ſwore that the day after Chriſtmas day the priſoner came to his honſe and aſked leave to grind a ſmall quantity of charcoal; that he directed him to his colour-ſtone, on which he worked about two hours in grinding a piece of charcoal about the ſize of two of his fingers.
+
+The bundle left by the priſoner at Mrs. Cole's was then produced; and the clerk informed the court that it contained a loaded piſtol, a French paſſport, and ſome books, the titles of which he read.
+
+The Court then informed the priſoner that the evidence againſt him was cloſed, and called upon him for his defence. He called no witneſſes, but addreſſed the court two or three times, and propoſed ſome queſtions to Baldwin, but be ſaid nothing tending to invalidate the charge againſt him.
+
+The judge then ſummed up the evidence in the moſt clear, circumſtantial, and candid manner that can be imagined; and the jury pronounced him guilty; in conſequence of which, the judge addreſſed him in a manner truly pathetic, reminding him of the ſhocking enormity of his crime, which was of ſuch a nature as would not admit the poſſibility of his ſentence being reverſed, and exhorting him to exert his utmoſt endeavours that the eternity he was to enter upon in a few days might prove "an eternity of bliſs inſtead of miſery." The priſoner ſaid he entertained no hopes of pardon, but he was willing to die, more ſo than to live."
+
+This malefactor was tried at Wincheſter-caſtle on Thurſday the 6th of March, 1777, before the right honourable Sir William Henry Aſhurſt, Knt. and Sir Beaumon Hotham, Knt.
+
+James Ackſan was exccuted at Portſmouth on the ioth of March, 1777.
+
+During a reſidence of ſome years in America, Ackſan imbibed principles incompatible with the intereſts of this country. His caſe affords a ſtriking inſtance of the extravagant lengths to which people may be tranſported by party zeal. Not influence by private malignancy, or avaricious motives, he formed the deſperate reſolution of committing a crime of ſuch horrid enormity as not to admit the poſſiblity of any kind of aggravation; and this reſolution he, in ſome degree, effected. Had his diabolical purpoſe been attended with the full ſucceſs he expected, long ere this Great Britain would, in all probability, have loſt her national importance, and been reduced to a ſtate of the moſt abject ſlavery to foreign and deſpotic powers.
+
+Though Ackſan aimed at involving every individual of theſe kingdoms in immediate and general deſtruction, chriſtian charity ſhould induce us to hope that he followed the advice of the learned judge in endeavouring to make the eternity that awaited him "an eternity of bliſs inſtead of miſery."
+
+```
+
+X---
+
+
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015021715654&seq=158&q1=%22john+the+painter%22
+
+The Universal magazine v.60-61 1777
+
+p159
+
+summary of execution aftermath by Gambier
+
+
+
+X---
+
+Gale
+Monday,  Dec. 9, 1776
+Publication: Morning Chronicle (1770) (London, England)
+Issue: 2357
+
+Morning Chronicle, London Dec. 9. 1776
+
+By an express which arrived yesterday morning at the General Post-Office, from Portsmouth, we hear that a fire burst out in the Dock-yard there, at five o'clock on Saturday afternoon, and was burning furiously when the express came away. It is somewhat remarkable, that it burst out in the very same place in which the dreadful fire in the Dock-yard about four years since began; it is therefore imagined to be wickedly caused by some interested incendiaries.
+
+
+Morning Chronicle, London Dec. 11. 1776
+
+*Extract of a Letter from Portsmouth, Dec. 9th.*
+
+...
+
+"Two men who were apprehended here on suspicion of setting fire to the rope house, &c. of the dock-yard on Saturday evening last, have been examined, and from what has already been drawn from them, it seems pretty clear, that they were certainly the instruments set on to do this desparate deed, by some more interested agents."
+
+It was yesterday morning reported, that three persons had been taken into custody, for setting fire to the Dock-yard at Portsmouth.
+
+An anonymous letter has been sent to a distinguished personage, which it is thought may lead to a discovery of the incendiaries who fired Portsmouth dock-yard. Messengers have been dispatched to make enquiries mentioned in the letter.
+
+
+X---
+New Morning Post or General Advertiser, Dec. 12, 1776
+
+*Articles of Intelligence from the Daily Papers of Yesterday.
+
+...
+
+The poor man that was confined for getting out of the window of the spinning-loft after the fire began, in Portsmouth dock-yard, proves to be a house-carper, who has for many years worked constantly in the rope-house, and who, after the fire was discovered, went up in order to save his working-tools, but the fire followed him so close, that he could neither save them, or get down the stairs again, and was obliged to hang by the frame of one of the windows, until the people could get a ladder for him to descend by; and he was so much frightened when he got down, that he was in a manner speechless and insensible, which was the reason they confined him , until he gave a satisfactory account of his actions.
+
+X---
+
+
+https://imageonline.io/black-and-white/
+
+https://babel.hathitrust.org/cgi/pt?id=osu.32435022012611&seq=32&q1=%22john+the+painter%22
+
+
+The parliamentary debates: official reports 1777-1778 v.19 1777-1778
+
+p11
+
+Debate on suspending habeas corpus\
+
+p235 Bill for securing dockyards
+
+https://babel.hathitrust.org/cgi/pt?id=hvd.hxh1an&seq=186&q1=%22john+the+painter%22
+The Parliamentary register : or, History of the proceedings and debates of the House of Commons 14th:v.7 (1777)
+
+
+
+General Evening Post, December 7-10, 1776
+
+
+p1
+
+On Sunday morning at three o'clock, an express arrived at the Admiralty from Portsmouth, with advice that a fire broke out in the dock-yard there on Saturday (supposed to have been maliciously done) which consumed a range of buildings, and did other considerable damage.
+
+p2.
+
+London.
+
+*Admiralty Office, Dec. 9, 1776.* Advice was yesterday received by express, that a fire broke out in the ropehouse in his Majesty's yard at Portsmouth, about half an hour after four o'clock, on Saturday in the afternoon, which burnt with great violence and consumed the same, except the outer walls, which are standing; but by the timely assistance and vigorous efforts of the workmen of the yard, the seamen of his Majesty's ships, the marines quartered at Portsmouth, and the men belonging to the ordnance, with their respective officers, it was happily prevented from extending to any other of the buildings in the yard, and was totally got under at ten o'clock last night, nothing but embers being left burning. The loss sustained by this accident, except the damage done to the ropehouse, is not considerable, consisting chiefly of part of the Princess Amelia's and Deal-Castle's rigging, the implements belonging to the rope-makers and rigging-house, a small quantity of cordage, and some toppings of hemp. It is not discovered by what means the accident happened.
+
+p3.
+
+*Extract of a letter from Portsmouth, Dec. 8.*
+
+"The Albion, a brig, with 2000 barrels of gunpowder on board, was in Portsmouth harbour at the time th efire broke out; but the tide being high, was ordered out, and in a few minutes got quite clear of the harbour, otherwise it might have proved very fatal to the town."
+
+...
+
+Yesterday several of Sir John Fielding's men were dispatched form he Public Office in Bow-street to Portsmouth, in order to apprehend several suspicious persons that are imagined to have had some hand in setting fire to the dock-yard.
+
+
+p4.
+
+*Extract of a Letter from Portsmouth, Dec. 9.*
+
+"The loss by the fire in the dock-yard is but inconsiderable, to what it might have been, had the evening been windy, as, through Providence, it was not. The most valuable part of the goods, which were in the store-house that was burnt, are saved. An officer of the yard informed me this morning, that the loss does not exceed 500l. exclusive of the building. It is generally supposed this fire was maliciously occasioned, and was not to have happened so early, but intended to break out some time in the night, and then the consequences might have been dreadful indeed! A man, said to be at or near the fire at the first discovery of it, is taken into custody; but what proof they can get of his setting it on fire, time will discover. Through the general confusion and hurry this must cause, I do not hear of the loss of any man's life, nor any particular accident of any kind."
+
+Two men who were apprehended at Portsmouth on suspicion of setting fire to the rope-house, &c. of that dock-yard on Saturday evening last, have been examined, and from what has been already drawn from them, it seems pretty clear, that they were certainly the instruments set on to do this desperate deed, by some more interested agents.
+
+Yesterday morning summonses were issued to all the Lords of the Admiralty for a Board to be held at one o'clock, on account of the late fire at the rope-yard at Portsmouth; at the breaking up of which a messenger was dispatched to Portsmouth.
+
+X---
+
+https://babel.hathitrust.org/cgi/pt?id=njp.32101076879749&seq=4&q1=%22john+the+painter%22
+
+The gentleman's magazine, and historical chronicle vol. 47 (1777)
+
+Vol XLVII, 1777
+
+Historical Chronicle
+
+February 1777
+
+Monday 3.
+
+A man who calls himself
+
+Monday 10.
+
+..
+
+March 1777.
+
+TO DO large narrative account
+
+March 1777.
+
+Thursday 6.
+
+..
+
+p609 ?? Wednesday 24. insurance fraud??
+
+p614, 617 no hanging for firing merchant ships?
+
+https://babel.hathitrust.org/cgi/pt?id=hvd.hxkmtj&seq=127&q1=%22john+the+painter%22
+The Westminster magazine :or, The Pantheon of taste v.5:1 (1777)
+
+Duplicates of elsewhere?
+
+https://babel.hathitrust.org/cgi/pt?id=mdp.39015088246494&seq=9
+
+A narrative of the objects and proceedings of silas Deane, as commissioner of the United Colonies to France; made to the British government in 1776 / by Edward Bancroft. Ed. by Paul Leicester Ford
+
+Published 1891
+
+
