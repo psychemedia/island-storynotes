@@ -439,7 +439,7 @@ In *Nottingham Review*, [Friday 24 September 1813](https://britishnewspaperarchi
 For his part in inflicting the fatal shot on Blundell, M'Guire would lose his position in the army.
 
 ```{admonition} Dismissed From The Service, October 1813
-:class; dropdown
+:class: dropdown
 In *Hereford Journal*, [Wednesday 06 October 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18131006/007/0004).
 
 Ensign Maguire, who shot Lieut. Blundell in a duel, and Ensign Gilchrist, are mentioned in Saturday's Gazette as having been dismissed from the service.

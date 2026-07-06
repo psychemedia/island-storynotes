@@ -44,6 +44,10 @@ parts:
   - file: spithead_mutiny
   - file: spithead_chronology
   - file: _spithead_mutiny_src
+- caption: Solent Tales / Duels
+  chapters:
+  - file: wheatsheaf_duel
+  - file: last_duel_iw
 - caption: Solent Tales — The Tale of David Tyrie (WIP)
   chapters:
   - file: tyrie/david_tyrie_bankruptcy_scam
