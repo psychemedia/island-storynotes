@@ -31,7 +31,7 @@ He stopped to chat to an old friend who was working in one of the fields, and as
 
 Distracted by a train on the other side of the river there, Henry remarked on how busy it was. Then the two men separated, and Henry went for his pint.
 
-Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hamborugh, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed as part of a police inquest.
+Inside the pub the bar chat was all about the strange goings on on the Island. The day before, the body of young Mr Hambrough, which had been buried in St Catherine's Churchyard, in Ventnor, only a couple of weeks before, had been exhumed as part of a police inquest.
 
 According to a newspaper report read out by one of the barflies, at the time of his death, Hambrough had been in Scotland, on the Ardlamont estate. In a tragic accident, he'd been out shooting with his guardian, stumbled somehow, or got caught up in a bush, and set off his gun with a fatal result. A terrible, terrible accident. Or was it? The matter of a newly arranged life insurance policy taken out against him hinted that perhaps it wasn't just an accident.
 
@@ -51,12 +51,24 @@ So had Henry Card died in a similar way to the young Mr Cecil Dudley Hambrough, 
 
 ```
 
+In 1858, the railway came to Lymington, with a station in the town the line terminating at a small jetty near the town slipway.
+
 ```{image} images/waggon-horses-lymington-os-1871.png
 :alt: Ordnance Survey six inch, 1871, showing Waggon and Horses
 :align: center
 ```
 
 *Ordnance Survey six inch map, 1871, showing the Waggon and Horses pub, Walhampton, the ferry to Lymington, and the railway line. `Reproduced with the permission of the [National Library of Scotland](https://maps.nls.uk/) [CC-BY]`.*
+
+A few years later, in 1884, an extension to the line was added crossing the river and extending out to Lymington pier, providing better access to the packet steamers.
+
+```{image} images/nls-os-1896-6inch-101442165.png
+:alt:: Ordnance Survey six inch, 1898, showing Waggon and Horses
+:align: center
+```
+
+*Ordnance Survey six inch map, 1898, showing the Waggon and Horses pub, Walhampton, the ferry to Lymington, and the new railway line. `Reproduced with the permission of the [National Library of Scotland](https://maps.nls.uk/) [CC-BY]`.*
+
 
 The original story appeared in just a few short hours following the accident, before the gamekeeper succumbed to his injuries:
 
