@@ -259,7 +259,7 @@ The guards, trembling, prepared to execute his commands, but, on gaining the out
 
 A précised version of the tale was also included in a review of the same work (*Traditions of Lancashire. By J. Roby, M.R.S.L, 2 vols, 8 vo. Longman, Rees, and Co.*) in *The Gentleman's Magazine*, vol. C, April 1830, [pp. 329-331](https://archive.org/details/in.ernet.dli.2015.21198/page/n353/mode/2up):
 
-```{admonition} THe Goblin Builders (précised), 1830
+```{admonition} The Goblin Builders (précised), 1830
 :class: dropdown
 
 *The Gentleman's Magazine*, vol. C, April 1830, [pp. 329-331](https://archive.org/details/in.ernet.dli.2015.21198/page/n353/mode/2up):
