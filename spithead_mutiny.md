@@ -80,7 +80,7 @@ The Admiralty Lords went back to London, and a letter was sent to the privy Coun
 
 A Royal proclamation was signed, and sealed, and one hundred copies printed off. Then it was sent, post haste, to Portsmouth.
 
-On board the Charlotte, the men were still suspicious. It looked like a Royal Pardon, but was it? Thy demanded to see the original, which then had to be brought over from the Royal George.
+On board the Charlotte, the men were still suspicious. It looked like a Royal Pardon, but was it? They demanded to see the original, which then had to be brought over from the Royal George.
 
 And so it was that a week or so after the ropes had first been hung over the yard arms, they were taken down, and the Spithead mutiny was over.
 
@@ -133,7 +133,3 @@ Perhaps surprisingly, their conditions were agreed to.
 A celebration was organised, including a procession through Portsmouth, although it was also something of an insult against for Bridport: not only had Howe take the glory for resolving the dispute, but the celebrations had also further delayed the sailing of the fleet.
 
 But even as the celebrations continued, four men from the Nore fleet, anchored at the opening of the Thames Estuary, had arrived in Portsmouth. They had started their own mutiny three days before, and had come to co-ordinate with the Portsmouth mutineers. They would return to continue their mutiny without the support of the Spithead fleet, a mutiny that would not end so happily. But that, as the old saying goes, is another story, for another day.
-
-
-
-
