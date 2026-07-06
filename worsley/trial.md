@@ -69,7 +69,7 @@ The marriage of the 15th September, 1775, admitted.
 
 Captain LEVERSAGE sworn.
 
-Examined by Mr, Dunning.
+Examined by Mr. Dunning.
 
 You, I believe, Mr. Leversage, are an Officer in the Hampshire militia?— Yes, Sir.
 
@@ -143,9 +143,9 @@ Proves the hand-writing of Mr. Bissett in- two letters; the first of which shewe
 
 FRANCIS GODFREY sworn.
 
-Examined by Mr. Pechell, for Mr, Erskine.
+Examined by Mr. Pechell, for Mr. Erskine.
 
-You was a servant of Sir Richard Worf- ley's in November last; — Yes, Sir.
+You was a servant of Sir Richard Worsley's in November last; — Yes, Sir.
 
 Do ypu remember Lady Worsley's going out on Sunday the 18th of November in the afternoon?— Yes, Sir.
 
