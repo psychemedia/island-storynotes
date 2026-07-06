@@ -1,6 +1,6 @@
 # John the Painter
 
-Although set in Portsmouth I first heard this tale at Festival at The Edge, in 2025, from a Nottingham based teller whose name I forget (Jim, maybe?). He had lived in Portsmouth and heard this tale, told as a ghost story based in fact, from a local naval man. The name he used for main character — "Peter the painter" — was either misremembered, or reimagined to provide some distance to the original, historical tale. My scribbled note also mentions a certain *William James*, but he features in a separate tale...
+Although set in Portsmouth I first heard this tale at Festival at The Edge, in 2025, from a Nottingham based teller whose name I forget (Jim, maybe?). He had lived in Portsmouth and heard this tale, told as a ghost story based in fact, from a local naval man. The name he used for main character — "Peter the painter" — was either misremembered, or reimagined to provide some distance to the original, historical tale. `(There was a "Peter the Painter" in the Sidney Street Siege, of January, 1911...)` My scribbled note also mentions a certain *William James*, but he features in a separate tale (the tale of David Tyrie)...
 
 > Royal timber yard; The ship. scotsman. American war; plan to burn fleet. hanged from yard arm, hanged in chains at tide level. Bodyparts stolen. Head in ship.  Haunted upstairs bedroom (hourly rate). Priest. Bishop. ?Old Bob (sold winds; bag tied with wind, open by sailor end of outbound leg, favourable wind back; (survivor bias/wald)). Get rid of ghost. Through keyhole. Don't believe, get into bottle. stoppered. (bottle walled up, rediscovered, keepsake, Titanic)
 
@@ -567,7 +567,7 @@ The Clerk of the Arraigns then asked the prisoner what he had to say why sentenc
 
 Baron Hotham immediately put on his cap, and told the prisoner that he had had a long and a fair trial; that he had been found guilty of the crime alledged against him, on the fullest and clearest evidence; that he could not have any thing to complain of in the candour of the Court; and that his Crime was of a nature so enormous, that it was not in the power of words to aggravate it; that he did not mean, in his present moments, to heighten his distress, but he was sorry to say that he felt, he feared, much less than he felt for him. He begged him, therefore, properly to consider his case, and prepare to meet his God, for that he was bound, and it was by much the most disagreeable part of his duty, to pass the sentence of the law upon him, and he did accordingly judge him to be hung by the neck until he was dead; the Judge further told him, that he thought it right to advise him, that as his offence might not only have been fatal to every person present, but might have involved the whole British nation in immediate ruin, there was not any probability of his receiving mercy, he therefore earnestly intreated him to spend the few hours he had to live in preparing himself for eternity, and by a due repentance endeavour to obtain that pardon in the next world which could not be given here.
 
-The Counsel for the Crown were serjeant Davy, Mr. Mansfield, Mr, Missing, Mr. Buller and Mr. Fielding.
+The Counsel for the Crown were serjeant Davy, Mr. Mansfield, Mr. Missing, Mr. Buller and Mr. Fielding.
 
 The prisoner had no Counsel.
 
@@ -641,6 +641,19 @@ In *Derby Mercury*, [Friday 14 March 1777](https://britishnewspaperarchive.co.uk
 
 We have just received from another Correspondent at Portsmouth the following Intelligence: Before the Execution of John the Painter, he was drawn in a Cart, pinioned, round the Dock-Yard; on his passing the House of Mr. Gambier, he desired to speak with him; on the Commissioner's coming to him, he expressed a Penitence for his Crime, acknowledged the Justness of his sentence, and advised him to be particularly cautious who was admitted into the Docks, as he had Reason to think other Attempts would be made. "I intended (added he) to have given a stab in the side, but it has only been a slight scratch in the Hand." He also remarked, of all the Docks, Plymouth was the most easy to carry such attempts into Execution. He desired this Intelligence might be given to the Lords of the Admiralty, and concluded, "I have been a very wicked Fellow, but hope, through the Merits of Christ to be forgiven." He was executed on a Gibbet fifty Feet high, in view of all the shipping. — The Gaoler says he has given a more ample Account to him.
 
+
+```
+
+Another letter thought the scaffold was event higher!
+
+```{admonition} 70 yeard high, March 1777
+:class: dropdown
+
+In *Leicester Journal*, [Saturday 15 March 1777](https://britishnewspaperarchive.co.uk/viewer/bl/0000204/17770315/002/0002).
+
+*Extract of a letter from Portsmouth, March 10.*
+
+'... After this declaration, he was conveyed to a scaffold, by the side of one of docks, from whence he made a pathetic harangue to the populace, and in a few minutes after, having pulled a cap over his eyes, he was run up the mizen mast of a man of war then in dock, about 70 yards high. His body after hanging the usual time, was taken down, and affixed in chains to a gibbet on the beach, at the entrance of the harbour, near Blockhouse fort, which was ready to receive it.— He died with great fortitude, patience, and composure.'
 
 ```
 
@@ -958,7 +971,7 @@ When he found them, the canister and the box were separate, their situation was 
 
 *Mrs. Cole*, deposed, that the prisoner came to her house in the forenoon un the day of the fire, took a lodging there, staid about a quarter of an hour, and went out about eleven or twelve o'clock.
 
-*William Abram* deposed, that he lodged in the same room with the prisoner at Mrs, Boxell's, and that he had then yellow buckles in his shoes, of the same pattern with those found in the above-mentioned bundle,
+*William Abram* deposed, that he lodged in the same room with the prisoner at Mrs. Boxell's, and that he had then yellow buckles in his shoes, of the same pattern with those found in the above-mentioned bundle,
 
 *John Baldwin* deposed, that he first saw the prisoner on the 7th of February at Sir John Fielding's, having been sent there by *Lord Temple*, as he thought he might know the prisoner, being a painter, and having lived in America, as the prisoner was thought to have done. That the prisoner, after hearing him tell Sir John that he had never before seen him, beckoned to him to sit down by him in another room, and said he should be glad to see him in New Prison. That at 4 o'clock he went there, and they talked much about America, when the prisoner invited him to come again the next day; that in consequence of this lord Temple sent him to *Lord George Germaine*, and both thought it material he should constantly visit him. That in subsequent conversations to the 24th of February, the prisoner concluding him by his discourse to be interested for America, told him that Mr. *Silas Deane* was pleased with the plan he had communicated to him at Paris of destroying the dockyards in England, and said that he gave him bills to the amount of 300*l.*, and letters to a great man, a considerable merchant in London. That on the 15th of February the prisoner first began to unbosom himself, and opened every particular to him, of his coming to Dover from Paris, and from thence to Canterbury, where he had the tin machine made; of a quarrel with a dragoon there; of his proceeding from thence to Portsmouth; of his manner of preparing the combustibles; of his conduct after his plan was ripe; of his quitting Portsmouth in the cart of a market woman, and leaving behind him a parcel in which was a French passport with his real name; of his coming to London—and from thence going to Bristol to commence his handy works there. These particulars the evidence mentioned as he received them from day to day, to lord Temple ond lord George Germaine.
 
@@ -1342,7 +1355,7 @@ Anne Hopkins depoſed that about four, or half paſt four, of the day on which t
 
 Anne Gentle ſwore, that on the day before the fire at Portſmouth the priſoner bought a half-penny worth of matches at her ſhop on Portmouth Common; and John Hillingdon ſwore that, as far as he could judge from human probability, the priſoner was the man to whom he ſold to ounces of ſpirits of turpentine, and a quarter of a pound of ſalt-petre, either three or four days before or after the 20th of November.
 
-Mary Biſhop depoſed, that ſome time between Michaelmas and Chriſtmas the priſoner came to her houſe in Canterbury, and aſked whether ſhe could procure a wooden thing to be made for him. Being ſhewn the wooden box found with the tin caſe in the hemp houſe, ſhe ſaid ſhe ſaw a thing like it brought to the priſoner by Mr, Ormiſham's apprentice, who was ſince dead.
+Mary Biſhop depoſed, that ſome time between Michaelmas and Chriſtmas the priſoner came to her houſe in Canterbury, and aſked whether ſhe could procure a wooden thing to be made for him. Being ſhewn the wooden box found with the tin caſe in the hemp houſe, ſhe ſaid ſhe ſaw a thing like it brought to the priſoner by Mr. Ormiſham's apprentice, who was ſince dead.
 
 John Dobby, who apprehended the priſoner, declared that he found in his cuſtody the following articles; a ſnuff-box containing tinder, a ſmall powder horn with gunpowder, a ſtriking tinderbox primed, a phial half full of ſpirits of turpentine, a parcel of matches and ſome other things not of a ſuſpicious nature.
 
@@ -1364,7 +1377,7 @@ Though Ackſan aimed at involving every individual of theſe kingdoms in immedia
 
 ```
 
-X---
+
 
 
 https://babel.hathitrust.org/cgi/pt?id=mdp.39015021715654&seq=158&q1=%22john+the+painter%22
@@ -1375,6 +1388,39 @@ p159
 
 summary of execution aftermath by Gambier
 
+
+Title:	   The Universal magazine
+
+Publisher: London : Pub. for J. Hinton
+
+Find this book online: https://hdl.handle.net/2027/mdp.39015021715654
+
+## p. 150 (#158) ############################################
+
+The following account is furnished by Commissioner Gambier.
+
+THE priſoner was carried from Wincheſter gaol, on the 10th, to Portsmouth, where it was appointed he ſhould be executed at the dock-gate; and the following is an exact account of his behaviour, from the time of his arrival to the time of execution.
+
+Having been carried, in an open cart, by the hemp-houſe, and round the ruins of the rope-house, when he came oppoſite the Commiffioner's houſe, he desired to ſpeak with the Commiffioner, who thereupon went up cloſe to him: he ſaid,
+
+'SIR,
+
+'I acknowledge my crime, and hope for forgiveneſs from God, through the merits
+of my Saviour Jeſus Chrift.'
+
+'I aſk pardon of you, Sir, and hope for your forgiveneſs,'; upon the cart's moving, he said, he had one thing more to obſerve, as a caution to all the Commiſſioners of the dock-yards throughout England, to be more vigilant and strictly careful of them for the future, becauſe it is in the power of a determined and reſolute man to do a great deal of mischief.'
+
+As the cart ſtopped at the end of the rope-houſe, he looked attentively at the place of his perpetration, and ſaid, 'I acknowledge my crime and am ſorry for it.'
+
+Juſt before he returned out of the dock-yard, upon being asked there if he had any thing more that he wiſhed to ſay to the Commiſſioner, he ſaid, 'No, only I recommend great care and ſtrict vigilance at the dock-yards at Chatham, Woolwich, Deptford, Portsmouth, and Plymouth; and particularly of the rope-houſe at the latter.'
+
+Juſt before he was turned off, he ſaid,
+
+'I acknowledge the juſtice of my ſentence, and hope for forgiveneſs, as I forgive all
+the world; I wiſh ſucceſs to his Majesty King George and his family, and all his
+loyal ſubjects; and I hope for forgiveneſs for all the transactions that I have been
+guilty of from the year 1772 ſince my apprenticeſhip; and that the world would be
+ſatisfied about him, as his life would be very ſoon in print.'
 
 
 X---
