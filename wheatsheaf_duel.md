@@ -236,7 +236,7 @@ The last trial at the Hampshire assizes was that of the young men who were conce
 
 Or maybe the trial took place on the *first* day of the Assizes, Tuesday, July 27th, 1813, which would suggest the men had turned themselves in on the Friday *before* the Assizes started, July 23rd, 1813.
 
-```{admonition} "On Tuesday", August 1813
+```{admonition} 'On Tuesday', August 1813
 :class: dropdown
 In *Pilot (London*), [Tuesday 03 August 1813](https://britishnewspaperarchive.co.uk/viewer/bl/0002775/18130803/018/0004).
 
