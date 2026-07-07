@@ -126,7 +126,7 @@ In *Hampshire Telegraph*, [Monday 22 July 1811](https://britishnewspaperarchive.
 
 BUGLE INN, RYDE,—ISLE OF WIGHT. JAMES BEAZLEY, Sen. begs leave to inform his Friends and the Public in general, that he has succeeded Mr. Robert Williams at the above Inn, which (although in an unfinished state at present) he has opened; and trusts, by his long experience in conducting the Passage to and from the Island, his assiduity, and attention, to accommodate those who may be pleased to honour him with their company, so as to merit a continuance of their favours.
 
-Tbe Passage to and from the Isle of Wight, will be continued by him as usual, from the West India and Quebec Tavern; and a Telegraph Coach will wait its return daily from Portsmouth, to the Wheat Sheaf at Newport.
+The Passage to and from the Isle of Wight, will be continued by him as usual, from the West India and Quebec Tavern; and a Telegraph Coach will wait its return daily from Portsmouth, to the Wheat Sheaf at Newport.
 
 J. B. has laid in a good assortment of choice old Wines and Liquors of the first quality.
 
