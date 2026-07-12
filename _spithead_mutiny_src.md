@@ -338,7 +338,7 @@ SAILORS AT PORTSMOUTH.
 
 *Lord Howe* felt the force of thr Royal Duke's observation respecting the discipline of the Navy; but the question was now, will you abide by the terms you have made with the sailors, or will you not? If you do, then you give a sanction to their conduct: if you do not, then what dependence can they have on your promises in future? In his opinion, therefore, as circumstances now stood, they should by all means abide by their engagements.
 
-The first he heard of this unfortunate business was during his indisposition, between the second week in February and the beginning of March, when several petitions were presented to him as from the seamen; they were exactly similar, and prayed for an advance of wages, that they might be enabled to make their families more comfortable. Four or five of these petitions were written in different hands, but they wer evidently dated by the same hand: these petitions were not signed by any name, therefore it was impossible for him to take any notice of them. He, however, sent an Officer at Portsmouth, whose situation rendered it likely for him to ascertain the fact, to know whether there was any appearance of any discontent in the fleet; to which he replied there was not; and this induced his Lordship to believe the whole a manoeuvre of some incendiary to stir up discontent, by making him notice a complaint which did not exist.— The day after he came to town, the 22d of March, one of the Members of the Admiralty Board called upon him, to whom he communicated this circumstance, and sent the petitions to the Noble Earl who presides at the head of the Admiralty; and he knew nothing more of the unhappy transaction than what had appeared in the public prints.—If the insinuations had been against him in any act of his professional duty, h must have borne it; but from such an attack as he had received, he could only be rescued by their Lordships.
+The first he heard of this unfortunate business was during his indisposition, between the second week in February and the beginning of March, when several petitions were presented to him as from the seamen; they were exactly similar, and prayed for an advance of wages, that they might be enabled to make their families more comfortable. Four or five of these petitions were written in different hands, but they wer evidently dated by the same hand: these petitions were not signed by any name, therefore it was impossible for him to take any notice of them. He, however, sent an Officer at Portsmouth, whose situation rendered it likely for him to ascertain the fact, to know whether there was any appearance of any discontent in the fleet; to which he replied there was not; and this induced his Lordship to believe the whole a manoeuvre of some incendiary to stir up discontent, by making him notice a complaint which did not exist.— The day after he came to town, the 22d of March, one of the Members of the Admiralty Board called upon him, to whom he communicated this circumstance, and sent the petitions to the Noble Earl who presides at the head of the Admiralty; and he knew nothing more of the unhappy transaction than what had appeared in the public prints.—If the insinuations had been against him in any act of his professional duty, he must have borne it; but from such an attack as he had received, he could only be rescued by their Lordships.
 
 *Lord Grenville* declared that the Noble Earl's conduct in this business had been marked with the same honor which characterised every transaction of his life, and he believed every Noble Peer in the House was of the same opinion. After which the Noble Lord moved that this House do now adjourn till tomorrow; which was done accordingly.
 ```
@@ -402,7 +402,7 @@ As to the Question of Sincerity, he had not yet heard a doubt started respecting
 
 Under these circumstances, he left it to the candour and justice of the House to judge, whether the conduct of his Majesty's Ministers, so far as the view of this Motion went, could at all be considered as qualified with the name of guilt.
 
-Before he concluded, he thought it his duty to add, that by the last accounts which arrived from Portsmouth, and which the haziness of the weather rendered less perfect than could be wished, it appeared that there was a disposition in the Fleet to return to their duty, which he hoped would be so happily improved, to remove speedily all anxiety on the subject.—He would not say that he was yet so fully possessed of particulars as to state, with confidence, what might remove apprehensions; but hee had at least a dawn of hope, that subordination and tranquility would soon be restored. But be the judgment of the House on him, what it might, he hoped at least they would not, if they conceived that censuring him would contribute to that event, disturb their own prospects, or deprive the public of the benefit of whatever censure might fall on him.
+Before he concluded, he thought it his duty to add, that by the last accounts which arrived from Portsmouth, and which the haziness of the weather rendered less perfect than could be wished, it appeared that there was a disposition in the Fleet to return to their duty, which he hoped would be so happily improved, to remove speedily all anxiety on the subject.—He would not say that he was yet so fully possessed of particulars as to state, with confidence, what might remove apprehensions; but he had at least a dawn of hope, that subordination and tranquility would soon be restored. But be the judgment of the House on him, what it might, he hoped at least they would not, if they conceived that censuring him would contribute to that event, disturb their own prospects, or deprive the public of the benefit of whatever censure might fall on him.
 
 *Sir William Geary* said, that if the House, impressed an carried away by the eloquence of the Honourable Gentleman who made the Motion, should come hastily and intemperately to a decision on so serious a point, they would afterwards repent it, and be the first to condemn the precipitancy of their own conduct.—He would, therefore, again, and again, express his wish, that the Motion might be postponed, especially as the Hon. Mover did not seem himself to have made up his mind, even on the manner, of its wording.‚As the Motion originally stood, it only implied an omission on the part of the Minister; as it now stood amended, it charged the Minister with a direct Commission.—In every view of the subject, he was confidently persuaded that the Hon. Gentleman should defer his Motion.
 
@@ -440,7 +440,7 @@ It was very generally reported on Saturday, that Mr. Pitt had delivered in his r
 
 ```
 
-Letters from Portsmouth described the situation.
+Letters from Portsmouth described the situation. In particular, it seems there was a violent outbreak on board the *London* in the form of a short gun battle, with men on both sides killed, and others wounded. As a result, Admiral Colpoys was made a prisoner, and put in irons.
 
 ```{admonition} A spirit of mutiny has re-appeared, May 1797
 :class: dropdown
@@ -486,10 +486,100 @@ As no boats are allowed to go on board the ships, our correspondents have not be
 
 "It is stated, that intelligence from Sir J. B. Warren, announces, that the French fleet had worked out into the outer road of Brest, consisting of 17 sail of the line and a vast number of transports, which appeared ready for sailing at a moment's notice."
 
+```
+
+The violent encounter had taken place on the evening of Sunday, May 7h, 1797.
+
+```{admonition} At sunset last evening, May 1797
+:class: dropdown
+
+In *Derby Mercury*, [Thursday 11 May 1797](https://britishnewspaperarchive.co.uk/viewer/bl/0000052/17970511/016/0004).
+
+Wednesday's Mail.
+
+LONDON, Tuesday, *May 9*.
+
+DISCONTENTS AT PORTSMOUTH.
+
+PORTSMOUTH, May 8.
+
+THE mind of every one is almost in an indescribable state, in contemplating the height of the alarming disorder, now prevailing in the Fleet. At sunset last evening, the crews of all the ships at Spithead and St. Helen's cheered, which they repeated this morning at 8 o'clock; soon after which, seven Officers were discharged from the Mars, with their baggage; and at 11 o'clock, three Lieutenants and a Marine Officer were landed from the Pompee, with their baggage; the men who landed the same being each armed with a brace of large pistols, a cutlass, and cartouch-box, and made an appearance which struck every body with the most serious impressions.
+
+The command of the London, of 98 guns, is given to one of the Lieutenants; and Admiral Colpoys and most of his Officers are detained as prisoners.
+
+The Delegates have ordered all the ships which were at Spithead to St. Helen's; and the London, Monarch, Mars, Marlborough, and several frigates, are at this time actually under weigh, bearing down to St. Helen's. And it is reported, that so soon as the London is arrived at St. Helen's, Admiral Colpoys is to be tried for the Death of the persons who lost their lives yesterday on board that ship. Amongst the wounded, we lament to state, that Lieutenant Sims, of the Marines, had his arm so shattered, that an amputation took place this morning.
+
+EXTRACT OF ANOTHER LETTER.
+
+Half past seven, P.M.
+
+It is with pleasure we hear that Admiral Colpoys and Captain Griffiths are released from their confinement, and sent on shore. Half past seven, Express just going—The Sailors threaten to go to sea to meet the French, without Officers. Every thing wears a most dismal aspect.
 
 ```
 
-With the state of the Navy once again a matter of concern, Parliament was apprised of the situation.
+A more comprehensive report made it into the papers over the following week.
+
+```{admonition} Five seamen killed, May 1797
+:class: dropdown
+In *Cambridge Intelligencer*, [Saturday 13 May 1797](https://britishnewspaperarchive.co.uk/viewer/bl/0002155/17970513/007/0002).
+
+Wednesday and Thursday's Posts.
+
+LONDON
+
+THE Mutiny on board the Fleet at Portsmouth has again burst forth with redoubled violence, threatening in its consequences the most unfortunate calamities to our Navy. We might occupy the whole of this paper with the different letters received respecting this melancholy business; but as the various accounts would only perplex and confound our readers, we shall endeavour to give an accurate general statement.
+
+On Saturday intelligence was received that the French Fleet in Brest road, consisting of eighteen sail of the line, besides a number of transports with troops, were ready for sea.— This intelligence induced the Admiralty to order the Fleet under Lord Bridport to put to sea immediately, and instructions to that effect reached him on Saturday morning. His Lordship made signal for weighing and putting to sea, but not a crew would act. It seems they had read the late conversation in the House of Lords, in which *silence* on the subject of the Seamen's complaints was so strongly recommended by Ministers and their friends; and they suspected there was a design of deceiving them; they suspected that Ministers had no serious intention of endeavouring to have their demands sanctioned by Parliament. This was the reason they refused to weigh anchor on Sunday morning; and finding themselves, by the call made on them to put to sea, forced to a decisive line of conduct, they resolved to hold a Convention of Delegates on board the London lying at Spithead. For this purpose, the Delegates from the different ships at St. Helen's and Spithead, took to their boats, and proceeded to the London; but when they came alongside, Admiral Colpoys, whose flag was flying on board the London, cautioned them against acting as they had formerly done.—He told them they had asked a great deal, and obtained much, and he would not suffer them to proceed to demand more. He said they ought to be contented, and if they offered to meet in convention, he would order the Marines to fire on them.— The Admiral had taken particular pains to gain the Marines to his interest, in which he had been ably assisted by Lieutenant Sims, of the Marines. The Delegates, however, persisted. The Admiral ordered the Marines to level their pieces at the Delegates; the Marines did so, and in this situation the Admiral again admonished the Delegates but to no purpose. At this time some slight scuffle took place; one of the Delegates, all of whom were armed with small arms, fired at Lieutenant Sims, and wounded him; the Marines were then ordered to fire by the Admiral, who at the same time desired them to take good aim; they obeyed, and five Seamen were killed, two of whom were Delegates. The whole crew of the London now declared open hostility to the Officers and Marines; they turned the guns in the fore part of the ship towards the stern, and threatened to blow all aft into the water unless they surrendered, and the Marines laid down their arms. Admiral Colpoys was put in irons and confined in one cabin; Captain Griffiths, the Captain of the ship was confined in another; and the Officers and all the Marines were made Prisoners. The Seamen were compleat masters of the London, and not only of the London but of the whole Fleet; which would not put to sea until the demands of the crews were fully agreed to, and ratified by Parliament. It was generally understood in Portsmouth, that Admiral Colpoys was to be tried and executed the next morning at four o'clock, and the report was generally circulated yesterday, of that horrid event having actually taken place. Captain Griffiths was also in danger, and so were several of the Officers. The Seamen were resolved to sacrifice as many Marines, as they had lost comrades. Lieutenant Sims is said to have died of his wounds. This was the situation of the fleet on *Sunday night*.
+
+On Monday soon after receiving the above melancholy intelligence, Earl Spencer, Mr. Pitt, and Mr. Dundas came to town, and a long conference was held at the Admiralty.— A Cabinet Council was afterwards held at Lord Grenville's office, at which the Lord Chancellor, and we believe all the Cabinet Ministers were present, after which they adjourned to the respective Houses of Parliament. The Council we understand resolved to send the ratification by the King in Council of the agreement of Government, to the demands of the Seamen. This ratification was decreed on the 3d instant in Council; and an Official copy of it was late last night sent off from the Admiralty by Mr. Evans, the Messenger, to Sir Peter Parker, at Portsmouth. It was accompanied with an Official copy of the Resolution of the House of Commons, passed yesterday, for providing the necessary sum of money to enable Government to comply with the Seamens' demands; and this is deemed by Ministers a sufficient sanction of Parliament. Mr. Powell also left town late last night with copies of the above papers for Sir John Orde at Plymouth; Mr. Winchester proceeded for Torbay, where Admiral Curtis's squadron has just returned from a cruize off Brest, and another Messenger went to our fleet at Yarmouth with the same papers for the purpose of conciliating the Seamen.
+
+The following extracts from different letters may convey to our readers some idea of the consternation at Portsmouth.
+
+PORTSMOUTH, *May 8th*.  
+The horror and confusion of this town are beyond description, in consequence of the mutiny of the fleet.
+
+It was not the First Lieutenant of the London that was shot last night, but Mr. Sims, First Lieutenant of Marines on board of that ship; and Mr. Simpton one of the Midshipmen, both of whom are in the Hospital.
+
+The following persons were also sent to the Hospital wounded last night:— William Baker, John Pickering, Richard Collins, and Charles ??ton. The three former are dead of the wounds.
+
+*Same date.*  
+This morning some of the Delegates came to inquire how the wounded men were, and being informed that three of them were dead, the Delegates desired to see the bodies, which were shewn them. They then declared that Admiral Colpoy's life should answer for it: and that they would go on board the London—take her to St. Helen's—and try him there this very night.—They went on board immediately confined the Admiral, and are now going down to St. Helen's with the ships.—They also made a signal to every ship at Spithead to follow her down. The Marlborough, of 74 guns, La Nymphe, La Virginie, and many others, are now under weigh and going down.
+
+*Six o'clock—Evening.*  
+Officers from different ships are turned on shore out of numbers.—A ship has just come in from sea, which has been stopped at St. Helen's. I am much afraid there is very little chance for Admiral Colpoys, as I have been told within these few minutes, by one of the Seamen, that he certainly will be hanged to-morrow.—Admirals Lord Bridport and Sir Alan Gardener are still on board.
+
+*Seven o'clock—Evening.*  
+Admiral Colpoys is in irons.—Capt. Griffiths is confined—and the other Officers and Marines are also in custody, at the will, and under the control of the Delegates, who have now, in fact, the command of the fleet.
+
+*Half past Seven.*  
+An Officer is just landed from the Defiance man of war, who says, that the Sailors appeared more quiet, and several letters had passed from ship to ship, wrote by the Delegates, desiring a meeting to-morrow morning, at twelve o'clock, to propose weighing anchor, and settle their disputes on their return.—Admiral Colpoys' is still in irons.
+
+*Nine o'clock.*  
+Four regiments arrived here, in consequence of an express last night from Governor Pitt. We are all in utmost consternation.
+
+*Tuesday, May 9.*  
+About ten o'clock this morning, a messenger arrived from the Admiralty, to the Fleet, with an account of the act of Parliament in their favour having passed. The dispatches were immediately sent to Lord Bridport, and we are happy to learn from authority, were received on board the different ships with a considerable degree of satisfaction. At seven o'clock this evening, Admiral Colpoys, nor any of the officers, had been brought to trial; and from the present very favourable turn of affairs, and the extraordinary moderate temper of the Seamen, there are still hopes that their lives will be preserved. Some ships are without any Commissioned officer at all.—Every officer from the *Duke*, *Terrible*, and *Hinde*, have been landed this day. Troops continue marching into Hilsea Barracks; the moats round Portsmouth and Portsea are filled, and the garrison was last night shut up two hours before the usual time. The old crazy castle of Southsea is also this morning reinforced, and every thing here wears the appearance of meeting a regular siege."
+
+The letters from the Fleet, received on Wednesday, that may be depended upon, state, that Admiral Colpoys and his officers, though retained on board, were not in danger. They were to be sent on shore to the final adjustment of the affair. A number of officers had been sent on shore from different ships by the Seamen. The utmost order prevailed on board the fleet. The Delegates had appointed a set of signals for the conduct of their business, and had completely organized themselves. The only cause of alarm which remained, as we understand, was the number of troops which had been marched into Portsmouth and Gosport for the security of the place, which in the first moment they conceived to be meant in hostility to them. This, however, as well as every other subject of jealousy, will probably soon be removed.
+
+The Seamen and Marines of the *London* have 5s. each prize money due to them, and in the course of payment by Mr. Lindegren, which they have, with a generosity peculiar to Seamen, unanimously set aside for the interment of their Shipmates who died of the wounds they received on Sunday, and the residue to be equally divided amongst those who may survive their hurts.
+```
+
+When communications are near instantaneous, misleading or incorrect reports can travel quickly; when the news travels slowly, with letters taking hours, or even days, to communicate the news, there is scope fot all sorts of confusion.
+
+```{admonition} The letters are contradictory, May 1797
+:class: dropdown
+In *Cambridge Intelligencer*, [Saturday 13 May 1797](https://britishnewspaperarchive.co.uk/viewer/bl/0002155/17970513/007/0002).
+
+Friday's Post.
+LONDON.
+
+THE accounts received this day from Portsmouth are not so satisfactory as could be wished. The letters are contradictory.—Some of them represent the Sailors to be perfectly satisfied, and that every thing is settled; while the writers of others state, that the information which they have been able to collect at Portsmouth, does not lead them to suppose that so desirable an event has yet happened.
+
+Considerable jealousies still exist between the officers of several ships and the men. Admiral Colpoys, is released from his irons, but is not yet on shore.—The Sailors who died of their wounds were buried yesterday by procession. An immense concourse attended.
+```
+
+With the state of the Navy once again a matter of concern, Parliament was apprised of the situation at the start of the week.
 
 ```{admonition} Parliament Discusses the Mutiny, May 1797
 :class: dropdown
@@ -812,6 +902,17 @@ THIS morning at six o'clock Admiral Lord Bridport sailed from St. Helen's with t
 
 *Seven o'clock in the Evening.*. 
 The wind coming about to the West, the fleet, it is expected, will return to St. Helen's, but there is no appearance of them yet. 
+
+```
+
+```{admonition} Sailing the Fleet, May 1797
+:class: dropdown
+
+In *Hampshire Chronicle*, [Saturday 20 May 1797](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17970520/013/0004).
+
+SAILING THE FLEET.
+
+Thursday morning, at six o'clock, the following (hips, under Lord Bridport, failed from St. Helen's and, though the wind was very short, the fleet got roi nd Ledge before with a sufficient offing to get down the Channel: Royal George, Queen Charlotte, Royal Sovereign, Duke, Glory, Terrible, Defiance, Pompée, Impetueux, Defence, Mars, Marlborough, Ramilies, Minotaur, St. Fiorenzo frigate, Incendiary fire-ship, and hospital-ship. —A number of sailors, who had been left behind, were put on-board a cutter, and proceeded through the Needles join their respective ships. 
 
 ```
 
