@@ -31,7 +31,7 @@ Back to Portsmouth, and as is the way of even the *best* laid plans, they never 
 
 He banged on door. Then he banged on the door and shouted. "'Scuse me.. Excuse me... Anyone there? ANYONE THERE?"
 
-Eventually, a couple of men heard the banging, and let him out — "I'm sorry, I just wandered in, curious like, you know" - and they would remember seeing him, later, John the Painter, the Scottish chap, with the pale comolexion and the strange fan tailed hat.
+Eventually, a couple of men heard the banging, and let him out — "I'm sorry, I just wandered in, curious like, you know" - and they would remember seeing him, later, John the Painter, the Scottish chap, with the pale complexion and the strange fan tailed hat.
 
 Back in his lodging room that night, he tried to perfect his slow burn fuse. Clouds of smoke everywhere. He could hear the landlady clattering up the stairs: "What the hell do you think you're doing? Trying to burn my house down?" And she threw him out first thing the next morning. 
 
