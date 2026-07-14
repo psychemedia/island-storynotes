@@ -17,48 +17,71 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-    # 1. Fetch full history so Jupyter Book can accurately check file timestamps
+    # 1. Fetch full history so we can look up each file's last-commit date
     - uses: actions/checkout@v5
       with:
-        fetch-depth: 0 
+        fetch-depth: 0
 
-    # 2. Cache Jupyter Book build artifacts and tracked file modifications
+    # 2. Restore file mtimes from git history. This is the step that actually
+    #    makes incremental builds work: actions/checkout stamps every file with
+    #    "now" on checkout, which makes Sphinx think everything changed. Setting
+    #    each file's mtime to its last commit date means unchanged files keep a
+    #    stable, older mtime, and only genuinely edited files get a newer one.
+    - name: Restore file mtimes from git history
+      run: |
+        git ls-tree -r -t --name-only HEAD | while read -r f; do
+          [ -f "$f" ] || continue
+          ts="$(git log -1 --format=%cI -- "$f")"
+          [ -n "$ts" ] && touch -d "$ts" "$f"
+        done
+
+    # 3. Cache pip downloads separately - keyed only on Python/deps,
+    #    so a content-only change doesn't force a pip reinstall
+    - name: Cache pip downloads
+      uses: actions/cache@v5
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-jb-3.11
+        restore-keys: |
+          ${{ runner.os }}-pip-jb-
+
+    # 4. Cache Jupyter Book build artifacts
+    #    Key includes config/toc and all source content, so any content
+    #    change invalidates the cache bucket appropriately. Combined with the
+    #    mtime restoration above, Sphinx will still only rebuild what changed.
     - name: Cache Jupyter Book build
       uses: actions/cache@v5
       with:
-        path: |
-          _build/
-          ~/.cache/pip
-        # Added **/*.md and **/*.ipynb to the key so any content change invalidates the old cache root
+        path: _build/
         key: ${{ runner.os }}-jb-${{ hashFiles('_config.yml', '_toc.yml', '**/*.md', '**/*.ipynb') }}
         restore-keys: |
           ${{ runner.os }}-jb-
 
-    # 3. Setup Python
+    # 5. Setup Python
     - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
         python-version: 3.11
 
-    # 4. Install dependencies
+    # 6. Install dependencies
     - name: Install dependencies
       run: |
         pip install "jupyter-book<2" ou-jupyter-book-tools
 
-    # 5. Build the book (Will now incrementally build only the changed pages)
+    # 7. Build the book (will now genuinely incrementally build only changed pages)
     - name: Build the book
       env:
         SPHINXOPTS: "-j auto"
       run: |
         jupyter-book build .
 
-    # 6. Upload artifact (Updated to v4 to clear Node deprecation warnings)
+    # 8. Upload artifact
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v4
       with:
         path: ./_build/html
 
-    # 7. Deploy to GitHub Pages (Updated to v5 to clear Node deprecation warnings)
+    # 9. Deploy to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v5
