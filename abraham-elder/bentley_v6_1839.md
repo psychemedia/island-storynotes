@@ -755,7 +755,7 @@ Should you like such?"
 
 John Kann here made another bow, and answered, "Very much. But the fact is," he continued, "my most worshipful little gentleman, if you were to give me all the gold in the world, I am not big enough or strong enough to carry more than one seven-shilling piece at the outside, — that is to say, unless it is your pleasure to make me tall again before you hand me over the money."
 
-Mr. Puck got very fidgety at this ill-timed interruption, and kept waving his hand backwards and forwards in token of his royal impatience. When John Kann stopped, he continued,—-
+Mr. Puck got very fidgety at this ill-timed interruption, and kept waving his hand backwards and forwards in token of his royal impatience. When John Kann stopped, he continued,—
 
 "There is a spot that you may see  
 When walking on the strand,  
