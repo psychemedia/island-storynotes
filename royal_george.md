@@ -12,6 +12,9 @@ p.26
 
 A poor little child was also miraculously preserved by a sheep, who swam with it for some time, holding only by its fleece, when the little fellow was taken off by a gentleman in a wherry. His father and mother were drowned, and the boy did not know their names; all he knew was that his own name was Jack, so he was christened John Lamb. The gentleman ever after provided for him. A nautical drama on the supposed parentage and adventures of this child, was played both in London and the country, in 1840, with great success. It was called, 'The Wreck of the Royal George.'
 
+
+
+
 ## The Raising of the Royal George
 
 ```{admonition} Awaiting an attempt to raise the Royal George, June 1783
