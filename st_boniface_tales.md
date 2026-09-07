@@ -159,7 +159,7 @@ Chapter IV
 
 "Did he tell you those tales while you were standing in that dangerous spot?"
 
-"He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon; and the tale commonly told about it was this: —-Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
+"He did. He said there was a strip of land at the bottom of the high down that no one could ever build upon; and the tale commonly told about it was this: —Once upon a time a certain bishop, on horseback, whether it was bishop Boniface or not, he did not say, was benighted on the high down. Not knowing what to do, he threw the reins on the neck of his horse, that he might take his own course. The horse directly began to descend the precipitous steep."
 
 "What! down the steep side of St. Boniface?"
 
