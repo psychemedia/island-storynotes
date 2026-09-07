@@ -16,10 +16,18 @@ Many of the tales are, and will be, continuing works in progress. Several of the
 
 ## Some of other storynotes collections
 
-- [Isle of Wight Storynotes](https://psychemedia.github.io/island-storynotes/preface.html)
-- [In Search of Fionn MacCumhaill and the Fianna](https://psychemedia.github.io/finn-resources/preface.html)
-- [On the Trail of the Sin Eater](https://psychemedia.github.io/sin-eater-resources/_intro.html)
-- [On the Loss of the Eurydice](https://psychemedia.github.io/eurydice-resources/_preface.html)
-- [Winter Tales](https://psychemedia.github.io/winter-tales/intro.html) 
+- "[*General storytelling notes*](https://storytelling-notes.montystoryteller.org)"
+- "[*Isle of Wight Storynotes*](https://island-storynotes.montystoryteller.org)"
+- "[*Newport, Nursery of Vice*](https://nursery-of-vice.montystoryteller.org/preface.html")
+- "[*In Search of Fionn MacCumhaill and the Fianna*](https://fionnmaccumhail.montystoryteller.org)"
+- "[*Middle English Romances*](https://middle-english-romances.montystoryteller.org)"
+- "[*Winter Tales*](https://winter-tales.montystoryteller.org)"
+- "[*Classical Greek and Roman Myths*](https://classics.montystoryteller.org)"
+- "[*On the Trail of the Sin-Eater*](https://sineater.montystoryteller.org)"
+- "[*On the Loss of the Eurydice*](https://eurydice.montystoryteller.org)"
+- "[*Chasing the Ace of Spades*](https://ace-of-spades.montystoryteller.org)"
+- "[*Protest Days — Tales from the Luddite Times*](https://protest-days-luddites.montystoryteller.org/)"
+
+__If you are interested in live storytelling events, check out [The New Troubadours](https://newtroubadours.org/) event listings website, a comprehensive directory of traditional performance storytelling in the UK.__
 
 [__Please support this and other related Storynotes initiatives via Patreon.__](https://www.patreon.com/bePatron?u=3266916)

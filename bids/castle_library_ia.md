@@ -59,4 +59,4 @@ For a fully costed project, costs are likely to include at least the following:
 
 - National Archives, Research and Innovation Grants, up to £10k "focused on addressing digital transformation, environmental sustainability and inclusive practice in the archives sector".  https://www.nationalarchives.gov.uk/archives-sector/grants-and-funding/research-and-innovation-grants/how-to-apply/ Open: 11th August 2025 Close: 12th September 2025 Panel: November 2025
 
-*Early stage proof-of-concept is the sort of thing I have tended to do in my spare time. For example, around the lockdown times, I explored search tools around fairy tale collections and Notes and Queries (the latter using resources from the Internet Archive https://psychemedia.github.io/storynotes/preface.html*
+*Early stage proof-of-concept is the sort of thing I have tended to do in my spare time. For example, around the lockdown times, I explored search tools around fairy tale collections and Notes and Queries (the latter using resources from the Internet Archive).*

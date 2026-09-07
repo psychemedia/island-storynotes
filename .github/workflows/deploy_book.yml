@@ -66,7 +66,7 @@ jobs:
     # 6. Install dependencies
     - name: Install dependencies
       run: |
-        pip install "jupyter-book<2" ou-jupyter-book-tools
+        pip install "jupyter-book<2" ou-jupyter-book-tools sphinx-sitemap
 
     # 7. Build the book (will now genuinely incrementally build only changed pages)
     - name: Build the book
