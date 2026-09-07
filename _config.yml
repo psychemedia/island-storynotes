@@ -7,9 +7,6 @@ repository:
   url: https://github.com/psychemedia/island-storynotes
   path_to_book: .
   branch: main
-sphinx:
-  extra_extensions:
-    - sphinx_sitemap
 
 html:
   use_repository_button: true
@@ -22,3 +19,4 @@ sphinx:
 
   extra_extensions:
     - sphinx_togglebutton
+    - sphinx_sitemap
