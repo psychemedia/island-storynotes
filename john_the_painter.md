@@ -1,6 +1,6 @@
 # Setting the Scene
 
-Although set in Portsmouth I first heard this tale at Festival at The Edge, in 2025, from a Nottingham based teller whose name I forget (Jim, maybe?). He'd lived in Portsmouth and heard this tale, told as a ghost story based on fact, from a local naval man. The name he used for main character — "Peter the painter" — was either misremembered, or reimagined to provide some distance to the original, historical tale. `(There was a "Peter the Painter" in the Sidney Street Siege, of January, 1911...)`
+Although set in Portsmouth I first heard this tale at Festival at The Edge, in 2025, from a Nottingham based teller whose name I forget (Jim, maybe?). He'd lived in Portsmouth and heard this tale, told as a ghost story, based on fact, from a local naval man. The name he used for main character — "Peter the painter" — was either misremembered, or reimagined to provide some distance to the original, historical tale. `(There was a "Peter the Painter" in the Sidney Street Siege, of January, 1911...)`
 
 > Royal timber yard; The ship. scotsman. American war; plan to burn fleet. hanged from yard arm, hanged in chains at tide level. Bodyparts stolen. Head in ship.  Haunted upstairs bedroom (hourly rate). Priest. Bishop. ?Old Bob (sold winds; bag tied with wind, open by sailor end of outbound leg, favourable wind back; (survivor bias/wald)). Get rid of ghost. Through keyhole. Don't believe, get into bottle. stoppered. (bottle walled up, rediscovered, keepsake, Titanic)
 
@@ -37,6 +37,25 @@ It's 1776, and Britain is at war with America, but not, for now at least, with F
 His Majesty's dockyards, at Portsmouth, Plymouth, and elsewhere provision and maintain the ships that project British power across the Atlantic.
 
 The dockyards are defended from attack from land and sea. Sea defences guard entry to the ports from naval attack; defensive walls protect the yards from land attacks.
+
+```{admonition} Maps of old Portsmouth
+:class: dropdown
+
+
+![OS Hampshire & Isle of Wight Sheet LXXXIII
+Surveyed: 1856, Published: ca. 1871 https://maps.nls.uk/view/266663065](images/NLS_os_portsmouth_dockyard.png)
+
+![https://maps.nls.uk/view-full/266663065#zoom=4.2&lat=8807&lon=16424&layers=BT](images/portsmouth_dockyard_portsea.png)
+
+![Portsmouth map 1810 https://maps.nls.uk/view/257576537](images/portsmouth_map_1810.png)
+
+![Portsmouth map 1750 https://commons.wikimedia.org/wiki/File:A_plan_of_the_town_and_fortifications_of_Portsmouth,_with_the_Blockhouse_Fort_and_the_Gunwharfe_(1750).jpg](images/portsmouth_1750.png)
+
+![Plan of old Portsmouth, 1774 https://upload.wikimedia.org/wikipedia/commons/6/6a/A_plan_of_His_Majesty%27s_dock_yard_at_Portsmouth%2C_1774.jpg](images/portsmouth_dockyard_1774.png)
+
+![1750 Old magazine (square tower) at bottom of High st, Round Tower and Blockhouse fort beach](images/square_tower_round_blockhouse.png)
+
+```
 
 At Portsmouth, there's one main gate into the dockyard, near the Hard, where there's still an entrance to this day.
 
@@ -85,7 +104,6 @@ It was yesterday morning reported, that three persons had been taken into custod
 
 An anonymous letter has been sent to a distinguished personage, which it is thought may lead to a discovery of the incendiaries who fired Portsmouth dock-yard. Messengers have been dispatched to make enquiries mentioned in the letter.
 ```
-
 
 ```{admonition} It could have been worse, December 1776
 :class: dropdown
@@ -152,8 +170,9 @@ A party of the dragoon guards arrived here with 50,000*l.* sterling, to pay the 
 
 ```
 
-Arson was suspected, but nothing could be proven...
+![Grand Magazine / square tower, High St](images/grand_magazine+portsmouth_high_st.png)
 
+Arson was suspected, but nothing could be proven...
 
 ```{admonition} Bow Street Men Sent to Portsmouth, December 1776
 :class: dropdown
@@ -178,6 +197,8 @@ COUNTRY NEWS.
 *Portsmouth, Dec. 13.* The Comptroller, and several of the Commissioners of the Navy, having been for several days past examining into the state of the Dock-yard in consequence of the late fire, and of persons on whom the slightest suspicions had fallen, but had not been able to detain any one, the suspicions appearing to be groundless. The damage sustained is the rope-house, and a few stores, and rigging to the Princess Amelia, now fitting out, and the workmen's tools. The greatest loss is the want of the rope-house, for now the ropemakers and spinners are going to the other Dock-yards to work until a temporary place can be built for them here, which will take up a considerable time.
 
 ```
+
+Security precautions at the Dock yard gates were also increased.
 
 ```{admonition} Everyone on their guard, December 1776
 :class: dropdown
@@ -545,6 +566,20 @@ In *Belfast News-Letter*, [Tuesday 11 March 1777](https://britishnewspaperarchiv
 
 ```
 
+John the Painter would be tried under the terms of an act made in 1772 ([12 Geo. 3. c. 24](https://books.google.co.uk/books?id=qJkPh5UF19YC&pg=PA563#v=onepage&q=arson%20&f=false)) "for the better securing and preserving His Majesty's Dock Yards, Magazines, Ships, Ammunition, and Stores"*.
+
+```{admonition} Securing and preserving His Majesty's Dock Yards, 1772
+:class: dropdown
+In *The Statutes at Large: 11-13 Geo*, [12 Geo. 3. c. 24, pp402-3](https://books.google.co.uk/books?id=qJkPh5UF19YC&pg=PA563#v=onepage&q=arson%20&f=false).
+
+An Act for the better securing and preserving His Majesty's Dock Yards, Magazines, Ships, Ammunition, and Stores.
+
+WHEREAS the safety and preservation of his Majesty's Ships of War, Arsenals, Magazines, Dock Yards, Rope Yards, Victualling Offices, Military, Naval, and Victualling Stores, and the Places where such stores are kept or deposited, either within this Realm or in any of the Islands, Countries, Forts, or Places thereunto belonging, is of great Importance to the Welfare and Security of the Kingdom; may it please Your most Excellent Majesty that it may be enacted; and be it enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, that if any Person or Persons shall either within this Realm, or in any of the Islands, Countries, Forts, or Places thereunto belonging, wilfully and maliciously set on fire, or burn, or otherwise destroy, or cause to be set on fire, or burnt, or otherwise destroyed, or aid, procure, abet, or assist in the setting on fire, or burning, or otherwise destroying of any of His Majesty's Ships or Vessels of War, whether the said Ships or Vessels of War be on float or building, or begun to be built, in any of His Majesty's Dock Yards, for the Use of His Majesty, or any of His Majesty's Arsenals, Magazines, Dock Yards, Rope Yards, Victualling Offices, or any of the Buildings erected therein or belonging thereto; or any Timber or Materials there placed for building, repairing, or fitting out of Ships or Vessels; or any of His Majesty's Military, nNval, or Victualling Stores, or other Ammunition of War or any Place or Places where any such Military, Naval, or Victualling Stores or other Ammunition of War is, are, or shall be kept, placed, or deposited; that then the Person or Persons guilty of any such Offence, being thereof convicted in due form of Law, shall be adjudged guilty of Felony, and shall suffer Death as in Cases of Felony, without Benefit of Clergy.
+
+II. And be it further enacted by the Authority aforesaid, That any Person who shall commit any of the Offences before mentioned, in any Place out of this Realm, may be indicted and tried for the same, either in any Shire or County within this Realm, in like Manner and Form as if such Offence had been committed within the said Shire or County, or in such Island, Country, or Place where such Offence shall have been actually committed, as His Majesty, His Heirs or Successors, may deem most expedient for bringing such Offender to Justice; any Law, Usage, or Custom notwithstanding.
+
+```
+
 The Assizes began, with the trial date called for Thursday, March 16th, 1777. And the crowds gathered.
 
 ```{admonition} The streets were full, March 1777
@@ -676,6 +711,8 @@ Printed for G. Kearsly, at No, 46, near serjeant's Inn, Fleet-street, London and
 
 ```
 
+The case also provoked reminiscences about previous encounters with John the Painter.
+
 ```{admonition} Anecdote of John the Painter, March 1777
 :class: dropdown
 
@@ -714,7 +751,6 @@ In *Derby Mercury*, [Friday 14 March 1777](https://britishnewspaperarchive.co.uk
 "He was brought in a Coach from Winchester to the common Gaol, and from thence to the Dock, drawn in a Cart round the Buildings which he set on Fire, and from thence to the Place of Execution. He made a long speech, but what he said I have not as yet heard."
 
 We have just received from another Correspondent at Portsmouth the following Intelligence: Before the Execution of John the Painter, he was drawn in a Cart, pinioned, round the Dock-Yard; on his passing the House of Mr. Gambier, he desired to speak with him; on the Commissioner's coming to him, he expressed a Penitence for his Crime, acknowledged the Justness of his sentence, and advised him to be particularly cautious who was admitted into the Docks, as he had Reason to think other Attempts would be made. "I intended (added he) to have given a stab in the side, but it has only been a slight scratch in the Hand." He also remarked, of all the Docks, Plymouth was the most easy to carry such attempts into Execution. He desired this Intelligence might be given to the Lords of the Admiralty, and concluded, "I have been a very wicked Fellow, but hope, through the Merits of Christ to be forgiven." He was executed on a Gibbet fifty Feet high, in view of all the shipping. — The Gaoler says he has given a more ample Account to him.
-
 
 ```
 

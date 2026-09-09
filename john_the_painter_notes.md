@@ -1,4 +1,4 @@
-# John the Paiter — Notes
+# John the Painter — Notes
 
 
 
@@ -78,3 +78,15 @@ https://babel.hathitrust.org/cgi/pt?id=mdp.39015088246494&seq=9
 A narrative of the objects and proceedings of Silas Deane, as commissioner of the United Colonies to France; made to the British government in 1776 / by Edward Bancroft. Ed. by Paul Leicester Ford
 
 Published 1891
+
+
+
+https://www.portsmouth.gov.uk/wp-content/uploads/2020/05/lib-portsmouth-encyclopaedia-2011.pdf
+
+Maps
+
+https://commons.wikimedia.org/wiki/Category%3AOld_maps_of_Portsmouth?utm_source=chatgpt.com
+
+https://upload.wikimedia.org/wikipedia/commons/6/6a/A_plan_of_His_Majesty%27s_dock_yard_at_Portsmouth%2C_1774.jpg
+
+https://maps.nls.uk/view/266663065
