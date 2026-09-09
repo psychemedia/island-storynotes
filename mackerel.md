@@ -715,7 +715,7 @@ COWES. On Monday night last the Revenue cutter Stag, Charles Griffin Clarke, com
 https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18440203/035/0008
 Hampshire Advertiser - Saturday 03 February 1844
 
-Newport Petty Sessions.—  ... *James Barton*, *Stephen Groves*, *Edward White*, *William Lane*, *John Symonds*, and *Charles Hayles*, were charged with smuggling and pleaded Guilty. (The case was fully reported in our last.) They were each committed for six months imprisonment.
+Newport Petty Sessions.— ... *James Barton*, *Stephen Groves*, *Edward White*, *William Lane*, *John Symonds*, and *Charles Hayles*, were charged with smuggling and pleaded Guilty. (The case was fully reported in our last.) They were each committed for six months imprisonment.
 
 
 https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18470327/027/0005
@@ -731,7 +731,7 @@ It was proved that they had a sufficient quantity of provisions, and Mr Pring st
 
 The Chairman said, as complainant had been guilty of smuggling, and convicted, they should be setting a bad example were they to order the payment of the wages. They should, therefore, dismiss the case.
 
-```{admonition} VENTNOR  - Saturday 04 June 1870
+```{admonition} VENTNOR - Saturday 04 June 1870
 :class: dropdown
 
 [Isle of Wight Observer - Saturday 04 June 1870](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18700604/021/0008)

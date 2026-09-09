@@ -39,7 +39,7 @@ But now he was a man on a mission. Back into the dockyard, where he noticed a co
 
 As he makes his way out of town, he looks back towards Portsmouth, an orange glow on the horizon.
 
-Marines and sailors from the dockyard, citizens of Portsea, had been quick to action, and  only the rope store was lost, albeit all three hundred and fifty brick built yards of it. But was it arson, or just an accident?
+Marines and sailors from the dockyard, citizens of Portsea, had been quick to action, and only the rope store was lost, albeit all three hundred and fifty brick built yards of it. But was it arson, or just an accident?
 
 A couple of men were arrested as they climbed out of one of the windows, but they'd been caught inside when the fire had started. A brief attempt was made to find, and question the man seen in the dockyard the day before, John the Painter, but there was no real evidence it was arson, so they let the matter drop there.
 

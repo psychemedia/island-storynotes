@@ -4,7 +4,7 @@ The claim that the tale of "The Three Little Pigs" was submitted to Halliwell so
 
 > The compiler's best thanks are due to Captain Henry Smith for the very interesting communication of rhymes current in the Isle of Wight; ...
 
-Smith is also cited in the 1849 edition in respect of the submission relating to Shrove Tuesday customs,  [pp. 246-9](https://archive.org/details/popularrhymesan00hallgoog/page/n266/mode/2up):
+Smith is also cited in the 1849 edition in respect of the submission relating to Shrove Tuesday customs, [pp. 246-9](https://archive.org/details/popularrhymesan00hallgoog/page/n266/mode/2up):
 
 ````{admonition} ISLE OF WIGHT SHROVERS
 :class: dropdown seealso

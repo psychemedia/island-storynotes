@@ -5,7 +5,7 @@ https://archive.org/details/b3038834x/page/14/mode/2up
 The trial, with the whole of the evidence, between the Right Hon. Sir Richard Worsley, bart. ... and George Maurice Bisset, esq., defendant, for criminal conversation with the plaintiff's wife; before the Rt. Hon. William, earl of Mansfield, and a special jury, in His Majesty's court of King's-bench, Westminster-hall, on Thursday the 21st of February, 1782. Taken in short hand, by Robert Pye Donkin
 
 THE TRIAL, WITH THE
-WHOLE of the EVIDENCE, BETWEEN The RIGHT HONOURABLE Sir Richard Worsley, Bt, PLAINTIFF, AND  Geo, Maurice Bisset, Esq.
+WHOLE of the EVIDENCE, BETWEEN The RIGHT HONOURABLE Sir Richard Worsley, Bt, PLAINTIFF, AND Geo, Maurice Bisset, Esq.
 
 T R I A L,
 WITH THE
@@ -47,7 +47,7 @@ AND
 
 GEORGE MAURICE BISSET, Esq; otherwise MAURICE BISSET, Esq; Defendant.
 
-THE Declaration stated, that the Defendant, on the 19th day of November, 1781, and on divers other days and times, between  that day and the 24th of the same month, at Westminster, in the county of Middlesex, with force and arms, made an assault on Seymour, the Wife of the Plaintiff, and then and there debauched, deflowered, lay with, and carnally knew her, the said Seymour, to the Plaintiff's damage of 20,000l.
+THE Declaration stated, that the Defendant, on the 19th day of November, 1781, and on divers other days and times, between that day and the 24th of the same month, at Westminster, in the county of Middlesex, with force and arms, made an assault on Seymour, the Wife of the Plaintiff, and then and there debauched, deflowered, lay with, and carnally knew her, the said Seymour, to the Plaintiff's damage of 20,000l.
 
 To this declaration the Defendant pleaded not guilty, and thereupon issue was joined.
 
@@ -83,7 +83,7 @@ Q. Do you recoiled! what time?— I believe it was in June or July.
 
 Q. What year?— In the year 1781.
 
-Q.  Had you any previous acquaintance with Captain Bisset?— None, Sir.
+Q. Had you any previous acquaintance with Captain Bisset?— None, Sir.
 
 Q. Then that was your first knowledge of him?— My first knowledge of him was at High Wickam. I aaw him on the parade there.
 
@@ -237,7 +237,7 @@ Q. Did you live there in November last, when a Gentleman and Lady came to the Ap
 
 In what capacity did you serve in the house?— As house-keeper.
 
-Q.  Do you know* after this Gentleman and Lady lodged at this house, where they slept?— Their dining-room was in the Apollo^ and their bed-chamber in No. 14.
+Q. Do you know* after this Gentleman and Lady lodged at this house, where they slept?— Their dining-room was in the Apollo^ and their bed-chamber in No. 14.
 
 Q. Was that adjoining to the Apollo?- No, they do not join; it was very near it.
 

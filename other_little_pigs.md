@@ -133,7 +133,7 @@ Why, who ever before saw a pig in a wig?
 
 Where are you going to, you little pig?  
 "The butcher is coming, I've grown so big!"  
-The butcher!  Poor pig!
+The butcher! Poor pig!
 Are you grown so big?
 Well, I think it high time then you hop the twig!
 

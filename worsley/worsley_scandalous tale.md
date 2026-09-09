@@ -100,7 +100,7 @@ The Attorney General, as counsel for the plaintiff, opened the cause, stating a 
 
 Lord *Peterborough* was next examined; his figure impressed on the minds of the Jury a great probability of his being successful in the Lady's *good opinion*. As *Quitam* says in the farce, "Had he been seen knocking at the street door, it would have been sufficient." His Lordship, however, was reserved in his evidence, and said little more than that he had known the Lady.
 
-The *Marquis of Graham* was the third evidence. In the course of which he spoke with uncommon modesty; we hope this truth is no libel on a man of fashion---the fact is, he spoke very feelingly on the the occasion, and some saucy auditors were ill-natured enough to say it was not surprizing, as his Lordship had received favours from the Lady that had made a lasting impression.
+The *Marquis of Graham* was the third evidence. In the course of which he spoke with uncommon modesty; we hope this truth is no libel on a man of fashion---the fact is, he spoke very feelingly on the occasion, and some saucy auditors were ill-natured enough to say it was not surprizing, as his Lordship had received favours from the Lady that had made a lasting impression.
 
 The Hon. Mr. *Windham* was next sworn. He acknowledged to have visited Lady Worsley. Counsel then asked him if he had not received a ring from her Ladyship as a present; he said he had---was it a wedding-ring; ---he could not tell that---was it a plain ring? yes.---Her Ladyship's ring closed this evidence.
 
@@ -181,7 +181,7 @@ Our story takes a turn for the unconventional when one George Bisset arrives on 
 In September 1781, George, Seymour and Sir Richard decided to pay a visit to Maidstone's segregated bathhouse. After a quick dip, the two men found a window high above the women's bathing rooms. Sir Richard then called out to his wife, 'Seymour, Seymour, Bisset is going to get up and look at you!' He lifted George onto his shoulder, and George spent a few quiet moments watching Seymour and her scandalised servant get dressed.
 Shocking goings on such as these would probably have stayed secret if George and Seymour hadn't then eloped, and titillation turned to public humiliation for poor old Sir Richard. He decided to sue George for a cripplingly massive sum of money, on the grounds that his treacherous captain had 'damaged' his wife. George's defence stated that he couldn't possibly have damaged the dishonourable Lady Worsley bearing in mind widespread rumours that he was, in fact, her 28th sexual conquest, and furthermore the bathhouse incident proved Richard had in fact deliberately accelerated his own cuckolding. The judge agreed, and Sir Richard was awarded compensation of a single shilling. Details of the trial were covered in minute detail in the press, and an eager readership turned the court report into the first bestseller to emerge from the scandal. Apparently George Washington owned a copy.
 A better candidate for the title of the 50 Shades of Grey of its day is the poem Lady Worsley – shunned by society and seeking refuge in progressive, permissive France – commissioned to put forward her side of the story. An Epistle from L-y W-y to S-r R-d W-y seeks to defend her motivations and actions with steamy rhyming couplets written in the first person:
-… with B—-t stopt, for he could give
+… with B——t stopt, for he could give
 What from thine arms I never could receive.
 From him no tiezing titillations came,
 He rais'd those passions which he could well tame.

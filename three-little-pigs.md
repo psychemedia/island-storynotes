@@ -60,7 +60,7 @@ Well, he huffed, and he puffed, and he huffed, and he puffed, and he puffed, and
 ```{admonition} The origin of "Merry Garden"
 :class: dropdown
 
-From the *Hampshire Advertiser*,  [Saturday 04 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471204/045/0007), we learn:
+From the *Hampshire Advertiser*, [Saturday 04 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471204/045/0007), we learn:
 
 > *Gard's Gift to the Poor.* — This parish [Godshill] is likewise entitled to the annual sum of 30s, being a portion of the numerous gifts of Richard Gard, stated in the account of the charities of the parish of Arreton. This sum is paid to the churchwardens by the owner of an estate in Brading formerly called Black-pan, but now the Merry Gardens, and is distributed in small sums amongst the poor at the discretion of the churchwardens.
 

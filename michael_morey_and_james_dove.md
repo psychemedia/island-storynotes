@@ -2,7 +2,7 @@
 
 June, 1736. Arreton. A woodcutter and his grandson set off to Newport to buy *Necessaries*. But they don't return home to their cottage, a place called Sullens, that night. Nor the next...
 
-Although the original court records that later dealt with the case were lost, an account does exist, albeit, in brief, in volume LIII of the  *Political State of Great Britain*, [p535-6](https://books.google.co.uk/books?id=WGo5AQAAMAAJ&pg=PA423&dq=Political+State+of+Great+Britain+vol+LIII&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi4ksfdro34AhXISkEAHXhyA5kQ6AF6BAgHEAI#v=onepage&q=wight&f=false):
+Although the original court records that later dealt with the case were lost, an account does exist, albeit, in brief, in volume LIII of the *Political State of Great Britain*, [p535-6](https://books.google.co.uk/books?id=WGo5AQAAMAAJ&pg=PA423&dq=Political+State+of+Great+Britain+vol+LIII&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwi4ksfdro34AhXISkEAHXhyA5kQ6AF6BAgHEAI#v=onepage&q=wight&f=false):
 
 > "Extract of a Letter from Hampshire.
 > 

@@ -381,7 +381,7 @@ https://wellcomecollection.org/articles/WxEniCQAACQAvmUE
 The bishop's profitable sex workers
 
 
-Odo  - first chief justice http://www.duhaime.org/LawMuseum/LawArticle-1122/Odo-of-Bayeux-First-Chief-Justice-of-England-1038-1096.aspx
+Odo - first chief justice http://www.duhaime.org/LawMuseum/LawArticle-1122/Odo-of-Bayeux-First-Chief-Justice-of-England-1038-1096.aspx
  Few had legal training and the trust of William but his half-brother, the bishop Odo, who was named as first chief justice of the new realm.
 
  Odo was also made a powerful land baron, granted the lucrative earldom of Kent, and he held the alternate title of the Earl of Kent.
@@ -639,7 +639,7 @@ telligence in the Cotentin/ and lost no time in beginning my march contrary to t
 * For Maurilius, archbishop of Rouen, see before p. 1G4, and his epitaph, j). 7.
 
 
-A.D. 10S7.]    "SVILLIA.M THE CONQTJEUOR'S ACTS. 407
+A.D. 10S7.] "WILLIAM THE CONQTJEUOR'S ACTS. 407
 
 "On one occasion, King Henry, was so enraged against me, that he invaded my territories with a vast army in two divisions, in order to overwhelm them by a double attack.^ He led one body of troops himself into the diocese of Evreux, and ravaged the whole country on this side the Seine, while he gave the command of the other division to his brother Eudes,- with Eeynold de Clermont, and the two counts, Ealph de Montdidier,^ and Guy de Ponthieu,*, with orders to enter Normandy by the fords of the Epte,^ and, carrying fire and sword through Brai and the Talois, with the whole district of Rouen, to continue their devastations to the sea-
 
@@ -922,7 +922,7 @@ TO DO
 Publication date 1825
 p. 18-21
 
-During his absence the king had intrusted the reins of government to William Fitz-Osbern, and Odo, bishop of Bayeux. Odo was his uterine brother, the son of Herleva by her husband Herluin. `[Herleva married Herluin after the death of Robert. Her children by this marriage were Robert, earl of Mortagne; Odo, bishop of Bayeux; and a daughter, countess of Albemarle. — Will. Gem. vii. 3; viii. 37.]` The favour of William had promoted him at an early age to the see of Bayeux; and he soon displayed extraordinary abilities both in the administration of his diocese, and in the counsels of his sovereign. He possessed a splendid revenue, and spent it in beautifying his episcopal city, and rewarding the services of his retainers. In obedience to the canons he forbore to carry arms; but he constantly attended his brother in battle, and assisted with his advice in every military enterprise. "He was," says a historian who had probably shared in his bounty, "a prelate of such rare and noble qualities, that the English, barbarians as they were, could not but love him and fear him." `[Piet. 152]` On the other hand, we are assured by another  Norman, but a less partial writer, that his character was a compound of vice and virtue; and that, instead of attending to the duties of his station, he made riches and power the principal objects of his pursuit. `[Orderic, 255.]`
+During his absence the king had intrusted the reins of government to William Fitz-Osbern, and Odo, bishop of Bayeux. Odo was his uterine brother, the son of Herleva by her husband Herluin. `[Herleva married Herluin after the death of Robert. Her children by this marriage were Robert, earl of Mortagne; Odo, bishop of Bayeux; and a daughter, countess of Albemarle. — Will. Gem. vii. 3; viii. 37.]` The favour of William had promoted him at an early age to the see of Bayeux; and he soon displayed extraordinary abilities both in the administration of his diocese, and in the counsels of his sovereign. He possessed a splendid revenue, and spent it in beautifying his episcopal city, and rewarding the services of his retainers. In obedience to the canons he forbore to carry arms; but he constantly attended his brother in battle, and assisted with his advice in every military enterprise. "He was," says a historian who had probably shared in his bounty, "a prelate of such rare and noble qualities, that the English, barbarians as they were, could not but love him and fear him." `[Piet. 152]` On the other hand, we are assured by another Norman, but a less partial writer, that his character was a compound of vice and virtue; and that, instead of attending to the duties of his station, he made riches and power the principal objects of his pursuit. `[Orderic, 255.]`
 
 To Odo had been assigned the government of Kent, the inhabitants of which, from their frequent intercourse with the continent, were deemed less savage than the generality of their countrymen. `[Unde a minus feris hominibus incolitur. Pict. 152]` The remainder of the kingdom was committed to the vigilance of Fitz-Osbern, a Norman baron, related on the mother's side to the ducal family. William and he had grown up together from their infancy; and the attachment of their childish years had been afterwards strengthened by mutual services. In every civil commotion Fitz-Osbern had supported his sovereign; to his influence was attributed the determination of William to invade England; and to the praise of consummate wisdom in the cabinet he added that of unrivalled courage in the field. He was considered the pride of the Normans and the scourge of the English. `[Pidt. 151.]`
 
