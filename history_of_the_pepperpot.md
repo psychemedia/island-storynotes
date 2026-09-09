@@ -677,7 +677,7 @@ The forms of the hills and valleys were much the same then as now. The little st
 
 ## The Wine Trade
 
-To provide a little more context for the story, a brief consideration of the more general state of the the wine trade in Northern Europe around this period of time suggest that while the case surround the wreck of the St Mary at Chale was a *notable* one, it was not necessarily an *uncommon* one.
+To provide a little more context for the story, a brief consideration of the more general state of the wine trade in Northern Europe around this period of time suggest that while the case surround the wreck of the St Mary at Chale was a *notable* one, it was not necessarily an *uncommon* one.
 
 ```{admonition} The wine trade in England
 :class: dropdown
