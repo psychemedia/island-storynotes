@@ -27,7 +27,7 @@ TO DO
 - took various jobs (lottery runner, electoral fixer, even standing (unsuccessfully) for MP (or was that also part of a fix), then joined the naval office)
 - after some time, saw an opportunity to make his own income from the sea;
 - implication of smuggling; but also information; at that time, navy office info was poor so he implied people who worked for him he was providing better information;
-- as well as liquor and lace, he also egan to trade in information
+- as well as liquor and lace, he also began to trade in information
 - one day, his boat runner unavailable;
 - up in London, wife dropped off papers, went back down to Portsmouth;
 - smuggling implication;
@@ -38,7 +38,7 @@ TO DO
 
 ## Setting the Scene
 
-It's 1792. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before that period of regal profligacy often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
+It's 1782. England is at war with France, and America is fighting for independence from the British Crown. Although it's still a year or two before that period of regal profligacy often referred to as the *Regency period* in England, descriptions of the Queen's official birthday celebrations that year hint at what is to come.
 
 ```{admonition} Being the anniversary of her Majesty's birth-day, January, 1782
 :class: dropdown
@@ -82,6 +82,13 @@ The Ladies' heads in general were of a very moderate altitude. It was observable
 The dancing did not cease till one in the morning, and the Prince did not quit the ball-room before half after one.
 ```
 
+```{admonition} On the Ladies' hair dressing, February 1782
+:class: dropdown
+In *Magee's Weekly Packet*, [Saturday 09 February 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0001135/17820209/022/0004).
+
+... Many ladies also displayed rich bunches of pearl or chain-work of the same, intermixed with the fur, French beads disposed in the same manner, and a few moved under a weight of diamond knots, boquets, and adjustments.— Their heads were chiefly decorated with artificial flowers, or coloured feathers, and in general were of avery moderate height. The Cypress powder was most worn in the morning, and the Artois powder in the evening; and the hair was dressed out in a frized peak at the top, which came down upon and lessened the forehead, cut short at the sides, covering half the ear, and curled into feathers. ...
+```
+
 ```{admonition} A most superb carriage, January 1872
 :class: dropdown
 In *Stamford Mercury*, [Thursday 24 January 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820124/009/0002).
@@ -115,6 +122,47 @@ In the first country dance the Princess Royal's shoe slipped off, which occasion
 The Duchess of Argyll, Ladies Hertford and Effingham, attended yesterday as Ladies in waiting to the Queen; Miss Tryon, Miss Vernon, Miss Boscawen, Miss Jeffryes, and Miss Gunning, as Maids of Honour.
 
 Yesterday Lord North, the Secretaries of State, and Lord Waldegrave, Master of the Horse to the Queen gave each grand entertainments to the Nobility and Foreign Ministers on the above occasion.
+```
+
+Following the Queen's birthday celebrations on January 18th, 1782, there would be another day encouraging national unity in the form of a general fast day on Friday, February 8th, 1782.
+
+```{admonition} Proclamation for a General Fast, January 1782
+:class: dropdown
+In *Derby Mercury*, [Thursday 10 January 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17820110/004/0001).
+
+By the KING.
+
+A PROCLAMATION, For a General FAST.
+
+GEORGE R.
+
+WE, taking into our most serious Consideration the just and necessary Hostilities in which we are engaged, and the unnatural Rebellion carrying on in some of our Provinces and Colonies in North America, and putting our trust in Almighty God, that he will vouchsafe a special Blessing on our Arms both by Sea and Land, have resolved, and do, by and with the Consent of our Privy Council, hereby command, that a public Fast and Humiliation be observed throughout that Part of our Kingdom of Great-Britain called England, our Dominion of Wales, and Town of Berwick upon Tweed, upon Friday the 8th of February next; that so both we and our People may humble ourselves before Almighty God, in order to obtain Pardon for our Sins; and may in the most devout and solemn Manner, send up our Prayers and Supplications to the divine Majesty, for averting those heavy Judgements which our manifold Sins and Provocations have most justly deserved, and imploring his Blessing and Assistance on our Arms, and for restoring and perpetuating Peace, Safety, and Prosperity, to us and our Kingdoms; and we do strictly charge and command, That the said public Fast be reverently and devoutly observed by all our loving Subjects in England, our Dominion of Wales, and Town of Berwick upon Tweed, as they tender the Favour of Almighty God, and would avoid his Wrath and Indignation; and upon Pain of such Punishment as we may justly inflict on all such as contemn and neglect the Performance of so religious and necessary a Duty. And for the better and more orderly solemnising the same, we have given Directions to the most Reverend the Archbishops, and the Right Reverend the Bishops of England, to compose a Form of Prayer suitable to this Occasion, to be used in all Churches, Chapels, and Places of public Worship, and to take Care the same be timely dispersed throughout their respective Dioceses.
+
+Given at our Court at St. James's, the 9th Day of January, 1782, in the 22d Year of our Reign.
+
+GOO SAVE THE KING.
+
+A similar Proclamation is issued for a General Fast to be observed in Scotland, on Thursday the 7th Day of February. 
+
+```
+
+```{admonition} Imploring a Blessing, February 1782
+:class: dropdown
+In *Oxford Journal*, [Saturday 09 February 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000073/17820209/014/0003).
+
+Oxford.
+
+...
+
+Yesterday the General Fast for imploring a Blessing on his Majesty's Arms, pursuant to Royal Proclamation, was most devoutly and religiously observed here; and Sermons suitable to the Occasion preached at all the Parish Churches throughout this City:— That before the University, at St. Mary's, by the Reverend Mr. Clarke, Fellow of St, John's; and before the Corporation, at St. Martin's, by the Reverend Dr. Nicholson, of Queen's College.
+
+```
+
+```{admonition} In a devout and becoming manner, February 1782
+:class: dropdown
+In *Derby Mercury*, [Thursday 07 February 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17820207/019/0003).
+
+Friday last being the Day appointed by Proclamation, for a general Fast, it was observed here in a devout and becoming Manner. 
 ```
 
 ## Early Life
@@ -244,7 +292,7 @@ Winchester, Saturday, July 13.
 
 This morning was apprehended, and taken into custody some of the people belonging to the public-office in Bow-street, the noted Graham, who a little time since was confined in Newgate for having in his possession unfinished plates, resembling the impression of Bank Notes; but for want of sufficient evidence, escaped from punishment. A woman supposed to be his wife, smartly dressed in a scarlet riding habit, was apprehended with him. On their examination, it appeared that they had lately issued counterfeited Bank Notes to a considerable amount in London; and were just set off into the country on the same iniquitous business. They came to the George Inn in Winchester, last Thursday, and were very fortunately observed by a Mr. Wright of Clerkenwell Bridewell, who happened to be here at the time, and who, on his return to London next afternoon, found an advertisement against them, with a reward of One Hundred Guineas to any person to take them. After giving information at the Bank, and to the office in Bow-street, he set off with a proper assistant to the place on Friday night, and arrived at the George Inn about eight o'clock this morning, where they learnt that the delinquents had set off in a return post chaise the evening before to the Coach and Horses Inn, at Southampton. They immediately pursued and found them at breakfast, with about 30 guineas lying on the table, and a counterfeit note not entirely compleated. They were brought back to Winchester, about twelve o'clock this day, when it was discovered that two of their notes of 50*l.* each, had been negociated here by the woman, one at Mr. Hooper's, in the Square, of whom she bought a watch, and tendered the Note in payment. The other at the George Inn, in order to pay their bill. The change out of both notes were found in their trunk; in the opening of which was discovered a parcel of stamps, engraved in copper, and fixed into handles, with the words *Ten*, *fifteen*, *twenty*, *twenty-five*, and so on up to *one hundred*, engraved on them, exactly resembling those prefixed to the margin of real Bank Notes, both in size, shape, and construction; together with a black liquid composition, and other implements for making impressions with the said stamps. On examing *(sic)* the two counterfeit notes negotiated as above, it was found that they were originally real Bank Notes of 15*l.* value each, but that the *een* at the end of the word *Fifteen* had been ingeniously obliterated by some chemical preparation, and a *y*, exactly correspondent with the other letters, was added in lieu of them, making the notes appear of 50*l.* value each. This, being held before a candle, appeared very visible, notwithstanding the note had been artfully cut in the form prescribed Bank to send by post, and was joined again by a piece of paper pasted at the back, in order to prevent a discovery of the fraud. After a very long examination, the woman was committed to our gaol, and the man to Bridewell, on suspicion of being the fabricators of the said Notes.
 
-Graham, on Friday last `[July 5th?]`, went to see Tyrie, who under confinement in our goal *(sic)* for carrying on a treasonable and traiterous correspondence with our enemies, and was near four hours in conversation with him; and it is remarkable that in the trunk was found a letter from Tyrie, while under confinement London, addressed to Graham, informing him that he was to be conveyed to Winchester on such a day, in order to take his trial, at the assizes, and desired him to get certain others of their confederates to lay wait on Bagshot or Farnham Heath, disguised in carter's frocks, &c. to rescue him; recommending also that they should be prepared with quantities of snuff to throw in the eyes of the persons who guarded him; and to have the necessary implements ready to take off his irons.— This request however does not seem to have had any weight with Graham, as no rescue was attempted on his journey to this place. The woman, soon after she was committed to gaol, offered the Turnkey a guinea to let her jump out of a one pair of Stairs window into the Street.
+Graham, on Friday last `[July 5th?]`, went to see Tyrie, who under confinement in our goal *(sic)* for carrying on a treasonable and traiterous correspondence with our enemies, and was near four hours in conversation with him; and it is remarkable that in the trunk was found a letter from Tyrie, while under confinement London, addressed to Graham, informing him that he was to be conveyed to Winchester on such a day, in order to take his trial, at the assizes, and desired him to get certain others of their confederates to lay wait on Bagshot or Farnham Heath, disguised in carter's frocks, &c. to rescue him; recommending also that they should be prepared with quantities of snuff to throw in the eyes of the persons who guarded him; and to have the necessary implements ready to take off his irons.— This request however does not seem to have had any weight with Graham, as no rescue was attempted on his journey to this place. The woman, soon after she was committed to gaol, offered the Turnkey a guinea to let her jump out of a one pair of stairs window into the Street.
 
 It is really to be lamented, that even the most cautious and circumspect people are so liable to be imposed upon by this kind of fraud; we therefore recommend to every body to be very careful of taking Bank Notes from persons who are entire strangers, however plausible and specious may be the allurements thrown in their way.
 ```
@@ -293,6 +341,63 @@ Also in In *Caledonian Mercury*, [Saturday 17 August 1782](https://britishnewspa
 On Saturday came on by a special commission at the Town-hall in Winchester, the trial of David Tyrie, before Hon. Mr Justice Heath, for high treason, in sending intelligence to the French. BY ten o'clock in the morning the court was uncommonly crouded, but the judge not make his appearance 'till after twelve. A motion was made to put off the trial, which was grounded on an affidavit of the prisoner, that four of his witnesses were not ready; one is a woman now in Tothil-fields bridewell, two sailors who are abroad, and a man residing at Ostend. The court, however, thinking he had a sufficient time to be prepared, granted nothing for the motion. Mr. Morris, for the crown, opened the case, and enlarged on the dangerous effects produced by the permission of such persons escaping punishment. Maria Harvey proved that a bundle of papers, had been her delivered to her by Mrs. Askew, about the 13th of February; that the particular charge given with them raised her curiosity to enquire into the contents of the bundle. She had been induced in consequence to open them, and being of opinion that the contents were of a dangerous nature, she carried them to a Mr. Page, in Westminster, who being of the opinion, carried them to the Secretary of State's Office. The papers were produced and proved——they consisted of copies of papers called Navy Progresses, being a list of all the ships of the navy, the situation and state of repair of each, &c. &c. To these were added remarks of their destination, a description of the dock-yards at Portsmouth, Plymouth, and all the public, and even several of the private docks. They also contained a plan, by which it was proposed to furnish a person in France with intelligence on very moderate terms, when the importance of the object was considered;——the particulars were an express to be employed, which would travel 450 miles, to be paid at 13d per mile; a monthly salary of five or six guineas to a person at each of the dock yards, and also a salary of two or three guineas to a man in the lesser yards. Several other papers were produced, all going to the purpose of giving information to the enemy. Mr. Vowel, a stationer in London, knew the prisoner, he had been a clerk to him five years; he proved most of the papers produced to be the hand-writing of the prisoner. Captain William James proved, that Tyrie had bargained with him to go to Boulogne, to purchase wines. He had agreed to pay him fifteen guineas for the voyage, and also to give him a letter of credit for 50*l.* more to trade with. He also delivered to him a packet for the commandant of the port, and a passport for Boulogne or Cherburg. The witness felt that carrying letters to France in time of war was improper; he had, in consequence thereof, communicated his thoughts to an acquaintance, one Captain Harrison. The Captain opened the packet; it contained five letters, which gave an account of the departure of the East India fleet, the same of the West India fleet, the strength and names of their respective convoys, &c. One of those letters was signed with the prisoner's own name, and another with the name of Croix. These papers were all proved to be in the hand-writing of the prisoner. On behalf of the prisoner one witness was produced, who said nothing as to the matter in question. Mr. Watson, counsel for the prisoner, made a very ingenious speech in his behalf, which was ably replied to by Mr. Morris. The judge then summed up the evidence in a most able charge to the jury, who after a few minutes deliberation, brought in their verdict guilty.— Mr. Justice Heath, with that humanity which so peculiarly masks his character in all situations, made a most excellent speech to the prisoner, advising him to prepare for that fate injured laws of his country exacted him to suffer. He adjured him therefore to prepare for appearing before that tribunal where alone he might expect mercy; for such acts as these made it impossible for him to hope for any of his sovereign; who, however merciful he might be, could not, in tenderness to his subjects, permit such offenders to escape. He then proceeded to pass the following sentence: "The sentence that the law awards against you, and that this court adjudges is, that you, David Tyrie, be taken back to that place whence you came; that you be taken from thence on a hurdle to the place of execution, there to be hung by the neck but not till you are dead, but that you be cut down while yet alive, your bowels be taken out, and burnt before your face: that your head be severed from your body, and your body be divided into four quarters, your head and body to be disposed of as the King shall think fit, and the Lord have mercy upon your soul." The prisoner heard this sentence without any apparent emotion, and during the whole trial was employed in writing notes to his counsel. The prisoner is by birth a Scotchman, he went to London as a servant, he lived with Mr. Vowel as a clerk about five years, and gained the esteem and confidence of his master. He afterwards went into business in the mercantile line, with Messrs. Parker and Crowe, with whom some time since he became a bankrupt. It is, however, supposed, that if his integrity had been equal to his abilities, he might have had very good success in his business. He some few years ago offered himself a candidate for the borough of Hindon, and having failed in his views as a merchant, procured himself a place in the navy-office at Portsmouth, which led him to this fatal enterprize. The trial did not conclude until eight o'clock on Saturday evening.
 
 David Tyrie, who was convicted of high-treason on Saturday last at Winchester for holding a correspondence with the French, was the projector of that late gold coinage, for which it was said, he was offered a place of about 200*l.* a year, which he refused, considering it inadequate to his services.—— After he was taken from to the bar the gaoler found a razor concealed under the knee-band of his breeches.— After conviction when he was asked by the Clerk of Arraigns why sentence of death should not be pronounced upon him, he replied "he did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and he despised the malice of his enemies".
+```
+
+```{admonition} An attempt to postpone the trial, August 1782
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 12 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820812/004/0003).
+
+WINCHESTER, Saturday, August 10.
+
+At twelve o'clock on this day came one the tryal of David Tyrie, for High Treason, at the Castle of this city, before Justice Heath, under a special commission held for that purpose.
+
+Previous to opening the cause, the prisoner begged permission of the Judge to state some reasons why his tryal should be postponed till the next Lent Assizes. These reasons were, that the short notice he had had of tryal, did not give him time to procure those witnesses on his behalf, from whose evidence he had no doubt of being acquitted. But it happened that one of them was now confined Tothillfields-Bridewell, and he had not the means to procure an Habeas Corpus to bring her down. Another witness was on a cruise, on board one of his Majesty's ships of war.– One was at this time at Brussells, and another at Ostend. He therefore prayed the indulgence of the Court to put off his tryal till the next assizes, in order to give him time to collect these witnesses, and prepare himself for tryal. After the Judge and counsel had investigated the matter, the motion was over-ruled, on its appearing that the prisoner had not hitherto made use of any endeavours to procure this evidence, though he had been six months in custody.
+
+The cause was then opened on the part of the crown by Mr. Morris, who in a very able, humane, and comprehensive detail of the grounds of the prosecution, begged leave to call the attention of the Jury to the circumstances of an offence big with every fatal consequence to society, and destructive to the good government and well-being of a great and commercial nation.
+
+The first witness called, was a Mrs. Harvey, who keeps a School near Scotland-yard, London.—She deposed that a Mrs. Askew, understood to be the wife of the prisoner, brought to her house on the 13th of Feb. last, a bundle of papers, requesting her to take particular care of them, and not on any account to let any person see them—struck with the singularity of the circumstance, and the tremour and anxiety of Mrs. Askew, she was induced, after her departure, to examine the papers, and finding them of a very particular nature, she carried them the same evening to a Mr. Page, a friend hers, to desire he would examine them, and let her know his opinion of their contents.
+
+Mr. Page was then sworn— He confirmed the evidence of Mrs. Hervey *[sic]*, and said, that on finding the papers of a treasonable nature, he went the next morning and placed a constable at Mrs. Harvey's, to take the person into custody who should come to enquire for them— By this means Mrs. Askew, alias Mrs. Tyrie, was taken into custody; and after a few days search, Tyrie himself was also apprehended. By these papers it appeared that Tyrie had been at very great pains in collecting lists of all the English ships war in and out of commission; their different situations and appointments; their present and intended stations; number of Ships building, and under repair, in all the different dock-yards, and merchants yards in the kingdom, all drawn out in the hand writing of the prisoner, which was proved by two witnesses.
+
+A Captain James was then sworn, who deposed, that in February last he met Tyrie, the prisoner, on the beach at Gosport, who, after some conversation, hired him to go to a port in France, at a premium of 15 guineas, to bring home a cargo of wines. That he met Tyrie and his wife by appointment at the Crown Inn at Gosport the same evening, where he finally engaged to undertake the voyage, and received a packet from Tyrie, which he was to deliver at Cherbourg, or Boulogne, which ever port he could soonest make. The packet, he said, was made up and sealed in his presence by Tyrie, at the Crown, and was directed and delivered by the prisoner into his own hand. That when he awoke the next morning, and considered the agreement he had made, he thought it had a very suspicious appearance, and went to an acquaintance of his, a Capt. Harrison, at Portsmouth, and related the circumstance, producing the packet, and expressing his dislike to undertake the voyage.
+
+Capt. Harrison was then examined. He confirmed the testimony of Mr. James, and deposed, that when he received the packet out of his hand, and observed the direction to the Commandant at Cherbourg, he concluded there was treachery somewhere, and therefore broke open the letter; when being confirmed in his opinion, he set off immediately for London, and delivered the packet to Mr. Frazer, then Secretary at Lord Stormont's Office, where it remained till the prisoner was ordered for trial.
+
+Mr. Frazer was then sworn. He proved the receipt of the packet from the hand of Capt. Harrison, and deposed that the packet thus produced in Court was identically the same delivered by Harrison; and James proved it be the same as he had received from Tyrie, and had delivered to Harrison. The contents of the packet were next examined, and found to contain five letters, one which, to the Commandant at Cherbourg, set forth and specified by name a squadron of English ships, just then sent over to hover on the French coast, to intercept a fleet of victuallers and merchantmen expected to sail from Cherbourg, and to rendezvous off La Hogue. Another letter the Minister of Marine at Paris, contained the most comprehensive account of the sailing the East and West India fleets from Spithead, in February last, with the names of all the men of war appointed to convoy them. With a variety of other particulars relative to the sailing and stations of a variety of ships, then under orders on different services.—Thus, after a most fair and candid trial, which lasted near eight hours, the Jury, without hesitation, on the clearest evidence, brought in their verdict, GUILTY.
+
+On the verdict being notified to the prisoner, he was asked if he had any reason to shew why the sentence of the law should not be inflicted, as in all cases of the kind? He replied, That it was totally unnecessary for him to say any thing, since it had been put out of his power to provide those witnesses who would have proved his innocence—but he had a hope beyond the grave, and he despised all that this world could to him!
+
+The Judge then, after a most pathetic and moving charge, passed the following sentence upon the prisoner,— "That you be taken to the place from whence you came, and from thence drawn upon hurdle to the place of execution; you are there to be hung by the neck, but not till you are dead; your privy-member shall be cut off, and your bowels taken out while yet alive, and burnt before your face; your head shall severed from your body, and your body divided into four quarters, and disposed as his Majesty shall think fit; and the Lord have mercy on your soul."
+
+The Judge was pleased to order that he should be executed on Saturday the 24th of August instant, PORTSMOUTH.
+
+We hear, that the prisoner had found means to conceal a razor, with which, after his condemnation, he attempted to destroy himself, but was fortunately prevented.
+
+The above important TRIAL will be published at LARGE, in the course of a few days, by J. WILKES, at the Printing Office in Winchester, and may be had of the Booksellers in Portsmouth and Gosport, and of the other Agents for this paper.
+```
+
+```{admonition} The trial of Mr. David Tyrie, August 1782
+:class: dropdown
+
+In *Stamford Mercury*, [Thursday 15 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820815/009/0004).
+
+COUNTRY NEWS. Salisbury, August 12.
+
+Saturday came on at the Castle at Winchester, the trial of Mr. David Tyrie, Gosport, for holding treasonable correspondence with the French. The trial, began about twelve o'clock at noon, and lasted till near eight o'clock at night, when upon the clearest evidence he was convicted of the offence, and received sentence to be executed at Portsmouth the 24th instant. A great number papers were produced in the handwriting of the prisoner and a woman he lived with, which had been deposited with a Gentleman, who delivered them up to Government; and a packet was intercepted which he had delivered to the Captain of a swift-sailing vessel to carry either to Bologn or Cherbourg, which ever port he could best make, to be delivered to the Commandant, to be forwarded with all dispatch to the Minister of the Marine at Paris. The papers contained accurate accounts of all the navy of Great Britain, both in and out of commission—a copy from the weekly returns to the Navy Office from the several Dock-yards, of the progress made in the building and repairing the Royal Navy—authentic accounts of the destination of our fleets and cruisers—a proposal to furnish the French Ministry, for the sum of 700*l.*. with our signals—a plan for obtaining intelligence from all the Boards and Offices of Government, by bribing a Clerk in each Office, with the exact sum required to accomplish such corruption—and a proposal to fix Spies at Portsmouth and Plymouth, to obtain intelligence of the operations our fleets. He appears to be a mast artful, indefatigable, and enterprising man. During the trial he wrote a great number of notes to his Counsel, of questions which he wished to put to the witnesses, and was astonishingly collected in his mind throughout the whole. After conviction, when he was asked by the Clerk of Arraigns, what he had to say why sentence of death should not pronounced upon him, he replied, "He did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and despised the malice of his enemies." He is a likely man, about 30 years age.
+
+Tyrie is by birth a Scotchman, went to London as a servant, and lived with Mr. Vowell the Stationer, as a Clerk, above five years, gaining the esteem and confidence of his Master: He afterwards entered into business in the mercantile life, and had his integrity been equal to his abilities, must have done very well. A few years since he offered himself a Candidate for Hindon, in this County, and afterwards, failing in his views of a Merchant, procured himself a place in the Navy-Office at Portsmouth, which led him to his last fatal employment.
+
+```
+
+Tyrie's response to the question as to why sentence of death should not be passed on him was widely reported.
+
+```{admonition} A letter from Salisbury, August 1782
+:class: dropdown
+
+In *Derby Mercury*, [Thursday 15 August 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17820808/012/0003).
+
+A Letter from Salisbury, dated Aug. 12, says,, "Saturday came on at the Castle of Winchester, the Trial of Mr. David Tyrie, of Gosport, for holding a treasonable Correspondence with the French Ministry. The Trial lasted near eight Hours, when he was convicted upon the clearest Evidence, and received Sentence to be executed at Portsmouth on the 24th Inst. When asked by the Clerk of Arraigns, what he had to say why Sentence of Death should not be pronounced upon him, he replyed, 'He did not suppose any Thing he could say would avail him, but he had a Hope beyond the Grave, and despised the Malice of his Enemies.' He is about 30 Years of Age, by Birth a Scotchman, went up to London as a Servant, and lived with Mr. Vowell the Stationer, as a Clerk, above five Years, gaining the Esteem and Confidence of his Master."
 ```
 
 Whilst imprisoned in Winchester, Tyrie started working on an escape plan.
@@ -512,7 +617,7 @@ But is it a copy of your account?— Does it contain the observations, for insta
 
 Mr. *Watson*. I meant, whether it contained your official observations.
 
-Mr, *Batt*. What is the title of the book?— A. "An account of the readiness for the sea of his majesty's ships and vessels under repair, and of those building and rebuilding, and of such as lie in harbour." The book contains more than the title imports; for here are all the ships that are building for his majesty in the merchants' yards, which is not mentioned in the title.
+Mr. *Batt*. What is the title of the book?— A. "An account of the readiness for the sea of his majesty's ships and vessels under repair, and of those building and rebuilding, and of such as lie in harbour." The book contains more than the title imports; for here are all the ships that are building for his majesty in the merchants' yards, which is not mentioned in the title.
 
 Does the title of that paper you have looked at correspond with the title of your book?— The words are the very same.
 
@@ -528,7 +633,7 @@ No. XIX.— (The prisoner's hand-writing).— It contained a list of the particu
 
 At the bottom of the paper, in another hand, were written these directions:
 
-"For Ostend. A Monsieur De Neve, à l'Hôtel de Ville, pour Mr. Domiqique le Moine, à Ostend."
+"For Ostend. A Monsieur De Neve, à l'Hôtel de Ville, pour Mr. Dominique le Moine, à Ostend."
 
 "A Monsieur Bonnier, chez Mr. Dufour, Sellier, Rue de la Cue, à Boulogne."
 
@@ -742,7 +847,7 @@ No. III.— (The prisoner's hand-writing.)
 "Spithead, Feb. 10, 1782, 6 o'clock p. m.
 
 "Sir; If the bearer should not be able to fetch Boulogne, he will deliver you a packet, directed for Mons. Bonnier. Please to open it, and forward the letter directed for Mons. Brodelet, to the minister of marine, at Paris, with the utmost speed. That directed tor Bonnier make your own use of. You may ask him for his letter to M. De Lisle, which you'll please to keep; and acquaint him that M. De lisle has retired from Cherbourg. He will bring up without the port. You may order the vessel to remain there, if you please. Dispatch him again as soon as possible, and do not suffer his people to have any communication with the shore.—I have the honour to be, Sir, your most obedient and most humble servant, Croize."  
-"A Mousieur Commandant, à Cherbourg."
+"A Monsieur Commandant, à Cherbourg."
 
 No. IV.— (The prisoner's hand-writing.)
 
@@ -855,8 +960,7 @@ He came again, then, on the fast-day?— He did.
 
 Who was with him?— His wife.
 
-What did you see him do?— I saw both him and his wife writing letters at the Crown-inn. I think, either upon the Sunday or the Saturday after this, I think it was the Sunday after this evening captain James was there: he said to captain James he might as well return that letter, as he was to change it. I understood he wanted a letter back which he had given him. Captain James said, You may as well take them all; and gave them to him. He either wanted some letter back, or to put in another; he either took out one, and put another in its place, or put in one altogether. Captain James took out the packet;
-I think there was more than one or two letters in it; and Mr. Tyrie put them all into one packet; he put an address upon the back, and put a wafer and seal upon it.
+What did you see him do?— I saw both him and his wife writing letters at the Crown-inn. I think, either upon the Sunday or the Saturday after this, I think it was the Sunday after this evening captain James was there: he said to captain James he might as well return that letter, as he was to change it. I understood he wanted a letter back which he had given him. Captain James said, You may as well take them all; and gave them to him. He either wanted some letter back, or to put in another; he either took out one, and put another in its place, or put in one altogether. Captain James took out the packet; I think there was more than one or two letters in it; and Mr. Tyrie put them all into one packet; he put an address upon the back, and put a wafer and seal upon it.
 
 Do you think you should know that package again, if you saw it?— Yes.
 
@@ -1128,7 +1232,7 @@ In *The Scots Magazine*, [August 1782](https://www.britishnewspaperarchive.co.uk
 *Winchester, Aug. 24.* The crowd people of all ranks assembled by four o'clock this morning at the gates of the gaol, to see Tyrie set off for the place of execution, was very great. About five o'clock he was put into a coach with six horses, attended by the ordinary, under-sheriff, gaoler, &c. and conveyed to Portsmouth, where being delivered to the Mayor and police of the town, he was drawn on a sledge to the place of execution. After praying a little time, he was turned off, and hanged till almost dead; he was then cut down, his head severed from his body, his bowels taken out, and his heart shewed to the surrounding multitude, and then thrown into a fire made for that purpose; the body was then quartered and put into coffin. The concourse of people was immense, and beyond description, and such the singular conduct of many who were near the body, that happy was he who could procure a finger, or some vestige the criminal. Tyrie supported to the last the same hardened and intrepid conduct as marked him on his condemnation, boldly leaping into the coach at his leaving Winchester; on his journey to Portsmouth, by his words and conduct expressing great indifference at his approaching fate, and even laughing at the place execution.
 ```
 
-In another report of his final day, oit was claimed that Tyrie had made a full confession as to who else was involved in his treachery.
+In another report of his final day, it was claimed that Tyrie had made a full confession as to who else was involved in his treachery.
 
 ```{admonition} His body to be hung in chains, August 1782
 :class: dropdown
@@ -1147,73 +1251,9 @@ In a history of the wars of Britain published in 1795, Tyrie, along with John th
 
 Thomas Mante, *Naval and military history of the wars of England: including the wars of Scotland and Ireland*, 1795, vol. VII, *Of the Wars of England during the Reign of George III*, [pp286-7](https://archive.org/details/navalmilitaryhis_07mant/page/286/mode/2up).
 
-During the whole course of the war `[the American War of Independance / Revolutionry War]`, only one other person was detected in any act of treason; and he appears to have been actuated merely by mercenary motives, though La Motte and John the Painter probably acted from principle. This was one David Tyrie, a native of Edinburgh. Having been bred in the mercantile line, and engaged in a number of speculations with a view to gain money, in all of which he discovered considerable abilities, he at last engaged in the dangerous one of conveying intelligence to the French of the ships of war fitted out in Britain, the time of their sailing, &c. For this he was apprehended in February 1782. The discovery was made by means of one Mrs. Askew, who passed for his wife, having delivered a bundle of papers in a hurry to a school mistress, and desiring her not to show them to any body. Instead of this, however, she not only inspected them herself, but showed them to another, by whom they were sent to the Secretary at war. By this, and another packet discovered by William James, who had been employed to carry it to France, Tyrie was convicted and executed in the month of August 1782. He behaved with great resolution, and at last showed rather an indecent levity and unconcern, by laughing at the place of execution. The sentence not only took place in the dreadful manner appointed by law, but the crowd behaved with the most shameful and unexampled barbarity. "Such (says the accounts of his execution) being the *singular conduct* of many who were near the body, that happy was he who could procure a finger, or some vestige of the criminal!" — This unhappy man, while in prison, had, with his companions, contrived a method of effecting their escape, by working through a brick-wall three feet thick, and covering the hole with a plank coloured like the bricks; but the scheme was discovered by the imprudence of Tyrie himself asking the keeper how thick the wall was.
+During the whole course of the war `[the American War of Independance / Revolutionary War]`, only one other person was detected in any act of treason; and he appears to have been actuated merely by mercenary motives, though La Motte and John the Painter probably acted from principle. This was one David Tyrie, a native of Edinburgh. Having been bred in the mercantile line, and engaged in a number of speculations with a view to gain money, in all of which he discovered considerable abilities, he at last engaged in the dangerous one of conveying intelligence to the French of the ships of war fitted out in Britain, the time of their sailing, &c. For this he was apprehended in February 1782. The discovery was made by means of one Mrs. Askew, who passed for his wife, having delivered a bundle of papers in a hurry to a school mistress, and desiring her not to show them to any body. Instead of this, however, she not only inspected them herself, but showed them to another, by whom they were sent to the Secretary at war. By this, and another packet discovered by William James, who had been employed to carry it to France, Tyrie was convicted and executed in the month of August 1782. He behaved with great resolution, and at last showed rather an indecent levity and unconcern, by laughing at the place of execution. The sentence not only took place in the dreadful manner appointed by law, but the crowd behaved with the most shameful and unexampled barbarity. "Such (says the accounts of his execution) being the *singular conduct* of many who were near the body, that happy was he who could procure a finger, or some vestige of the criminal!" — This unhappy man, while in prison, had, with his companions, contrived a method of effecting their escape, by working through a brick-wall three feet thick, and covering the hole with a plank coloured like the bricks; but the scheme was discovered by the imprudence of Tyrie himself asking the keeper how thick the wall was.
 ```
 
-
-```{admonition} The Trial of De la Motte
-:class: dropdown
-
-In *Leeds Intelligencer*, [Tuesday 24 July 1781](https://britishnewspaperarchive.co.uk/viewer/bl/0000236/17810724/007/0004).
-
-TRIAL of M. DE LA MOTTE. (For HIGH Treason.)
-
-ON Saturday morning, at nine o'clock, M. de la Motte was brought from New Prison, Clerkenwell, to the Old Bailey, and having challenged several of the Jurymen, twelve were chosen without any objection, after which his trial came on. The Counsel who attended on behalf of the Crown were, the Attorney and Solicitor General, Mr. Howarth, and Mr. Norton. For the prisoner, Mr. Dunning and Mr. Perkham. The Indictment consisted of numerous counts, the first of which charged M. de la Motte with compassing the death the King, and the others laid divers overt acts of treasonable connection with the French Court to destroy the Naval power of this country.
-
-The first witness examined was *Stephen Ratcliffe*, who had a vessel constantly going Boulogn, and was frequently the carrier of packets from the prisoner to the French Commissary. His pay was 20*l*. for every trip to the Continent.
-
-The next witness, *Mr. Rougier*, proved the engagement himself and Ratcliffe in the service of the prisoner; that he received eight guineas a month for his trouble in forwarding packets, and also all his charges from Dover to London, when he waited on the prisoner in town; that a Mr. Walter was concerned in the business with the prisoner, and letters frequently came from France directed to himself, which he never opened, but delivered to the prisoner or Mr. Walters, knowing they were for those gentlemen.
-
-*Mr. Stewart* deposed to having received from Ratcliffe several packets intended for an English merchant at Boulogn, who appeared be an agent for the French Ministry, but which instead of forwarding, he stopped and communicated to Lord Hillsborough, who took copies of all, and then returned them to Mr. Stewart, who, by his Lordship's order, sent them to Boulogn, and by this contrivance the schemes of the prisoner were frustrated by Government having a previous knowledge of the contents of the various packets.
-
-*Sir Stannyer Porteen*, of Lord Hillsborough's office, deposed, that he received a packet from Mr. Stewart, in July; that he copied one of the letters himself, and had others copied for him, and then put the originals again into the cover and delivered them to the post; another of the 2d of August, and some others after that time, received in like manner, were copied, and put into the Post Office, to be conveyed to Mr. Stewart, with orders to be forwarded to their destination.
-
-On cross-examination, Sir Stannyer said, he delivered the papers to a Mr. Maddison, and two other gentlemen, clerks to the Poft-Office, but he could not recollect to whicb person of the three.
-
-Here an argument arose, whether or not these copies of letters ought to be admitted as evidence; the counsel for the prosecution contending, that the copies being authemicated, were as admissible as the originals; and the counsel for the prisoner concluding that they were not, and Mr. Peckham even going so far as to contend, that if the originals themselves were produced they would not be admissible, as not being proved to have been delivered from M. de la Motte to Ratcliff, and not appearing the author of them from any hand-writing or signature; to which the last observation it was answered, that Ratcliff received the packets from Rougier, which Rougier received from De la Motte, and thus the chain was filled up; but here a doubt arose, whether the letters which were copied by Sir Stannyer Porteen were the identical letters so traceable to De la Motte through Ratcliffe, and through Rougier, in order to complete the chain necessary to make the copies admissible.
-
-The Constable who apprehended the prisoner, proved, that he threw several papers out of his waistcoat pocket, which being read, appeared an account, comprehending all the particulars of Governor Johnttone's squadron, and intelligence of our Marine in the different ports, their destination and condition, both with regard to victualling and strength.
-
-the King's messenger, deposed, that he took Mr. Lutterloh into custody at his house at Wickham, in the neighbourhood of Portsmouth; that Mr. Lutterloh made a free confession of his guilt, and, by his direction he found a bundle of papers in the garden, several which were in the hand-writing of the prisoner, directed Commandant of Brest, and others the Cadix, together with instructions to Mr. Lutterloh, from the prisoner, prescribing a mode of during their connexion in the treasonable conspiracy kingdom. Mr. was next Called, and his testimony was of serious nature, that the court in a Rate ofauonilhriient during the whole of his long e*. amtnatioti. said, that he embarked on a plot with, the the year S to furnift the French c 0^ t ' ec . rct intelligence the navy; for which at received only eight guineas a month the importance of his information appeared, however, clear to the prisoner, that he afttfr allowed him fifty guineas a month,- besides many valuable gifts that upon any emergency he came post town la Motte. but common occurrences relative to their treaty fent by the post. identified the papers found in his garden, and the said, we!e M. dc la Motte and well known in France. had di efti0 n of the prisoner, and was closetted with Monsieur Sartine, the French miniftcr. j«e had formed plan for capturing Governour Johnstone squadron, for which Jic demanded 8000 guineas, and a third share of the ships divided amongst the P n Cr ' tn his friend in a certain office, but the French court would not agree to yeilding more than an eight Chare of the squadron. After to enable the French to take the commodore, S '^ HO j"r r ' a - nd tK J/cnch, and to defeat his original project with which he had furnished the French court. Mr. Dunning was wearied out in cross-examining this and declared that he was fo. that must retire, and, after Haying ftairs time, went home ill. Mr. then, for a long time the witness. On being severely questioned by Mr Dunning, Lutteroh a his life, of which the are the most remarkable circumstances. About fifteen years since came to England upon a tojn who was Ambassador from the Duke of Brunswick; and,going to a Taylor's 'earn K glim, bees enamoured of that gentleman daughter, and married her, whereby he incur,red the his relations. Being reduced he engaged as a livery servant to Capt. Phil. lipj, upon quitting service he lived the same Wildman, of Lincoln's-lnn. Being fgm Mr Wildman, he took a chandler's shop, having accepted;the drafts V° 1 amount, was much t|ic pressing importunities of his creditors, after which returned to England, and availed himself of insolvent a£l. Being at Portsmourth during the Naval review, he earned employment the George Inn* this situation Jie projctf ed a for purchasing arms in the netty German States for the rica, and visited tfiat quarter of the globe in orcder to promote this plan, which, however, was not attended with succces, and after this commenced his connexion with the prisoner. He acknowledgqd that Aipplied the prisoner with accounts the state of the West-India fleet, the number of sick and wounded Haflat; in *.lctfcr directed Mr John Tweed, London, and that ln atlo w.M unelcr cover frank* if' W* Carrington-ftreet, May-fair, Who deals in pamphlets, newspapers, He further confcfl'ed, in violation solemn engagement< with the prisoner, wherein vrat ftipu=v lated, that they should on consoderation betray each other, after being railed from a state of the moile*-< treme indigence to with pecuniary cifcumltances, hi» generofity, he-had w)tl» a.view to make the country he had been tnduftrinas injure, but with defi' tl to communicated Whole particulars: the iniquitous in which he had been gaged. was alked by Mr Dpnnisg, whether, immediately after leaving the grand jury, when the preferred he did not say Rousseau, that there was not evidence for finding bill without the f*a» to which was swear, but that his deposition would cause to be convicted, in which case mould derive This he denied but owned he had ofered lay wager that \ vou ' t be hanged. A great number letters which he, the wunefs, had sworn to the hand writing of Motte, relative to the date of our fleet, ratea, guns, weight metal, out-fit, commanders, destination, complement of men, &c., &c. were read, and appeared contain the moil and we presume, accurate accounts, which fully confirmed the made-by the Attorney-General on his , opening the prosecution, and which said ought rums the had to dispose enabled him to carry corruption to* very great and dangerous lengths,-" Mr Rowfiau dewfed, that the day when the indictment was preferred before the grand jury, Latter, loh expressed for the melancholy ftuarion de Morte, saying time, that he would be handed Mmlftnr glad of the opportunity that of gratifying their vengeance and <*<jdjng, that Sight boMgtd, fir could bet/tit wtbctU him. ~ Mr Up,l depofed, that knew Lutterloh when kept chandler ,n Wtfi-street* proposed deponent a plan for 5»°°o£ a,1 | d of the use the bemg Dr. Franklin CC V *8* o,lttne »i&tt raifed. « MrJrrtdm** that 1770, or time at» •accident happened, to his bureau being broke open and of about or oet.) hot he drf had been the robber; but his suspicions, and the motives which gave birth to them, wen aatorfollvjaftify hin» '"k . ovv J n . co . n cl J e ?«« a charadef when difmifc4 hi»fnwn hi* finite. 1 After the exami wiosof witness collate. U and combated SSAr C e contendcd, that both in w muft fall to the f for il>at overt a€|s proved, and ? 11?*?* <kfc«bing the fiate o«r fleet, and the fick and wounded legmen* they .were no more than what might be «verv day r«diaa newfpap^l! ,AI0 K the ,,l^r *r PoWcn*, and would not call 11 nfort | gentleman brought to the bar for life tnrough the contrivance of a>wit« a* W i W^°/ n d . e . }a Wotte bad bean acq sainted, 0 W rsff CrWn roi " PowAment, had charged the offence a. correspondence vi" C took many other liberties with Mr m the of observatrons. fa 5* # y; # that M. de la Motte had afted only a trader from England and that the prime charged was more imputa-niSrh rU" c lle4 tWo tohn- ' p?!of. chartftcr » foch kind of passed upon him. "To hanged but not. till to be cut down, and bowels taken off hl«h burnt before his face, his head to be" Mai c vs^. , h fi ;{ fctevsss but M. de la Motte is about fivefeet ten inches \ nortmel? 't 8 '* comr,y 000 Nuance his deportment exceedingly genteel, and his eve r preffive of strong ocnetration. He wore white cloth coat, linen waistcoat, worken in Tambour. After sentence Mr. Akerman servants prepared rs.mn. duft him to prison, but being ignorant their delien n thatin the last war. he ivai .ti regiment of Soubife, and behaved, on fevewl?ccS»» with singular gallantry Upon the conclufiw the war his regiment was broke; soon aft £ tide Baron Dcckham, with heredity S & volved to him. Having lived lS' fortune, retired England some few vSrs r? e a t0 refid e till the Commfflii ofthat aft which i, expiate the forfeit throughout the whole this scene, exhibited a ccmibination maolinefs and mind. appearedi^tKvipolite, condescending, and unaffected; and, w 28 lume, could never have stood so firm and collected, at so awful a moment, if, while he felt himself justly convicted as a traitor to the state which gave him protection, he had not however mistakenly felt a conscious innocence within his own breast, that he had devoted his life to the service of his country.
-
-Immediately after the trial he was conveyed in a Hackney Coach to the Tower.
-```
-
-```{admonition} De La Motte, Provider of Intelligence to the Enemy, 1795
-:class: dropdown
-
-Thomas Mante, *Naval and military history of the wars of England: including the wars of Scotland and Ireland*, 1795, vol. VII, *Of the Wars of England during the Reign of George III*, [pp284-6](https://archive.org/details/navalmilitaryhis_07mant/page/284/mode/2up).
-
-Thus it appeared that the whole of this alarm of treason and American incendiaries was owing to the political enthusiasm of one man `[John the Painter]`. Still, however, it appeared that the French court were very well acquainted with many particulars relating to the state of this kingdom, and the movements of our squadrons, which ought by all means to have been kept secret. These treacherous proceedings were first detected in the month of June 1780. One Ratcliffe, mailer of a cutter, gave information that he had been hired by one Mr. Rogere to carry packets to France, for which he was to be paid 20*l*. each time, and to have 100*l*. besides, at a certain period. Apprehending at last, however, that he might incur some danger by continuing this employment, he gave information of what was going on to one Mr. Steward, a merchant at Sandwich, by whom his last packet was carried to the secretary of state. After being opened and sealed up again, it was returned, and he was directed to carry it to France as formerly. This was the fate of several succceding packets, though it was some time before Ratclifte saw the principal party concerned. At last this was accomplished by his complaining to Mr. Rogere that he had not been paid the 100*l*. according to promise. A meeting being thus procured, it was found that the person who gave intelligence to the enemy was one M. Henry de la Motte, a French gentleman then residing in London. On searching his house, no papers of any consequence were found; but on his arrival, he being absent when the messengers first arrived, he threw some out of his pocket, unperceived by any body, as he thought. The papers, however, were taken up by the messengers, and gave plain indications not only of a treasonabie correspondence with the enemy, but that he was connected with one Henry Lutterloh, Esq. a German, who then resided at Wickham near Portsmouth. This person being also apprehended, not only made a full difcovery of the treasonable correspondence with France, but gave abundant proofs of himself being one of the most depraved and hardened of all mankind, lost to every sensation excepting the desire of accumulating wealth. His evidence, however, and other strong circumstances, were sufficient to convict M. de la Motte, who was accordingly executed, thouoh the king remitted that dreadful part of his sentence of having his heart taken out alive, &c. During his trial, and on every other occasion, he behaved in such a manner as showed him to be an accomplished gentleman; and not only excited the compassion, but the admiration, oF every one who saw him.
-
-```
-
-```{admonition} The Memoirs of Mons. De la Motte
-:class: dropdown
-
-In *Reading Mercury*, [Monday 30 July 1781](https://britishnewspaperarchive.co.uk/viewer/bl/0000367/17810730/003/0002).
-
-MEMOIRS of Mons. DE LA MOTTE
-
-FRANCIS Henry de la Motte is a native of Alface, where his parents, though poor, lived in some degree respect. He had fortunately an uncle of the same name, who was a Professor in the University of Lyons, and a man not undistinguished in the literary world. From him De la Motte received a very genteel education; and through his interest, at the age of thirteen, obtained an ensigncy in the Ftench service where he rose gradually to the rank of Major, in a regiment of infantry; which rank attained in 1757.
-
-But, in the following year, being charged with the defence of a bridge at the battle of Rosbach in Saxony, with orders to prevent the Prussian army from annoying the French rear, he no sooner perceived the approach of the Prussians to attack that post, than he thought proper to retreat. Most of his men were overtaken and cut to pieces by the enemy; but, being himself on horseback, he had the fortune to escape the pursuit. He was, however, brought to a court-martial, to answer for his conduct, and, by their sentence, was broke for cowardice. After this he repaired to Paris, and memorialized the ministry for some time, insisting that he had been ill used by the court-martial, and soliciting redress from their superior power; but finding every application of this kind totally ineffectual, he paid his first visit to England in the capacity of a spy; from whence he continued to furnish intelligence to the Court of France during the remainder of the late war.
-
-At the conclusion of the war, he returned to Paris with a considerable sum of money, which enabled him to live there for some time in great splendour, but having at length consumed the whole of his acquisitions in that way, he applied to Mons. de Sartine, then Lieutenant of Police (an office coresponding in some measure with that lately held here by Sir John Fielding, but of much greater power and character) and he was accordingly admitted by that gentleman, as one of the spies of the Police.
-
-In this fituation, Monsieur de Sartine found him exceedingly useful; for, being a dextrous gambler, and making an elegant appearance, he procured admission into the best circles; but unfortunately, one evening at the rout of Madame Montreal, he lost 100 louis dors to Chevalier Chablie, which he was unable to pay, and of course, could never after be admitted into company.
-
-After this faux pas, his intelligence fell off remarkably, that Mons. de Sartine thought proper to make a reduction of one half in his stipend; which rendered his income so slender, that he found it insufficient for him and his mistress to live upon, and therefore took a millener's shop, No. 47, Rue Grenvelle in Paris, where they made a shift to live in an obscure manner, till the breaking out of the present war, when he took the first opportunity to resuming his former business of collecting intelligence in England, for the French ministry; and for that purpose, returned to this country in January 1777. `[This was the American Revolutionary War; France was neutral in 1777, but relations were strained; war Britian France would then be declared in 1778.]`
-
-On his return here, he assumed the name of Akerman, and took lodgings first in Fetter lane; afterwards he removed to the house of a Mrs. Cox, in Wardour-Street, and from thence till June 1778, he remitted to France all the intelligence he could procure; which it is presumed was not very considerable, as his salary till then was no more than eight guineas a month.
-
-About this period it was, that he formed an acquaintance with Lutterloh, whose connections proved so valuable to him, that his salary was immediately raised from eight to 50 guineas a month, in consequuence of the important intelligence, which he collected through the means of his new acquaintance; finding himself now in more affluent circumstances, he discarded the temporary name of Akerman, and re-assumed that of De la Motte. He took country lodgings at Hampstead, and began to make some appearance in the world. Lutterloh introduced him to his aunt Mrs. Lutterloh, wife to General Lutterloh, formerly envoy to our court from the Duke of Brunswick, and now serving in the American army. Through the acquaintance of this lady, De la Motte had an opportunity of introducing himself into several respectable families. He even resided some time at her house, No. 1, Old Burlington-street, from whence he removed to Mr. Otley's, in Bond-street, where he took lodgings at 1000*l*. a year, and lived in an elegant style till the time of his apprehension.
-
-His behaviour, when first under examination, evinced the greatest fear. He there confessed the charge againat him. He betrayed Lutterloh as the agent at Portsmouth, from whom he had received the papers found upon him; and entreated, that he might be admitted an evidence for the crown but was told, that what he desired could not be granted.
-
-The fortune said to made by De la Motte within the last two or three years, and since his connexion with Lutterloh, is no less than 25,000*l*. He never was married, but has two children by Madame Soger, with whom he formerly lived in Rue Grenvelle. He has supported her since, in very elegant apartments in Rue Notre Dame des Victoires, Paris. 
-
-```
 
 TO DO
 
@@ -1223,7 +1263,7 @@ In *Stamford Mercury*, [Thursday 26 June 1783](https://britishnewspaperarchive.c
 
 Also appeared in *Derby Mercury*, [Thursday 26 (incorrectly shown by BNO as 19) June 1783](https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17830619/009/0002); *Aberdeen Press and Journal*, [Monday 30 June 1783](https://britishnewspaperarchive.co.uk/viewer/bl/0000572/17830630/008/0003).
 
-To the disgrace of the police of this country, the head of the unfortunate Tyrie, who was executed at Portsmouth last summer, as a spy, and whose body was dissected by the barbarous and inhuman multitude that surrounded him, is made a shew of to this very hour, by the keeper of Gosport Bridewell. The number of unthinking people that have paid one shilling for seeing it, is truly astonishing; but the dreadful accident that has happened in consequence of its being made a public will, it is hoped, be the means of its being immediately ordered to be buried, to prevent such dismal catastrophes in future.—A sailor, lately arrived from the West-Indies, hearing such a sight was to be seen, went to satisfy his curiosity, taking his girl with him without letting ber know where he was going, On their arrival at Bridewell, he called for some wine, at the same time whispering the gaoler, to bring the head, which being suddenly and unexpectedly placed upon the table before the girl, had such an effect upon the poor young creature, that she fainted away. With great difficulty she was conveyed home, and put to bed, from whence she never rose. The sailor, knowing himself to be the author of this melancholy event, has more than once endeavoured to make away with himself. It is to be hoped that the Judges at the ensuing assizes will make it their business to enquire into this shameful traffic.
+To the disgrace of the police of this country, the head of the unfortunate Tyrie, who was executed at Portsmouth last summer, as a spy, and whose body was dissected by the barbarous and inhuman multitude that surrounded him, is made a shew of to this very hour, by the keeper of Gosport Bridewell. The number of unthinking people that have paid one shilling for seeing it, is truly astonishing; but the dreadful accident that has happened in consequence of its being made a public will, it is hoped, be the means of its being immediately ordered to be buried, to prevent such dismal catastrophes in future.—A sailor, lately arrived from the West-Indies, hearing such a sight was to be seen, went to satisfy his curiosity, taking his girl with him without letting her know where he was going, On their arrival at Bridewell, he called for some wine, at the same time whispering the gaoler, to bring the head, which being suddenly and unexpectedly placed upon the table before the girl, had such an effect upon the poor young creature, that she fainted away. With great difficulty she was conveyed home, and put to bed, from whence she never rose. The sailor, knowing himself to be the author of this melancholy event, has more than once endeavoured to make away with himself. It is to be hoped that the Judges at the ensuing assizes will make it their business to enquire into this shameful traffic.
 
 ```
 
@@ -1239,33 +1279,7 @@ Whilst the Despard plot conspirators in 1803, the Pentridge rebels in 1817, and 
 
 ```
 
-```{admonition} The life and trial of F. H. de la Motte, 1781
-:class: dropdown seealso
-
-*The life and trial of F. H. de la Motte, a French spy, for high treason, at the Sessions-House in the Old-Bailey, on Saturday the 14th of July 1781, and was hang'd, drawn, and quartered at Tyburn, on Friday the 27th following. Taken in short hand by J. Williams*, [1781](https://archive.org/details/bim_eighteenth-century_the-life-and-trial-of-f_de-la-motte-francis-hen_1781)
-
-See also: [Complete Collection of State Trials and Proceedings for High Treason, Volume 21](https://archive.org/details/acompletecollec03cobbgoog/page/n417/mode/2up) Type col. 817- , De la Motte, col. 687-817
-```
-
-```{admonition} The Sinking of the Royal George, September, 1782
-:class: dropdown seealso
-In *Hampshire Chronicle*, [Monday 02 September 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/004/0003).
-
-HOME NEWS.
-
-PORTSMOUTH. Aug. 31.
-
-On Thursday morning, between nine and ten o'clock, the Royal George man of war of 100 guns, on board of which Admiral Kempenfelt had hoisted his flag, nearly in the center of Lord Howe's fleet at Spithead, most unfortunately and instantaneously went to the bottom. The melancholy accident was occasioned by the being heeled upon her side, in order to have the water-pipe of her cistern repaired, at which instant of time a strong squall of wind at N. N. W. threw her further upon her side, and the lower port holes being unluckily open, she filled and went down in less than three minutes. The alarm and confusion at an event so unexpected and so horrid, is indescribable. A victualling sloop, and several wherries full of people, which had just put off in order to go ashore, were drawn down by the prodigious whirlpool and suction occasioned by the sinking of the ship. Of about fourteen hundred men, women, and boys which were on board, not more than 320 were saved; and it must give unspeakable concern to every lover of his country, as well as to the humane heart, that the brave and able veteran Admiral Kempenfelt is amongst the drowned.— Major Graham, and several other officers of marines, the surgeon, the master, three lieutenants, several midshipmen, and some ladies who had gone on board to see the ship, were also lost. Captain Waghorn, Admiral Kempenfelt's Captain, was fortunately gone on duty for few hours on board another ship. The ship's complement was 900 men, and she was completely manned with the best seamen, victualled and ready for sea at an hour's notice. There were also a number of carpenters from the yard, at work in her; and several of the officers, with the whole of the marines, had only come on board from Portsmouth the preceding evening. The unspeakable distress of this fatal catastrophe has occasioned is inconceivable. The shore for a length of time exhibited scenes of the most poignant grief, being lined with persons lamenting their fathers, or their children, who had perished in this calamity. And every one will read with added concern that the brave Admiral Kempenfelt, who had hold of the same rope with a marine, was so exhausted and fatigued, that he let go but a few minutes before a boat reached the unhappy spot where he sunk, and picked up the marine alive.
-
-Though the depth in which she now lies, about fourteen fathom, is not considerable, it seems to be the general opinion here, that she cannot be raised, as no purchase can be obtained equal to the immense weight. But if this ship, so long the pride of our navy, and so essential a part of the strength of this country, at this most critical period, could be recovered, the loss of so many brave and able seamen is irremediable, and never sufficiently to be lamented.
-
-An accident of this kind to a capital ship, is unpredented *[sic]* in the annals of the Navy.
-
-The Royal George man of war is the oldest first rate in the service; she was built at Woolwich, her keel was laid down in 1751, and she was hauled out of the dock in July 1755, it being unusual to build such large ships on slips to launch; she was pierced for 100 guns, but having lately had two additional ports, including the carronades, mounted 108 guns; she was rather short and high, as all the old first rates are, but so good a sailer, that she has had more flags on board her than any vessel in the service. Lord Anson, Admiral Boscawen, Lord Hawke, Lord Rodney, Lord Howe, and several other principal officers, have repeatedly commanded in her. Lord Hawke commanded the squadron in her which fought the French under Conflans, when the Suberb of 70 guns, was sunk by her cannon and the Soliel Royal of 84, burnt on shore: she carried the tallest masts and canvas of any English built ship in the navy, and originally the heaviest metal, viz. 52, 40, and 28 pounders, but they were lately changed, account of her age, to 40, 32, and 18 pounders.
-
-```
-
-A little further on was a report of Tyrie's execution:
+CHANGE THIS...a little further on was a report of Tyrie's execution:
 
 ```{admonition} Regret for his father, September 1782
 :class: dropdown
@@ -1277,10 +1291,10 @@ David Tyrie, who was executed at Portsmouth on Saturday last, for carrying on a 
 
 From the time he was put upon the sledge, till he came to the gibbet, he continued an unconcerned conversation with the gaoler, in which he expressed that he thought there were not three better, sounder, or honester hearts this kingdom, than his own, which was just going to be burnt. That there was only thing which gave him concern, which was, that his father was living, and that he feared this misfortune would bring his grey hairs with sorrow to the grave. He declined saying a word to the populace, observing, that he knew not why he was to feed or gratify the idle curiosity of the multitude. He never hung his head the whole time.—When arrived at the place of execution, no halter was provided, upon which he smiled, and expressed astonishment at the inattention and neglect of his executioners; and indeed the business would have been retarded for some time, had not a rope and pulley been procured out of a lugger that lay under shore, during which time he read several passages in a bible he carried in his hand.—Before he was drawn up, he delivered a paper, setting forth, that he had authorised no person to publish any account of his life, nor was there any one who knew sufficiently of him to give any genuine particular of his transactions to the world.
 
-After hanging exactly twenty-two minutes, he was lowered upon the sledge, and the sentence literally put in execution. His head was severed from his body, his heart taken out and burnt, his privities cut off, and his body quartered. He was then put into a coffin, and buried among the pebbles by the sea-side; hut no sooner had the officers retired, but the sailors dug up the coffin, took out the body, and cut it in a thousand pieces, every one carrying away a piece of his body to shew their messmates on board.—A more dreadful, affecting execution was perhaps never seen. It was computed by many intelligent persons on the spot, that there were not less than a hundred `[sic]` thousand spectators present on the occasion.
+After hanging exactly twenty-two minutes, he was lowered upon the sledge, and the sentence literally put in execution. His head was severed from his body, his heart taken out and burnt, his privities cut off, and his body quartered. He was then put into a coffin, and buried among the pebbles by the sea-side; but no sooner had the officers retired, but the sailors dug up the coffin, took out the body, and cut it in a thousand pieces, every one carrying away a piece of his body to shew their messmates on board.—A more dreadful, affecting execution was perhaps never seen. It was computed by many intelligent persons on the spot, that there were not less than a hundred `[sic]` thousand spectators present on the occasion.
 ```
 
-For notable trials such as this, it was common for broadsheets to be printed summarising the trial and the execution, as well life histories of those who had been condemned, either legitmately based on interviews with the subject, or unofficial ones. But Tyrie, it seems, did not want anyone to think he had officially sanctioned such a publication.
+For notable trials such as this, it was common for broadsheets to be printed summarising the trial and the execution, as well life histories of those who had been condemned, either legitimately based on interviews with the subject, or unofficial ones. But Tyrie, it seems, did not want anyone to think he had officially sanctioned such a publication.
 
 ```{admonition} No authorised biographies, September 1782
 :class: dropdown
@@ -1320,7 +1334,9 @@ Also in *Hereford Journal*, [Thursday 29 August 1782](https://www.britishnewspap
 
 TYRIE'S EXECUTION FOR HIGH TREASON.
 
-Saturday Morning David Tyrie was brought from Winchester Gaol in a Coach and Six, accompanied by the Sheriff of Hants and his Attendants, he was met by the Officers and Constables of Portsmouth at the Green Post, and came in solemn Procession to the White-house, when he was taken out, and immediately put on a Hurdle with a Sledge, drawn by four Horses, and proceeded to South Sea Beach, where after some little Time spent in Reading, he suffered the whole Punishment according to the dreadful Sentence pronounced upon him.—We cannot help observing the Steadiness of Behaviour throughout the Whole, even from his Trial to his last Moments. The Annals of England cannot furnish a Circumstance wherein a Criminal launched into Eternity with so much Composure, not shewing the least Timidity, but seemed to think, to the last Moment, he acted in a right Cause. He said nothing material at the Place of Execution, nor gave the least Hint that any other Person was concerned with him. The Concourse of People assembled on this Occasion was great indeed; according to moderate Calculation, there could not be less than twenty thousand Persons. After hanging 22 Minutes and a Half, he was lowered down, his Heart was taken out and held up to the Populace, and the Hangman declared it to be the Heart of a Traitor: It was then thrown into the Fire, and his Body (the little Remains of it) was put into a Coffin, and buried near the Gallows.
+Saturday Morning
+
+David Tyrie was brought from Winchester Gaol in a Coach and Six, accompanied by the Sheriff of Hants and his Attendants, he was met by the Officers and Constables of Portsmouth at the Green Post, and came in solemn Procession to the White-house, when he was taken out, and immediately put on a Hurdle with a Sledge, drawn by four Horses, and proceeded to South Sea Beach, where after some little Time spent in Reading, he suffered the whole Punishment according to the dreadful Sentence pronounced upon him.—We cannot help observing the Steadiness of Behaviour throughout the Whole, even from his Trial to his last Moments. The Annals of England cannot furnish a Circumstance wherein a Criminal launched into Eternity with so much Composure, not shewing the least Timidity, but seemed to think, to the last Moment, he acted in a right Cause. He said nothing material at the Place of Execution, nor gave the least Hint that any other Person was concerned with him. The Concourse of People assembled on this Occasion was great indeed; according to moderate Calculation, there could not be less than twenty thousand Persons. After hanging 22 Minutes and a Half, he was lowered down, his Heart was taken out and held up to the Populace, and the Hangman declared it to be the Heart of a Traitor: It was then thrown into the Fire, and his Body (the little Remains of it) was put into a Coffin, and buried near the Gallows.
 
 It astonished every Spectator to see the horrid Inhumanity that was suffered on the remaining Part of the Carcase. The Populace had the Liberty of cutting and hacking any Part they thought proper, such as Fingers, Toes, and Ribs. This abominable Shock to human Nature, must certainly have been the Neglect of the Sheriff; and what was most palpable, to suffer the Gaoler of Gosport to take away Tyrie's Head, and which he is now making a Show of at his own Dungeon. Many of the Body-snatchers, as they are called, bid high for the Head; however, *Buck———* either having more Interest, or being quicker than the Rest, whipt it into a Bag, and some of his *worthy* Emissaries conveyed it away. It is sincerely to be hoped that such horrid Behaviour will not pass without exemplary Punishment.
 ```
@@ -1337,215 +1353,22 @@ In *Stamford Mercury*, [Thursday 05 September 1782](https://www.britishnewspaper
 "It astonished every spectator to see the horrid inhumanity that was suffered on the remaining part of the carcase of Tyrie. The populace had the liberty of cutting and hacking any part they thought proper, such as fingers, toes and ribs. This abominable shock to human nature must certainly have been the neglect of the sheriffs; and what was most culpable, to suffer the Jailer of Gosport to take away Tyrie's head, and which he is now making a shew of in his own dungeon."
 ```
 
-```{admonition} Some Account of the Trial of Francis Henry de la Motte, *for High Treason*, July 1781
+But the story of the execution on Southsea Common wasn't the only big news story to be reported from Portsmouth the following weekend. For in the same edition of the *Hampshire Chronicle* that reported on Tyrie's execution, there would be another tragic tale.
+
+```{admonition} The Sinking of the Royal George, September, 1782
 :class: dropdown seealso
-In *Bath Chronicle and Weekly Gazette*, [Thursday 19 July 1781](https://britishnewspaperarchive.co.uk/viewer/bl/0000221/17810719/006/0002).
+In *Hampshire Chronicle*, [Monday 02 September 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820902/004/0003).
 
-...
+HOME NEWS.
 
-```
+PORTSMOUTH. Aug. 31.
 
+On Thursday morning, between nine and ten o'clock, the Royal George man of war of 100 guns, on board of which Admiral Kempenfelt had hoisted his flag, nearly in the center of Lord Howe's fleet at Spithead, most unfortunately and instantaneously went to the bottom. The melancholy accident was occasioned by the being heeled upon her side, in order to have the water-pipe of her cistern repaired, at which instant of time a strong squall of wind at N. N. W. threw her further upon her side, and the lower port holes being unluckily open, she filled and went down in less than three minutes. The alarm and confusion at an event so unexpected and so horrid, is indescribable. A victualling sloop, and several wherries full of people, which had just put off in order to go ashore, were drawn down by the prodigious whirlpool and suction occasioned by the sinking of the ship. Of about fourteen hundred men, women, and boys which were on board, not more than 320 were saved; and it must give unspeakable concern to every lover of his country, as well as to the humane heart, that the brave and able veteran Admiral Kempenfelt is amongst the drowned.— Major Graham, and several other officers of marines, the surgeon, the master, three lieutenants, several midshipmen, and some ladies who had gone on board to see the ship, were also lost. Captain Waghorn, Admiral Kempenfelt's Captain, was fortunately gone on duty for few hours on board another ship. The ship's complement was 900 men, and she was completely manned with the best seamen, victualled and ready for sea at an hour's notice. There were also a number of carpenters from the yard, at work in her; and several of the officers, with the whole of the marines, had only come on board from Portsmouth the preceding evening. The unspeakable distress of this fatal catastrophe has occasioned is inconceivable. The shore for a length of time exhibited scenes of the most poignant grief, being lined with persons lamenting their fathers, or their children, who had perished in this calamity. And every one will read with added concern that the brave Admiral Kempenfelt, who had hold of the same rope with a marine, was so exhausted and fatigued, that he let go but a few minutes before a boat reached the unhappy spot where he sunk, and picked up the marine alive.
 
-TO DO
+Though the depth in which she now lies, about fourteen fathom, is not considerable, it seems to be the general opinion here, that she cannot be raised, as no purchase can be obtained equal to the immense weight. But if this ship, so long the pride of our navy, and so essential a part of the strength of this country, at this most critical period, could be recovered, the loss of so many brave and able seamen is irremediable, and never sufficiently to be lamented.
 
+An accident of this kind to a capital ship, is unpredented *[sic]* in the annals of the Navy.
 
-```{admonition} Correspondence from Portsmouth, September 1782
-:class: dropdown
-
-In *Stamford Mercury*, [Thursday 12 September 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17820912/007/0002).
-
-*Extract of a Letter from Portsmouth, Sept. 6.*
-
-An order came down this morning for the ships to take all their stores on board directly, which is now performing in the greatest haste imaginable.
-
-"Lord Howe has not left his command his arrival.
-
-"The First Lord of the Admiralty is expected to see the fleet sail, and it is even said will go as far as Plymouth in the Victory, where he will take a view the Dock-yard, during the absence of the grand fleet.
-
-"We have now 1160 men, including labourers, employed this yard, and talk of employing 200 more before the spring; Indeed so much work calls for additional hands.
-
-"The person who is to go down into the Royal George, tried the experiment in the harbour this morning, in the machine contrived for the purpose; and I have just been informed that great hopes of success are expected from it, as he was able to continue under water near an hour.
-
-"A clear benefit of 90*l.* was last night given at the Sadlers Wells Theatre, near this town, to the widows and orphans of the persons lost in the Royal George. Another will be given at the Theatre in the town this evening by the Comedians."
-
-A Correspondent has made the following observations respecting the Royal George.
-
-The absolute weight of a body sinking a fluid is equal to such part of the fluid as shall be thrust away or displaced thereby.
-
-It is now presumed, that the Royal George had all her ordnance, rigging, &c. on board and therefore by calculation she displaced, or removed, a body of sea water containing 21,965,978 pounds of water, which makes 9805 tons and upwards, which is equal to her weight. Now, supposing her to be sixteen fathom perpendicular under water, and admitting the truth of 64 pounds to be a solid foot of sea water, she sustains the weight of 20,9941/2 tons.
-
-The ship's weight, upon a present computation, 9805 tons.
-
-The perpendicular weight of water over her, 20994 1/2 tons.
-
-Total, without considering the water in her body. 30799 1/2 tons.
-
-He concludes with asserting that he can form a machine upon a simple construction, whereby she may be unloaded of her ordnance and stores.
-
-As Tyrie was conducting to execution, he said the gaoler, "At this place I was to have been rescued, could I have raised money enough, for the Smugglers had offered do it, but demanded a sum greater than was in my power to give." He afterwards said, there was one man living yet, who furnished intelligence to the French, and while he lived, the navy of Great Britain would never be successful. After he was executed and buried in the sand, the sailors dug him up, pulled him to pieces, lapped his fingers and toes in rags to make tobacco-stoppers of, and carried his entrails in triumph on a stick.
-```
-
-```{admonition} A life well worth preserving, September 1782
-:class: dropdown
-
-In *Caledonian Mercury*, [Wednesday 18 September 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000045/17820918/003/0001).
-
-Notwithstanding the late David Tyrie's seeming contempt of death, both at his trial and execution, the following letter, together with his subsequent design of escaping from Winchester goal, evidently prove that he thought life well worth preserving. This letter, in Tyrie's hand-writing, was found on the person to whom it was addressed, who was apprehended for altering bank-notes:
-
-*`As quoted previously.`*
-```
-
-## The Trial of John and Jane Graham
-
-```{admonition} John and Jane Graham tried at the Old Bailey, September 1782
-:class: dropdown
-In *Caledonian Mercury*, [Monday 23 September 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820923/003/0001).
-
-Also in *Stamford Mercury*, [Thursday 19 September 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820919/012/0003).
-
-On Saturday, 19 prisoners were tried at the Old Bailey, four of whom were capitally convicted, viz. John Graham and Jane Graham, for forging, counterfeiting, and publishing as true, knowing it to be forged, a certain promissory note for payment of money, viz. for 15*l.* thereby, purporting to be the promissory note of John Boult, for the Governor and Company of the Bank of England, for payment of 50*l.* to Mr Allan Cowper, or bearer, on demand, with intent to defraud Christopher Alderson. ...
-
-On the trial of John Graham, and Jane his wife, the first for altering and forging a letter in a bank-note, and the latter for uttering the said note, knowing it to be forged. It appeared from the evidence produced in support of the prosecution, that Mr Graham had applied to Mr Huxton, to cut him the letter Y in wood, suitable to a specimen which he gave him; not liking the impression which it made, he desired to have some more cut a smaller sort, this was done, and the woman at the bar came and took them away. He was shewn some wooden letters that were found in the possession of the prisoners, and was of opinion they were the same which they had from him. A bank-note was produced, and being proved to have been tendered by Mrs Graham, in payment of some goods, for which she received the difference; this note; and others found upon Graham when he was taken, were produced, and appeared to have been originally struck for fifteen pounds, but by the help of a liquid, the letters below the T had been erased, and the letter Y being added, the notes were, to all appearance, for 50 *l.* each. A variety of different implements, evidently of use in this iniquitous purpose, were produced, and proved to have belonged to the prisoners. Being called upon for their defence, they complained bitterly that their witnesses had been sent out of the way, to prevent them from having the benefit of their testimony. A witness was examined to prove that the prisoners had been married many years; and Mr Morgan their counsel objected, that, in point of law, the Jury could not convict the prisoner, even if they believed they evidence proved; because, in all cases short of treason or murder, where it appeared that a criminal action had been performed by a man and his wife, the woman was acquitted, from a presumption, that what she had done was by the influence and direction of the husband. The Judge summed up the evidence with great accuracy and precision; and, in regard to the point of law, he told the Jury, that in all such cases as where the husband and wife acted in coercion, then, indeed, the law was so tender in behalf of the woman as to presume she acted under an influence and compulsive force from the husband; but then she had no such advantage in the present case; what she had done appeared to have been a voluntary act; her husband was not present; and although he might have commanded her to utter the note in question, yet as soon as she was out of his sight she was out of his power; and might have claimed the protection of the Magistrate to defend herself.— The Jury withdrew a few minutes, and returned a verdict that the prisoners were guilty, but in consideration of a most pathetic address, made to them by the prisoners, representing their being the unhappy parents of nine children, the Jury was pleased to recommend the woman to his Majesty's mercy.
-```
-
-
-TO DO
-
-
-TH: worth bearing the above in mind wrt Mrs Tyrie; also implied threat (to support her defence?) re taking his name etc?
-
-
-```{admonition} Ordered for execution, respited during His Majesty's Pleasure, October, 1782
-:class: dropdown
-
-In *Northampton Mercury*, [Monday 14 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17821014/003/0002).
-
-Yesterday the Report was made to His Majesty in Council of the Prisoners under Sentence of Death at Newgate, convicted last September Session, when the following were ordered for Execution on Tuesday next, viz ... John Graham, for forging and publishing as true, knowing it to be forged, a Promissory Note for 15*l.* purporting to be the Promissory Note of John Boult, for the Governor and Company of the Bank of England, for Payment of 50*l.* to Mr. Allen Cowper, Bearer, on Demand, with Intent to defraud Chr. Anderson. ...
-
-The following are respited during His Majesty's Pleasure, viz. ... Jane Graham, for being concerned with John Graham in the Forgery above-mentioned. ...
-```
-
-```{admonition} Sentenced to death; and respited, October 1782
-:class: dropdown
-
-In *Stamford Mercury*, [Thursday 17 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17821017/003/0001).
-
-Yesterday the report was made to his Majesty in Council of the prisoners under sentence of death in Newgate, convicted last September session, when the following were ordered tor execution on Tuesday next, viz. ... John Graham for forgery; ...
-
-The following are respited during his Majesty's pleasure, viz. ... Jane Graham (wife of Graham ordered for execution) ... 
-```
-
-```{admonition} John Graham et al. executed, October 1782
-:class: dropdown
-
-In *Derby Mercury*, [Thursday 17 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000189/17821010/016/0004) `(in BNA, given as 10 October)`.
-
-This Day the ten following convicts were executed pursuant to their Sentence, viz. Charlotte Goodhail, John Edmonds, and John Graham, who went in the first Cart.— Wm. Odom, Thomas Claddenboul, P. Verrier, and John Price, in the Second. — In the Third, Wm Jones, alias Parker, alias Filch, a Jew. Wm. Weatherby, and John Lyfee, being for Coining, were drawn on a Sledge. They all behaved with Decency, and were attended by the Sheriffs and under Sheriff, the City Marshall, &c.
-
-At the fatal Tree Charlotte Goodhall swooned away Twice, so that she was obliged to be supported by the Executioner till she was turned off: A Scaffold broke down whh upwards of 200 People upon it; and Two Pickpockets were detected, who were left to the Mercy of the Mob.
-```
-
-```{admonition} Executed at Tyburn, October, 1782
-:class: dropdown
-
-In *Ipswich Journal*, [Saturday 19 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000191/17821019/004/0002).
-
-This morning John Graham, Charlotte Goodall, John Edmonds, Henry Berthaud, Wm. Jones, Peter Verrier, Wm. Odem, Tho. Claddenboul, Charles Woollet, John Weatherby, and John Lafee, were, executed at Tyburn.
-```
-
-```{admonition} Carried from Newgate to Tyburn, October 1782
-:class: dropdown
-
-In *Salisbury and Winchester Journal*, [Monday 21 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000554/17821021/003/0001).
-
-London, Tuesday Ocober 15.
-
-This morning the following convicts were carried from Newgate to Tyburn, and there executed, pursuant to their sentences. John Graham, Charlotte Goodall, and John Edmonds, in the first cart; Henry Berthaud, William Jones, and Peter Verrier, in the second; Wm. Odem, Thomas Claddenboul, and Charles Woollett, in the third cart. John Weatherby, and John Lafee, tor coining, were drawn on a sledge. They all behaved very penitently.
-```
-
-```{admonition} The Tragic Last Meeting of Graham and His Wife, October, 1782
-:class: dropdown
-
-In *Hampshire Chronicle*, [Monday 21 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17821021/004/0003).
-
-A correspondent who was present at the interview between the unhappy Graham and his wife, the evening previous to his execution on Tuesday last, declares he never saw or heard a more affecting spectacle. Callous as the sight of frequent scenes of human woe might be supposed to make the people Newgate, there was not one of them who beheld the wretched husband take his last farewell of his disconsolate wife, who did not join in the lamentations of the woman. As for the man, his deportment beggared description. They have *nine* children, the eldest not fifteen. Reflection on this circumstance, more than on his own approaching fate, had reduced him to a skeleton. He had kept an academy, but that business not succeeding, unhappily, his tenderness for his children is said to have drove him to the measure that ended in his condemnation. At the interview with his wife, he seemed to have made up all his earthly accounts. There was an awful composure in his manner, a thousand times more moving than the looks of desperation and shrieks of the miserable woman. He soothed her in the most affectionate manner; he very tenderly charged her not to give way to grief, but to take care of her health for the sake of their poor little ones, who *shortly*—(here the unhappy man paused—a tear trickled down his cheek—he could proceed no farther.) His wife fainted, and in that condition was carried off, while the husband resigned himself solemn silence into the hands of the keepers.
-```
-
-TO DO
-
-```{admonition} Graham Previously a Schoolmaster, October 1782
-:class: dropdown
-In *Newcastle Chronicle*, [Saturday 12 October 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000863/17821012/022/0002).
-
-Graham, the forger, convicted last sessions at the Old Bailey, was a schoolmaster at Kilmarnock; and, prior to his settlement there, had kept an English school at Douglas in Ayrshire; he was reputed a man of nobility; but his conduct never procured respect.
-```
-
-TO DO
-
-
-```{admonition} The Sinking of the Royal Goerge recalled, 1839
-:class: dropdown
-
-In *Surrey Mercury*, [Monday 07 September 1846](https://britishnewspaperarchive.co.uk/viewer/bl/0004135/18460907/015/0001).
-
-THE ROYAL GEORGE.
-
-The loss of this vessel, which sunk at Spithead in 1762, has been so often related, that some apology is requisite in recurring to the story. But we are induced to do so, from finding the following brief though graphic description of the accident in a book just published, "the Naval Life and services of Sir P.Durhant," who was one of the parties saved.
-
-"The Royal George was under orders to sail for the relief of Gibraltar. During her last cruize she had made rather more water than usual, and, after a short survey, the carpenters discovered a leak, and they stopped it. It was likewise observed that the pipe which admitted the water into the hold for cleansing the ship was out of repair. This pipe is usually placed atout three feet below the surface of the water. To remove the old pipe, therefore, and to insert a new one, it became necessary to heel the Royal George on one side, so as to raise the mouth of the pipe out of the water. This operation brought the larboard porthole sills even with the water. A lighter came on the lower side of the ship, and put her cargo of rum on board, the weight of which, with that of the men engaged in hoisting the casks, cased the Royal George to heel considerably more, 'and brought the lower deck port-holes under water, which now dashed in such quantities to the hold that she began gradually to settle down.' The carpenter twice warned the first lieutenant (Sandon) of the danger the ship was in, but he would not listen to him, and delayed giving the order to right the ship till it was too late; and a slight breeze springing up, 'heeled her completely on her broadside, when guns shot, and every thing moveable fell to leeward, and rendered it an impossibility to right her. She sank almost immediately.' The watch on deck, consisting of 230 men, were saved by running up the rigging and were taken off by the boats which came to their assistance, and which likewise succeeded in picking up about seventy, who had escaped by swimming. Amongst the latter were the Captain Waghorn, and, two acting lieutenants, Durham and Richardson. By this calamity about 200 persons met with a watery grave, among whom was the brave old Admiral Kempenfelt, who at the time was sitting writing in his cabin. He was in the 70th year of his age. When the Royal George settled down finally the masts stood tupright, the cap of her bowsprit appeared above water, and the admiral's flag remained flying at the mizen topmast head," &c.
-
-It is a curious fact that during Colonel Pasley's operations of 1841 a relic of the wreck was discovered which Sir P. Durham identified as having been his property. It is a stamp he employed for marking his books, linen, &c. The types were in perfect preservation, though they had been in the great deep for nearly 60 years. 
-
-```
-
-## The Raising of the Royal George
-
-```{admonition} Awaiting an attempt to raise the Royal George, June 1783
-:class: dropdown
-
-In *Hampshire Chronicle*, [Monday 23 June 1783]https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830623/016/0003?browse=true).
-
-PORTSMOUTH AND CHICHESTER POST
-
-PORTSMOUTH, Saturday, June 12.
-
-...
-
-The Diligente, one of the ships appointed to weigh the Royal George, has been at Spithead some days past, to be ready against the attempt is made, which will take place as soon as she is joined by the Royal William, now fitting for that service.
-
-The diving-bell, poised with lead, and which is to sink full of air, is to be situated as near as possible parallel to the horizon, so as to close with the water's surface all at once, at the operation of raising the Royal George.
-```
-
-
-```{admonition} A short lived mutiny, June 1783
-:class: dropdown
-
-In *Hampshire Chronicle*, [Monday 23 June 1783](https://britishnewspaperarchive.co.uk/viewer/BL/0000230/17830623/016/0003).
-
-A very alarming mutiny has happened this week on board the Raisonable man of war at Spithead, the crew of which, on being ordered to sail for the River, in company with the Anson, Ruby, and Polyphemus, to be paid off there, absolutely refused to sail; but on the contrary prepared to bring the ship into harbour, insisting she should be paid off at this place. Information of these proceedings being sent to Admiral Montague, who commands at this port, he immediately gave orders for the men of war at Spithead bear up and lay their broadsides towards her, and the guns from South Sea Battery, the platform, and Block house, to bear upon her, that, in case the crew attempted to bring her into harbour, they should, the moment they got under weigh, fire upon, and sink her; notice of which orders he previously sent on board the Raisonable, to inform the crew of their inevitable destiny, if they persisted in their unwarrantable proceedings. This resolute and decisive conduct in the Admiralty, had its proper effect. The ship's company were to man struck with the danger that awaited them, and were soon brought to a sense of their indiscretion and imprudence. Very happily no further opposition or mischief ensued, nor did any of the sailors in other ships join the mutiny, the expectation of which was so great, that orders were sent to the regiments quartered in the neighbouring towns, to hold themselves in readiness to march to the aid of the Commander in Chief here, on a few minuets notice, in case they should be wanted. The crew thus brought to a proper sense of their duty, have since weighed anchor, and sailed for the River, where they are to be paid off.
-
-```
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000080/18390908/009/0003
-London Dispatch - Sunday 08 September 1839
-
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000846/18410925/006/0001
-Waterford Mail - Saturday 25 September 1841
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000045/18410710/008/0002
-Caledonian Mercury - Saturday 10 July 1841
-
-```{admonition} TO DO
-:class: dropdown
-
-In *Hampshire Telegraph*, [Monday 08 June 1840](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18400608/025/0004).
-
-ROYAL GEORGE.
-
-TO DO
-
-Since our last notice of the oplerations on the hull of the *Royal George*, much wreck has been brought on shore, among which are entire deck beams, the stanchions or wooden standards of the orlop deck which rested on the keelson, some fragments of the after part qf the keel with the dead wood teamed into them), attached nlto whiuvli aire strong connecting plates of brass, die ho tanhins f ithe pumip wyell or- shot locker at the main '~bulkheads connlected with it where iinsertd,all thisshows Lti that the wreck from thle Stern pi at to the main hatchw;ay lie is completely tihrown abiroadi, anti that little now rentaitis t to do buit tto pi ck Itip t I e fragn ient Is. B esid esL ?? woI d ivertL; d-Geo. Hall anti Fuhlager; two othersof'the corps ?? id fappers and Mliners teave commenced with considerable pronistii~-one, a private, Andrew D)uncau, who distinguished hinmself betore he entered the service, by saviing evrllives by swimmingl, tor wrhich lie received pep;;- itams troit the Royal Humane Society, to this iall, C liawevrr, a trilling accident, luckily attended with no rd owrinou consequence happened on Thursday morning, wn WJ'11 t ODO O. theriggers, w IIo alal charge of the I ite tiS hue, having allowed it to becatie too slack. in conic- )u ayto hau lila tilt), as his helmet was full of water, tl and he had become senseless, or nearly so, but lie soot; 'lie recovered, and this spitrited young soldier is ready to far dive again, it was only the second time he had beet; M. dlown, the first time lie got up a beam. Corporal David to Iltirris tins also beet; diving for several days with greati St. activity and success. This morning an iron 32-pounder t1tS and two Ittn-carriages were got up, and about two dozen bottles of wine, but the quantity at' wreck recovered during the last two days lots beeit rather smaller, thati nij- tistal, So that CJul. Pasley has directed two charges to Le Ir of'ired on Monday next, nen ot'26iflbs. the other of 471be., ers ait the mid~day slack-title, avid it is probable that a large chtorge of olpwrtrds, at' 2,000~lbs., will he tired itt the next De eep titles, that is in about a, fortnight tramt this, pro- left bab 1n th 2ind inst. Severatl small charges have bieet er, tird during the week, RS the moth hats beet; more trait- oes blesomoe tit an usual, anid will continue so, as long its a;;y le, ?? Otweec~k prevents the ?? carryitig la; it efi sillier by the flood or ebb tide.
+The Royal George man of war is the oldest first rate in the service; she was built at Woolwich, her keel was laid down in 1751, and she was hauled out of the dock in July 1755, it being unusual to build such large ships on slips to launch; she was pierced for 100 guns, but having lately had two additional ports, including the carronades, mounted 108 guns; she was rather short and high, as all the old first rates are, but so good a sailer, that she has had more flags on board her than any vessel in the service. Lord Anson, Admiral Boscawen, Lord Hawke, Lord Rodney, Lord Howe, and several other principal officers, have repeatedly commanded in her. Lord Hawke commanded the squadron in her which fought the French under Conflans, when the Suberb of 70 guns, was sunk by her cannon and the Soliel Royal of 84, burnt on shore: she carried the tallest masts and canvas of any English built ship in the navy, and originally the heaviest metal, viz. 52, 40, and 28 pounders, but they were lately changed, account of her age, to 40, 32, and 18 pounders.
 
 ```

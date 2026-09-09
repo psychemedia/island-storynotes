@@ -51,10 +51,12 @@ parts:
 - caption: Solent Tales — The Tale of David Tyrie (WIP)
   chapters:
   - file: tyrie/david_tyrie_bankruptcy_scam
+  - file: david_tyrie_telling
   - file: tyrie/david_tyrie_southsea_quartering
 - caption: Solent Tales — John the Painter
-  - files: john_the_painter_telling
-  - files: john_the_painter
+  chapters:
+  - file: john_the_painter_telling
+  - file: john_the_painter
 - caption: Found not as stories...
   chapters:
   - file: noyes-highwayman

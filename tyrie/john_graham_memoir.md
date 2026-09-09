@@ -2,6 +2,92 @@
 
 TO DO
 
+
+## The Trial of John and Jane Graham
+
+```{admonition} John and Jane Graham tried at the Old Bailey, September 1782
+:class: dropdown
+In *Caledonian Mercury*, [Monday 23 September 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000045/17820923/003/0001).
+
+Also in *Stamford Mercury*, [Thursday 19 September 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820919/012/0003).
+
+On Saturday, 19 prisoners were tried at the Old Bailey, four of whom were capitally convicted, viz. John Graham and Jane Graham, for forging, counterfeiting, and publishing as true, knowing it to be forged, a certain promissory note for payment of money, viz. for 15*l.* thereby, purporting to be the promissory note of John Boult, for the Governor and Company of the Bank of England, for payment of 50*l.* to Mr Allan Cowper, or bearer, on demand, with intent to defraud Christopher Alderson. ...
+
+On the trial of John Graham, and Jane his wife, the first for altering and forging a letter in a bank-note, and the latter for uttering the said note, knowing it to be forged. It appeared from the evidence produced in support of the prosecution, that Mr Graham had applied to Mr Huxton, to cut him the letter Y in wood, suitable to a specimen which he gave him; not liking the impression which it made, he desired to have some more cut a smaller sort, this was done, and the woman at the bar came and took them away. He was shewn some wooden letters that were found in the possession of the prisoners, and was of opinion they were the same which they had from him. A bank-note was produced, and being proved to have been tendered by Mrs Graham, in payment of some goods, for which she received the difference; this note; and others found upon Graham when he was taken, were produced, and appeared to have been originally struck for fifteen pounds, but by the help of a liquid, the letters below the T had been erased, and the letter Y being added, the notes were, to all appearance, for 50 *l.* each. A variety of different implements, evidently of use in this iniquitous purpose, were produced, and proved to have belonged to the prisoners. Being called upon for their defence, they complained bitterly that their witnesses had been sent out of the way, to prevent them from having the benefit of their testimony. A witness was examined to prove that the prisoners had been married many years; and Mr Morgan their counsel objected, that, in point of law, the Jury could not convict the prisoner, even if they believed they evidence proved; because, in all cases short of treason or murder, where it appeared that a criminal action had been performed by a man and his wife, the woman was acquitted, from a presumption, that what she had done was by the influence and direction of the husband. The Judge summed up the evidence with great accuracy and precision; and, in regard to the point of law, he told the Jury, that in all such cases as where the husband and wife acted in coercion, then, indeed, the law was so tender in behalf of the woman as to presume she acted under an influence and compulsive force from the husband; but then she had no such advantage in the present case; what she had done appeared to have been a voluntary act; her husband was not present; and although he might have commanded her to utter the note in question, yet as soon as she was out of his sight she was out of his power; and might have claimed the protection of the Magistrate to defend herself.— The Jury withdrew a few minutes, and returned a verdict that the prisoners were guilty, but in consideration of a most pathetic address, made to them by the prisoners, representing their being the unhappy parents of nine children, the Jury was pleased to recommend the woman to his Majesty's mercy.
+```
+
+
+TO DO
+
+
+TH: worth bearing the above in mind wrt Mrs Tyrie; also implied threat (to support her defence?) re taking his name etc?
+
+
+```{admonition} Ordered for execution, respited during His Majesty's Pleasure, October, 1782
+:class: dropdown
+
+In *Northampton Mercury*, [Monday 14 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000317/17821014/003/0002).
+
+Yesterday the Report was made to His Majesty in Council of the Prisoners under Sentence of Death at Newgate, convicted last September Session, when the following were ordered for Execution on Tuesday next, viz ... John Graham, for forging and publishing as true, knowing it to be forged, a Promissory Note for 15*l.* purporting to be the Promissory Note of John Boult, for the Governor and Company of the Bank of England, for Payment of 50*l.* to Mr. Allen Cowper, Bearer, on Demand, with Intent to defraud Chr. Anderson. ...
+
+The following are respited during His Majesty's Pleasure, viz. ... Jane Graham, for being concerned with John Graham in the Forgery above-mentioned. ...
+```
+
+```{admonition} Sentenced to death; and respited, October 1782
+:class: dropdown
+
+In *Stamford Mercury*, [Thursday 17 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000254/17821017/003/0001).
+
+Yesterday the report was made to his Majesty in Council of the prisoners under sentence of death in Newgate, convicted last September session, when the following were ordered tor execution on Tuesday next, viz. ... John Graham for forgery; ...
+
+The following are respited during his Majesty's pleasure, viz. ... Jane Graham (wife of Graham ordered for execution) ... 
+```
+
+```{admonition} John Graham et al. executed, October 1782
+:class: dropdown
+
+In *Derby Mercury*, [Thursday 17 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000189/17821010/016/0004) `(in BNA, given as 10 October)`.
+
+This Day the ten following convicts were executed pursuant to their Sentence, viz. Charlotte Goodhail, John Edmonds, and John Graham, who went in the first Cart.— Wm. Odom, Thomas Claddenboul, P. Verrier, and John Price, in the Second. — In the Third, Wm Jones, alias Parker, alias Filch, a Jew. Wm. Weatherby, and John Lyfee, being for Coining, were drawn on a Sledge. They all behaved with Decency, and were attended by the Sheriffs and under Sheriff, the City Marshall, &c.
+
+At the fatal Tree Charlotte Goodhall swooned away Twice, so that she was obliged to be supported by the Executioner till she was turned off: A Scaffold broke down whh upwards of 200 People upon it; and Two Pickpockets were detected, who were left to the Mercy of the Mob.
+```
+
+```{admonition} Executed at Tyburn, October, 1782
+:class: dropdown
+
+In *Ipswich Journal*, [Saturday 19 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000191/17821019/004/0002).
+
+This morning John Graham, Charlotte Goodall, John Edmonds, Henry Berthaud, Wm. Jones, Peter Verrier, Wm. Odem, Tho. Claddenboul, Charles Woollet, John Weatherby, and John Lafee, were, executed at Tyburn.
+```
+
+```{admonition} Carried from Newgate to Tyburn, October 1782
+:class: dropdown
+
+In *Salisbury and Winchester Journal*, [Monday 21 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000554/17821021/003/0001).
+
+London, Tuesday Ocober 15.
+
+This morning the following convicts were carried from Newgate to Tyburn, and there executed, pursuant to their sentences. John Graham, Charlotte Goodall, and John Edmonds, in the first cart; Henry Berthaud, William Jones, and Peter Verrier, in the second; Wm. Odem, Thomas Claddenboul, and Charles Woollett, in the third cart. John Weatherby, and John Lafee, tor coining, were drawn on a sledge. They all behaved very penitently.
+```
+
+```{admonition} The Tragic Last Meeting of Graham and His Wife, October, 1782
+:class: dropdown
+
+In *Hampshire Chronicle*, [Monday 21 October 1782](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000230/17821021/004/0003).
+
+A correspondent who was present at the interview between the unhappy Graham and his wife, the evening previous to his execution on Tuesday last, declares he never saw or heard a more affecting spectacle. Callous as the sight of frequent scenes of human woe might be supposed to make the people Newgate, there was not one of them who beheld the wretched husband take his last farewell of his disconsolate wife, who did not join in the lamentations of the woman. As for the man, his deportment beggared description. They have *nine* children, the eldest not fifteen. Reflection on this circumstance, more than on his own approaching fate, had reduced him to a skeleton. He had kept an academy, but that business not succeeding, unhappily, his tenderness for his children is said to have drove him to the measure that ended in his condemnation. At the interview with his wife, he seemed to have made up all his earthly accounts. There was an awful composure in his manner, a thousand times more moving than the looks of desperation and shrieks of the miserable woman. He soothed her in the most affectionate manner; he very tenderly charged her not to give way to grief, but to take care of her health for the sake of their poor little ones, who *shortly*—(here the unhappy man paused—a tear trickled down his cheek—he could proceed no farther.) His wife fainted, and in that condition was carried off, while the husband resigned himself solemn silence into the hands of the keepers.
+```
+
+TO DO
+
+```{admonition} Graham Previously a Schoolmaster, October 1782
+:class: dropdown
+In *Newcastle Chronicle*, [Saturday 12 October 1782](https://britishnewspaperarchive.co.uk/viewer/bl/0000863/17821012/022/0002).
+
+Graham, the forger, convicted last sessions at the Old Bailey, was a schoolmaster at Kilmarnock; and, prior to his settlement there, had kept an English school at Douglas in Ayrshire; he was reputed a man of nobility; but his conduct never procured respect.
+```
+
 ## Trials
 
 https://www.oldbaileyonline.org/record/t17811017-60?text=%22john%20graham%22
@@ -169,7 +255,7 @@ Do you know either of the prisoners at the bar? - The woman I know.
 
 When did you first know her, where did you see her? - As much as I can recollect it was on the 8th of June, she came to our house in the evening about 7 o'clock,
 
-it was approaching to dusk, she desired that she might see some quilted sattin coats, in consequence of that I shewed her some, and she fixed on one, and we agreed for the price very soon, when we had so done, she said, I have a bill to change, a bank bill for 50*l.* she shewed it me, I said, I I would change it for her; she desired to see some silks, she fixed on one, and I changed the note and gave her the difference, the goods came to 6*l.* 12*s.* I gave her two 15*l.* notes and the rest in cash.
+it was approaching to dusk, she desired that she might see some quilted sattin coats, in consequence of that I shewed her some, and she fixed on one, and we agreed for the price very soon, when we had so done, she said, I have a bill to change, a bank bill for 50*l.* she shewed it me, I said, I would change it for her; she desired to see some silks, she fixed on one, and I changed the note and gave her the difference, the goods came to 6*l.* 12*s.* I gave her two 15*l.* notes and the rest in cash.
 Did you know at that time the numbers of the 15*l.* bank notes? - No I did not (a note shewn to him); this I believe to be the note I received from the prisoner Jane, I have reason to think it is, I remember the black mark that there is upon the top of it.
 
 Who did you pay it to? - I paid it to George Capes .
@@ -457,52 +543,6 @@ On Wednesday last, John Graham, who was taken up in this city for forgery, had t
 
 Tyrie's trial, at a special commission, took place on 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000189/17820808/012/0003
-Derby Mercury - Thursday 15 August 1782
-
-*The British Newspaper Archive incorrectly gives the date as 10 August, incorrectly parsing the date "From Thursday August 8 to Thursday August 15, 1782."*
-
-A Letter from Salisbury, dated Aug. 12, says,, "Saturday came on at the Castle of Winchester, the Trial of Mr. David Tyrie, of Gosport, for holding a treasonable Correspondence with the French Ministry. The Trial lasted near eight Hours, when he was convicted upon the clearest Evidence, and received Sentence to be executed at Portsmouth on the 24th Inst. When asked by the Clerk of Arraigns, what he had to say why Sentence of Death should not be pronounced upon him, he replyed, 'He did not suppose any Thing he could say would avail him, but he had a Hope beyond the Grave, and despised the Malice of his Enemies.' He is about 30 Years of Age, by Birth a Scotchman, went up to London as a Servant, and lived with Mr. Vowell the Stationer, as a Clerk, above five Years, gaining the Esteem and Confidence of his Master."
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/17820812/004/0003
-Hampshire Chronicle - Monday 12 August 1782
-
-WINCHESTER, Saturday, August 10.
-
-At twelve o'clock on this day came one the tryal of David Tyrie, for High Treason, at the Castle of this city, before Justice Heath, under a special commission held for that purpose.
-
-Previous to opening the cause, the prisoner begged permission of the Judge to state some reasons why his tryal should be postponed till the next Lent Assizes. These reasons were, that the short notice he had had of tryal, did not give him time to procure those witnesses on his behalf, from whose evidence he had no doubt of being acquitted. But it happened that one of them was now confined Tothillfields-Bridewell, and he had not the means to procure an Habeas Corpus to bring her down. Another witness was on a cruise, on board one of his Majesty's ships of war.– One was at this time at Brussells, and another at Ostend. He therefore prayed the indulgence of the Court to put off his tryal till the next assizes, in order to give him time to collect these witnesses, and prepare himself for tryal. After the Judge and counsel had investigated the matter, the motion was over-ruled, on its appearing that the prisoner had not hitherto made use of any endeavours to procure this evidence, though he had been six months in custody.
-
-The cause was then opened on the part of the crown by Mr. Morris, who in a very able, humane, and comprehensive detail of the grounds of the prosecution, begged leave to call the attention of the Jury to the circumstances of an offence big with every fatal consequence to society, and destructive to the good government and well-being of a great and commercial nation.
-
-The first witness called, was a Mrs. Harvey, who keeps a School near Scotland-yard, London.—She deposed that a Mrs. Askew, understood to be the wife of the prisoner, brought to her house on the 13th of Feb. last, a bundle of papers, requesting her to take particular care of them, and not on any account to let any person see them—struck with the singularity of the circumstance, and the tremour and anxiety of Mrs. Askew, she was induced, after her departure, to examine the papers, and finding them of a very particular nature, she carried them the same evening to a Mr. Page, a friend hers, to desire he would examine them, and let her know his opinion of their contents.
-
-Mr. Page was then sworn— He confirmed the evidence of Mrs. Hervey *[sic]*, and said, that on finding the papers of a treasonable nature, he went the next morning and placed a constable at Mrs. Harvey's, to take the person into custody who should come to enquire for them— By this means Mrs. Askew, alias Mrs. Tyrie, was taken into custody; and after a few days search, Tyrie himself was also apprehended. By these papers it appeared that Tyrie had been at very great pains in collecting lists of all the English ships war in and out of commission; their different situations and appointments; their present and intended stations; number of Ships building, and under repair, in all the different dock-yards, and merchants yards in the kingdom, all drawn out in the hand writing of the prisoner, which was proved by two witnesses.
-
-A Captain James was then sworn, who deposed, that in February last he met Tyrie, the prisoner, on the beach at Gosport, who, after some conversation, hired him to go to a port in France, at a premium of 15 guineas, to bring home a cargo of wines. That he met Tyrie and his wife by appointment at the Crown Inn at Gosport the same evening, where he finally engaged to undertake the voyage, and received a packet from Tyrie, which he was to deliver at Cherbourg, or Boulogne, which ever port he could soonest make. The packet, he said, was made up and sealed in his presence by Tyrie, at the Crown, and was directed and delivered by the prisoner into his own hand. That when he awoke the next morning, and considered the agreement he had made, he thought it had a very suspicious appearance, and went to an acquaintance of his, a Capt. Harrison, at Portsmouth, and related the circumstance, producing the packet, and expressing his dislike to undertake the voyage.
-
-Capt. Harrison was then examined. He confirmed the testimony of Mr. James, and deposed, that when he received the packet out of his hand, and observed the direction to the Commandant at Cherbourg, he concluded there was treachery somewhere, and therefore broke open the letter; when being confirmed in his opinion, he set off immediately for London, and delivered the packet to Mr. Frazer, then Secretary at Lord Stormont's Office, where it remained till the prisoner was ordered for trial.
-
-Mr. Frazer was then sworn. He proved the receipt of the packet from the hand of Capt. Harrison, and deposed that the packet thus produced in Court was identically the same delivered by Harrison; and James proved it be the same as he had received from Tyrie, and had delivered to Harrison. The contents of the packet were next examined, and found to contain five letters, one which, to the Commandant at Cherbourg, set forth and specified by name a squadron of English ships, just then sent over to hover on the French coast, to intercept a fleet of victuallers and merchantmen expected to sail from Cherbourg, and to rendezvous off La Hogue. Another letter the Minister of Marine at Paris, contained the most comprehensive account of the sailing the East and West India fleets from Spithead, in February last, with the names of all the men of war appointed to convoy them. With a variety of other particulars relative to the sailing and stations of a variety of ships, then under orders on different services.—Thus, after a most fair and candid trial, which lasted near eight hours, the Jury, without hesitation, on the clearest evidence, brought in their verdict, GUILTY.
-
-On the verdict being notified to the prisoner, he was asked if he had any reason to shew why the sentence of the law should not be inflicted, as in all cases of the kind? He replied, That it was totally unnecessary for him to say any thing, since it had been put out of his power to provide those witnesses who would have proved his innocence—but he had a hope beyond the grave, and he despised all that this world could to him!
-
-The Judge then, after a most pathetic and moving charge, passed the following sentence upon the prisoner,— "That you be taken to the place from whence you came, and from thence drawn upon hurdle to the place of execution; you are there to be hung by the neck, but not till you are dead; your privy-member shall be cut off, and your bowels taken out while yet alive, and burnt before your face; your head shall severed from your body, and your body divided into four quarters, and disposed as his Majesty shall think fit; and the Lord have mercy on your soul."
-
-The Judge was pleased to order that he should be executed on Saturday the 24th of August instant, PORTSMOUTH.
-
-We hear, that the prisoner had found means to conceal a razor, with which, after his condemnation, he attempted to destroy himself, but was fortunately prevented.
-
-The above important TRIAL will be published at LARGE, in the course of a few days, by J. WILKES, at the Printing Office in Winchester, and may be had of the Booksellers in Portsmouth and Gosport, and of the other Agents for this paper.
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000254/17820815/009/0004
-Stamford Mercury - Thursday 15 August 1782
-
-COUNTRY NEWS. Salisbury, August 12.
-
-Saturday came on at the Castle at Winchester, the trial of Mr. David Tyrie, Gosport, for holding treasonable correspondence with the French. The trial, began about twelve o'clock at noon, and lasted till near eight o'clock at night, when upon the clearest evidence he was convicted of the offence, and received sentence to be executed at Portsmouth the 24th instant. A great number papers were produced in the handwriting of the prisoner and a woman he lived with, which had been deposited with a Gentleman, who delivered them up to Government; and a packet was intercepted which he had delivered to the Captain of a swift-sailing vessel to carry either to Bologn or Cherbourg, which ever port he could best make, to be delivered to the Commandant, to be forwarded with all dispatch to the Minister of the Marine at Paris. The papers contained accurate accounts of all the navy of Great Britain, both in and out of commission—a copy from the weekly returns to the Navy Office from the several Dock-yards, of the progress made in the building and repairing the Royal Navy—authentic accounts of the destination of our fleets and cruisers—a proposal to furnish the French Ministry, for the sum of 700*l.*. with our signals—a plan for obtaining intelligence from all the Boards and Offices of Government, by bribing a Clerk in each Office, with the exact sum required to accomplish such corruption—and a proposal to fix Spies at Portsmouth and Plymouth, to obtain intelligence of the operations our fleets. He appears to be a mast artful, indefatigable, and enterprising man. During the trial he wrote a great number of notes to his Counsel, of questions which he wished to put to the witnesses, and was astonishingly collected in his mind throughout the whole. After conviction, when he was asked by the Clerk of Arraigns, what he had to say why sentence of death should not pronounced upon him, he replied, "He did not suppose any thing he could say would avail him, but he had a hope beyond the grave, and despised the malice of his enemies." He is a likely man, about 30 years age.
-
-Tyrie is by birth a Scotchman, went to London as a servant, and lived with Mr. Vowell the Stationer, as a Clerk, above five years, gaining the esteem and confidence of his Master: He afterwards entered into business in the mercantile life, and had his integrity been equal to his abilities, must have done very well. A few years since he offered himself a Candidate for Hindon, in this County, and afterwards, failing in his views of a Merchant, procured himself a place in the Navy-Office at Portsmouth, which led him to his last fatal employment.
 
 ## "Genuine Memoires", Apparently...
 
@@ -559,7 +599,7 @@ As his wife was of an engaging temper and affable disposition, the school contin
 
 Mr. and Mrs. Graham lived in their native country in the most reputable manner till they had nine children; eight of whom, with one born since they came to London, are still alive. Children, who from their comely appearance and sweet temper, might be an ornament to any family in the world. But who can foresee future events? How many temptations are we daily surrounded by? Even the pleasant paths of virtue cannot at all times screen us from danger, unless we are continually upon our guard.
 
-sometime in the year 1779, Mr, Graham unfortunately became acquainted with a miscreant fellow, an adventurer and sharper; who, under the pretence of being a man of fortune, cheated many industrious honest persons of their all. This fellow, whose name is H—r, failed for a considerable sum, and would have been punished for a cheat, had he not made his escape to London; and to finish our account of him, he was provided for in the Fast-India house by the interest of a certain Baronet.
+sometime in the year 1779, Mr. Graham unfortunately became acquainted with a miscreant fellow, an adventurer and sharper; who, under the pretence of being a man of fortune, cheated many industrious honest persons of their all. This fellow, whose name is H—r, failed for a considerable sum, and would have been punished for a cheat, had he not made his escape to London; and to finish our account of him, he was provided for in the Fast-India house by the interest of a certain Baronet.
 
 No sooner was this fellow settled in London, than he began a correspondence with the unfortunate Graham, with whom he had some connections before; for it is certain Graham had assisted him in making his escape.
 
@@ -602,9 +642,9 @@ During the last assizes at Winchester, they put up at an inn in that city, and M
 
 They remained all night at the inn, and next morning Graham went to the castle to visit Tyrie, who was lately executed for high treason at Portsmouth. This was a fatal refohiten; but their career was now drawing to a close.
 
-By this time some of the notes had hon Nopped at the Bank, and a general hue and cry had been raised to apprehend the persons who had published them. It does not appear that the suspicion had as yet fallen upon Graham; for although his person was well known, yet he had not passed any of them himself, having always made use of his wife for that purpose; and as she had never visited him while he was in confinement, so persons had not any suspicions of her. Indeed she appearce in such an elegant stile of dress, that it was no difficult matter for her to carry on the deception; for what country shopkeeper would suspect a lady who travelled ia her post chaise, and spent her money as if she was a woman of fashion. Nor did she ever change her name; she always f1zned?? it at large on the notes before she passed hem??, an act in itself so artful, that although for some time it might pass unnoticed, yet it served to fix the guilt upon her in the end,
+By this time some of the notes had hon Nopped at the Bank, and a general hue and cry had been raised to apprehend the persons who had published them. It does not appear that the suspicion had as yet fallen upon Graham; for although his person was well known, yet he had not passed any of them himself, having always made use of his wife for that purpose; and as she had never visited him while he was in confinement, so persons had not any suspicions of her. Indeed she appeared in such an elegant stile of dress, that it was no difficult matter for her to carry on the deception; for what country shopkeeper would suspect a lady who travelled ia her post chaise, and spent her money as if she was a woman of fashion. Nor did she ever change her name; she always f1zned?? it at large on the notes before she passed hem??, an act in itself so artful, that although for some time it might pass unnoticed, yet it served to fix the guilt upon her in the end,
 
-'F is well own that during the assizes in the country most of the turnkeys belonging to the London prisons are there; and as Graham was well known, a Mr. Wright, belonging to Tothill-Fields bridewell, knew him as he returned. from visiting Tyrie in the castle. He followed him home to the inn, where he charged both him and his wife with the forgery, and they were committed to prison. People were sent down to examine them, and they were brought to London by writ of habeas corpus. Graham was lodged in Newgate, among the common felons, but his wife was kept in New Prison at the expence of the Bank, who allowed her two guineas per week till the trial,
+It is well own that during the assizes in the country most of the turnkeys belonging to the London prisons are there; and as Graham was well known, a Mr. Wright, belonging to Tothill-Fields bridewell, knew him as he returned. from visiting Tyrie in the castle. He followed him home to the inn, where he charged both him and his wife with the forgery, and they were committed to prison. People were sent down to examine them, and they were brought to London by writ of habeas corpus. Graham was lodged in Newgate, among the common felons, but his wife was kept in New Prison at the expence of the Bank, who allowed her two guineas per week till the trial,
 
 During the first weeks of their confinement, they flattered themselves that they would be acquitted, because Graham had never been seen in the forgery; and his wife sheltered herself under the supposition that she would be acquitted because she had ated by her husband's directions. Nay so confident was she of this, that she sent to scotland for the certificate of her marriage. However, it turned out the reverse, for the jury found them both guilty, and they received sentence of death, only that Mrs. Graham was recommended to Mercy. During which rather injured them, as there was no possibility of acquiting them of the guilt.
 
@@ -616,7 +656,7 @@ ExnDp of the ME mos
 
 Genuine Account of the Proceedings upon the Trial.
 
-THE Inditment set forth that JOHN GRAHAM and JANE his Wife stood charged with having on the 8th day of June last, at the Parish of st. Margaret's, Westminster, having in their possession a certain Bank Note, No. K. 87. signed John Benet, entered W. Rawlins, for the. sum of 15*l.* did feloniously alter the same, by obliterating and defacing the letters e, e, n, and falsely forging and counterfeiting the letter y in two places in the said Bank Note, whereby the 1aid Bank Note did become, Import, and fignify 501. with intent to defraud the Governor and Company of the Bank of England. : second Count charging it with intent to defraud Vary
+THE Indictment set forth that JOHN GRAHAM and JANE his Wife stood charged with having on the 8th day of June last, at the Parish of st. Margaret's, Westminster, having in their possession a certain Bank Note, No. K. 87. signed John Benet, entered W. Rawlins, for the. sum of 15*l.* did feloniously alter the same, by obliterating and defacing the letters e, e, n, and falsely forging and counterfeiting the letter y in two places in the said Bank Note, whereby the 1aid Bank Note did become, Import, and signify 50l. with intent to defraud the Governor and Company of the Bank of England. : second Count charging it with intent to defraud Vary
 
 Boucher and: Christopher Alderson. Third Count for feloniously uttering and publishing the said note, knowing it to be ge and altered with intent to defraud.
 
@@ -628,7 +668,7 @@ hat bank. note so forged and altered, knowing of its being forged and counterfei
 
 manner in which that has been effected has been this ?? it has been contrived by some method or another, to discharge the double ee, and n, from the word fifteen, both in the body of the note and the black letters of the note, and to substitute in their place the letter y, by Which these two words appear fo be fifty, the fraud on the public is just that sum between fifteen and fifty; I shall late to you very shortly what will be the evidence that will be laid before you, in order to satisfy you that the prisoners have been guilty of that offence, The prisoner has stated, that from the number of counsel who appear against him, he has some reason to be alarmed; I would ease him of that fear, because every body knows, that the only use that is at this time of day made of counsel in criminal prosecutions, is merely to state, with a little more accuracy, the facts, in order to shew immediately their connection to each other, and to disentangle them from that degree of obscurity which they would receive coming irregularly from the mouths of witnesses; on that they are to draw their own conclusions, and to form their own judgment, therefore, I trust, the prisoner will be eased of any alarm of that sort; I shall discharge my duty simply in stating that evidence, and you will draw the conclusions.
 
-The prisoner, John Graham, was in April last discharged from confinement; his cir??? called Jane Graham, his wife; they have, I believe, a large family of children; immediately upon his discharge, he had formed this scheme, which I am sorry to say, had been in his contemplation some time before, In his judgment, this mode of fraud upon the public was the most easily effected: it being necessary in order to carry it into execution, that he should be furnished with letters of different sorts, in order to complete his Wore; : for that purpose he applied himself to a Mr. Rayner, who was foreman to a Mr, Caslon, who is famous in this town as an engraver; Caflon recommended him to Mr. Hodgson, who is an engraver on wood, and stated to be a person very likely to furnish him with such letters as he should want. On the 8th of May the prisoner, John Graham, applied to Hodgson to have the letter cut for him, to produce the effect of white on a black ground, so as to resemble the letters on the bottom of a bank-note; Hodgson said it is not likely to produce the effect, for you must have a little printers ink, and that will daub the books. The prisoner said they were for a whimsical gentleman, and accordingly they were cut for him; he called and paid Hodgson for them, and took them away; some time after he called again, and said these letters did not quite answer his purpose, and said he wanted some numbers,
+The prisoner, John Graham, was in April last discharged from confinement; his cir??? called Jane Graham, his wife; they have, I believe, a large family of children; immediately upon his discharge, he had formed this scheme, which I am sorry to say, had been in his contemplation some time before, In his judgment, this mode of fraud upon the public was the most easily effected: it being necessary in order to carry it into execution, that he should be furnished with letters of different sorts, in order to complete his Wore; : for that purpose he applied himself to a Mr. Rayner, who was foreman to a Mr. Caslon, who is famous in this town as an engraver; Caflon recommended him to Mr. Hodgson, who is an engraver on wood, and stated to be a person very likely to furnish him with such letters as he should want. On the 8th of May the prisoner, John Graham, applied to Hodgson to have the letter cut for him, to produce the effect of white on a black ground, so as to resemble the letters on the bottom of a bank-note; Hodgson said it is not likely to produce the effect, for you must have a little printers ink, and that will daub the books. The prisoner said they were for a whimsical gentleman, and accordingly they were cut for him; he called and paid Hodgson for them, and took them away; some time after he called again, and said these letters did not quite answer his purpose, and said he wanted some numbers,
 
 as 2,3, 5, 20, JO, and 10 on : respecting the letter y, I shall produce to: you the papers marked by the prisoner, and the alterations he wished to be made respecting the letter y; a number of letters were cut and figures made by Mr. Hudgson, which were called for and took away by the prisoner Jane, the wife, When you inspect the letter y upon the note produced to you, and compare it with the letter?? y produced to you, and the copy of that Hodgson has engraved, supported by Hodgson's evidence, it will appear to you beyond doubt, that the alteration and forgery in this bank-note, was made by means of this letter engrazed by Hodgson, under the direction and order of the prisoner; and also that the prisoner John tk away and had possession of this letter; shortly after this we find these notes so altered and put 1n circulation; here there appears to be considerable art in John. In no one instance is he to be connected with the putting off these notes; the whole of that is left to the conduct and management of the woman; and there is no instance in which he can be connected. with the putting off any of these notes. On the 8th of June, the note was put off by the prisoner Jane; the went to the shop of 2 Mr. Alderson, silk-Mercer, in Bridge street, Westminster, where after having bargained for some things, she put off to him one of the forged notes, altered from 15*l.* to col. that note will be traced very accurately, so as to leave no doubt, and
 
@@ -657,3 +697,5 @@ I delivered the stamps to the gentleman, who if he had been called here would ha
 likewise could have been accounted for by respectable witnesses, householders, two of whom met Mrs. Graham, and the other came up in the course of finding them. Being deprived of our witnesses we are ??sold, The gentlemen.
 
 w are ts judge of the matter are men vt- honour and virtue, our confidence therefore is in Almighty God and be them. Gentlemen, this is for the 1ait take of our lives; we are the parents of ten children, nine of whom are now alive, we therefore hope the jury will do us justice, The jury after being out 10 Minutes brought them in MEs Both Guilty, DEATH. Es The Attorney for the Prisoner informed the Court, AFTER THE Verdict, that when the Witnesses came to him, and he had heard their tory, he was well satisfied in his mind, that whatever they could prove with respect to finding the notes was an absolute fallity; and that they were such witnesses as he would never introduce to any court and the prisoners counsel said he advised him not of any witnesses.
+
+
