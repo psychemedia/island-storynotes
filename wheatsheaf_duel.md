@@ -30,9 +30,9 @@ Here's my first attempt at retelling this tale as a historical tale.
 
 ```{admonition} The Wheatsheaf Duel
 
-If you happen to scan your eyes over the wall opposite the bar in the Wheatsheaf Hotel in Newport, on the Isle of Wight, you might notice a framed print that relates the tale of an argument that started in that very place in July 1813. The argument was between two soldiers — Lieutenant John Blundell, the Landlord's son-in-law, and the lower ranked ensign Edward McGuire.  He'd apparently accused Blundell of being a coward, a charge against a man;s honour that could not be ignored, and which led to a duel at Carisbrooke Castle. Blundell's pistol exploded and he was fatally wounded with a shot to shoulder. He was brought back to the Wheatsheaf where his wife Anne tended to him, but to no avail, and he died a couple of days later.
+If you happen to scan your eyes over the wall opposite the bar in the Wheatsheaf Hotel in Newport, on the Isle of Wight, you might notice a framed print that relates the tale of an argument that started in that very place in July 1813. As the notice tells it, the argument was between two soldiers — Lieutenant John Blundell, the Landlord's son-in-law, and a lower ranked ensign Edward McGuire.  McGuire had apparently accused Blundell of being a coward, a charge against a man;s honour that could not be ignored, and which led to a duel at Carisbrooke Castle. Blundell's pistol exploded even as he was fatally wounded by McGuire's shot to shoulder. He was brought back to the Wheatsheaf where his wife Anne tended to him, but to no avail, and he died a couple of days later.
 
-Such is the tale that hangs on the on the wall. But whenever I see such things, I always like to check. Now if you're into duels, there's a two volume work from the 1840s called "The History of Duelling" — you can find in the Internet Archive, *archive.org*, which has thousands of scans of books going back to whenever — which records duels throughout the ages, or at least, up to 1841; but the reference there is even briefer than the description on the wall here. It does give a time for the duel — 2.30 in the afternoon — although the newspaper reports at the time suggest the duel took place early in the morning.
+Such is the tale that hangs on the on the wall. But whenever I see such things, I always like to check. Now, if you're into duels, there's a two volume work from the 1840s called "The History of Duelling" — you can find in the Internet Archive, *archive.org*, which has thousands of scans of books going back to whenever — which records duels throughout the ages, or at least, up until 1841, the year it was published; but the reference there is even briefer than the description on the wall here. It does give a time for the duel — 2.30 in the afternoon — although the newspaper reports at the time suggest the duel took place early in the morning.
 
 So what actually happened? A subscription to the *British Newspaper Archive* is one of the best presents I've ever bought myself, so here's the tale based on what I can remember, or perhaps, misremember, from what I found in the papers of the time, the sort of thing that might have been talked about in the pub, then passed, as the "folk truth" of what happened. Because remember, stories are what's left when the facts are forgotten.
 
@@ -135,7 +135,17 @@ N.B. The Mail is conveyed every morning from the West India and Quebec Tavern, P
 Post Chaise and Horses on the shortest notice.
 ```
 
-*The Quebec Hotel in Portsmouth features in the tale of another Solent duel, in 1845, but that is another story for another day...*
+The conveyance from the mainland to Ryde, and then on to Newport, appears to have been well established, as this advertisement from 1805 suggests.
+
+```{admonition} Capital conveyance, September, 1805
+:class: dropdown
+In *Hampshire Telegraph*, [Monday 14 October 1805](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0000069%2F18051014&page=1&article=001&stringtohighlight=bugle+inn+ryde).
+
+CAPITAL CONVEYANCE between Portsmouth and Ryde, by a regular PACKET, carrying the MAIL, which will sail every morning at nine o'clock, from the West India and Quebec Tavern, Bath-square, Portsmouth, for RYDE; and return every afternoon at half pall three, from the Bugle Inn, Lower Ryde, for PORTSMOUTH, in time to save any of the London Coaches. There will also be a COACH, at Ryde, on the arrival of the Mail, to take Passengers to Newport. The Matter to be spoken with at the West India and Quebec as Tavern, Portsmouth; and at the Bugle Inn, and Hotel, Ryde. A commodious decked Vessel for the purpose.
+
+```
+
+*The Quebec Hotel in Portsmouth features in the tale of another Solent duel, in 1845, but that is another story for another day. The Bugle Inn in Ryde was on Pier street, opposite where the pier is today.*
 
 ## A Duel Near Carisbrooke
 
