@@ -1,135 +1,125 @@
-# The Spithead Mutiny
+# The Spithead Mutiny — A Telling (*Work in Progress*)
 
-Storynotes on the Spithead Mutiny of 1797, when men aboard several ships the line mutinied, with some success, against poor pay and conditions.
+It's 1797. Between Ryde and Portsmouth, in the anchorage known as Spithead, the new Admiral of the Channel Fleet, Lord Bridport, reviews sixteen ships of the line, and the rest, as they assemble there, making ready to go out on patrol against the French.
 
-## A Telling (*Work in Progress*)
+These weren't the happiest of times for the sailors. Many of them would've been taken by the press gangs, others given the unsavoury "choice" of the Navy or the debtor's prison.
 
-It's 1797. Look out from Ryde towards Spithead, and you would see Lord Bridport's Channel fleet — the Grand Fleet of 16 ships of the line, and sundry other smaller vessels — assembling there. They were making ready to head out on patrol against the French fleet preparing, which itself was preparing to set sail out of Brest, just below the entrance to the English Channel. This was, of course, a time of war with the French... again...
+The rations would rarely pass muster, the provisions short-served: 12 ounces to the pound, not sixteen; the same short measures of rum. The purser had the rest, his pay being determined by how much he could save. Salt beef would be months, if not years, old, so hard you could polish it, so foul tasting you'd tie it to a line and through it in the sea to try to wash the worst of it out; and the ship's biscuits? Hard as stone, though the weevils didn't care.
 
-These were not the happiest of times for the sailors in His Majesty's Royal Navy. Many would have been pressed into service against their will, others taken or relieved from bankruptcy in exchange for serving as one of His Majesty's men.
+The laws that regulated life on board ship — the *Articles of War*, as they were known — were read out regularly, reminding the men of what was expected of them, of the punishments for various offences. *Compulsory training*, you might call it. Mutiny was a big no-no, but the men *were* allowed to raise concerns with their Captain, or the Commander-in-Chief. Not that it did much good.
 
-The rations would rarely pass muster, and their provisions were short-served: 12 ounces to the pound, not sixteen; short measures, in kind, on rum. The excess was held back by the purser whose own reward was determined by how much he could apparently save. Salt beef that would be months, if not years, old, so hard you could polish it, so foul tasting you'd suspend it in on a line a pull it through the sea to try to wash the worst of it out; and ship's biscuit as hard as stone, although that rarely put off the weevils.
+As for the pay? Well, that hadn't changed since the time of Charles II, a hundred or more so years ago. Inflation hadn't really existed then, but what with the war, and the new economy, the new fangled machines and newly built factories, prices had just kept on going up, and not going back down, like they'd always used to.
 
-Since 1757, the Articles of War, the laws that regulated life on board ship, would have been read out regularly to the men. As well as describing what was expected in time of battle, the articles also defined a variety of physical punishments for various offences, including capital punishments. Mutiny, as you might expect, was severely punished. But the articles also allowed a means for the men to express discontent, allowing them to raise concerns with their Captain, or the Commander-in-Chief.
+Amidst the fleet of ships of war, small boats started to ferry about round-robin letters of discontent, letters calling for increased pay, better provisions — and a fairer share of them — *and* a better share of any prize money. Because at that time, navy ships could operate in pirate mode, and take what prizes they could from boarded ships. The officers had always got the biggest share of course. But now the men wanted a fairer share of it. The letters were all the same, and all unsigned, but dated by the same hand. They were then gathered together and sent to the fleet's much loved previous admiral (*Lord Howe*) who'd been invalided out a short time previously with a rather painful bout of gout. Because rations for officers were better than they were for the men.
 
-As for the pay? Well, that hadn't changed since the time of Charles II, a hundred or more years before. The previous century had been a time of low inflation, but now prices were rising. The current war, and perhaps the early onset of the industrial revolution, meant that inflation was now a thing: prices were increasing and the men could no longer provide for their families as they had even a few short years before.
+When he saw the letters, he immediately discounted them, thinking they were the work of a single man, a trouble maker. But then, a little pang of concern, maybe? and he had one of his old men make enquiries.
 
-And amidst Bridport's fleet, moored at Spithead in that month of February, 1797, small boats started to ferry round-robin letters of discontent between the ships of war.
-
-For sure, several copies of the same letter were sent from several of the ships, unsigned, but dated by the same hand, to Bridport's predecessor, the well-loved Lord Howe. Rations for the officers were not so bad as those for men perhaps, and Howe had been invalided out a couple of years ago and was currently resting up, in Bath, with a painful bout of gout.
-
-Thinking the letters had come from the same mischievous and trouble making source, Howe largely discounted them, but his concern was piqued enough to have one of his old officers make enquiries about the state of mind of the fleet at Portsmouth.
-
-"All's well", came back the reply.
+"All's well", was the reply.
 
 But all was not well.
 
-The round-robin letters had called for increased pay, better provisions — and a fairer share of them — and an improved share of prize money. For at that time, his Majesty's ships often acted in pirate mode, taking what prizes they could from boarded ships, then sharing spoils out between officers and crew, albeit with the lion's share to the officers.
+When the fleet sailed to keep tabs on the French, the men fully expected that their old Admiral would have sorted things out by the time they returned.
 
-When the men sailed that first week of March for Brest, to keep a watching eye over the French fleet assembling there, they were hopeful that on their return Howe would have acted favourably on behalf their plea.
+How naive they were....
 
-But when they returned at the end of that same month: nothing.
+Their mood got worse.
 
-And so, the mood got worse.
+Dissatisfaction grew, particularly on board the old admiral's flagship, the Charlotte, a ship that had a reputation for its rather lax and turbulent discipline.
 
-Dissatisfaction grew, particularly on board Howe's old flagship, the Queen Charlotte, a ship whose discipline now had the reputation of being rather lax and turbulent.
+The small boats started criss-crossing again, out from the Charlotte, and back again. Out, and back. A plan was made.
 
-Small boats started criss-crossing out from the Queen Charlotte to the other ships, and soon a plan was made.
+With Easter fast approaching, the men spent Maundy Thursday and Good Friday putting a new round petitions together, petitions that would *this time* go straight to the Admiralty. Then, on Easter Monday, they'd take action, hoist a flag, and refuse to sail the next time they were told to weigh anchor. They'd show they meant business.
 
-That weekend would be Easter. On Holy Thursday — Maundy Thursday — and again on Good Friday, petitions started to be put together, petitions that would be sent this time to the Admiralty itself. On Easter Monday, the crews would then take action, hoist a flag, and refuse to sail when next told to weigh anchor.
+Sensing that all wasn't well, the new admiral tried to get ahead of the game amd ordered one of his squadrons round to St. Helens on Easter Sunday, in preparation of then sailing out into the Channel.
 
-Realising that all was not well, an order was made on Easter Sunday for one of the squadrons to sail round to St. Helens, for final preparations before sailing on into the Channel.
+But even though the petitions weren't ready yet, the men responded immediately. And the mutiny began.
 
-But even though the petitions weren't yet ready, this attempt to disrupt any action by the men prompted them to take action immediately. And the mutiny began.
+But not a *violent* mutiny. Not a *riotous* mutiny.
 
-But not a violent or riotous mutiny.
+The officers were still to be respected, discipline would be maintained, it's just that the ships wouldn't sail when ordered to (at least, not unless the French came calling: the men were still loyal to Britain, and to the King).
 
-The officers were still to be respected, and discipline was to be maintained. But the ships would not sail when commanded to (at least, not unless the French came calling: the men were still loyal to Britain, and the King). Ropes were hung over the yard arms as a sign that breaches of discipline would be punished harshly — when there was hanging, it was typically from the yard arm — although doubtless some of the officers feared that the rope was intended for them. As it was, the ropes would become a public sign that a ship was in mutiny. And if a red flag flew? Well, that was a sign to send a boat to the Queen Charlotte, and to bring a couple of elected delegates from each ship to sit in committee.
+Ropes were thrown over the yard arms as a sign that the men were in charge. Hangings were typically from the yard arm, so I'm pretty sure that some of the officers might have thought the ropes were intended for them. As it was, they doubled up to show that breaches of discipline would not be tolerated by the rest of the men.
 
-Bridport tried to be reasonable, and he told his Captains to get a list of grievances from each ship. The demands were all much the same and much as you might expect: better pay, a fairer share of provisions, a fairer share of any prize money, pensions for wounded seamen, improved shore leave, and better treatment from the officers.
+There were no mobile phones in those days of course, so if a meeting had to be called, a red flag was flown on the Charlotte, a sign that the delegates from the other ships should make their way over, *pronto*.
 
-The next day, on Easter Monday, the men took an oath to the cause: if the men were unanimous, and united, it would be impossible to punish them all for transgressing the Articles of War. They had tried petitioning their old commander, which had got them nowhere; but now they would try the Admiralty: they had tried raising concerns, as the Articles of War said they could, but they had not been heard. So they would try again, but this time in combination.
+The new admiral tried to be reasonable, and told his Captains to get a list of grievances, which were all pretty much the same: better pay, a fairer share of provisions, fairer prize money and pensions, improved shore leave, and better treatment from the officers.
 
-The patients at Haslar, the naval hospital that looks out towards Spithead from the mouth of Portsmouth harbour, could hear cheers from on board the ships of the fleet. When news of the mutiny reached them, they raised their voices in three cheers too, hanging banners made of handkerchiefs tied together and waving flags from their windows in a sign of support.
+The next day, Easter Monday, the men took an oath to the cause: if they were unanimous, united, it would be impossible to punish them all. They'd tried petitioning their old admiral, which had got them nowhere; now they'd try the Admiralty, direct, in combination.
 
-By 5pm that day, still Easter Monday, a delegation that included Lord Spencer, the first Lord of the Admiralty himself, had set out from London. It arrived at the Fountain Inn, on the High Street in Portsmouth — the inn is no longer there — by noon the following day. Immediately, a board meeting was held to rule on the men's demands.
+The patients at Haslar, the naval hospital that looks out towards Spithead from near the mouth of Portsmouth harbour, could hear cheers from on board the ships of the fleet. When news of the mutiny reached them, they raised their voices in three cheers too, hanging banners made of handkerchiefs tied together and waving flags from their windows in support.
 
-Slightly improved wages, and better pensions, were both agreed to.
+That afternoon, a delegation set out from the Admiralty in London, and got to the Fountain Inn in Portsmouth — it's no longer there — by noon the following day.
 
-But the men wanted more... Fairer provisions, better treatment and so on. And a pardon: every man should receive a pardon from taking part in the mutiny.
+At their meeting, they agreed to slightly improved wages and better pensions.
 
-At this point, the Board grew suspicious: was this a tactic the seamen would continue to play out? Get a concession, ask for more. Get another concession, ask for more again? So they told Bridport to tell the men: take it or leave it, and you can have your pardon. Or suffer the full consequences of being a mutineer as stipulated in the Articles of War.
+But the men wanted more... Fairer provisions, better treatment and so on. And a pardon: every man should receive a pardon for the mutiny.
 
-At the same time, the Admiralty men believed in a strategy of divide and conquer. If the less mutinous ships could be sailed round to St. Helens, splitting them from the rest of the fleet, the mutiny could be more easily brought to an end.
+Now, at this point, the Board grew suspicious: for every concession, would the men ask for more? So they told the new admiral to tell the men: take it or leave it, and you can have your pardon. Or suffer the full consequences of your actions.
 
-Bridport, and his Rear Admirals, advised against it. They knew their men, and they told the Admiralty folk that the only real solution was to make the additional concessions.
+At the same time, the Admiralty believed in divide and conquer. If the less mutinous ships could be sailed round to St. Helens, the mutiny could be more easily brought to an end.
 
-But whilst most of the fleet seemed happy with the original suggestion, it would still require a unanimous decision from the committee summoned to the Queen Charlotte to accept the offer. The delegates sailed from each ship to the Charlotte. But then they had to wait for the delegates from the Queen Charlotte itself, and the Royal George, Lord Bridport's flagship, who had been ashore.
+The admiral advised against it, told the Admiralty folk the only real solution was to make the additional concessions, and even then it would require a unanimous decision from the committee that met on the Charlotte. The red flag went up, and the little boats brought the delegates from the other ships to the Charlotte. But then, they had to wait for the delegates from the Charlotte and the Admiral's flagship, the Royal George, who were still ashore.
 
-On board *his* ship, Rear Admiral Gardner, was tired of waiting, and took a boat over to the Charlotte.
+On board *his* ship, one of Rear Admirals, Gardner was his name, was tired of waiting; he took a boat over to the Charlotte.
 
-The decision was made: to accept the terms, BUT the pardon should be a King's Pardon, with a Royal Seal. At this point, Gardner exploded, grabbing one of the delegates, and telling him that he'd have them all hanged, each and every one of them, along with one of five of every seaman in the fleet.
+Meanwhile, the men had made decision to accept the terms, as long as the pardon was a King's Pardon, with a the trapping the Royal Seal and what have you. Gardner was livid, and grabbed one of the delegates; "I'll have you all hanged, each and every one of you, and one in five of every seamen in the fleet."
 
-As you can imagine, this did not go down well. But, and I don't know quite how, Gardner's men managed to get him off the ship alive...
+Now as you can imagine, this didn't go down well. But somehow, and I don't know quite how, Gardner's men managed to get him off the ship alive...
 
-Until this point, Bridport's flag had still been flying on the Royal George. But fearing some sort of reprisal, the men started to prepare the guns and set a watch, and Bridport's officers took the flag down, so it would not be further sullied.
+Gardner had really messed things up. The men were now suspicious about the Admiralty offer and started to prepare the guns and set a watch. The Admiral's flag had still been flying on his flagship up to this point — the men were still loyal, just making a point — but rather than see the Admiral's flag sullied, his officers took the flag down. But the men were still the Admiral's men, and didn't want to lose his support, so they wrote to him as the "father of the fleet", asking him not to abandon them, and to reassume his command.
 
-Provoked in part by Gardner's outburst, the men's suspicions about the good faith of the Admiralty increased further. So they did what you do under such circumstances, and doubled down, adding a further demand: that Parliament should sign off on the concessions too. But at the same time, they were still Bridport's men, and being concerned about losing his support, the men of the Royal George wrote to him as the "father of the fleet", asking him not to abandon them, and to reassume his command.
+Meanwhile, a further demand had been made: the men didn't want just the Royal Pardon, even with all it's fancy stamps and seals, they also wanted Parliament to sign off the concessions the Admiralty had supposedly agree to.
 
-The Admiralty Lords went back to London, and a letter was sent to the privy Council. From there, Pitt, the Prime Minister, went to see the King, at Windsor.
+The Admiralty men went back to London, and the Prime Minister went to see the King.
 
-A Royal proclamation was signed, and sealed, and one hundred copies printed off. Then it was sent, post haste, to Portsmouth.
+A Royal proclamation was signed, and sealed, and a hundred copies printed off. Then it was sent, post haste, to Portsmouth.
 
-On board the Charlotte, the men were still suspicious. It looked like a Royal Pardon, but was it? They demanded to see the original, which then had to be brought over from the Royal George.
+On board the Charlotte, the men were still suspicious. Their copy looked like a Royal Pardon, but was it? They demanded to see the original, which then had to be brought over from the Royal George.
 
-And so it was that a week or so after the ropes had first been hung over the yard arms, they were taken down, and the Spithead mutiny was over.
+Satisfied by the original, the ropes over the yard arms were taken down, and the week long Spithead mutiny was over.
 
 Or at least, the *first* Spithead mutiny was over.
 
-Several ships were sent round to St. Helens, and the fleet as a whole prepared to set sail. But the wind conditions weren't quite right — the wind was too strong from the East — and the fleet waited still.
+Several ships were sent round to St. Helens, and the whole fleet prepared to set sail. But the wind conditions weren't quite right — the wind was too strong from the East — so it waited.
 
-The provisions on offer had started to improve — that much, at least, could be accommodated for on-board each ship. But as the fleet remained at anchor, the Admiralty felt the need to put an official stamp on the return to discipline. And so they issued new orders: the regular reading of the Articles of War would be enforced, there would be regular musters of the ships' crew, and there would be increased supervision over shore leave.
+The provisions had started to improve — that much, at least, was that something that could be done. But the Admiralty felt they had to prove they were back in charge, so they issued new orders: the regular reading of the rules on-board, the Articles of War, would be enforced; *and* there would be regular musters of the ships' crew; *and* there would be increased supervision over shore leave.
 
 The mutterings started again.
 
-A couple of days later, word started to get out about a debate in the House of Lords. It was now ten days after the end of the mutiny, which is to say, ten days after the end of the *first* mutiny. In the Lords debate, the Duke of Bedford had asked Lord Spencer, first Lord of the Admiralty, whether that House could expect to see any papers relating to the affairs at Portsmouth? If not, he would have to formally request them. Spencer had said, that as far as he was aware, there were no papers.
+And not just about the Admiralty; about Parliament too. Remember, the men had added Parliamentary approval of the Admiralty's concessions to their demands, but in the weekend newspapers were reports that no decisions had been made in the House of Commons, and no Parliamentary papers were being sent to the Lords.
 
-Now you might remember that Parliamentary approval of the concessions was the final demand of the mutineers? And now it seemed as if this would not be forthcoming...
+The ropes were thrown back over the yard arms, the red flags were flying again, and from each of the ships a little boat was crossing over to the Charlotte. Just a couple of weeks after the end of the *first* mutiny, the *second* Spithead mutiny had begun.
 
-Although not reported in the papers, behind the scenes, estimates were being prepared — which is to say, costings — and these would have been tabled in the House of Commons that Friday if it had been sitting. But it didn't sit that day. So when the newspapers arrived on board the ships on the Saturday, reporting Bedford's question and Spencer's reply, and no mention of any decisions been made in the Commons, well, you can imagine the men weren't happy.
+On board the London, another Rear Admiral, Colpoys this time, had seen the boats starting to dart between the Charlotte and the other ships. He rightly suspected something was going on. He consulted with his officers, gave orders to the marines: "stop any of those delegates coming on board this ship," then told his men he'd stand by them, but they should go below decks.
 
-So the next day, the Sunday, now two weeks after the end of the first mutiny, which is to say, three weeks after the start of the first mutiny, the ropes were back on the yard arms, and the red flags flying, and delegates were being ferried over again to restart the committee.
+The men went below deck, as the marines stayed on board deck.
 
-The second Spithead mutiny had begun.
+The had a drink...
 
-On board the London, Rear Admiral Colpoys had seen the boats starting to dart backwards and forwards between the Queen Charlotte and several of the other ships. He rightly suspected something was going on. So in an attempt to maintain order, he told his men he *would* stand by them, *but* they should go below deck. The officers and marines would stop any delegates coming aboard, and discipline would be maintained.
+And the men started to get a little bit rowdy...
 
-The men went below deck.
+They tried to come up on deck, but the marines pushed them back, aimed their guns at the hatches. And then the order came: "fire". A short gun battle ensued, men on both sides were wounded. Three of the seamen later died. The coroner's verdict would later be *justifiable homicide.*
 
-And had a drink...
+Across the fleet, the seamen started to take control. Officers were sent ashore, and several ships sailed round to St. Helens.
 
-And started to get a bit rowdy...
+Some of the more credulous and revolutionary men started to gossip that the fleet would sail to Brest, to join with the French. But the great majority of the men were still loyal to the flag, loyal *to the King*. Even if they were suspicious of the Admiralty. And of Parliament.
 
-They tried to come up on deck, and were pushed back.
+It was now the Monday after the Friday before. The papers formally costing the Admiralty's concessions *had* been prepared for Parliament the week before, it was just that the Commons wasn't sitting on the Friday, so there'd be no papers to pass to the Lords that day. Which was what the newspapers had reported. Sort of.
 
-The marines were ordered to point their guns at the hatches, and an order to fire was given. A short gun battle ensued, and men on both sides were wounded. Three of the seamen later died. And the coroner's verdict? *Justifiable homicide.*
+But the Commons weren't sitting so a Bill could be tabled. It completed all the necessary stages the following day, including Royal Assent, and was passed into law.
 
-Monday. Across the fleet, the seamen started to take control. Officers were sent ashore, and several more ships sailed round to St. Helens.
-
-Some of the more credulous and revolutionary men started to gossip that the fleet would sail to Brest, and join with the French. But the great majority of the fleet were still loyal to the flag, loyal *to the King*. Even if they were suspicious of the Admiralty. And of Parliament.
-
-That same day, in London, a Bill was tabled. It completed all the necessary stages the following day, including Royal Assent, and was passed into law.
-
-This time, 30 copies of the Act were hastily printed and rushed to Lord Bridport, who received them on the Wednesday.
-
-As a further placatory measure, the beloved Lord Howe also set out from London. He made his way to Portsmouth, where he visited the two ships at the heart of the mutiny — Bridport's flagship, the Royal George; and his own old flagship, the Queen Charlotte — as well as several others.
+This time, 30 copies of the Act were hastily printed and given to the Admiral. The beloved old Admiral, the one who'd not picked up on the original letters of complaint while he was laid up with gout, also headed down to Portsmouth, to share the news on board his old flagship, the Charlotte, and the new admiral's flagship, the Royal George.
 
 But still the seamen added to their demands.
 
-*This* time, they required that the worst of the officers, whom they had already sent ashore, should not be allowed back. A court-martial would *not* be required, but they should just not be allowed to return back on board.
+*This* time, they wanted the worst of the officers, officers who had already been sent ashore, not to be allowed back on-board. "We don't need them to be court-martialled," they said, "they're just not welcome back on board."
 
-Perhaps surprisingly, their conditions were agreed to.
+Perhaps surprisingly, their conditions were agreed to. The Admiralty couldn't risk losing control of the Channel fleet for a third time. The red flags came down, the ropes were removed from the yard arms, and the little boats stopped their criss-crossing to and from the Princess Charlotte.
 
-A celebration was organised, including a procession through Portsmouth, although it was also something of an insult against for Bridport: not only had Howe take the glory for resolving the dispute, but the celebrations had also further delayed the sailing of the fleet.
+A celebration was organised, including a procession through Portsmouth, the old Admiral leading the way. The new Admiral, who had done so much to argue the case for his men, may well have felt aggrieved. And not least because a fair wind was now blowing, and the sailing of the fleet had to be delayed for the procession.
 
-But even as the celebrations continued, four men from the Nore fleet, anchored at the opening of the Thames Estuary, had arrived in Portsmouth. They had started their own mutiny three days before, and had come to co-ordinate with the Portsmouth mutineers. They would return to continue their mutiny without the support of the Spithead fleet, a mutiny that would not end so happily. But that, as the old saying goes, is another story, for another day.
+But even as the celebrations continued, four men from the Nore fleet, anchored at the opening of the Thames Estuary, had arrived in Portsmouth. They'd started their own mutiny three days before, and had come to co-ordinate with the Portsmouth mutineers. They would return to continue their mutiny without the support of the Spithead fleet, a mutiny that would not end so happily, although that is another story, for another day.
+
+As it was, for new the Admiral's fleet, Lord Bridport's fleet, it would set sail the following day. And if you had been at Ryde looking out into the Solent, sixteen ships of their line making their way out in to the Channel.
+
+And that is the end of the tale.
