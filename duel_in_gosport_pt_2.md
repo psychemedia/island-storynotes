@@ -381,7 +381,7 @@ Lieutenant Ayles, the adjutant of the Marine corps at Portsmouth stated that Lie
 
 By Mr. Cockburn : Mr. Hawkey has always borne the best character in his regiment as an officer and a gentleman, also as a peaceable and humane man. I have known him ever since 1837.
 
-Mrs. Stansmnore was called, and stated the prisoner and his wife lived at her house in May, 1845, and that he left her house on the afternoon of the 20th of that at month, and never returned.
+Mrs. Stansmore was called, and stated the prisoner and his wife lived at her house in May, 1845, and that he left her house on the afternoon of the 20th of that at month, and never returned.
 
 Cross examined by Mr. Cockburn: On the 19th of May Mr. Hawkey gave some directions. He told me if Mr. Seton called to see Mrs. Hawkey not to let him stop long alone with her, as he had dreadfully insulted her. Previously to this Mrs. Hawkey desired me to deny her to Mr. Seton. She had told me two or three times that she was afraid of him. Previously to this he had often called, generally at times when Mr. Hawkey was absent at drill.
 
