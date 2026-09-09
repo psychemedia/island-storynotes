@@ -52,6 +52,9 @@ parts:
   chapters:
   - file: tyrie/david_tyrie_bankruptcy_scam
   - file: tyrie/david_tyrie_southsea_quartering
+- caption: Solent Tales — John the Painter
+  - files: john_the_painter_telling
+  - files: john_the_painter
 - caption: Found not as stories...
   chapters:
   - file: noyes-highwayman
