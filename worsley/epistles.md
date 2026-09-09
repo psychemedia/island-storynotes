@@ -455,7 +455,7 @@ But your Ladyship has ee me 10
 
 deviate from this general Mode. You have sustained a Character which cannot possibly be commented upon but with the utmost
 
-severity. Vou have accustomed yourself in
+severity. You have accustomed yourself in
 
 the ene of Actions, since your first 5 . of —_— that cannot be related without e the delicate ers of Modesty. .
 
@@ -742,7 +742,7 @@ That charm, Cox rzNr, so long pursu d. ; | cc
 Among the variegated trains i  
 Of all my nightly-pleafing Swains,  
 Among the changes I have ran,  
-Dear Bessat, Besset, is the Max !“ :  
+Dear Bessat, Besset, is the Max!" :  
 Alluding to the Vbim at Maidstone Bath
 
 FINIS
@@ -819,7 +819,7 @@ Nor deem it wrong that W's Wise should reign,
 Where Vice in Impudence compose the train,  
 Here G—R, L——R, and Aux, meet,  
 Me . their head, and Virtue at their feet:  
-Here J—y R—---x and 8— repair,  
+Here J—y R———x and 8— repair,  
 
 With many others of the amorous fair,  
 
@@ -1032,7 +1032,7 @@ THE.
 D W.41yx,  
 TO THE EPIsTLE OF  
 
-—— —- Jxorem, Posthume, ducis? 7  
+—— —— Jxorem, Posthume, ducis? 7  
 
 Dic qui Tisiphone, quibus exagitare Colubris? JuvEnAL. 31.3  
 
@@ -1077,7 +1077,7 @@ The dauntless heroes that at Tyburn swing,
 
 Now strain their hackney'd throats with —Y's name,  
 
-And W——-r's crimes, and W——-y's verse proclaim.  
+And W———r's crimes, and W———y's verse proclaim.  
 
 say, what impassion'd Captain, what fond Lord,  
 

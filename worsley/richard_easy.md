@@ -21,7 +21,7 @@ Tam di par sibi. Hor.
 
 DEDICATION.
 
-To all the Cuckolds of every Rank, Dignity, Profession, Persuasion, and Description in Europe; possessing their Ancestors' eminent Virtues, noble sentiments, and distinguished Abilities; or inheriting all their Titles, Crimes, and Vices; whether Cornutos From Interest, Choice, Necessity, or Caprice; whether Men of sense, Judgement, and Learning; or  Macaronies, Coxcombs, and Puppies; in fine, whether out and athletic and capable of approving themselves good and able husbands, or emaciated apologies for virility—This Work is most humbly inscribed, by their occasional Biographer, and  
+To all the Cuckolds of every Rank, Dignity, Profession, Persuasion, and Description in Europe; possessing their Ancestors' eminent Virtues, noble sentiments, and distinguished Abilities; or inheriting all their Titles, Crimes, and Vices; whether Cornutos From Interest, Choice, Necessity, or Caprice; whether Men of sense, Judgement, and Learning; or Macaronies, Coxcombs, and Puppies; in fine, whether out and athletic and capable of approving themselves good and able husbands, or emaciated apologies for virility—This Work is most humbly inscribed, by their occasional Biographer, and  
 Devoted Humble Servant,  
 The Author.
 
@@ -91,7 +91,7 @@ Upon Do 8 return to the memins our heroine appeared very disconcerted, and she m
 
 CHAP. I.
 
-Adventures of our bero at home and abroad. His lucky escape 8885 being assassinated at Paris, A  flight
+Adventures of our hero at home and abroad. His lucky escape being assassinated at Paris, A flight
 
 E hall now leave the lady for a short time to her private meditations, and accompany our hero to the capital. Upon his arrival here he was soon introduced to B persons of the first rank, who 
 cherished his acquaintance on ac8:
@@ -125,7 +125,7 @@ more explicit the first floor, are not considered in that point of view; these
 
 with the lady, she was perfectly immaculate; but relative to her assiduities and attentions as an Hostess by 1
 
-give the mere English reader a better idea of the signification of this appellation, they resemble the rooms under the piazza, Covent Garden, which are immediately over the ground floor. We may then suppose our doughty knight, or barren- knight“ (though not of the woeful countenance) to be lodged in the second tier of apartments. Opposite to bim, level, was a Bordel deternie, or a
+give the mere English reader a better idea of the signification of this appellation, they resemble the rooms under the piazza, Covent Garden, which are immediately over the ground floor. We may then suppose our doughty knight, or barren- knight" (though not of the woeful countenance) to be lodged in the second tier of apartments. Opposite to bim, level, was a Bordel deternie, or a
 
 emen,
 
@@ -300,7 +300,7 @@ stars in throwing him so ANY in the way to be Miss * ny tecter, he urged her to 
 
 the least doubt that it was not long before he endeavoured to imptove this permission.
 
-The captain 11 her down at ber kinswoma in great security, and,
+The captain 11 her down at her kinswoma in great security, and,
 
 alter aeg, a polite leave, retired.
 
@@ -352,7 +352,7 @@ with 2
 
 ah a proper affecting tone of voice of her present malady, and the prescription of the doctor. He seemed much affected at what he learnt, and : begged leave to have pen and paper to write her a billet, expressive of the 5 mne hö of his heart upon this melancholy occasion,
 
-| After is captain r retired, Mrs. 1— communicated this billet to her cousin, who was not unpleased with the compliments and declarations it contained, at the same time lamented the very particular predicament of captain 8.— which precluded bim from 1 FP CO. any chance of his obtaining her hank or n her fortune.
+| After is captain r retired, Mrs. 1— communicated this billet to her cousin, who was not unpleased with the compliments and declarations it contained, at the same time lamented the very particular predicament of captain 8.— which precluded him from 1 FP CO. any chance of his obtaining her hank or n her fortune.
 
 Mig F days, HE which period the captain called atleast a dozen times to enquire after her health, and constantly expressed his sorrow at finding she was not 3 and incapable of seeing .
 
@@ -364,7 +364,7 @@ remained in cog, three
 
 Xx day that she should set ont for Yorkshire, which she accordingly did in the evening, in a post coach, N Mrs.
 
-1— accompanying her, as she was unable any longer to keep up the farce of her cousin's indisposition, leaving, however, proper directions with the servants how to behave in regard to the captain, with an injunction of the strictest secrecy, not to acquaint bim with the route they had taken,
+1— accompanying her, as she was unable any longer to keep up the farce of her cousin's indisposition, leaving, however, proper directions with the servants how to behave in regard to the captain, with an injunction of the strictest secrecy, not to acquaint him with the route they had taken,
 
 The very next morning the captain called again, and being made acquainted with the departure of the party, and unable to learn the road they had taken, he was almost frantic, 1 Bribery and corruption that few menial servants would have resisted were resu and the unhappy captain was obliged to retire in the most disconso- A 7 cs
 
@@ -472,7 +472,7 @@ W— ; their first and last Interview; 5 a very moving scene indeed. Her Return 
 
 him in point of retaliation, Her ladyship knew too well the value of time; and a wife lighted, however justly, fails not to pay a husband in his own coin, and generally with interest, At least Lady W agtail was o scrupulous in this respect, that she not only paid him legal, but even illegal interest; so justly she thought her caro sposo entitled to have the fairest balance struck between them.
 
-Amongst the foremost of her lovers whom we find she now elected to be revenged of her husband' s infidelity, we meet with the Honourable Charles W=nd- h—m, Esq. Their first and last interview we are informed was in and near Kensington-Gardens. There is a very commodious house not far distant from the palace, where any loving couple may, without ceremony, sacrifice at the altar of the Cytherean goddess. Here we discover they often repaired; and the lovers devotions were so fervent and sincere, so satisfactory and gratifying, that her ladyship made frequent appointments with bim to return to this temple, ; and renew with vigour thoie successful invocations of the goddess's aid; which he n never failed complying with. "This agreeable intercourse continued several months, when greatly to her ladyship's mortification, this gentleman was called abroad. In their last interview, to testify her fondness, her friendship and esteem, she presented him, as a token of remembrance of those happy hours of amourous dalliance, which they had so often experienced, her ring, her wedding ring; which at once dif. played the most lively idea she entertained of Mr. W—nd—bm, and the "sovereign contempt in which she held her husband : nay more, she took it off her OWn finger and put it upon his, to signify that it might be there rivetted, as she wished her image to his heart.
+Amongst the foremost of her lovers whom we find she now elected to be revenged of her husband' s infidelity, we meet with the Honourable Charles W=nd- h—m, Esq. Their first and last interview we are informed was in and near Kensington-Gardens. There is a very commodious house not far distant from the palace, where any loving couple may, without ceremony, sacrifice at the altar of the Cytherean goddess. Here we discover they often repaired; and the lovers devotions were so fervent and sincere, so satisfactory and gratifying, that her ladyship made frequent appointments with him to return to this temple, ; and renew with vigour those successful invocations of the goddess's aid; which he n never failed complying with. "This agreeable intercourse continued several months, when greatly to her ladyship's mortification, this gentleman was called abroad. In their last interview, to testify her fondness, her friendship and esteem, she presented him, as a token of remembrance of those happy hours of amourous dalliance, which they had so often experienced, her ring, her wedding ring; which at once dif. played the most lively idea she entertained of Mr. W—nd—bm, and the "sovereign contempt in which she held her husband : nay more, she took it off her OWn finger and put it upon his, to signify that it might be there rivetted, as she wished her image to his heart.
 
 This parting Was tender to the highest degree, and their devotions to the Cyprean goddess surpassed all belief; N and repeatedly,
 
@@ -517,11 +517,11 @@ What do 5 you think, gentlemen? > is she not a "good piece?"
 
  Ornnes. & Amazing!— We are very happy tc to lee 558 adyship."
 
-Lady. « sE am much obliged to 72 you, gentlemen. 1 did not h to 4 meet with fuch good company."
+Lady. « sE am much obliged to 72 you, gentlemen. 1 did not h to 4 meet with ſuch good company."
 
 8 sir R
 
-„ sir R—-, ©& We have taken her ladyship rather by POsE:
+„ sir R——, ©& We have taken her ladyship rather by POsE:
 
 Ladv. ©« Not at all sir William:
 
@@ -529,7 +529,7 @@ I am always prepared, 8 8
 
 "Hs. 8—. ( Ajuae) « + Good *
 
-: 2 she'll do.“
+: 2 she'll do."
 
 Mr. 5— (4 «Pray my lady, what
 
@@ -540,7 +540,7 @@ have ust: come from thence,"
 
 Lady. Wu, fir, they foy
 
-Lord North 1 is at his wit's ends, and as his dernier resort, he is going to lay a tax upon cuckolds.“
+Lord North 1 is at his wit's ends, and as his dernier resort, he is going to lay a tax upon cuckolds."
 
 sir R—.
 
@@ -552,9 +552,9 @@ sir R—. © Come, madam, drink
 
 The old toast — You
 
-know what I mean.“
+know what I mean."
 
-Lady. 46 I'M obey your commands, : Wonen I d not know what you mean.“
+Lady. 46 I'M obey your commands, : Wonen I d not know what you mean."
 
 st K. . Thats a joke, hel
 
@@ -578,8 +578,8 @@ aaa bf
 
 Lord Cowes: ot Do not be alarmed
 
-sir Richard, the lady speaks metaphorically ; she does not mean the borns upon their heads, unless they were tipt with gold, and every gentleman has too much honour to suffer that---she means the cornucepia f 
-their purses.— their lands and tenements.“
+sir Richard, the lady speaks metaphorically; she does not mean the borns upon their heads, unless they were tipt with gold, and every gentleman has too much honour to suffer that---she means the cornucepia f 
+their purses.— their lands and tenements."
 
 sir Charles. * Ay, that indeed is different; or elle it t would be develish 75 bard
 
@@ -596,9 +596,9 @@ Lady. „ Well, sir Richard.
 
 May we have in our arms those we 5 love in our hearts,"
 
-Mr. 8. Very wel, indeed--Lady. „ I beg your pardon, gentlemen, I meant to have given vou —_ men, and d downright woMe, P.
+Mr. 8. Very wel, indeed--Lady. „ I beg your pardon, gentlemen, I meant to have given you —_ men, and d downright woMe, P.
 
-( 104 ) Mr. P---. An excellent improvement---Pll drink to that again with all my heart,"
+( 104 ) Mr. P---. An excellent improvement---I'll drink to that again with all my heart,"
 
 Mr. S---. © Bravo, my lady--you should have a patent for being toast mistress all over the kingdom."
 
@@ -621,7 +621,7 @@ your turn, give us a toast; 1 ow you are EIA in i the original way."
 
 Mr. =. 50 © sir Richard, I will, give you---The maiden's wish, the.
 
-_ wife's delight, and the widow" 8 la mentation.“
+_ wife's delight, and the widow" 8 la mentation."
 
 Omnes. Bravo, bravo.
 
@@ -652,9 +652,9 @@ A their chance with Lady Wagtail.
 
 (41 pany him as there were more charms to him in a sweep stakes, than the pursuit of all the fine women in England; so he left Lord G, Mr. -, and Mr. P to take
 
-Let it not, however, be imagined that her ladyship took her chance with them all in one day, or one night, her notions were too resined, her sentiments were rather too platonic. We must, nevertheless, suppose Mr. * upon the lit, nay, we will put him down as the fitting member for the borough of Allgobble ; which we can assure our readers was at Hat time; no rotten borough, as it may be plainly perceived in the last chapter he was the first candidate.
+Let it not, however, be imagined that her ladyship took her chance with them all in one day, or one night, her notions were too resined, her sentiments were rather too platonic. We must, nevertheless, suppose Mr. * upon the lit, nay, we will put him down as the fitting member for the borough of Allgobble ; which we can assure our readers was at that time; no rotten borough, as it may be plainly perceived in the last chapter he was the first candidate.
 
-Mf. 8 we will suppose bighly denghted ir in her ladyship's arms, as he threw doublets the very first cast ; and though nobody understands cogging a die better chan this gentle= man; be played perfectly fair upon this occafion, Nevertheless, whether owing to ber 1adyship's unbounded _ extacy, her tumultuous thoughts : thrown into one great ferment of bliss, or the very deep impression
+Mf. 8 we will suppose bighly denghted ir in her ladyship's arms, as he threw doublets the very first cast ; and though nobody understands cogging a die better than this gentleman; he played perfectly fair upon this occasion, Nevertheless, whether owing to her 1adyship's unbounded _ extacy, her tumultuous thoughts : thrown into one great ferment of bliss, or the very deep impression
 
 Mr. W—h—m had made upon her, in the midst of her amorous phrenzy, she cried out— ———Oh ye gods! Ob! my dear Charles ! clasping him still closer to her bosom, and almost devouring him with kisses, my sweet Charles you out do every N
 
@@ -756,7 +756,7 @@ _ bare faced catchpenny, as almost ever line of the introduction, is taken verba
 
 upon feeing an advertisment in the
 
-te moirs of sir Finical Whimsy, &c.“ but having sent for the pamphlet, thoroughly convinced of it's being a
+te moirs of sir Finical Whimsy, &c." but having sent for the pamphlet, thoroughly convinced of it's being a
 
 * 8 this dedication with the first
 
@@ -837,7 +837,7 @@ Was at this time the 1 of the age. His person was tall and elegant, his countena
 
 We need not be suprised at the comeliness of his person, or the gracefulness of his figure, when we recollect he is the son of the celebrated Miss G—g, afterwards Lady Cy. : His lordship had already established his reputation for gallantry and intrigue, amongst the first rate demi-reps upon the ton, by whom he was usually called the male Gsuch: a lter a8 at t Lady Wagtail could not fail of meeting with the most gracious reception, as the had long wished for a tete a tete with his lordship, whom she was ambitious of enrolling in the list of her chers amis; and never could a more favourable opportunity occur, as the sequel will evince.
 
-One evening over a bottle, Easy 5 fad to D —t; What do you think of her ladyship—is not she a fine woman?“ To which his lordship replied, "Amazingly hand- hae". gad you would say so,
+One evening over a bottle, Easy 5 fad to D —t; What do you think of her ladyship—is not she a fine woman?" To which his lordship replied, "Amazingly hand- hae". gad you would say so,
 
 continued sir 13 if you were to see her naked,"
 
@@ -942,7 +942,7 @@ TH) a nable, that Lady Wagtail liked it. The ladies naturally pittied him for be
 
 Neventheless, upon Mr. B a : elopement from Lewes with Lady Wagtail, the baronet, now first offended at his wife's conduct, after making a great bustle at captain L—'s, where they had passed the evening, he went home, and in an aggregate fit of Jealousy for all her infidelities, which he doubtless this moment, and never before, began to suspect, he destroyed all her clothes, threw her miniature picture in the fire, broke her china, and when her ladyship arrived in town, at the Hotel in Pall-mall, she had nothing but her maiden blush to cover herself from shame and from her exposing those naked charms, which the now very wneasy husband, had often displayed to his ends, and particularly his present rival.
 
-When Lady. Wagtail dfdf that the baronet had resolved to commence a prosecution against captain B—, and that he proposed laying his damages at 20,000l. She resolved to go all lengths to circumvent his design. Her character was already lost, her reputation facrificed, all her female connections destroyed; and the was determined now to make her husband appear, at least, as infamous as herself. She sent the Baronet a letter, in which she intimated if he persisted in his defign of prosecuting the Captain, he would only expose himself, and become the object of universal contempt and derision. At the same time she added a list of about three-score gallants, to whom she acknowleged having been perfectly liberal with her favours, of which he could not be ignorant, unless he had been more blind than a mole. She also inclosed Dr. O — account with the  recipes be had prescribed for her; and concluded with assuring him, if
+When Lady. Wagtail dfdf that the baronet had resolved to commence a prosecution against captain B—, and that he proposed laying his damages at 20,000l. She resolved to go all lengths to circumvent his design. Her character was already lost, her reputation facrificed, all her female connections destroyed; and the was determined now to make her husband appear, at least, as infamous as herself. She sent the Baronet a letter, in which she intimated if he persisted in his defign of prosecuting the Captain, he would only expose himself, and become the object of universal contempt and derision. At the same time she added a list of about three-score gallants, to whom she acknowleged having been perfectly liberal with her favours, of which he could not be ignorant, unless he had been more blind than a mole. She also inclosed Dr. O — account with the recipes be had prescribed for her; and concluded with assuring him, if
 
 be ail remained obslinate she hoot
 
