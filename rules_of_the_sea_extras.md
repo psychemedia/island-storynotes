@@ -36,7 +36,7 @@ A Man, Cat, or Dog are only put for Examples; but all other Living 'Things are t
 
 The Year and Day ſhall be counted from the Seiſure. Yet if the Owner dies within the Year, His Executors or Adminiſtrators may make Proof. But if the King's Goods are Wrecked, and caſt upon the Ground where a Subject hath Wreck of Sea, The King is not contin'd to any Time to make Proof, as. a Subject is. | |
 
-If the Goods are Bona Peritura, 'The Sheriff may ſell fuch Goods within the Year. :
+If the Goods are Bona Peritura, 'The Sheriff may ſell ſuch Goods within the Year. :
 
 If the Goods are not ſeiſed by the Lord of the Liberty, but taken away by Wrong-doers, the Owner may have his Action; and if the Wrong: doers are unknown, He may have a Commiſhon to Enquire, c. [See the Expoſition of JYeft. 1. chap. 4. 2 Iuſt. 166, 167, 168. ]
 
