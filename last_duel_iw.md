@@ -53,13 +53,12 @@ Jess - "That's most of the lyrics, certainly the factual ones, the ship and wher
 Lockyer buried in St Mary's Cowes graveyard. West wall?
 ```
 
-A report of the duel can be found in Millingen's "History of Duelling", published in 1841, which provides a comprehensive record of duels fought in Britain up to that date.
+The duel was fought between Major Orlando Lockyer, a seasoned soldier, aged 31, and John Sutton, a young man in his twenties. A report of it can be found in Millingen's "History of Duelling", published in 1841, which provides a comprehensive record of duels in Britain up to that date.
 
 ```{admonition} As recorded in *The history of duelling*, volume II, 1841
 :class: dropdown
 
 John Gideon Millingen, *The history of duelling*, volume 2, 1841, [pp222-3](https://archive.org/details/the-history-of-duelling-v-2-images/page/222/mode/2up).
-
 
 BETWEEN MAJOR LOCKYER AND MR. SUTTON COCHRANE. Cowes, December 12, 1817.
 
@@ -764,7 +763,7 @@ In *Military Register*, [Wednesday 21 January 1818](https://britishnewspaperarch
 Major Lockyer and the other Officers, who had engageed their passage in the above ship, and were subsequently concerned in a Duel, at with Cowes, with Lieut. S. Cochrane, it has been ascertained, sailed for South America in a brig, a few days after fhe fatal event took place. 
 ```
 
-But that report, it seems, must have been incorredt,  becuase Major Lockyer was apprehended in Portsmouth, even as the *Grace* set sail, albeit under unusal circumstances.
+But that report, it seems, must have been incorredt,  because Major Lockyer was apprehended in Portsea, even as the *Grace* set sail, albeit under unusal circumstances.
 
 ```{admonition} Duellist apprehended, February 1818
 :class: dropdown
@@ -834,3 +833,6 @@ In *Morning Herald (London)*, [Monday 18 October 1819](https://britishnewspapera
 By the Tarantula, which arrived at Plymouth on Tuesday, from St. Domingo, we learn that out of 28 officers who left this country to join the standard of the South Americans under M'Gregor, and who escaped with him to the West Indies after defeat, 20 fell victims to the climate. Amongst these was Major Orlando Lockyer, a native of Plymouth.
 
 ```
+
+
+NOTES: Major Orlando Lockyer, [biography](https://seppingsfamilyhistory.com/2018/07/08/the-age-of-sail-milligen-seppings-and-lockyer-military-men-england-pt-1/).
