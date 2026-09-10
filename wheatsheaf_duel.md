@@ -457,10 +457,18 @@ In *Hereford Journal*, [Wednesday 06 October 1813](https://britishnewspaperarchi
 Ensign Maguire, who shot Lieut. Blundell in a duel, and Ensign Gilchrist, are mentioned in Saturday's Gazette as having been dismissed from the service.
 ```
 
+Another year on, and Mrs. Blundell, previously, Mrs. Monro, *née* White, was to marry again, whilst her father, Henry White, was coming to the end of his year's term as Mayor of Portsmouth,
 
-TO DO
+```{admonition} Married at Portsmouth, June, 1814
+:class: dropdown
+In *Hampshire Chronicle*, [Monday 20 June 1814](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18140620/018/0004).
 
-```{admonition}
+On Monday last was married at Portsmouth, James Andrews, Esq. of Funtington, Sussex, to Mrs. Blundell, widow of Lieut. Blundell, of the 101st regiment, who unfortunately fell in a duel, at Carisbrook, in the Isle of Wight, and daughter of Henry White, Esq. Mayor of Portsmouth.
+```
+
+A few weeks earlier, her father had led in the call for a petition from the good folk of Portsmouth and Portsea against the Corn Laws.
+
+```{admonition} Petition against the Corn Laws, Portsmouth, May 1814
 :class: dropdown
 In *Hampshire Chronicle*, [Monday 30 May 1814](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0000230%2F18140530&page=4&article=032).
 
@@ -502,16 +510,7 @@ Resolved,—That the most cordial aad hearty Thanks be given to Henry White, Esq
 
 ```
 
-Another year on, and Mrs. Blundell, previously, Mrs. Monro, *née* White, was to marry again, whilst her father was coming to the end of his year's term as Mayor of Portsmouth,
-
-```{admonition} Married at Portsmouth, June, 1814
-:class: dropdown
-In *Hampshire Chronicle*, [Monday 20 June 1814](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18140620/018/0004).
-
-On Monday last was married at Portsmouth, James Andrews, Esq. of Funtington, Sussex, to Mrs. Blundell, widow of Lieut. Blundell, of the 101st regiment, who unfortunately fell in a duel, at Carisbrook, in the Isle of Wight, and daughter of Henry White, Esq. Mayor of Portsmouth.
-```
-
-A few days later, Henry White would be knighted.
+A few days after his daughter's third wedding, Henry White would be knighted.
 
 ```{admonition} Knighted, June, 1814
 :class: dropdown
