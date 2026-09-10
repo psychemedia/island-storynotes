@@ -30,7 +30,7 @@ Here's my first attempt at retelling this tale as a historical tale.
 
 ```{admonition} The Wheatsheaf Duel
 
-If you happen to scan your eyes over the wall opposite the bar in the Wheatsheaf Hotel in Newport, on the Isle of Wight, you might notice a framed print that relates the tale of an argument that started in that very place in July 1813. As the notice tells it, the argument was between two soldiers — Lieutenant John Blundell, the Landlord's son-in-law, and a lower ranked ensign Edward McGuire. McGuire had apparently accused Blundell of being a coward, a charge against a man;s honour that could not be ignored, and which led to a duel at Carisbrooke Castle. Blundell's pistol exploded even as he was fatally wounded by McGuire's shot to shoulder. He was brought back to the Wheatsheaf where his wife Anne tended to him, but to no avail, and he died a couple of days later.
+If you happen to scan your eyes over the wall opposite the bar in the Wheatsheaf Hotel in Newport, on the Isle of Wight, you might notice a framed print that relates the tale of an argument that started in that very place in July 1813. As the notice tells it, the argument was between two soldiers — Lieutenant John Blundell, the Landlord's son-in-law, and a lower ranked ensign Edward McGuire. McGuire had apparently accused Blundell of being a coward, a charge against a man's honour that could not be ignored, and which led to a duel at Carisbrooke Castle. Blundell's pistol exploded even as he was fatally wounded by McGuire's shot to shoulder. He was brought back to the Wheatsheaf where his wife Anne tended to him, but to no avail, and he died a couple of days later.
 
 Such is the tale that hangs on the on the wall. But whenever I see such things, I always like to check. Now, if you're into duels, there's a two volume work from the 1840s called "The History of Duelling" — you can find in the Internet Archive, *archive.org*, which has thousands of scans of books going back to whenever — which records duels throughout the ages, or at least, up until 1841, the year it was published; but the reference there is even briefer than the description on the wall here. It does give a time for the duel — 2.30 in the afternoon — although the newspaper reports at the time suggest the duel took place early in the morning.
 
@@ -522,6 +522,10 @@ His Royal Highness the Prince Regent was this day pleased, in ihe name and on th
 ```
 
 For how long Ann White's third marriage lasted, I cannot say. But the story still doesn't quite end there, because a few years later, the name of Gilchrist, once of the 101st Regiment, crops up again.
+
+## A Case of Libel
+
+It's 1817, four years after the duel had taken place. And a news story appears in the *Hampshire Telegraph* of Monday, 4th August, 1817.
 
 ```{admonition} It Will Be Remembered, August 1817
 :class: dropdown
