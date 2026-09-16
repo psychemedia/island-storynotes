@@ -146,7 +146,7 @@ VIII. And be it further enacted, That every ſuch Surgeon ſhall have a Medicine
 
 IX. And be it further enacted, That the Bedding of each and every Paſſſenger on board any ſuch Ship or Veſſel ſhall be aired by Expoſure upon the Deck, when the Weather will permit, Once a Day during the Voyage, and ſuch Ship or Veſſel ſhall be fumigated with Vinegar at least Twice in every Week during the Voyage; and every ſuch Maſter or other Perſon having or taking ſuch Charge or Command ſhall forfeit and pay the Sum of Twenty Pounds for each Failure or Neglect in airing the ſaid Bedding, or in fumigating the Ship or Veſſel.
 
-X. And be it further enacted, That no Clearance or Sufferance ſhall be No Clearance granted to any ſuch Ship or Veſſel, unless the Maſter or other Perſon having or taking the Charge or Command thereof, and alſo the Surgeon thereof, where a Surgeon is by this Act required, ſhall have given Bond to His Majesty, His Heirs and Succeſſors, ſuch Bond to be taken by and left in the Hands of the Collector or Comptroller, or other principal Officer of the Cuſtoms at the Port or Place from whence ſuch Ship or Veſſel ſhall be cleared out, in the Sum of One hundred Pounds, with Condition that ſuch Maſter or other Perſon having ſuch Charge or Command as aforesaid, and ſuch Surgeon, where a Surgeon is required, ſhall ſeverally keep a regular and true Journal, containing an Account of the greatest Number of Perſons which ſhall have been on board of ſuch Ship or Veſſel at the Time of her Departure, and at any Time during her Voyage, and until her Arrival at the Port of her Destination, and of the Proviſions and Water on board, and of the Delivery of the daily Allowances thereof in Manner herein directed, and of the airing of Bedding, and of the fumigating the Ship or Veſſel, and of the Deaths of any of the Paſſengers or Crew of the ſaid Ship or Veffel, and of the Cause thereof, during the Voyage, from the Firſt Departure of the ſaid Ship or Veſſel, to her Arrival at her Port of Deſtination; and ſuch Maſter or other Perſon having or taking ſuch Charge or Command as aforesaid, and ſuch Surgeon, ſhall deliver ſuch Journals to the Collector or other Officer as aforesaid, at the firſt Port of the United Kingdom where ſuch Ship or Veſſel ſhall arrive after returning from ſuch Port of Destination, and ſhall feverally make Oath to the Truth of their reſpective Journals, to the best of their Knowledge and Belief, before ſuch Collector or other Officer as aforesaid, who is hereby authorized and required to adminiſter the ſaid Oath; and ſuch Collector or other Officer as aforesaid, ſhall deliver to ſuch Maſter or other Perſon as aforesaid, and to ſuch Surgeon reſpectively, Copies of the Oaths of ſuch Maſter or other Perſon as aforesaid, and ſuch Surgeon, and alſo of the ſaid Journals reſpectively, which Copies ſhall ſeverally be atteſted as true Copies, under the Hand of ſuch Collector or other Officer as aforesaid; and Duplicates of the ſaid Copies, atteſted in like Manner, ſhall be tranſmitted by the ſaid Collector or other Officer aforesaid, to the Commiſſioners of His Majesty's Cuſtoms in *London*, *Edinburgh*, or *Dublin* reſpectively, according as ſuch Journal ſhall be delivered and ſuch Oath ſhall be made, in *England*, *Scotland*, or *Ireland*; and if ſuch Maſter or other Perſon aforefaid, or Surgeon, shall act contrary hereto, ſuch Maſter or other Perſon, and Surgeon, ſhall, for each and every ſuch Offence, ſeverally forfeit and pay the Sum of One hundred Pounds.
+X. And be it further enacted, That no Clearance or Sufferance ſhall be No Clearance granted to any ſuch Ship or Veſſel, unless the Maſter or other Perſon having or taking the Charge or Command thereof, and alſo the Surgeon thereof, where a Surgeon is by this Act required, ſhall have given Bond to His Majesty, His Heirs and Succeſſors, ſuch Bond to be taken by and left in the Hands of the Collector or Comptroller, or other principal Officer of the Cuſtoms at the Port or Place from whence ſuch Ship or Veſſel ſhall be cleared out, in the Sum of One hundred Pounds, with Condition that ſuch Maſter or other Perſon having ſuch Charge or Command as aforesaid, and ſuch Surgeon, where a Surgeon is required, ſhall ſeverally keep a regular and true Journal, containing an Account of the greatest Number of Perſons which ſhall have been on board of ſuch Ship or Veſſel at the Time of her Departure, and at any Time during her Voyage, and until her Arrival at the Port of her Destination, and of the Proviſions and Water on board, and of the Delivery of the daily Allowances thereof in Manner herein directed, and of the airing of Bedding, and of the fumigating the Ship or Veſſel, and of the Deaths of any of the Paſſengers or Crew of the ſaid Ship or Veffel, and of the Cause thereof, during the Voyage, from the Firſt Departure of the ſaid Ship or Veſſel, to her Arrival at her Port of Deſtination; and ſuch Maſter or other Perſon having or taking ſuch Charge or Command as aforesaid, and ſuch Surgeon, ſhall deliver ſuch Journals to the Collector or other Officer as aforesaid, at the firſt Port of the United Kingdom where ſuch Ship or Veſſel ſhall arrive after returning from ſuch Port of Destination, and ſhall ſeverally make Oath to the Truth of their reſpective Journals, to the best of their Knowledge and Belief, before ſuch Collector or other Officer as aforesaid, who is hereby authorized and required to adminiſter the ſaid Oath; and ſuch Collector or other Officer as aforesaid, ſhall deliver to ſuch Maſter or other Perſon as aforesaid, and to ſuch Surgeon reſpectively, Copies of the Oaths of ſuch Maſter or other Perſon as aforesaid, and ſuch Surgeon, and alſo of the ſaid Journals reſpectively, which Copies ſhall ſeverally be atteſted as true Copies, under the Hand of ſuch Collector or other Officer as aforesaid; and Duplicates of the ſaid Copies, atteſted in like Manner, ſhall be tranſmitted by the ſaid Collector or other Officer aforesaid, to the Commiſſioners of His Majesty's Cuſtoms in *London*, *Edinburgh*, or *Dublin* reſpectively, according as ſuch Journal ſhall be delivered and ſuch Oath ſhall be made, in *England*, *Scotland*, or *Ireland*; and if ſuch Maſter or other Perſon aforefaid, or Surgeon, shall act contrary hereto, ſuch Maſter or other Perſon, and Surgeon, ſhall, for each and every ſuch Offence, ſeverally forfeit and pay the Sum of One hundred Pounds.
 
 XI. And be it further enacted, That it ſhall not be lawful for any Maſter or other Perſon taking or having the Charge or Command of any Ship or clearing out Veffel, other than a *British* Ship or Veſſel, owned, navigated, and regiſtered according to Law, clearing out from any Port or Place in the United Kingdom aforesaid, from and after the ſaid First Day of *July* One thouſand eight hundred and three, to have or take onboard a greater Number of Perſons, including the Crew, than in the Proportion of One Perſon for every Five Tons of the Burthen of ſuch Ship or Veſſel; and every ſuch Ship or Veſſel ſhall be deemed andtaken to be of ſuch Tonnage or Burthen as ſhall be aſcertained by the Oath of the Maſter or other Perſon having or taking the Charge or Command thereof, taken before the Collector or other Chief Officer of the Cuſtoms, at the Port from whence ſuch Ship or Veſſel ſhall be cleared out, which Oath the ſaid Collector or Chief Officer is hereby authorized and required to adminiſter; and it ſhall and may be lawful for ſuch Collector or Chief Officer to muſter the Paſſengers and Crew, and to ſearch and inſpect every ſuch Ship or Veſſel, and if more Perſons ſhall be found on board than in the Proportion herein allowed, every ſuch Maſter or other Perſon as aforesaid ſhall forfeit and pay the Sum of Fifty Pounds for every Perſon ſo taken on board beyond the Proportion herein allowed, One Moiety whereof ſhall go to His Majesty, His Heirs or Succeſſors, and the other Half to ſuch Collector or other Officer aforesaid, who is hereby empowered to ſeize and detain ſuch Ship or Veſſel, until ſuch Penalties ſhall be paid.
 
@@ -218,7 +218,7 @@ J——— F——— was himself arrested, and to procure. his liberty deposite
 
 The mate having no money or credit, the steerage passengers and himself and crew might have starved, had not the cabin passengers permitted them, from charitable motives to participate in their sea stores and provisions, until the whole was consumed. J——— F——— has not yet returned to Liverpool; but in consequence of representations made on behalf of the distressed passengers to one of the F———. s in London, a person was sent down to Liverpool to take command of the vessel. This person on his arrival in Liverpool, sent a day's provision on board, for the almost famished passengers and crew, and continued thus to supply them for a few days, but suddenly ceased, alleging he had spent all his own money, and was afraid he should become as great a sufferer by the F———'s as any of the passengers. At length dispatches arrived; the present captain assumed the command of the vessel; redeemed the register from pledge, and instantly discharged the mate and crew, refusing to pay them one shilling on account of wages.
 
-The vessel is now repairing, and to the astonishment of the passengers, they are now told, she will e not proceed either to New York or Philadelphia, but will clear out for St. Johns, New Brunswick, to which place she is engaged by charter-party, to proceed to bring back a cargo of timber.
+The vessel is now repairing, and to the astonishment of the passengers, they are now told, she will not proceed either to New York or Philadelphia, but will clear out for St. Johns, New Brunswick, to which place she is engaged by charter-party, to proceed to bring back a cargo of timber.
 
 The captain has offered to replace the sea-stores and provisions which belonged to the cabin passengers, and were consumed aboard the vessel by themselves, the steerage passengers, and mate and crew, as before stated, provided the passengers will consent to proceed with the vessel to St. Johns; but this proposal ihas been (in general) declined, as only offering to the exhausted passengers the alternative ot perishing amidst the snows of Canada.
 
@@ -233,7 +233,19 @@ Several of the poor passengers, fortunate enough in each possessing a little mon
 The mate and seamen have arrested the vessel by warrant out of the Court of Admiralty, to recover their wages. Could the process of that Court be extended to the case of the unfortunate passengers, their clairns might perhaps be speedily adjusted; but at present they are without any effectual remedy, except as they, or some of them, may, on investigation, be found to be entitled to the charitable assistance of the friends of humanity.
 ```
 
-In its republishing of the story, almost word for word, under the title *A Case of Uncommon Villainy*, the *Morning Chronicle* [Monday 29 September 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170929/011/0003) was happy to name the owners James and Thomas Fitzgerald, and the benefactor as Mr. Ross.
+Later that day, the Evening Mail reprinted the story prefaced with the following opening paragraph:
+
+```{admonition} An application to the Mayor, September 1817
+:class: dropdown
+In *Evening Mail*, [Monday 29 September 1817](https://www.britishnewspaperarchive.com/image-viewer?issue=BL%2F0001316%2F18170929&page=3&article=009&stringtohighlight=mansion+house+fitzgerald).
+
+POLICE.
+
+Mansion-house.— Three or four persons respectable appearance applied on Saturday to the Lord Mayor, in consequence of the conduct of a person named Fitzgerald, a resident this city, who has raised considerable sums by the means hereafter detailed. The complainants, one of whom had paid 40l. to Fitzgerald for her passage to America, described the situation of multitudes of those who suffered by the deception practised as most afflicting, there being on board the ship appropriated to the purposes of the iniquitous adventurer the most deplorable exhibition of want and disappo.ntment. 
+
+```
+
+In its republishing of the story, almost word for word, under the title *A Case of Uncommon Villainy*, the *Morning Chronicle* [Monday 29 September 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170929/011/0003) was happy to name the owners of the ship as James and Thomas Fitzgerald, and the benefactor as Mr. Ross.
 
 ```{admonition} A Case of Uncommon Villainy, September 1817
 :class: dropdown
@@ -250,7 +262,7 @@ The complainants begged to know whether the process of the Court of Admiralty co
 The Lord Mayor again recommended application to the best legal authorities, and expressed his promptitude to assist in obtaining satisfaction for the poor creatures who were labouring under such privations.
 ```
 
-TO DO
+A further clarification of the details regarding the ship appeared in the *Chronicle* the following day (we might assume the reports above are quite close in nature to the version publishced in the *Observer*).
 
 ```{admonition} The Ship Caledonia, September 1817
 :class: dropdown
@@ -272,6 +284,8 @@ London to wit,
 
 We, Michael Wall and Ann Boyle, do hereby severally make oath that the above statement of facts, as far as respects us individually is perfectly true, and we believe that the reason why the ship Caledonia did not proceed to sea was, that several of the passengers were not prepared with the certificates required by the Custom-house at Liverpool to prove that they were not mechanics MICH. WALL. A BOYLE. Sworn at the Guildhall this 29th day of September 1817, before me, M. Wood, Mayor.
 ```
+
+A couple of days later, Fitzgerald publicly took issue with the charges made against him in the *Observer*, whch.
 
 ```{admonition} Fitzgerald's Appeal, October 1817
 :class: dropdown
@@ -302,7 +316,7 @@ Mr. Fitzgerald bowed and retired.
 
 ```
 
-TO DO
+Back in the *Liverppol Mercury*, the documenting of the "Case of Peculiar  Atrocity" continued.
 
 ```{admonition} If parish relief was given, October 1817
 :class: dropdown
@@ -315,33 +329,33 @@ We last week published some particulars respecting the oppressed and miserable i
 
 `[A reprinting of text regarding the Lord Mayor from *Morning Chronicle* [Monday 29 September 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000082/18170929/011/0003) then appears.]`
 
-TO DO
+`In the scan, there is a fold on the left hand edge of the column which obscures some of the original text.`
 
-In order to show the punctuality and despatch of the Lord Mayor of London, wherever the liberty of ?? of his fellow creatures is concerned; we adjoin his answer to an application made to him by ? ?. Smith, in behalf of the passengers of the Caledonia; the owners of which (the *Fitzgeralds*), residing in London, were supposed by the writer to ?? within his jurisdiction.
+In order to show the punctuality and despatch of the Lord Mayor of London, wherever the liberty or comfort of his fellow creatures is concerned; we subjoin his answer to an application made to him by Mr. E. Smith, in behalf of the passengers of the Caledonia; the owners of which (the *Fitzgeralds*), residing in London, were supposed by the writer to ?? within his jurisdiction.
 
 *Mansion House, Sept. 26, 1817.*. 
 Sir,
 
-I have to acknowledge the receipt of your ?, and to inform you, that, some days since, one of the persons by the name of Ward came up from Liverpool, and I granted him a summons to bring ? before me. He appeared, and agreed to ?? the man's expenses back again to Liverpool; and ? and promised, that all the persons should ?? immediately.
+I have to acknowledge the receipt of your letter, and to inform you, that, some days since, one of the persons by the name of Ward came up from Liverpool, and I granted him a summons to bring Fitzgerald before me. He appeared, and agreed to pay the man's expenses back again to Liverpool; and then engaged and promised, that all the persons should ?? immediately.
 
 I am, Sir, your most obedient servant,  
 Matt Wood, Mayor.  
 *Mr. Egerton Smith, Liverpool.*
 
-We are concerned that there appears to be no adequate ?? imeediate redress for such deep injuries ?? which so many individuals have been subjected. ?? villany of the principals in this infamous ?? . To tell men, already ruined and actually ??, to appeal to the slow process of the law, is no better than mockery; and they may reply in the ?? Horne Tooke, who, when it was triumphantly ?? to him, that the law of England was open to every man, sarcastically retorted, *"So is the London ??"
+We are concerned that there appears to be no adequate and immediate redress for such deep injuries as those which so many individuals have been subjected by the villany of the principals in this infamous ?? . To tell men, already ruined and actually ??, to appeal to the slow process of the law, is no better than mockery; and they may reply in the manner of Horne Tooke, who, when it was triumphantly observed to him, that the law of England was open to every man, sarcastically retorted, *"So is the London Tavern."*
 
-It has been suggested to us in conversation, that ?? one mode by which the Chief-magistrate of Liverpool, or the Overseers of the parish might intervene with effect, in behalf of these victims to avarice and treachery. We have been told, that if parish relief was given to them, (and they stand not a little in ??) that the Overseers could then maintain an ?? against the Fitzgeralds.
+It has been suggested to us in conversation, that concerns one mode by which the Chief-magistrate of Liverpool, or the Overseers of the parish might intervene with effect, in behalf of these victims to avarice and treachery. We have been told, that if parish relief was given to them, (and they stand not a little in need of it) that the Overseers could then maintain an ?? against the Fitzgeralds.
 
-It has been whispered, that there is, amongst the ?? of this infamous and swindling transaction, ?? very well known in Liverpool as a dashing ?? and *flyer of kites*!
+It has been whispered, that there is, amongst the organisers of this infamous and swindling transaction, a person very well known in Liverpool as a dashing ?? and *flyer of kites*!
 
-The disinterested conduct of Messrs. Rosson and ??, in this town, in giving their professional services and advice to these unfortunate persons, is ?? creditable to them.
+The disinterested conduct of Messrs. Rosson and Bulmer, in this town, in giving their professional services and advice to these unfortunate persons, is very creditable to them.
 
-Some further notice will probably be taken of the sunject in out next page.
+Some further notice will probably be taken of the subject in out next page.
 
 *Liverpool, 25. Sep. 1817.*  
 Sir,
 
-I have seen in your paper of Friday last a ? respecting some details you promise to publish respecting the merchant ship Caledonia, now in this port, of which I am master. I therefore beg leave to draw your attention particularly to one point, and ?? you against any misrepresentations. Whatever occurred between Mr. Fitzgerald and the passengers I know nothing of, nor had any act or part in. She is ordered to be fitted for sea, one of the ?? (not the person that had been at Liverpool), ?? that I would command her, and get her ?? as soon as possible, for which purpose Mr. ?? would assist me, and it has been done as far as possible on our parts, but I must certainly request whatever happened between Mr. Fitzgerald and the passengers you will confine to them, and not inter?? the names of those that would spurn at doing an unjust or dishonorable action.
+I have seen in your paper of Friday last a ? respecting some details you promise to publish respecting the merchant ship Caledonia, now in this port, of which I am master. I therefore beg leave to draw your attention particularly to one point, and ?? you against any misrepresentations. Whatever occurred between Mr. Fitzgerald and the passengers I know nothing of, nor had any act or part in. She is ordered to be fitted for sea, one of the owners (not the person that had been at Liverpool), insists that I would command her, and get her ready as soon as possible, for which purpose Mr. ?? would assist me, and it has been done as far as possible on our parts, but I must certainly request whatever happened between Mr. Fitzgerald and the passengers you will confine to them, and not interleave the names of those that would spurn at doing an unjust or dishonorable action.
 
 I have the honour to be, Sir,  
 Your most obedient humble servant,  
@@ -357,8 +371,6 @@ In *Liverpool Mercury*, [Friday 10 October 1817](https://britishnewspaperarchive
 CASE OF UNFORESEEN ATROCITY.  
 (Continued from our two former papers.)
 
-TO DO
-
 Some days previous to our publication of the 26th ult. we wrote to the Lord Mayor of London, on the subject of the infamous conduct of the owners of the Caledonia. We enclosed in our letter which afterwards appeared in the *Mercury*, under the head of "Case of Peculiar Atrocity," which was literally copied by the London *Observer* of Sunday last. As a feeble attempt to redeem their characters, one of the Fitzgeralds procured the affidavit, signed Michael Wall and A. Boyle; upon which we made some observations in our last. On Friday last it appears that Mr. Fitzgerald, tenderly alive to his character as a gentleman and a merchant, to the excellence of which he declared that he could adduce the testimonies of several persons, appeared at the Mansion-house before the Lord Mayor, to complain of the statement to which we have alluded, and which had now been copied into several of the London papers. Mr. Fitzgerald's object was to obtain from the Lord Mayor a public declaration that there was no truth whatever in the statement which we had forwarded to him, and great stress was laid upon the affidavit of Michael Wall. The following dialogue on the subject copied from the *Observer*:—
 
 The Lord Mayor.— "I have seen this affidavit, and was surprised at it; for it was TOTALLY DIFFERENT FROM THE ACCOUNT THAT THIS PERSON GAVE HERE."
@@ -369,11 +381,11 @@ The Lord Mayor.— "The account of transactions in which your name was conceived
 
 Complainant.— "Then, it is evidently the production of some malignant enemy of ours at Liverpool. As to the existence of a fever in the ship, I assure your Lordship that there is no ground for making any siuch assertion. I beg your Lordship will assist me in removing the impression, that the charge was made before you."
 
-The Lord Mayor. — "I cannot interfere with Newspapers. The account of which you complain had its origin in Liverpool, from which place, as I stated before, a printed paper, containing the particulars, was transmitted to this city. The declarations in the affidavit were not at all tending to remove the impression ?? to be made by the printed paper. THEY HAD A CONTRARY EFFECT."
+The Lord Mayor. — "I cannot interfere with Newspapers. The account of which you complain had its origin in Liverpool, from which place, as I stated before, a printed paper, containing the particulars, was transmitted to this city. The declarations in the affidavit were not at all tending to remove the impression likely to be made by the printed paper. THEY HAD A CONTRARY EFFECT."
 
-The *Observer*, then, with a spirit and decision highly creditable to its conductors, enters very fully into the character of the Fitzgeralds; in course of which it is remarked, that the "Caledonia is not an isolated case" and that the conduct of these men, so far as regarded their undertaking to convey emigrants to the United States, was reduced to a system, which for turpitude and wickedness has seldom been paralleled." Amongst numerous instances adduced is one which ?? to the conduct of these men towards the passengers on board a vessel called the Perseus, ?? the whole of this affair there is exhibited the same treachery and total absence of principle, which is so ?? conspicuous in the transaction we have had to ??; and we particulalry solicit the attention of a public to the *Observer* paper of Sunday last, two columns and a half of which are devoted to the exposure of the nefarious conduct of these pests to society.
+The *Observer*, then, with a spirit and decision highly creditable to its conductors, enters very fully into the character of the Fitzgeralds; in course of which it is remarked, that the "Caledonia is not an isolated case" and that the conduct of these men, so far as regarded their undertaking to convey emigrants to the United States, was reduced to a system, which for turpitude and wickedness has seldom been paralleled." Amongst numerous instances adduced is one which relates to the conduct of these men towards the passengers on board a vessel called the Perseus. In the whole of this affair there is exhibited the same treachery and total absence of principle, which is so glaringly conspicuous in the transaction we have had to record; and we particulalry solicit the attention of a public to the *Observer* paper of Sunday last, two columns and a half of which are devoted to the exposure of the nefarious conduct of these pests to society.
 
-As Liverpool has at length been selected for the scene of these atrocities, we consider it no less our duty to put the public on their guard against the snares laid for the unfortunate, than to prevent a recurrence of such a disgraceful transaction in our native town; for the character of which we feel the most lively interest. We have, therefore, devoted a considerable portion of our publication to a subject, to which our ?? prolixity will render it unnecessary to recur at any length in future. We could have affidavits in abundance; but we are not advocates for this species of solemn appeal to the public, unless it is absolutely necessary; and we, therefore, now avail ourselves, as sparingly`??` as possible, of this mode of confirming our former statements. The affidavits signed by John Magee, James Smith, and George Nicholson, display such diabolical depravity, that it defies all comment.
+As Liverpool has at length been selected for the scene of these atrocities, we consider it no less our duty to put the public on their guard against the snares laid for the unfortunate, than to prevent a recurrence of such a disgraceful transaction in our native town; for the character of which we feel the most lively interest. We have, therefore, devoted a considerable portion of our publication to a subject, to which our present prolixity will render it unnecessary to recur at any length in future. We could have affidavits in abundance; but we are not advocates for this species of solemn appeal to the public, unless it is absolutely necessary; and we, therefore, now avail ourselves, as sparingly`??` as possible, of this mode of confirming our former statements. The affidavits signed by John Magee, James Smith, and George Nicholson, display such diabolical depravity, that it defies all comment.
 
 The following circumstantial detail, drawn up in part from the log hook of the Caledonia, has been furnished by Messrs. Rosson and Bulmer, who are entitled to the thanks of the community for their active and disinterested conduct throughout this investigation; and we also take this opportunity to bear testimony to the proper and gentleman-like feeling which prompted Mr. Golightly to refuse the usual fees upon the administration of the affidavits.
 
@@ -390,8 +402,7 @@ the provisions of the act of 43d George III. cap. 56, and allow her to take a nu
 By the statute 43 George III. cap. 56. sec. 5. it is enacted, that if any passenger contracting to proceed with a vessel on any voyage, shall signify to a magistrate that he is desirous of being relanded, it shall be lawful for such magistrate to set any such passenger free from his engagement, reserving to either party any *legal* claim which may arise in consequence thereof. It is impossible that the framers of this statute could ever have contemplated such an act of atrocity, as the one now under discussion ; but the evil being now certain, a remedy ought to be applied; and the
 statute should be amended by giving the magistrate full powers not only to rescind the contract, but to exercise summary justice between passengers and owners, or masters of vessels, by enforcing the payment or return of passage-money, before the vessel is permitted to leave the port in which the contract is made.
 
-
-*BOROUGH of LIVERPOOL to wit.*. 
+*BOROUGH of LIVERPOOL to wit.*.  
 WILLIAM MARKLAND, late of Bolton, but now of Liverpool, Plumber and Glazier, maketh oath and saith, that on or about the 21st day of July last, he, this deponent, contracted with James Fitzgerald, one of the owners of the Caledonia, now in the port of Liverpool, for the passage of him, this deponent, his wife, and two children, one John Wharton and his
 wife, and for one John Worrall, as steerage passengers for Philsdelphia, at the rate of £7, 15s. 6d. for each adult person. That the passage-money amounted to £38, 7s. 6d. towards which the sum of £20 was paid to James Fitzgerald. That this deponent and the before-mentioned persons were to find their own provisions for the voyage. That on or about the 24th July this deponent, with his family and the before-named persons went on board the Caledonia, and remained there whilst she went into the river and for nearly a fortnight after, when this deponent and his family returned on shore, finding the vessel could not sail, there not being provisions on board sufficient for the crew. That this deponent and the said John Wharton and John Worrall were each prepared with the necessary certificates, to pass themselves at the Custom-house; which certificates they delivered to James Fitzgerald, at his own request. That this deponent having expended the greater part of his money, and finding the Caledonia would not sail, applied to James Fitzgerald to return the money paid to him, which he frequently promised to do, but never did, nor would he return this deponent his certificate, or the certificates of the other persons, on condition of his retaining the money paid him. And this deponent further saith, that he hath never been able to obtain a return either of his money or certificate; and that John Wharton and his wife and John Worrall have sailed to America in another vessel, called the Nancy, leaving an authority with this deponent to recover the money paid to Fitzgerald on their account. And this deponent further
 saith, that he and his family must have starved in consequence of the artifices of Fitzgerald, had not this deponent been fortunate enough to procure employment in his business in Liverpool.
@@ -471,11 +482,12 @@ In *Liverpool Mercury*, [Friday 10 October 1817](https://britishnewspaperarchive
 
 TREACHERY AND CRUELTY
 
-A perusal of the following paragraph ?? reminded us of the conduct of the Fitzgeralds detailed in the *Observer* of last Sunday. We have no doubt that a similar fate would have awaited the wretched individuals who had taken their passage on board the Caledonia, as detailed in our present and two former numbers, had the vessel proeed on her voyage.
+A perusal of the following paragraph `??` reminded us of the conduct of the Fitzgeralds detailed in the *Observer* of last Sunday. We have no doubt that a similar fate would have awaited the wretched individuals who had taken their passage on board the Caledonia, as detailed in our present and two former numbers, had the vessel proeed on her voyage.
 
 Recent Philadelphia papers state, that of that of 100 passengers in the ship Hope, who arrived at the Lazaretto, 70 had died in consequence of their sufferings, from the want of proper provisions for their voyage, ard that ane hundred and twenty are now lying in a desperate condition. A large number perished at sea. A specimen of the bread on which the survivors subsisted has been exhibited at the office the *True American*. We think the conduct of the master and owners of the vessel should be investigated by the Civil Authority. If it should appear that these miserable wretches were received on board a vessel not furnished with sufficient and wholesomne food for the voyage, we have no doubt that it would be sufficient ground both for civil suits and a criminal prosecution. The inhuman practice of inveigling ignorant foreigners on ship-board, stowing them in bulk without regard to their health and comfort, and then selling them to service on their arrival in this country, to pay for their passage, is not a whit above the Slave Trade, in honour or honesty. We wish to see some effectual measures taken to put a stop to this disgraceful and iniquitous traffic.
 ```
 
+TO DO
 
 ```{admonition} An affidavit regarding fraud, October 1817
 :class: dropdown
@@ -484,6 +496,9 @@ In *Leeds Mercury*, [Saturday 11 October 1817](https://britishnewspaperarchive.c
 
 An affidavit has been published in the Liverpool Mercury, of John Magee, Chief mate of the Barque Caledonia, in which he states, that Thomas Armstrong, the Captain of the vessel had informed him that James Fitzgerald had proposed to him to go to sea with the passengers on board, and sink the vessel, remarking that he had effected the full insurance of the vessel.
 ```
+
+
+TO DO
 
 
 ```{admonition} Another case of treachery, October 1817
@@ -500,6 +515,10 @@ The vessel, against the owners of which the present complaint was brought, was t
 The Lord Mayor said, the whole business was evidently a fraud from beginning to end, and not unlike that which had so lately come before him (alluding to the affair of the barque Caledonia, now in our docks.) The object of the parties, he had no doubt, was to tire out the patience of the passengers, in the hope that they would at length give up the hope of proceeding on the voyage, and the money together. His Lordship added, that Guyard appeared to he the principal actor in the scene, and was therefore the most proper person to answer the numerous complaints. A summons was then, by his Lorship's directions, issued for the attendance of Mr. Guyard at an early period.
 
 ```
+
+
+TO DO
+
 
 ```{admonition} From my embarrassed situation, November 1817
 :class: dropdown
@@ -521,11 +540,14 @@ Your most truly obliged and humble servant,
 Thomas Armstrong.  
 To Mr. Egerton Smith. 
 
-
 These are to certify, that Captain Thomas Armstrong, commanded, in my employment, three different ships, viz:— the Woodman, Prompt, and St. Julian, out of the port of London. I always found him a man of the strictest integrity, honesty, and sobriety; his conduct in every respect has met the approbation of Charles Grant, from London, now in Liverpool.
 
 Liverpool, November 17, 1817.
 ```
+
+
+TO DO
+
 
 ```{admonition} There must be some remedy, April 1818
 :class: dropdown
@@ -535,6 +557,10 @@ Liverpool Mercury - [Friday 17 April 1818](https://britishnewspaperarchive.co.uk
 VERAX, Liverpool, 7th April, 1818.
 
 ```
+
+
+TO DO
+
 
 ```{admonition} An Appeal to Families Going Out to America, April 1818
 :class: dropdown
@@ -575,7 +601,7 @@ We did not expect to have been under the necessity of returning once more to thi
 A month or so before, the ship *Grace* had left the River Thames, and anchored at the Downs, just of Deal, between Ramsgate and Folkestone, not far from Canterbury.
 On board were men who would fight as mercenaries in the South American Patriot war for the local "patriots" and against the governing Spanish forces.
 
-```{admonition}
+```{admonition} TO DO
 :class: dropdown
 
 In *Royal Cornwall Gazette*, Saturday 15 November 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000177/18171115/020/0004)
@@ -618,7 +644,7 @@ AS the occurrences detailed in the following pages, relate not exclusively to th
 
 Five distinct corps embarked at nearly the same period, for that part of the seat of war in South America, occupied by the Independent General Bolivar.
 
-1st. A Brigade of Artillery under the command of Colonel J. A. Gilmore, consisting of five light six-pounders, and one five-and-half-inch howitzer, ten officers and about eighty non-commissioned officers and men. This corps embarked on board the Britannia, a fine ship of about four hundred tons burden, commanded by Captain Sharpe, with a crew of twenty -one able and well-conducted seamen. An immense quantity of every description of military stores had been stowed on board this vessel, com prising arms, ammunition, clothing, waggons, and, in fact, every requisite for ena bling the brigade to enter upon active ser vice immediately on arriving at its place of destination.
+1st. A Brigade of Artillery under the command of Colonel J. A. Gilmore, consisting of five light six-pounders, and one five-and-half-inch howitzer, ten officers and about eighty non-commissioned officers and men. This corps embarked on board the Britannia, a fine ship of about four hundred tons burden, commanded by Captain Sharpe, with a crew of twenty -one able and well-conducted seamen. An immense quantity of every description of military stores had been stowed on board this vessel, com prising arms, ammunition, clothing, waggons, and, in fact, every requisite for ena bling the brigade to enter upon active service immediately on arriving at its place of destination.
 
 The uniforms and equipments of the officers were extremely rich, very similar to those of the British Artillery, and provided altogether at the expense of the individuals who had accepted commissions in this ill-fated expedition. The equipments of the other corps were likewise in every respect extensive and complete, and the uniforms remarkably rich and costly, more especially in the regiment commanded by Colonel Wilson, one of whose officers in formed me that his outfit amounted to up wards of two hundred guineas.
 
