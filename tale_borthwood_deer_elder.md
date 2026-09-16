@@ -14,7 +14,7 @@ LEGENDS OF THE ISLE OF WIGHT.
 
 WITH THE ADVENTURES OF THE AUTHOR IN SEARCH OF THEM. BY ABRAHAM ELDER, ESQ.
 
-p253-262
+pp.253-262
 
 Borthwood Deer p 253
 
@@ -141,13 +141,13 @@ So goodly a youth they had fene non:
 Hys feyre chere in halle theym fmerte  
 That mony a lady fon fmote throw the herte.  
 And in theyr hartys they made mone  
-That there lordis ne were fuche one.  
+That there lordis ne were ſuche one.  
 After mete they went to pley,  
-All the peple, as I you fay;  
+All the peple, as I you ſay;  
 Some to chambre, and fome to boure,  
 And fome to the hye toure';  
 And fome on the halle ftode  
-And fpake what hem thoht gode:  
+And ſpake what hem thoht gode:  
 Men that were of that cite ^  
 Enquired of men of other cuntre, Sec.
 
@@ -157,8 +157,8 @@ Now they furth go on their way,
 Ippomedon to hys men gan fay.  
 That thei be none of them alle,  
 So hardi by his name hym calle,  
-Whenfo thei wend farre or neare.  
-Or over the ftraunge ryvere j  
+Whenſo thei wend farre or neare.  
+Or over the ſtraunge ryvere j  
 
 "In the feudal castles, where many persons of both sexes were assembled, and who did not know how to spend the time, it is natural to suppose that different parties were formed, and different schemes of amusement invented. One of these, was to mount to the top of one of the highest towers in the castle.
 
@@ -178,16 +178,16 @@ And furthe thei went with one confent.
 Ippomedon and Thelomew  
 Robys had on and mantills newe.  
 Of the richeft that might be,  
-Ther nas ne fuche in that cuntree:  
+Ther nas ne ſuche in that cuntree:  
 Ffor many was the riche flone  
 That the mantills were uppon.  
 So long there waie they have nome \  
 That to Calabre they are come:  
-Thei come to the caftell yate  
+Thei come to the caſtell yate  
 The porter was redy there at,  
 The porter to them thei gan calle  
 And prayd him go into the halle  
-And fay thy lady ' gent and fre,  
+And ſay thy lady ' gent and fre,  
 That commen are men of farre contree.  
 And yf yt pleafe hir we will her pray,  
 That we might ete with hyr to day.  
@@ -198,7 +198,7 @@ The porter cam and fayr her grette,
 "Madame, he feyde, god yow fave,  
 "At your gate geftis you have,  
 "Straunge men us for to fe  
-"Thei afke mete for charyte."  
+"Thei aſke mete for charyte."  
 The ladie commaundeth fone anone  
 That the gates wer undone,  
 ■" Took.
@@ -227,11 +227,11 @@ And the ladye feyre he grette:
 "Some of your fervyfe to here."  
 The ladye by held Ippomedon,  
 He femed wel a gentilmon,  
-She knew non fuche in her lande,  
+She knew non ſuche in her lande,  
 So goodli a man and wel farrand ";  
-She fawe alfo bi his norture  
+She ſawe alſo bi his norture  
 He was a man of grete vakire:  
-She caft ful fone in hire thoght  
+She caſt ful fone in hire thoght  
 That for no fervyfe cum he noght;  
 But hit was worlhip her untoo  
 In feir fervyfe hym to do.  
@@ -294,7 +294,7 @@ To thanke hym of his curtefTie,
 Al that was tho in the halle  
 Grete honoure they fpake hym alle.  
 And fayde he was no lytyll man  
-That fuch gyftis giffie kan.  
+That ſuch gyftis giffie kan.  
 There he dwelled moni a day,  
 And fervyd the ladye wel to pay.  
 He bare hym on fo fayre manere  
