@@ -580,6 +580,8 @@ II. And be it further enacted by the Authority aforesaid, That any Person who sh
 
 ```
 
+*The death penalty for committing arson in Royal Navy dockyards would not be repealed until 1971, two years after the death penalty for murder was permanently removed from the statute book. The death sentence for treason was not repealed until 1998.*
+
 The Assizes began, with the trial date called for Thursday, March 16th, 1777. And the crowds gathered.
 
 ```{admonition} The streets were full, March 1777
@@ -837,6 +839,8 @@ From Gosport we passed to the vast hospital at *Haslar*, a little to the west, l
 Just over a century later, human remains were found at the site that were claimed to be John the Painter's.
 
 ```{admonition} Supposed Discovery of Jack the Painter's Remains
+:class: dropdown
+
 In *Hampshire Telegraph*, [Saturday 22 November 1884](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18841122/021/0005).
 
 SUPPOSED DISCOVERY OF JACK THE PAINTER'S REMAINS.
