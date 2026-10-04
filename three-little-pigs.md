@@ -59,7 +59,6 @@ Well, he huffed, and he puffed, and he huffed, and he puffed, and he puffed, and
 
 ```{admonition} The origin of "Merry Garden"
 :class: dropdown
-
 From the *Hampshire Advertiser*, [Saturday 04 December 1847](https://britishnewspaperarchive.co.uk/viewer/bl/0000494/18471204/045/0007), we learn:
 
 > *Gard's Gift to the Poor.* — This parish [Godshill] is likewise entitled to the annual sum of 30s, being a portion of the numerous gifts of Richard Gard, stated in the account of the charities of the parish of Arreton. This sum is paid to the churchwardens by the owner of an estate in Brading formerly called Black-pan, but now the Merry Gardens, and is distributed in small sums amongst the poor at the discretion of the churchwardens.
@@ -548,8 +547,7 @@ A couple of years later, another naive variant of the tale was submitted to a ch
 
 ```{admonition} Dear Grandpa Grimm
 :class: dropdown
-https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18940421/063/0012
-Hampshire Telegraph - Saturday 21 April 1894
+In *Hampshire Telegraph*, [Saturday 21 April 1894](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18940421/063/0012).
 
 Children's Hour
 
@@ -881,8 +879,7 @@ As a possible amusing aside, there are several news stories from the mid-ninetee
 
 ```{admonition} Two Pounds Reward, October 1868
 :class: dropdown
-
-[Manchester Courier - Tuesday 27 October 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000206/18681027/037/0001)
+In *Manchester Courier*, [Tuesday 27 October 1868](https://britishnewspaperarchive.co.uk/viewer/bl/0000206/18681027/037/0001).
 
 TWO POUNDS REWARD.—LOST, on Saturday afternoon, between the hours of two and five, THREE Little PIGS, of the "pure China breed."—Apply at the Pig Store, Robinson-street, off Stanley-square, Stalybridge.
 
@@ -893,7 +890,7 @@ In the following case, three little pigs wandered into an orchard and the own ha
 ```{admonition} Three little pigs, impounded, October 1850
 :class: dropdown
 
-[Leicestershire Mercury - Saturday 12 October 1850](https://britishnewspaperarchive.co.uk/viewer/bl/0000298/18501012/023/0003)
+In *Leicestershire Mercury*, [Saturday 12 October 1850](https://britishnewspaperarchive.co.uk/viewer/bl/0000298/18501012/023/0003).
 
 Loughbrough, County Court, Monday, Oct. 7. (Before J. Hildyard. Esq.)— ... Keightley v. Gimson.— Claim 10s. 4d. Attorney for plaintiff, Mr. Giles; for defendant, Mr. Coope.— On Saturday, the 7th of September, defendant impounded three little pigs, which he had found in his orchard. The following Tuesday, plaintiff paid 1s. 4d. to redeem the pigs, and now brought this action to obtain the sum above stated; alleging that he had sustained that loss through the pigs not being well attended to while in defendant's possession: he also thought he ought not to have paid anything to get them liberated, as the fence they got through was in bad condition. His Honour appeared to be disgusted at having such a case brought before him, and after hearing plaintiff's evidence, recommended that it should be referred to arbitration, which was agreed to.
 
@@ -903,8 +900,7 @@ In another case of pigs going walkabout, a dog takes a rather bigger bite out of
 
 ```{admonition} The Priest and the Pig, February 1862
 :class: dropdown
-
-[Western Daily Mercury - Thursday 20 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620220/039/0003) and then run a second time on [Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620222/079/0007).
+In *Western Daily Mercury*, [Thursday 20 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620220/039/0003) and then run a second time on [Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0001620/18620222/079/0007).
 
 THE PRIEST AND THE PIG. The Rev Canon Ager, of the Roman Catholic Nunnery in Abbotsleigh, was summoned by William Hobart for ill-treating couple of pigs, the property of the complainant. Francis appeared for the defendant. It appears that the complainant is the happy owner of three juvenile pigs, rather given to wandering, and who have taken a liking to the nunnery in question, which they frequent on every convenient opportunity. A good dog, something between bull dog and bloodhound, is kept on the premises as a warning to intruders and a caution to beggars. The unloosing of this dog, which is usually kept chained, is generally considered by the infant porkers to be tantamount to a notice to quit. If they do not avail themselves of this notice, without further ado, a dental application to their ears has generally the desired effect. On Monday week last, however, the pigs—a most unusual thing for the complainant's well-conducted porkers—were more obstinate than ordinary, and all the conciliatory efforts of this gentle dog having failed, and finding that all the applications of his mouth to their ears could not induce them to listen to his suggestions, at once commenced an attack on all quarters, which, as may well be supposed, poor piggy came off second best. Hence the present case.
 
@@ -949,7 +945,7 @@ The Bench, after retiring, gave their decision. They considered the defendant to
 ```{admonition} The Protestant's Porkers, and the Catholic's Bull Dog, February 1862
 :class: dropdown
 
-[Western Times - Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18620222/017/0006)
+In *Western Times*, [Saturday 22 February 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000265/18620222/017/0006).
 
 TOWN HALL. —Before C. J. Wade, Esq., (chairman); W. Creed, W. J. Watts, Esq., and J. Woodley, Esqrs.
 
@@ -972,7 +968,7 @@ Finally, a news story from Dundee where pigs living in houses causes something o
 ```{admonition} A Nuisance, October 1862
 :class: dropdown
 
-[Dundee Courier - Saturday 11 October 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000162/18621011/008/0003)
+In *Dundee Courier*, [Saturday 11 October 1862](https://britishnewspaperarchive.co.uk/viewer/bl/0000162/18621011/008/0003).
 
 A Nuisance. —On Friday, at the Police Court, Catherine Luckie, an old woman, residing in North Street, Springfield, was charged with keeping a number of swine in her dwelling-house, so as to be a nuisance in the neighbourhood. Having been asked regarding the nuisance, the panel said she had to pay 14s of police money, and it would be a hard case for her if she would not be allowed to keep swine. Mr Mitchell (sharply) —" Are you to kill everybody by a nuisance because you have 14s to pay?" (Laughter.) Panel—"The swine are nae nuisance, for they're out a' day, an' keepit in nicht. They are out at this minute." Bailie Ower—"How many have you?" Panel—"There's just five swine, an' twa or three little pigs." (Laughter.) Mr Mackay—"There are thirteen swine." Mr Dunsmore, inspector of nuisances, was called, and deponed that the house of the accused was a perfect nuisance to the neighbourhood in which she lived. There were in all thirteen swine and twenty-two hens in her house, and, in fear of the hens being stolen, the windows were nailed up, and so bad was the ventilation of the house, that the smoke, instead of going Up the chimney, came out at the door. (Laughter.) Mr Mackay (to panel)— Are you willing to remove them?" Panel —"I canna remove them; if I did that I couldna mak' a livin'." (Laughter.) Mr Mackay—"But can you not sell them?" Panel—"I intend to sell them a' but ane or twa.' Bailie Ower—"Your tenants are complaining of this nuisance." Panel—" There's nae tenants complainin'; not one." Bailie Ower—"Mr Dunsmore says so." Panel—"He canna say that." Mr Mackay said if the panel was to be so very obstinate, he would ask the tenants to attend court, and have Dr Cowper to inspect the place. The case was accordingly adjourned till Tuesday next.
 
