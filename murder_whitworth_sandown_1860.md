@@ -4,24 +4,34 @@ Part of my motivation for (re)discovering local historical tales is to get a sen
 
 I first came across this harrowing tale whilst searching for an original version of the *Michael Morey* rhyme. I eventually found a variant of the rhyme in the *Isle of Wight Observer* of [Saturday 09 March 1861](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18610309/003/0003) in an article entitled *"Murder in the Isle of Wight*. That article also included the intriguing sentence: *As to the Sandown tragedy of last year, it was committed by a Leeds soldier who might have been quartered in Canterbury or Dublin just likely as where be was; and even he was a maniac, and never tried.*  Needless to say, I was curious as to what that tragedy might have been...
 
-The tale also brings to my mind the story of Gunner Haines, which I came across in the form of a song by Gaz Brookfield. If ever the opportunity arises, I would quite like to tell the tales alongside each other in some way.
+The setting also brings to my mind the story of Gunner Haines, which I came across in the form of a song by Gaz Brookfield. If ever the opportunity arises, I would quite like to tell the tales alongside each other in some way.
 
 
 SEE ELSEWHERE SANDOWN HISTORY
-
-
 
 ## Sandown (Sandham) Fort
 
 See also *The Sandown Barracks Master Affair, 1806*
 
-https://archive.org/details/bim_eighteenth-century_a-new-correct-and-much_albin-john_1795/page/114/mode/2up?q=plundering
-A new, correct, and much-improved history of the Isle of Wight, ...  1795
-by [Albin, John].
+?? MAP
 
-Publication date 1795
 
-pp114-6
+
+![National Library of Scotland, Hampshire & Isle of Wight Sheet XCVI, Surveyed: 1861, Published: 1866; https://maps.nls.uk/geo/explore/print/#zoom=17.5&lat=50.65211&lon=-1.15926&layers=257&b=ESRIWorld&o=100](images/sandown_1861_OS_barracks_detail.png)
+
+![National Library of Scotland, Hampshire & Isle of Wight Sheet XCVI, Surveyed: 1861, Published: 1866; https://maps.nls.uk/geo/explore/print/#zoom=17.5&lat=50.65211&lon=-1.15926&layers=257&b=ESRIWorld&o=100](images/sandown_1861_OS_barracks.png)
+
+
+![National Library of Scotland, Hampshire & Isle of Wight Sheet XCVI, Surveyed: 1861, Published: 1866; https://maps.nls.uk/view/102343209?zoom=6.0&lat=1318&lon=5250](images/sandown_1861_OS.png)
+
+
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+John Albin, *A new, correct, and much-improved history of the Isle of Wight*, 1795, [pp114-6](https://archive.org/details/bim_eighteenth-century_a-new-correct-and-much_albin-john_1795/page/114/mode/2up).
 
 SANDOWN FORT.
 
@@ -29,10 +39,14 @@ When the neceſſity of fortifying the coaſts of this iſland was found neceſ�
 
 THIS fort is on the ſouth-eaſt ſide of the iſland, and has the command of a bay, in which there is a good landing place. The building is very low, and of a quadrangular form; it is flanked alſo by four baſtions, and the whole is encompaſſed with a ditch. It had formerly an eſtabliſhment of a maſter gunner and thirty ſoldiers, being juſtly eſteemed from its fituation to be of the greateſt importance of any fort in the iſland. But this eſtabliſhment has been conſiderably leſſened ſince that time; and the pay of twenty-two of the ſoldiers applied to increaſe the ſalaries of the maſter gunners of the other forts, where the military eſtabliſhments are ſtill maintained. `[In the ſecond year of queen Elizabeth we only meet with the eſtabliſhment of a porter at eight pence a day, and three gunners at ſix pence a day each, as we have already mentioned under Yarmouth and Freſhwater or Sharpnode.]`
 
-Fox ſome time this fort had been very much neglected; but government have repaired it at a very conſiderable expence, and have refitted the apartments into a comfortable ſummer reſidence for the captain. It now ſupports a captain at half a crown per day, twelve warders at eight pence a day each, a maſter gunner at two ſhillings a day, and three other gunners at one ſhilling a day each; making an annual eſtabliſhment of two hundred and eighty-two pounds ſeventeen ſhillings and fix Pence.
+Fox ſome time this fort had been very much neglected; but government have repaired it at a very conſiderable expence, and have refitted the apartments into a comfortable ſummer reſidence for the captain. It now ſupports a captain at half a crown per day, twelve warders at eight pence a day each, a maſter gunner at two ſhillings a day, and three other gunners at one ſhilling a day each; making an annual eſtabliſhment of two hundred and eighty-two pounds ſeventeen ſhillings and ſix Pence.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18051014/014/0004
-Hampshire Chronicle - Monday 14 October 1805
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Chronicle*, [Monday 14 October 1805](https://britishnewspaperarchive.co.uk/viewer/bl/0000230/18051014/014/0004).
 
 *Cowes, Oct. 9.*
 
@@ -40,10 +54,13 @@ Hampshire Chronicle - Monday 14 October 1805
 
 The 3d battalion of the 60th regiment landed here, this day, from Hilsea Barracks, and marched to Sandown Fort.
 
----
+```
 
-https://archive.org/details/illustrated-times/1860/Illustrated%20Times%20%230270%20%281860-06-09%29%20%28BNA%29/page/359/mode/1up
-Illustrated Times - Saturday 09 June 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Illustrated Times*, [Saturday 09 June 1860](https://archive.org/details/illustrated-times/1860/Illustrated%20Times%20%230270%20%281860-06-09%29%20%28BNA%29/page/359/mode/1up).
 
 SERGEANT WHITWORTH'S COTTAGE INSIDE SANDOWN FORT.
 
@@ -53,22 +70,32 @@ Sandown Fort is a low quadrangular fortification, flanked with a bastion at each
 
 ![Cottages inside Sandown Fort, Illustrated Times, June 9, 1860](images/cottages_inside_sandown_fort.png)
 COTTAGES INSIDE SANDOWN FORT, THE SCENE OF THE LATE DREADFUL TRAGEDY. (FROM A PHOTOGRAPH bY J. SYMONDS, RYDE, ISLE OF WIGHT.)
+```
 
----
+TO DO
 
+```{admonition} TO DO
+:class: dropdown
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18600519/024/0006
-Hampshire Telegraph - Saturday 19 May 1860
+In *Hampshire Telegraph*, [Saturday 19 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18600519/024/0006).
 
 BOROUGH SESSIONS, MONDAY.—Before the Mayor, E. Way and R. M. Wavell, Esqrs.—Corporal Kimber, of the Isle of Wight Artillery Militia, now stationed at Sandown Fort, was charged with having assaulted Elizabeth Dove, the landlady of the White Horse, in Nodehill, because she interfered to prevent a fight between him and a stranger, whom he had knocked down because the man had challenged him to dance. Defendant denied the charge, and on being fined 17s. 6d. he refused to pay it, and was committed for one month. Captain Manners came forward, and said that as the prisoner bore a very good character in the regiment he would pay the money for him—an offer which restored him to liberty.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18600519/066/0008
-Hampshire Chronicle - Saturday 19 May 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Chronicle*, [Saturday 19 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18600519/066/0008).
 
 Dreadful Occurrence.—A report reached Portsmouth yesterday that Sergeant Whitworth, of the Coast Brigade of Royal Artillery, stationed at Sandown Fort, Isle of Wight, destroyed his wife and five children that morning by nearly severing their heads from their bodies, and afterwards attempted to cut his own throat, but failed to do this effectually. He afterwards rushed into the presence of the commanding officer, and made declaration of having committed these dreadful deeds. Three non-commissioned officers were despatched to the man's quarters, on entering which the unfortunate wife and five children were found quite dead, one of the children's heads being severed from the body, and all presenting a horrible spectacle from the dreadful nature of their wounds. Whitworth was at once made a prisoner, and the last news from the Island states that he is likely to recover. He is supposed to be insane.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18600519/012/0004
-Hampshire Telegraph - Saturday 19 May 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Telegraph*, [Saturday 19 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000069/18600519/012/0004).
 
 WIFE AND SIX CHILDREN MURDERED BY A MADMAN AT SANDOWN.
 
@@ -82,22 +109,32 @@ It is stated that since Whitworth has been at the hospital he has confessed havi
 
 An inquest is being held to-day on the body of the murdered woman and children.
 
+```
 
----
 
 The *Hereford Journal* lifted the *Hampshire Telegraph* of Saturday 19 May 1860, and added an additional report on the burial of the bodies taken from the *Morning Post*. (The same extended report appeared in the *Illustrated Times* of [Saturday 26 May 1860](https://archive.org/details/illustrated-times/1860/Illustrated%20Times%20%230268%20%281860-05-26%29%20%28BNA%29/page/332/mode/2up).)
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18600523/041/0008
-Hereford Journal - Wednesday 23 May 1860
+
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Hereford Journal*, [Wednesday 23 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000398/18600523/041/0008).
 
 Shocking Murder of a Wife and Children at Sandown.
 
 ...
 
 The board guardians of the Newport Union were applied to by the police to bury the bodies. The *Morning Post* says, "They sent over seven boxes— scarcely to be designated coffins— into which the gory remains of the unfortunate sufferers were indecently forced by some of the pauper officials soon after their arrival. There was not the slightest attempt made to perform any of the usual cleanly offices; and some of the c coffins not being large enough, the bodies were actually crushed into their narrow prisons, with most sacrilegious indecency, and without the smallest article of funeral clothing upon them. The lids of the coffins were merely secured by a few common nails, and in this condition the whole seven were huddled together in a kind of taxed cart, and sent over at one o'clock to Brading Church for interment. So deficient were all the arrangements, that but for the volunteer service of a small party of men belonging to the Isle of Wight Militia Artillery, who had come over to Brading from feelings of curiosity, the bodies could not have been removed into the church. Their aid having been accepted, the coffins were deposited in the centre aisle, where they presented oneof the most painful exhibitions that can be imagined. The service was read by the vicar, the Rev. Isidore Heath. The church was densely crowded, but neither relative nor friend of the deceased's family was present. The interment took place in a square grave, scarcely three feet deep—in king with the indecency marking all the arrangements of the funeral. It is a disagreeable duty to allude to the short-comings of any public body, but in this case silence would be inexcusable on the part of the reporter, who was an eyewitness of the painful facts he has endeavoured to describe."
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600526/097/0010
-Hampshire Independent - Saturday 26 May 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Independent*, [Saturday 26 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600526/097/0010).
 
 [We were enabled to publish a portion of the subjoined in a special edition of last week's issue.]
 
@@ -209,8 +246,13 @@ THE COMMITTAL
 
 The prisoner having being pronounce by his medical attendant as having sufficiently recovered from his self-inflicted wounds, which are not likely to terminate fatally, he was delivered over to Superintendent Campbell and a posse of the County police, early on the morning of Tuesday last and conveyed to Winchester gaol, there to await his trial at the next assizes. We are informed that he appeared very sullen, and, though conscious of the dreadful acts he had committed, entirely insensible to the consequences. Thus ends another act in this eventful drama, but the last is yet to come.
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18600526/054/0007
-Hampshire Chronicle - Saturday 26 May 1860
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Chronicle*, [Saturday 26 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18600526/054/0007).
 
 THE MURDERS AT SANDOWN.
 
@@ -232,8 +274,13 @@ The verdict was one of wilful murder against Sergeant Whitworth, accompanied by 
 
 The Board of Guardians of the Newport Union were applied to by the police to bury the bodies. The Morning Post says,—" They sent over seven boxes—scarcely to be designated coffins—into which the gory remains of the unfortunate sufferers were indecently forced by some of the pauper officials soon after their arrival. There was not the slightest attempt made to perform any of the usual cleanly offices; and some of the coffins not being large enough, the bodies were actually crushed into their narrow prisons, with most sacriligeous indecency, and without the smallest article of funeral clothing upon them. The lids of the coffins were merely secured by a few common nails, and in this condition the whole seven were huddled together in a kind of taxed cart, and sent over one o'clock to Brading Church for interment. deficient were all the arrangements, that but for the volunteer service of a small party of men belonging to the Isle of Wight Militia Artillery, who had come over to from feelings of curiosity, the bodies could not have been removed into the church. Their aid having been accepted, the coffins were deposited in the centre aisle, where they presented one of the most painful exhibitions that can be imagined. The service was read by the vicar, the Rev. Isidore Heath. The church was densely crowded, but neither relative nor friend of the deceased's family was present. The interment took place in a square grave, scarcely three feet deep—in keeping with the indecency marking all the arrangements of the funeral. It is disagreeable duty allude to the short-comings of a public body, but in this case silence would be inexcusable on the part of the reporter, who was an eye-witness of the painful facts he has endeavoured to describe." 
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600526/013/0003
-Isle of Wight Observer - Saturday 26 May 1860
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Isle of Wight Observer*, [Saturday 26 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600526/013/0003).
 
 HORRIBLE MURDER OF A WIFE AND SIX CHILDREN AT SANDOWN.
 
@@ -312,9 +359,9 @@ Since the inquest the police have among the papers in the prisoner's room the li
 
 Bombardier William Henry Whitworth, 5 company, 3 battalion, Royal Artillery, has permission to marry Martha Beech. D. W. Paynter, Captn.—Kingston, 17 July, 1847.
 
+```
 
 
----
 
 Today there are three locations - the Palmerston fort (Wildheart animal sanctuary, Sandown Barrack Battery, National Poo Museum, barracks used at the site of the Heights ); the barracks also had a hospital.
 Heights - Sandown heath
@@ -323,10 +370,11 @@ Location? Battery Gardens Park, where the national Poo Museum is located; but th
 
 The *Royal Commission on the Defence of the United Kingdom*, 1859, recommended the construction of a new fort in Sandown, as well as the construction of a cliff-top battery (The Sandown Barracks battery), the location of the Sandown Battery gardens and national Poo Museum, but in 1860, construction work had not begin. Rather, the setting for this tale is the old fort on the site of today's Sandham gardens, and the barracks, on the site of the Heights Leisure centre.
 
+TO DO
 
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0001443/18600526/017/0003
-Weston-super-Mare Gazette, and General Advertiser - Saturday 26 May 1860
+```{admonition} TO DO
+:class: dropdown
+In *Weston-super-Mare Gazette, and General Advertiser*, [Saturday 26 May 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0001443/18600526/017/0003).
 
 SATURDAY, MAY 26, 1860.
 
@@ -370,29 +418,34 @@ Whitworth was on Monday committed on the coroner's warrant for trial at the ensu
 
 The bodies of the unfortunate Mrs. Whitworth and her children were interred on Sunday, in the churchyard of Brading.
 
---
+```
 ?? sandham fort up fo sale in 1831?
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310716/015/0001
-Morning Herald (London) - Saturday 16 July 1831
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Morning Herald (London)*, [Saturday 16 July 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310716/015/0001).
 
 Sandown Fort, Isle of Wight. By STEVENS and BRENCHLEY, at the Auction Mart, in the City of London, on Wednesday, Aug. 24, at Twelve at noon, in One Lot, by order of the Right Hon. and Hon. the Principal Officers of his Majesty's Ordnance.
 
 THE ancient Fortress, called Sandown or Sandham Fort, in the Isle of Wight, together with the Governor's house, quarters, barracks, magazine, and appurtenances; the whole comprising about seven acres; three miles distant from the beautiful and romantic village of Shanklin, six from Ryde, and 10 from Newport. Also a piece of ground at the south-side of the Fort, having a frontage to the sea of about 500 feet. The Fortress is constructed of massive stone, is of a quadrangular form, with a bastion at each angle, and is surrounded oy lunette, forming an excellent fishery, and in the ditch are good gardens, with an extensive assortment of fruit trees. A large wooden drawbridge is constructed across the ditch to lead to the interior of the fort. The edifice, overlooking the bay of Sandown, commands a bold and uninterrupted view of the sea, as well as of the picturesque scenery towards Shanklin, and the adjacent country. The unusual circumstance of each a property being submitted for public sale must immediately attract the observation of the Nobility and Gentry —to these its unique and singular character, and interesting localities, combine to render the property a peculiarly enviable and delightful marine or summer residence, as it embraces opportunities of sailing and sporting, for the constant enjoyment of which this favourite coast affords eminent advantages, there being a Spacious roadstead for yachts in the fine bay of Sandown. The materials of which the fortifications are constructed would also amply repay a speculator in the improbable event of his not obtaining a tenant at a handsome rental. The Governor's house is a substantial stone building, two stories high, besides the basement, with a roof covered with lead. In the basement are a large kitchen, with range, smoke jack, iron oven, &c.; servants' hall, scullery, pantry, wine and beer cellars, &c. On the ground floor are a spacious entrance hall, dining room, breakfast parlour, and butler's pantry; on the first floor is a drawing room, commanding a fine prospect of the bay, and five bed rooms. There are also, detached, two extensive wings, substantially built, and covered with slates, with lead ridges. Adjoining the buildings are four leaden cisterns, a well of water, and two pumps. The wing No. 2 consists of two rooms on the ground floor and two good bed rooms over them, also another inferior room on the ground floor, with one above, adapted for servants; together with a brewhouse and an engine or carriage house, with a large store house over both. The wing No. 3 consists of four rooms on the ground floor, and the same number above, adapted for servants, and a two-stall stable and a loft over; the whole of the rooms are fitted with chimney pieces and grates, suited for immediate occupation. Adjoining the Governor's house is a carriage house, and detached are a cow house, pig sties, &c. The magazine is a brick and stone building, two stories high, arched and covered with lead. The proposed sale presents a favourable opportunity for a gentleman to become possessed, at a comparatively small expense, of a property so unique, novel, and singularly-interesting, as perhaps has, in no former instance, occurred, and is therefore deserving attention, and particularly of the landholders on the island.— May be viewed on application to the Master Gunner, at the Fort, of whom particulars may be had; also at the place of sale; at the Bugle inn, Newport; Fountain, Cowes; Pier Hotel, Ryde; Dolphin, Southampton; at the Royal Engineers' Office, Portsmouth; at the Ordnance Office, London; of James Smith, Esq., Ordnance solicitor, 18, Austin-friars; and of Stevens and Brenchley, 36, Old Jewry.
+```
 
 
+```{admonition} TO DO - Sale of Sandham Fort, 1831
+:class: dropdown
+In *Morning Herald (London)*, [Saturday 16 July 1831](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310716/015/0001).
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18310716/015/0001
+Sandown Fort, Isle of Wight. By STEVENS and BRENCHLEY, at the Auction Mart, in the City of London, on Wednesday, Aug. 24, at Twelve at neon, in One Lot, by order of the Right Hon. and Hon. the Principal Officers of his Majesty's Ordnance, THE ancient Fortress, called Sandown or Sandham Fort, in the Isle of Wight, together with the Governor's house, quarters, barracks, magazine, and appurtenances • the whole comprising about seven acres; three miles distant from the beautiful and romantic village of Shanklin, six from Ryde, and 10 from Newport. Also a piece of ground at the south-side of the Fort, having a frontage to the sea of about 500 feet. The Fortress is constructed of massive stone, is of a quadrangular form, with a bastion at each angle, and is surrounded oy lunette, forming an excellent fishery, and in the ditch are good gardens, with an extensive assortment of fruit trees. A large wooden drawbridge is constructed across the ditch to lead to the interior of the fort. The edifice, overlooking the bay of Sandown, commands a bold and uninterrupted view of the sea, as well as of the picturesque scenery towards Shanklin, and the adjacent country. The unusual circumstance of each a property being submitted for public sale must immediately attract the observation of the Nobility and Gentry —to these its unique and singular character, and interesting localities, combine to render the property a peculiarly enviable and delightful marine or summer residence, as it embraces opportunities of sailing and sporting, for the constant enjoyment of which this favourite coast affords eminent advantages, there being a spacious roadstead for yachts in the fine bay of Sandown. The materials of which the fortifications are constructed would also amply repay a speculator in the improbable event of his not obtaining a tenant et a handsome rental. The Governor's house is a substantial stone building, two stories high, besides the basement, with a roof covered with lead. In the basement are a large kitchen, with range, smoke jack, iron oven, &c., servants' hall, scullery, pantry, wine and beer cellars, &c. On the ground floor are a spacious entrance hall, dining porn, breakfast parlour, and butler's pantry; on the first floor is a drawing room, commanding a fine prospect of the bay, and five bed rooms. There are also, detached, two extensive wings, substantially built, and covered with slates, with lead ridges. Adjoining the buildings are four leaden cisterns, a well of water, and two pumps. The wing No. 2 consists of two rooms on the ground floor and two good bed rooms over them, also another inferior room on the ground floor, with one above, adapted for servants ; together with a brewhouse and an engine or carriage house, with a large store house over both. The wing No. 3 consists of four rooms en the ground floor, and the sAme number above, adapted for servants, and a two-stall stable and a loft over ; the whole of the rooms are fitted with chimney pieces and grates, suited for immediate occupation. Adjoining the Governor's house is a carriage house, and detached are a cow house, pig sties, &c. The magazine is a brick and stone building, two stories high, arched and covered with lead. The proposed sale presents a favourable opportunity for a gentleman to become possessed, at a comparatively small expense, of a property so unique, novel, and singularly-interesting, as perhaps has, in no former instance, occurred, aid is therefore deserving attention, and particularly of the landholders on the island.— May be viewed on application to the Master Gunner, at the Fort, of whom particulars may be had; also at the place of sale; at the Bugle inn, Newport; Fountain, Cowes; Pier Hotel, Ryde; Dolphin, Southampton; at the Royal Engineers' Office, Portsmouth; at the Ordnance Office, London; of James Smith, Esq., Ordnance solicitor, 18, Austin-friars; and of Stevens and Brenchley, 36, Old Jewry.
 
-![National Library of Scotland, Hampshire & Isle of Wight Sheet XCVI, Surveyed: 1861, Published: 1866; https://maps.nls.uk/geo/explore/print/#zoom=17.5&lat=50.65211&lon=-1.15926&layers=257&b=ESRIWorld&o=100](images/sandown_1861_OS_barracks_detail.png)
+```
 
-![National Library of Scotland, Hampshire & Isle of Wight Sheet XCVI, Surveyed: 1861, Published: 1866; https://maps.nls.uk/geo/explore/print/#zoom=17.5&lat=50.65211&lon=-1.15926&layers=257&b=ESRIWorld&o=100](images/sandown_1861_OS_barracks.png)
+TO DO
 
-
-![National Library of Scotland, Hampshire & Isle of Wight Sheet XCVI, Surveyed: 1861, Published: 1866; https://maps.nls.uk/view/102343209?zoom=6.0&lat=1318&lon=5250 ](images/sandown_1861_OS.png)
-
-https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600609/020/0004
-Isle of Wight Observer - Saturday 09 June 1860
+```{admonition} TO DO
+:class: dropdown
+In *Isle of Wight Observer*, [Saturday 09 June 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600609/020/0004).
 
 THE SANDOWN TRAGEDY.
 
@@ -420,9 +473,13 @@ T hough all now rest, by God's Almighty will,—
 Y et shall you wake to Heaven in the skies!
 
 F. A. Lewis.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/BL/0000170/18600616/022/0004?browse=true
-Isle of Wight Observer - Saturday 16 June 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Isle of Wight Observer*, [Saturday 16 June 1860](https://britishnewspaperarchive.co.uk/viewer/BL/0000170/18600616/022/0004).
 
 THE PROPOSED TABLET.
 
@@ -439,9 +496,13 @@ W oman's the fountain of the good and true:
 N ever can man her heavenly counsels rue!
 
 Frederick Augustus Lewis. Hackney-road, London.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600623/015/0003
-Isle of Wight Observer - Saturday 23 June 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Isle of Wight Observer*, [Saturday 23 June 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600623/015/0003).
 
 THE LATE SANDOWN TRAGEDY, AND THE PROPOSED MONUMENT IN MEMORY OF THE VICTIMS.
 
@@ -461,9 +522,13 @@ https://britishnewspaperarchive.co.uk/viewer/BL/0000170/18600714/010/0003?browse
 Isle of Wight Observer - Saturday 14 July 1860
 
 The Sandown Murders.— The grand jury have found a true bill against Whitworth, and his trial comers on tomorrow (Saturday). We understand that the wretched man has quite recovered from the injuries he inflicted on himself. The brother of Whitworth is at Winchester, and will in all probability give evidence to prove his insanity.
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600721/026/0004
-Isle of Wight Observer - Saturday 21 July 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Isle of Wight Observer*, [Saturday 21 July 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000170/18600721/026/0004).
 
 WINCHESTER SUMMER ASSIZES, July 17.
 
@@ -486,9 +551,13 @@ After an explanatory address from his lordship, the jury found that the prisoner
 His lordship said, then he should direct the usual order to be made.
 
 The gaoler motioned to the prisoner to leave the bar but he appeared quite unable to comprehend the meaning, and when at length he was led away by the arm, he exclaimed in a loud tone of voice, "Gracious God, look down upon you all, miserable sinners."
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18600721/050/0003
-Hampshire Chronicle - Saturday 21 July 1860
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+In *Hampshire Chronicle*, [Saturday 21 July 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0000231/18600721/050/0003).
 
 THE SANDOWN Murder.—*Wm. Henry Whitworth*, 39, was indicted for the wilful murder of Martha his wife, and Frederick, William, Robert, Mary Ann, Elizabeth, and Ellen Whitworth, his six children, at Brading, Isle of Wight, in May last.
 
@@ -504,8 +573,14 @@ The jury assented, and his lordship then directed the necessary orders for the c
 
 The prisoner was beckoned to withdraw from the dock, but he appeared to be quite lost to what was going on. He was gently led away, and on going out of Court he loudly exclaimed, "Gracious God, look down upon you all, miserable sinners!"
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600721/103/0012
-Hampshire Independent - Saturday 21 July 1860
+```
+
+TO DO
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Hampshire Independent*, [Saturday 21 July 1860](https://britishnewspaperarchive.co.uk/viewer/bl/0002941/18600721/103/0012).
 
 CROWN COURT
 
@@ -552,10 +627,13 @@ His Lordship: Then I shall direct the usual order to be made.
 
 The gaoler then motioned to the prisoner to leave the bar, but he appeared quite unable to comprehend his meaning. At length the warder took him by the arm and led him away. As he left, he exclaimed in a loud tone of voice, "Gracious God, look down upon you all, miserable sinners."
 
----
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0004735/18780111/009/0003
-Spiritualist - Friday 11 January 1878
+
+```{admonition} TO DO
+:class: dropdown
+
+In *Spiritualist*, [Friday 11 January 1878](https://britishnewspaperarchive.co.uk/viewer/bl/0004735/18780111/009/0003).
 
 VARIOUS MANIFESTATIONS, AND SPECULATIONS THEREON.
 
@@ -595,17 +673,22 @@ Here the power for writing failed, and in answers by "Yes" and "No" raps to lead
 
 ...
 
+```
 
-https://britishnewspaperarchive.co.uk/viewer/bl/0004735/18780125/017/0010
-Spiritualist - Friday 25 January 1878
+TO DO
+
+
+```{admonition} TO DO
+:class: dropdown
+In *Spiritualist*, [Friday 25 January 1878](https://britishnewspaperarchive.co.uk/viewer/bl/0004735/18780125/017/0010).
 
 THE SANDOWN MURDERER.
 
 SIR,—Seeing in *The Spiritualist* paper of the 11th Jan. a statement made at a *séance* regarding a murder committed in Sandown in 1860, I have made some inquiry as to whether the circumstance was true. It appears quite true, and the man was a sergeant, or what some say a gunner. His name was Whitworth (not Walworth). He killed his wife and six children in the Fort, and afterwards cut his throat, falling down in the room, where he remained till about twelve o'clock the next day, when he left the Fort, and met a man of the name of Robert Hoar, to whom he stated that some one had killed his wife and children. He was bleeding, but Hoar thought he had been fighting. Whitworth then went to the Barracks at the upper end of the town, where he reported himself, and stated he had committed the deed. He was afterwards sent to Winchester for trial, but being in an unsound state of mind was sent to a lunatic asylum. Robert Hoar, who has given the above statement, thinks he died about six months afterwards. Other parties think he was living till very recently. He was considered a sober man.
-
+```
 
 
 see also lacey ryde, whadden apse heath murder, hallet ryde murder, which referenced the above
 
 
----
+

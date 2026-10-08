@@ -51,11 +51,11 @@ Here, then, is what is apparently the first published telling of the tale of *Th
 
 Newtown, anciently called Franchville, was once dreadfully infested with rats, so much so that the borough was scarcely habitable. They ate their way into all the granaries, and rooms, and cupboards. Scarcely any food could be secured from their attacks.
 
-Even the wine, and mead, and beer, they drank; which they contrived in this manner; they gnawed a bole in the top of the cask, and drank as far as their noses could reach; then one of them dipped in his tail, which the others sucked; and he had his suck at another's tail in return.
+Even the wine, and mead, and beer, they drank; which they contrived in this manner; they gnawed a hole in the top of the cask, and drank as far as their noses could reach; then one of them dipped in his tail, which the others sucked; and he had his suck at another's tail in return.
 
 The cradles of their infants were obliged to be watched night and day, to prevent the rats eating their noses or nibbling their fingers. But with all their care a great many of the children were maimed before they had grown strong enough to defend themselves.
 
-Numerous expedients had been tried to destroy or to reduce the number of these vermin. At one time a number of cats were introduced, and fine fun it was for the old cats. They had rare sport in hunting, and lived merrily upon rats* flesh. But it was otherwise with the kittens; for whenever the rats found a kitten by himself, they assembled in a body and attacked him, and ate him up; so that the breed of cats could not be long continued.
+Numerous expedients had been tried to destroy or to reduce the number of these vermin. At one time a number of cats were introduced, and fine fun it was for the old cats. They had rare sport in hunting, and lived merrily upon rats' flesh. But it was otherwise with the kittens; for whenever the rats found a kitten by himself, they assembled in a body and attacked him, and ate him up; so that the breed of cats could not be long continued.
 
 At another time they made an attempt to poison the rats, and indeed they destroyed a great number, but the stench that arose from their dead bodies in the streets, and in their holes, and in every part of their houses, brought an infectious fever upon the inhabitants, so that a great number died.
 
@@ -63,9 +63,9 @@ Large rewards had been offered to any one who would clear the place of rats. Rat
 
 One day there came a wandering piper to the town, fantastically dressed. There was hardly any colour or shade that was not to be found in some corner of his party-coloured clothing; this procured him the name of the Pied Piper. He called upon the mayor, and asked him what reward he should receive, if he destroyed every single rat in the borough of Franchville. The mayor sent the crier round to assemble the burgesses in the Town-hall, to consider what reward should be given. The debate lasted a considerable time, for the love of economy and the fear of the rats struggled hard against one another. The fear of the rats, however, appeared in the end to prevail, for they decided upon giving five hundred pounds (an enormous sum in those days) when the rats should be extinct.
 
-The piper accepted the offer, and left the Town-hall, playing a shrill tune upon his pipe. To the utter astonishment of the by-standers, a great number of rats rushed out from th6 holes round the foundations of the Town-hall, and followed after his heels.
+The piper accepted the offer, and left the Town-hall, playing a shrill tune upon his pipe. To the utter astonishment of the by-standers, a great number of rats rushed out from the holes round the foundations of the Town-hall, and followed after his heels.
 
-As he went along, all the rats came out of their holes and trotted after him. Every fifty yards he stopped, and turned round and played a particular flourish upon his pipe, just to give time for the young little toddling rats to overtake their stronger relations. Up Silver street he went, and down Gold street, and so on to the harbour. The people flocked after him at a x distance, showering blessings upon his head. But they could not get any where near him, on account of the ground being perfectly covered with rats.
+As he went along, all the rats came out of their holes and trotted after him. Every fifty yards he stopped, and turned round and played a particular flourish upon his pipe, just to give time for the young little toddling rats to overtake their stronger relations. Up Silver street he went, and down Gold street, and so on to the harbour. The people flocked after him at a distance, showering blessings upon his head. But they could not get any where near him, on account of the ground being perfectly covered with rats.
 
 When he had led his flock of rats down to the water, he got into a boat with high sides to it, so that no rat could get into it. He then entered the boat and shoved off into the middle. The rats crowded round, and appeared to listen with delight to his music, as they wagged their tails in the water. Thus he continued piping to them till the tide had fallen, and the boat was left aground on the mud. But the rats, still infatuated with the melody of his notes, kept paddling round him, until one by one they perished, smothered in the mud. Before the water rose again, not a rat was left alive.
 
@@ -81,7 +81,7 @@ Down Silver-street he walked, and up Gold-street, the old people laughing at him
 
 In the course of time the remaining inhabitants of Franchville either died or became feeble from old age; but the children who would have succeeded them had gone off, nobody knew where. Those who had been born since the time of the Pied Piper were still in their infancy. The borough, in short, consisted only of old men and children.
 
-The French unfortunately chose this period to make an attack upon the Isle of Wight They landed at Franchville, met with no opposition, and burnt it to the ground. This was the end of Franchville.
+The French unfortunately chose this period to make an attack upon the Isle of Wight. They landed at Franchville, met with no opposition, and burnt it to the ground. This was the end of Franchville.
 
 Buildings, however, were again erected there, and fresh inhabitants came: and the place was called Newtown. The very change of name shows how complete the destruction of the old borough must have been.
 
@@ -107,7 +107,7 @@ According to the antiquarian, the original roots of the story may, however, go b
 
 > "Those stories that have their parallel traditions preserved in very distant and different countries, are traditions handed down from the earliest periods of the world; and relate generally to Noah and the flood, or to the events that took place at Babel before the scattering abroad of nations. Of this description are the Druidical traditions of Delan, — Deucalion, Saturn, and Janus `[Janus was represented by the Romans as having two faces — the meaning of which is, that he looked back to the antediluvian world, and forward to the postdiluvian. His temple was shut in time of peace, and open in time of war; which means that whilst men and animals remained in the ark they lived in peace with one another, but after the door was opened they fought and quarrelled as they did before they entered into it.]` of the Greeks and Romans, relating to Noah.
 
-*In another storynote, [__On the Trail of the Sin-Eater__](https://psychemedia.github.io/sin-eater-resources/_decameron_other_missed_opportunities.html#joseph-downes-the-mountain-decameron-1836), I note a work from 1836, Joseph Downes' "The Mountain Decameron", that apparently collects local observations made whilst on a tour of rural byeways, that involved more substantial and fundamental creative input on the part of the author than simple artistic or poetic license, and from which one account, at least — that of the sin-eater — came to be cited in later years as a __historical__ account.*
+*In another storynote, [__On the Trail of the Sin-Eater__](https://sineater.montystoryteller.org/_decameron_other_missed_opportunities.html#joseph-downes-the-mountain-decameron-1836), I note a work from 1836, Joseph Downes' "The Mountain Decameron", that apparently collects local observations made whilst on a tour of rural byeways, that involved more substantial and fundamental creative input on the part of the author than simple artistic or poetic license, and from which one account, at least — that of the sin-eater — came to be cited in later years as a __historical__ account.*
 
 The dialogue then starts to enter rather more esoteric territory:
 
@@ -238,7 +238,7 @@ All the while, the elders watched and waited. They mocked no longer now. And wat
 
 ```
 
-As well the stories themselves, Jacobs' work also included various notes on each of the tales. At p218-220, we get the following notes and references on his version of *The Pied Piper* tale, starting with the provenance:
+As well the stories themselves, Jacobs' work also included various notes on each of the tales. At pp.218-220, we get the following notes and references on his version of *The Pied Piper* tale, starting with the provenance:
 
 > XLIV. THE PIED PIPER.
 >
@@ -272,7 +272,7 @@ As well as the best known location for the tale, Hamelin, Jacobs also notes a va
 > There firm and instant closed the greedy Womb,  
 > Where wide-born Thousands met a common Tomb.
 
-Gutch's comments are remarked upon again, (I will include the whole paper later in this note, but it really is an overlong and not wholly illuminating paper).
+Gutch's comments are remarked upon again, (I will include the whole paper later in this note, but it really is overlong and not wholly illuminating).
 
 > Remarks. Mr. Baring-Gould, in his *Curious Myths of the Middle Ages*, has explained the Pied Piper as a wind myth; Mrs. Gutch is inclined to think there may be a substratum of fact at the root of the legend, basing her conclusions on a pamphlet of Dr. Meinardus, *Der historische Kern*, which I have not seen. She does not, however, give any well-authenticated historical event at Hameln in the thirteenth century which could have plausibly given rise to the legend, nor can I find any in the *Urkundenbuch* of Hameln (Luneberg, 1883).
 
@@ -302,7 +302,7 @@ The rare nature of the tale is noted:
 
 Jacobs' comments on the tale are also discussed:
 
-> In his notes on the legend (pp. 218—220) Mr. Jacobs doubts whether it is a genuine Isle of Wight story and inclines to the belief that, in order to fill up his volume, Elder localised at Newtown version of the Hamelin legend. Mr. Jacobs's remarks are as follows:  "Before Browning it (the Hamelin story) had been told in English in books well known Verstegan's 'Restitution of Decayed Intelligence, 1606,' Howell's 'Familiar Letters,' and Wanley's 'Wonders of the Little World.' Browning is said to have taken it from the last source, though there are touches which seem to come from Howell, while it is not impossible he may have come across Elder's book, which was illustrated by Cruikshank. ... 
+> In his notes on the legend (pp. 218—220) Mr. Jacobs doubts whether it is a genuine Isle of Wight story and inclines to the belief that, in order to fill up his volume, Elder localised at Newtown version of the Hamelin legend. Mr. Jacobs's remarks are as follows: "Before Browning it (the Hamelin story) had been told in English in books well known Verstegan's 'Restitution of Decayed Intelligence, 1606,' Howell's 'Familiar Letters,' and Wanley's 'Wonders of the Little World.' Browning is said to have taken it from the last source, though there are touches which seem to come from Howell, while it is not impossible he may have come across Elder's book, which was illustrated by Cruikshank. ... 
 
 An important question for the correspondent is how "authentic" Elders' version of the tale might be:
 
@@ -346,7 +346,7 @@ The second response comes from elderly resident of Newtown who claims to have fi
 
 > *To the Editor of the Isle of Wight County Press.*
 >
-> Sir,— Seeing in your paper of the 9th inst. a letter by Mr, W. Self Weeks, who wants to know if ever the Pied Piper was in existence at Newtown, I, as one of the oldest inhabitants of the place, can only say that the first I ever heard of his existence was in a paper read by Mr. Colenutt, of the Hampshire Field Club, on the occasion of the Club's visit to Newtown some time back. The address was recorded in the County Press.
+> Sir,— Seeing in your paper of the 9th inst. a letter by Mr. W. Self Weeks, who wants to know if ever the Pied Piper was in existence at Newtown, I, as one of the oldest inhabitants of the place, can only say that the first I ever heard of his existence was in a paper read by Mr. Colenutt, of the Hampshire Field Club, on the occasion of the Club's visit to Newtown some time back. The address was recorded in the County Press.
 
 The story as recorded in the newspaper report is then restated:
 

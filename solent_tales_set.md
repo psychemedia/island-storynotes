@@ -50,7 +50,7 @@ It's 1817. The war with France is over, and the paid off soldiers are looking fo
 
 Moored off Cowes, the good ship Grace.
 
-Several men come ashore, get pissed. Play billiards. "We're all in debt aren't we?" "What?" "In debt, that's why we're going isn't it? *For the money.*" "Take that back.". "What?" "Take it back. How dare you say that? That I'm in debt?" "Oh come on, of course you are. We all are..." And then to the side "You reckon he;s bankrupt then? He's certainly slow to get a round in!" "Take. It. Back." "What? Look, of course we're all in debt. To God if no-one else..." "You will take it back, or I will see you at first light." "What the f...".
+Several men come ashore, get pissed. Play billiards. "We're all in debt aren't we?" "What?" "In debt, that's why we're going isn't it? *For the money.*" "Take that back.". "What?" "Take it back. How dare you say that? That I'm in debt?" "Oh come on, of course you are. We all are..." And then to the side "You reckon he's bankrupted then? He's certainly slow to get a round in!" "Take. It. Back." "What? Look, of course we're all in debt. To God if no-one else..." "You will take it back, or I will see you at first light." "What the f...".
 
 A small boat goes over to the Grace, and shortly after returns. A box.
 
@@ -186,7 +186,7 @@ The crowd already gathered at Southsea Common was immense. A hundred thousand pe
 
 Tyrie was hanged for exactly twenty-two minutes; still not quite dead, he was lowered on to the stage; his privities cut off (ooohhh...), his bowels cut out (errrghh...), and his heart taken out (oahhhh). "Behold the heart of a traitor" and into a fire. Then his head was cut off, and his body quartered, and placed into a coffin, which was then buried under the pebbles on the beach. It is said, that as soon as the officers retired, sailors dug up the coffin, took out the body, and cut it in a thousand pieces, each one carrying away a piece of Tyrie's body to show to their messmates on board.
 
-Whether any of the men on board the Royal George had acquired any of the body parts of the the traitor Tyrie as some some of macabre luck charm, I don't know. But I do know that three days after the execution, stores were still being loaded on board her.
+Whether any of the men on board the Royal George had acquired any of the body parts of the traitor Tyrie as some some of macabre luck charm, I don't know. But I do know that three days after the execution, stores were still being loaded on board her.
 
 During her last voyage, she'd been taking on more water than usual, so a running repair was also required. It was something and nothing, a small pipe which let water into the hold for cleaning the ship. But it needed replacing. It was usually about three feet below the surface of the water, a faff to get to, so they'd have to heel the ship — lean her over to the other side, to raise the pipe out of the water.
 
