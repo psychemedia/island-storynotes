@@ -30,6 +30,12 @@ A. D. 1776, December 7th, the destruction of the rope-house was effected by John
 
 ```
 
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [Hanged at the Hard: The Tale of John the Painter (Solent Tales)](https://www.amazon.co.uk/gp/product/B0H8PDKJKP)
+```
+
 # The Story Begins...
 
 It's 1776, and Britain is at war with America, but not, for now at least, with France.

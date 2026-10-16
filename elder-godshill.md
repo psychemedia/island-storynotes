@@ -1,6 +1,6 @@
 # Legends of the Isle of Wight: Godshill
 
-[`Abraham Elder, in *Bentley's Miscellany*, 1839](https://archive.org/details/sim_bentleys-miscellany_1839-07_6/page/255/mode/1up?q=godshill)`
+[`Abraham Elder, in *Bentley's Miscellany*, 1839`](https://archive.org/details/sim_bentleys-miscellany_1839-07_6/page/255/mode/1up?q=godshill)
 
 Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, containing an invitation for Mr. Winterblossom and myself to spend the day with him, stating at the same time that he had a tale for me connected with that neighbourhood, very curious, and well-authenticated, which he wished to show me; as the captain was an old friend of mine, we accepted the invitation, and set out in a car together the next day.
 
@@ -135,3 +135,9 @@ Having received a letter from Captain Nosered, of Violet Cottage, Ventnor, conta
 "Great was the astonishment of all the assembly to find that it was gone, and exactly in the spot where it should have been was found the paring of a thumb-nail. As soon as this was publicly announced, a loud and universal shout arose — 'A relic! a holy relic!' I pass over altogether, for it would be grating to the ear of every religious Protestant, the consultations that were held upon the subject, the processions that followed, the masses that were said, the adorations that were paid to this trumpery and filthy object. It is sufficient to know that the site was consecrated, the church was built, and the ground upon which it was erected has ever since been known by the name of God's-hill.
 
 "The franklin was highly pleased to have had all his sins absolved by the bishop himself, without the necessity of any confession; while his cows still ranged over his favourite field; and the two watchers never passed that way without partaking of the best cheer that the franklin could set before them."
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [A Legend of Godshill (Island Tales)](https://www.amazon.co.uk/gp/product/B0FPRFD1QS)
+```

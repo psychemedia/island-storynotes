@@ -123,3 +123,10 @@ But even as the celebrations continued, four men from the Nore fleet, anchored a
 As it was, for new the Admiral's fleet, Lord Bridport's fleet, it would set sail the following day. And if you had been at Ryde looking out into the Solent, sixteen ships of their line making their way out in to the Channel.
 
 And that is the end of the tale.
+
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [Mutiny at Spithead: A Solent Tale](https://www.amazon.co.uk/gp/product/B0H8PPY7XY)
+```

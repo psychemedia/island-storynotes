@@ -28,8 +28,8 @@ Which is to say....
 
 Here's my first attempt at retelling this tale as a historical tale.
 
-```{admonition} The Wheatsheaf Duel
-
+```{admonition} The Wheatsheaf Duel — A Telling
+:class: dropdown
 If you happen to scan your eyes over the wall opposite the bar in the Wheatsheaf Hotel in Newport, on the Isle of Wight, you might notice a framed print that relates the tale of an argument that started in that very place in July 1813. As the notice tells it, the argument was between two soldiers — Lieutenant John Blundell, the Landlord's son-in-law, and a lower ranked ensign Edward McGuire. McGuire had apparently accused Blundell of being a coward, a charge against a man's honour that could not be ignored, and which led to a duel at Carisbrooke Castle. Blundell's pistol exploded even as he was fatally wounded by McGuire's shot to shoulder. He was brought back to the Wheatsheaf where his wife Anne tended to him, but to no avail, and he died a couple of days later.
 
 Such is the tale that hangs on the on the wall. But whenever I see such things, I always like to check. Now, if you're into duels, there's a two volume work from the 1840s called "The History of Duelling" — you can find in the Internet Archive, *archive.org*, which has thousands of scans of books going back to whenever — which records duels throughout the ages, or at least, up until 1841, the year it was published; but the reference there is even briefer than the description on the wall here. It does give a time for the duel — 2.30 in the afternoon — although the newspaper reports at the time suggest the duel took place early in the morning.
@@ -82,6 +82,12 @@ It didn't take long for the Jury to come to their decision. After a short consul
 
 And there the tale *does* come to an end.
 
+```
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [Two Isle of Wight Duels: The Wheatsheaf Duel & The Last Duel on the Island (Island Tales)](https://www.amazon.co.uk/gp/product/B0HMFD8HFF)
 ```
 
 Checking volume II of J. G. Millingen's *The history of duelling*, published in 1841, which itemises duels in Great Britain and Ireland up to 1841, we find the following scant description of the event.

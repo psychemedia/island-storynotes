@@ -375,3 +375,10 @@ All the neighbourhood felt convinced that Betty Spooner had been induced to marr
 Notwithstanding all these precautions, when John Kann went to work a day or two afterwards, he found a number of persons there, busily washing the sand. They did indeed find a very few grains of gold at first starting; but ever since that time neither John Kann nor anybody else has thought it worth his while to wash the sand in Puckaster Cove.
 
 Never marry a gossiping wife.
+
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [A Legend of Puckaster Cove (Island Tales)](https://www.amazon.co.uk/gp/product/B0FPN7VCVK)
+```

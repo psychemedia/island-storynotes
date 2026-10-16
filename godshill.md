@@ -34,6 +34,13 @@ So it seemed as if someone, or some*thing*, or even the very Church itself, didn
 
 And so it was that the Church was built on top of the hill, God's hill; and the original site, where the Church refused to be built, came to be known as Devil's Acre. Now, whether that's because the Devil didn't like the idea of a Church there, or whether God wanted to keep his Church away from there, or God wanted his Church *up there*, who can say? But there was surely some magic afoot that night the stones were seen dancing to Godshill.
 
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [A Legend of Godshill (Island Tales)](https://www.amazon.co.uk/gp/product/B0FPRFD1QS)
+```
+
 ## Island Tellings...
 
 The pseudonymous Abraham Elder's *Tales and Legends of the Isle of Wight*, first published in 1839, takes the form of a road trip around the island by the author and his sidekick, Mr Winterblossom, an antiquary well versed in the lore of the island and related by him to the author, as well as by others encountered along the way, in the course of their journey.

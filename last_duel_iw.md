@@ -91,6 +91,12 @@ On the day preceding the seizure of the above vessel, Mr. SUTTON, a volunteer Of
 
 But what were the stories behind these stories?
 
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [Two Isle of Wight Duels: The Wheatsheaf Duel & The Last Duel on the Island (Island Tales)](https://www.amazon.co.uk/gp/product/B0HMFD8HFF)
+```
+
 ## Ships to America
 
 Growing up in the 1970s, with an interest in technology and Tomorrow's World, I remember new reports of "the brain drain", where highly skilled professionals were heading to the US, or elsewhere, taking their knowledge with them. Go back a hundred and fifty years before that, and the situation was the same. 
@@ -364,6 +370,8 @@ W. HINGSTON.
 
 ```
 
+The affair would continue be discussed in the Liverpool Mercury the following week.
+
 ```{admonition} A case made against the Fitzgeralds, October 1817
 :class: dropdown
 In *Liverpool Mercury*, [Friday 10 October 1817](https://britishnewspaperarchive.co.uk/viewer/BL/0000081/18171010/005/0003).
@@ -395,9 +403,7 @@ THE BARQUE CALEDONIA.
 
 Fitzgeralds, the owners of the Caledonia, having settled with two of the passengers, who travelled up to London for the purpose of bringing them to account, now impudently appeal to the public through the medium of the press, and have offered certain alleged facts in justification of themselves, and to their statement have ingeniously tacked an ambiguous affidavit, for the purpose of giving the whole a semblance of truth. The pleas in justification on the part of Fitzgeralds, are two:— 1st, That the Caledonia having received damage in the river, her subsequent detention was occasioned by getting her repaired. 2nd, That the vessel could not proceed to sea, several passengers not being prepared with certificates to prove they were not mechanics. Of these, in their order, and "do but blow them to their trial, the bubbles are out."
 
-The Caledonia, by hand-bills, was warranted to sail for New York and Philadelphia, on or about the 10th July last. On the 31st of the same month she proceeded out of the King's Dock, and was brought to anchor in the river, where she was visited by the Collector of the Dock duties, accompanied with a bailiff, who seized the stores to compel payment of the duties claimed for dockage of the vessel. On the 11th of August last, Captain Armstrong entered the vessel at the custom-house, Liverpool, for a voyage to St. John's, New Brunswick. On the 12th, the pilot then on board the vessel in the river was discharged. On the 14th, Captain Armstrong was arrested and taken away from the vessel. On the 18th, the second mate and three seamen left the vessel, there being no provisions on board. On the 26th, the Caledonia experienced some heavy gales of wind, lost both anchors and cables, and was driven down the river nearly to the black rock. At this time there were the chief mate and five seamen on board, the rest of the crew having abandoned the vessel through want of provisions. On this day the Caledonia was run foul of, by one of the packets trading from the Isle of Man, the bowsprit of which vessel pierced the Caledonia's side, which is the damage alluded to by the owners in their appeal to the public. The Caledonia was afterwards got into the Queen's Dock, and lay there without any repair, until the 5th September last, when W. Hingston, the present master, having obtained the register from pawn, took command of the vessel. These particulars are extracted from the log-book, kept by the chief mate during the period he was on board the vessel, and from this evidence it is indisputable, that the Caledonia never was prepared to go to sea on any voyage whatever. When the vessel first went into the river, she had only 20 puncheons of water, 18 bags of biscuit, and a little fresh meat on board; and when these articles were consumed, the crew subsisted on the bounty of those unfortunate passengers who had provided themselves with sea-stores. Independently of this fact, the ship's register was in pledge, and the captain, who had cleared out the vessel, in gaol; and it is therefore the most unparalleled effrontery on the part of the Fitzgeralds, to assert the vessel was prevented from going to sea by damage sustained in the river. This damage was repaired in about nine days after Captain Hingston took the command, but at this moment the Caledonia yet remains in the Queen's Dock. The second plea is, that the vessel could not proceed to sea, several of the passengers not being prepared with certificates to prove they were not mechanics. In answer to this it is necessary to state, that amongst the various stratagems resorted to by James Fitzgerald, when in Liverpool, to procure passengers for the Caledonia, he actually undertook, at his own risk, to get all persons entering on board his vessel cleared out at the custom-house. He stated the Caledonia would proceed from Liverpool to Bristol, where passengers were engaged and then waiting the arrival of the vessel. That all persons whom he could not pass at Liverpool, might proceed with the vessel as passengers for Bristol, and on her arrival there, a list would be made out, including the names of such as had not passed, as having been in fact passed at the custom-house in Liverpool; and there would by that mode be no difficulty whatever, as the vessel would then proceed direct from Bristol to New York and Philadelphia. In point of fact, James Fitzgerald never required any one of the persons entering themselves as passengers to procure certificates, as he guaranteed them from all difficulty on that account, and no delay originating from the want of any such certificates ever took place. Assuming, however, the assertion to be correct, and that several of the passengers could not procure the necessary certificates, yet surely that circumstance ought not to have been pleaded as an excuse for detaining the vessel, the crew, and the majority of the passengers, in the port of Liverpool for upwards of three months, when the remedy was so palpable and easy. Common honesty would have dictated to James Fitzgerald the necessity of returning the passage money received by him to all those passengers whom he knew could not lawfully leave the kingdom, and whose situation or capability of leaving the kingdom could not be mended by delaying the Caledonia. The two pleas set up by James Fitzgerald are not in unison; for if the Caledonia was unable to proceed on her voyage through want of repairs, she could not at the same time be delayed by the want of any documents necessary for the intended passengers; and it cannot be disputed that the owners were always (had they been so inclined) enabled legally to ship more passengers than the vessel was entitled to carry, under the provisions of the act of the 43d George III. cap. 56, or of the act of the 56th George III. cap. 114. But it now appears, it never was the intention of the owners that the Caledonia should proceed on the voyage in question, or at all events further than from Liverpool to Bristol; and this is evident from the conduct of the owners with respect to the vessel itself. They advertised the Caledonia as a passage-ship for New York and Philadelphia, as then lying in Liverpool; and at the same time advertised her in London for the same voyage, as then lying in Bristol; and engaged passengers at all places, but the greater proportion in Liverpool. Having succeeded in obtaining many passengers in Liverpool, it is presumed the owners afterwards found out, that by the act 56 George III. cap 114, the Caledonia being bound to ports within the United States, she was liable
-to the same regulations and restrictions as foreign vessels, and could not take on board a greater number of persons, *including the crew*, than in the proportion of one person for every five tons burthen. The Caledonia being only of the burthen of 336 tons, she could not by this act have taken more than 68 persons, including the crew; and as this would not pay, it is presumed the owners then determined to clear out the vessel for St. John's, which would bring her within
-the provisions of the act of 43d George III. cap. 56, and allow her to take a number of persons, (adults and children) including the crew, in the proportion of one person for every two tons register burthen. By this means the Caledonia would have been entitled to take 118 persons, including the crew, which would of course better meet the avaricious views of the owners. This being determined upon, every exertion was made by James Fitzgerald to induce the Liverpool passengers to, agree that the Caledonia should be cleared out for St. John’s, but in general without effect, though he promised the passengers they should, on the arrival of the vessel at St. John’s, be conveyed from thence at the owners expense to New York and Philadelphia. Had the whole of the Liverpool passengers consented to this proposal, still, from the actual state of the vessel at the time she went into the river Mersey, it never could have been the owners’ intention she should proceed to St. John’s, inasmuch as there was not on board the vessel, any provisions or an adequate quantity of water, a surgeon, a medicine chest, neither was one regulation prescribed by the act 46 George III. complied with on the part of the owners, who must have been aware that a muster roll was necessary, and that a bond was to be given to the King that the Caledonia was sea-worthy, and that the passengers would be duly landed. Independently of all argument, as attempted to be drawn from the state of the vessel, or from the conduct of the owners, it is an absolute duty to the poor distressed passengers to state, that Captain Armstrong has repeatedly declared the Caledonia was to proceed from Liverpool to Bristol, and after taking in the passengers at the latter place, HIS INSTRUCTIONS WERE TO RUN THE VESSEL ON SHORE THE FIRST CONVENIENT OPPORTUNITY, AND THUS GET RID OF THE PASSENGERS AND THE VESSEL AT THE SAME TIME!!! After stating this fact, which will be verified by the oaths of the persons to whom the communication was made, it is presumed all further comment on the character, conduct, or intentions of the owners of the Caledonia, is perfectly unnecessary.
+The Caledonia, by hand-bills, was warranted to sail for New York and Philadelphia, on or about the 10th July last. On the 31st of the same month she proceeded out of the King's Dock, and was brought to anchor in the river, where she was visited by the Collector of the Dock duties, accompanied with a bailiff, who seized the stores to compel payment of the duties claimed for dockage of the vessel. On the 11th of August last, Captain Armstrong entered the vessel at the custom-house, Liverpool, for a voyage to St. John's, New Brunswick. On the 12th, the pilot then on board the vessel in the river was discharged. On the 14th, Captain Armstrong was arrested and taken away from the vessel. On the 18th, the second mate and three seamen left the vessel, there being no provisions on board. On the 26th, the Caledonia experienced some heavy gales of wind, lost both anchors and cables, and was driven down the river nearly to the black rock. At this time there were the chief mate and five seamen on board, the rest of the crew having abandoned the vessel through want of provisions. On this day the Caledonia was run foul of, by one of the packets trading from the Isle of Man, the bowsprit of which vessel pierced the Caledonia's side, which is the damage alluded to by the owners in their appeal to the public. The Caledonia was afterwards got into the Queen's Dock, and lay there without any repair, until the 5th September last, when W. Hingston, the present master, having obtained the register from pawn, took command of the vessel. These particulars are extracted from the log-book, kept by the chief mate during the period he was on board the vessel, and from this evidence it is indisputable, that the Caledonia never was prepared to go to sea on any voyage whatever. When the vessel first went into the river, she had only 20 puncheons of water, 18 bags of biscuit, and a little fresh meat on board; and when these articles were consumed, the crew subsisted on the bounty of those unfortunate passengers who had provided themselves with sea-stores. Independently of this fact, the ship's register was in pledge, and the captain, who had cleared out the vessel, in gaol; and it is therefore the most unparalleled effrontery on the part of the Fitzgeralds, to assert the vessel was prevented from going to sea by damage sustained in the river. This damage was repaired in about nine days after Captain Hingston took the command, but at this moment the Caledonia yet remains in the Queen's Dock. The second plea is, that the vessel could not proceed to sea, several of the passengers not being prepared with certificates to prove they were not mechanics. In answer to this it is necessary to state, that amongst the various stratagems resorted to by James Fitzgerald, when in Liverpool, to procure passengers for the Caledonia, he actually undertook, at his own risk, to get all persons entering on board his vessel cleared out at the custom-house. He stated the Caledonia would proceed from Liverpool to Bristol, where passengers were engaged and then waiting the arrival of the vessel. That all persons whom he could not pass at Liverpool, might proceed with the vessel as passengers for Bristol, and on her arrival there, a list would be made out, including the names of such as had not passed, as having been in fact passed at the custom-house in Liverpool; and there would by that mode be no difficulty whatever, as the vessel would then proceed direct from Bristol to New York and Philadelphia. In point of fact, James Fitzgerald never required any one of the persons entering themselves as passengers to procure certificates, as he guaranteed them from all difficulty on that account, and no delay originating from the want of any such certificates ever took place. Assuming, however, the assertion to be correct, and that several of the passengers could not procure the necessary certificates, yet surely that circumstance ought not to have been pleaded as an excuse for detaining the vessel, the crew, and the majority of the passengers, in the port of Liverpool for upwards of three months, when the remedy was so palpable and easy. Common honesty would have dictated to James Fitzgerald the necessity of returning the passage money received by him to all those passengers whom he knew could not lawfully leave the kingdom, and whose situation or capability of leaving the kingdom could not be mended by delaying the Caledonia. The two pleas set up by James Fitzgerald are not in unison; for if the Caledonia was unable to proceed on her voyage through want of repairs, she could not at the same time be delayed by the want of any documents necessary for the intended passengers; and it cannot be disputed that the owners were always (had they been so inclined) enabled legally to ship more passengers than the vessel was entitled to carry, under the provisions of the act of the 43d George III. cap. 56, or of the act of the 56th George III. cap. 114. But it now appears, it never was the intention of the owners that the Caledonia should proceed on the voyage in question, or at all events further than from Liverpool to Bristol; and this is evident from the conduct of the owners with respect to the vessel itself. They advertised the Caledonia as a passage-ship for New York and Philadelphia, as then lying in Liverpool; and at the same time advertised her in London for the same voyage, as then lying in Bristol; and engaged passengers at all places, but the greater proportion in Liverpool. Having succeeded in obtaining many passengers in Liverpool, it is presumed the owners afterwards found out, that by the act 56 George III. cap 114, the Caledonia being bound to ports within the United States, she was liable to the same regulations and restrictions as foreign vessels, and could not take on board a greater number of persons, *including the crew*, than in the proportion of one person for every five tons burthen. The Caledonia being only of the burthen of 336 tons, she could not by this act have taken more than 68 persons, including the crew; and as this would not pay, it is presumed the owners then determined to clear out the vessel for St. John's, which would bring her within the provisions of the act of 43d George III. cap. 56, and allow her to take a number of persons, (adults and children) including the crew, in the proportion of one person for every two tons register burthen. By this means the Caledonia would have been entitled to take 118 persons, including the crew, which would of course better meet the avaricious views of the owners. This being determined upon, every exertion was made by James Fitzgerald to induce the Liverpool passengers to, agree that the Caledonia should be cleared out for St. John’s, but in general without effect, though he promised the passengers they should, on the arrival of the vessel at St. John’s, be conveyed from thence at the owners expense to New York and Philadelphia. Had the whole of the Liverpool passengers consented to this proposal, still, from the actual state of the vessel at the time she went into the river Mersey, it never could have been the owners’ intention she should proceed to St. John’s, inasmuch as there was not on board the vessel, any provisions or an adequate quantity of water, a surgeon, a medicine chest, neither was one regulation prescribed by the act 46 George III. complied with on the part of the owners, who must have been aware that a muster roll was necessary, and that a bond was to be given to the King that the Caledonia was sea-worthy, and that the passengers would be duly landed. Independently of all argument, as attempted to be drawn from the state of the vessel, or from the conduct of the owners, it is an absolute duty to the poor distressed passengers to state, that Captain Armstrong has repeatedly declared the Caledonia was to proceed from Liverpool to Bristol, and after taking in the passengers at the latter place, HIS INSTRUCTIONS WERE TO RUN THE VESSEL ON SHORE THE FIRST CONVENIENT OPPORTUNITY, AND THUS GET RID OF THE PASSENGERS AND THE VESSEL AT THE SAME TIME!!! After stating this fact, which will be verified by the oaths of the persons to whom the communication was made, it is presumed all further comment on the character, conduct, or intentions of the owners of the Caledonia, is perfectly unnecessary.
 
 By the statute 43 George III. cap. 56. sec. 5. it is enacted, that if any passenger contracting to proceed with a vessel on any voyage, shall signify to a magistrate that he is desirous of being relanded, it shall be lawful for such magistrate to set any such passenger free from his engagement, reserving to either party any *legal* claim which may arise in consequence thereof. It is impossible that the framers of this statute could ever have contemplated such an act of atrocity, as the one now under discussion ; but the evil being now certain, a remedy ought to be applied; and the
 statute should be amended by giving the magistrate full powers not only to rescind the contract, but to exercise summary justice between passengers and owners, or masters of vessels, by enforcing the payment or return of passage-money, before the vessel is permitted to leave the port in which the contract is made.
@@ -456,14 +462,20 @@ LIVERPOOL, 3rd OCTOBER, 1817.
 
 I, the undersigned JOHN MAGEE, do voluntarily make oath and solemnly declare, that I was appointed to be Chief-mate of the barque Caledonia, at Liverpool, on her advertised vovage for Philadelphia and New York; on board of which numerous passengers took their places in July last. The vessel, however, has since remained in Liverpool; and in some conversation I had with the appointed Captain, Thomas Armstrong, he, the Captain, told me, that the person who was actively engaged in shipping passengers, and who is part owner, namely, James Fitzgerald, had proposed to him, the Captain, that he should proceed to sea with the passengers on board, and should sink the vessel; he, the part owner, remarking, that he had effected the insurance for the full value of the vessel. This proposition the Captain had indignantly rejected, assuring the part owner, that he should not make a Captain Codling of him; to which James Fitzgerald replied, that he should no longer command the vessel; and the next day the Captain was taken from the vessel, and lodged in prison for an unjust debt. To this conversation I attest.
 
-$\left.\begin{aligned} \text{\textit{Sworn before me, at Liverpool,}} \\ \text{\textit{this 3d day of October, 1817.}} \end{aligned}\right\$ JOHN MAGEE.  
+*Sworn before me, at Liverpool, this 3d day of October, 1817.  *
+JOHN MAGEE.  
 THO. GOLIGHTLY.
 
-I, JAMES SMITH, do voluntarily make oath and declare, that I was one of those who had taken passage in the above-named vessel, and that I happened to be present at the conversation above described, wherein Captain Armstrong assured myself and John Magee, that he was requested by James Fitzgerald to sink the vessel, as above stated.$\left.\begin{aligned} \text{\textit{Sworn before me, at Liverpool,}} \\ \text{\textit{this 3rd day of October, 1817.}} \end{aligned}\right\}$ JAMES SMITH.  
+I, JAMES SMITH, do voluntarily make oath and declare, that I was one of those who had taken passage in the above-named vessel, and that I happened to be present at the conversation above described, wherein Captain Armstrong assured myself and John Magee, that he was requested by James Fitzgerald to sink the vessel, as above stated.
+
+*Sworn before me, at Liverpool, this 3rd day of October, 1817.*  
+JAMES SMITH.  
 THO. GOLIGHTLY.
 
 I, GEORGE NICHOLSON, do voluntarily make oath, that in consequence of having heard the above deponents describe the conversation here testified, I applied to Captain Armstrong to ascertain the fact, when he confirmed the statement to me in all its parts.  
-GEO. NICHOLSON.$\left.\begin{aligned} \text{\textit{Sworn before me, at Liverpool,}} \\ \text{\textit{this 3rd day of October, 1817.}} \end{aligned}\right\}$ 
+GEO. NICHOLSON.
+
+*Sworn before me, at Liverpool, this 3rd day of October, 1817. * 
 THO. GOLIGHTLY.
 
 To the EDITORS of the Liverpool Mercury.  
@@ -474,7 +486,7 @@ THOS. ARMSTRONG. *Liverpool, Oct. 8, 1817.*
 
 ```
 
-TO DO
+In the same edition, the editor remarked on similar behaaviour from unscupulous ship owners operating on the other side of the Atlantic.
 
 ```{admonition} Inhuman and iniquitous traffic, Octovber 1812
 :class: dropdown
@@ -487,7 +499,7 @@ A perusal of the following paragraph `??` reminded us of the conduct of the Fitz
 Recent Philadelphia papers state, that of that of 100 passengers in the ship Hope, who arrived at the Lazaretto, 70 had died in consequence of their sufferings, from the want of proper provisions for their voyage, ard that ane hundred and twenty are now lying in a desperate condition. A large number perished at sea. A specimen of the bread on which the survivors subsisted has been exhibited at the office the *True American*. We think the conduct of the master and owners of the vessel should be investigated by the Civil Authority. If it should appear that these miserable wretches were received on board a vessel not furnished with sufficient and wholesomne food for the voyage, we have no doubt that it would be sufficient ground both for civil suits and a criminal prosecution. The inhuman practice of inveigling ignorant foreigners on ship-board, stowing them in bulk without regard to their health and comfort, and then selling them to service on their arrival in this country, to pay for their passage, is not a whit above the Slave Trade, in honour or honesty. We wish to see some effectual measures taken to put a stop to this disgraceful and iniquitous traffic.
 ```
 
-TO DO
+Reports were also circulating regarding a possible fraud, and the plan to deliberately wreck the Caledonia.
 
 ```{admonition} An affidavit regarding fraud, October 1817
 :class: dropdown
@@ -497,9 +509,7 @@ In *Leeds Mercury*, [Saturday 11 October 1817](https://britishnewspaperarchive.c
 An affidavit has been published in the Liverpool Mercury, of John Magee, Chief mate of the Barque Caledonia, in which he states, that Thomas Armstrong, the Captain of the vessel had informed him that James Fitzgerald had proposed to him to go to sea with the passengers on board, and sink the vessel, remarking that he had effected the full insurance of the vessel.
 ```
 
-
-TO DO
-
+The *Liverpool Mercury* picked up on the claims.
 
 ```{admonition} Another case of treachery, October 1817
 :class: dropdown
@@ -516,9 +526,7 @@ The Lord Mayor said, the whole business was evidently a fraud from beginning to 
 
 ```
 
-
-TO DO
-
+The master of the vessel, Thomas Armstrong, also sought to plead his case.
 
 ```{admonition} From my embarrassed situation, November 1817
 :class: dropdown
@@ -531,9 +539,9 @@ Liverpool, 21st Oct 1817.
 
 Sir, 
 
-Were it not for your friendly and generous conduct to me, (an utter stranger till lately) on all occasions where I wanted advice and assistance, I can scarcely bring myself to open to you my truly embarrassed situation; which, unfortunatly commenced with my connexion with the Fitzgerald's, owners of the ship Caledonia, and which was but of a few weeks' standing, and that in this town; had I not taken the opportunity, through your respectable paper, to vindicate my innocence to the world, in the infamois affair of James Fitzgerald, against an unoffending set of victims, which, as soon as I perceived it, not only informed my mate but all the passengers, and instantly left the ship; had I joined him in all his nefarious proceedings and gone hand in hand with him, I would not this day have to say that instead of being reduced to the utmost distress, I could have in my pocket the wages of infamy, but was obliged to sell for my present support all the portable articles belonging to me, such as my Sextant, Quadrant, Books, Clothes, &c. nor would I have to say that it is for want of means I do now proceed for the recovery of my just and lawful wages incurred during the short time I was in this service; and give me, therefore, Sir, leave to assure you, and that from the bottom of my heart, it will be doing an act of the greatest kindness, in addition to my former obligations to you, to introduce me to the employment of some respectable merchant of this town. I herewith take liberty to hand the certificate of Mr. Grant, my late employer, a London Gentleman, who was in town about three weeks ago, with whom, it is a gratifying consolation to me, that my character stands unimpeached, and to whose goodness I am truly indebted for the flattering manner he interested himself for me, in this town, with the houses of Messrs. Staniforth and Laird, and Wm. Jones and Co. to whom, if necessary, I can refer for the truth of the certificate.
+Were it not for your friendly and generous conduct to me, (an utter stranger till lately) on all occasions where I wanted advice and assistance, I can scarcely bring myself to open to you my truly embarrassed situation; which, unfortunatly commenced with my connexion with the Fitzgerald's, owners of the ship Caledonia, and which was but of a few weeks' standing, and that in this town; had I not taken the opportunity, through your respectable paper, to vindicate my innocence to the world, in the infamous affair of James Fitzgerald, against an unoffending set of victims, which, as soon as I perceived it, not only informed my mate but all the passengers, and instantly left the ship; had I joined him in all his nefarious proceedings and gone hand in hand with him, I would not this day have to say that instead of being reduced to the utmost distress, I could have in my pocket the wages of infamy, but was obliged to sell for my present support all the portable articles belonging to me, such as my Sextant, Quadrant, Books, Clothes, &c. nor would I have to say that it is for want of means I do now proceed for the recovery of my just and lawful wages incurred during the short time I was in this service; and give me, therefore, Sir, leave to assure you, and that from the bottom of my heart, it will be doing an act of the greatest kindness, in addition to my former obligations to you, to introduce me to the employment of some respectable merchant of this town. I herewith take liberty to hand the certificate of Mr. Grant, my late employer, a London Gentleman, who was in town about three weeks ago, with whom, it is a gratifying consolation to me, that my character stands unimpeached, and to whose goodness I am truly indebted for the flattering manner he interested himself for me, in this town, with the houses of Messrs. Staniforth and Laird, and Wm. Jones and Co. to whom, if necessary, I can refer for the truth of the certificate.
 
-It may not be amiss to trouble you with one observation more. Before I was employed by Mr. Grant, I had been well accustomed to East India voyages, and perfectly acquanted with Lunar Observatiopns; I was also a considerable time an Officer in the Navy.
+It may not be amiss to trouble you with one observation more. Before I was employed by Mr. Grant, I had been well accustomed to East India voyages, and perfectly acquanted with Lunar Observations; I was also a considerable time an Officer in the Navy.
 
 I am sir,  
 Your most truly obliged and humble servant,  
@@ -545,9 +553,7 @@ These are to certify, that Captain Thomas Armstrong, commanded, in my employment
 Liverpool, November 17, 1817.
 ```
 
-
-TO DO
-
+When the Caledonia eventually set sail, comment was quick to follow.
 
 ```{admonition} There must be some remedy, April 1818
 :class: dropdown
@@ -558,9 +564,7 @@ VERAX, Liverpool, 7th April, 1818.
 
 ```
 
-
-TO DO
-
+A public appeal was also made on behalf of one of the original unfortunate passengers.
 
 ```{admonition} An Appeal to Families Going Out to America, April 1818
 :class: dropdown
@@ -573,7 +577,7 @@ PARTICULARLY TO FAMILIES GOING OUT TO AMERICA
 
 We have frequently brought before the public eye the iniquitous conduct of the owner of the barque Caledonia, who, after defrauding a great number of poor people out of their passage money, and reducing them to beggary, has contrived to get the vessel off at length, as stated in our last. Upon a former occasion, we published some affidavits, to show that there was a deliberate design formed to sink the vessel at sea; and it is a curious fact, that she was lost soon after leaving this port.— Upon this singular circumstance, it is not our present business to enlarge. Our object is, to evdeavour to serve one of the many sufferers by the unprincipled conduct of the parties alluded to.
 
-There is now in this town, a woman, who, with her husband, had taken their passages to America in the Caledonia. In consequence of the swindling proceedings which we have so often exposed, the husband was obliged to proceed singly, in another vessel; and his wife has recently arrived here from Birmingham, with the intention of following him. Her money has been exhausted and she would have been reduced to the greatest misery, had not the mayor, to whom we gave her a letter, very humanely afforded her sone tenporary relief. She is very anxious to go abroad with some family as servant; and will do her utmost to make herslf useful. She is a very decent respectable looking female; and any person who either from a benevolent feelng, or views of convenience, would wish to have an interview with her, may find her by enquiring for Amelia Owens, No. 20, Bachelor-street, or at the Mercury Office. 
+There is now in this town, a woman, who, with her husband, had taken their passages to America in the Caledonia. In consequence of the swindling proceedings which we have so often exposed, the husband was obliged to proceed singly, in another vessel; and his wife has recently arrived here from Birmingham, with the intention of following him. Her money has been exhausted and she would have been reduced to the greatest misery, had not the mayor, to whom we gave her a letter, very humanely afforded her some temporary relief. She is very anxious to go abroad with some family as servant; and will do her utmost to make herslf useful. She is a very decent respectable looking female; and any person who either from a benevolent feeling, or views of convenience, would wish to have an interview with her, may find her by enquiring for Amelia Owens, No. 20, Bachelor-street, or at the Mercury Office. 
 
 ```
 
@@ -601,12 +605,12 @@ We did not expect to have been under the necessity of returning once more to thi
 A month or so before, the ship *Grace* had left the River Thames, and anchored at the Downs, just of Deal, between Ramsgate and Folkestone, not far from Canterbury.
 On board were men who would fight as mercenaries in the South American Patriot war for the local "patriots" and against the governing Spanish forces.
 
-```{admonition} TO DO
+```{admonition} The Arrival of the Ship 'Grace', November 1817
 :class: dropdown
 
 In *Royal Cornwall Gazette*, Saturday 15 November 1817](https://britishnewspaperarchive.co.uk/viewer/bl/0000177/18171115/020/0004)
 
-The ship Grace, on board of which are a number of officers oo the half-pay of the British army, arrived ou Thursday in the Downs from the River, destined it is said, for South America: the officers being engaged in the service of the Spanish insurgents. 
+The ship Grace, on board of which are a number of officers on the half-pay of the British army, arrived ou Thursday in the Downs from the River, destined it is said, for South America: the officers being engaged in the service of the Spanish insurgents. 
 ```
 
 Her destination, St Thomas in the Virgin Islands, was a neutral staging post for many of the volunteers making their way to South America.
@@ -679,39 +683,19 @@ There were, besides myself, nine commissioned officers on board, viz., Colonel G
 
 This then provides a picture of what may have motivated the adventurers to set sail for South America, and something of what life on board ship may have been like.
 
+A second work, published a year later by C. Brown, would also describe what happened to the volunteers, and the extent to which is di, or *did not*, meet with their expectations.
 
-TO DO - another narrative
-https://upload.wikimedia.org/wikipedia/commons/b/b9/Narrative_of_the_Expedition_to_South_America%2C_which_sailed_from_England_at_the_close_of_1817%2C_for_the_Service_of_the_Spanish_Patriots_%28IA_dli.granth.18121%29.pdf
+```{admonition} An Expedition in Support of the Spanish Patriots, C. Brown, 1819
+:class: dropdown
+
+C. Brown, *Narrative of the Expedition to South America which Sailed from England at the Close of 1817, for the Service of the Spanish Patriots*, [1819](https://upload.wikimedia.org/wikipedia/commons/b/b9/Narrative_of_the_Expedition_to_South_America%2C_which_sailed_from_England_at_the_close_of_1817%2C_for_the_Service_of_the_Spanish_Patriots_%28IA_dli.granth.18121%29.pdf).
+
+In offering this Work to the Public, the Author has to observe, that his object has been to relate a plain Narrative of Facts, for the consideration of all who are interested in the affairs of Spanish America, and for the particular information of those who may have conceived the intention of joining the standard of the Independents. He feels it a duty which he owes to his Countrymen, to exert his humble efforts for the purpose of preventing them, by all the means in his power, from precipitating themselves into that misery from which, after a tedious period of sufferings, he has succeeded in extricating himself. Such being his motives to the composition of this Narrative, he trusts that it will meet with lenient criticism.
+
 NARRATIVE
-OF THE EXPEDITION TO SOUTH AMERICA WHICH SAILED FROM ENGLAND
-AT THE CLOSE OF 1817, FOR THE
-SERVICE OF THE SPANISH PATRIOTS, C. BROWN, 1819
 
-IN offering this Work to the Public, the
-tuthor has to observe, that his object has
-been to 'relate a plain Narrative of Facts, for
-the consideration of all who are interested in
-. the affiars of Spanish America, and for the
-particular information of those who may have
-conceived the intention of joining the standard
-of the Independents. He feels it a duty which
-he owes to his Countrymen, to exert his humble efforts for the purpose of preventing them,
-by all the means in his power, from precipitating themselves into that miseiy from which,
-aaer a tedious period of sufferings, he has
-succeeded in extricating himself. Such being
-his motives to the composition of this Narrative, he trusts that it will meet with lenient
-criticism.
-
-BEING in London in the month of July,
-1817, and *ring of the liberal offers held
-out to young men whose enthusiasm or necessities might tempt them to join the standard
-of Liberty then unfurled in the plains of the
-Nevi World, in an unlucky hour I resolved to
-contribute my feeble efforts towards the
-emancipation of an oppressed, and, as I then
-imagined, a deserving people. I had the
-good fortune to meet with a IiiTy able British
-9fficer,,,who was then exerting himself in forming a brigade of foot artillerf
+BEING in London in the month of July, 1817, and hearring of the liberal offers held out to young men whose enthusiasm or necessities might tempt them to join the standard of Liberty then unfurled in the plains of the New World, in an unlucky hour I resolved to contribute my feeble efforts towards the emancipation of an oppressed, and, as I then imagined, a deserving people. I had the good fortune to meet with a very able British Officer, who was then exerting himself in forming a brigade of foot artillery, ...
+```
 
 ## The Duel
 
@@ -789,7 +773,7 @@ In *Military Register*, [Wednesday 21 January 1818](https://britishnewspaperarch
 Major Lockyer and the other Officers, who had engageed their passage in the above ship, and were subsequently concerned in a Duel, at with Cowes, with Lieut. S. Cochrane, it has been ascertained, sailed for South America in a brig, a few days after fhe fatal event took place. 
 ```
 
-But that report, it seems, must have been incorredt, because Major Lockyer was apprehended in Portsea, even as the *Grace* set sail, albeit under unusal circumstances.
+But that report, it seems, must have been incorrect, because Major Lockyer was apprehended in Portsea, even as the *Grace* set sail, albeit under unusal circumstances.
 
 ```{admonition} Duellist apprehended, February 1818
 :class: dropdown
@@ -797,7 +781,7 @@ In *Hampshire Chronicle*, [Monday 09 February 1818](https://britishnewspaperarch
 
 Major Lockyer, who shot Mr. S. Cochrane in duel a few weeks ago in the Isle of Wight, was apprehended, on Wednesday last, by Webber and another, constables, at a small public-house. Called the Waterman's Arms, in Hawk Street, Portsea, where, it appears, he had been staying ever since the unfortunate circumstance occurred. He was taken to Newport, in the Isle of Wight, on Thursday, for the purpose of being committed to Winchester Gaol to take his trial at the next Assizes.
 
-Yesterday morning a ship called the Grace, lying at St. Helen's, with a number of adventurers on board for South America, in the absence of the Master, who was on shore with one of the passengers procuring necessaries for the voyage, was taken possession of, the passengers remaining on board, who, availing themselves of a favourable wind, turned the pilot out of the ship, and proceeded to sea.
+Yesterday morning a ship called the Grace, lying at St. Helen's, with a number of adventurers on board for South America, in the absence of the Master, who was on shore with one of the passengers procuring necessaries for the voyage, was taken possession of the passengers remaining on board, who, availing themselves of a favourable wind, turned the pilot out of the ship, and proceeded to sea.
 ```
 
 Lockyer was charged before the Assizes at Winchester, and the events of the previous December recalled.
@@ -806,7 +790,7 @@ Lockyer was charged before the Assizes at Winchester, and the events of the prev
 :class: dropdown
 In *Cambridge Chronicle and Journal*, [Friday 13 March 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000420/18180313/004/0002).
 
-Winchester Assizes.— *Orlando Lockyer* and *Robert Hand*, charged with the murder of John Sutton, at Northwood, in the Isle of Wight. John Holding, a surgeon, was going to South America with the prisoners on the ship Grace. On the 9th of December he was with them at the Dolphin inn, West Cowes; they sat together for two hours, when Sutten `(sic)` remarked, that all the company were in debt. Major Lockyer replied, "Do you mean to say that I am in debt?" Sutton said, he did. Major Lockyer answered, "Whoever is in debt, I am not." Sutton replied, "We are in debt to our Creator." Major Lockyer left the room, and messages passed between them and a Mr. Redesdale, another passenger. Sutton said, if he (Major Lockyer) called him out, he would meet him. Next morning they met to settle the dispute by fighting a duel. Hand and. Redesdale measured the ground. Hand called Sutton and gave him a pistol, when he and Major Lockyer took their ground. Major Lockyer fired, and Sutton clapped his hand on his breast, staggered forward two or three paces and held out his hand; Major Lockyer advanced and took it. He immediately fell, and the prisoners ran away. Sutton soon after expired, Mr. Fitzgerald (brother to the owner of the vessel) deposed, that Hand seriously pressed Sutton to settle the affair, when they were going to the field; all was said that could be said to induce him to make concession for the words he had used, and not fight: this admonition he repeated several times. Several other witnesses were examined, but their testimony added no new fact to those already known. Major Lockyer and Mr. Hand both read along and very able defence. The judge, in summing up the evidence, told the jury they must not listen to the appeals from the prisoners, nor let any reports or statements before known to them prejudice the case—they must judge according to the evidence then given.. Verdict—Manslaughter.—Three months' imprisonment each.
+Winchester Assizes.— *Orlando Lockyer* and *Robert Hand*, charged with the murder of John Sutton, at Northwood, in the Isle of Wight. John Holding, a surgeon, was going to South America with the prisoners on the ship Grace. On the 9th of December he was with them at the Dolphin inn, West Cowes; they sat together for two hours, when Sutten `(sic)` remarked, that all the company were in debt. Major Lockyer replied, "Do you mean to say that I am in debt?" Sutton said, he did. Major Lockyer answered, "Whoever is in debt, I am not." Sutton replied, "We are in debt to our Creator." Major Lockyer left the room, and messages passed between them and a Mr. Redesdale, another passenger. Sutton said, if he (Major Lockyer) called him out, he would meet him. Next morning they met to settle the dispute by fighting a duel. Hand and. Redesdale measured the ground. Hand called Sutton and gave him a pistol, when he and Major Lockyer took their ground. Major Lockyer fired, and Sutton clapped his hand on his breast, staggered forward two or three paces and held out his hand; Major Lockyer advanced and took it. He immediately fell, and the prisoners ran away. Sutton soon after expired, Mr. Fitzgerald (brother to the owner of the vessel) deposed, that Hand seriously pressed Sutton to settle the affair, when they were going to the field; all was said that could be said to induce him to make concession for the words he had used, and not fight: this admonition he repeated several times. Several other witnesses were examined, but their testimony added no new fact to those already known. Major Lockyer and Mr. Hand both read along and very able defence. The judge, in summing up the evidence, told the jury they must not listen to the appeals from the prisoners, nor let any reports or statements before known to them prejudice the case—they must judge according to the evidence then given. Verdict—Manslaughter.—Three months' imprisonment each.
 ```
 
 ```{admonition} The trial excited much interest, March 1818
@@ -852,7 +836,7 @@ DUEL.—APPREHENSION OF MAJOR LOCKYER.— Extract of a letter, dated Newport, Is
 
 He would, however, not return.
 
-```{admonition} Victom to the climate. October 1819
+```{admonition} Victim to the climate, October 1819
 :class: dropdown
 In *Morning Herald (London)*, [Monday 18 October 1819](https://britishnewspaperarchive.co.uk/viewer/bl/0002408/18191018/016/0003)
 
