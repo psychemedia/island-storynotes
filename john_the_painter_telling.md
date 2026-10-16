@@ -70,3 +70,9 @@ Went into the room that was usually let for an hour, and closed the door behind 
 The landlord offered on of his regular customers the room for an hour, and more, if he needed it, free of charge. When he still hadn't come down even after a couple of hours, the landlord knew the ghost had gone. Poured old Tom a pint. Asked him what pie he'd like.
 
 For as long as that ghost stayed away, Tom continued to be paid in pints and pies, no longer needing to make coin selling fair winds to the sailors. But it wasn't long before either the pints or the pies got him, and he went to meet his maker. As to what happened to that last stoppered bottle, the story doesn't say. But it does tell that in the months and years after his death, the ghost of Old Tom could still be seen, clay china pipe in his mouth and a stoppered bottle in his pocket, sitting in the corner, just round from the fire. And every so often he'd take the bottle out of his pocket, hold it up to the light, and smile.
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [Hanged at the Hard: The Tale of John the Painter (Solent Tales)](https://www.amazon.co.uk/gp/product/B0H8PDKJKP)
+```
