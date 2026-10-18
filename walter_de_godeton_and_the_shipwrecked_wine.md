@@ -47,3 +47,9 @@ If you are fortunate enough to ever walk up there, you can look down onto the le
 And de Gotten's ancestral home: that exists still, too, as Gotten Manor. It's a B&B now. Tell them I sent you.
 
 Cheers...
+
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [The Story of the Pepperpot: A Tale of the Isle of Wight (Island Tales)](https://www.amazon.co.uk/gp/product/B0H2RHPLKQ)
+```
