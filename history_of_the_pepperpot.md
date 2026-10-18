@@ -95,6 +95,12 @@ The Chine we lately described, is a fissure in the south side of this stupendous
 
 ```
 
+```{admonition} Buy the Storynotes booklet
+:class: seealso
+
+By a copy of the print booklet or ebook — [The Story of the Pepperpot: A Tale of the Isle of Wight (Island Tales)](https://www.amazon.co.uk/gp/product/B0H2RHPLKQ)
+```
+
 ## The Pepperpot Legend
 
 On the Sunday after Easter, 1313, the Saint Mary, of Bayonne, went down on Atherfield Ledge in Chale Bay. Carrying 174 tuns [large casks, each containing approximately 252 gallons] of white wine from France, the majority of the crew survived, and many of the barrels were washed ashore.
