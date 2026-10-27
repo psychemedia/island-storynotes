@@ -176,9 +176,9 @@ So here it is...
 
 It was a dark night, a windy night, with just enough moonlight to see the ribbon of the road snaking across the moor, an ancient highway dotted with roadside inns, the service stations of their day, places to eat, places to drink, and places to stable your horse if you wanted to stay the night.
 
-Approaching the site of those inns, a highwayman comes riding, a gun at his side, and a sword on his belt.
+Approaching the site of those inns, a highwayman comes riding, a gun at his side, a sword on his belt.
 
-There's a clatter of horse's hooves as he crosses the cobbled courtyard and approaches the inn. But he doesn't enter: the door's locked for the night, and the windows are shuttered.
+There's a clatter of horse's hooves as he crosses the cobbled courtyard and approaches the inn. But he doesn't enter: the door's locked for the night, the windows shuttered.
 
 He taps with his whip on the shutters, softly whistles a tune. A light goes on in an upstairs window. It's Bess, the raven haired landlord's daughter, who's been waiting for his signal.
 
@@ -192,11 +192,11 @@ From the corner of the yard, from the stable in the corner there, Tim the ostler
 
 That kiss should be his to give, her kiss should be his to receive. He paces the stable. "If I'm not back before the dawn, watch for me at midnight..." His eyes take on the maddened stare of a panicked horse, and he knows what he must do... Quietly, he crosses the cobbled yard and makes his way into the night.
 
-Dawn approaches, and young Bess again waits by the window. At noon, she looks out from the yard; for now she must wait till midnight again to see her lover again.
+Dawn approaches, and young Bess again waits by the window. At noon, she looks out from the yard; for now she must wait till midnight to see her lover again.
 
-The sun begins to set, and a red ribbon snakes its way across the moor towards the inn. A red-coated troop of the King's men, marching across the moor.
+The sun begins to set, and a red ribbon snakes its way across the moor. A red-coated troop of the King's men, marching towards the inn.
 
-They enter the inn, say nothing to the landlord, but accept his ale nevertheless. Then they force his daughter upstairs to her room, gag her, bind her, her hands behind her back, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and caress her hair. "A pretty one, this..."
+They enter, saying nothing to the landlord, but accepting his ale nevertheless. Then they force his daughter upstairs to her room, gag her, bind her, her hands behind her back, sit her at the end of the bed, looking out to the moor from the window. A gun to her breast, and another at a her back. Bess looks out over the moor as the soldiers mock her and taunt her, stroke her cheek and caress her hair. "A pretty one, this..."
 
 "Look for me by moonlight; watch for me by moonlight; I'll come to thee by moonlight, though hell should bar the way!" And she knew what she must do.
 
