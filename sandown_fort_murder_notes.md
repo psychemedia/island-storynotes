@@ -7,7 +7,7 @@ Sergeant William Henry Whitworth [rumoured not actually a sergeant]
 
 Names are confused in some or reporting - Molly and Ellen, based on what Daish said he'd heard Whitworth call the children; or misremembered eldest for youngest;
 
-(From wedding and baptismal papers in house) wife Martha (née Beach) 6 children (3 boys, 3 girls) : Mary Ann (Molly, ~12), Elizabeth, (Lizzie, >9), Ellen (~4), Frederick (Freddy, <6), William (Willie, ~2-3), and Robert (Bobby) (+ another, ?, living away from home); family seemed "united and affectionate"; others in fort thought 7, one child lived away, but no evidence of that;
+(From wedding and baptismal papers in house) wife Martha (née Beach) 6 children (3 boys, 3 girls): Mary Ann (Molly, ~12), Elizabeth, (Lizzie, >9), Ellen (~4), Frederick (Freddy, <6), William (Willie, ~2-3), and Robert (Bobby) (+ another, ?, living away from home); family seemed "united and affectionate"; others in fort thought 7, one child lived away, but no evidence of that;
 
 - Sandown a romantic village and holiday destination, craggy undercliff, and summer glories
 - Coast Brigade of Royal Artillery, stationed at Sandown Fort, Isle of Wight; master-gunner in charge of the Fort since July 1859; aged about 35; of Leeds;
@@ -41,7 +41,7 @@ Scene of crime:
 - similar marks on stairs
 - bedroom dark, windows closed, shutters covering them; right hand shutter open about six inches;
 - a pencil on the mantle-shelf, two prayer-books, other little family articles
-- old sword (long naval cutlass) lying on floor in middle of room among blood soaked papers, blood spotted but didn't look to have been used; also an open, white handled razor (edge was turned as if it had come in contact with something hard), covered with blood, 18"/2' from Mrs Whitworth's bed, opp. her head; some items of childrens' clothing
+- on the floor: an overturned bedchamber candlestick, old sword (long naval cutlass) lying on floor in middle of room among blood soaked papers, blood spotted but didn't look to have been used; also an open, white handled razor (edge was turned as if it had come in contact with something hard), covered with blood, 18"/2' from Mrs Whitworth's bed, opp. her head; some items of childrens' clothing
 - one of the papers, written in lead pencil, in Whitworth's hand "Some plot."—Sandown Fort, 1860, 17 May. Sergeant Whitworth and his wife and six children murdered." also mentioning several officers as "rascals under cloaks as friends". Another, dated 13 May, to Captain Rogan, RA, signed by Whitworth, respectfully requesting, given a notice he'd received about being removed from Sandown Fort next month, that his application to remain  at Sandown till expiration of time for pension (~9 months) be forwarded to authorities.
 - terrible scene in bedroom; blood all over floor, wall, bed post, large spot on window sill, blood soaked into beds; two beds, six bodies, three on each bed; all covered up, and appeared to have been murdered without being disturbed, bodies laying rather than thrown onto beds; bed clothes disordered, partly on floor; several keys, a large one and small ones attached (one of them rumoured to be the key of the magazine)
 - all family except mother in night clothes, five of children wearing socks; opinion was unsuspecting children slumbering sleep of confiding innocence when deed was done; no appearance of struggling.
@@ -89,7 +89,7 @@ Burial
 -a few condemnatory remarks from an individual present shouted ou, so indecorous, and out of place, Vicar prudently declined to enter into any discussion or controversy
 - Mr. Beresford, an Independent minister, addressed the crowd from steps of the Old Town Hall in the market-place,
 - a penny subscription suggested for erecting a memorial
-- one correspondent to Isle of Wight Observer (in original incarnation, launched in 1845/5 for 30 issues, folded, relaunched in 1852 and ran till 1922), was unsympathetic to idea of a monument, seeing it as "a bloody leaf added to the hitherto unsullied history of our Island"; "why disturb the holy feelings which occupy the mind of a visitor when near the grave of "Jane, the Young Cottager,'" [Little Jane, of Annals of the Poor]. But the editor, and other correspondents, were firmly in facvour of the idea, one even trying to get the bodies exhumed so they could be re-interred in a more fitting way.
+- one correspondent to Isle of Wight Observer (in original incarnation, launched in 1845/5 for 30 issues, folded, relaunched in 1852 and ran till 1922), was unsympathetic to idea of a monument, seeing it as "a bloody leaf added to the hitherto unsullied history of our Island"; "why disturb the holy feelings which occupy the mind of a visitor when near the grave of "Jane, the Young Cottager,'" [Little Jane, of Annals of the Poor]. But the editor, and other correspondents, were firmly in favour of the idea, one even trying to get the bodies exhumed so they could be re-interred in a more fitting way.
 
 John Daish
 
@@ -170,6 +170,20 @@ Robert Henry Leeson, Esq.
 
 James Edson (Easton?), P.C. No. 38
 
-- on duty in sandown, Frida; at half-past 2, heard of occurrence; went to fort and Daish gave him key to house;
+- on duty in sandown, Friday; at half-past 2, heard of occurrence; went to fort and Daish gave him key to house;
 - took possession of sword and razor, and keys on floor;
 - had never seen Whitworth outside fort at night
+
+
+Winchester Summer Assizes, July 17
+
+- *William Henry Whitworth*, a soldier, aged 39, was indicted for the wilful murder of Martha, his wife, and Frederick, William, Robert, Mary Ann, Elizabeth, and Ellen Whitworth, his six children, at Sandown, in the parish of Brading, Isle of Wight.
+- Mr. W. M. Cooke for the prosecution; Mr. Cole for the defence
+- stared vacantly about the court, muttered some incoherent sentences, and was apparently eating something; tall man, much greater apparent age than described, very grey. Wild and vacant look; necessary he was closely guarded. 
+- Judge: Do you consider him in a fit state to understand the pleadings to an indictment? Dr. Lyford: Decidedly not, my lord. His Lordship: Then I will impannel a jury to try that question.
+- jury empanelled to try question whether prisoner could understand pleadings to an indictment;
+- Dr. Lyford, surgeon to county gaol at Winchester: prisoner in his charge from time he entered gaol till present; daily and constant attendance since prisoner admitted in May; prisoner's mental powers almost extinct, arising from softening of brain, disease going on for some time, damage probably permanent; confident opinion man was insane; "The mind is at the present moment almost in a state of extinction of the mental faculties."
+- The effect of your finding that he is unable to plead, on the ground of insanity or aberration of mind, or a deficiency of mental intelligence, will be that he will be ordered to be confined during Her Majesty's pleasure, in order to see what the result will be. He will not, of course, as you may suppose, be allowed to go at large, for his doing so would be extremely dangerous. He will remain in safe custody during Her Majesty's pleasure, and be properly treated for the disease under which he labours.
+- Whitworth placed his arm around neck of turnkey guarding him, smiled at and pointed to his lordship, appeared to be much amused at the appearance of the court. His Lordship: "He clearly would not know the difference between guilty, and not guilty." Dr. Lyford: I do not believe he would, my lord.
+- jury found prisoner was unable to plead.
+- gaoler motioned to prisoner to leave bar; appeared unable to comprehend meaning; eventually led away by arm, exclaimed loudly, "Gracious God, look down upon you all, miserable sinners."
