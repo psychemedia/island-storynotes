@@ -568,7 +568,7 @@ LONDON:
 
 Printed for E. RICH, opposite Anderton's Coffee-House, Fleet-street, and sold by the Booksellers at the Royal-Exchange.
 
-[ Price six-Pence ]
+[Price six-Pence]
 
 GENUINE MEMOIRs OF JOHN GRAHAM, A.M.
 
