@@ -10,7 +10,7 @@ Names are confused in some or reporting - Molly and Ellen, based on what Daish s
 (From wedding and baptismal papers in house) wife Martha (née Beach) 6 children (3 boys, 3 girls): Mary Ann (Molly, ~12), Elizabeth, (Lizzie, >9), Ellen (~4), Frederick (Freddy, <6), William (Willie, ~2-3), and Robert (Bobby) (+ another, ?, living away from home); family seemed "united and affectionate"; others in fort thought 7, one child lived away, but no evidence of that;
 
 - Sandown a romantic village and holiday destination, craggy undercliff, and summer glories
-- Coast Brigade of Royal Artillery, stationed at Sandown Fort, Isle of Wight; master-gunner in charge of the Fort since July 1859; aged about 35; of Leeds;
+- Coast Brigade of Royal Artillery, stationed at Sandown Fort, Isle of Wight; master-gunner in charge of the Fort since July 1859; aged about 39; of Leeds;
 - principal duties of light nature, connected with stores, perhaps as a sop to previous good conduct and useful service;
 - house situated in precinct of fort; said to have seen hard service abroad, where wounded in head; actions at Sandown were quiet and reserved; with wife, "kept themselves to themselves", averse to gossip; perfectly harmless and peaceable family; among colleagues, Whitworth regarded as being an "odd man" (and maybe not particularly liked); appeared to have grudge against certain class of engineer officer, on one occasion telling captain he had s/thing on them in form of forged letters in his possession, which captain ignored on basis all old soldiers grumbled about their superiors.
 - small fort, home to Isle of Wight Artillery; in a field somewhat near the sea-shore, reached by a left hand turning  deviating from Ventnor high road (from Brading/Ryde, presumably); moat bridge approach to fort, then gate leading to moderate-sized court; humble dwelling-houses to right and left for NCOs and their families; officers quarters facing the gate;
@@ -37,7 +37,8 @@ Scene of crime:
 - [after murders attempted to cut his own throat; ]
 - Whitworth immediately taken into custody; likely to recover; supposed insane; gave one of sergeants of fort a letter from himself to adjutant (letter requested he could stay at fort till he reached pension time); couldn't give ages of children, claiming eldest girl is 12 yrs, youngest about 12 months, intervening children about two years one from other.
 - rumours flew from town to town, from village to village, from house to house, and from lip to lip; no-one believed it at first
-- Daish went into the house; downstairs kitchen floor covered with bloodstains and bloody footprints, two sizes being visible: a full-grown adult (naked feet, slight proturberance (Whitworth had a bunion and protuberances of unnatural appearance on feet which matched), and a child, about 10/11 yrs; latch of the front door secured by a piece of wood being inserted above it (??); official papers strewn about the place, covered with blood stains; also adult footrpints with socks, webbed pattern, in kitchen and on stairs, so he had socks on at one point).
+-  On opening the door of the house the appearance of the dresser, with the crockery, &c., upon it, with the pans and pails, &c., show it to have been the living room. In front of the fireplace stood two chairs, on which were hung two printed children's frocks which had been placed there to dry. A staircase to the right of this room led to a bedroom, in which was a bedstead with bedding on it, but no clothing, and nothing disturbed beyond the absence of the clothing from the bed, the bedding being perfectly even  On the stairs, however, were two or three spots of blood. At the foot of this staircase, at a distance of about six feet, another door led into a room on the ground-floor, which had been used as an office by Whitworth, his letter-book lying on the table, with a number of official forms and envelopes. 
+- Daish went into the house; downstairs kitchen floor covered with bloodstains and bloody footprints, two sizes being visible: a full-grown adult (naked feet, slight protuberance (Whitworth had a bunion and protuberances of unnatural appearance on feet which matched), and a child, about 10/11 yrs; latch of the front door secured by a piece of wood being inserted above it (??); official papers strewn about the place, covered with blood stains; also adult footprints with socks, webbed pattern, in kitchen and on stairs, so he had socks on at one point).
 - similar marks on stairs
 - bedroom dark, windows closed, shutters covering them; right hand shutter open about six inches;
 - a pencil on the mantle-shelf, two prayer-books, other little family articles
@@ -56,10 +57,12 @@ Rumours
 
 - planned to blow up the magazine *based on keys (to magazine?) being found in room with bodies, and powder in magazine was all piled together in centre
 - two of the bodies had been run through with the sword (letter to newspaper called that out why there hadn't been a post mortem that could have ruled on such a rumour)
-- how could no-one have heard? No cries for health; clresr that at least one child had run downstairs, and rumours of a second pair of child footprints at bottom of stairs;
+- how could no-one have heard? No cries for health; clear that at least one child had run downstairs, and rumours of a second pair of child footprints at bottom of stairs;
 - and what was with a servant having the keys to the fort after dark, and opening the gate to anyone who just kicked at the door. And how did a maniac come to have the key to the magazine?
 - rumour that the eldest girl had said to someone in the village that she was too scared to go home but the witness to that had not been produced; other rumours regarding other remarks by children for some days previous to murder
 - (later report) A wedged piece of wood found in house, used to secure the door, and (rumour) in all probability prevented one or more of the children from making their escape
+- area of the fort extremely small, court-yard only thirty-five paces;  buildings surrounding occupied by sixteen persons; yet no-none of the jother eight heard a thing?
+- surgeon who examined bodies early in afternoon thought dead about fifteen hours.
 
 Mrs Harris
 
@@ -81,7 +84,7 @@ Burial
 
 - (before Weds 23 May, 1860) board guardians of Newport Union applied to by police to bury bodies
 - Funeral Sunday, 20th, 1-2000 people assembled;
-- sent over seven boxes, mother's stained black ("blackened over", a one disgusted correspondent wrote), and her children's white ("whitewashed")— scarcely to be designated coffins— into which remains indecently forced by pauper officials; some of coffins not large enough, bodies crushed into them with sacrilegious indecency, no funeral clothing, no attempt to perform normal offices; lids nailed on with a few common nails; piled House of Industry van/cart and sent at one o'clock to Brading Church for interment; arrived just before two o'clock; large crowd, including several men of Isle of Wight Militia Artillery, who volunteered to help move bodies into church, carried in on soldiers of Artillery men, and others, placed on 3 biers in centre aisle (mother and baby (Bobbie); two eldest girls (Molly and Lizzie); two other boys (Teddie and Willie) and youngest girl (Ellen)). Service read by vicar, Rev. Isidore? (D. J.?) Heath to densely crowded church / crammed full, hundreds came who could not obtain admission, but no relatives or friends. Interred in square grave, scarcely three feet deep, as indecent as all other aspects of funeral.
+- sent over seven boxes, mother's stained black ("blackened over", a one disgusted correspondent wrote), and her children's white ("whitewashed")— scarcely to be designated coffins— into which remains indecently forced by pauper officials; some of coffins not large enough, bodies crushed into them with sacrilegious indecency, no funeral clothing, no attempt to perform normal offices; lids nailed on with a few common nails; piled House of Industry van/cart and sent at one o'clock to Brading Church for interment; arrived just before two o'clock; large crowd, including several men of Isle of Wight Militia Artillery, who volunteered to help move bodies into church, carried in on soldiers of Artillery men, and others, placed on 3 biers in centre aisle (mother and baby (Bobbie); two eldest girls (Molly and Lizzie); two other boys (Freddie and Willie) and youngest girl (Ellen)). Service read by vicar, Rev. Isidore? (D. J.?) Heath to densely crowded church / crammed full, hundreds came who could not obtain admission, but no relatives or friends. Interred in square grave, scarcely three feet deep, as indecent as all other aspects of funeral.
 - solemn service concluded, procession reformed, proceeded to the grave, a vast hole of eight feet in width, five feet in depth, and seven feet in length, where remaining rites of church were performed, bodies lowered, amidst involuntary and unrestrained weepings and wailings of thousands there assembled;
 - Vicar then addressed the multitude on necessity of controlling tempers, and resisting temptation
 - many people flocked into the town, but, owing to the early hour of interment (2 o'clock) many were disappointed, it having been currently reported that the solemn ceremony would not take place until 4 o'clock
@@ -135,7 +138,7 @@ Robert Hoel (Hoare?)
 
 Occupiers of fort:
 
-- Lieut. Puckle, Lieut. Brigstocke, three officers' servants (George Bevis, James Chatfield, Racket)
+- Capt. Manners, Lieut. Puckle, Lieut. Brigstocke, three officers' servants (George Bevis, James Chatfield, Racket)
 - Corporal Eastley and family
 - Whitworth and family
 
@@ -145,8 +148,9 @@ Captain William Whichcot Manners
 - known Whitworth about 3 weeks, seemed a very odd man, continual grievance against some persons or other, esp. the engineers; had info to have some of the colonels or generals transported.
 - last saw Whitworth passing window on Weds or Thurs;
 - standing orders for for gate to shut at tattoo roll call, half-past 9. Keys left with servants till officers come in. No-one can go in or out without servants' knowledge
+- No sentries do duty at the fort, the custom being to lock the gates at 9.30 p.m. each day, and the keys are kept in the quarters of the officers’ servants. The persons in the fort  
 - dinner in Star and Garter Thursday evening, about half-past ten, and returned to fort about 10.30pm, door shut; called once or twice and kicked at the door, servant came; "Is Mr Puckle in?" "Yes, sir." "Okay - shut the door, then, and go to bed." All quiet; Whitworth's house quiet, no light on there, only in servant's room; went to bed about midnight; all was quiet.
-
+- sat up smoking in the room of a brother-officer until half-past 12 that night, and no noise was heard — the night was perfectly quiet. The surgeon who
 - went down to the fort, saw Daish outside house who said "it's an awful business"
 
 George Bevis
@@ -187,3 +191,5 @@ Winchester Summer Assizes, July 17
 - Whitworth placed his arm around neck of turnkey guarding him, smiled at and pointed to his lordship, appeared to be much amused at the appearance of the court. His Lordship: "He clearly would not know the difference between guilty, and not guilty." Dr. Lyford: I do not believe he would, my lord.
 - jury found prisoner was unable to plead.
 - gaoler motioned to prisoner to leave bar; appeared unable to comprehend meaning; eventually led away by arm, exclaimed loudly, "Gracious God, look down upon you all, miserable sinners."
+
+
