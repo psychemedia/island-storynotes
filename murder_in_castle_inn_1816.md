@@ -1,0 +1,8 @@
+# Murder in Castle Inn, 1816
+
+https://archive.org/details/annualregister100unkngoog/mode/2up?q=%22isle+of+wight%22
+The annual register for 1816
+
+p3
+
+2. An inquest was taken at the Guildhall, Newport, Isle of Wight, before Thomas Sewell, esq. coroner of the island, and a respectable jury, on the body of Charles Cavendish, Serjeant of the 75th regiment. It appeared in evidence, that the soldiers of the 75th, quartered in Newport;,agreed to dine together with their wives and families at the Castle-inn, on New-year's day: they made a subscription for the purpose, and engaged a room to themselves, where they all, to the number of 25, assembled at dinner at four o'clock: about half- past nine, a man of the 36th, named James M'Kean, opened the door and intruded himself into the room, and said he Avanted beer; he was civilly told, that if he wanted beer he must go to the tap-room, and Serjeant Grant put him gently into the passage, saying he would show him to the tap-room. — M'Kean immediately drew his bayonet, stabbed Serjeant Grant, and then ran away. Serjeant Cavendish was coming out of the kitchen as M'Kean ran by, he caught at him, but instantly fell back, crying "I am murdered." — M'Kean had at this instant his bayonet uplifted, as if in the act of stubbing. Cavendish expired in a few minutes. M'Kean was pursued and taken about a quarter of a mile from Newport, on the Carisbrookc road, with his bayonet drawn, with which he attempted to stab his pursuers. The jury returned a verdict of Wilful Murder against M'Kean, who was immediately committed to take his trial at the ensuing Assizes. M'Kean is further detained, under Lord Ellenborough's Act, on a charge of maliciously stabbing Serjeant Donald Grant, who, it is hoped, will recover.
