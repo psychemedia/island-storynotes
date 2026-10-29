@@ -524,7 +524,7 @@ In *Morning Post*, [Wednesday 29 June 1814](https://britishnewspaperarchive.co.u
 
 *Portsmouth, June 25,* 1814.
 
-His Royal Highness the Prince Regent was this day pleased, in ihe name and on the behalf of his Majesty, to confer the honour of Knighthood on Henry White, Esq. Mayor of Portsmouth.
+His Royal Highness the Prince Regent was this day pleased, in the name and on the behalf of his Majesty, to confer the honour of Knighthood on Henry White, Esq. Mayor of Portsmouth.
 ```
 
 For how long Ann White's third marriage lasted, I cannot say. But the story still doesn't quite end there, because a few years later, the name of Gilchrist, once of the 101st Regiment, crops up again.
