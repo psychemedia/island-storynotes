@@ -76,7 +76,30 @@ Major Lockyer and Mr. Hand were tried at Winchester Assizes, on the 7th of March
 
 ```
 
-So where does the story begin?
+```{admonition} A Telling
+:class: dropdown seealso
+
+It's 1817. The war with France is over, and the paid off soldiers are looking for new opportunities. Regiments are being raised to go and fight in the South American Patriot war against the Spanish, and ships are being chartered to take scratch made regiments, volunteers, some may call them, mercenaries others, over to join the fight.
+
+Moored off Cowes, the good ship Grace.
+
+Several men come ashore, get pissed. Play billiards. "We're all in debt aren't we?" "What?" "In debt, that's why we're going isn't it? *For the money.*" "Take that back.". "What?" "Take it back. How dare you say that? That I'm in debt?" "Oh come on, of course you are. We all are..." And then, to the side "D'you reckon he's bankrupted then? He's certainly slow to get a round in!" "Take. It. Back." "What? Look, of course we're all in debt. To God if no-one else..." "You will take it back, or I will see you at first light." "What the f...".
+
+A small boat goes over to the Grace, and shortly after returns. A box.
+
+At first light, the men walk up to Northwood. One of the seconds marks the distance. "This is ridiculous." One of the duellists keeps his hand by his side, the gun uncocked. Falls at the first shot, the only shot, from the other man. They flee, leaving just the doctor in attendance.
+
+The men abscond, are later apprehended in Portsmouth. Put on trial and found guilty of manslaughter.
+
+But the story doesn't quite end there.
+
+Not surprisingly, the duel has brought a certain amount of attention to the good ship Grace from which the duellists had come ashore. The Customs men go aboard to check the paperwork.
+
+No roster, and the ship is impounded. On further investigation, the owners have form *(but that's another tale altogether)*. Some time later, the Captain comes ashore, on-board, the passengers and crew are tired of waiting. They take things into their own hands, and set sail.
+
+And there the tale that does come to an end, a tale that I thought would be just a quick tale of a duel, but turned out to be a whole lot more. Because in historical tales in particular, one story often has the habit of turning into another.
+```
+But where does the *first draft of history* that tells the tale begin?
 
 In mid-December, 1817, two related items of news from Cowes made it into the London newspapers.
 
@@ -592,6 +615,7 @@ And from the *Inverness Courier* of the day before, [Thursday 23 April 1818](htt
 > The Caledonia, Hingston, from Liverpool to Prince Edward’s Island, was totally lost thw 9th inst at Ballyteague, County of Wexford. Three of the crew were drowned.
 
 ```{admonition} Returning to this odious subject, May 1818
+:class: dropdown
 
 In *Liverpool Mercury*, [Friday 22 May 1818](https://britishnewspaperarchive.co.uk/viewer/bl/0000081/18180522/017/0008).
 
@@ -710,7 +734,7 @@ In *Hampshire Chronicle*, [Monday 15 December 1817](https://britishnewspaperarch
 
 *Isle of Wight — Cowes, Dec. 12.*
 
-On Wednesday a duel was fought here between a Major Lockyer and a Mr. Sutton Cochrane, recently a Lieutenant of the Royal Navy, which proved fatal to the latter, he having received his antagonist's ball under the right breast which passed through both ventricles the heart and the lungs. These gentlemen, in company with upwards of 60 others, were going out as adventurers to South America in the ship Grace, Davy, master, now lying these roads wind-bound. The trifling difference between the parties arose in consequence of an unguarded expression from the deceased, the evening before, while regaling themselves with several others at an inn; he having asserted that they were all in debt and were seeking their fortunes; at which the Major felt very indignant, and asked if the other meant to include him? The deceased replied in the affirmative, and declared he would prove his assertion, which he did, by giving a very ingenious explanation, observing, if we were not in debt to any our fellow beings, we were all indebted to our Creator; but the Major not considering this explanation satisfactory, insisted on Mr. Cochrape's meeting him the next morning at the dawn of day, who very reluctantly fell into the measure, previously declaring, that he would not fire himself but if his opponent insisted, he would receive his fire. It was agreed they should both fire at one time, but when the signal was made, it was observed the deceased never raised his arm to level his pistol, while the ball of the other's unfortunately struck at the seat of life. When the deceased's pistol was examined afterwards, it was found neither unstopped nor cocked. The Major and the two seconds immediately decamped across the water. The deceased was a well educated and genteel young man, about 20 years of age, and, we believe, a relative of Lord Cochrane. —A Coroner's Inquest has sat on the body and the Jury delivered their verdict *Wilful Murder* against the principal and seconds, one whom we understand has been taken; and the most active exertions are now making for the apprehension of the others.
+On Wednesday a duel was fought here between a Major Lockyer and a Mr. Sutton Cochrane, recently a Lieutenant of the Royal Navy, which proved fatal to the latter, he having received his antagonist's ball under the right breast which passed through both ventricles the heart and the lungs. These gentlemen, in company with upwards of 60 others, were going out as adventurers to South America in the ship Grace, Davy, master, now lying these roads wind-bound. The trifling difference between the parties arose in consequence of an unguarded expression from the deceased, the evening before, while regaling themselves with several others at an inn; he having asserted that they were all in debt and were seeking their fortunes; at which the Major felt very indignant, and asked if the other meant to include him? The deceased replied in the affirmative, and declared he would prove his assertion, which he did, by giving a very ingenious explanation, observing, if we were not in debt to any our fellow beings, we were all indebted to our Creator; but the Major not considering this explanation satisfactory, insisted on Mr. Cochrane's meeting him the next morning at the dawn of day, who very reluctantly fell into the measure, previously declaring, that he would not fire himself but if his opponent insisted, he would receive his fire. It was agreed they should both fire at one time, but when the signal was made, it was observed the deceased never raised his arm to level his pistol, while the ball of the other's unfortunately struck at the seat of life. When the deceased's pistol was examined afterwards, it was found neither unstopped nor cocked. The Major and the two seconds immediately decamped across the water. The deceased was a well educated and genteel young man, about 20 years of age, and, we believe, a relative of Lord Cochrane. —A Coroner's Inquest has sat on the body and the Jury delivered their verdict *Wilful Murder* against the principal and seconds, one whom we understand has been taken; and the most active exertions are now making for the apprehension of the others.
 
 ```
 
